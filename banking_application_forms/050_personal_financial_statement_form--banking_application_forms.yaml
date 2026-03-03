@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Financial Statement Form
+    pages:
+    - id: 1
+      name: personal_financial_statement_form_1
+      label: Income
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: personal_financial_statement_form_2
+      label: Assets
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: personal_financial_statement_form_3
+      label: Liabilities
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: personal_financial_statement_form_4
+      label: Income Sources
+      hint: null
+      type: select_multiple
+      options:
+      - alimony
+      - rental income
+      - interest income
+      required: false
+    - id: 5
+      name: personal_financial_statement_form_5
+      label: Asset Types
+      hint: null
+      type: select_one
+      options:
+      - cash
+      - property
+      - stock
+      required: false
+    - id: 6
+      name: personal_financial_statement_form_6
+      label: Asset Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: liability_types
+      label: Liability Types
+      hint: null
+      type: select_one
+      options:
+      - credit card
+      - loans
+      - alimony
+      required: false
+    - id: 8
+      name: liability_value
+      label: Liability Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: text
+      options: []
+      required: false

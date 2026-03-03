@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Visitor Management Checklist Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: company
+      label: Company
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: purpose_visit
+      label: Purpose of Visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: expected_departure_time
+      label: Expected Departure Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: visitor_name
+      label: Visitor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: visitor_company
+      label: Visitor Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: visitor_title
+      label: Visitor Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: employee_title
+      label: Employee Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: visitor_status
+      label: Visitor Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 17
+      name: visitor_group
+      label: Visitor Group
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: employee_status
+      label: Employee Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false

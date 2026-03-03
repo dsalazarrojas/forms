@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Swimming Assessment Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: birth_date
+      label: Birthday
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: swim_event
+      label: Swim Event
+      hint: null
+      type: select_multiple
+      options:
+      - Event 1
+      - Event 2
+      - Event 3
+      - Event 4
+      required: false
+    - id: 5
+      name: assessment_date
+      label: Date of Assessment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: swim_type
+      label: Type of Swim
+      hint: null
+      type: select_one
+      options:
+      - Freestyle
+      - Backstroke
+      - Breaststroke
+      - Butterfly
+      required: false
+    - id: 10
+      name: swim_strokes
+      label: Strokes
+      hint: null
+      type: select_multiple
+      options:
+      - Freestyle
+      - Backstroke
+      - Breaststroke
+      - Butterfly
+      required: false
+    - id: 11
+      name: assessment_results
+      label: Assessment Results
+      hint: Please select any of the following assessment options
+      type: select_multiple
+      options:
+      - Strong
+      - Weak
+      - Average
+      required: false
+    - id: 12
+      name: assessment_outcome
+      label: Assessment Outcome
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - N/A
+      required: false
+    - id: 13
+      name: assessment_comments
+      label: Assessment Comments
+      hint: Please describe the assessment results
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Please enter your emergency contact person's name
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Please enter your emergency contact person's phone number
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: medical_condition
+      label: Medical Condition
+      hint: Are you having any medical condition that may affect your participation
+        in this swim program?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: swimming_frequency
+      label: Swimming Frequency
+      hint: How often do you swim?
+      type: select_multiple
+      options:
+      - Never
+      - Occasionally
+      - Often
+      - Daily
+      required: false
+    - id: 21
+      name: swimming_distance
+      label: Swimming Distance
+      hint: What is your swimming distance?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: swimming_style
+      label: Swimming Style
+      hint: What style of swimming do you do most often?
+      type: select_multiple
+      options:
+      - Freestyle
+      - Backstroke
+      - Breaststroke
+      - Butterfly
+      required: false
+    - id: 23
+      name: water_surface
+      label: What kind of water surface
+      hint: What surface do you prefer for your swim training?
+      type: select_multiple
+      options:
+      - 25m pool
+      - open water
+      - other (please describe)
+      required: false
+    - id: 24
+      name: assessment_status
+      label: Assessment Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Incomplete
+      - Pending
+      required: false
+    - id: 25
+      name: swim_testimonial
+      label: Testimonial
+      hint: null
+      type: text
+      options: []
+      required: false

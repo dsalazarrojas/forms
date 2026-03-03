@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Event Permit Request Form
+    pages:
+    - id: 1
+      name: event_overview
+      label: -- Event Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: Event name
+      hint: Official event title
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organizer_name
+      label: Organizer name
+      hint: Individual or organization responsible
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organizer_contact_email
+      label: Organizer contact email
+      hint: Email for permit communication
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: event_date
+      label: Event date
+      hint: Start date of event
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: event_start_time
+      label: Event start time
+      hint: Local time the event will start
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: expected_attendance
+      label: Expected attendance
+      hint: Approximate number of attendees
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: location_address
+      label: Location address
+      hint: Full address for the event
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: required_permits
+      label: Required permits and services
+      hint: Security, road closure, noise permit
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: safety_plan
+      label: Safety plan summary
+      hint: Brief description of crowd management and first aid
+      type: text
+      options: []
+      required: true

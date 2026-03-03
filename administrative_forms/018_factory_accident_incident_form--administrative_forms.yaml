@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: factory accident incident form
+    pages:
+    - id: 1
+      name: accident_details
+      label: Accident Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_injured
+      label: Employee Injured
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: incident_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: incident_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: incident_reported_by
+      label: Reported By
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: incident_cause
+      label: Incident Cause
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: incident_injuries
+      label: Injuries
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_illnesses
+      label: Illnesses
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: incident_damage
+      label: Damage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: incident_property_damage
+      label: Property Damage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_investigation
+      label: Investigation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: incident_outcome
+      label: Outcome
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: incident_follow_up
+      label: Follow-up
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: incident_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: incident_attachments
+      label: Attachments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: incident_other_details
+      label: Other Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: incident_reported_by_email
+      label: Reported By Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: incident_reported_by_phone
+      label: Reported By Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: incident_reported_by_other
+      label: Reported By Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: incident_reported_by_other_other
+      label: Reported By Other Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: incident_reported_by_other_details
+      label: Reported By Other Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: incident_reported_by_phone_number
+      label: Reported By Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: incident_illnesses_injured
+      label: Illnesses Injured
+      hint: null
+      type: text
+      options: []
+      required: false

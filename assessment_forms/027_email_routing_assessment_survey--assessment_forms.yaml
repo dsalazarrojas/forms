@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Email Routing Assessment Survey
+    pages:
+    - id: 1
+      name: page_one
+      label: email_routing_assessment_survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: email_routing_process
+      label: email_routing_process
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 2.1, ''name'': ''option_1'', ''label'': ''option_1''}'
+      - '{''id'': 2.2, ''name'': ''option_2'', ''label'': ''option_2''}'
+      - '{''id'': 2.3, ''name'': ''option_3'', ''label'': ''option_3''}'
+      required: true
+    - id: 3
+      name: email_frequency
+      label: email_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 3.1, ''name'': ''option_4'', ''label'': ''option_4''}'
+      - '{''id'': 3.2, ''name'': ''option_5'', ''label'': ''option_5''}'
+      required: false
+    - id: 4
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: email_sensitivity
+      label: email_sensitivity
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 5.1, ''name'': ''option_6'', ''label'': ''option_6''}'
+      - '{''id'': 5.2, ''name'': ''option_7'', ''label'': ''option_7''}'
+      required: true
+    - id: 6
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: page_two
+      label: page_two
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: email_priority
+      label: email_priority
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 8.1, ''name'': ''option_8'', ''label'': ''option_8''}'
+      - '{''id'': 8.2, ''name'': ''option_9'', ''label'': ''option_9''}'
+      required: false
+    - id: 9
+      name: email_routing_pain_points
+      label: email_routing_pain_points
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email_routing_improvement_plan
+      label: email_routing_improvement_plan
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email_routing_process_satisfaction
+      label: email_routing_process_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 11.1, ''name'': ''option_10'', ''label'': ''option_10''}'
+      - '{''id'': 11.2, ''name'': ''option_11'', ''label'': ''option_11''}'
+      required: true
+    - id: 12
+      name: email_routing_improvement_plan_pain_points
+      label: email_routing_improvement_plan_pain_points
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email_routing_improvement_plan_priorities
+      label: email_routing_improvement_plan_priorities
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 13.1, ''name'': ''option_12'', ''label'': ''option_12''}'
+      - '{''id'': 13.2, ''name'': ''option_13'', ''label'': ''option_13''}'
+      required: false
+    - id: 14
+      name: email_sensitivity_pain_points
+      label: email_sensitivity_pain_points
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: email_sensitivity_improvement_priorities
+      label: email_sensitivity_improvement_priorities
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 15.1, ''name'': ''option_14'', ''label'': ''option_14''}'
+      - '{''id'': 15.2, ''name'': ''option_15'', ''label'': ''option_15''}'
+      required: false
+    - id: 16
+      name: email_sensitivity_frequency
+      label: email_sensitivity_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 16.1, ''name'': ''option_16'', ''label'': ''option_16''}'
+      - '{''id'': 16.2, ''name'': ''option_17'', ''label'': ''option_17''}'
+      required: false
+    - id: 17
+      name: email_sensitivity_satisfaction
+      label: email_sensitivity_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: email_sensitivity_improvement_plan
+      label: email_sensitivity_improvement_plan
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: email_sensitivity_improvement_priorities
+      label: email_sensitivity_improvement_priorities
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 19.1, ''name'': ''option_18'', ''label'': ''option_18''}'
+      - '{''id'': 19.2, ''name'': ''option_19'', ''label'': ''option_19''}'
+      required: false
+    - id: 20
+      name: email_sensitivity_frequency_pain_points
+      label: email_sensitivity_frequency_pain_points
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: page_three
+      label: page_three
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: email_sensitivity_improvement_frequency_pain_points
+      label: email_sensitivity_improvement_frequency_pain_points
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: email_priority_frequency
+      label: email_priority_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 23.1, ''name'': ''option_20'', ''label'': ''option_20''}'
+      - '{''id'': 23.2, ''name'': ''option_21'', ''label'': ''option_21''}'
+      required: false
+    - id: 24
+      name: email_priority_satisfaction
+      label: email_priority_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: email_priority_improvement_frequency
+      label: email_priority_improvement_frequency
+      hint: null
+      type: note
+      options: []
+      required: false

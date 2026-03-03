@@ -1,0 +1,370 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Model Release Form
+    pages:
+    - id: 1
+      name: vehicle_owner_information
+      label: Vehicle Owner Information
+      hint: Please provide your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: owner_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: owner_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: owner_email
+      label: Email Address
+      hint: For communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: owner_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: owner_address
+      label: Street Address
+      hint: Your address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: owner_city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: owner_state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: owner_zip
+      label: ZIP Code
+      hint: Your ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: vehicle_information
+      label: Vehicle Information
+      hint: Details about the vehicle
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_year
+      label: Vehicle Year
+      hint: Year
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: vehicle_make
+      label: Vehicle Make
+      hint: Manufacturer
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: vehicle_model
+      label: Vehicle Model
+      hint: Model
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: vehicle_color
+      label: Vehicle Color
+      hint: Exterior color
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: vehicle_vin
+      label: VIN
+      hint: Vehicle Identification Number
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: vehicle_license_plate
+      label: License Plate
+      hint: Plate number
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: vehicle_distinguishing_features
+      label: Distinguishing Features
+      hint: Any unique modifications or features
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: release_details
+      label: Release Details
+      hint: Usage permissions
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: photographer_requester
+      label: Photographer/Requester Name
+      hint: Who is requesting the release?
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: photographer_company
+      label: Photographer Company
+      hint: Company or organization
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: intended_use
+      label: Intended Use
+      hint: How will the images be used?
+      type: select_multiple
+      options:
+      - Commercial advertising
+      - Editorial/News
+      - Social media
+      - Portfolio
+      - Art exhibition
+      - Book/Magazine publication
+      - Website
+      - Promotional materials
+      - Other
+      required: true
+    - id: 22
+      name: usage_duration
+      label: Usage Duration
+      hint: How long will images be used?
+      type: select_one
+      options:
+      - One-time use
+      - Up to 1 year
+      - 1-3 years
+      - 3-5 years
+      - Perpetual/Unlimited
+      required: true
+    - id: 23
+      name: usage_territory
+      label: Usage Territory
+      hint: Where will images be used?
+      type: select_one
+      options:
+      - Local/Regional
+      - National
+      - International
+      - Online only
+      - Print only
+      - Both online and print
+      required: true
+    - id: 24
+      name: compensation
+      label: Compensation
+      hint: Will you be compensated?
+      type: select_one
+      options:
+      - No compensation
+      - Monetary payment
+      - Trade/Services
+      - Print credit
+      - Other
+      required: true
+    - id: 25
+      name: compensation_amount
+      label: Compensation Amount
+      hint: Amount if applicable
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: exclusive_rights
+      label: Exclusive Rights
+      hint: Will photographer have exclusive rights?
+      type: select_one
+      options:
+      - Yes - exclusive use
+      - No - non-exclusive
+      - Limited exclusivity
+      required: true
+    - id: 27
+      name: modifications_allowed
+      label: Image Modifications
+      hint: Can images be modified?
+      type: select_one
+      options:
+      - Yes - any modifications
+      - Yes - minor edits only
+      - No - no modifications
+      - Case by case
+      required: true
+    - id: 28
+      name: attribution_required
+      label: Attribution Required
+      hint: Do you require credit?
+      type: select_one
+      options:
+      - Yes - must credit owner
+      - No - no credit needed
+      - Optional
+      required: true
+    - id: 29
+      name: shoot_details
+      label: Shoot Details
+      hint: Information about the photo session
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: shoot_date
+      label: Shoot Date
+      hint: When were/will photos be taken?
+      type: date
+      options: []
+      required: true
+    - id: 31
+      name: shoot_location
+      label: Shoot Location
+      hint: Where were/will photos be taken?
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: shoot_time
+      label: Shoot Time
+      hint: Time of shoot
+      type: time
+      options: []
+      required: false
+    - id: 33
+      name: vehicle_condition_at_shoot
+      label: Vehicle Condition at Shoot
+      hint: Condition of vehicle
+      type: select_one
+      options:
+      - Excellent/Showroom
+      - Good/Clean
+      - Fair/Normal wear
+      - Modified/Custom
+      required: true
+    - id: 34
+      name: additional_vehicles
+      label: Additional Vehicles
+      hint: Are other vehicles included?
+      type: select_one
+      options:
+      - No - just this vehicle
+      - Yes - multiple vehicles
+      required: true
+    - id: 35
+      name: additional_vehicle_details
+      label: Additional Vehicle Details
+      hint: List other vehicles
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: restrictions
+      label: Usage Restrictions
+      hint: Any restrictions on use?
+      type: select_one
+      options:
+      - No restrictions
+      - No political use
+      - No adult content
+      - No competitor brands
+      - Other restrictions
+      required: true
+    - id: 37
+      name: restriction_details
+      label: Restriction Details
+      hint: Describe restrictions
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: legal_agreement
+      label: Legal Agreement
+      hint: Terms and conditions
+      type: note
+      options: []
+      required: false
+    - id: 39
+      name: ownership_confirmation
+      label: Ownership Confirmation
+      hint: Do you own this vehicle?
+      type: select_one
+      options:
+      - Yes - I am the legal owner
+      - Yes - I am authorized representative
+      - No - I am not authorized
+      required: true
+    - id: 40
+      name: authorization_documentation
+      label: Authorization Documentation
+      hint: If not owner, do you have authorization?
+      type: select_one
+      options:
+      - Not applicable
+      - Yes - will provide
+      - Yes - attached
+      - false
+      required: false
+    - id: 41
+      name: release_agreement
+      label: Release Agreement
+      hint: Do you agree to release terms?
+      type: select_one
+      options:
+      - I agree to all terms and grant permission
+      - I do not agree
+      required: true
+    - id: 42
+      name: owner_signature
+      label: Owner Signature Confirmation
+      hint: Confirm your agreement
+      type: select_one
+      options:
+      - I hereby sign and agree to this release
+      - I do not agree
+      required: true
+    - id: 43
+      name: witness_name
+      label: Witness Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 44
+      name: release_date
+      label: Release Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

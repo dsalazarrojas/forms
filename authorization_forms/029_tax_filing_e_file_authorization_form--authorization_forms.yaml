@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Filing E File Authorization Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_address
+      label: Client Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: e_file_authorization
+      label: E-File Authorization
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 5
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: authorized_rep
+      label: Authorized Representative
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: authorized_rep_title
+      label: Authorized Representative Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: authorized_rep_phone
+      label: Authorized Representative Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: authorized_rep_email
+      label: Authorized Representative Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: rep_signature
+      label: Authorized Representative Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_footer
+      label: Form Footer
+      hint: null
+      type: text
+      options: []
+      required: false

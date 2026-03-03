@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Editable Monthly Calendar
+    pages:
+    - id: 1
+      name: calendar_month
+      label: Calendar Month
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: calendar_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: calendar_start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: calendar_end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: calendar_duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: calendar_all_day
+      label: All Day
+      hint: null
+      type: select_one
+      options:
+      - All Day
+      - Half Day
+      - Full Day
+      required: false
+    - id: 7
+      name: calendar_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: calendar_organizer
+      label: Organizer
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: calendar_recurring
+      label: Recurring
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: calendar_tags
+      label: Tags
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

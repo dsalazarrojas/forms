@@ -1,0 +1,107 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Ledger Review Registration Form
+    pages:
+    - id: 1
+      name: reviewer_name
+      label: Reviewer Name
+      hint: Full name of the person conducting the ledger review
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reviewer_employee_id
+      label: Reviewer Employee ID
+      hint: Internal employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reviewer_department
+      label: Reviewer Department
+      hint: Department the reviewer belongs to
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: ledger_type
+      label: Type of Ledger to Review
+      hint: Select the type of ledger that requires review
+      type: select_one
+      options: ["General Ledger", "Accounts Receivable", "Accounts Payable", "Fixed Assets", "Cash Book", "Sales Ledger", "Purchase Ledger", "Other"]
+      required: true
+    - id: 5
+      name: ledger_period
+      label: Ledger Period to Review
+      hint: Specify the accounting period for the ledger review
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: review_start_date
+      label: Review Start Date
+      hint: Date when the ledger review will begin
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: review_end_date
+      label: Expected Review End Date
+      hint: Date when the ledger review is expected to be completed
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: ledger_owner
+      label: Ledger Owner
+      hint: Name of the person responsible for maintaining this ledger
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: review_purpose
+      label: Purpose of the Review
+      hint: Why is this ledger review being conducted
+      type: select_one
+      options: ["Monthly reconciliation", "Quarterly audit preparation", "Annual financial statements", "Issue investigation", "Compliance requirement", "Process improvement"]
+      required: true
+    - id: 10
+      name: review_scope
+      label: Scope of the Review
+      hint: What aspects of the ledger will be reviewed
+      type: select_multiple
+      options: ["Account balances", "Transaction accuracy", "Supporting documentation", "Journal entries", "Adjusting entries", "Closing entries", "Reconciliation completeness"]
+      required: true
+    - id: 11
+      name: priority_level
+      label: Priority Level
+      hint: How urgent is this ledger review
+      type: select_one
+      options: ["Low", "Medium", "High", "Critical"]
+      required: true
+    - id: 12
+      name: expected_outcomes
+      label: Expected Outcomes
+      hint: What do you expect to achieve from this review
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: special_requirements
+      label: Special Requirements or Instructions
+      hint: Any specific requirements for conducting the review
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commission Approval Form
+    pages:
+    - id: 1
+      name: section_salesperson_info
+      label: -- Salesperson Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee Identification Number
+      hint: Required for internal tracking
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_full_name
+      label: Full Name of Salesperson
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: sales_department
+      label: Sales Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_sale_details
+      label: -- Sale and Customer Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: customer_company_name
+      label: Customer or Company Name
+      hint: The name of the client who made the purchase
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: invoice_number
+      label: Reference Invoice Number
+      hint: Connect the commission to a specific sale
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: total_sale_value
+      label: Total Sale Value
+      hint: Exclusive of taxes and shipping
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: date_of_sale
+      label: Date Sale was Completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: product_sold_category
+      label: Product or Service Category
+      hint: null
+      type: select_one
+      options:
+      - Software
+      - Hardware
+      - Services
+      - Subscriptions
+      - Consulting
+      required: true
+    - id: 11
+      name: section_commission_calculation
+      label: -- Commission Calculation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: commission_rate_applied
+      label: Applied Commission Rate (%)
+      hint: Percentage used for this calculation
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: calculated_commission_amount
+      label: Total Commission Amount to be Paid
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: additional_bonuses
+      label: Any Performance Bonuses Included
+      hint: If applicable, enter amount
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: section_manager_approval
+      label: -- Manager Approval --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: manager_full_name
+      label: Approving Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: manager_id
+      label: Manager Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: approval_status
+      label: Commission Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Pending Further Review
+      - Rejected
+      required: true
+    - id: 19
+      name: rejection_reason
+      label: Reason for Rejection or Review
+      hint: Only if not approved
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: date_of_approval
+      label: Date of Manager Approval
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: manager_notes
+      label: Additional Internal Notes
+      hint: For HR or Payroll use
+      type: text
+      options: []
+      required: false

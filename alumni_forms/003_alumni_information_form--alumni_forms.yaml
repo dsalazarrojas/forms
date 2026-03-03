@@ -1,0 +1,300 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alumni Information Form
+    pages:
+    - id: 1
+      name: section_contact_info
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: middle_name
+      label: Middle Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: maiden_name
+      label: Maiden Name (if applicable)
+      hint: For alumni records cross-reference
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email_primary
+      label: Primary Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: email_secondary
+      label: Secondary Email Address
+      hint: Optional backup email
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_mobile
+      label: Mobile Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: phone_home
+      label: Home Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: state_province
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: zip_postal
+      label: ZIP/Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - Other
+      required: true
+    - id: 15
+      name: section_academic_record
+      label: -- Academic Record --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: graduation_year
+      label: Graduation Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: degree_type
+      label: Degree Type
+      hint: null
+      type: select_one
+      options:
+      - Associate Degree
+      - Bachelor's Degree
+      - Master's Degree
+      - Doctorate (PhD)
+      - Professional Degree (JD, MD)
+      - Certificate
+      - Did not graduate
+      required: true
+    - id: 18
+      name: major_primary
+      label: Primary Major
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: major_secondary
+      label: Secondary Major/Minor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: student_id
+      label: Student ID Number
+      hint: If you remember it
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_family_info
+      label: -- Family Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: marital_status
+      label: Marital Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Domestic Partnership
+      - Divorced
+      - Widowed
+      - Prefer not to say
+      required: false
+    - id: 23
+      name: spouse_name
+      label: Spouse/Partner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: spouse_alumni
+      label: Is your spouse/partner also an alumnus
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: false
+    - id: 25
+      name: children_count
+      label: Number of Children
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: section_employment
+      label: -- Employment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: employment_status
+      label: Current Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed Full-time
+      - Employed Part-time
+      - Self-employed/Business Owner
+      - Unemployed - Seeking
+      - Unemployed - Not Seeking
+      - Retired
+      - Student
+      required: true
+    - id: 28
+      name: employer_name
+      label: Employer/Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: job_title
+      label: Job Title/Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: industry_field
+      label: Industry/Field
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: work_email
+      label: Work Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 32
+      name: work_phone
+      label: Work Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: section_updates
+      label: -- Updates and Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: news_interest
+      label: I would like to receive alumni news and updates
+      hint: null
+      type: select_one
+      options:
+      - Yes - Email
+      - Yes - Postal Mail
+      - Yes - Both
+      - No - Thank you
+      required: true
+    - id: 35
+      name: event_notifications
+      label: I want to be notified about upcoming alumni events
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 36
+      name: directory_listing
+      label: Include my information in the alumni directory
+      hint: This allows other alumni to connect with you
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 37
+      name: additional_notes
+      label: Additional Information or Updates
+      hint: Share any other information you would like us to know
+      type: text
+      options: []
+      required: false

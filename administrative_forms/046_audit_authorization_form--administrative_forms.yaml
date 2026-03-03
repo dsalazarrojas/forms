@@ -1,0 +1,140 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Audit Authorization Form
+    pages:
+      - id: 1
+        name: section_audit_details
+        label: -- Audit Identification --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: audit_id_reference
+        label: Audit ID Reference
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: audit_type
+        label: Type of Audit
+        hint: null
+        type: select_one
+        options:
+          - Financial Audit
+          - Compliance Audit
+          - Operational Audit
+          - IT/Cybersecurity Audit
+          - Safety and Environmental Audit
+        required: true
+      - id: 4
+        name: lead_auditor_name
+        label: Lead Auditor Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: authorized_department
+        label: Department to be Audited
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: section_authorization
+        label: -- Authorization Terms --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: audit_scope_summary
+        label: Summary of Audit Scope
+        hint: What processes or areas are covered?
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: access_requirements
+        label: Access Permissions Granted
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Full Physical Access to Premises
+          - Access to Digital Records and Systems
+          - Interviews with Staff
+          - Remote Monitoring/Observation
+        required: true
+      - id: 9
+        name: expected_start_date
+        label: Expected Start Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 10
+        name: expected_end_date
+        label: Expected End Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 11
+        name: authorization_level
+        label: Level of Authorization Granted
+        hint: null
+        type: select_one
+        options:
+          - Full Unrestricted Access
+          - Limited Access (Scope restricted)
+          - One-time Access
+        required: true
+      - id: 12
+        name: section_approval
+        label: -- Official Approval --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: authorized_official_name
+        label: Authorizing Official Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 14
+        name: official_title
+        label: Official Title
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: signature_date
+        label: Date of Authorization
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 16
+        name: digital_signature
+        label: Official Digital Signature
+        hint: null
+        type: text
+        options: []
+        required: true

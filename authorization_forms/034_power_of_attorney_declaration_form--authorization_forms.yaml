@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Power Of Attorney Declaration Form
+    pages:
+    - id: 1
+      name: legal_name
+      label: Legal Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: legal_address
+      label: legal address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: state_province
+      label: stateprovince
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: agent_name
+      label: Agent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: agent_address
+      label: Agent Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email_address
+      label: email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: agent_authorized_to
+      label: agent authorized to
+      hint: null
+      type: select_one
+      options:
+      - bank
+      - investment
+      - business
+      - legal
+      - taxes
+      - real estate
+      - insurance
+      - other
+      required: false
+    - id: 10
+      name: authorization_date
+      label: Authorization Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: agent_contact_number
+      label: Agent Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notarized_by
+      label: Notarized By
+      hint: null
+      type: select_one
+      options:
+      - notary1
+      - notary2
+      - notary3
+      - notary4
+      - notary5
+      required: false

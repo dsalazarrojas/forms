@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: it_autonomy_assessment
+    pages:
+    - id: 1
+      name: intro_page
+      label: Intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: manager_rating
+      label: Manager Rating
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 3
+      name: self_service_page
+      label: Self-Service
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Highly''}'
+      - '{''value'': ''Moderately''}'
+      - '{''value'': ''Not At All''}'
+      required: false
+    - id: 4
+      name: training_page
+      label: Training History
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Highly''}'
+      - '{''value'': ''Moderately''}'
+      - '{''value'': ''Not At All''}'
+      required: false
+    - id: 5
+      name: training_plan
+      label: Training Plan
+      hint: What specific training will you require in the next 6 months?
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: it_skills_page
+      label: IT Skills
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: technical_skills
+      label: Technical Skills
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: communication_skills
+      label: Communication Skills
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: collaboration_skills
+      label: Collaboration Skills
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: problem_solving_skills
+      label: Problem Solving Skills
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: adaptability_skills
+      label: Adaptability Skills
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

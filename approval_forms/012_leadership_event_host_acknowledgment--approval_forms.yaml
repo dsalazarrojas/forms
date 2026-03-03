@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: leadership_event_host_acknowledgment
+    pages:
+    - id: 1
+      name: event_name
+      label: event_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_host
+      label: host_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: host_name
+      label: host_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: host_title
+      label: title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: host_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: host_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: event_type
+      label: event_type
+      hint: null
+      type: select_one
+      options:
+      - workshops
+      - conferences
+      - leadership_programs
+      required: true
+    - id: 10
+      name: event_capacity
+      label: capacity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: confirm_host_name
+      label: confirm_host_name
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: confirmation_date
+      label: confirm_date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: store_visit_checklist
+    pages:
+    - id: 1
+      name: store_inspection
+      label: store_inspection
+      hint: null
+      type: select_one
+      options:
+      - Store Inspection
+      - Store Audit
+      - Store Review
+      - Store Analysis
+      required: false
+    - id: 2
+      name: store_address
+      label: store_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: store_contact
+      label: store_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: store_hours
+      label: store_hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: store_manager
+      label: store_manager
+      hint: null
+      type: select_multiple
+      options:
+      - John Doe
+      - Jane Doe
+      - Jim Brown
+      required: false
+    - id: 6
+      name: store_notes
+      label: store_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: store_rating
+      label: store_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: store_review_date
+      label: store_review_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: store_visit_details
+      label: store_visit_details
+      hint: null
+      type: text
+      options: []
+      required: false

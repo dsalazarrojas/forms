@@ -1,0 +1,95 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Children Mood Assessment Questionnaire
+    pages:
+      - id: 1
+        name: child_name
+        label: Child Name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: respondent_role
+        label: Respondent Role
+        hint: Select your relationship to the child
+        type: select_one
+        options:
+          - Parent
+          - Teacher
+          - Caregiver
+          - Clinician
+        required: true
+      - id: 3
+        name: current_mood
+        label: Current Mood
+        hint: Choose best description
+        type: select_one
+        options:
+          - Happy
+          - Sad
+          - Anxious
+          - Irritable
+        required: true
+      - id: 4
+        name: mood_frequency
+        label: Frequency of Mood Changes
+        hint: How often mood shifts occur
+        type: select_one
+        options:
+          - Rarely
+          - Sometimes
+          - Often
+          - Very Often
+        required: true
+      - id: 5
+        name: sleep_changes
+        label: Changes in Sleep
+        hint: Note any changes in sleep patterns
+        type: select_one
+        options:
+          - No change
+          - Less sleep
+          - More sleep
+          - Interrupted sleep
+        required: false
+      - id: 6
+        name: appetite_changes
+        label: Appetite Changes
+        hint: Any significant appetite changes
+        type: select_one
+        options:
+          - No change
+          - Decreased
+          - Increased
+        required: false
+      - id: 7
+        name: functional_impact
+        label: Impact on Daily Functioning
+        hint: Does mood affect school or relationships
+        type: select_one
+        options:
+          - No impact
+          - Mild impact
+          - Moderate impact
+          - Severe impact
+        required: true
+      - id: 8
+        name: additional_observations
+        label: Additional Observations
+        hint: Any other details to report
+        type: text
+        options: []
+        required: false

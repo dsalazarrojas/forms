@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Authority To Lodge Form
+    pages:
+    - id: 1
+      name: authorization_date
+      label: Authorization Date
+      hint: Date of this authorization
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: principal_name
+      label: Principal Full Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: principal_address
+      label: Principal Address
+      hint: Your residential address
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: principal_city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: principal_state
+      label: State or Province
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: principal_postal_code
+      label: Postal Code
+      hint: Your postal code
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: principal_email
+      label: Email Address
+      hint: Your email contact
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: principal_phone
+      label: Phone Number
+      hint: Your phone contact
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: agent_name
+      label: Agent Full Name
+      hint: Name of authorized agent
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: agent_relationship
+      label: Relationship to Principal
+      hint: How is agent related to you
+      type: select_one
+      options:
+      - Family Member
+      - Attorney/Lawyer
+      - Accountant
+      - Business Partner
+      - Trusted Friend
+      - Professional Agent
+      - Other
+      required: true
+    - id: 11
+      name: agent_address
+      label: Agent Address
+      hint: Agent's address
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: agent_phone
+      label: Agent Phone
+      hint: Agent's contact phone
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: agent_email
+      label: Agent Email
+      hint: Agent's email address
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: lodgement_type
+      label: Type of Lodgement Authority
+      hint: What can the agent lodge
+      type: select_one
+      options:
+      - Applications
+      - Documents
+      - Claims
+      - Appeals
+      - Permits
+      - Registrations
+      - Multiple Types
+      - Other
+      required: true
+    - id: 15
+      name: specific_application
+      label: Specific Application or Document
+      hint: What specifically to lodge
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: organization_name
+      label: Organization Where Lodging
+      hint: Government agency or organization
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: scope_of_authority
+      label: Scope of Authority
+      hint: How broad is the agent's authority
+      type: select_one
+      options:
+      - Limited - Specific Task Only
+      - General - Related Applications
+      - Broad - All Related Matters
+      - Unlimited - Any Lodgement
+      required: true
+    - id: 18
+      name: authority_limitations
+      label: Specific Limitations on Authority
+      hint: Are there restrictions
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: financial_authority
+      label: Financial Authority Included
+      hint: Can agent handle payments
+      type: select_one
+      options:
+      - Yes - Full Financial Authority
+      - Yes - For Fees Only
+      - No - No Financial Authority
+      - Limited - With Approval
+      required: true
+    - id: 20
+      name: signature_authority
+      label: Agent Can Sign on Your Behalf
+      hint: Authority to sign documents
+      type: select_one
+      options:
+      - Yes - Full Signing Authority
+      - Yes - Limited Signing
+      - No - Cannot Sign
+      - Electronic Signature Only
+      required: true
+    - id: 21
+      name: start_date
+      label: Authority Effective Date
+      hint: When does authority begin
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: end_date
+      label: Authority End Date
+      hint: When does authority expire
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: duration_type
+      label: Duration Type
+      hint: How long is this valid for
+      type: select_one
+      options:
+      - Indefinite Until Revoked
+      - Fixed Period
+      - Single Transaction
+      - Specified Number of Uses
+      required: true
+    - id: 24
+      name: revocation_procedure
+      label: How Can Authority Be Revoked
+      hint: How to terminate authority
+      type: select_one
+      options:
+      - Written Notice
+      - Email Notification
+      - Phone Call
+      - In Person
+      - Automatic Upon Date
+      required: true
+    - id: 25
+      name: principal_authorization
+      label: Principal Authorization and Consent
+      hint: Do you authorize this agent
+      type: select_one
+      options:
+      - Yes - I Authorize
+      - No - Do Not Authorize
+      required: true

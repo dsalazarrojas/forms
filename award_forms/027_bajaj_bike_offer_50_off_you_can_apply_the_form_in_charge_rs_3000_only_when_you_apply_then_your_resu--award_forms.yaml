@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bajaj Bike Offer Application Form
+    pages:
+    - id: 1
+      name: section_intro
+      label: -- Limited Time Offer - 50% Off --
+      hint: Apply now for special Bajaj motorcycle pricing
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: applicant_phone
+      Label: Contact Number
+      hint: null
+      type: phone
+      options: []
+      required: true
+    - id: 5
+      name: applicant_address
+      label: Full Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      Label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_bike_selection
+      label: -- Bike Model Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: preferred_model
+      Label: Preferred Bajaj Bike Model
+      hint: null
+      type: select_one
+      options:
+      - Bajaj Pulsar
+      - Bajaj Discover
+      - Bajaj Avenger
+      - Bajaj CT100
+      - Bajaj Dominar
+      - Other
+      required: true
+    - id: 9
+      name: model_variant
+      Label: Model Variant or Color Preference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_finance
+      label: -- Financial Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: purchase_method
+      Label: Purchase Method
+      hint: null
+      type: select_one
+      options:
+      - Cash Payment
+      - Bike Loan
+      - EMI Installment
+      - Exchange Trade-In
+      required: true
+    - id: 12
+      name: down_payment_amount
+      Label: Down Payment Amount (in INR)
+      hint: null
+      type: decimal
+      options: []
+      required: false
+    - id: 13
+      name: monthly_budget
+      Label: Monthly Budget Capacity (if financing)
+      hint: In Indian Rupees
+      type: decimal
+      options: []
+      required: false
+    - id: 14
+      name: employment_status
+      Label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Self-Employed
+      - Student
+      - Unemployed
+      - Retired
+      required: true
+    - id: 15
+      name: annual_income
+      Label: Annual Income Range
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 Lakh
+      - 1-3 Lakhs
+      - 3-5 Lakhs
+      - 5-10 Lakhs
+      - 10+ Lakhs
+      required: false
+    - id: 16
+      name: section_documents
+      label: -- Documentation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: aadhar_number
+      Label: Aadhar Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: pan_number
+      Label: PAN Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: driving_license
+      Label: Valid Driving License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: section_preferences
+      label: -- Additional Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: delivery_preference
+      Label: Preferred Delivery Location
+      hint: Home, showroom, office, etc.
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: warranty_preference
+      Label: Extended Warranty Interest
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Sure
+      required: false
+    - id: 23
+      name: section_agreement
+      label: -- Agreement and Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: terms_acceptance
+      Label: I Accept Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 25
+      name: application_confirmation
+      Label: Application Submitted Successfully
+      hint: We will contact you soon with details
+      type: select_one
+      options:
+      - Application Confirmed
+      - Other
+      required: true

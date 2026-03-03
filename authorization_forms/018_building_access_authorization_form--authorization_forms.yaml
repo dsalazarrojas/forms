@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Access Authorization Form
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Requestor Name
+      hint: Full name of person requesting access
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requestor_department
+      label: Requestor Department
+      hint: Department or division
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: request_date
+      label: Request Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: access_type
+      label: Access Type
+      hint: Type of access requested
+      type: select_one
+      options:
+      - Employee Access
+      - Contractor Access
+      - Visitor Access
+      - Vendor Access
+      - Temporary Access
+      - Permanent Access
+      required: true
+    - id: 7
+      name: person_seeking_access
+      label: Person Seeking Access
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: company_affiliation
+      label: Company Affiliation
+      hint: Company or organization
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: building_name
+      label: Building Name
+      hint: Which building
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: building_address
+      label: Building Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: access_areas
+      label: Areas Requiring Access
+      hint: Select all areas
+      type: select_multiple
+      options:
+      - Main Lobby
+      - Office Floors
+      - Conference Rooms
+      - Server Room
+      - Laboratory
+      - Warehouse
+      - Parking Garage
+      - Executive Suite
+      - Break Room
+      - All Common Areas
+      required: true
+    - id: 12
+      name: access_level
+      label: Access Level
+      hint: Level of access
+      type: select_one
+      options:
+      - Full Access - 24/7
+      - Business Hours Only
+      - Restricted Areas
+      - Common Areas Only
+      - Escort Required
+      required: true
+    - id: 13
+      name: start_date
+      label: Access Start Date
+      hint: When should access begin
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: end_date
+      label: Access End Date
+      hint: When should access expire
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: access_method
+      label: Access Method
+      hint: How will access be granted
+      type: select_one
+      options:
+      - Key Card
+      - Key Fob
+      - Mobile Access
+      - Biometric
+      - PIN Code
+      - Physical Key
+      required: true
+    - id: 16
+      name: justification
+      label: Justification for Access
+      hint: Reason for access request
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: Emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: authorization_approval
+      label: Authorization Approval
+      hint: Has this been approved by management
+      type: select_one
+      options:
+      - Yes - Approved
+      - Pending Approval
+      - No - Denied
+      required: true
+    - id: 20
+      name: approving_manager
+      label: Approving Manager Name
+      hint: Name of approving manager
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: terms_acknowledged
+      label: Terms and Conditions Acknowledged
+      hint: Access holder agrees to all building policies
+      type: select_one
+      options:
+      - Yes - I Acknowledge
+      - No - I Do Not Acknowledge
+      required: true

@@ -1,0 +1,112 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Conference Poster Presentation Proposal
+    pages:
+      - id: 1
+        name: section_information
+        label: -- Section Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: presenter_name
+        label: Presenter full name
+        hint: Enter first and last name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: presenter_email
+        label: Presenter email address
+        hint: Provide a valid contact email for notifications
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: presenter_affiliation
+        label: Institution or company
+        hint: Organization or employer
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: co_authors
+        label: Co authors
+        hint: List co authors separated by commas
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: poster_title
+        label: Poster title
+        hint: Keep under 15 words when possible
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: abstract_text
+        label: Abstract summary
+        hint: 250 to 500 words preferred
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: keywords
+        label: Keywords
+        hint: Select up to 5 keywords
+        type: select_multiple
+        options:
+          - Research
+          - Education
+          - Technology
+          - Policy
+          - Evaluation
+          - Innovation
+        required: false
+      - id: 9
+        name: preferred_session
+        label: Preferred session track
+        hint: We will try to honor preferences
+        type: select_one
+        options:
+          - Posters
+          - Early Career Research
+          - Industry Collaboration
+          - Student Showcase
+        required: false
+      - id: 10
+        name: poster_dimensions
+        label: Poster dimensions preference
+        hint: Indicate width x height in meters or inches
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: accessibility_needs
+        label: Accessibility requirements
+        hint: Let us know any special accommodations needed
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: agreement_confirmation
+        label: Agreement to display poster if accepted
+        hint: Required to be eligible for presentation
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true

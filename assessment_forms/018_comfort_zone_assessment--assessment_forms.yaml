@@ -1,0 +1,271 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Comfort Zone Assessment
+    pages:
+      - id: 1
+        name: participant_name
+        label: Participant Name
+        hint: Your name - optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: participant_email
+        label: Email Address
+        hint: For assessment results if desired
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: assessment_date
+        label: Assessment Date
+        hint: Today's date
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: role
+        label: Your Role
+        hint: What best describes you
+        type: select_one
+        options:
+          - Student
+          - Professional
+          - Manager
+          - Entrepreneur
+          - Job Seeker
+          - Career Changer
+          - Other
+        required: true
+      - id: 5
+        name: section_header_comfort_zone
+        label: -- Comfort Zone Self-Assessment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: routine_satisfaction
+        label: Satisfaction with Daily Routine
+        hint: How satisfied are you with your daily routine
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 7
+        name: risk_taking_comfort
+        label: Comfort with Taking Risks
+        hint: How comfortable are you taking risks
+        type: select_one
+        options:
+          - Very Comfortable
+          - Comfortable
+          - Neutral
+          - Uncomfortable
+          - Very Uncomfortable
+        required: true
+      - id: 8
+        name: new_experience_frequency
+        label: Frequency of New Experiences
+        hint: How often do you try new things
+        type: select_one
+        options:
+          - Very Often
+          - Often
+          - Sometimes
+          - Rarely
+          - Never
+        required: true
+      - id: 9
+        name: change_adaptation
+        label: Adaptation to Change
+        hint: How well do you adapt to change
+        type: select_one
+        options:
+          - Very Well
+          - Well
+          - Neutral
+          - Poorly
+          - Very Poorly
+        required: true
+      - id: 10
+        name: section_header_growth_mindset
+        label: -- Growth Mindset --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: learning_enthusiasm
+        label: Enthusiasm for Learning
+        hint: How enthusiastic are you about learning new skills
+        type: select_one
+        options:
+          - Very Enthusiastic
+          - Enthusiastic
+          - Neutral
+          - Not Very Enthusiastic
+          - Not Enthusiastic At All
+        required: true
+      - id: 12
+        name: failure_perspective
+        label: Perspective on Failure
+        hint: How do you view failure
+        type: select_one
+        options:
+          - Learning Opportunity
+          - Minor Setback
+          - Neutral
+          - Discouraging
+          - Devastating
+        required: true
+      - id: 13
+        name: feedback_reception
+        label: Reception of Feedback
+        hint: How do you respond to constructive feedback
+        type: select_one
+        options:
+          - Very Open
+          - Open
+          - Neutral
+          - Defensive
+          - Very Defensive
+        required: true
+      - id: 14
+        name: challenge_seeking
+        label: Challenge Seeking
+        hint: Do you actively seek challenges
+        type: select_one
+        options:
+          - Always
+          - Often
+          - Sometimes
+          - Rarely
+          - Never
+        required: true
+      - id: 15
+        name: section_header_social_comfort
+        label: -- Social Comfort --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: networking_comfort
+        label: Comfort with Networking
+        hint: How comfortable are you networking
+        type: select_one
+        options:
+          - Very Comfortable
+          - Comfortable
+          - Neutral
+          - Uncomfortable
+          - Very Uncomfortable
+        required: true
+      - id: 17
+        name: public_speaking
+        label: Public Speaking Comfort
+        hint: How comfortable are you speaking in public
+        type: select_one
+        options:
+          - Very Comfortable
+          - Comfortable
+          - Neutral
+          - Uncomfortable
+          - Very Uncomfortable
+        required: true
+      - id: 18
+        name: meeting_participation
+        label: Meeting Participation
+        hint: How often do you speak up in meetings
+        type: select_one
+        options:
+          - Always
+          - Often
+          - Sometimes
+          - Rarely
+          - Never
+        required: true
+      - id: 19
+        name: section_header_goal_setting
+        label: -- Goal Setting --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 20
+        name: goal_frequency
+        label: Goal Setting Frequency
+        hint: How often do you set new goals
+        type: select_one
+        options:
+          - Very Often
+          - Often
+          - Sometimes
+          - Rarely
+          - Never
+        required: true
+      - id: 21
+        name: goal_achievement
+        label: Goal Achievement Rate
+        hint: How often do you achieve your goals
+        type: select_one
+        options:
+          - Almost Always
+          - Often
+          - Sometimes
+          - Rarely
+          - Never
+        required: true
+      - id: 22
+        name: comfort_zone_areas
+        label: Areas Where You Feel Stuck
+        hint: Where do you feel limited by your comfort zone
+        type: select_multiple
+        options:
+          - Career
+          - Relationships
+          - Personal Growth
+          - Health and Fitness
+          - Finances
+          - Creative Pursuits
+          - Social Life
+          - None
+        required: true
+      - id: 23
+        name: growth_goals
+        label: Growth Goals
+        hint: What areas do you want to grow in
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: support_needed
+        label: Support Needed
+        hint: What support would help you step out of your comfort zone
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other thoughts about your comfort zone
+        type: text
+        options: []
+        required: false

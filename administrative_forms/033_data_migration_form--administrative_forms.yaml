@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: data_migration_form
+    pages:
+    - id: 1
+      name: migrate_data
+      label: Migrate Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: select_data_source
+      label: Select Data Source
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: select_data_destination
+      label: Select Data Destination
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 4
+      name: data_migration_process
+      label: Data Migration Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: confirm_data_migration
+      label: Confirm Data Migration
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: select_approver
+      label: Select Approver
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: migration_approver_email
+      label: Migration Approver Email
+      hint: Enter the approver's email
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: migration_approver_phone
+      label: Migration Approver Phone
+      hint: Enter the approver's phone number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: migration_comment
+      label: Migration Comment
+      hint: Optional comments
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: confirm_migrate_data
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - Confirm
+      - Cancel
+      required: false
+    - id: 11
+      name: select_data_format
+      label: Select Data Format
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 12
+      name: data_transfer_protocol
+      label: Data Transfer Protocol
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: migration_deadline
+      label: Migration Deadline
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: migration_date
+      label: Migration Date
+      hint: null
+      type: date
+      options: []
+      required: false

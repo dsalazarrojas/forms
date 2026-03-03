@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wildlife Rehabilitation Intake Form
+    pages:
+    - id: 1
+      name: animal_rescue_application
+      label: Animal Rescue Application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: species
+      label: species
+      hint: null
+      type: select_multiple
+      options:
+      - Mammal
+      - Reptile
+      - Bird
+      - Amphibian
+      - Fish
+      required: false
+    - id: 3
+      name: rescue_location
+      label: rescue_location
+      hint: Enter the location of the rescue event
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: animal_status
+      label: animal_status
+      hint: null
+      type: select_one
+      options:
+      - Injured
+      - Orphaned
+      - Dead on arrival
+      - Other (please describe)
+      required: false
+    - id: 5
+      name: species_status
+      label: species
+      hint: null
+      type: select_one
+      options:
+      - Wild
+      - Domestic
+      required: false
+    - id: 6
+      name: rescue_date
+      label: date
+      hint: Enter the date of the rescue event
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: species_count
+      label: species
+      hint: Enter the number of species involved in the rescue event
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: description
+      label: description
+      hint: Please provide a detailed description of the event
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_conditions
+      label: medical_conditions
+      hint: Describe any medical conditions affecting the animals
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: treatment_plans
+      label: treatment_plans
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: rehabilitation_facility
+      label: rehabilitation_facility
+      hint: null
+      type: select_one
+      options:
+      - Wildlife Rescue and Rehabilitation Center
+      - Another center
+      required: false
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_one
+      options:
+      - Self-submitted
+      - Submitted by another
+      required: false
+    - id: 14
+      name: submitter
+      label: submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitted_date
+      label: date
+      hint: Date the form was submitted
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: contact_email
+      label: contact_email
+      hint: Enter your contact email
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: contact_phone
+      label: contact_phone
+      hint: Enter your contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_name
+      label: contact_name
+      hint: Enter your name
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: organization
+      label: organization
+      hint: Enter your organization or agency
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: address
+      label: address
+      hint: Enter your address
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: city
+      label: city
+      hint: Enter your city
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: state
+      label: state
+      hint: Enter your state
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: zip
+      label: zip
+      hint: Enter your zip code
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: fax_number
+      label: fax_number
+      hint: Enter your fax number
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: website
+      label: website
+      hint: Enter your website url
+      type: text
+      options: []
+      required: false

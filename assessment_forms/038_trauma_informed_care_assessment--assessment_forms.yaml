@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: trauma_informed_care_assessment
+    pages:
+    - id: 1
+      name: trauma_informed_care_assessment_page_1
+      label: trauma_informed_care
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: training_priorities
+      label: training_priorities
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option_1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option_2''}'
+      - '{''label'': ''Option 3'', ''value'': ''option_3''}'
+      required: false
+    - id: 3
+      name: resource_planning
+      label: resource_planning
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option_1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option_2''}'
+      - '{''label'': ''Option 3'', ''value'': ''option_3''}'
+      required: false
+    - id: 4
+      name: ongoing_improvement
+      label: ongoing_improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: trauma_informed_practices
+      label: trauma_informed_practices
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email_to_staff
+      label: email_to_staff
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_to_staff
+      label: phone_to_staff
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false

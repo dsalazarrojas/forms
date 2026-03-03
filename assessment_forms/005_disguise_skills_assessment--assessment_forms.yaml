@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Disguise Skills Assessment
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: skills_list
+      label: Skills List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: self_evaluation
+      label: Self Evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: self_evaluation_scale
+      label: Self Evaluation Scale
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: trainer_name
+      label: Trainer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: participant_rating
+      label: Participant Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: participant_comment
+      label: Participant Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: participant_photo
+      label: Participant Photo
+      hint: null
+      type: text
+      options: []
+      required: false

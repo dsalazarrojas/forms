@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book Your UI/UX Mentoring Session
+    pages:
+    - id: 1
+      name: mentee_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: mentee_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: mentee_email
+      label: Email Address
+      hint: We will send session details here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: mentee_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: experience_level
+      label: Your Experience Level
+      hint: Your current level in UI/UX design
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Professional
+      - Career changer
+      required: true
+    - id: 6
+      name: design_background
+      label: What is your design background
+      hint: Design experience or training
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: mentoring_goals
+      label: What are your mentoring goals
+      hint: What do you want to learn
+      type: select_multiple
+      options:
+      - UI Design fundamentals
+      - UX Research
+      - Wireframing and prototyping
+      - Design systems
+      - Usability testing
+      - Portfolio development
+      - Career guidance
+      - Specific software skills
+      required: true
+    - id: 8
+      name: current_challenges
+      label: Current Design Challenges
+      hint: What specific problems are you facing
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: design_tools
+      label: Which design tools do you use
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Figma
+      - Adobe XD
+      - Sketch
+      - Adobe Creative Suite
+      - Protopie
+      - Framer
+      - Other
+      required: false
+    - id: 10
+      name: project_focus
+      label: What type of projects interest you
+      hint: Web, mobile, apps, etc.
+      type: select_multiple
+      options:
+      - Web design
+      - Mobile app design
+      - Product design
+      - UX research
+      - Interaction design
+      - Visual design
+      - Design systems
+      - Other
+      required: true
+    - id: 11
+      name: session_duration
+      label: Session Duration Preference
+      hint: How long should each session be
+      type: select_one
+      options:
+      - 30 minutes
+      - 45 minutes
+      - 60 minutes
+      - 90 minutes
+      required: true
+    - id: 12
+      name: session_frequency
+      label: How often would you like sessions
+      hint: Session frequency
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - As needed
+      required: true
+    - id: 13
+      name: preferred_date
+      label: Preferred Session Date
+      hint: When would you like to start
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: preferred_time
+      label: Preferred Time Slot
+      hint: Select your preferred time
+      type: select_one
+      options:
+      - Morning (8-12 AM)
+      - Afternoon (12-4 PM)
+      - Evening (4-8 PM)
+      - Flexible
+      required: true
+    - id: 15
+      name: session_format
+      label: Preferred Session Format
+      hint: How would you prefer to meet
+      type: select_one
+      options:
+      - Video call
+      - Phone call
+      - In-person
+      required: true

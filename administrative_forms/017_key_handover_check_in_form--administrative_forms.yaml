@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Key Handover Check In Form
+    pages:
+    - id: 1
+      name: key_handover_check_in_form
+      label: key_handover_check_in_form
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: key_id
+      label: key_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: user_id
+      label: user_id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: check_in_date
+      label: check_in_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: check_in_time
+      label: check_in_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: check_out_time
+      label: check_out_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: status
+      label: status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Archived
+      required: false

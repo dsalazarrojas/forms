@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Special Education Needs Assessment Form
+    pages:
+    - id: 1
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_grade_level
+      label: student_grade_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: special_education_needs
+      label: Special Education Needs
+      hint: null
+      type: select_multiple
+      options:
+      - speech
+      - learning
+      - emotional
+      - other
+      required: false
+    - id: 5
+      name: educational_goal
+      label: Educational Goal
+      hint: null
+      type: select_one
+      options:
+      - reading
+      - writing
+      - math
+      - communication
+      - socialization
+      - other
+      required: true
+    - id: 6
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: educational_support_services
+      label: Educational Support Services
+      hint: null
+      type: select_multiple
+      options:
+      - speech
+      - reading
+      - writing
+      - math
+      - communication
+      - socialization
+      - other
+      required: false
+    - id: 8
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_comments
+      label: Student Comments
+      hint: null
+      type: text
+      options: []
+      required: false

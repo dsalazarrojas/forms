@@ -1,0 +1,250 @@
+inputSchema:
+  type: object
+  properties:
+    title: Air Duct Cleaning Appointment Request Form
+    pages:
+    - id: 1
+      name: customer_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: street_address
+      label: Street Address
+      hint: Service address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: property_type
+      label: Property Type
+      hint: Type of property
+      type: select_one
+      options:
+      - Single family home
+      - Apartment or condo
+      - Townhouse
+      - Commercial building
+      - Office
+      - Restaurant
+      - Other
+      required: true
+    - id: 10
+      name: property_size
+      label: Approximate Property Size
+      hint: Square footage
+      type: select_one
+      options:
+      - Under 1,000 sq ft
+      - 1,000-2,000 sq ft
+      - 2,000-3,000 sq ft
+      - 3,000-5,000 sq ft
+      - Over 5,000 sq ft
+      required: true
+    - id: 11
+      name: hvac_system_type
+      label: HVAC System Type
+      hint: Type of system
+      type: select_one
+      options:
+      - Central air and heat
+      - Heat pump
+      - Forced air only
+      - Multiple systems
+      - Not sure
+      required: true
+    - id: 12
+      name: number_of_vents
+      label: Estimated Number of Vents
+      hint: Approximate count if known
+      type: select_one
+      options:
+      - 1-5 vents
+      - 6-10 vents
+      - 11-15 vents
+      - 16-20 vents
+      - Over 20 vents
+      - Not sure
+      required: false
+    - id: 13
+      name: last_cleaning
+      label: When Was Last Cleaning
+      hint: Previous service date
+      type: select_one
+      options:
+      - Never
+      - Within 1 year
+      - 1-3 years ago
+      - 3-5 years ago
+      - Over 5 years ago
+      - Not sure
+      required: true
+    - id: 14
+      name: service_needed
+      label: Services Needed
+      hint: Select all services wanted
+      type: select_multiple
+      options:
+      - Air duct cleaning
+      - Dryer vent cleaning
+      - HVAC system cleaning
+      - Sanitization treatment
+      - Mold treatment
+      - Deodorizing
+      - Inspection only
+      required: true
+    - id: 15
+      name: concerns
+      label: Primary Concerns
+      hint: What issues are you experiencing
+      type: select_multiple
+      options:
+      - Excessive dust
+      - Allergies or respiratory issues
+      - Musty odors
+      - Visible mold
+      - Pest infestation
+      - High energy bills
+      - Poor airflow
+      - Routine maintenance
+      required: true
+    - id: 16
+      name: pets_in_home
+      label: Pets in Home
+      hint: Do you have pets
+      type: select_one
+      options:
+      - Yes, 1 pet
+      - Yes, 2 pets
+      - Yes, 3 or more pets
+      - No pets
+      required: true
+    - id: 17
+      name: smokers_in_home
+      label: Smokers in Home
+      hint: Does anyone smoke inside
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: preferred_date
+      label: Preferred Appointment Date
+      hint: First choice date
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: preferred_time
+      label: Preferred Time of Day
+      hint: Best time for appointment
+      type: select_one
+      options:
+      - Morning (8AM-12PM)
+      - Afternoon (12PM-4PM)
+      - Evening (4PM-8PM)
+      - Any time
+      required: true
+    - id: 20
+      name: alternative_date
+      label: Alternative Date
+      hint: Second choice date
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: access_instructions
+      label: Access Instructions
+      hint: Gate codes, doorbell, etc.
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: special_requests
+      label: Special Requests
+      hint: Any special requirements
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: how_heard
+      label: How Did You Hear About Us
+      hint: Source of referral
+      type: select_one
+      options:
+      - Online search
+      - Social media
+      - Friend or family
+      - Advertisement
+      - Previous customer
+      - Other
+      required: false
+    - id: 24
+      name: estimate_needed
+      label: On-site Estimate Needed
+      hint: Do you need an estimate first
+      type: select_one
+      options:
+      - Yes, please schedule estimate
+      - No, ready to book
+      - Need phone quote first
+      required: true
+    - id: 25
+      name: customer_signature
+      label: Customer Signature
+      hint: Digital signature for authorization
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: request_date
+      label: Request Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true

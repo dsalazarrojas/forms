@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inventory Team Assessment
+    pages:
+    - id: 1
+      name: inventory_staff
+      label: Inventory Staff
+      hint: null
+      type: select_one
+      options:
+      - Warehouse
+      - Retail
+      - Logistics
+      required: false
+    - id: 2
+      name: strengths
+      label: Strengths
+      hint: List the top 3 strengths of this staff member
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: improvement_areas
+      label: Improvement Areas
+      hint: List 3 areas of improvement
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: competency_ratings
+      label: Competency Ratings
+      hint: Rate 1-5 for each competency
+      type: select_multiple
+      options:
+      - Leadership
+      - Time Management
+      - Communication
+      - Problem Solving
+      - Teamwork
+      - Adaptability
+      - Initiative
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: staff_performance
+      label: Staff Performance
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Needs Improvement
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: staff_rating
+      label: Staff Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

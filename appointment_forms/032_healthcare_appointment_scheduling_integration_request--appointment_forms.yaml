@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Appointment Scheduling Integration Request
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: project_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_description
+      label: project_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_start_date
+      label: project_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: project_end_date
+      label: project_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: clinician_name
+      label: clinician_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: clinician_email
+      label: clinician_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: clinician_phone
+      label: clinician_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: integration_request
+      label: integration_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: integration_type
+      label: integration_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Web API Integration''}'
+      - '{''value'': ''Mobile App Integration''}'
+      - '{''value'': ''Custom Integration''}'
+      required: false
+    - id: 11
+      name: integration_details
+      label: integration_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: integration_status
+      label: integration_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''In Progress''}'
+      - '{''value'': ''Completed''}'
+      - '{''value'': ''Not Started''}'
+      required: false
+    - id: 13
+      name: priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''High''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''Low''}'
+      required: false
+    - id: 14
+      name: deadline
+      label: deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''chatjimmy''}'
+      - '{''value'': ''John Doe''}'
+      required: false
+    - id: 17
+      name: integration_date
+      label: integration_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: integration_time
+      label: integration_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: form_id
+      label: form_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: form_name
+      label: form_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: form_status
+      label: form_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''In Progress''}'
+      - '{''value'': ''Completed''}'
+      - '{''value'': ''Not Started''}'
+      required: false
+    - id: 23
+      name: form_deadline
+      label: form_deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: form_next_steps
+      label: form_next_steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_assigned_to
+      label: form_assigned_to
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''chatjimmy''}'
+      - '{''value'': ''John Doe''}'
+      required: false

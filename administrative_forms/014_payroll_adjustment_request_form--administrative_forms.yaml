@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payroll Adjustment Request Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: adjustment_type
+      label: Adjustment Type
+      hint: null
+      type: select_one
+      options:
+      - Salary
+      - Bonus
+      - Leave
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - another_tool
+      required: false
+    - id: 9
+      name: status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false

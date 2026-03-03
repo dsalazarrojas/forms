@@ -1,0 +1,72 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: HVAC Service Scheduling Request Form
+    pages:
+    - id: 1
+      name: schedule_visit
+      label: Schedule A Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_request
+      label: Service Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Heating
+      - Air Conditioning
+      - Plumbing
+      - Electrical
+      required: false
+    - id: 5
+      name: schedule_appointment
+      label: Schedule Appointment
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: service_time
+      label: Service Time
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 7
+      name: service_date
+      label: Service Date
+      hint: null
+      type: date
+      options: []
+      required: false

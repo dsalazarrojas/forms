@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Loan Application
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: purpose
+      label: Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: credit_score
+      label: Credit Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''employed'', ''label'': ''Employed''}'
+      - '{''id'': 2, ''name'': ''unemployed'', ''label'': ''Unemployed''}'
+      required: false
+    - id: 9
+      name: employment_length
+      label: Employment Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: income
+      label: Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: employment_type
+      label: Employment Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''salaried'', ''label'': ''Salaried''}'
+      - '{''id'': 2, ''name'': ''self_employed'', ''label'': ''Self-Employed''}'
+      required: false
+    - id: 12
+      name: employment_date
+      label: Employment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: property_value
+      label: Property Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: down_payment
+      label: Down Payment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''single_family'', ''label'': ''Single Family''}'
+      - '{''id'': 2, ''name'': ''multi_family'', ''label'': ''Multi-Family''}'
+      - '{''id'': 3, ''name'': ''condo'', ''label'': ''Condo''}'
+      required: false
+    - id: 16
+      name: credit_score
+      label: Credit Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: loan_term
+      label: Loan Term
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': 12, ''label'': 12}'
+      - '{''id'': 2, ''name'': 24, ''label'': 24}'
+      - '{''id'': 3, ''name'': 36, ''label'': 36}'
+      - '{''id'': 4, ''name'': 48, ''label'': 48}'
+      required: false
+    - id: 18
+      name: interest_rate
+      label: Interest Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: loan_status
+      label: Loan Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''pending'', ''label'': ''Pending''}'
+      - '{''id'': 2, ''name'': ''approved'', ''label'': ''Approved''}'
+      - '{''id'': 3, ''name'': ''denied'', ''label'': ''Denied''}'
+      - '{''id'': 4, ''name'': ''paid_off'', ''label'': ''Paid Off''}'
+      required: false
+    - id: 20
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''single_family'', ''label'': ''Single Family''}'
+      - '{''id'': 2, ''name'': ''multi_family'', ''label'': ''Multi-Family''}'
+      - '{''id'': 3, ''name'': ''condo'', ''label'': ''Condo''}'
+      required: false
+    - id: 21
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: employment_length
+      label: Employment Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: interest_rate
+      label: Interest Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: property_value
+      label: Property Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: loan_term
+      label: Loan Term
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': 12, ''label'': 12}'
+      - '{''id'': 2, ''name'': 24, ''label'': 24}'
+      - '{''id'': 3, ''name'': 36, ''label'': 36}'
+      - '{''id'': 4, ''name'': 48, ''label'': 48}'
+      required: false

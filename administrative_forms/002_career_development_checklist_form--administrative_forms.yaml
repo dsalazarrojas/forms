@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Career Development Checklist Form
+    pages:
+    - id: 1
+      name: section_user_info
+      label: -- User Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: Enter your official company ID
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: current_department
+      label: Current Department
+      hint: null
+      type: select_one
+      options:
+      - Sales
+      - Marketing
+      - HR
+      - IT
+      - Operations
+      - Finance
+      - Legal
+      required: true
+    - id: 5
+      name: current_role
+      label: Current Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_goal_setting
+      label: -- Goal Setting --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: primary_career_goal
+      label: What is your primary career goal?
+      hint: Be as specific as possible
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: target_promotion_role
+      label: Target role for advancement
+      hint: What role are you aspiring to next?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: goal_timeline
+      label: When do you want to achieve this goal?
+      hint: null
+      type: select_one
+      options:
+      - 6 Months
+      - 1 Year
+      - 3 Years
+      - 5+ Years
+      required: true
+    - id: 10
+      name: section_skills_assessment
+      label: -- Skills Assessment Checklist --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: technical_skills_needed
+      label: Technical skills needed for advancement
+      hint: Select all that apply to your target role
+      type: select_multiple
+      options:
+      - Coding
+      - Data Analysis
+      - Project Management
+      - Public Speaking
+      - Strategic Planning
+      - Financial Literacy
+      required: false
+    - id: 12
+      name: soft_skills_needed
+      label: Soft skills needed for advancement
+      hint: Select the most critical areas for improvement
+      type: select_multiple
+      options:
+      - Leadership
+      - Communication
+      - Problem Solving
+      - Adaptability
+      - Teamwork
+      - Emotional Intelligence
+      required: false
+    - id: 13
+      name: skills_current_rating
+      label: Current skills self-rating (1-10)
+      hint: How would you rate your overall skill set for your current role?
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: section_progress_tracking
+      label: -- Progress Tracking --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: certification_completed
+      label: Certifications completed this year
+      hint: List any professional certifications or courses
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: training_hours
+      label: Training hours logged this quarter
+      hint: Total hours spent in formal training
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: mentorship_status
+      label: Do you have a mentor?
+      hint: Are you currently working with a mentor in your field?
+      type: select_one
+      options:
+      - true
+      - false
+      - Searching
+      required: true
+    - id: 18
+      name: section_support_resources
+      label: -- Support and Resources --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: resources_required
+      label: What resources do you need for career advancement?
+      hint: Courses, books, tools, etc.
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: supervisor_support
+      label: How can your supervisor better support your career development?
+      hint: Feedback, special projects, time for training, etc.
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: next_review_date
+      label: Planned date for next progress review
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: section_agreement
+      label: -- Agreement and Sign-off --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: employee_agreement
+      label: I agree to follow the development plan
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

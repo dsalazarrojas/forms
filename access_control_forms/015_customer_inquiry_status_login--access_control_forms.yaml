@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Inquiry Status Login
+    pages:
+    - id: 1
+      name: customer_inquiry_status_login
+      label: Customer Inquiry Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_inquiry_id
+      label: Customer Inquiry Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: customer_inquiry_status
+      label: Customer Inquiry Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''New''}'
+      - '{''id'': 2, ''label'': ''In Progress''}'
+      - '{''id'': 2, ''label'': ''Completed''}'
+      - '{''id'': 3, ''label'': ''Replied''}'
+      - '{''id'': 4, ''label'': ''Replied and Reassigned''}'
+      - '{''id'': 5, ''label'': ''Closed''}'
+      required: false
+    - id: 4
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: customer_note
+      label: Customer Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: customer_inquiry_date
+      label: Customer Inquiry Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: customer_inquiry_time
+      label: Customer Inquiry Time
+      hint: null
+      type: time
+      options: []
+      required: false

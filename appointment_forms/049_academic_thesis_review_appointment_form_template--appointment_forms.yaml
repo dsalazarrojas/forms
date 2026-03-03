@@ -1,0 +1,135 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Thesis Review Appointment Form Template
+    pages:
+    - id: 1
+      name: thesis_review_appointment_intro
+      label: Academic Thesis Review Appointment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: Full name of the student requesting the appointment
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_email
+      label: Student Email
+      hint: Student's institutional email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: student_id
+      label: Student ID
+      hint: Official student identification number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: advisor_name
+      label: Advisor Name
+      hint: Full name of the thesis advisor
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: advisor_email
+      label: Advisor Email
+      hint: Advisor's institutional email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: thesis_title
+      label: Thesis Title
+      hint: Working title of the thesis
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: academic_program
+      label: Academic Program
+      hint: Degree program for which the thesis is being written
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: review_type
+      label: Type of Review
+      hint: What type of thesis review is needed?
+      type: select_one
+      options: ["Initial proposal review", "Chapter review", "Full draft review", "Final defense prep", "Revision consultation", "Other"]
+      required: true
+    - id: 10
+      name: preferred_date_1
+      label: Preferred Date Option 1
+      hint: First choice for appointment date
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: preferred_date_2
+      label: Preferred Date Option 2
+      hint: Second choice for appointment date
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: preferred_time_slot
+      label: Preferred Time Slot
+      hint: What time works best for the appointment?
+      type: select_one
+      options: ["Morning (8am-12pm)", "Early afternoon (12pm-2pm)", "Late afternoon (2pm-5pm)", "Evening (5pm-7pm)", "Flexible"]
+      required: true
+    - id: 13
+      name: appointment_duration
+      label: Expected Appointment Duration
+      hint: How long do you expect the review session to take?
+      type: select_one
+      options: ["30 minutes", "45 minutes", "1 hour", "1.5 hours", "2 hours", "Other"]
+      required: true
+    - id: 14
+      name: meeting_format
+      label: Meeting Format
+      hint: How would you prefer to meet?
+      type: select_one
+      options: ["In-person", "Video conference", "Phone call", "Email exchange", "Other"]
+      required: true
+    - id: 15
+      name: materials_to_review
+      label: Materials to Review
+      hint: What materials will be provided for review?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: special_requirements
+      label: Special Requirements
+      hint: Are there any special requirements for the review session?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information for the advisor?
+      type: text
+      options: []
+      required: false

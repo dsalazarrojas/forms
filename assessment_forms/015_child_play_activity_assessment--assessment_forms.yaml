@@ -1,0 +1,237 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Play Activity Assessment
+    pages:
+    - id: 1
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of play activity assessment
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: assessment_time
+      label: Assessment Time
+      hint: Time of assessment observation
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: child_first_name
+      label: Child First Name
+      hint: Legal first name of the child
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: child_last_name
+      label: Child Last Name
+      hint: Legal last name of the child
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: child_date_of_birth
+      label: Child Date of Birth
+      hint: Please provide the child's birth date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: child_age
+      label: Child Age
+      hint: Current age of the child in years
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: assessor_name
+      label: Assessor Name
+      hint: Name of the person conducting the assessment
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: assessor_role
+      label: Assessor Role
+      hint: Role or title of the assessor
+      type: select_one
+      options:
+      - Teacher
+      - Therapist
+      - Counselor
+      - Caregiver
+      - Researcher
+      - Other
+      required: true
+    - id: 9
+      name: play_setting
+      label: Play Setting
+      hint: Where is the play activity taking place?
+      type: select_one
+      options:
+      - Classroom
+      - Playground
+      - Therapy room
+      - Home environment
+      - Outdoor natural setting
+      - Indoor play area
+      - Other
+      required: true
+    - id: 10
+      name: play_type
+      label: Type of Play Observed
+      hint: What type of play is being assessed?
+      type: select_one
+      options:
+      - Free play
+      - Structured play
+      - Guided play
+      - Cooperative play
+      - Parallel play
+      - Solitary play
+      - Dramatic or pretend play
+      required: true
+    - id: 11
+      name: play_duration_minutes
+      label: Play Duration in Minutes
+      hint: How long was the play observation?
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: child_mood_at_start
+      label: Child Mood at Start
+      hint: What was the child's mood when play began?
+      type: select_one
+      options:
+      - Happy and excited
+      - Calm and relaxed
+      - Anxious or nervous
+      - Sad or withdrawn
+      - Agitated or restless
+      - Neutral
+      required: true
+    - id: 13
+      name: engagement_level
+      label: Engagement Level
+      hint: How engaged was the child in the play activity?
+      type: select_one
+      options:
+      - Highly engaged throughout
+      - Mostly engaged
+      - Somewhat engaged
+      - Minimally engaged
+      - Not engaged
+      required: true
+    - id: 14
+      name: social_interaction
+      label: Social Interaction
+      hint: How did the child interact with others during play?
+      type: select_one
+      options:
+      - Actively interacted with peers
+      - Interacted primarily with adults
+      - Played alongside peers without interaction
+      - Played alone
+      - Avoided interaction
+      required: true
+    - id: 15
+      name: communication_skills
+      label: Communication Skills Displayed
+      hint: Rate the child's communication during play
+      type: select_one
+      options:
+      - Excellent verbal communication
+      - Good verbal communication
+      - Limited verbal communication
+      - Non-verbal communication only
+      - Minimal communication
+      required: true
+    - id: 16
+      name: motor_skills_observed
+      label: Motor Skills Observed
+      hint: What motor skills were demonstrated?
+      type: select_multiple
+      options:
+      - Fine motor skills (grasping, manipulating objects)
+      - Gross motor skills (running, jumping)
+      - Hand-eye coordination
+      - Balance and coordination
+      - Bilateral coordination
+      - Limited motor skills observed
+      required: true
+    - id: 17
+      name: cognitive_skills_observed
+      label: Cognitive Skills Observed
+      hint: What cognitive skills were demonstrated?
+      type: select_multiple
+      options:
+      - Problem-solving
+      - Creative thinking
+      - Memory recall
+      - Attention and focus
+      - Sequencing abilities
+      - Symbolic thinking
+      - Limited cognitive engagement
+      required: true
+    - id: 18
+      name: emotional_regulation
+      label: Emotional Regulation
+      hint: How well did the child regulate emotions during play?
+      type: select_one
+      options:
+      - Excellent self-regulation
+      - Good self-regulation
+      - Some difficulty regulating
+      - Significant difficulty regulating
+      - Unable to assess
+      required: true
+    - id: 19
+      name: play_preferences
+      label: Play Preferences Observed
+      hint: What types of play did the child prefer?
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: strengths_observed
+      label: Strengths Observed
+      hint: What strengths did the child demonstrate during play?
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: challenges_observed
+      label: Challenges Observed
+      hint: What challenges or areas of concern were noted?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: materials_used
+      label: Play Materials Used
+      hint: List the toys, games, or materials used during play
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: recommendations
+      label: Recommendations
+      hint: Any recommendations for future play activities or interventions
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_needed
+      label: Follow-Up Needed
+      hint: Is a follow-up assessment recommended?
+      type: select_one
+      options:
+      - Yes, within 1 week
+      - Yes, within 1 month
+      - Yes, within 3 months
+      - No follow-up needed at this time
+      - Refer to specialist
+      required: true

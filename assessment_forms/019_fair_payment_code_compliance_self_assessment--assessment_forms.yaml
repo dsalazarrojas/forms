@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: fair_payment_code_compliance_self_assessment
+    pages:
+    - id: 1
+      name: assessment_title
+      label: Assessment Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: assessment_start_date
+      label: Assessment Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: assessment_end_date
+      label: Assessment End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: assessment_frequency
+      label: Assessment Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assessment_methodology
+      label: Assessment Methodology
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assessment_frequency_method
+      label: Assessment Frequency Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_schedule
+      label: Payment Schedule
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: payment_schedule_method
+      label: Payment Schedule Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: compliance_status
+      label: Compliance Status
+      hint: null
+      type: select_one
+      options:
+      - Compliant
+      - Not Compliant
+      - In Progress
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: signed_by
+      label: Signed By
+      hint: null
+      type: text
+      options: []
+      required: false

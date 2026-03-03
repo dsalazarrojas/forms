@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Faculty Promotion Peer Assessment Form
+    pages:
+    - id: 1
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: faculty_member
+      label: Faculty Member
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: performance
+      label: Performance
+      hint: Rate this faculty member's performance
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 4
+      name: strengths
+      label: Strengths
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: additional_comments
+      label: Additional Comments
+      hint: Additional comments about this peer assessment
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

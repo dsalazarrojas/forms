@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Risk Assessment Communication Form
+    pages:
+    - id: 1
+      name: risk_assessment_communication_form
+      label: risk_assessment_communication_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: risk_assessment_form_name
+      label: risk_assessment_form_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: risk_level
+      label: risk_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: risk_type
+      label: risk_type
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 5
+      name: risk_probability
+      label: risk_probability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: risk_impact
+      label: risk_impact
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 7
+      name: risk_description
+      label: risk_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: risk_action
+      label: risk_action
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 9
+      name: risk_status
+      label: risk_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Resolved
+      - Inactive
+      required: false
+    - id: 10
+      name: risk_date
+      label: risk_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: risk_time
+      label: risk_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: risk_location
+      label: risk_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: risk_phone
+      label: risk_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: risk_email
+      label: risk_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: risk_notes
+      label: risk_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: risk_form
+      label: risk_form
+      hint: null
+      type: select_one
+      options:
+      - Risk Assessment Communication Form
+      - Other
+      required: false

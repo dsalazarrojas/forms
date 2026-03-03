@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: request_approval_form
+    pages:
+    - id: 1
+      name: request_1
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: approval_1
+      label: Manager 1
+      hint: null
+      type: select_one
+      options:
+      - Manager 1
+      - Manager 2
+      - Manager 3
+      required: false
+    - id: 3
+      name: manager_1
+      label: manager 1 approval
+      hint: null
+      type: select_multiple
+      options:
+      - Manager 1
+      - Manager 2
+      - Manager 3
+      required: false
+    - id: 4
+      name: approval_2
+      label: Manager 2 approval
+      hint: null
+      type: select_one
+      options:
+      - Manager 1
+      - Manager 2
+      - Manager 3
+      required: false
+    - id: 5
+      name: request_2
+      label: request details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manager_3
+      label: manager 3 approval
+      hint: null
+      type: select_multiple
+      options:
+      - Manager 1
+      - Manager 2
+      - Manager 3
+      required: false
+    - id: 7
+      name: date_1
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_1
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note_1
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email_1
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_1
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: request_2
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,256 @@
+inputSchema:
+  type: object
+  properties:
+    title: Computer Systems Knowledge Assessment
+    pages:
+    - id: 1
+      name: assessment_id
+      label: Assessment ID
+      hint: Unique assessment identifier
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of assessment
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: candidate_name
+      label: Candidate Name
+      hint: Full name of candidate
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: candidate_email
+      label: Candidate Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: current_role
+      label: Current Role
+      hint: Your current job title
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: years_experience
+      label: Years of IT Experience
+      hint: How many years of IT experience
+      type: select_one
+      options:
+      - Less than 1 Year
+      - 1 to 3 Years
+      - 3 to 5 Years
+      - 5 to 10 Years
+      - More than 10 Years
+      required: true
+    - id: 7
+      name: operating_systems_knowledge
+      label: Operating Systems Knowledge
+      hint: Rate your knowledge of operating systems
+      type: select_one
+      options:
+      - 5 - Expert
+      - 4 - Advanced
+      - 3 - Intermediate
+      - 2 - Basic
+      - 1 - No Knowledge
+      required: true
+    - id: 8
+      name: windows_proficiency
+      label: Windows Proficiency
+      hint: Rate your Windows skills
+      type: select_one
+      options:
+      - 5 - Expert
+      - 4 - Advanced
+      - 3 - Intermediate
+      - 2 - Basic
+      - 1 - No Knowledge
+      required: true
+    - id: 9
+      name: linux_proficiency
+      label: Linux Proficiency
+      hint: Rate your Linux skills
+      type: select_one
+      options:
+      - 5 - Expert
+      - 4 - Advanced
+      - 3 - Intermediate
+      - 2 - Basic
+      - 1 - No Knowledge
+      required: true
+    - id: 10
+      name: macos_proficiency
+      label: macOS Proficiency
+      hint: Rate your macOS skills
+      type: select_one
+      options:
+      - 5 - Expert
+      - 4 - Advanced
+      - 3 - Intermediate
+      - 2 - Basic
+      - 1 - No Knowledge
+      required: true
+    - id: 11
+      name: networking_knowledge
+      label: Networking Knowledge
+      hint: Rate your networking knowledge
+      type: select_one
+      options:
+      - 5 - Expert
+      - 4 - Advanced
+      - 3 - Intermediate
+      - 2 - Basic
+      - 1 - No Knowledge
+      required: true
+    - id: 12
+      name: security_knowledge
+      label: Security Knowledge
+      hint: Rate your security knowledge
+      type: select_one
+      options:
+      - 5 - Expert
+      - 4 - Advanced
+      - 3 - Intermediate
+      - 2 - Basic
+      - 1 - No Knowledge
+      required: true
+    - id: 13
+      name: database_knowledge
+      label: Database Knowledge
+      hint: Rate your database knowledge
+      type: select_one
+      options:
+      - 5 - Expert
+      - 4 - Advanced
+      - 3 - Intermediate
+      - 2 - Basic
+      - 1 - No Knowledge
+      required: true
+    - id: 14
+      name: cloud_platforms_knowledge
+      label: Cloud Platforms Knowledge
+      hint: Rate your cloud platforms knowledge
+      type: select_one
+      options:
+      - 5 - Expert
+      - 4 - Advanced
+      - 3 - Intermediate
+      - 2 - Basic
+      - 1 - No Knowledge
+      required: true
+    - id: 15
+      name: scripting_knowledge
+      label: Scripting Knowledge
+      hint: Rate your scripting skills
+      type: select_one
+      options:
+      - 5 - Expert
+      - 4 - Advanced
+      - 3 - Intermediate
+      - 2 - Basic
+      - 1 - No Knowledge
+      required: true
+    - id: 16
+      name: hardware_troubleshooting
+      label: Hardware Troubleshooting
+      hint: Rate your hardware troubleshooting skills
+      type: select_one
+      options:
+      - 5 - Expert
+      - 4 - Advanced
+      - 3 - Intermediate
+      - 2 - Basic
+      - 1 - No Knowledge
+      required: true
+    - id: 17
+      name: software_installation
+      label: Software Installation
+      hint: Rate your software installation skills
+      type: select_one
+      options:
+      - 5 - Expert
+      - 4 - Advanced
+      - 3 - Intermediate
+      - 2 - Basic
+      - 1 - No Knowledge
+      required: true
+    - id: 18
+      name: virtualization_knowledge
+      label: Virtualization Knowledge
+      hint: Rate your virtualization knowledge
+      type: select_one
+      options:
+      - 5 - Expert
+      - 4 - Advanced
+      - 3 - Intermediate
+      - 2 - Basic
+      - 1 - No Knowledge
+      required: true
+    - id: 19
+      name: backup_recovery_knowledge
+      label: Backup and Recovery Knowledge
+      hint: Rate your backup and recovery knowledge
+      type: select_one
+      options:
+      - 5 - Expert
+      - 4 - Advanced
+      - 3 - Intermediate
+      - 2 - Basic
+      - 1 - No Knowledge
+      required: true
+    - id: 20
+      name: certifications_held
+      label: Certifications Held
+      hint: Select any certifications you hold
+      type: select_multiple
+      options:
+      - CompTIA A Plus
+      - CompTIA Network Plus
+      - CompTIA Security Plus
+      - Microsoft Certified
+      - Cisco CCNA
+      - AWS Certified
+      - Linux Plus
+      - None
+      required: false
+    - id: 21
+      name: total_score
+      label: Total Score
+      hint: Total assessment score
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: proficiency_level
+      label: Proficiency Level
+      hint: Overall proficiency level
+      type: select_one
+      options:
+      - Expert
+      - Advanced
+      - Intermediate
+      - Basic
+      - Novice
+      required: true
+    - id: 23
+      name: recommended_training
+      label: Recommended Training
+      hint: Suggested training areas
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: assessor_comments
+      label: Assessor Comments
+      hint: Any additional comments
+      type: text
+      options: []
+      required: false

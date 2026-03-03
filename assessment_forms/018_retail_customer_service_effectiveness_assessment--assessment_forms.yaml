@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Customer Service Effectiveness Assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: retail_customer_service_effectiveness_assessment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: retail_location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: date
+      label: date_of_visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: staff
+      label: staff_name
+      hint: Enter the name of the staff member you interacted with
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: staff_rating
+      label: staff_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: service_quality
+      label: service_quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: staff_friendly
+      label: staff_friendly
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
+    - id: 8
+      name: resolution
+      label: resolution
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
+    - id: 9
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
+    - id: 10
+      name: customer_satisfaction
+      label: customer_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
+    - id: 11
+      name: recommendation
+      label: customer_recommendation
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false

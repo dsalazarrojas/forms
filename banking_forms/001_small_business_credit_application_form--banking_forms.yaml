@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Small Business Credit Application Form
+    pages:
+    - id: 1
+      name: business_info
+      label: Business Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: financial_info
+      label: Financial Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: business_location
+      label: Business Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: loan_term
+      label: Loan Term
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: collateral
+      label: Collateral
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: credit_history
+      label: Credit History
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''credit_score'', ''label'': ''Excellent'', ''value'': 850}'
+      - '{''id'': ''credit_score'', ''label'': ''Good'', ''value'': 720}'
+      - '{''id'': ''credit_score'', ''label'': ''Fair'', ''value'': 680}'
+      required: false
+    - id: 9
+      name: business_ownership
+      label: Business Ownership
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''owner_type'', ''label'': ''Sole Proprietor'', ''value'': 1}'
+      - '{''id'': ''owner_type'', ''label'': ''Partnership'', ''value'': 2}'
+      - '{''id'': ''owner_type'', ''label'': ''Corporation'', ''value'': 3}'
+      required: false
+    - id: 10
+      name: business_structure
+      label: Business Structure
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''sole_proprietorship'', ''label'': ''Sole Proprietorship'', ''value'':
+        1}'
+      - '{''id'': ''single_member_llc'', ''label'': ''Single Member LLC'', ''value'':
+        2}'
+      - '{''id'': ''multi_member_llc'', ''label'': ''Multi-Member LLC'', ''value'':
+        3}'
+      required: false
+    - id: 11
+      name: business_activities
+      label: Business Activities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: business_products
+      label: Business Products
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: business_description
+      label: Business Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: business_history
+      label: Business History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: tax_id
+      label: Tax ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: business_license
+      label: Business License
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''no_license'', ''label'': ''No License'', ''value'': 1}'
+      - '{''id'': ''valid_license'', ''label'': ''Valid License'', ''value'': 2}'
+      - '{''id'': ''expired_license'', ''label'': ''Expired License'', ''value'':
+        3}'
+      required: false
+    - id: 17
+      name: loan_status
+      label: Loan Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''pending_approval'', ''label'': ''Pending Approval'', ''value'':
+        1}'
+      - '{''id'': ''approved'', ''label'': ''Approved'', ''value'': 2}'
+      - '{''id'': ''denied'', ''label'': ''Denied'', ''value'': 3}'
+      required: false
+    - id: 18
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: time_submitted
+      label: Time Submitted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''loan_officer'', ''label'': ''Loan Officer'', ''value'': 1}'
+      - '{''id'': ''credit_manager'', ''label'': ''Credit Manager'', ''value'': 2}'
+      required: false
+    - id: 23
+      name: submitted_comment
+      label: Submitted Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: reviewer_comment
+      label: Reviewer Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: review_result
+      label: Review Result
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''approved_loan'', ''label'': ''Approved Loan'', ''value'': 1}'
+      - '{''id'': ''rejected_loan'', ''label'': ''Rejected Loan'', ''value'': 2}'
+      required: false

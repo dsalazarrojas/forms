@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Meeting Appointment Form
+    pages:
+    - id: 1
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: meeting_time
+      label: Meeting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: meeting_purpose
+      label: Meeting Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vendor
+      label: Vendor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: meeting_duration
+      label: Meeting Duration
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Appointment Booking Channel Poll
+    pages:
+    - id: 1
+      name: respondent_information
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: respondent_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: respondent_phone
+      label: Phone Number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: booking_preferences
+      label: -- Booking Channel Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: primary_booking_method
+      label: What is your preferred way to book an appointment?
+      hint: Select one
+      type: select_one
+      options:
+      - Online booking system
+      - Phone call
+      - Email
+      - SMS text message
+      - Mobile app
+      - Social media
+      - In person
+      - No preference
+      required: true
+    - id: 7
+      name: secondary_booking_method
+      label: What is your second choice for booking?
+      hint: null
+      type: select_one
+      options:
+      - Online booking system
+      - Phone call
+      - Email
+      - SMS text message
+      - Mobile app
+      - Social media
+      - In person
+      - No preference
+      required: false
+    - id: 8
+      name: appointment_details
+      label: -- Appointment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: appointment_frequency
+      label: How often do you book appointments?
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Quarterly
+      - Occasionally
+      - Rarely
+      required: true
+    - id: 10
+      name: typical_advance_notice
+      label: How much advance notice do you typically give?
+      hint: null
+      type: select_one
+      options:
+      - Same day
+      - 1-3 days
+      - 1 week
+      - 2 weeks
+      - 1 month or more
+      - Depends
+      required: false
+    - id: 11
+      name: device_preference
+      label: What device do you typically use to book?
+      hint: null
+      type: select_one
+      options:
+      - Desktop computer
+      - Laptop
+      - Tablet
+      - Mobile phone
+      - Phone call preferred
+      required: false
+    - id: 12
+      name: online_booking_importance
+      label: How important is 24-7 online booking availability?
+      hint: null
+      type: select_one
+      options:
+      - Very important
+      - Important
+      - Somewhat important
+      - Not important
+      - Doesn't matter
+      required: true
+    - id: 13
+      name: confirmation_preference
+      label: How would you like to receive confirmation?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Email confirmation
+      - SMS confirmation
+      - Phone call confirmation
+      - No confirmation needed
+      required: false
+    - id: 14
+      name: reminder_preference
+      label: Do you want appointment reminders?
+      hint: null
+      type: select_one
+      options:
+      - Yes, email reminder
+      - Yes, SMS reminder
+      - Yes, both email and SMS
+      - No, no reminders
+      - No preference
+      required: false
+    - id: 15
+      name: barrier_to_booking
+      label: What barriers prevent you from booking appointments online?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Complicated process
+      - Limited availability shown
+      - Technical issues
+      - Prefer personal contact
+      - Privacy concerns
+      - No major barriers
+      required: false
+    - id: 16
+      name: feature_requests
+      label: What features would improve your booking experience?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_comments
+      label: Any additional comments about appointment booking?
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Backdate Request Form
+    pages:
+      - id: 1
+        name: requester_name
+        label: Requester name
+        hint: Employee requesting date change
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: department
+        label: Department
+        hint: Department or team
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: record_reference
+        label: Record reference
+        hint: Identifier of record to be backdated
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: original_date
+        label: Original date
+        hint: Current date on record
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: requested_new_date
+        label: Requested new date
+        hint: Date you want the record to show
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: reason_for_change
+        label: Reason for date change
+        hint: Provide justification and supporting info
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: supporting_documents
+        label: Supporting documents
+        hint: Attach or list documents proving request
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: manager_approval
+        label: Manager approval status
+        hint: For administrative use
+        type: select_one
+        options: [Approved, Denied, Pending]
+        required: false
+      - id: 9
+        name: audit_comments
+        label: Audit comments
+        hint: Internal audit notes
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: submission_date
+        label: Submission date
+        hint: Date request was submitted
+        type: date
+        options: []
+        required: true

@@ -1,0 +1,240 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Insurance Records Release Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: Enter your name as it appears on your identification documents
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: healthcare_provider_name
+      label: Healthcare Provider Name
+      hint: Name of healthcare provider or insurance company you wish to release the
+        records to
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: healthcare_type
+      label: Healthcare Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: insurance_provider_id
+      label: Insurance Provider ID
+      hint: ID number of your current insurance provider
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reason_release
+      label: Reason for Release
+      hint: Briefly describe your reason for releasing your records
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: authorization_type
+      label: Authorization Type
+      hint: null
+      type: select_one
+      options:
+      - HIPAA
+      - State Law
+      - Court Order
+      required: false
+    - id: 8
+      name: authorization_expiration_date
+      label: Authorization Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: healthcare_provider_phone
+      label: Healthcare Provider Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: healthcare_provider_email
+      label: Healthcare Provider Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: insurance_company_address
+      label: Insurance Company Address
+      hint: Address of insurance company
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: insurance_provider_signature
+      label: Insurance Provider Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: release_to_multiple
+      label: Release To
+      hint: null
+      type: select_multiple
+      options:
+      - Healthcare Provider
+      - Insurance Company
+      - Legal Representative
+      - Other
+      required: false
+    - id: 17
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: healthcare_provider_address
+      label: Healthcare Provider Address
+      hint: Address of healthcare provider
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: patient_address
+      label: Patient Address
+      hint: Home or work address
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: healthcare_provider_fax
+      label: Healthcare Provider Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: patient_state
+      label: State
+      hint: Two-letter state abbreviation
+      type: select_one
+      options:
+      - AL
+      - AK
+      - AZ
+      - AR
+      - CA
+      - CO
+      - CT
+      - DE
+      - FL
+      - GA
+      - HI
+      - ID
+      - IL
+      - IN
+      - IA
+      - KS
+      - KY
+      - LA
+      - MA
+      - MD
+      - ME
+      - MI
+      - MN
+      - MO
+      - MS
+      - MT
+      - NC
+      - ND
+      - NE
+      - NH
+      - NJ
+      - NM
+      - NV
+      - NY
+      - OH
+      - OK
+      - OR
+      - PA
+      - RI
+      - SC
+      - SD
+      - TN
+      - TX
+      - UT
+      - VA
+      - VT
+      - WA
+      - WI
+      - WV
+      - WY
+      required: false
+    - id: 25
+      name: healthcare_provider_license_number
+      label: Healthcare Provider License Number
+      hint: License number of healthcare provider
+      type: text
+      options: []
+      required: false

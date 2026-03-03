@@ -1,0 +1,232 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Access Reconfiguration Consent Form
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Requestor Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: request_date
+      label: Request Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: building_name
+      label: Building Name
+      hint: Name of building
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: building_address
+      label: Building Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: floor_level
+      label: Floor or Level
+      hint: Specific floor
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: area_description
+      label: Area Description
+      hint: Describe the area
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: reconfiguration_type
+      label: Reconfiguration Type
+      hint: Type of changes
+      type: select_one
+      options:
+      - Access Point Relocation
+      - New Access Point
+      - Access Point Removal
+      - Security Level Change
+      - Zone Modification
+      - System Upgrade
+      - Emergency Modification
+      required: true
+    - id: 12
+      name: current_configuration
+      label: Current Configuration
+      hint: Describe current setup
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: proposed_configuration
+      label: Proposed Configuration
+      hint: Describe proposed changes
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: reason_for_change
+      label: Reason for Change
+      hint: Why is this needed
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: affected_parties
+      label: Affected Parties
+      hint: Who will be impacted
+      type: select_multiple
+      options:
+      - Building Occupants
+      - Security Personnel
+      - Maintenance Staff
+      - IT Department
+      - External Contractors
+      - Visitors
+      - Tenants
+      - No Impact Expected
+      required: true
+    - id: 16
+      name: timeline_start
+      label: Proposed Start Date
+      hint: When work begins
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: timeline_end
+      label: Expected Completion Date
+      hint: When work ends
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: disruption_expected
+      label: Expected Disruption
+      hint: Level of disruption
+      type: select_one
+      options:
+      - No Disruption
+      - Minimal Disruption
+      - Moderate Disruption
+      - Significant Disruption
+      - Complete Area Closure
+      required: true
+    - id: 19
+      name: mitigation_plan
+      label: Disruption Mitigation Plan
+      hint: How will disruption be minimized
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contractor_involved
+      label: External Contractor Involved
+      hint: Will contractors perform work
+      type: select_one
+      options:
+      - Yes - Listed Below
+      - No - Internal Team
+      required: true
+    - id: 21
+      name: contractor_name
+      label: Contractor Name
+      hint: Company name
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: cost_estimate
+      label: Estimated Cost
+      hint: Cost of reconfiguration
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: budget_code
+      label: Budget Code
+      hint: Cost center or budget code
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: safety_measures
+      label: Safety Measures
+      hint: Safety precautions
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: stakeholder_notification
+      label: Stakeholder Notification
+      hint: Have stakeholders been notified
+      type: select_one
+      options:
+      - Yes - All Notified
+      - Partially Notified
+      - Not Yet Notified
+      required: true
+    - id: 26
+      name: consent_given
+      label: Consent Acknowledgment
+      hint: I consent to the proposed reconfiguration
+      type: select_one
+      options:
+      - Yes - I Consent
+      - No - I Do Not Consent
+      required: true
+    - id: 27
+      name: authorization_level
+      label: Authorization Level
+      hint: Level of authorization
+      type: select_one
+      options:
+      - Self Authorized
+      - Manager Approved
+      - Director Approved
+      - Executive Approved
+      required: true
+    - id: 28
+      name: approving_authority
+      label: Approving Authority Name
+      hint: Name of approver
+      type: text
+      options: []
+      required: false

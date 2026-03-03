@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maintenance Request Communication Form
+    pages:
+    - id: 1
+      name: tenant_name
+      label: Tenant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - HVAC
+      - Electrical
+      - Plumbing
+      - Appliance
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 5
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: date_of_inspection
+      label: Date Of Inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_of_inspection
+      label: Time Of Inspection
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - HVAC
+      - Electrical
+      - Plumbing
+      - Appliance
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitted
+      label: Submitted
+      hint: null
+      type: date
+      options: []
+      required: false

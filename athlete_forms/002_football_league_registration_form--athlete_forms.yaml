@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Football League Registration Form
+    pages:
+    - id: 1
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: player_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: player_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: weight
+      label: weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: team_id
+      label: team
+      hint: null
+      type: select_one
+      options:
+      - Team A
+      - Team B
+      - Team C
+      required: true
+    - id: 8
+      name: coach_name
+      label: coach_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: coach_email
+      label: coach_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: team_name
+      label: team_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: player_type
+      label: player_type
+      hint: null
+      type: select_one
+      options:
+      - Forward
+      - Midfielder
+      - Defender
+      required: false
+    - id: 12
+      name: player_position
+      label: position
+      hint: null
+      type: select_multiple
+      options:
+      - Goalkeeper
+      - Forward
+      - Defender
+      required: true
+    - id: 13
+      name: jersey_number
+      label: jersey_number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: shirt_color
+      label: shirt_color
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - White
+      required: true
+    - id: 15
+      name: game_schedule
+      label: game_schedule
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: game_time
+      label: game_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: game_field
+      label: game_field
+      hint: null
+      type: select_one
+      options:
+      - Grass
+      - Turf
+      - Indoor
+      required: true
+    - id: 18
+      name: player_abilities
+      label: player_abilities
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Excellent
+      - Excellent
+      - Excellent
+      required: false
+    - id: 19
+      name: team_logo
+      label: team_logo
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: coach_abilities
+      label: coach_abilities
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Excellent
+      - Excellent
+      - Excellent
+      required: true
+    - id: 21
+      name: team_description
+      label: team_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: game_details
+      label: game_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: game_comments
+      label: game_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: game_status
+      label: game_status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: true
+    - id: 25
+      name: submit
+      label: submit
+      hint: Click submit to submit this form.
+      type: select_one
+      options:
+      - Submit
+      - Save for later
+      required: true

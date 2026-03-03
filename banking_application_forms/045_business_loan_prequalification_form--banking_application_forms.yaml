@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Loan Prequalification Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Prequalification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business name
+      hint: Name of applicant business
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_name
+      label: Contact name
+      hint: Primary contact for prequalification
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: For prequalification results
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: requested_amount
+      label: Requested amount
+      hint: Amount you wish to prequalify for
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: annual_revenue
+      label: Annual revenue
+      hint: Approximate yearly revenue
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: credit_score_estimate
+      label: Credit score estimate
+      hint: If known provide approximate business credit score
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: years_in_business
+      label: Years in business
+      hint: Number of years operating
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: intended_use
+      label: Intended use of funds
+      hint: Short description of how funds will be used
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: agree_credit_check
+      label: Agree to credit check
+      hint: Consent to run credit checks for prequalification
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: eviction_notice_declaration_form
+    pages:
+    - id: 1
+      name: tenant_name
+      label: Tenant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_eviction
+      label: reason_for_eviction
+      hint: null
+      type: select_one
+      options:
+      - Tenant has failed to pay rent
+      - Lease non-compliance
+      - Lease expiration
+      - Other
+      required: false
+    - id: 3
+      name: date_of_first_notification
+      label: date_of_first_notification
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: date_of_last_notification
+      label: date_of_last_notification
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_non_compliance
+      label: reason_for_non_compliance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: tenant_contact_name
+      label: tenant_contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: landlord_contact_name
+      label: landlord_contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: tenant_phone
+      label: tenant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: tenant_email
+      label: tenant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: landlord_phone
+      label: landlord_phone
+      hint: null
+      type: text
+      options: []
+      required: false

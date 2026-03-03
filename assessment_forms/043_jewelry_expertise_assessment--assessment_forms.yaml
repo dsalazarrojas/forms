@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Jewelry Expertise Assessment
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_addr
+      label: Email Addr
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_num
+      label: Phone Num
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: expertise_level
+      label: Expertise Level
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 6
+      name: experience_years
+      label: Experience Years
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: jewelry_type
+      label: Jewelry Type
+      hint: null
+      type: select_multiple
+      options:
+      - Jewelry 1
+      - Jewelry 2
+      - Jewelry 3
+      required: false
+    - id: 8
+      name: knowledge_areas
+      label: Knowledge Areas
+      hint: null
+      type: select_multiple
+      options:
+      - Area 1
+      - Area 2
+      - Area 3
+      required: true
+    - id: 9
+      name: education_background
+      label: Education Background
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: certification_info
+      label: Certification Info
+      hint: null
+      type: select_multiple
+      options:
+      - Cert 1
+      - Cert 2
+      - Cert 3
+      required: false
+    - id: 11
+      name: jewelry_related_experience
+      label: Jewelry Related Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false

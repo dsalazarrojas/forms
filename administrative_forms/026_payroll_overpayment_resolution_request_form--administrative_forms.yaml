@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payroll Overpayment Resolution Request Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: overpayment_amount
+      label: Overpayment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: date_of_overpayment
+      label: Date of Overpayment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: reason_for_overpayment
+      label: Reason for Overpayment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: date_approved
+      label: Date Approved
+      hint: null
+      type: time
+      options: []
+      required: false

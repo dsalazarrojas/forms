@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Critical Work Day Assessment
+    pages:
+    - id: 1
+      name: work_day_details
+      label: Work Day Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: risk_factor
+      label: Risk Factor
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 4
+      name: impact_factor
+      label: Impact Factor
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: resource_requirements
+      label: Resource Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: resource_allocation
+      label: Resource Allocation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: support_requirements
+      label: Support Requirements
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Email
+      - Phone
+      - In Person
+      required: false
+    - id: 8
+      name: criticality_rating
+      label: Criticality Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

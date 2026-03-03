@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: vehicle_idling_assessment_form
+    pages:
+    - id: 1
+      name: vehicle_idling_frequency
+      label: vehicle idling frequency
+      hint: null
+      type: select_multiple
+      options:
+      - idling a few minutes each day
+      - idling an hour or more each day
+      - idling several hours each day
+      - idling most of the day
+      required: false
+    - id: 2
+      name: idling_reason
+      label: idling reason
+      hint: null
+      type: select_one
+      options:
+      - Personal reasons
+      - Work-related reasons
+      - Other reasons
+      required: false
+    - id: 3
+      name: idling_duration
+      label: idling duration
+      hint: Enter idling duration in minutes
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: idling_fuel_consumption_impact
+      label: idling fuel consumption impact
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 5
+      name: idling_air_pollution_impact
+      label: idling air pollution impact
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 6
+      name: idling_noise_impact
+      label: idling noise impact
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 7
+      name: idling_vibration_impact
+      label: idling vibration impact
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 8
+      name: idling_heat_impact
+      label: idling heat impact
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 9
+      name: idling_co2_emissions
+      label: idling co2 emissions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: idling_particulate_matter
+      label: idling particulate matter
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: idling_nox_nox_emissions
+      label: idling nox/nox emissions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: idling_pm2_5_emissions
+      label: idling pm2.5 emissions
+      hint: null
+      type: number
+      options: []
+      required: false

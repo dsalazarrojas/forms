@@ -1,0 +1,87 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Toulouse Olfactory Assessment Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: demographics
+      label: Demographics
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''1'', ''label'': ''1''}'
+      - '{''value'': ''2'', ''label'': ''2''}'
+      required: true
+    - id: 4
+      name: olfactory_questionnaire
+      label: Olfactory Questionnaire
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''A'', ''label'': ''A''}'
+      - '{''value'': ''B'', ''label'': ''B''}'
+      - '{''value'': ''C'', ''label'': ''C''}'
+      required: true
+    - id: 5
+      name: olfactory_screening
+      label: Olfactory Screening
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: olfactory_symptoms
+      label: Olfactory Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': 1}'
+      - '{''value'': 2, ''label'': 2}'
+      - '{''value'': 3, ''label'': 3}'
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: true

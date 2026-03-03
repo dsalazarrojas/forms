@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Key Sign Out Form
+    pages:
+    - id: 1
+      name: project_key_sign_out_form_project_id
+      label: Project
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: project_key_sign_out_form_return_window
+      label: Return Window
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: project_key_sign_out_form_returned_item
+      label: Returned Item
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: project_key_sign_out_form_return_time
+      label: Return Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: project_key_sign_out_form_goals
+      label: Project Goals
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: project_key_sign_out_form_accountability_checklist
+      label: Accountability Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: project_key_sign_out_form_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_key_sign_out_form_expected_return_date
+      label: Expected Return Date
+      hint: null
+      type: date
+      options: []
+      required: false

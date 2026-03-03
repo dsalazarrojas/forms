@@ -1,0 +1,152 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Aviation Communication Quiz
+    pages:
+      - id: 1
+        name: section_student_info
+        label: -- Student Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: student_name
+        label: Student Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: student_email
+        label: Student Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: instructor_name
+        label: Instructor Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: quiz_date
+        label: Date of Quiz
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: section_quiz_questions
+        label: -- Phraseology and Radio Procedures --
+        hint: Choose the most appropriate standard aviation term
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: phrase_standby
+        label: Standard phrase for - Wait a moment -
+        hint: null
+        type: select_one
+        options:
+          - Wait
+          - Stand by
+          - Hold on
+          - Pause
+        required: true
+      - id: 8
+        name: phrase_roger
+        label: Standard phrase for - I have received all of your last transmission -
+        hint: null
+        type: select_one
+        options:
+          - Roger
+          - Copy
+          - Received
+          - Affirmative
+        required: true
+      - id: 9
+        name: distress_signal
+        label: What is the international standard distress signal?
+        hint: Use for immediate danger to life or aircraft
+        type: select_one
+        options:
+          - Mayday
+          - Pan-Pan
+          - SOS
+          - Emergency
+        required: true
+      - id: 10
+        name: urgency_signal
+        label: What is the international standard urgency signal?
+        hint: Use for safety of aircraft or person but not immediate danger
+        type: select_one
+        options:
+          - Mayday
+          - Pan-Pan
+          - SOS
+          - Securite
+        required: true
+      - id: 11
+        name: phrase_over
+        label: Phrase for - My transmission is ended and I expect a response from you -
+        hint: null
+        type: select_one
+        options:
+          - Over
+          - Out
+          - Copy
+          - Roger
+        required: true
+      - id: 12
+        name: meaning_wilco
+        label: What does the term - Wilco - mean?
+        hint: null
+        type: select_one
+        options:
+          - Will comply
+          - Will copy
+          - Will cooperate
+          - Welcome
+        required: true
+      - id: 13
+        name: phonetic_r
+        label: ICAO Phonetic Alphabet for the letter - R -
+        hint: null
+        type: select_one
+        options:
+          - Roger
+          - Romeo
+          - Radio
+          - Red
+        required: true
+      - id: 14
+        name: altitude_phrase
+        label: Correct way to state altitude of 4,500 ft
+        hint: null
+        type: select_one
+        options:
+          - Four thousand five hundred
+          - Four five zero zero
+          - Forty-five hundred
+        required: true
+      - id: 15
+        name: student_feedback
+        label: Comments or feedback on the training material
+        hint: Any areas that were confusing?
+        type: text
+        options: []
+        required: false

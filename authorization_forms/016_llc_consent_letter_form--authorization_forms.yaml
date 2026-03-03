@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: LLC Consent Letter Form
+    pages:
+    - id: 1
+      name: form_title
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: company_name
+      hint: Enter the name of your company
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: member_name
+      label: member_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: member_position
+      label: member_position
+      hint: Enter the position or title of the member
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: action_description
+      label: action_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: company_address
+      label: company_address
+      hint: Enter the address of your company
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: member_address
+      label: member_address
+      hint: Enter the address of the LLC member
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone
+      label: phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: fax
+      label: fax
+      hint: Enter your fax number
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: document_link
+      label: document_link
+      hint: Upload a link to a document if applicable
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Link 1''}'
+      - '{''id'': 2, ''label'': ''Link 2''}'
+      - '{''id'': 3, ''label'': ''Link 3''}'
+      required: false
+    - id: 14
+      name: uploaded_by
+      label: uploaded_by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: uploaded_date
+      label: uploaded_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: uploaded_time
+      label: uploaded_time
+      hint: Upload time in 24 hour format
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: uploaded_file
+      label: uploaded_file
+      hint: Upload a file if applicable
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: file_name
+      label: file_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: file_size
+      label: file_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: uploaded_by_employees
+      label: uploaded_by_employees
+      hint: Select all employees who uploaded documents
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Employee 1''}'
+      - '{''id'': 2, ''label'': ''Employee 2''}'
+      - '{''id'': 3, ''label'': ''Employee 3''}'
+      required: false
+    - id: 21
+      name: company_representative
+      label: company_representative
+      hint: Enter the name of the company representative
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: signature2
+      label: signature2
+      hint: Enter the name of the second signature if applicable
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: uploaded_by_representative
+      label: uploaded_by_representative
+      hint: Enter the name of the company representative who uploaded this document
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: uploaded_by_representative_position
+      label: uploaded_by_representative_position
+      hint: Enter the position of the company representative who uploaded this document
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: comments
+      hint: Add any additional comments about this document
+      type: text
+      options: []
+      required: false

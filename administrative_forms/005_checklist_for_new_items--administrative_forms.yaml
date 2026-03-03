@@ -1,0 +1,228 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Checklist For New Items
+    pages:
+      - id: 1
+        name: project_name
+        label: Project Name
+        hint: Name of the project or product launch
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: project_manager
+        label: Project Manager
+        hint: Name of the project manager
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: launch_date
+        label: Planned Launch Date
+        hint: Target date for launch or release
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: department
+        label: Department
+        hint: Department responsible for this item
+        type: select_one
+        options:
+          - Product Development
+          - Marketing
+          - Sales
+          - Operations
+          - IT
+          - Other
+        required: true
+      - id: 5
+        name: item_category
+        label: Item Category
+        hint: Type of item being launched
+        type: select_one
+        options:
+          - Physical Product
+          - Digital Product
+          - Service
+          - Event
+          - Campaign
+          - Other
+        required: true
+      - id: 6
+        name: requirements_documented
+        label: Requirements Documented
+        hint: Have all requirements been documented
+        type: select_one
+        options:
+          - Yes, complete
+          - In progress
+          - Not started
+        required: true
+      - id: 7
+        name: stakeholder_approval
+        label: Stakeholder Approval
+        hint: Have stakeholders approved the item
+        type: select_one
+        options:
+          - Yes, all approved
+          - Partially approved
+          - Pending approval
+        required: true
+      - id: 8
+        name: budget_allocated
+        label: Budget Allocated
+        hint: Has budget been allocated for this item
+        type: select_one
+        options:
+          - Yes, fully allocated
+          - Partially allocated
+          - Not allocated
+        required: true
+      - id: 9
+        name: resources_assigned
+        label: Resources Assigned
+        hint: Have necessary resources been assigned
+        type: select_one
+        options:
+          - Yes, all assigned
+          - Partially assigned
+          - Not assigned
+        required: true
+      - id: 10
+        name: quality_testing_complete
+        label: Quality Testing Complete
+        hint: Has quality testing been completed
+        type: select_one
+        options:
+          - Yes, all tests passed
+          - Testing in progress
+          - Testing not started
+          - Not applicable
+        required: true
+      - id: 11
+        name: documentation_complete
+        label: Documentation Complete
+        hint: Is all documentation ready
+        type: select_one
+        options:
+          - Yes, complete
+          - In progress
+          - Not started
+        required: true
+      - id: 12
+        name: marketing_materials_ready
+        label: Marketing Materials Ready
+        hint: Are marketing materials prepared
+        type: select_one
+        options:
+          - Yes, ready
+          - In progress
+          - Not started
+          - Not applicable
+        required: true
+      - id: 13
+        name: training_completed
+        label: Staff Training Completed
+        hint: Has relevant staff been trained
+        type: select_one
+        options:
+          - Yes, all trained
+          - Training in progress
+          - Training scheduled
+          - Not required
+        required: true
+      - id: 14
+        name: legal_compliance_review
+        label: Legal Compliance Review
+        hint: Has legal compliance been reviewed
+        type: select_one
+        options:
+          - Yes, approved
+          - Under review
+          - Not reviewed
+        required: true
+      - id: 15
+        name: risk_assessment_done
+        label: Risk Assessment Done
+        hint: Has a risk assessment been conducted
+        type: select_one
+        options:
+          - Yes, complete
+          - In progress
+          - Not done
+        required: true
+      - id: 16
+        name: supply_chain_verified
+        label: Supply Chain Verified
+        hint: Has supply chain been verified
+        type: select_one
+        options:
+          - Yes, verified
+          - Partially verified
+          - Not verified
+          - Not applicable
+        required: true
+      - id: 17
+        name: customer_support_ready
+        label: Customer Support Ready
+        hint: Is customer support prepared for launch
+        type: select_one
+        options:
+          - Yes, ready
+          - Training needed
+          - Not ready
+        required: true
+      - id: 18
+        name: launch_checklist_reviewed
+        label: Launch Checklist Reviewed
+        hint: Has the full launch checklist been reviewed
+        type: select_one
+        options:
+          - Yes, reviewed
+          - Partially reviewed
+          - Not reviewed
+        required: true
+      - id: 19
+        name: outstanding_items
+        label: Outstanding Items
+        hint: List any items still pending
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: go_no_go_decision
+        label: Go or No-Go Decision
+        hint: Final decision on launch readiness
+        type: select_one
+        options:
+          - Go - Ready to launch
+          - Conditional Go - Minor issues
+          - No-Go - Not ready
+        required: true
+      - id: 21
+        name: reviewer_name
+        label: Reviewer Name
+        hint: Name of the person completing this checklist
+        type: text
+        options: []
+        required: true
+      - id: 22
+        name: review_date
+        label: Review Date
+        hint: Date of this review
+        type: date
+        options: []
+        required: true

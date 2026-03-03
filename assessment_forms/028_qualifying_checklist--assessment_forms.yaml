@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: qualifying_checklist
+    pages:
+    - id: 1
+      name: has_been_hired_elsewhere
+      label: has been hired elsewhere
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: has_other_sources_of_income
+      label: has other sources of income
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: employment_start_date
+      label: Employment Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: employment_end_date
+      label: Employment End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_leaving_last_employment
+      label: reason for leaving last employment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: current_employment_status
+      label: current employment status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: employment_history_length
+      label: prophets employment history length"
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: employment_history_start_date
+      label: Employment History Start Date
+      hint: null
+      type: date
+      options: []
+      required: false

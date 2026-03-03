@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Work Ergonomic Assessment
+    pages:
+    - id: 1
+      name: intro
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: workstation_location
+      label: workstation_location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: monitor_height
+      label: monitor_height
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: input_device
+      label: input_device
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: chair_height
+      label: chair_height
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: standing_desk_height
+      label: standing_desk_height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: keyboard_height
+      label: keyboard_height
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: mouse_location
+      label: mouse_location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: other_input_devices
+      label: other_input_devices
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: ergonomic_issues
+      label: ergonomic_issues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: recommendations
+      label: recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submission
+      label: submission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: reviewer
+      label: reviewer
+      hint: null
+      type: text
+      options: []
+      required: true

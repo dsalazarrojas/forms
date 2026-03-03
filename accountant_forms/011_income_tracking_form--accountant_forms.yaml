@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: income_tracking_form
+    pages:
+    - id: 1
+      name: payment_details
+      label: payment_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_date
+      label: payment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: payee_name
+      label: payee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - Bank Transfer
+      - Check
+      - PayPal
+      - Cash
+      - Other
+      required: false
+    - id: 6
+      name: reconciled_status
+      label: reconciled_status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Reconciled
+      - Partially Reconciled
+      - Not Reconciled
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

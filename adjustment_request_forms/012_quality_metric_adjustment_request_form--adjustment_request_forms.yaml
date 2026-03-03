@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quality Metric Adjustment Request Form
+    pages:
+    - id: 1
+      name: submit_request
+      label: Submit Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_request
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: metric_to_adjust
+      label: Metric to Adjust
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: old_metric_value
+      label: Old Metric Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: new_metric_value
+      label: New Metric Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: reason_for_adjustment
+      label: Reason for Adjustment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reviewer
+      label: Reviewer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: status_comments
+      label: Status Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: submitter_comments
+      label: Submitter Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: approver
+      label: Approver
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: approver_comments
+      label: Approver Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: team
+      label: Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: reviewer_signature
+      label: Reviewer Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: submitter_signature
+      label: Submitter Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: approver_signature
+      label: Approver Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: submitter_date
+      label: Submitter Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: submitter_time
+      label: Submitter Time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Football Equipment Issue Form
+    pages:
+    - id: 1
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: issue_date
+      label: Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: equipment_id
+      label: Equipment ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: issue_reason
+      label: Issue Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - Jimmy
+      - John
+      - Jane
+      required: false
+    - id: 7
+      name: player_number
+      label: Player Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: issue_status
+      label: Issue Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Closed
+      required: false
+    - id: 10
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: issue_date_time
+      label: Issue Date/Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: issue_date_time_2
+      label: Issue Date/Time 2
+      hint: null
+      type: date
+      options: []
+      required: false

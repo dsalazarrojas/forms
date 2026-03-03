@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Risk Assessment And Method Statement (RAMS) Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: job_details
+      label: Job Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: hazards
+      label: Hazards
+      hint: null
+      type: select_multiple
+      options:
+      - Fall from heights
+      - Electrical hazards
+      - Falling object
+      - Falling from heights
+      - Falls from heights
+      - Electrical
+      - Explosive
+      - Burns
+      - Cuts
+      required: true
+    - id: 4
+      name: risk_level
+      label: Risk level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: control_measures
+      label: Control Measures
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: risk_factors
+      label: Risk Factors
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Moderate
+      required: true
+    - id: 7
+      name: risk_control_measures
+      label: Risk Control Measures
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: action_items
+      label: Action Items
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_multiple
+      options:
+      - Approved
+      - Rejected
+      - In review
+      - Awaiting approval
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: reviewed_by
+      label: Reviewed by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: reviewed_on
+      label: Reviewed on
+      hint: null
+      type: date
+      options: []
+      required: true

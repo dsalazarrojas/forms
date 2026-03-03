@@ -1,0 +1,295 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Wellness Program Evaluation Survey
+    pages:
+      - id: 1
+        name: athlete_name
+        label: Athlete Full Name
+        hint: First and last name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: athlete_id
+        label: Athlete ID Number
+        hint: Student or team identification number
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: sport
+        label: Sport
+        hint: Primary sport
+        type: select_one
+        options:
+          - Football
+          - Basketball
+          - Soccer
+          - Track and Field
+          - Swimming
+          - Volleyball
+          - Baseball
+          - Softball
+          - Tennis
+          - Other
+        required: true
+      - id: 4
+        name: team_level
+        label: Team Level
+        hint: Competition level
+        type: select_one
+        options:
+          - Varsity
+          - Junior Varsity
+          - Freshman
+          - Club Team
+        required: true
+      - id: 5
+        name: survey_date
+        label: Survey Date
+        hint: Date of survey
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: program_participation_duration
+        label: How Long Have You Been in the Wellness Program
+        hint: Duration of participation
+        type: select_one
+        options:
+          - Less Than 1 Month
+          - 1 to 3 Months
+          - 3 to 6 Months
+          - 6 Months to 1 Year
+          - Over 1 Year
+        required: true
+      - id: 7
+        name: overall_wellness_rating
+        label: Overall Wellness Rating
+        hint: Rate your overall wellness
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 8
+        name: physical_wellness
+        label: Physical Wellness
+        hint: Rate your physical health
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 9
+        name: mental_wellness
+        label: Mental Wellness
+        hint: Rate your mental health
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 10
+        name: emotional_wellness
+        label: Emotional Wellness
+        hint: Rate your emotional health
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 11
+        name: social_wellness
+        label: Social Wellness
+        hint: Rate your social connections
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 12
+        name: sleep_quality
+        label: Sleep Quality
+        hint: Rate your typical sleep quality
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 13
+        name: stress_level
+        label: Current Stress Level
+        hint: Rate your stress level
+        type: select_one
+        options:
+          - Very Low
+          - Low
+          - Moderate
+          - High
+          - Very High
+        required: true
+      - id: 14
+        name: program_components_used
+        label: Program Components Used
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Wellness Screenings
+          - Mental Health Counseling
+          - Nutrition Counseling
+          - Stress Management Workshops
+          - Sleep Education
+          - Recovery Sessions
+          - Mindfulness Training
+          - Peer Support Groups
+        required: true
+      - id: 15
+        name: most_helpful_component
+        label: Most Helpful Component
+        hint: What has helped you most
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: program_accessibility
+        label: Program Accessibility
+        hint: How easy is it to access program services
+        type: select_one
+        options:
+          - Very Easy
+          - Easy
+          - Neutral
+          - Difficult
+          - Very Difficult
+        required: true
+      - id: 17
+        name: staff_support
+        label: Staff Support Quality
+        hint: Rate the support from program staff
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 18
+        name: program_impact_performance
+        label: Impact on Athletic Performance
+        hint: How has the program affected your performance
+        type: select_one
+        options:
+          - Significant Improvement
+          - Moderate Improvement
+          - Slight Improvement
+          - No Change
+          - Negative Impact
+        required: true
+      - id: 19
+        name: program_impact_wellbeing
+        label: Impact on Overall Well-Being
+        hint: How has the program affected your well-being
+        type: select_one
+        options:
+          - Significant Improvement
+          - Moderate Improvement
+          - Slight Improvement
+          - No Change
+          - Negative Impact
+        required: true
+      - id: 20
+        name: barriers_to_participation
+        label: Barriers to Participation
+        hint: What has prevented you from participating more
+        type: select_multiple
+        options:
+          - Lack of Time
+          - Scheduling Conflicts
+          - Lack of Awareness
+          - Transportation Issues
+          - Privacy Concerns
+          - Not Interested
+          - No Barriers
+        required: true
+      - id: 21
+        name: desired_services
+        label: Additional Services Desired
+        hint: What services would you like to see added
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: program_satisfaction
+        label: Overall Program Satisfaction
+        hint: How satisfied are you with the program
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 23
+        name: continue_participation
+        label: Will You Continue in the Program
+        hint: Do you plan to continue participating
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Not Sure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 24
+        name: recommend_to_others
+        label: Would You Recommend to Other Athletes
+        hint: Would you recommend this program
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Not Sure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 25
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback about the wellness program
+        type: text
+        options: []
+        required: false

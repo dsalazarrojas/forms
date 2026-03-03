@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Provider Authorization Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_provider_id
+      label: Service Provider ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: authorization_date
+      label: Authorization Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Service Type 1''}'
+      - '{''id'': 2, ''value'': ''Service Type 2''}'
+      - '{''id'': 3, ''value'': ''Service Type 3''}'
+      - '{''id'': 4, ''value'': ''Service Type 4''}'
+      - '{''id'': 5, ''value'': ''Service Type 5''}'
+      - '{''id'': 6, ''value'': ''Service Type 6''}'
+      - '{''id'': 7, ''value'': ''Service Type 7''}'
+      - '{''id'': 8, ''value'': ''Service Type 8''}'
+      required: false
+    - id: 7
+      name: service_status
+      label: Service Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Active''}'
+      - '{''id'': 2, ''value'': ''Inactive''}'
+      - '{''id'': 3, ''value'': ''Pending''}'
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''ChatJimmy''}'
+      - '{''id'': 2, ''value'': ''Admin User''}'
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''chatjimmy''}'
+      - '{''id'': 2, ''value'': ''other_tool''}'
+      required: false
+    - id: 13
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false

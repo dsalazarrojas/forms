@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: IT Network Security Measures Assessment Form
+    pages:
+    - id: 1
+      name: network_security_controls
+      label: Network Security Controls
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: network_security_practices
+      label: Network Security Practices
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: incident_response_plan
+      label: Incident Response Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_response_procedure
+      label: Incident Response Procedure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_response_team
+      label: Incident Response Team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: monitoring_and_reporting
+      label: Monitoring and Reporting
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: security_policy
+      label: Security Policy
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: network_security_measures
+      label: Network Security Measures
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Device Pick Up Appointment Form
+    pages:
+    - id: 1
+      name: device_pick_up_appointment_form
+      label: device_pick_up_appointment_form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: user
+      label: user
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: device_type
+      label: device_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Laptop''}'
+      - '{''id'': 2, ''label'': ''Tablet''}'
+      - '{''id'': 3, ''label'': ''Chromebook''}'
+      required: false
+    - id: 4
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: user_email
+      label: user_email
+      hint: null
+      type: email
+      options: []
+      required: false

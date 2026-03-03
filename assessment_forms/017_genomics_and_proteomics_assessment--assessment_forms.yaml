@@ -1,0 +1,41 @@
+inputSchema:
+  type: object
+  properties:
+    title: Genomics And Proteomics Assessment
+    pages:
+    - id: 1
+      name: knowledge_levels
+      label: Knowledge Levels
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 2
+      name: training_needs
+      label: Training Needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: workshop_planning
+      label: Workshop Planning
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: research_support
+      label: Research Support
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

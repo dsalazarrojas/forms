@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Collaboration Request Form
+    pages:
+    - id: 1
+      name: team_collaboration_request_form
+      label: Team Collaboration Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - assistance
+      - resources
+      - project_collaboration
+      required: false
+    - id: 4
+      name: project_info
+      label: Project Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: collaboration_type
+      label: Collaboration Type
+      hint: null
+      type: select_one
+      options:
+      - assistance
+      - resource_request
+      - project_partnership
+      required: false
+    - id: 6
+      name: collaboration_date
+      label: Collaboration Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: collaboration_time
+      label: Collaboration End Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: collaboration_note
+      label: Collaboration Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 12
+      name: assigned_tool_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false

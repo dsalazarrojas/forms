@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Subcontractor Invoice Review Form
+    pages:
+    - id: 1
+      name: subcontractor_invoices
+      label: Subcontractor Invoices
+      hint: List of subcontractor invoices
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 3
+      name: reviewed_by
+      label: Reviewed By
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: date_reviewed
+      label: Date Reviewed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: comment
+      label: Comment
+      hint: Enter your comment here...
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: approvals
+      label: Approvals
+      hint: Number of approvals required
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: revisions
+      label: Revisions
+      hint: Number of revisions
+      type: number
+      options: []
+      required: false

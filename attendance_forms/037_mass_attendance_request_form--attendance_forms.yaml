@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mass Attendance Request Form
+    pages:
+    - id: 1
+      name: mass_attendance_request_form_1
+      label: fill_out_your_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: name_of_family_members
+      label: family_members
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: 123-456-7890
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: date_of_mass
+      label: date_of_mass
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time_of_mass
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: mass_location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: special_request
+      label: special_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false

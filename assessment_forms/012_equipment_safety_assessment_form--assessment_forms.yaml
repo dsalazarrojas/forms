@@ -1,0 +1,214 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Equipment Safety Assessment Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Equipment Safety Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''None'', ''value'': ''None''}'
+      - '{''id'': 2, ''label'': ''Equipment'', ''value'': ''Equipment''}'
+      - '{''id'': 3, ''label'': ''Machinery'', ''value'': ''Machinery''}'
+      - '{''id'': 4, ''label'': ''Tools'', ''value'': ''Tools''}'
+      required: true
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Office'', ''value'': ''Office''}'
+      - '{''id'': 2, ''label'': ''Warehouse'', ''value'': ''Warehouse''}'
+      - '{''id'': 3, ''label'': ''Factory'', ''value'': ''Factory''}'
+      - '{''id'': 4, ''label'': ''Other'', ''value'': ''Other''}'
+      required: true
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: condition
+      label: Condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Excellent'', ''value'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Good'', ''value'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Fair'', ''value'': ''Fair''}'
+      - '{''id'': 4, ''label'': ''Poor'', ''value'': ''Poor''}'
+      required: true
+    - id: 6
+      name: safety_risks
+      label: Safety Risks
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: corrective_actions
+      label: Corrective Actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: certification
+      label: Certification
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''label'': False, ''value'': False}'
+      - '{''id'': 3, ''label'': ''Not Required'', ''value'': ''Not Required''}'
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: completed_by
+      label: Completed By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: reviewer_id
+      label: Reviewer ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: equipment_status
+      label: Equipment Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''In Use'', ''value'': ''In Use''}'
+      - '{''id'': 2, ''label'': ''Not In Use'', ''value'': ''Not In Use''}'
+      - '{''id'': 3, ''label'': ''Decommissioned'', ''value'': ''Decommissioned''}'
+      - '{''id'': 4, ''label'': ''Removed'', ''value'': ''Removed''}'
+      required: true
+    - id: 15
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: reviewer_department
+      label: Reviewer Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: last_equipment_inspection
+      label: Last Equipment Inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: next_equipment_inspection
+      label: Next Equipment Inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: last_equipment_maintenance
+      label: Last Equipment Maintenance
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: next_equipment_maintenance
+      label: Next Equipment Maintenance
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: next_equipment_overhaul
+      label: Next Equipment Overhaul
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: next_equipment_retirement
+      label: Next Equipment Retirement
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: equipment_location
+      label: Equipment Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: safety_rating
+      label: Safety Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Excellent'', ''value'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Good'', ''value'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Fair'', ''value'': ''Fair''}'
+      - '{''id'': 4, ''label'': ''Poor'', ''value'': ''Poor''}'
+      required: true

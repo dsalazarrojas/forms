@@ -1,0 +1,124 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Bushfire Supporter Survey
+    pages:
+      - id: 1
+        name: section_supporter_profile
+        label: -- Supporter Profile --
+        hint: Help us understand who is backing our animal welfare efforts
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: supporter_name
+        label: Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: supporter_email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: referral_source
+        label: How did you hear about our bushfire relief efforts
+        hint: null
+        type: select_one
+        options:
+          - Social Media
+          - News / Radio
+          - Word of Mouth
+          - Email Newsletter
+          - Community Event
+        required: true
+      - id: 5
+        name: section_motivation_skills
+        label: -- Motivation and Skills --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: motivation_statement
+        label: What motivates you to support animal welfare during bushfires
+        hint: Please share your thoughts
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: preferred_support_type
+        label: Primary Way You Prefer to Support
+        hint: Choose the most likely method
+        type: select_one
+        options:
+          - Monetary Donations
+          - On-the-ground Volunteering
+          - Animal Fostering
+          - Resource/Supply Donations
+          - Awareness/Social Media Advocacy
+        required: true
+      - id: 8
+        name: previous_volunteer_history
+        label: Have you volunteered for animal rescue before
+        hint: null
+        type: select_one
+        options:
+          - Yes, frequently
+          - Yes, once or twice
+          - No, but I want to start
+        required: true
+      - id: 9
+        name: relevant_skills_selection
+        label: Do you have any of the following specialized skills
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Veterinary/Medical Training
+          - Wildlife Handling Experience
+          - Driving (Truck/Heavy Vehicle)
+          - Logistics / Coordination
+          - Search and Rescue Training
+        required: false
+      - id: 10
+        name: support_frequency_intent
+        label: How often would you like to contribute or help
+        hint: null
+        type: select_one
+        options:
+          - Weekly
+          - Monthly
+          - Only during active emergencies
+          - One-time contribution
+        required: true
+      - id: 11
+        name: mailing_list_opt_in
+        label: Would you like to join our emergency alert mailing list
+        hint: We only send emails during active bushfire threats
+        type: select_one
+        options:
+          - Yes, sign me up
+          - No, thank you
+        required: true
+      - id: 12
+        name: survey_completion_date
+        label: Survey Date
+        hint: null
+        type: date
+        options: []
+        required: true

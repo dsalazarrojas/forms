@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Registration Release Form
+    pages:
+    - id: 1
+      name: vehicle_registration_release_form_vehicle_information
+      label: Vehicle Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_registration_release_form_ownership_status
+      label: Vehicle Ownership Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 3
+      name: vehicle_registration_release_form_lien_status
+      label: Lien Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: vehicle_registration_release_form_release_amount
+      label: Release Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_registration_release_form_release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_registration_release_form_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

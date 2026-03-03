@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Daily Readiness Assessment
+    pages:
+    - id: 1
+      name: checkin_header
+      label: -- Daily Check-in --
+      hint: Complete this form before your first training session of the day.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: athlete_name
+      label: Athlete Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: assessment_date
+      label: Date of Assessment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: submission_time
+      label: Time of Submission
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: physical_header
+      label: -- Physical Readiness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: sleep_quality
+      label: Sleep Quality
+      hint: 1 is Poor, 5 is Excellent
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Average
+      - 4 - Good
+      - 5 - Excellent
+      required: true
+    - id: 7
+      name: sleep_duration
+      label: Sleep Duration - Hours
+      hint: How many hours of sleep did you get last night?
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: energy_level
+      label: Current Energy Level
+      hint: 1 is Very Low, 5 is Very High
+      type: select_one
+      options:
+      - 1 - Very Low
+      - 2 - Low
+      - 3 - Moderate
+      - 4 - High
+      - 5 - Very High
+      required: true
+    - id: 10
+      name: muscle_soreness
+      label: Muscle Soreness Level
+      hint: 1 is No Soreness, 5 is Extreme Soreness
+      type: select_one
+      options:
+      - 1 - None
+      - 2 - Mild
+      - 3 - Moderate
+      - 4 - Significant
+      - 5 - Extreme
+      required: true
+    - id: 11
+      name: hydration_status
+      label: Hydration Status
+      hint: 1 is Dehydrated, 5 is Well Hydrated
+      type: select_one
+      options:
+      - 1 - Very Dehydrated
+      - 2 - Dehydrated
+      - 3 - Neutral
+      - 4 - Hydrated
+      - 5 - Well Hydrated
+      required: true
+    - id: 12
+      name: mental_header
+      label: -- Mental Readiness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: mood_rating
+      label: Current Mood
+      hint: 1 is Very Negative, 5 is Very Positive
+      type: select_one
+      options:
+      - 1 - Very Negative
+      - 2 - Negative
+      - 3 - Neutral
+      - 4 - Positive
+      - 5 - Very Positive
+      required: true
+    - id: 14
+      name: stress_level
+      label: Current Stress Level
+      hint: 1 is No Stress, 5 is High Stress
+      type: select_one
+      options:
+      - 1 - None
+      - 2 - Low
+      - 3 - Moderate
+      - 4 - High
+      - 5 - Very High
+      required: true
+    - id: 15
+      name: training_readiness
+      label: Readiness to Train
+      hint: 1 is Not Ready, 5 is Fully Ready
+      type: select_one
+      options:
+      - 1 - Not Ready
+      - 2 - Struggling
+      - 3 - Prepared
+      - 4 - Highly Motivated
+      - 5 - Fully Ready
+      required: true
+    - id: 16
+      name: injury_header
+      label: -- Injuries and Concerns --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: injury_status
+      label: Any new injuries or niggles to report?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: injury_details
+      label: Injury or Niggle Details
+      hint: Describe location and type of pain
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: coach_comments
+      label: Any other comments for the coach?
+      hint: null
+      type: text
+      options: []
+      required: false

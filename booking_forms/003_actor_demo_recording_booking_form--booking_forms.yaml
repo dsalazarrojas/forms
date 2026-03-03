@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Actor Demo Recording Booking Form
+    pages:
+    - id: 1
+      name: contact_info_header
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Artist Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: agent_info
+      label: Agency / Representation (if any)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: recording_header
+      label: -- Recording Session Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: demo_type
+      label: Type of Demo Reel
+      hint: Choose the primary focus of the recording
+      type: select_one
+      options:
+      - Voiceover (Commercial)
+      - Voiceover (Animation/Gaming)
+      - Narrative / Audiobook
+      - Singing / Musical Theatre
+      - Dramatic Monologue (Audio)
+      required: true
+    - id: 8
+      name: session_package
+      label: Recording Package
+      hint: Select your preferred session length and edit package
+      type: select_one
+      options:
+      - Basic - 1 Hour (Raw Audio)
+      - Standard - 2 Hours (Edited/Mastered)
+      - Premium - 4 Hours (Full Production)
+      - Custom Session
+      required: true
+    - id: 9
+      name: booking_date
+      label: Preferred Recording Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: booking_time
+      label: Preferred Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: studio_location
+      label: Studio Location Preference
+      hint: null
+      type: select_one
+      options:
+      - Main Studio (Downtown)
+      - West Side Annex
+      - Remote / Home Studio (Director via Zoom)
+      required: true
+    - id: 12
+      name: script_assistance
+      label: Do you need script selection assistance?
+      hint: We can provide industry-standard sides for your reel
+      type: select_one
+      options:
+      - Yes - Please provide options
+      - No - I have my own scripts
+      required: true
+    - id: 13
+      name: specific_instructions
+      label: Special Technical Requests
+      hint: e.g. Specific microphone, music beds, sound effects
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: referral_source
+      label: How did you hear about us?
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Referral from Peer
+      - Search Engine
+      - Agent Recommendation
+      - Other
+      required: false

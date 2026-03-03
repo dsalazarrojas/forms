@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Entity Tax Preparation Status
+    pages:
+    - id: 1
+      name: entity_tax_preparation_status_form
+      label: Entity Tax Preparation Status Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: entity_tax_year
+      label: entity_tax_year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tax_preparation_status
+      label: tax_preparation_status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Completed
+      - Not Started
+      - Cancelled
+      - On Hold
+      required: false
+    - id: 4
+      name: entity_type
+      label: entity_type
+      hint: null
+      type: select_multiple
+      options:
+      - Accounting
+      - Audit
+      - Tax
+      - Financial Planning
+      - Consulting
+      required: true
+    - id: 5
+      name: tax_preparer
+      label: tax_preparer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: tax_preparer_phone
+      label: tax_preparer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: tax_preparer_email
+      label: tax_preparer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: tax_preparer_note
+      label: tax_preparer_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatbot
+      required: false
+    - id: 10
+      name: submitted
+      label: submitted
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: tax_return_due_date
+      label: tax_return_due_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: tax_return_submission_date
+      label: tax_return_submission_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: tax_return_filing_status
+      label: tax_return_filing_status
+      hint: null
+      type: select_one
+      options:
+      - Filing
+      - Not Filing
+      required: false
+    - id: 14
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: entity_tax_preparation_status
+      label: entity_tax_preparation_status
+      hint: null
+      type: select_one
+      options:
+      - Filing
+      - Not Filing
+      required: false
+    - id: 16
+      name: entity_tax_preparation_comments
+      label: entity_tax_preparation_comments
+      hint: null
+      type: text
+      options: []
+      required: false

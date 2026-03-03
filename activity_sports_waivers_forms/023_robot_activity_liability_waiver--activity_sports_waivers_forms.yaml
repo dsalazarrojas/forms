@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Robot Activity Liability Waiver
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: Please provide the contact information for emergency purposes.
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: parent_info
+      label: Parent/Guardian Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: robot_type
+      label: Robot Type
+      hint: null
+      type: select_one
+      options:
+      - Robot
+      - Robot Kit
+      - Robot Kit - Kit 2
+      - Other
+      - Other - Kit 1
+      - Other - Kit 2
+      required: true
+    - id: 6
+      name: robot_age
+      label: Age of Robot
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: true
+    - id: 7
+      name: robot_experience
+      label: How do you feel about your robot's experience level?
+      hint: null
+      type: select_multiple
+      options:
+      - Novice
+      - Intermediate
+      - Experienced
+      required: true
+    - id: 8
+      name: robot_skills
+      label: Skills
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: waiver_signed
+      label: Waiver Signed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - No - Not Required
+      required: true
+    - id: 10
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: robot_owner
+      label: Who is the Robot Owner?
+      hint: null
+      type: select_one
+      options:
+      - Self
+      - Parent
+      - Guardian
+      required: true
+    - id: 13
+      name: owner_address
+      label: Address of Robot Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: owner_phone
+      label: Phone of Robot Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: owner_email
+      label: Email of Robot Owner
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: robot_name
+      label: Name of Robot
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: robot_model
+      label: Model of Robot
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: robot_serial_number
+      label: Serial Number of Robot
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: robot_description
+      label: Description of Robot
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: robot_warranty
+      label: Is this Robot under warranty?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 21
+      name: warranty_expires
+      label: Warranty Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: robot_return_policy
+      label: Return Policy
+      hint: null
+      type: select_one
+      options:
+      - Self
+      - Parent
+      - Other
+      required: true
+    - id: 23
+      name: robot_return_address
+      label: Return Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: signature_2
+      label: Second Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 25
+      name: date_signed_2
+      label: Date Signed 2
+      hint: null
+      type: date
+      options: []
+      required: true

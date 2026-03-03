@@ -1,0 +1,142 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cable Hauling Safety Assessment
+    pages:
+      - id: 1
+        name: job_site_header
+        label: -- Job Site and Project Details --
+        hint: Pre-start Safety Assessment for Cable Hauling Operations
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: project_id
+        label: Project ID or Number
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: site_location
+        label: Work Site Location
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: crew_lead
+        label: Crew Lead / Supervisor
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: assessment_date
+        label: Date of Assessment
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: hazard_id_header
+        label: -- Hazard Identification --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: traffic_management
+        label: Traffic Management Plan in Place
+        hint: for work near public roads
+        type: select_one
+        options: [Yes, No, Not Applicable]
+        required: true
+      - id: 8
+        name: confined_space_entry
+        label: Confined Space Entry Required
+        hint: e.g. manholes, pits
+        type: select_one
+        options: [Yes, No]
+        required: true
+      - id: 9
+        name: underground_services_check
+        label: Dial-Before-You-Dig or Underground Services Verified
+        hint: null
+        type: select_one
+        options: [Verified, Pending, N/A]
+        required: true
+      - id: 10
+        name: weather_conditions
+        label: Weather Conditions Assessment
+        hint: check for wind, rain, or extreme heat
+        type: select_one
+        options: [Favorable, Caution Required, Work Suspended]
+        required: true
+      - id: 11
+        name: equipment_safety_header
+        label: -- Equipment and PPE --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: winch_inspection
+        label: Winch and Hauling Equipment Inspected
+        hint: check cables, pulleys, and anchors
+        type: select_one
+        options: [Pass, Fail]
+        required: true
+      - id: 13
+        name: communications_check
+        label: Two-way Communication Functional
+        hint: required between hauling and feeding ends
+        type: select_one
+        options: [Yes, No]
+        required: true
+      - id: 14
+        name: ppe_verification
+        label: All Personnel Wearing Required PPE
+        hint: helmets, high-vis, gloves, steel-caps
+        type: select_one
+        options: [Confirmed, Issues Identified]
+        required: true
+      - id: 15
+        name: mitigation_header
+        label: -- Risk Mitigation --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: risk_rating
+        label: Residual Risk Rating
+        hint: null
+        type: select_one
+        options: [Low, Medium, High - Controls Mandatory]
+        required: true
+      - id: 17
+        name: additional_controls
+        label: Description of Additional Controls Implemented
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: safety_sign_off
+        label: I certify the site is safe to commence work
+        hint: null
+        type: select_one
+        options: [Yes, No]
+        required: true

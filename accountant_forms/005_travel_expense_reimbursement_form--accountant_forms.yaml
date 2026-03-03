@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: travel expense reimbursement form
+    pages:
+    - id: 1
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: traveler_id
+      label: traveler id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: expense_type
+      label: expense type
+      hint: null
+      type: select_multiple
+      options:
+      - expense_type_1
+      - expense_type_2
+      - expense_type_3
+      required: false
+    - id: 5
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: currency
+      label: currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - CAD
+      - EUR
+      required: false
+    - id: 7
+      name: purpose
+      label: purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: travel_date
+      label: travel date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: travel_time
+      label: travel time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - submit
+      - cancel
+      required: false
+    - id: 14
+      name: submitted
+      label: submitted
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitted_by
+      label: submitted by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: submitted_date
+      label: submitted date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: submitted_time
+      label: submitted time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - approved
+      - rejected
+      required: false
+    - id: 19
+      name: submitter
+      label: submitter
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: submitted_to
+      label: submitted to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: travel_agency
+      label: travel agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: travel_agency_phone
+      label: travel agency phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: travel_agency_email
+      label: travel agency email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: travel_agency_fax
+      label: travel agency fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: travel_agency_address
+      label: travel agency address
+      hint: null
+      type: text
+      options: []
+      required: false

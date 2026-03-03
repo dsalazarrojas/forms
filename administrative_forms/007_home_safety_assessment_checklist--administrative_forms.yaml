@@ -1,0 +1,141 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: home_safety_assessment_checklist
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: home_safety_checklist
+      label: Home Safety Checklist
+      hint: Select all applicable items
+      type: select_multiple
+      options:
+      - Electrical Safety
+      - Fire Safety
+      - Emergency Response
+      - Access and Egress
+      - Hazardous Materials
+      - Emergency Preparedness
+      - Environmental Hazards
+      - Safety Equipment
+      required: false
+    - id: 3
+      name: electrical_safety
+      label: Electrical Safety
+      hint: Check the status of electrical systems in your home
+      type: select_one
+      options:
+      - Fully functional
+      - Partially functional
+      - Not functional
+      required: false
+    - id: 4
+      name: smoke_detector_installed
+      label: Smoke Detector Installed
+      hint: Check if a smoke detector is installed
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: fire_extinguishers
+      label: Fire Extinguisher
+      hint: Check if fire extinguishers are present and functional
+      type: select_one
+      options:
+      - Working
+      - Defective
+      - None
+      required: false
+    - id: 6
+      name: emergency_phone
+      label: Emergency Phone
+      hint: Check if an emergency phone is present and functional
+      type: select_one
+      options:
+      - Working
+      - Defective
+      - None
+      required: false
+    - id: 7
+      name: first_aid_kit
+      label: First Aid Kit
+      hint: Check if a first aid kit is present
+      type: select_one
+      options:
+      - Present
+      - Absent
+      required: false
+    - id: 8
+      name: escape_routine
+      label: Escape Routine
+      hint: Check if you have a regular escape routine
+      type: select_one
+      options:
+      - Regularly performed
+      - Not regularly performed
+      required: false
+    - id: 9
+      name: emergency_response
+      label: Emergency Response
+      hint: Check if you have a plan for emergency response
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Enter up to 3 emergency contacts
+      type: select_multiple
+      options:
+      - Family
+      - Friend
+      - Neighbor
+      required: false
+    - id: 11
+      name: fire_safety_equipment
+      label: Fire Safety Equipment
+      hint: Check if fire safety equipment is present
+      type: select_one
+      options:
+      - Present
+      - Absent
+      required: false
+    - id: 12
+      name: environmental_hazards
+      label: Environmental Hazards
+      hint: Check for environmental hazards
+      type: select_one
+      options:
+      - Present
+      - Absent
+      required: false
+    - id: 13
+      name: safety_equipment
+      label: Safety Equipment
+      hint: Check if all safety equipment is present
+      type: select_one
+      options:
+      - Present
+      - Absent
+      required: false

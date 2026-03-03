@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Intent To Vacate Form
+    pages:
+    - id: 1
+      name: intent_to_vacate_form
+      label: Intent To Vacate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: move_out_date
+      label: Move Out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: move_out_time
+      label: Move Out Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_vacating
+      label: Reason For Vacating
+      hint: null
+      type: select_one
+      options:
+      - I have sold my home
+      - I am moving to a different location
+      - Other
+      required: false
+    - id: 5
+      name: reason_for_vacating_other
+      label: Reason For Vacating Other
+      hint: Please specify the reason for vacating
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notice_period
+      label: Notice Period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: move_out_location
+      label: Move Out Location
+      hint: null
+      type: select_one
+      options:
+      - Other
+      - Local Move
+      - Move within city
+      - Move within state
+      - Move out of state
+      required: false
+    - id: 8
+      name: move_out_location_other
+      label: Move Out Location Other
+      hint: Please specify the location
+      type: text
+      options: []
+      required: false

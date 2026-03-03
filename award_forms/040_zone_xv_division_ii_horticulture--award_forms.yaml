@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Zone XV Division II Horticulture
+    pages:
+    - id: 1
+      name: entry_phase
+      label: Entry Phase
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: entry_name
+      label: Entry Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: division
+      label: Division
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      - option6
+      required: true
+    - id: 4
+      name: entry_number
+      label: Entry Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: passing_phase
+      label: Passing Phase
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: passing_criteria
+      label: Passing Criteria
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: placement_phase
+      label: Placement Phase
+      hint: null
+      type: select_multiple
+      options:
+      - option7
+      - option8
+      required: true
+    - id: 8
+      name: placement_criteria
+      label: Placement Criteria
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: special_awards_phase
+      label: Special Awards Phase
+      hint: null
+      type: select_one
+      options:
+      - option9
+      - option10
+      required: false
+    - id: 10
+      name: special_criteria
+      label: Special Criteria
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email_notification
+      label: Email Notification
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: entry_table
+      label: Entry Table
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: judges_email
+      label: Judges Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: entry_phase_table
+      label: Entry Phase Table
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: passing_table
+      label: Passing Table
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: placement_table
+      label: Placement Table
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: special_table
+      label: Special Awards Table
+      hint: null
+      type: note
+      options: []
+      required: false

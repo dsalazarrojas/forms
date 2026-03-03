@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Waste Management Records Release Form
+    pages:
+    - id: 1
+      name: release_waste_management_records
+      label: Release Waste Management Records
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Your business name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: Your business address
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: Your business phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: Your business email
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: signature
+      label: Signature
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: research_theory_submission_form
+    pages:
+    - id: 1
+      name: theory_title
+      label: Theory Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: author_name
+      label: Author Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: author_institution
+      label: Author Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: abstract
+      label: Abstract
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: manuscript
+      label: Manuscript
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: subject_area
+      label: Subject Area
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: manuscript_file
+      label: Manuscript File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: review_time
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: review
+      label: Review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

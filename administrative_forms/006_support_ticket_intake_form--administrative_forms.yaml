@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Support Ticket Intake Form
+    pages:
+    - id: 1
+      name: support_ticket_intake_form
+      label: Support Ticket Intake Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Administrative Forms
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_email
+      label: Customer E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: ticket_subject
+      label: Ticket Subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: ticket_priority
+      label: Ticket Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 9
+      name: ticket_status
+      label: Ticket Status
+      hint: null
+      type: select_multiple
+      options:
+      - new
+      - in_progress
+      - completed
+      required: false
+    - id: 10
+      name: ticket_details
+      label: Ticket Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_message
+      label: Customer Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - jenny
+      - joe
+      required: false
+    - id: 13
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - jenny
+      - joe
+      required: false
+    - id: 14
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: ticket_status_updated_at
+      label: Ticket Status Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: ticket_updated_at
+      label: Ticket Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: ticket_updated_time
+      label: Ticket Updated Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: due_time
+      label: Due Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: ticket_updated_at
+      label: Ticket Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - jenny
+      - joe
+      required: false

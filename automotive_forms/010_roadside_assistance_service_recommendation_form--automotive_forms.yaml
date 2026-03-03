@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Roadside Assistance Service Recommendation Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: roadside_service
+      label: Roadside Assistance
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Service 1'', ''value'': ''Service 1''}'
+      - '{''id'': 2, ''label'': ''Service 2'', ''value'': ''Service 2''}'
+      - '{''id'': 3, ''label'': ''Service 3'', ''value'': ''Service 3''}'
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_info
+      label: Vehicle Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: service_providers
+      label: Service Providers
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Service Provider 1'', ''value'': ''Service Provider
+        1''}'
+      - '{''id'': 2, ''label'': ''Service Provider 2'', ''value'': ''Service Provider
+        2''}'
+      - '{''id'': 3, ''label'': ''Service Provider 3'', ''value'': ''Service Provider
+        3''}'
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

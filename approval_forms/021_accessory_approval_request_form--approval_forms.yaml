@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accessory Approval Request Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Your employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: manager_name
+      label: Manager Name
+      hint: Your direct manager's name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: manager_email
+      label: Manager Email
+      hint: Your direct manager's email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: request_date
+      label: Request Date
+      hint: Date of the request
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: accessory_category
+      label: Accessory Category
+      hint: What category of accessory are you requesting?
+      type: select_one
+      options:
+      - Computer Hardware
+      - Software
+      - Office Supplies
+      - Safety Equipment
+      - Ergonomic Items
+      - Communication Devices
+      - Other
+      required: true
+    - id: 8
+      name: accessory_name
+      label: Accessory Name
+      hint: Name of the accessory you're requesting
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: brand_model
+      label: Brand and Model
+      hint: Brand and model of the accessory
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: quantity_requested
+      label: Quantity Requested
+      hint: How many units do you need?
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: estimated_cost
+      label: Estimated Cost
+      hint: Estimated cost per unit
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: total_cost
+      label: Total Cost
+      hint: Total cost for all requested accessories
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: business_justification
+      label: Business Justification
+      hint: Why do you need this accessory?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent is this request?
+      type: select_one
+      options:
+      - Critical - Needed immediately
+      - High - Needed within a week
+      - Medium - Needed within a month
+      - Low - Nice to have
+      required: true
+    - id: 15
+      name: expected_delivery_date
+      label: Expected Delivery Date
+      hint: When do you need the accessory delivered?
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: vendor_name
+      label: Vendor Name
+      hint: Name of the vendor you'd like to purchase from
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: vendor_contact_info
+      label: Vendor Contact Info
+      hint: Contact information for the vendor
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: approval_required_level
+      label: Approval Required Level
+      hint: What level of approval is needed for this request?
+      type: select_one
+      options:
+      - Manager Only
+      - Department Head
+      - Finance Approval
+      - Executive Approval
+      - Procurement Review
+      required: true
+    - id: 19
+      name: asset_tracking_required
+      label: Asset Tracking Required
+      hint: Does this accessory need to be tracked as an asset?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information about your request?
+      type: text
+      options: []
+      required: false

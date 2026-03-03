@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agricultural Mortgage Risk Assessment
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant name
+      hint: Name of borrower
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: farm_address
+      label: Farm address
+      hint: Primary location of agricultural operation
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: loan_amount_requested
+      label: Loan amount requested
+      hint: Enter whole number in local currency
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: annual_revenue
+      label: Annual farm revenue
+      hint: Estimated annual gross revenue
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: collateral_description
+      label: Collateral description
+      hint: Describe assets offered as security
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: credit_history_summary
+      label: Credit history summary
+      hint: Notes on past loans and payment performance
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: production_risk
+      label: Production risk level
+      hint: Consider climate and pest exposure
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 8
+      name: market_risk
+      label: Market risk level
+      hint: Price volatility and buyer availability
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 9
+      name: recommended_action
+      label: Recommended risk mitigation actions
+      hint: Suggestions for reducing loan risk
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assessor_name
+      label: Assessor name
+      hint: Name of the loan officer or assessor
+      type: text
+      options: []
+      required: true

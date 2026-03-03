@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Formation Authorization Form
+    pages:
+    - id: 1
+      name: entity_info_section
+      label: -- Entity Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: proposed_business_name
+      label: Proposed Business Name
+      hint: Name for the new business
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_type
+      label: Type of Business Entity
+      hint: How will the business be structured?
+      type: select_one
+      options:
+      - Sole Proprietorship
+      - General Partnership
+      - Limited Partnership
+      - LLC
+      - S-Corporation
+      - C-Corporation
+      - Non-Profit Corporation
+      required: true
+    - id: 4
+      name: business_purpose
+      label: Primary Business Purpose
+      hint: What will the business do?
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: proposed_address
+      label: Proposed Principal Address
+      hint: Main business location
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: jurisdiction
+      label: State of Incorporation
+      hint: Which state?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: authorizing_section
+      label: -- Authorizing Party Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: authorizer_name
+      label: Authorizing Party Name
+      hint: Person authorizing formation
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: authorizer_title
+      label: Title/Role
+      hint: Position or capacity
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: authorizer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: authorizer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: ownership_section
+      label: -- Ownership Structure --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: number_of_owners
+      label: Number of Owners
+      hint: How many owners will there be?
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: owner_details
+      label: Owner Details
+      hint: Names and ownership percentages
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: management_structure
+      label: Management Structure
+      hint: How will the business be managed?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: fiscal_section
+      label: -- Fiscal and Tax Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: fiscal_year_end
+      label: Fiscal Year End Date
+      hint: When does the fiscal year end?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: tax_id_applied
+      label: EIN/Tax ID Application Status
+      hint: Have you applied for an EIN?
+      type: select_one
+      options:
+      - Yes - already have
+      - Yes - application pending
+      - No - will apply after formation
+      required: false
+    - id: 19
+      name: capitalization_section
+      label: -- Initial Capitalization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: initial_capital
+      label: Initial Capital Contribution
+      hint: Total initial investment
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: capital_sources
+      label: Sources of Capital
+      hint: Where is the capital coming from?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: documentation_section
+      label: -- Documentation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: articles_prepared
+      label: Articles of Organization prepared
+      hint: Are formation documents ready?
+      type: select_one
+      options:
+      - 'Yes'
+      - No - need assistance
+      required: true
+    - id: 24
+      name: authorization_confirmation
+      label: I authorize the formation of this business entity
+      hint: Confirm authorization
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: date_signed
+      label: Date of Authorization
+      hint: Date this form is signed
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Warehouse Fire Incident Form
+    pages:
+    - id: 1
+      name: warehouse_address
+      label: Address of Warehouse
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: fire_location
+      label: Fire Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: cause_of_fire
+      label: Cause of Fire
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: fire_size
+      label: Fire Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: emergency_services_called
+      label: Emergency Services Called
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: injuries
+      label: Injuries
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: fatalities
+      label: Fatalities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: damage
+      label: Damage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: fire_suppression_method
+      label: Fire Suppression Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: fire_extinguished
+      label: Fire Extinguished
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: damage_description
+      label: Damage Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: prevention_measures
+      label: Prevention Measures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_reporter
+      label: Incident Reporter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false

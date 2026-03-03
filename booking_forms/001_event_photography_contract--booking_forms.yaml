@@ -1,0 +1,107 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Event Photography Contract
+    pages:
+    - id: 1
+      name: event_photography_event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_photography_client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_photography_event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: event_photography_event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: event_photography_event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_photography_client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: event_photography_photographer_name
+      label: Photographer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_photography_photographer_contact
+      label: Photographer Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_photography_contract_duration
+      label: Contract Duration
+      hint: null
+      type: select_one
+      options:
+      - 1 day
+      - 2 days
+      - 3 days
+      required: true
+    - id: 10
+      name: event_photography_additional_services
+      label: Additional Services
+      hint: null
+      type: select_multiple
+      options:
+      - Photography Services
+      - Videography Services
+      - Live Streaming Services
+      - Other Services
+      required: false
+    - id: 11
+      name: event_photography_contract_terms
+      label: Contract Terms
+      hint: Check all that apply.
+      type: select_multiple
+      options:
+      - Client agrees to pay for photographer services at the contracted rate.
+      - Client understands that the photographer is an independent contractor and
+        not an employee.
+      - Client acknowledges that the photographer retains ownership of all photographs
+        taken.
+      - Client acknowledges that they are responsible for any damages or losses to
+        equipment.
+      required: true

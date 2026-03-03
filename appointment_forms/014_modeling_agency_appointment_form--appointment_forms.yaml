@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Modeling Agency Appointment Form
+    pages:
+    - id: 1
+      name: agency_name
+      label: Agency Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: appointment_type
+      label: Appointment Type
+      hint: null
+      type: select_one
+      options:
+      - Meeting
+      - Phone Call
+      - In-Person Meeting
+      required: true
+    - id: 8
+      name: appointment_reason
+      label: Appointment Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: client_info
+      label: Client Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: agency_info
+      label: Agency Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

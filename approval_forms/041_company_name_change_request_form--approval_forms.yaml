@@ -1,0 +1,377 @@
+inputSchema:
+  type: object
+  properties:
+    title: Company Name Change Request Form
+    pages:
+    - id: 1
+      name: current_company_name
+      label: Current Company Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_registration_number
+      label: Company Registration Number
+      hint: Official registration ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: tax_id_ein
+      label: Tax ID / EIN
+      hint: Federal tax ID
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: incorporation_state
+      label: State of Incorporation
+      hint: Where incorporated
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: incorporation_date
+      label: Date of Incorporation
+      hint: When company was formed
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: proposed_new_name
+      label: Proposed New Company Name
+      hint: Full new legal name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: proposed_abbreviation
+      label: Proposed Abbreviation (if any)
+      hint: Short form name
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: name_change_reason
+      label: Reason for Name Change
+      hint: Why changing name?
+      type: select_one
+      options:
+      - Rebranding
+      - Merger or acquisition
+      - Change in business focus
+      - Negative associations
+      - Trademark issues
+      - Expansion to new markets
+      - Ownership change
+      - Other
+      required: true
+    - id: 9
+      name: reason_details
+      label: Please provide more details
+      hint: Explanation
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: name_availability_check
+      label: Have you checked name availability?
+      hint: Name search
+      type: select_one
+      options:
+      - Yes, name is available
+      - Yes, with conditions
+      - No, not yet
+      - Not sure
+      required: true
+    - id: 11
+      name: name_search_documentation
+      label: Do you have name search documentation?
+      hint: Search results
+      type: select_one
+      options:
+      - Yes, attached
+      - Yes, will provide
+      - false
+      required: false
+    - id: 12
+      name: section_approval
+      label: -- Internal Approvals --
+      hint: Required approvals
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: board_approval
+      label: Has the board approved this name change?
+      hint: Board resolution
+      type: select_one
+      options:
+      - Yes, approved
+      - Pending board approval
+      - Board approval not required
+      - No, not yet
+      required: true
+    - id: 14
+      name: board_approval_date
+      label: Date of Board Approval
+      hint: When approved
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: shareholder_approval
+      label: Is shareholder approval required?
+      hint: Shareholder vote
+      type: select_one
+      options:
+      - Yes, obtained
+      - Yes, pending
+      - No, not required
+      required: true
+    - id: 16
+      name: section_timeline
+      label: -- Timeline --
+      hint: Implementation timeline
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: proposed_effective_date
+      label: Proposed Effective Date
+      hint: When should change take effect?
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: urgency_level
+      label: How urgent is this request?
+      hint: Priority
+      type: select_one
+      options:
+      - Low - Can wait 60+ days
+      - Medium - 30-60 days
+      - High - 15-30 days
+      - Critical - Within 15 days
+      required: true
+    - id: 19
+      name: section_impact
+      label: -- Impact Assessment --
+      hint: Business impact
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: affected_systems
+      label: Which systems will be affected?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Legal documents
+      - Bank accounts
+      - Tax registrations
+      - Business licenses
+      - Contracts
+      - Marketing materials
+      - Website and domain
+      - Email addresses
+      - Signage
+      - Product packaging
+      - Other
+      required: true
+    - id: 21
+      name: impact_assessment_complete
+      label: Has an impact assessment been completed?
+      hint: Assessment status
+      type: select_one
+      options:
+      - Yes, fully completed
+      - Partially completed
+      - No, in progress
+      - No, not started
+      required: true
+    - id: 22
+      name: estimated_cost
+      label: Estimated Cost of Name Change
+      hint: Total estimated cost
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: section_stakeholders
+      label: -- Stakeholder Notification --
+      hint: Communication plan
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: stakeholder_notification_plan
+      label: Do you have a stakeholder notification plan?
+      hint: Communication strategy
+      type: select_one
+      options:
+      - Yes, fully developed
+      - Partially developed
+      - No, in progress
+      - No, not started
+      required: true
+    - id: 25
+      name: stakeholders_to_notify
+      label: Who needs to be notified?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Employees
+      - Customers
+      - Vendors
+      - Partners
+      - Regulatory bodies
+      - Financial institutions
+      - Insurance providers
+      - Media
+      - Other
+      required: false
+    - id: 26
+      name: section_legal
+      label: -- Legal Requirements --
+      hint: Legal compliance
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: trademark_search
+      label: Has a trademark search been conducted?
+      hint: Trademark clearance
+      type: select_one
+      options:
+      - Yes, no conflicts found
+      - Yes, potential conflicts exist
+      - No, not yet
+      - Not applicable
+      required: true
+    - id: 28
+      name: trademark_application
+      label: Will you file for trademark protection?
+      hint: Trademark filing
+      type: select_one
+      options:
+      - Yes, already filed
+      - Yes, will file
+      - false
+      - Not sure
+      required: false
+    - id: 29
+      name: regulatory_filings
+      label: Which regulatory filings are required?
+      hint: Required filings
+      type: select_multiple
+      options:
+      - State Secretary of State
+      - IRS
+      - State tax authority
+      - Local business licenses
+      - Industry-specific regulators
+      - Other
+      required: false
+    - id: 30
+      name: legal_counsel_review
+      label: Has legal counsel reviewed this request?
+      hint: Legal review
+      type: select_one
+      options:
+      - Yes, approved
+      - Yes, with recommendations
+      - No, pending review
+      - No, not needed
+      required: true
+    - id: 31
+      name: section_requester
+      label: -- Requester Information --
+      hint: Contact details
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: requester_name
+      label: Requester Full Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: requester_title
+      label: Requester Title
+      hint: Position
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: requester_email
+      label: Requester Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 35
+      name: requester_phone
+      label: Requester Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 36
+      name: requester_signature
+      label: Requester Signature
+      hint: Electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 37
+      name: request_date
+      label: Request Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 38
+      name: section_approval_tracking
+      label: -- Approval Tracking --
+      hint: For official use
+      type: note
+      options: []
+      required: false
+    - id: 39
+      name: approval_status
+      label: Approval Status
+      hint: Current status
+      type: select_one
+      options:
+      - Pending Review
+      - Under Legal Review
+      - Approved
+      - Approved with Conditions
+      - Denied
+      - More Information Needed
+      required: false
+    - id: 40
+      name: approved_by
+      label: Approved By
+      hint: Approver name
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: approval_date
+      label: Approval Date
+      hint: Date of approval
+      type: date
+      options: []
+      required: false
+    - id: 42
+      name: approval_conditions
+      label: Approval Conditions (if any)
+      hint: Any conditions
+      type: text
+      options: []
+      required: false

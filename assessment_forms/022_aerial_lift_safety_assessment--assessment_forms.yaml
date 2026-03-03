@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aerial Lift Safety Assessment
+    pages:
+    - id: 1
+      name: assessment_details_header
+      label: -- Assessment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_time
+      label: Date and Time
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: lift_id
+      label: Lift ID / Serial Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: location
+      label: Work Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: pre_start_check_header
+      label: -- Pre-Start Inspection --
+      hint: Check all that apply.
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: visual_inspection
+      label: Visual Inspection Passed?
+      hint: Tires, leaks, loose parts, etc.
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - N/A
+      required: true
+    - id: 8
+      name: controls_function
+      label: Controls Function Check
+      hint: Lift, lower, drive, steer.
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: true
+    - id: 9
+      name: safety_devices
+      label: Safety Devices Check
+      hint: Horns, alarms, emergency stop.
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: true
+    - id: 10
+      name: site_hazard_header
+      label: -- Work Zone Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: overhead_hazards
+      label: Overhead Hazards Check
+      hint: Power lines, structures, etc.
+      type: select_one
+      options:
+      - Clear
+      - Hazard Identified (Mitigated)
+      - Hazard Identified (Stop Work)
+      required: true
+    - id: 12
+      name: ground_conditions
+      label: Ground Conditions
+      hint: Level, stable, no drop-offs.
+      type: select_one
+      options:
+      - Safe
+      - Unsafe
+      required: true
+    - id: 13
+      name: ppe_check
+      label: PPE Verification
+      hint: Harness, lanyard, hard hat.
+      type: select_one
+      options:
+      - All PPE Present & Good Condition
+      - Missing/Damaged PPE
+      required: true
+    - id: 14
+      name: comments
+      label: Comments / Corrective Actions
+      hint: Describe any issues found.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: sign_off
+      label: Inspector Sign-off
+      hint: I certify this lift is safe to operate.
+      type: select_one
+      options:
+      - Signed
+      - Other
+      required: true

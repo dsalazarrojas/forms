@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Doctor Appointment Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: doctor
+      label: Doctor
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Dr Smith''}'
+      - '{''id'': 2, ''name'': ''Dr Johnson''}'
+      required: true
+    - id: 5
+      name: reason
+      label: Reason For Visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: available_time
+      label: Available Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Email''}'
+      - '{''id'': 2, ''name'': ''Phone''}'
+      - '{''id'': 3, ''name'': ''In Person''}'
+      required: true
+    - id: 8
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: doctor_id
+      label: Doctor ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: medical_record
+      label: Medical Record
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_record_type
+      label: Medical Record Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_record_note
+      label: Medical Record Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Credit Card''}'
+      - '{''id'': 2, ''name'': ''Cash''}'
+      required: true
+    - id: 20
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 23
+      name: appointment_duration
+      label: Appointment Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_record_status
+      label: Medical Record Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Active''}'
+      - '{''id'': 2, ''name'': ''Inactive''}'
+      required: true
+    - id: 25
+      name: follow_up_reminders
+      label: Follow Up Reminders
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: true

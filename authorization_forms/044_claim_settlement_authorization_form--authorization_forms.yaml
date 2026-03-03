@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Claim Settlement Authorization Form
+    pages:
+    - id: 1
+      name: policyholder_name
+      label: Policyholder name
+      hint: Full name as on policy
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: claim_number
+      label: Claim number
+      hint: Reference ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: authorized_representative
+      label: Authorized representative
+      hint: Name of person authorized to act
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: authorization_scope
+      label: Scope of authorization
+      hint: Describe powers granted for settlement
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: settlement_amount_limit
+      label: Settlement amount limit
+      hint: Maximum authorized settlement amount
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: signature
+      label: Signature acknowledgement
+      hint: Typed name accepted as signature
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: effective_date
+      label: Authorization effective date
+      hint: Date authorization begins
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: expiry_date
+      label: Authorization expiry date
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: witness_name
+      label: Witness name
+      hint: Optional witness for authorization
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submission_date
+      label: Submission date
+      hint: Date form completed
+      type: date
+      options: []
+      required: true

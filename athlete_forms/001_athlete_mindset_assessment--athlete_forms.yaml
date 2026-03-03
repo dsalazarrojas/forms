@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Mindset Assessment
+    pages:
+    - id: 1
+      name: athlete_name
+      label: Athlete Name
+      hint: Full name of the athlete
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: sport
+      label: Sport
+      hint: Primary sport or athletic discipline
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: coach_name
+      label: Coach or Trainer Name
+      hint: Name of evaluating coach or trainer
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of evaluation
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: athlete_experience_level
+      label: Athlete Experience Level
+      hint: Years of competitive experience
+      type: select_one
+      options:
+      - 0-2 years
+      - 2-5 years
+      - 5-10 years
+      - 10+ years
+      required: true
+    - id: 6
+      name: motivation_level
+      label: Overall Motivation Level
+      hint: Rate athlete's current motivation (1-10 scale)
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: confidence_assessment
+      label: Confidence Assessment
+      hint: How would you rate their confidence?
+      type: select_one
+      options:
+      - Very Low
+      - Low
+      - Moderate
+      - High
+      - Very High
+      required: true
+    - id: 8
+      name: mental_toughness
+      label: Mental Toughness
+      hint: Ability to handle pressure and adversity
+      type: select_one
+      options:
+      - Needs Development
+      - Below Average
+      - Average
+      - Above Average
+      - Excellent
+      required: true
+    - id: 9
+      name: focus_concentration
+      label: Focus and Concentration
+      hint: Ability to maintain focus during competition
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 10
+      name: goal_setting_skills
+      label: Goal Setting Skills
+      hint: Ability to set and work toward goals
+      type: select_one
+      options:
+      - Weak
+      - Below Average
+      - Average
+      - Strong
+      - Very Strong
+      required: true
+    - id: 11
+      name: team_communication
+      label: Team Communication
+      hint: How well does athlete communicate with teammates?
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: false
+    - id: 12
+      name: emotional_control
+      label: Emotional Control
+      hint: Ability to manage emotions during competition
+      type: select_one
+      options:
+      - Needs Work
+      - Below Average
+      - Average
+      - Above Average
+      - Excellent
+      required: true
+    - id: 13
+      name: response_to_feedback
+      label: Response to Feedback
+      hint: How does athlete respond to coaching feedback?
+      type: select_one
+      options:
+      - Defensive
+      - Reluctant
+      - Neutral
+      - Receptive
+      - Very Receptive
+      required: true
+    - id: 14
+      name: resilience_after_failure
+      label: Resilience After Failure
+      hint: Ability to bounce back from mistakes
+      type: select_one
+      options:
+      - Very Low
+      - Low
+      - Moderate
+      - High
+      - Very High
+      required: true
+    - id: 15
+      name: coachability
+      label: Coachability Rating
+      hint: Overall willingness to be coached
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 16
+      name: main_strengths
+      label: Main Mental Strengths
+      hint: Describe top 2-3 mental strengths
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: areas_for_development
+      label: Areas for Development
+      hint: Mental skills that need improvement
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: recommended_interventions
+      label: Recommended Mental Skills Interventions
+      hint: Specific coaching strategies recommended
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_date
+      label: Follow-up Assessment Date
+      hint: Recommended date for next assessment
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other observations or comments
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Depreciation Form
+    pages:
+    - id: 1
+      name: asset_depreciation_form_data
+      label: Asset Depreciation Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: asset_id
+      label: asset_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: asset_category
+      label: asset_category
+      hint: null
+      type: select_one
+      options:
+      - Asset
+      - Asset 1
+      - Asset 2
+      required: false
+    - id: 4
+      name: asset_value
+      label: asset_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: depreciation_percentage
+      label: depreciation_percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: depreciation_method
+      label: depreciation_method
+      hint: null
+      type: select_multiple
+      options:
+      - Straight-Line
+      - Sum-of-the-Years
+      - Acrual
+      - Double Declining Balance
+      required: false
+    - id: 7
+      name: depreciation_start_date
+      label: depreciation_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: depreciation_end_date
+      label: depreciation_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: asset_life
+      label: asset_life
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: depreciation_per_year
+      label: depreciation_per_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: total_depreciation_amount
+      label: total_depreciation_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: remaining_value
+      label: remaining_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: asset_value_date
+      label: asset_value_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: asset_purchase_date
+      label: asset_purchase_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: asset_status
+      label: asset_status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      - disposed
+      required: false
+    - id: 16
+      name: asset_description
+      label: asset_description
+      hint: null
+      type: text
+      options: []
+      required: true

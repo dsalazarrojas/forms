@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Antique Appraisal Form
+    pages:
+    - id: 1
+      name: appraisal_date
+      label: Date of appraisal
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: appraiser_name
+      label: Appraiser name
+      hint: Full name of professional appraiser
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: appraiser_license
+      label: Appraiser license number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: client_name
+      label: Client name
+      hint: Name of object owner
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: client_contact
+      label: Client contact information
+      hint: Phone or email
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: object_description
+      label: Description of object
+      hint: What is being appraised
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: object_type
+      label: Type of antique
+      hint: Select primary category
+      type: select_one
+      options:
+      - Furniture
+      - Jewelry
+      - Art
+      - Pottery or Glass
+      - Collectibles
+      - Clothing or Textiles
+      - Weapons or Military
+      - Books or Manuscripts
+      - Instruments or Scientific
+      - Other
+      required: true
+    - id: 8
+      name: estimated_age
+      label: Estimated age or time period
+      hint: Approximate century or decade
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: period_style
+      label: Period style
+      hint: Victorian, Art Deco, Colonial, etc
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: condition
+      label: Overall condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent - like new
+      - Good - minor wear
+      - Fair - moderate damage
+      - Poor - significant damage
+      - Restoration needed
+      required: true
+    - id: 11
+      name: damage_description
+      label: Describe any damage or repairs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: material_composition
+      label: Primary material composition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: dimensions
+      label: Dimensions (height x width x depth)
+      hint: In inches or centimeters
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: weight
+      label: Weight
+      hint: Approximate weight if applicable
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: maker_signature
+      label: Maker or artist signature present?
+      hint: null
+      type: select_one
+      options:
+      - Yes, visible and clear
+      - Yes, faded or unclear
+      - No signature present
+      - Signature present but unidentified
+      required: true
+    - id: 16
+      name: maker_name
+      label: Maker or artist name if known
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: rarity_assessment
+      label: Rarity assessment
+      hint: null
+      type: select_one
+      options:
+      - Very rare
+      - Scarce
+      - Uncommon
+      - Fairly common
+      - Abundant
+      required: true
+    - id: 18
+      name: comparable_sales
+      label: Recent comparable sales reviewed?
+      hint: null
+      type: select_one
+      options:
+      - Yes, multiple sales
+      - Yes, some sales found
+      - Limited comparable data
+      - No comparables found
+      required: true
+    - id: 19
+      name: appraised_value
+      label: Appraised fair market value
+      hint: In dollars
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: appraisal_purpose
+      label: Purpose of appraisal
+      hint: Select applicable purpose
+      type: select_one
+      options:
+      - Insurance coverage
+      - Estate settlement
+      - Donation valuation
+      - Collection documentation
+      - Auction estimate
+      - Personal knowledge
+      - Other
+      required: true
+    - id: 21
+      name: special_notes
+      label: Special characteristics or provenance
+      hint: Historical significance, origin story, etc
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: recommendations
+      label: Recommendations for care or preservation
+      hint: null
+      type: text
+      options: []
+      required: false

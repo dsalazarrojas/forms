@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: product_development_skills_assessment_form
+    pages:
+    - id: 1
+      name: product_development_skills_assessment
+      label: Section 1 - Product Development Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_development_process
+      label: Product Development Process
+      hint: What is your experience with Agile, Scrum, or Waterfall?
+      type: select_one
+      options:
+      - Agile
+      - Scrum
+      - Waterfall
+      required: false
+    - id: 3
+      name: product_development_skills
+      label: Product Development Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Data Analysis
+      - Project Management
+      - Communication
+      required: false
+    - id: 4
+      name: product_development_technologies
+      label: Which product development technologies have you used?
+      hint: null
+      type: select_multiple
+      options:
+      - Python
+      - JavaScript
+      - C++
+      required: false
+    - id: 5
+      name: product_development_teams
+      label: Product Development Team Size
+      hint: How many people are on your product development team?
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: product_development_time
+      label: Time spent on Product Development
+      hint: How many hours per week do you spend on product development?
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: product_development_initiatives
+      label: Product Development Initiatives
+      hint: What product development initiatives have you worked on?
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: product_development_success
+      label: Product Development Success
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 9
+      name: product_development_challenges
+      label: Challenges in Product Development
+      hint: What are some challenges you have faced in product development?
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: product_development_improvement
+      label: Product Development Improvement
+      hint: What improvements do you see for product development?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: product_development_skills_level
+      label: Product Development Skills Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 12
+      name: product_development_satisfaction
+      label: Product Development Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false

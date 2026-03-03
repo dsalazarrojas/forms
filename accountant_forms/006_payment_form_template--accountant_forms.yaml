@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payment Form Template
+    pages:
+    - id: 1
+      name: payment_form_template_form_1
+      label: payment_form_template_form_1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: credit_card
+      label: credit_card_label
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''credit_card_type_1'', ''label'': ''credit_card_type_1''}'
+      - '{''id'': ''credit_card_type_2'', ''label'': ''credit_card_type_2''}'
+      - '{''id'': ''credit_card_type_3'', ''label'': ''credit_card_type_3''}'
+      required: false
+    - id: 3
+      name: cvv
+      label: cvv_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: exp_month
+      label: exp_month_label
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''exp_month_1'', ''label'': ''exp_month_1''}'
+      - '{''id'': ''exp_month_2'', ''label'': ''exp_month_2''}'
+      - '{''id'': ''exp_month_3'', ''label'': ''exp_month_3''}'
+      required: false
+    - id: 5
+      name: exp_year
+      label: exp_year_label
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''exp_year_1'', ''label'': ''exp_year_1''}'
+      - '{''id'': ''exp_year_2'', ''label'': ''exp_year_2''}'
+      - '{''id'': ''exp_year_3'', ''label'': ''exp_year_3''}'
+      required: false
+    - id: 6
+      name: payment_method
+      label: payment_method_label
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''payment_method_1'', ''label'': ''payment_method_1''}'
+      - '{''id'': ''payment_method_2'', ''label'': ''payment_method_2''}'
+      - '{''id'': ''payment_method_3'', ''label'': ''payment_method_3''}'
+      required: false
+    - id: 7
+      name: cvv_cvv
+      label: cvv_cvv_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: cvv_icode
+      label: cvv_icode_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_amount
+      label: payment_amount_label
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: payment_currency
+      label: payment_currency_label
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''payment_currency_1'', ''label'': ''payment_currency_1''}'
+      - '{''id'': ''payment_currency_2'', ''label'': ''payment_currency_2''}'
+      required: false
+    - id: 11
+      name: cvv_zip
+      label: cvv_zip_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: cvv_country
+      label: cvv_country_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: cvv_tel
+      label: cvv_tel_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: cvv_addr
+      label: cvv_addr_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: cvv_city
+      label: cvv_city_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: cvv_country_code
+      label: cvv_country_code_label
+      hint: null
+      type: text
+      options: []
+      required: false

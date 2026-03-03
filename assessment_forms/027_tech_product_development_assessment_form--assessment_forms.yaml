@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tech Product Development Assessment Form
+    pages:
+    - id: 1
+      name: project_initiatives
+      label: Project Initiatives
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: project_scope
+      label: Project Scope
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: readiness_level
+      label: Readiness Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: team_collaboration
+      label: Team Collaboration
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''None'', ''value'': ''None''}'
+      - '{''label'': ''High'', ''value'': ''High''}'
+      - '{''label'': ''Medium'', ''value'': ''Medium''}'
+      - '{''label'': ''Low'', ''value'': ''Low''}'
+      required: false
+    - id: 5
+      name: project_lead
+      label: Project Lead
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''None'', ''value'': ''None''}'
+      - '{''label'': ''John'', ''value'': ''John''}'
+      - '{''label'': ''Jane'', ''value'': ''Jane''}'
+      - '{''label'': ''Other'', ''value'': ''Other''}'
+      required: false
+    - id: 6
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''None'', ''value'': ''None''}'
+      - '{''label'': ''John'', ''value'': ''John''}'
+      - '{''label'': ''Jane'', ''value'': ''Jane''}'
+      - '{''label'': ''Other'', ''value'': ''Other''}'
+      required: false
+    - id: 7
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''In Progress'', ''value'': ''In Progress''}'
+      - '{''label'': ''On Hold'', ''value'': ''On Hold''}'
+      - '{''label'': ''Closed'', ''value'': ''Closed''}'
+      - '{''label'': ''Cancelled'', ''value'': ''Cancelled''}'
+      required: false
+    - id: 8
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: team_size
+      label: Team Size
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''1-5'', ''value'': ''1-5''}'
+      - '{''label'': ''6-10'', ''value'': ''6-10''}'
+      - '{''label'': ''11-20'', ''value'': ''11-20''}'
+      - '{''label'': ''21+'', ''value'': ''21+''}'
+      required: false

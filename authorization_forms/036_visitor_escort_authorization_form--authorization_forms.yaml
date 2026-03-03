@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Visitor Escort Authorization Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: purpose
+      label: Purpose
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: escort_name
+      label: Escort name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: escort_relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: approval_status
+      label: Approval status
+      hint: null
+      type: select_one
+      options:
+      - approved
+      - pending
+      - denied
+      required: true
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: visitor_id
+      label: Visitor ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: escort_id
+      label: Escort ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: created_by
+      label: Created by
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Alice
+      - Bob
+      required: true
+    - id: 16
+      name: created_at
+      label: Created at
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: updated_by
+      label: Updated by
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Alice
+      - Bob
+      required: false
+    - id: 18
+      name: updated_at
+      label: Updated at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: employee_name
+      label: Employee name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: employee_department
+      label: Employee department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: employee_position
+      label: Employee position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: approval_date
+      label: Approval date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: approved_by
+      label: Approved by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: approved_at
+      label: Approved at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: approval_time
+      label: Approval time
+      hint: null
+      type: time
+      options: []
+      required: false

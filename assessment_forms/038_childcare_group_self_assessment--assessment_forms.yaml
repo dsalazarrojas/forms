@@ -1,0 +1,289 @@
+inputSchema:
+  type: object
+  properties:
+    title: Childcare Group Self-Assessment
+    pages:
+    - id: 1
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of self-assessment
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: center_name
+      label: Childcare Center Name
+      hint: Name of the childcare center
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: center_address
+      label: Center Address
+      hint: Full street address of the center
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: center_city
+      label: City
+      hint: City where center is located
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: center_state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: director_name
+      label: Director Name
+      hint: Name of the center director
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: director_email
+      label: Director Email
+      hint: Email address for director
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: director_phone
+      label: Director Phone
+      hint: Phone number for director
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: total_enrollment
+      label: Total Enrollment
+      hint: Total number of children enrolled
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: age_groups_served
+      label: Age Groups Served
+      hint: Select all age groups served
+      type: select_multiple
+      options:
+      - Infants (0-12 months)
+      - Toddlers (1-2 years)
+      - Preschool (3-4 years)
+      - Pre-K (4-5 years)
+      - School-age (5-12 years)
+      required: true
+    - id: 11
+      name: total_staff_count
+      label: Total Staff Count
+      hint: Total number of staff members
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: staff_to_child_ratio
+      label: Staff to Child Ratio
+      hint: How would you rate your staff to child ratio?
+      type: select_one
+      options:
+      - Exceeds requirements
+      - Meets requirements
+      - Below requirements
+      - Significantly below requirements
+      required: true
+    - id: 13
+      name: health_and_hygiene_rating
+      label: Health and Hygiene Rating
+      hint: How would you rate health and hygiene practices?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Needs improvement
+      required: true
+    - id: 14
+      name: handwashing_protocols
+      label: Handwashing Protocols
+      hint: Are handwashing protocols consistently followed?
+      type: select_one
+      options:
+      - Always followed
+      - Usually followed
+      - Sometimes followed
+      - Rarely followed
+      - Not consistently implemented
+      required: true
+    - id: 15
+      name: cleaning_schedule
+      label: Cleaning Schedule
+      hint: How often are facilities cleaned and sanitized?
+      type: select_one
+      options:
+      - Multiple times daily
+      - Once daily
+      - Several times per week
+      - Weekly
+      - As needed
+      required: true
+    - id: 16
+      name: safety_protocols_rating
+      label: Safety Protocols Rating
+      hint: How would you rate safety protocols?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Needs improvement
+      required: true
+    - id: 17
+      name: emergency_preparedness
+      label: Emergency Preparedness
+      hint: How prepared is your center for emergencies?
+      type: select_one
+      options:
+      - Fully prepared with regular drills
+      - Prepared with annual drills
+      - Somewhat prepared
+      - Minimally prepared
+      - Not adequately prepared
+      required: true
+    - id: 18
+      name: first_aid_certified_staff
+      label: First Aid Certified Staff
+      hint: What percentage of staff is first aid certified?
+      type: select_one
+      options:
+      - 100 percent
+      - 75 to 99 percent
+      - 50 to 74 percent
+      - 25 to 49 percent
+      - Less than 25 percent
+      required: true
+    - id: 19
+      name: curriculum_quality_rating
+      label: Curriculum Quality Rating
+      hint: How would you rate your curriculum?
+      type: select_one
+      options:
+      - Excellent, developmentally appropriate
+      - Good, mostly appropriate
+      - Fair, needs some updates
+      - Poor, outdated
+      - No formal curriculum
+      required: true
+    - id: 20
+      name: staff_qualifications
+      label: Staff Qualifications
+      hint: How would you rate staff qualifications?
+      type: select_one
+      options:
+      - Excellent, majority have degrees
+      - Good, many have certifications
+      - Fair, mixed qualifications
+      - Poor, minimal qualifications
+      - Needs improvement
+      required: true
+    - id: 21
+      name: staff_training_hours
+      label: Annual Staff Training Hours
+      hint: Average training hours per staff per year
+      type: select_one
+      options:
+      - 40+ hours
+      - 20 to 39 hours
+      - 10 to 19 hours
+      - 5 to 9 hours
+      - Less than 5 hours
+      required: true
+    - id: 22
+      name: parent_satisfaction
+      label: Parent Satisfaction
+      hint: How would you rate overall parent satisfaction?
+      type: select_one
+      options:
+      - Very high satisfaction
+      - High satisfaction
+      - Moderate satisfaction
+      - Low satisfaction
+      - Very low satisfaction
+      required: true
+    - id: 23
+      name: parent_communication
+      label: Parent Communication
+      hint: How would you rate parent communication?
+      type: select_one
+      options:
+      - Excellent, multiple channels
+      - Good, regular updates
+      - Fair, occasional updates
+      - Poor, limited communication
+      - Needs improvement
+      required: true
+    - id: 24
+      name: facility_condition
+      label: Facility Condition
+      hint: How would you rate the overall facility condition?
+      type: select_one
+      options:
+      - Excellent, well maintained
+      - Good, minor repairs needed
+      - Fair, some repairs needed
+      - Poor, significant repairs needed
+      - Very poor, major issues
+      required: true
+    - id: 25
+      name: outdoor_play_area
+      label: Outdoor Play Area
+      hint: How would you rate the outdoor play area?
+      type: select_one
+      options:
+      - Excellent, well equipped and safe
+      - Good, adequate equipment
+      - Fair, needs updates
+      - Poor, inadequate or unsafe
+      - No outdoor area
+      required: true
+    - id: 26
+      name: center_strengths
+      label: Center Strengths
+      hint: What are your center's main strengths?
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: What areas need improvement?
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: improvement_plan
+      label: Improvement Plan
+      hint: What steps are you taking to improve?
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: next_assessment_date
+      label: Next Assessment Date
+      hint: When is the next self-assessment scheduled?
+      type: date
+      options: []
+      required: true
+    - id: 30
+      name: director_signature
+      label: Director Signature
+      hint: Type your full name as your electronic signature
+      type: text
+      options: []
+      required: true

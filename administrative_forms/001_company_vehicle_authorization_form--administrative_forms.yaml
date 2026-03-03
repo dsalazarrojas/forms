@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Company Vehicle Authorization Form
+    pages:
+    - id: 1
+      name: employee_full_name
+      label: Employee Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID Number
+      hint: Your company employee identification number
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Select your current department
+      type: select_one
+      options:
+      - Sales
+      - Marketing
+      - Operations
+      - Human Resources
+      - Finance
+      - IT
+      - Customer Service
+      - Other
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: Your current position or role
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: supervisor_name
+      label: Supervisor Name
+      hint: Name of your direct supervisor or manager
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: supervisor_email
+      label: Supervisor Email
+      hint: Supervisor company email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: vehicle_purpose
+      label: Purpose of Vehicle Use
+      hint: Primary reason for requesting company vehicle
+      type: select_one
+      options:
+      - Client meetings and sales calls
+      - Delivery of goods or services
+      - Service calls and repairs
+      - Transportation of equipment
+      - Company events
+      - Daily commute (approved roles only)
+      - Other business purposes
+      required: true
+    - id: 8
+      name: vehicle_type_needed
+      label: Type of Vehicle Needed
+      hint: Select the vehicle type required for your duties
+      type: select_one
+      options:
+      - Sedan
+      - SUV
+      - Truck
+      - Van
+      - Minivan
+      - No preference
+      required: true
+    - id: 9
+      name: usage_frequency
+      label: Expected Usage Frequency
+      hint: How often will you need the vehicle
+      type: select_one
+      options:
+      - Daily
+      - Several times per week
+      - Weekly
+      - Monthly
+      - As needed
+      required: true
+    - id: 10
+      name: authorization_start_date
+      label: Authorization Start Date
+      hint: Date when vehicle access is needed
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: authorization_end_date
+      label: Authorization End Date
+      hint: Leave blank if ongoing authorization
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: valid_drivers_license
+      label: Do you have a valid driver's license
+      hint: Must have a current valid license
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: license_number
+      label: Driver's License Number
+      hint: Enter your license number
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: license_state
+      label: License State
+      hint: State or province of issuance
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: license_expiry
+      label: License Expiration Date
+      hint: When does your license expire
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: driving_violations
+      label: Any driving violations in past 3 years
+      hint: Include tickets accidents or suspensions
+      type: select_one
+      options:
+      - None
+      - 1 violation
+      - 2 violations
+      - 3 or more violations
+      required: true
+    - id: 17
+      name: violations_details
+      label: Violations Details
+      hint: Briefly describe any violations if applicable
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: agree_vehicle_policies
+      label: I agree to comply with all company vehicle policies
+      hint: Including safe driving and maintenance requirements
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 19
+      name: agree_personal_use
+      label: Personal Use Acknowledgment
+      hint: Personal use restrictions acknowledgment
+      type: select_one
+      options:
+      - I understand personal use is prohibited unless authorized
+      - I understand personal use is allowed with restrictions
+      - I do not understand
+      required: true
+    - id: 20
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact person
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: employee_signature
+      label: Employee Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: supervisor_approval
+      label: Supervisor Approval Status
+      hint: For supervisor use only
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending Review
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any additional information or special requests
+      type: text
+      options: []
+      required: false

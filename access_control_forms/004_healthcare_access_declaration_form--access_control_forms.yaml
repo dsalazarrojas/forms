@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: healthcare_access_declaration_form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: access_needs
+      label: Access Needs
+      hint: null
+      type: select_one
+      options:
+      - Allergy
+      - Medication
+      - Condition
+      required: true
+    - id: 4
+      name: insurance_info
+      label: Insurance Info
+      hint: null
+      type: select_multiple
+      options:
+      - Insurance Company A
+      - Insurance Company B
+      - Insurance Company C
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: healthcare_provider
+      label: Healthcare Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_facility
+      label: Medical Facility
+      hint: null
+      type: select_one
+      options:
+      - Facility A
+      - Facility B
+      - Facility C
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: next_of_contact
+      label: Next of Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: healthcare_coordinator
+      label: Healthcare Coordinator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_record
+      label: Medical Record
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: insurance_plan
+      label: Insurance Plan
+      hint: null
+      type: select_one
+      options:
+      - Plan A
+      - Plan B
+      - Plan C
+      required: false
+    - id: 14
+      name: insurance_group
+      label: Insurance Group
+      hint: null
+      type: select_multiple
+      options:
+      - Group A
+      - Group B
+      - Group C
+      required: false
+    - id: 15
+      name: coverage_start
+      label: Coverage Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: coverage_end
+      label: Coverage End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit
+      - Debit
+      required: true
+    - id: 18
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Pending
+      - Closed
+      required: false
+    - id: 19
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Bank Draft
+      - Bank Transfer
+      - Credit
+      required: false
+    - id: 23
+      name: note
+      label: Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

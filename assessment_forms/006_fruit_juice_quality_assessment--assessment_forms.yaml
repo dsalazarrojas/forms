@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: fruit_juice_quality_assessment
+    pages:
+    - id: 1
+      name: intro
+      label: fruit_juice_quality_assessment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: fruit_juice_name
+      label: fruit_juice_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: color
+      label: color
+      hint: null
+      type: select_one
+      options:
+      - Apple
+      - Banana
+      - Orange
+      required: false
+    - id: 4
+      name: aroma
+      label: aroma
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: taste
+      label: taste
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: appearance
+      label: appearance
+      hint: null
+      type: select_multiple
+      options:
+      - Clean
+      - Cloudy
+      - Dirty
+      required: false
+    - id: 7
+      name: texture
+      label: texture
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consistency
+      label: consistency
+      hint: null
+      type: select_one
+      options:
+      - Firm
+      - Soft
+      required: true
+    - id: 9
+      name: quality
+      label: quality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: fruit_juice_date
+      label: fruit_juice_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: fruit_juice_time
+      label: fruit_juice_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: fruit_juice_email
+      label: fruit_juice_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: fruit_juice_phone
+      label: fruit_juice_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: email_sent
+      label: email_sent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: phone_sent
+      label: phone_sent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: submitted_at
+      label: submitted_at
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitter_email
+      label: submited_by_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 21
+      name: submitter_phone
+      label: submited_by_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: submitter_name
+      label: submited_by_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: submitted
+      label: submitted
+      hint: null
+      type: select_one
+      options:
+      - Not Submitted
+      - Submitted
+      required: true
+    - id: 24
+      name: fruit_juice_rating
+      label: fruit_juice_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: comments_2
+      label: comments_2
+      hint: null
+      type: text
+      options: []
+      required: false

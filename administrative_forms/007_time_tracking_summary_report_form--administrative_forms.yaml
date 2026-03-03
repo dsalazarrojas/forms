@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Time Tracking Summary Report Form
+    pages:
+    - id: 1
+      name: project_title
+      label: Project Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: work_minutes
+      label: Work Minutes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

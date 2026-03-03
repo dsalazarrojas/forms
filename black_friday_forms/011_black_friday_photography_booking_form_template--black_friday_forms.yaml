@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Black Friday Photography Booking Form Template
+    pages:
+    - id: 1
+      name: booking_intro
+      label: Black Friday Photography Session Booking
+      hint: Book your special Black Friday photography session
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: Full name of client
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: session_type
+      label: Session Type
+      hint: What type of photography session
+      type: select_one
+      options:
+      - Family Portrait
+      - Individual Portrait
+      - Couple Session
+      - Pet Photography
+      - Product Photography
+      - Event Coverage
+      required: true
+    - id: 6
+      name: preferred_date
+      label: Preferred Date
+      hint: First choice for session date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: preferred_time
+      label: Preferred Time
+      hint: What time works best
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: alternate_date
+      label: Alternate Date
+      hint: Second choice date
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: location_preference
+      label: Location Preference
+      hint: Where should the session take place
+      type: select_one
+      options:
+      - Studio Session
+      - Outdoor Location
+      - Client Home
+      - Business Location
+      - Other Venue
+      required: true
+    - id: 10
+      name: number_of_subjects
+      label: Number of Subjects
+      hint: How many people will be photographed
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: children_ages
+      label: Children Ages
+      hint: Ages of any children
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: package_selection
+      label: Package Selection
+      hint: Choose your photography package
+      type: select_one
+      options:
+      - Basic Package - 30 min
+      - Standard Package - 1 hour
+      - Premium Package - 2 hours
+      - Deluxe Package - Full Day
+      required: true
+    - id: 13
+      name: special_requests
+      label: Special Requests
+      hint: Any specific shots or requirements
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: outfit_changes
+      label: Number of Outfit Changes
+      hint: How many outfit changes needed
+      type: select_one
+      options:
+      - No Changes
+      - 1 Change
+      - 2 Changes
+      - 3 or More Changes
+      required: false
+    - id: 15
+      name: prints_needed
+      label: Print Package
+      hint: Do you want printed photos
+      type: select_one
+      options:
+      - Digital Only
+      - Small Print Pack
+      - Medium Print Pack
+      - Large Print Pack
+      - Premium Album
+      required: true
+    - id: 16
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: Source of referral
+      type: select_one
+      options:
+      - Social Media
+      - Website
+      - Friend Referral
+      - Previous Client
+      - Advertisement
+      - Other
+      required: false
+    - id: 17
+      name: deposit_payment
+      label: Deposit Payment
+      hint: Deposit required to secure booking
+      type: select_one
+      options:
+      - I Will Pay Deposit Now
+      - I Have Questions First
+      required: true
+    - id: 18
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information to share
+      type: text
+      options: []
+      required: false

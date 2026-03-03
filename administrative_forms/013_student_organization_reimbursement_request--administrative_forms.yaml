@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Organization Reimbursement Request
+    pages:
+    - id: 1
+      name: request_form
+      label: Student Organization Reimbursement Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: expense_details
+      label: Expense Details
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: upload_expense_receipt
+      label: Upload Expense Receipt
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: submit_form
+      label: Submit Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: expense_date
+      label: Expense Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: expense_description
+      label: Expense Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: expense_type
+      label: Expense Type
+      hint: null
+      type: select_one
+      options:
+      - Student Club
+      - Club Event
+      - Club Travel
+      - Other
+      required: false
+    - id: 8
+      name: expense_category
+      label: Expense Category
+      hint: null
+      type: select_multiple
+      options:
+      - Travel
+      - Food
+      - Other
+      required: false
+    - id: 9
+      name: expense_subtype
+      label: Expense Subtype
+      hint: null
+      type: select_one
+      options:
+      - Local
+      - Regional
+      - National
+      - International
+      required: false

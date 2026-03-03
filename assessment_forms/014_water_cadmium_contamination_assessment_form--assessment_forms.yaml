@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: Water Cadmium Contamination Assessment Form
+    pages:
+    - id: 1
+      name: water_source
+      label: water_source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sample_type
+      label: sample_type
+      hint: null
+      type: select_one
+      options:
+      - Cadmium
+      - Lead
+      - Arsenic
+      required: false
+    - id: 3
+      name: date_collected
+      label: date_collected
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_collected
+      label: time_collected
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: cadmium_concentration
+      label: cadmium_concentration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: cadmium_units
+      label: cadmium_units
+      hint: null
+      type: select_one
+      options:
+      - micrograms_per_liter
+      - milligrams_per_liter
+      required: false
+    - id: 8
+      name: remarks
+      label: remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: cadmium_status
+      label: cadmium_status
+      hint: null
+      type: select_one
+      options:
+      - Not Assessed
+      - Low Risk
+      - High Risk
+      - Unknown/Unassessed
+      - Other
+      required: false
+    - id: 10
+      name: follow_up_action
+      label: follow_up_action
+      hint: null
+      type: select_multiple
+      options:
+      - Follow up
+      - No Action
+      - Other Action
+      - Not Assessed
+      - Unknown/Unassessed
+      required: false
+    - id: 11
+      name: follow_up_date
+      label: follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_time
+      label: follow_up_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_location
+      label: follow_up_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_status
+      label: follow_up_status
+      hint: null
+      type: select_one
+      options:
+      - Not Assessed
+      - Low Risk
+      - High Risk
+      - Unknown/Unassessed
+      - Other
+      required: false
+    - id: 15
+      name: follow_up_remarks
+      label: follow_up_remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_units
+      label: follow_up_units
+      hint: null
+      type: select_one
+      options:
+      - Milligrams/L
+      - Micrograms/L
+      required: false
+    - id: 17
+      name: follow_up_organisation
+      label: follow_up_organisation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_personnel
+      label: follow_up_personnel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_comments
+      label: follow_up_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: water_source_id
+      label: water_source_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: sample_id
+      label: sample_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_last_update
+      label: follow_up_last_update
+      hint: null
+      type: date
+      options: []
+      required: false

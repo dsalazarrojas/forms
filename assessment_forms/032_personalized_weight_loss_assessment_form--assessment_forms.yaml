@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personalized Weight Loss Assessment Form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: health_information
+      label: Health Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: exercise_frequency
+      label: Exercise Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: diet_plan
+      label: Dietary Plan
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: weight_loss_goals
+      label: Weight Loss Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: weight_loss_plan
+      label: Weight Loss Plan
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: weight_loss_progress
+      label: Weight Loss Progress
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false

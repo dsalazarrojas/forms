@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: fuel_expense_reimbursement_intake_form
+    pages:
+    - id: 1
+      name: fuel_expense_date
+      label: Fuel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: mileage
+      label: Mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: odometer_reading
+      label: Odometer Reading
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: fuel_type
+      label: Fuel Type
+      hint: null
+      type: select_one
+      options:
+      - Gasoline
+      - Diesel
+      - Alternative
+      required: false
+    - id: 5
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: purpose
+      label: Purpose
+      hint: null
+      type: select_multiple
+      options:
+      - Personal
+      - Business
+      - Both
+      required: false
+    - id: 7
+      name: reimbursement_request
+      label: Reimbursement Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: receipt_attachment
+      label: Receipt Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: employee_name
+      label: Employee Name
+      hint: Please ensure this is your actual employee name
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employee_id
+      label: Employee ID
+      hint: Please ensure this is your actual employee ID
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - Human Resources
+      - Operations
+      - Engineering
+      required: false

@@ -1,0 +1,54 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Online Assessment Consent Form
+    pages:
+    - id: 1
+      name: online_assessment_consent_form
+      label: online_assessment_consent_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''parent''}'
+      - '{''value'': ''guardian''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 4
+      name: relationship_other
+      label: Relationship Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

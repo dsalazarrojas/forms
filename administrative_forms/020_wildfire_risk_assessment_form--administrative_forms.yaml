@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: wildfire_risk_assessment_form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: land_use
+      label: land_use
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: vegetation
+      label: vegetation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: topography
+      label: topography
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: wind
+      label: wind
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: weather
+      label: weather
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: water_source
+      label: water_source
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: previous_wildfires
+      label: previous_wildfires
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: fire_protocols
+      label: fire_protocols
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: mitigation_strategies
+      label: mitigation_strategies
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 11
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: submit_button
+      label: submit_button
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: fire_department
+      label: fire_department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: fire_department_contact
+      label: fire_department_contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: fire_department_phone
+      label: fire_department_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: fire_department_email
+      label: fire_department_email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submit_form
+      label: submit_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: fire_department_address
+      label: fire_department_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: submit_button
+      label: submit_button
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: emergency_contact_phone
+      label: emergency_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false

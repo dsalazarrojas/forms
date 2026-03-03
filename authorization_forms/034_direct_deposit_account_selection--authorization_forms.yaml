@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Direct Deposit Account Selection
+    pages:
+    - id: 1
+      name: account_selection
+      label: Account Selection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: account_type
+      label: account type
+      hint: null
+      type: select_one
+      options:
+      - ACH
+      - Direct Deposit
+      - Wire Transfer
+      - Other
+      required: false
+    - id: 3
+      name: bank_account_number
+      label: Bank Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: routing_number
+      label: Routing Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: account_holder
+      label: Account Holder
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: account_name
+      label: Account Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: bank_address
+      label: Bank Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: account_type_2
+      label: account type 2
+      hint: null
+      type: select_one
+      options:
+      - ACH
+      - Direct Deposit
+      - Wire Transfer
+      - Other
+      required: false
+    - id: 9
+      name: bank_name
+      label: Bank Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: routing_number_2
+      label: Routing Number
+      hint: null
+      type: text
+      options: []
+      required: false

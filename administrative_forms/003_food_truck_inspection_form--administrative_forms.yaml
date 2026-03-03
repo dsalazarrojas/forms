@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Truck Inspection Form
+    pages:
+    - id: 1
+      name: food_truck_inspection_form_1
+      label: food_truck_inspection_form_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: license_number
+      label: license_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_type
+      label: vehicle_type
+      hint: null
+      type: select_one
+      options:
+      - Car
+      - Truck
+      - Bus
+      required: false
+    - id: 4
+      name: food_handling_certification
+      label: food_handling_certification
+      hint: null
+      type: select_multiple
+      options:
+      - Certified
+      - Pending
+      required: false
+    - id: 5
+      name: safety_equipment_included
+      label: safety_equipment_included
+      hint: null
+      type: select_multiple
+      options:
+      - Fire Extinguisher
+      - First Aid Kit
+      - Safety Sign
+      required: false
+    - id: 6
+      name: cleanliness_level
+      label: cleanliness_level
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: date_last_inspection
+      label: date_last_inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_last_inspection
+      label: time_last_inspection
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_inspector
+      label: assigned_inspector
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: inspector_signature
+      label: inspector_signature
+      hint: null
+      type: select_one
+      options:
+      - Signed
+      - Unsigned
+      required: false

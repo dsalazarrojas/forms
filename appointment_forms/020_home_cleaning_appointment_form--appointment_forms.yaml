@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Cleaning Appointment Form
+    pages:
+    - id: 1
+      name: home_cleaning_form
+      label: Home Cleaning Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: schedule_date
+      label: Schedule Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: schedule_time
+      label: Schedule Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: cleaning_type
+      label: Cleaning Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: home_cleaning_form_submit
+      label: Home Cleaning Form Submit
+      hint: null
+      type: text
+      options: []
+      required: false

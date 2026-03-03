@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event T Shirt Order Confirmation
+    pages:
+    - id: 1
+      name: first_name
+      label: participant_first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: t_shirt_size
+      label: participant_t_shirt_size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false

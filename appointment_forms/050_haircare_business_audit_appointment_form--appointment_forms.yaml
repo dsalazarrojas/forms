@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Haircare Business Audit Appointment Form
+    pages:
+    - id: 1
+      name: schedule_session
+      label: Schedule Session
+      hint: null
+      type: select_one
+      options:
+      - 10:00 AM
+      - 11:00 AM
+      - 12:00 PM
+      - 1:00 PM
+      - 2:00 PM
+      - 3:00 PM
+      required: false
+    - id: 2
+      name: session_type
+      label: Session Type
+      hint: null
+      type: select_multiple
+      options:
+      - Service Interest
+      - Audit Session
+      - Consultation
+      required: false
+    - id: 3
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: business_details
+      label: Business Details
+      hint: Please provide the address and name of your business
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: service_interests
+      label: Service Interests
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Hair Cutting
+      - Hair Color
+      - Hair Style
+      - Hair Treatment
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: Please provide any other relevant info
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payment Term Definition Request Form
+    pages:
+    - id: 1
+      name: payment_term_request
+      label: Payment Term Request
+      hint: null
+      type: select_one
+      options:
+      - Request for payment term change
+      - No payment term change request
+      - Payment term change request
+      required: false
+    - id: 2
+      name: payment_term_change_reason
+      label: Reason for payment term change
+      hint: Please provide a clear reason for the change request
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: new_payment_term
+      label: New Payment Term
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: review_status
+      label: Review status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment_term_status
+      label: Payment Term Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: false
+    - id: 8
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: review_date
+      label: Review Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: payment_term_definition
+      label: Payment Term Definition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: review_status_note
+      label: Review status note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: review_status_reviewer
+      label: Review status reviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_term_definition_note
+      label: Payment term definition note
+      hint: null
+      type: text
+      options: []
+      required: false

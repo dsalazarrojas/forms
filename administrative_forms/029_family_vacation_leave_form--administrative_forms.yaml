@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Vacation Leave Form
+    pages:
+    - id: 1
+      name: family_vacation_leave_form
+      label: Requesting A Leave
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: duration_days
+      label: Duration Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: reason
+      label: Reason For Leave
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manager_approved
+      label: Has Manager Approved
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_approved
+      label: Has Employee Approved
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: employee_comments
+      label: Employee Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: company_approved
+      label: Has Company Approved
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: company_comments
+      label: Company Comments
+      hint: null
+      type: text
+      options: []
+      required: false

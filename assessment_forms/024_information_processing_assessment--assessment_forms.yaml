@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Information Processing Assessment
+    pages:
+    - id: 1
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: rating_1
+      label: Rating 1
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 5
+      name: rating_2
+      label: Rating 2
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 6
+      name: rating_3
+      label: Rating 3
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 7
+      name: reflective_responses
+      label: Reflective Responses
+      hint: null
+      type: note
+      options: []
+      required: false

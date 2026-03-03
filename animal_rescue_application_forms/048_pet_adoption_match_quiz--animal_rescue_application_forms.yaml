@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Adoption Match Quiz
+    pages:
+    - id: 1
+      name: pet_type
+      label: What type of pet do you have experience with?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: pet_size
+      label: What size of pet do you prefer?
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - All
+      required: false
+    - id: 3
+      name: family_status
+      label: What is your family status?
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Both
+      required: false
+    - id: 4
+      name: lifestyle
+      label: What is your typical weekly schedule like?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: living_space
+      label: What is your living space like?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: energy_level
+      label: What is your energy level like?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: pet_experience
+      label: Do you have pet experience?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: pet_allergies
+      label: Do you have any pet allergies?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: budget
+      label: What is your budget for pet care?
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 10
+      name: preferred_activities
+      label: What activities do you and your pet enjoy most?
+      hint: null
+      type: text
+      options: []
+      required: false

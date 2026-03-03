@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Evacuation Alert Communication Form
+    pages:
+    - id: 1
+      name: emergency_type
+      label: Emergency Type
+      hint: null
+      type: select_one
+      options:
+      - Emergency
+      - Drill
+      - Test
+      required: false
+    - id: 2
+      name: incident_description
+      label: incident_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: number_of_people_involved
+      label: number_of_people_involved
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: number_of_people_evacuated
+      label: number_of_people_evacuated
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: evacuation_message
+      label: evacuation_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: false

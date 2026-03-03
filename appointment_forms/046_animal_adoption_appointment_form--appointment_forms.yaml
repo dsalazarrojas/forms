@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Adoption Appointment Form
+    pages:
+    - id: 1
+      name: section_appointment
+      label: -- Appointment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: preferred_date
+      label: Preferred appointment date
+      hint: Choose a date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: preferred_time
+      label: Preferred appointment time
+      hint: Choose a time slot
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: pet_of_interest
+      label: Pet of interest
+      hint: Name or ID of the animal
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact phone
+      hint: For appointment confirmation
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email address
+      hint: Optional confirmation email
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: special_requests
+      label: Special requests
+      hint: Accessibility or accommodation needs
+      type: text
+      options: []
+      required: false

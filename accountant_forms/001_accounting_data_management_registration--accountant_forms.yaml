@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Data Management Registration
+    pages:
+    - id: 1
+      name: client_company_name
+      label: Client Company Name
+      hint: Enter the legal name of your company
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: primary_contact_name
+      label: Primary Contact Name
+      hint: Full name of the main contact person
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email Address
+      hint: Business email for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone Number
+      hint: Primary business phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_address
+      label: Business Address
+      hint: Complete business address including street, city, state, and zip code
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: tax_id_number
+      label: Tax ID Number
+      hint: Federal tax identification number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: fiscal_year_end
+      label: Fiscal Year End
+      hint: Month and day when your fiscal year ends
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: accounting_software_used
+      label: Primary Accounting Software Used
+      hint: Select the main accounting software currently in use
+      type: select_one
+      options:
+      - QuickBooks Desktop
+      - QuickBooks Online
+      - Xero
+      - Sage
+      - FreshBooks
+      - Other
+      required: false
+    - id: 9
+      name: data_collection_frequency
+      label: Preferred Data Collection Frequency
+      hint: How often do you want financial data collected
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 10
+      name: services_needed
+      label: Services Needed
+      hint: Select all accounting services required
+      type: select_multiple
+      options:
+      - Bookkeeping
+      - Payroll Processing
+      - Tax Preparation
+      - Financial Reporting
+      - Budget Planning
+      - Audit Support
+      required: false
+    - id: 11
+      name: estimated_annual_revenue
+      label: Estimated Annual Revenue Range
+      hint: Select the range that best represents your annual revenue
+      type: select_one
+      options:
+      - Under $100K
+      - $100K - $500K
+      - $500K - $1M
+      - $1M - $5M
+      - Over $5M
+      required: false
+    - id: 12
+      name: additional_notes
+      label: Additional Notes or Special Requirements
+      hint: Any special requirements or notes about your accounting needs
+      type: text
+      options: []
+      required: false

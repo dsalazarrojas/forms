@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ocean Alkalinity Assessment Form
+    pages:
+    - id: 1
+      name: page_1
+      label: Sampling Location
+      hint: null
+      type: select_one
+      options:
+      - Location A
+      - Location B
+      - Location C
+      required: false
+    - id: 2
+      name: page_2
+      label: Sampling Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: page_3
+      label: sampling_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: page_4
+      label: Sampling Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: page_5
+      label: Water Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: page_6
+      label: Salinity
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 7
+      name: page_7
+      label: Alkalinity
+      hint: null
+      type: select_multiple
+      options:
+      - Alkalinity 1
+      - Alkalinity 2
+      - Alkalinity 3
+      required: false
+    - id: 8
+      name: page_8
+      label: Other Comments
+      hint: null
+      type: note
+      options: []
+      required: false

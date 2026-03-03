@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Asset Declaration Form
+    pages:
+    - id: 1
+      name: declarant_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: declarant_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: declaration_date
+      label: Declaration Date
+      hint: Date of this declaration
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: national_id
+      label: National ID Number
+      hint: Tax ID or national identification
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: declaration_type
+      label: Type of Declaration
+      hint: What type of asset declaration?
+      type: select_one
+      options:
+      - Personal Assets
+      - Business Assets
+      - Corporate Assets
+      - Trust Assets
+      - Estate Assets
+      required: true
+    - id: 6
+      name: real_property_address
+      label: Real Property Address
+      hint: Address of real estate owned
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: real_property_type
+      label: Type of Real Property
+      hint: Residential, commercial, land, etc.
+      type: select_one
+      options:
+      - Residential Home
+      - Commercial Property
+      - Land
+      - Mixed-use Property
+      - Investment Property
+      - Other
+      required: false
+    - id: 8
+      name: real_property_value
+      label: Real Property Value
+      hint: Current market value
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: financial_accounts_cash
+      label: Cash in Bank Accounts
+      hint: Total balance in savings and checking
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: financial_accounts_savings
+      label: Savings Account Value
+      hint: Total savings account balances
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: investments_stocks
+      label: Stock Investments
+      hint: Value of stock portfolio
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: investments_bonds
+      label: Bond Investments
+      hint: Value of bonds held
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: investments_mutual_funds
+      label: Mutual Fund Investments
+      hint: Value of mutual fund holdings
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: retirement_accounts
+      label: Retirement Account Value
+      hint: 401k, IRA, or similar balances
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: vehicles_value
+      label: Vehicles and Equipment Value
+      hint: Cars, boats, machinery, etc.
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: jewelry_art_value
+      label: Jewelry, Artwork, and Collectibles
+      hint: Value of personal collectibles
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: mortgages_payable
+      label: Mortgages and Loans
+      hint: Total outstanding loan balance
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: credit_card_debt
+      label: Credit Card Debt
+      hint: Total credit card balances
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: personal_loans
+      label: Personal Loans Outstanding
+      hint: Other personal loan balances
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: other_liabilities
+      label: Other Liabilities
+      hint: Any other debts or obligations
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: net_worth
+      label: Net Worth
+      hint: Total assets minus total liabilities
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: additional_property_description
+      label: Description of Additional Assets
+      hint: Any other significant assets
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: declaration_accuracy
+      label: I declare that the above information is accurate and complete
+      hint: Confirmation of accuracy
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: declarant_signature_name
+      label: Declarant Signature
+      hint: Your name as signature
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: declaration_submission_date
+      label: Submission Date
+      hint: Date declaration is submitted
+      type: date
+      options: []
+      required: true

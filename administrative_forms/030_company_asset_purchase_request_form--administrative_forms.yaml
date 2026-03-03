@@ -1,0 +1,334 @@
+inputSchema:
+  type: object
+  properties:
+    title: Company Asset Purchase Request Form
+    pages:
+    - id: 1
+      name: requester_full_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Email Address
+      hint: Company email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requester_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employee_id
+      label: Employee ID
+      hint: Your employee ID
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: manager_name
+      label: Manager/Supervisor Name
+      hint: Direct supervisor
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: manager_email
+      label: Manager Email
+      hint: For approval
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: request_date
+      label: Request Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: asset_category
+      label: Asset Category
+      hint: Type of asset
+      type: select_one
+      options:
+      - Computer/Laptop
+      - Monitor/Display
+      - Printer/Scanner
+      - Software License
+      - Office Furniture
+      - Mobile Device
+      - Network Equipment
+      - Audio/Visual Equipment
+      - Laboratory Equipment
+      - Manufacturing Equipment
+      - Vehicle
+      - Other
+      required: true
+    - id: 11
+      name: asset_name
+      label: Asset Name/Description
+      hint: Specific item
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: asset_specifications
+      label: Asset Specifications
+      hint: Technical details, model, etc.
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: manufacturer
+      label: Preferred Manufacturer
+      hint: Brand name
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: model_number
+      label: Model Number
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: quantity
+      label: Quantity Needed
+      hint: Number of units
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: estimated_cost
+      label: Estimated Cost Per Unit
+      hint: In dollars
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: total_cost
+      label: Total Estimated Cost
+      hint: Quantity times unit cost
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: vendor_name
+      label: Preferred Vendor
+      hint: Supplier name
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: vendor_website
+      label: Vendor Website/Link
+      hint: Product URL if available
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: business_justification
+      label: Business Justification
+      hint: Why is this asset needed?
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: urgency_level
+      label: Urgency Level
+      hint: Priority
+      type: select_one
+      options:
+      - Low - Can wait 30+ days
+      - Medium - Needed within 2-4 weeks
+      - High - Needed within 1 week
+      - Critical - Needed immediately
+      required: true
+    - id: 22
+      name: required_by_date
+      label: Required By Date
+      hint: When do you need it?
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: current_equipment
+      label: Do you have existing equipment to replace?
+      hint: Replacement or new
+      type: select_one
+      options:
+      - No, this is a new need
+      - Yes, replacing old equipment
+      - Yes, upgrading current equipment
+      required: true
+    - id: 24
+      name: current_equipment_details
+      label: If replacing, describe current equipment
+      hint: Age, condition, issues
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: impact_if_not_approved
+      label: What is the impact if this request is not approved?
+      hint: Business impact
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: budget_source
+      label: Budget Source
+      hint: Which budget will this come from?
+      type: select_one
+      options:
+      - Department Budget
+      - Project Budget
+      - Capital Expenditure
+      - IT Budget
+      - Need budget allocation
+      - Other
+      required: true
+    - id: 27
+      name: budget_code
+      label: Budget Code/Account Number
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: asset_use_location
+      label: Where will the asset be used?
+      hint: Location
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: shared_asset
+      label: Will this asset be shared with others?
+      hint: Usage scope
+      type: select_one
+      options:
+      - No, personal use only
+      - Yes, with team members
+      - Yes, department-wide
+      - Yes, company-wide
+      required: true
+    - id: 30
+      name: training_required
+      label: Will training be required?
+      hint: For use of asset
+      type: select_one
+      options:
+      - false
+      - Yes, basic training
+      - Yes, extensive training
+      required: false
+    - id: 31
+      name: maintenance_requirements
+      label: Are there ongoing maintenance requirements?
+      hint: Maintenance needs
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: disposal_plan
+      label: If replacing, what is the disposal plan for old asset?
+      hint: Disposal method
+      type: select_one
+      options:
+      - Return to vendor
+      - IT surplus
+      - Recycle
+      - Donate
+      - Other
+      required: false
+    - id: 33
+      name: additional_comments
+      label: Any additional comments or information?
+      hint: Your notes
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: attachments_note
+      label: -- Attachments --
+      hint: You may be asked to provide quotes or documentation
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: requester_signature
+      label: Requester Signature
+      hint: Electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 36
+      name: manager_approval_status
+      label: Manager Approval Status
+      hint: To be completed by manager
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      - More Information Needed
+      required: false
+    - id: 37
+      name: manager_approval_date
+      label: Manager Approval Date
+      hint: Date of approval
+      type: date
+      options: []
+      required: false
+    - id: 38
+      name: manager_comments
+      label: Manager Comments
+      hint: Any notes from manager
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: it_approval_status
+      label: IT Approval Status (if applicable)
+      hint: For technology assets
+      type: select_one
+      options:
+      - Not Required
+      - Pending
+      - Approved
+      - Denied
+      required: false
+    - id: 40
+      name: finance_approval_status
+      label: Finance Approval Status
+      hint: Budget verification
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      - More Information Needed
+      required: false

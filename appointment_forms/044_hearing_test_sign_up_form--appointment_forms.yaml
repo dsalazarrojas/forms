@@ -1,0 +1,114 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: hearing_test_sign_up_form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: appointment_date
+      label: appointment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: test_type
+      label: test_type
+      hint: null
+      type: select_one
+      options:
+      - Test Type A
+      - Test Type B
+      required: true
+    - id: 4
+      name: time_slot
+      label: time_slot
+      hint: null
+      type: select_one
+      options:
+      - '600'
+      - '840'
+      - '960'
+      required: true
+    - id: 5
+      name: preferred_contact_method
+      label: preferred_contact_method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - None
+      required: true
+    - id: 6
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: doctor_info
+      label: doctor_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_specialist
+      label: medical_specialist
+      hint: null
+      type: select_one
+      options:
+      - Dr Smith
+      - Dr Johnson
+      - Dr Doe
+      required: true
+    - id: 9
+      name: appointment_status
+      label: appointment_status
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Pending
+      - Cancelled
+      required: true
+    - id: 10
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_info
+      label: patient_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: appointment_details
+      label: appointment_details
+      hint: null
+      type: text
+      options: []
+      required: false

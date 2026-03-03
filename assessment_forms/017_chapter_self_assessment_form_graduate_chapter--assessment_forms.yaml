@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chapter Self Assessment Form Graduate Chapter
+    pages:
+    - id: 1
+      name: section_chapter_basics
+      label: -- Chapter Basics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: graduate_chapter_full_name
+      label: Graduate Chapter Full Name
+      hint: Enter the formal name as registered with the national organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: chapter_location_city_state
+      label: Chapter Location
+      hint: City and State
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: chapter_region_selected
+      label: Chapter Region
+      hint: Select the region assigned to your chapter
+      type: select_one
+      options:
+      - North Atlantic
+      - Mid-Atlantic
+      - South Atlantic
+      - Great Lakes
+      - South Eastern
+      - South Central
+      - Central
+      - Mid-Western
+      - Far Western
+      - International
+      required: true
+    - id: 5
+      name: current_chapter_president_name
+      label: Current Chapter President
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: assessment_period_year
+      label: Assessment Period
+      hint: Year of the assessment being reported
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: section_operational_efficiency
+      label: -- Operational Efficiency --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: adherence_to_national_bylaws
+      label: Adherence to National Bylaws
+      hint: Rate the chapter's compliance with governing documents
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: frequency_of_chapter_meetings
+      label: Frequency of Chapter Meetings
+      hint: Are regular meetings held as required?
+      type: select_one
+      options:
+      - Monthly (As required)
+      - Bi-Monthly
+      - Quarterly
+      - Irregularly
+      required: true
+    - id: 10
+      name: financial_reporting_compliance
+      label: Financial Reporting Compliance
+      hint: Are all financial reports submitted on time and accurately?
+      type: select_one
+      options:
+      - Yes - All Submitted on Time
+      - Mostly - Some Delayed
+      - No - Significant Delays or Missing Reports
+      required: true
+    - id: 11
+      name: membership_growth_and_retention_rating
+      label: Membership Growth and Retention Rating
+      hint: How effective is the chapter in recruitment and retention?
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: section_programmatic_impact
+      label: -- Programmatic Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: success_of_national_programs_implementation
+      label: Implementation of National Programs
+      hint: Rate how effectively national targets are being met
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: community_service_hours_logged
+      label: Community Service Hours Logged
+      hint: Total for the assessment period
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: local_community_impact_summary
+      label: Local Community Impact Summary
+      hint: Briefly describe the chapter's most significant achievement
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: scholarship_awards_distribution_rating
+      label: Scholarship and Awards Distribution
+      hint: Effectiveness of the scholarship program
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: section_leadership_and_governance
+      label: -- Leadership and Governance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: officer_transition_and_training_adequacy
+      label: Officer Transition and Training
+      hint: How well are new officers prepared?
+      type: select_one
+      options:
+      - Excellent Transition
+      - Adequate Transition
+      - Minimal Transition
+      - Poor Transition
+      required: true
+    - id: 19
+      name: committee_activity_and_reporting
+      label: Committee Activity and Reporting
+      hint: Are all required committees active and reporting?
+      type: select_one
+      options:
+      - Yes - All Active
+      - Mostly - Some Inactive
+      - No - Significant Inactivity
+      required: true
+    - id: 20
+      name: section_assessment_confirmation
+      label: -- Assessment Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: accuracy_confirmation_chapter
+      label: Confirmation of Assessment Accuracy
+      hint: I confirm that this assessment accurately reflects the chapter's status
+      type: select_one
+      options:
+      - I Confirm and Submit
+      - Other
+      required: true
+    - id: 22
+      name: date_of_self_assessment_completion
+      label: Date of Completion
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: additional_assessment_comments
+      label: Additional Assessment Comments
+      hint: Any other relevant information or context
+      type: text
+      options: []
+      required: false

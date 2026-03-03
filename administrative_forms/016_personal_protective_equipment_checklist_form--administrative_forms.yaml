@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: personal_protective_equipment_checklist_form
+    pages:
+    - id: 1
+      name: work_site_id
+      label: Work Site
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: equipment_id
+      label: Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: safety_equipment_provided
+      label: Is Safety Equipment Provided
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: safety_equipment_inspected
+      label: Is Safety Equipment Inspected
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: personal_equipment_list
+      label: Personal Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: is_worn
+      label: Is Worn
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: is_maintained
+      label: Is Maintained
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: is_checked_out
+      label: Is Checked Out
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: is_returned
+      label: Is Returned
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: work_start_time
+      label: Work Start Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: work_finish_time
+      label: Work Finish Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: work_date
+      label: Work Date
+      hint: null
+      type: date
+      options: []
+      required: false

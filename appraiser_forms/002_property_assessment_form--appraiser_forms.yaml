@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Assessment Form
+    pages:
+    - id: 1
+      name: property_value
+      label: Property Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: assessment_type
+      label: Assessment Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: assessment_time
+      label: Assessment Time
+      hint: null
+      type: time
+      options: []
+      required: false

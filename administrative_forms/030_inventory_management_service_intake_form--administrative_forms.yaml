@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inventory Management Service Intake Form
+    pages:
+    - id: 1
+      name: form_01
+      label: service_intake_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inventory_type
+      label: inventory_type
+      hint: null
+      type: select_one
+      options:
+      - Inventory Service
+      - Other
+      required: false
+    - id: 3
+      name: service_type
+      label: service_type
+      hint: null
+      type: select_one
+      options:
+      - Inventory Management
+      - Inventory Control
+      required: false
+    - id: 4
+      name: inventory_size
+      label: inventory_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: inventory_location
+      label: inventory_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: inventory_status
+      label: inventory_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - On Order
+      required: false
+    - id: 7
+      name: inventory_note
+      label: inventory_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: client_email
+      label: client_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: client_phone
+      label: client_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false

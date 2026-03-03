@@ -1,0 +1,85 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Advance Directive Consent Form
+    pages:
+    - id: 1
+      name: directive_header
+      label: -- Advance Directive --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient full name
+      hint: Legal name as on ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: Use YYYY-MM-DD
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: directive_type
+      label: Type of advance directive
+      hint: Select applicable document
+      type: select_one
+      options:
+      - Living will
+      - Durable power of attorney for health care
+      - Do not resuscitate order
+      - Other
+      required: true
+    - id: 5
+      name: appointed_agent
+      label: Appointed health care agent name
+      hint: Name and contact for agent
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: treatment_preferences
+      label: General treatment preferences
+      hint: Describe preferences and limitations
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: witness_signature
+      label: Witness signature name
+      hint: Required for legal validity where applicable
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consent_date
+      label: Date signed
+      hint: Date of signing
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: notarization_required
+      label: Notarization required
+      hint: Check if notarization completed
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: false

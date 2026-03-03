@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Invoice Generation Form
+    pages:
+    - id: 1
+      name: page_1
+      label: Billing Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page_2
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: page_3
+      label: Payment Terms
+      hint: Select the payment method
+      type: select_one
+      options:
+      - Cash
+      - Bank Transfer
+      - Check
+      required: true
+    - id: 4
+      name: page_4
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Bank Transfer
+      - Check
+      required: true
+    - id: 5
+      name: page_5
+      label: Due Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: page_6
+      label: Due Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: page_7
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: page_8
+      label: Email Address
+      hint: Email
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: page_9
+      label: Phone Number
+      hint: Phone number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: page_10
+      label: Invoice Amount
+      hint: Amount
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: page_11
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      required: true
+    - id: 12
+      name: page_12
+      label: Tax Rate
+      hint: Tax Rate
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: page_13
+      label: Tax Exemption
+      hint: Tax Exemption
+      type: select_multiple
+      options:
+      - None
+      - Exempt
+      required: true
+    - id: 14
+      name: page_14
+      label: Tax Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: page_15
+      label: Tax Exemption Number
+      hint: null
+      type: text
+      options: []
+      required: false

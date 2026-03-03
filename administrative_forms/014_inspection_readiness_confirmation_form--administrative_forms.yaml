@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inspection Readiness Confirmation Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: facility_status
+      label: Facility Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 5
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: osha_29c_1111
+      label: OSHA 29C 1111
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: osha_29c_1111a
+      label: OSHA 29C 1111A
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: osha_29c_1111b
+      label: OSHA 29C 1111B
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: facility_inspection_frequency
+      label: Facility Inspection Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: next_inspection_date
+      label: Next Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: facility_inspection_type
+      label: Facility Inspection Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: facility_inspection_frequency_type
+      label: Facility Inspection Frequency Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: facility_inspection_safety_data
+      label: Facility Inspection Safety Data
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: facility_inspection_safety_data
+      label: Facility Inspection Safety Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: facility_inspection_preparedness
+      label: Facility Inspection Preparedness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: facility_inspection_preparedness_plan
+      label: Facility Inspection Preparedness Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: facility_inspection_preparedness_frequency
+      label: Facility Inspection Preparedness Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: facility_inspection_preparedness_frequency_type
+      label: Facility Inspection Preparedness Frequency Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: facility_inspection_preparedness_next_date
+      label: Facility Inspection Preparedness Next Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: facility_inspection_preparedness_last_date
+      label: Facility Inspection Preparedness Last Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: facility_inspection_preparedness_reviewer_name
+      label: Facility Inspection Preparedness Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: facility_inspection_preparedness_review_date
+      label: Facility Inspection Preparedness Review Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 27
+      name: facility_inspection_preparedness_status
+      label: Facility Inspection Preparedness Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 28
+      name: facility_inspection_preparedness_notes
+      label: Facility Inspection Preparedness Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: facility_inspection_preparedness_reviewer_signature
+      label: Facility Inspection Preparedness Reviewer Signature
+      hint: null
+      type: text
+      options: []
+      required: true

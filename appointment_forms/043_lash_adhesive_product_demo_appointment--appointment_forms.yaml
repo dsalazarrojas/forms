@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lash Adhesive Product Demo Appointment
+    pages:
+    - id: 1
+      name: product_demo_info
+      label: Product Demo Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: product_samples
+      label: Product Samples
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''2 Samples''}'
+      - '{''id'': 2, ''label'': ''3 Samples''}'
+      - '{''id'': 3, ''label'': ''5 Samples''}'
+      required: false
+    - id: 5
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: product_demos_allowed
+      label: Product Demos Allowed
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''2 demos''}'
+      - '{''id'': 2, ''label'': ''3 demos''}'
+      - '{''id'': 3, ''label'': ''4 demos''}'
+      required: false
+    - id: 9
+      name: product_demos_locations
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Store''}'
+      - '{''id'': 2, ''label'': ''Home''}'
+      - '{''id'': 3, ''label'': ''Clinic''}'
+      required: false
+    - id: 10
+      name: product_demos_products
+      label: Product Demo Product
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

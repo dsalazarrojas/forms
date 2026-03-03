@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smoke Alarm Authorization Form
+    pages:
+    - id: 1
+      name: owner_info
+      label: Owner Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - First Name
+      - Last Name
+      - Email
+      - Phone
+      required: false
+    - id: 4
+      name: owner_type
+      label: Owner Type
+      hint: null
+      type: select_multiple
+      options:
+      - Owner
+      - Tenant
+      - Agent
+      required: false
+    - id: 5
+      name: date_of_visit
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_visit
+      label: Time of Visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: smoke_alarm_info
+      label: Smoke Alarm Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: smoke_alarm_type
+      label: Smoke Alarm Type
+      hint: null
+      type: select_one
+      options:
+      - Hardwired
+      - Wireless
+      - Battery
+      required: false
+    - id: 9
+      name: smoke_alarm_serial_number
+      label: Smoke Alarm Serial Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: smoke_alarm_model
+      label: Smoke Alarm Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: smoke_alarm_description
+      label: Smoke Alarm Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: smoke_alarm_notes
+      label: Smoke Alarm Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: signature_info
+      label: Signature Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: owner_signature
+      label: Owner Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: agent_signature
+      label: Agent Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: agent_name
+      label: Agent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: date_of_visit_signature
+      label: Date of Visit Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: time_of_visit_signature
+      label: Time of Visit Signature
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: smoke_alarm_certify
+      label: Certify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: certify_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: certify_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: certify_signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supersedeas Bond Motion Form
+    pages:
+    - id: 1
+      name: supersedeas_bond_motion_request
+      label: Supersedeas Bond Motion Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: party_name
+      label: party_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: bond_amount
+      label: bond_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: filing_party
+      label: filing_party
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: motion_number
+      label: motion_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: judge_name
+      label: judge_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: motion_date
+      label: motion_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: bond_date
+      label: bond_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: bond_type
+      label: bond_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: motion_type
+      label: motion_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: supersedeas_bond_motions
+      label: supersedeas_bond_motions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: case_type
+      label: case_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: case_number
+      label: case_number
+      hint: null
+      type: number
+      options: []
+      required: false

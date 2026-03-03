@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lease Deposit Amendment Form
+    pages:
+    - id: 1
+      name: tenant_name
+      label: Tenant Name
+      hint: Enter tenant's name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: landlord_name
+      label: Landlord Name
+      hint: Enter landlord's name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: amendment_date
+      label: Amendment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: reason_for_change
+      label: Reason for Change
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: change_to_deposit_amount
+      label: Change to Deposit Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: new_deposit_amount
+      label: New Deposit Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: updated_lease_terms
+      label: Updated Lease Terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: signed_by_landlord
+      label: Signed by Landlord
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: signed_by_tenant
+      label: Signed by Tenant
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true

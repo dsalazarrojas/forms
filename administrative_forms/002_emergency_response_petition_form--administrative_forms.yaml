@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: emergency_response_petition_form
+    pages:
+    - id: 1
+      name: first_page
+      label: sign_petition
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: your_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: your_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: message
+      label: your_message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: signature
+      label: sign_and_support
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 6
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false

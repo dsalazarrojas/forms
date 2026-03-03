@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automotive Service Advisor Application Form
+    pages:
+    - id: 1
+      name: section_header_personal
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: current_address
+      label: Current Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_background
+      label: -- Professional Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: years_service_experience
+      label: Years of Service Advisor Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: previous_employers
+      label: Previous Employers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: current_employment
+      label: Current Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Unemployed
+      - Self-Employed
+      - Student
+      - Other
+      required: true
+    - id: 10
+      name: section_header_skills
+      label: -- Technical Skills --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_knowledge
+      label: General Vehicle Knowledge Level
+      hint: null
+      type: select_one
+      options:
+      - Expert
+      - Good
+      - Fair
+      - Basic
+      - Willing to Learn
+      required: true
+    - id: 12
+      name: diagnostic_tools
+      label: Familiarity with Diagnostic Tools
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Limited
+      required: true
+    - id: 13
+      name: software_systems
+      label: Computer System and Software Knowledge
+      hint: null
+      type: select_one
+      options:
+      - Advanced
+      - Proficient
+      - Basic
+      - Minimal
+      required: true
+    - id: 14
+      name: section_header_soft_skills
+      label: -- Soft Skills Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: communication_skills
+      label: Communication Skills
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Needs Development
+      required: true
+    - id: 16
+      name: customer_service
+      label: Customer Service Orientation
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Needs Development
+      required: true
+    - id: 17
+      name: organization_skills
+      label: Organization and Time Management
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Needs Development
+      required: true
+    - id: 18
+      name: section_header_experience_areas
+      label: -- Areas of Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: service_areas
+      label: Service Areas of Experience
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Routine Maintenance
+      - Diagnostics
+      - Electrical Systems
+      - Engine Repair
+      - Transmission Service
+      - Brake Systems
+      - Customer Follow-up
+      - Parts Ordering
+      - Warranty Work
+      required: true
+    - id: 20
+      name: section_header_certification
+      label: -- Certifications and Education --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: certifications
+      label: Relevant Certifications
+      hint: ASE, manufacturer certs, etc.
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: training_completed
+      label: Recent Training Completed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: section_header_position
+      label: -- Position Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: position_interest
+      label: Specific Position Interests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: availability
+      label: Available Start Date
+      hint: null
+      type: date
+      options: []
+      required: true

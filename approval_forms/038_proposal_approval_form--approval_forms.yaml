@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Proposal Approval Form
+    pages:
+    - id: 1
+      name: proposal_approval_form
+      label: Proposal Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 3
+      name: team_leader
+      label: Team Leader
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 4
+      name: project_status
+      label: Project Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: approval_time
+      label: Approval Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: proposal_number
+      label: Proposal Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false

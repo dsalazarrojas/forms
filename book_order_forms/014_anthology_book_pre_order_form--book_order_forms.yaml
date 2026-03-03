@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anthology Book Pre Order Form
+    pages:
+    - id: 1
+      name: section_order
+      label: -- Pre Order Details --
+      hint: Collect customer and shipping details for pre orders
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer name
+      hint: Full name for billing and shipping
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: Used for order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: shipping_address
+      label: Shipping address
+      hint: Street address city state and postal code
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: quantity
+      label: Quantity to pre order
+      hint: Number of copies
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: edition_preference
+      label: Edition preference
+      hint: Select preferred edition
+      type: select_one
+      options:
+      - Hardcover
+      - Paperback
+      - eBook
+      required: true
+    - id: 7
+      name: payment_method
+      label: Preferred payment method
+      hint: Payment will be collected at checkout
+      type: select_one
+      options:
+      - Credit card
+      - PayPal
+      - Invoice
+      required: true
+    - id: 8
+      name: special_instructions
+      label: Special instructions for order
+      hint: Gift messaging or delivery notes
+      type: text
+      options: []
+      required: false

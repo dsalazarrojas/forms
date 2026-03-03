@@ -1,0 +1,230 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Shelter Policy Voting Form
+    pages:
+    - id: 1
+      name: voter_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: voter_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: voter_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: voter_category
+      label: Voter Category
+      hint: Your relationship to the shelter
+      type: select_one
+      options:
+      - Shelter Staff
+      - Board Member
+      - Volunteer
+      - Foster Parent
+      - Adopter
+      - Community Member
+      - Partner Organization
+      required: true
+    - id: 5
+      name: voter_id
+      label: Voter ID or Member Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: voting_period
+      label: Voting Period
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: policy_item_1
+      label: Policy Item 1 - Extended Visiting Hours
+      hint: Proposal to extend weekend visiting hours from 5 PM to 7 PM
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: vote_policy_1
+      label: Vote on Extended Visiting Hours
+      hint: Select your vote
+      type: select_one
+      options:
+      - Yes - Approve
+      - No - Reject
+      - Abstain
+      required: true
+    - id: 9
+      name: policy_item_2
+      label: Policy Item 2 - New Adoption Fee Structure
+      hint: Proposal to adjust adoption fees based on age and species
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: vote_policy_2
+      label: Vote on New Adoption Fee Structure
+      hint: Select your vote
+      type: select_one
+      options:
+      - Yes - Approve
+      - No - Reject
+      - Abstain
+      required: true
+    - id: 11
+      name: policy_item_3
+      label: Policy Item 3 - Volunteer Training Requirements
+      hint: Proposal to require monthly training sessions for all volunteers
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: vote_policy_3
+      label: Vote on Volunteer Training Requirements
+      hint: Select your vote
+      type: select_one
+      options:
+      - Yes - Approve
+      - No - Reject
+      - Abstain
+      required: true
+    - id: 13
+      name: policy_item_4
+      label: Policy Item 4 - Foster Program Expansion
+      hint: Proposal to expand foster program capacity by 50 percent
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: vote_policy_4
+      label: Vote on Foster Program Expansion
+      hint: Select your vote
+      type: select_one
+      options:
+      - Yes - Approve
+      - No - Reject
+      - Abstain
+      required: true
+    - id: 15
+      name: policy_item_5
+      label: Policy Item 5 - Community Outreach Initiative
+      hint: Proposal to launch monthly community education events
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: vote_policy_5
+      label: Vote on Community Outreach Initiative
+      hint: Select your vote
+      type: select_one
+      options:
+      - Yes - Approve
+      - No - Reject
+      - Abstain
+      required: true
+    - id: 17
+      name: priority_ranking
+      label: Which Policy Change Is Most Important to You
+      hint: Select one priority
+      type: select_one
+      options:
+      - Extended Visiting Hours
+      - Adoption Fee Structure
+      - Volunteer Training
+      - Foster Program Expansion
+      - Community Outreach
+      - No Preference
+      required: false
+    - id: 18
+      name: implementation_timeline
+      label: Preferred Implementation Timeline
+      hint: How quickly should approved policies be implemented
+      type: select_one
+      options:
+      - Immediate - Within 30 Days
+      - Short Term - 30-60 Days
+      - Medium Term - 60-90 Days
+      - Long Term - 90+ Days
+      - Gradual Rollout
+      required: false
+    - id: 19
+      name: concerns
+      label: Do You Have Any Concerns About These Proposals
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: concerns_details
+      label: Please Describe Your Concerns
+      hint: If yes explain
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_suggestions
+      label: Do You Have Additional Policy Suggestions
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 22
+      name: suggestions_details
+      label: Please Share Your Suggestions
+      hint: If yes describe
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: willingness_help
+      label: Would You Be Willing to Help Implement Approved Policies
+      hint: null
+      type: select_one
+      options:
+      - Yes - Actively Participate
+      - Yes - Provide Support
+      - Maybe - Depends on Policy
+      - false
+      required: false
+    - id: 24
+      name: voter_signature
+      label: Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: vote_date
+      label: Date of Vote
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 26
+      name: certification
+      label: I Certify That I Am Eligible to Vote on These Policies
+      hint: null
+      type: select_one
+      options:
+      - Yes I Certify
+      - false
+      required: true

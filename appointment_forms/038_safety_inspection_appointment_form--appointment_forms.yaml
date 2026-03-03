@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Safety Inspection Appointment Form
+    pages:
+    - id: 1
+      name: safety_inspection_appointment_form_page1
+      label: safety inspection appointment form
+      hint: Form to schedule and manage safety inspections
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inspector_info
+      label: inspector information
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: inspection_location
+      hint: Physical location of inspection
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: safety_inspection_type
+      label: safety inspection type
+      hint: null
+      type: select_one
+      options:
+      - Fire Safety
+      - Hazardous Materials
+      - Ergonomic
+      - Ergonomics
+      required: false
+    - id: 7
+      name: safety_inspection_frequency
+      label: inspection_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Weekly
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 8
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: contact_info
+      label: contact_info
+      hint: Phone number and email of inspector
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: additional notes
+      hint: null
+      type: note
+      options: []
+      required: false

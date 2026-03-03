@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wealth Preservation Assessment
+    pages:
+    - id: 1
+      name: client_goals
+      label: Client Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: risk_tolerance
+      label: Risk Tolerance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: asset_details
+      label: Asset Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: investment_goals
+      label: Investment Goals
+      hint: null
+      type: select_one
+      options:
+      - Value A
+      - Value B
+      - Value C
+      required: false
+    - id: 5
+      name: financial_objects
+      label: Financial Objects
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: investment_horizon
+      label: Investment Horizon
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: investment_frequency
+      label: Investment Frequency
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: wealth_objectives
+      label: Wealth Objectives
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: investment_risk
+      label: Investment Risk
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: investment_return
+      label: Investment Return
+      hint: null
+      type: number
+      options: []
+      required: false

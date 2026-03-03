@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Addendum Submission Form
+    pages:
+    - id: 1
+      name: project_addendum_submission_form
+      label: Project Addendum Submission Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''project manager'', ''label'': ''Project Manager''}'
+      - '{''id'': 2, ''name'': ''client'', ''label'': ''Client''}'
+      required: false
+    - id: 3
+      name: client
+      label: Client
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: change_type
+      label: Change Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''changes'', ''label'': ''Changes''}'
+      - '{''id'': 2, ''name'': ''additions'', ''label'': ''Additions''}'
+      required: false
+    - id: 5
+      name: change_date
+      label: Change Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: change_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: change_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''submitted'', ''label'': ''Submitted''}'
+      - '{''id'': 2, ''name'': ''approved'', ''label'': ''Approved''}'
+      - '{''id'': 3, ''name'': ''rejected'', ''label'': ''Rejected''}'
+      required: false
+    - id: 8
+      name: submitted_date
+      label: Submitted Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''project_manager'', ''label'': ''Project Manager''}'
+      - '{''id'': 2, ''name'': ''client'', ''label'': ''Client''}'
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: output_folder
+      label: Output Folder
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''chatjimmy'', ''label'': ''Chatjimmy''}'
+      - '{''id'': 2, ''name'': ''chatjimmy'', ''label'': ''Chatjimmy''}'
+      required: false
+    - id: 14
+      name: project_manager_email
+      label: Project Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: project_manager_phone
+      label: Project Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''active'', ''label'': ''Active''}'
+      - '{''id'': 2, ''name'': ''inactive'', ''label'': ''Inactive''}'
+      required: false
+    - id: 19
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: project_category
+      label: Project Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''approval forms'', ''label'': ''Approval Forms''}'
+      - '{''id'': 2, ''name'': ''project management'', ''label'': ''Project Management''}'
+      required: false
+    - id: 21
+      name: submitted_by_email
+      label: Submitted By Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: submitted_by_phone
+      label: Submitted By Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: project_manager_notes
+      label: Project Manager Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''project_manager'', ''label'': ''Project Manager''}'
+      - '{''id'': 2, ''name'': ''client'', ''label'': ''Client''}'
+      required: false
+    - id: 25
+      name: submitted_at
+      label: Submitted At
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false

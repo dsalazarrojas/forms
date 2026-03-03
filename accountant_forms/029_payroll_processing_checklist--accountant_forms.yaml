@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payroll Processing Checklist
+    pages:
+    - id: 1
+      name: new_hire_process
+      label: New Hire Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hire_date
+      label: hire_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: employee_number
+      label: employee_number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: compensation
+      label: compensation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: tax_federal
+      label: tax_federal
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: tax_state
+      label: tax_state
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: tax_local
+      label: tax_local
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: pay_date
+      label: pay_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: pay_amount
+      label: pay_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: benefits
+      label: benefits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: benefits_dollar_value
+      label: benefits_dollar_value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: benefits_percentage
+      label: benefits_percentage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: tax_liability
+      label: tax_liability
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: tax_liability_options
+      label: tax_liability_options
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 17
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: notes_options
+      label: notes_options
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 19
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 20
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: review
+      label: review
+      hint: null
+      type: text
+      options: []
+      required: true

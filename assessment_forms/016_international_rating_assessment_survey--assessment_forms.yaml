@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: international_rating_assessment_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: rating_scale
+      label: How would you rate this product or service?
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Average
+      - Good
+      - Very Good
+      - Excellent
+      required: false
+    - id: 3
+      name: recommendation
+      label: Would you recommend this product or service?
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      - Maybe
+      required: false
+    - id: 4
+      name: country
+      label: Which country do you currently live in?
+      hint: null
+      type: select_one
+      options:
+      - Australia
+      - Belgium
+      - Canada
+      - China
+      - Denmark
+      - France
+      - Germany
+      - India
+      - Japan
+      - Mexico
+      - New Zealand
+      - United Kingdom
+      - United States
+      - South Africa
+      - Other
+      required: false
+    - id: 5
+      name: age
+      label: How old are you?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: gender
+      label: What is your gender?
+      hint: null
+      type: select_one
+      options:
+      - Female
+      - Male
+      - Prefer not to say
+      required: false
+    - id: 7
+      name: contact_method
+      label: Which contact method do you usually use to contact us?
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Chat
+      - Social Media
+      - In person
+      - Other (please specify)
+      required: false
+    - id: 8
+      name: contact_details
+      label: Please provide your contact details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: open_ended_question
+      label: Any other comments?
+      hint: null
+      type: note
+      options: []
+      required: false

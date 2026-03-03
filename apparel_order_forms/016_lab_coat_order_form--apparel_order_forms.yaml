@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lab Coat Order Form
+    pages:
+    - id: 1
+      name: lab_coat_order_form_page_1
+      label: lab_coat_order_form_page_1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lab_coat_size
+      label: lab_coat_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: lab_coat_color
+      label: lab_coat_color
+      hint: null
+      type: select_one
+      options:
+      - '{''option_value'': ''White''}'
+      - '{''option_label'': ''White''}'
+      - '{''option_value'': ''Blue''}'
+      - '{''option_label'': ''Blue''}'
+      - '{''option_value'': ''Black''}'
+      - '{''option_label'': ''Black''}'
+      - '{''option_value'': ''Red''}'
+      - '{''option_label'': ''Red''}'
+      required: false
+    - id: 4
+      name: lab_coat_style
+      label: lab_coat_style
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option_value'': ''Style 1''}'
+      - '{''option_label'': ''Style 1''}'
+      - '{''option_value'': ''Style 2''}'
+      - '{''option_label'': ''Style 2''}'
+      - '{''option_value'': ''Style 3''}'
+      - '{''option_label'': ''Style 3''}'
+      required: false
+    - id: 5
+      name: lab_coat_quantity
+      label: lab_coat_quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: lab_coat_notes
+      label: lab_coat_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: lab_coat_email
+      label: lab_coat_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: lab_coat_phone
+      label: lab_coat_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: lab_coat_date
+      label: lab_coat_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: lab_coat_time
+      label: lab_coat_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: lab_coat_time_zone
+      label: lab_coat_time_zone
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: lab_coat_order
+      label: lab_coat_order
+      hint: null
+      type: select_one
+      options:
+      - '{''option_value'': ''Lab Coat Order 1'', ''option_label'': ''Lab Coat Order
+        1''}'
+      - '{''option_value'': ''Lab Coat Order 2'', ''option_label'': ''Lab Coat Order
+        2''}'
+      - '{''option_value'': ''Lab Coat Order 3'', ''option_label'': ''Lab Coat Order
+        3''}'
+      required: false
+    - id: 13
+      name: lab_coat_order_notes
+      label: lab_coat_order_notes
+      hint: null
+      type: note
+      options: []
+      required: false

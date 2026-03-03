@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bank Appointment Cancellation Form
+    pages:
+    - id: 1
+      name: cancellation_intro
+      label: Appointment Cancellation Request
+      hint: Please provide the details of your scheduled appointment to cancel
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: original_apt_header
+      label: -- Original Appointment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: appointment_date
+      label: Scheduled Appointment Date
+      hint: Select the date you are cancelling
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: appointment_time
+      label: Scheduled Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: appointment_branch
+      label: Branch Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: appointment_type
+      label: Purpose of Appointment
+      hint: null
+      type: select_one
+      options:
+      - Account Opening
+      - Loan / Mortgage Consultation
+      - Wealth Management / Investing
+      - Notary Services
+      - Safe Deposit Box Access
+      - Business Banking Services
+      required: true
+    - id: 10
+      name: reason_header
+      label: -- Reason for Cancellation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: cancellation_reason
+      label: Why are you cancelling?
+      hint: Select the most appropriate reason
+      type: select_one
+      options:
+      - Scheduling Conflict
+      - Illness / Emergency
+      - Issue Resolved via Online Banking
+      - No longer interested in service
+      - Weather / Transportation issues
+      - Other
+      required: true
+    - id: 12
+      name: other_reason_details
+      label: Additional Details (Optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: rescheduling_header
+      label: -- Rescheduling Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: wish_to_reschedule
+      label: Would you like to reschedule this appointment now?
+      hint: null
+      type: select_one
+      options:
+      - Yes - I will select a new time
+      - Yes - Please have a representative call me
+      - No - I will reschedule later
+      - No - I no longer need the appointment
+      required: true
+    - id: 15
+      name: new_preferred_date
+      label: New Preferred Date (if rescheduling)
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: new_preferred_time
+      label: New Preferred Time Range (if rescheduling)
+      hint: e.g., Tuesday Morning, Weekday after 4pm
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: acknowledgement
+      label: Cancellation Acknowledgement
+      hint: I understand that a late cancellation fee may apply depending on bank
+        policy
+      type: select_one
+      options:
+      - I Understand
+      - Other
+      required: true
+    - id: 18
+      name: submission_timestamp
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true

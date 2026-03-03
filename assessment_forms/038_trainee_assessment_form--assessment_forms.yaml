@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trainee Assessment Form
+    pages:
+    - id: 1
+      name: trainee_1
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: supervisor_name
+      label: Supervisor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: score
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: trainee_2
+      label: Trainee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: trainee_3
+      label: Trainee
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Trainee 1''}'
+      - '{''id'': 2, ''label'': ''Trainee 2''}'
+      required: true

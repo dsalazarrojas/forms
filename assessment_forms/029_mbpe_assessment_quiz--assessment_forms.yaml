@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: MBPE Assessment Quiz
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: confidence_level
+      label: Confidence Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 7
+      name: knowledge_area
+      label: Knowledge Area
+      hint: null
+      type: select_multiple
+      options:
+      - Leadership and Strategy
+      - Operations
+      - Finance
+      - Marketing
+      required: true
+    - id: 8
+      name: years_of_experience
+      label: Years of Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_one
+      options:
+      - Bachelors
+      - Masters
+      - PHD
+      - Other
+      required: false
+    - id: 10
+      name: assessment_completed
+      label: Assessment Completed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: training_area_of_interest
+      label: Training Area of Interest
+      hint: null
+      type: select_multiple
+      options:
+      - Leadership and Strategy
+      - Operations
+      - Finance
+      - Marketing
+      required: false

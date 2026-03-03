@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Loan Estimate Form
+    pages:
+    - id: 1
+      name: loan_estimate_form_fields
+      label: estimate_form_fields
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: loan_term
+      label: loan_term
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: loan_amount
+      label: loan_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: payment_frequency
+      label: payment_frequency
+      hint: null
+      type: select_one
+      options:
+      - '6'
+      - '12'
+      - '24'
+      - '36'
+      required: false
+    - id: 5
+      name: monthly_payment
+      label: monthly_payment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: total_interest
+      label: total_interest
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: interest_rate
+      label: interest_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: loan_date
+      label: loan_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: maturity_date
+      label: maturity_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: amortization_schedule
+      label: amortization_schedule
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: payment_type
+      label: payment_type
+      hint: null
+      type: select_multiple
+      options:
+      - monthly
+      - annual
+      - quarterly
+      - biannually
+      required: false
+    - id: 12
+      name: payment_frequency_type
+      label: payment_frequency_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''weekly'': True}'
+      - '{''biweekly'': True}'
+      - '{''monthly'': True}'
+      - '{''biannually'': True}'
+      - '{''annually'': True}'
+      - '{''quarterly'': True}'
+      required: false
+    - id: 13
+      name: email
+      label: email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: error_message
+      label: error_message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: loan_term_frequency
+      label: loan_term_frequency
+      hint: null
+      type: select_one
+      options:
+      - monthly
+      - quarterly
+      - biannually
+      - annually
+      required: false
+    - id: 19
+      name: loan_type
+      label: loan_type
+      hint: null
+      type: select_multiple
+      options:
+      - personal
+      - commercial
+      - construction
+      - home_equity
+      required: false
+    - id: 20
+      name: loan_amount_frequency
+      label: loan_amount_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - fixed
+      - variable
+      - variable_plus_fees
+      required: false
+    - id: 21
+      name: loan_amount_frequency_type
+      label: loan_amount_frequency_type
+      hint: null
+      type: select_multiple
+      options:
+      - daily
+      - weekly
+      - monthly
+      - biweekly
+      - quarterly
+      - biannually
+      - annually
+      required: false
+    - id: 22
+      name: loan_date_type
+      label: loan_date_type
+      hint: null
+      type: select_multiple
+      options:
+      - date_of_birth
+      - date_of_death
+      - date_of_mortgage
+      - date_of_sale
+      required: false
+    - id: 23
+      name: payment_schedule_type
+      label: payment_schedule_type
+      hint: null
+      type: select_multiple
+      options:
+      - linear
+      - non_linear
+      - balloon
+      - deferred
+      required: false
+    - id: 24
+      name: payment_type_frequency
+      label: payment_type_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - lump_sum
+      - level
+      - variable
+      - fixed
+      required: false
+    - id: 25
+      name: loan_status
+      label: loan_status
+      hint: null
+      type: select_multiple
+      options:
+      - active
+      - inactive
+      - paid
+      required: false

@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lockout/Tagout Procedures Training Form
+    pages:
+    - id: 1
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - Administrative Forms
+      - Other
+      - Safety Procedures
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjane
+      - chatjim
+      required: false
+    - id: 5
+      name: training_session
+      label: training_session
+      hint: null
+      type: date
+      options: []
+      required: false

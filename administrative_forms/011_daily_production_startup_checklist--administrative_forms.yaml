@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Production Startup Checklist
+    pages:
+    - id: 1
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 2
+      name: shift_leader
+      label: shift_leader
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: weather
+      label: weather
+      hint: null
+      type: select_one
+      options:
+      - Sunny
+      - Cloudy
+      - Rainy
+      - Snowy
+      required: true
+    - id: 4
+      name: production_equipment
+      label: production_equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Generator
+      - Pump
+      - Crane
+      - Other
+      required: false
+    - id: 5
+      name: safety_protocols
+      label: safety_protocols
+      hint: null
+      type: select_one
+      options:
+      - Confined Space
+      - Lockout/Tagout
+      - Electrical
+      - Other
+      required: true
+    - id: 6
+      name: start_of_production_checklist
+      label: start_of_production_checklist
+      hint: null
+      type: select_multiple
+      options:
+      - Check
+      - Complete
+      - Partial
+      required: false
+    - id: 7
+      name: end_of_production_checklist
+      label: end_of_production_checklist
+      hint: null
+      type: select_multiple
+      options:
+      - Check
+      - Complete
+      - Partial
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: production_teams
+      label: production_teams
+      hint: null
+      type: select_multiple
+      options:
+      - A-team
+      - B-team
+      - C-team
+      required: true
+    - id: 12
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time
+      label: time
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: true
+    - id: 14
+      name: production_area
+      label: production_area
+      hint: null
+      type: select_one
+      options:
+      - Production 1
+      - Production 2
+      - Production 3
+      required: true
+    - id: 15
+      name: production_shift
+      label: production_shift
+      hint: null
+      type: select_one
+      options:
+      - Shift 1
+      - Shift 2
+      - Shift 3
+      required: true
+    - id: 16
+      name: production_start_time
+      label: production_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: production_duration
+      label: production_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: breaks
+      label: breaks
+      hint: null
+      type: select_multiple
+      options:
+      - 15 minutes
+      - 30 minutes
+      - 1 hour
+      - 2 hours
+      required: false
+    - id: 19
+      name: equipment_failure
+      label: equipment_failure
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: notes2
+      label: notes2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: notes3
+      label: notes3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: notes4
+      label: notes4
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: notes5
+      label: notes5
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: notes6
+      label: notes6
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: notes7
+      label: notes7
+      hint: null
+      type: note
+      options: []
+      required: false

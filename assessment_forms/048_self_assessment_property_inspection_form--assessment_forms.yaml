@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Self Assessment Property Inspection Form
+    pages:
+    - id: 1
+      name: self_assessment_property_inspection_form_page_1
+      label: Property Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: assessment_property_form_property_details
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: assessment_property_form_property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: assessment_property_form_property_type_options
+      label: Residential or Commercial
+      hint: null
+      type: select_multiple
+      options:
+      - Residential
+      - Commercial
+      required: false
+    - id: 5
+      name: assessment_property_form_property_type_options_residential
+      label: Residential
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: assessment_property_form_property_type_options_commercial
+      label: Commercial
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assessment_property_form_property_inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: assessment_property_form_inspection_time
+      label: Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: assessment_property_form_property_inspection_notes
+      label: Property Inspection Notes
+      hint: null
+      type: note
+      options: []
+      required: false

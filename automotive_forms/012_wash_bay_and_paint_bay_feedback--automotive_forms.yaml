@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wash Bay And Paint Bay Feedback
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: cleanliness
+      label: Cleanliness
+      hint: How clean was the wash bay?
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: equipment
+      label: Equipment
+      hint: What kind of equipment was in the bay?
+      type: select_multiple
+      options:
+      - Self Serve
+      - Automated
+      - Hybrid
+      required: false
+    - id: 4
+      name: staff
+      label: Staff
+      hint: null
+      type: select_one
+      options:
+      - Very Helpful
+      - Somewhat Helpful
+      - Not Helpful
+      required: false
+    - id: 5
+      name: overall_experience
+      label: Overall Experience
+      hint: How would you rate the overall experience?
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Your Email
+      hint: Enter your email if you'd like to be contacted for follow up
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: review
+      label: Review
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false

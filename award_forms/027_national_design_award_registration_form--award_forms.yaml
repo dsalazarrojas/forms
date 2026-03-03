@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: National Design Award Registration Form
+    pages:
+    - id: 1
+      name: registration_details
+      label: Registration Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: award_category
+      label: awardCategory
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: design_type
+      label: designType
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Design Category 1''}'
+      - '{''id'': 2, ''value'': ''Design Category 2''}'
+      - '{''id'': 3, ''value'': ''Design Category 3''}'
+      required: false
+    - id: 4
+      name: submission_date
+      label: submissionDate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: upload_file
+      label: uploadFile
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: design_image
+      label: designImage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_name
+      label: participantName
+      hint: null
+      type: text
+      options: []
+      required: false

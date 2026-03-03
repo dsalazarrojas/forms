@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Internal Salary Audit Request Form
+    pages:
+    - id: 1
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: salary
+      label: Salary
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: YYYY-MM-YY
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: salary_discrepancies
+      label: Salary Discrepancies
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: request_reason
+      label: Request Reason
+      hint: null
+      type: text
+      options: []
+      required: true

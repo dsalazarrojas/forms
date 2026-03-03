@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mobile Home Purchase Agreement
+    pages:
+    - id: 1
+      name: buyer_info
+      label: Buyer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: seller_info
+      label: Seller Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: purchase_price
+      label: Purchase Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: down_payment
+      label: Down Payment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: annual_interest_rate
+      label: Annual Interest Rate
+      hint: Enter the annual interest rate as a decimal
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: term_length
+      label: Term Length
+      hint: Enter the term length of the loan
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: loan_amnt
+      label: Loan Amount
+      hint: Enter the loan amount
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: interest_start_date
+      label: Interest Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: interest_end_date
+      label: Interest End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Online Banking
+      - Other
+      required: false
+    - id: 12
+      name: payment_schedule
+      label: Payment Schedule
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: financing_type
+      label: Financing Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: escrow_instructions
+      label: Escrow Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: signature_confirmation
+      label: Signature Confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: signature_time
+      label: Signature Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: notes_2
+      label: Notes 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: terms_accepted
+      label: Terms Accepted
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: terms_version
+      label: Terms Version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: terms_date
+      label: Terms Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: terms_time
+      label: Terms Time
+      hint: null
+      type: time
+      options: []
+      required: false

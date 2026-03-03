@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Document Request Form
+    pages:
+    - id: 1
+      name: financial_document_request_form_1_page
+      label: Financial Document Request Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: financial_document_request_form_2_page
+      label: Document Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: financial_document_request_form_3_page
+      label: Taxpayer Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: financial_document_request_form_4_page
+      label: Document Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: financial_document_request_form_5_page
+      label: Document Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: financial_document_request_form_6_page
+      label: Document Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: financial_document_request_form_7_page
+      label: Document Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: financial_document_request_form_8_page
+      label: Document Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

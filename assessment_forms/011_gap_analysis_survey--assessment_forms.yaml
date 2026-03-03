@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: gap_analysis_survey
+    pages:
+    - id: 1
+      name: current_performance
+      label: current_performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: goals
+      label: goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: performance_gap
+      label: performance_gap
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: stakeholder_feedback
+      label: stakeholder_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: strategic_improvements
+      label: strategic_improvements
+      hint: null
+      type: select_multiple
+      options:
+      - Improvement 1
+      - Improvement 2
+      - Improvement 3
+      required: false
+    - id: 6
+      name: improvements
+      label: improvements
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false

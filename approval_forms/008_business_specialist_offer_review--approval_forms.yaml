@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Specialist Offer Review
+    pages:
+    - id: 1
+      name: reviewer_name
+      label: Reviewer Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reviewer_title
+      label: Your Title or Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reviewer_department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Sales
+      - Marketing
+      - Operations
+      - Finance
+      - Executive
+      - Business Development
+      - Other
+      required: true
+    - id: 4
+      name: review_date
+      label: Review Date
+      hint: Date of this review
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: offer_id
+      label: Offer ID or Reference Number
+      hint: Proposal or offer reference
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: offer_title
+      label: Offer or Promotion Title
+      hint: Name of the proposed offer
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: target_audience
+      label: Target Audience
+      hint: Who is this offer for?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: offer_value
+      label: Total Offer Value
+      hint: In USD or currency
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: implementation_date
+      label: Proposed Implementation Date
+      hint: When should this start?
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: duration
+      label: Offer Duration
+      hint: How long will this offer run?
+      type: select_one
+      options:
+      - Limited time - 1-2 weeks
+      - Short-term - 1 month
+      - Medium-term - 2-3 months
+      - Seasonal - 3-6 months
+      - Ongoing - No end date
+      required: true
+    - id: 11
+      name: expected_impact
+      label: Expected Business Impact
+      hint: What are the projected outcomes?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: financial_viability
+      label: Financial Viability Assessment
+      hint: null
+      type: select_one
+      options:
+      - Highly Viable
+      - Viable
+      - Neutral
+      - Questionable
+      - Not Viable
+      required: true
+    - id: 13
+      name: market_alignment
+      label: Market Alignment Rating
+      hint: Does this fit market demand?
+      type: select_one
+      options:
+      - Excellent alignment
+      - Good alignment
+      - Neutral
+      - Poor alignment
+      - Misaligned
+      required: true
+    - id: 14
+      name: competitive_advantage
+      label: Competitive Advantage
+      hint: How does this differentiate us?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: risk_assessment
+      label: Risk Assessment
+      hint: What are the potential risks?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: resource_availability
+      label: Are necessary resources available?
+      hint: null
+      type: select_one
+      options:
+      - Fully available
+      - Mostly available
+      - Partially available
+      - Limited availability
+      - Not available
+      required: true
+    - id: 17
+      name: approval_decision
+      label: Approval Recommendation
+      hint: null
+      type: select_one
+      options:
+      - Approve as-is
+      - Approve with modifications
+      - Request more information
+      - Recommend rejection
+      - Reject
+      required: true
+    - id: 18
+      name: requested_modifications
+      label: Requested Modifications or Conditions
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: next_steps
+      label: Recommended Next Steps
+      hint: What should happen next?
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: reviewer_comments
+      label: Additional Comments or Notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,208 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Bake Sale Offerings Form
+    pages:
+      - id: 1
+        name: section_baker
+        label: -- Baker Information --
+        hint: Who is contributing to the bake sale?
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: baker_name
+        label: Baker/Contributor Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: baker_email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: baker_phone
+        Label: Phone Number
+        hint: null
+        type: phone
+        options: []
+        required: false
+      - id: 5
+        name: organization
+        label: Organization or Group
+        hint: School, fundraiser group, church, etc.
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: section_event
+        label: -- Event Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: event_name
+        Label: Bake Sale Event Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: event_date
+        Label: Bake Sale Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 9
+        name: event_location
+        Label: Event Location
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: section_offerings
+        label: -- Baked Goods Offerings --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: item_categories
+        Label: Baked Item Categories You Will Provide
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Cookies
+          - Brownies/Bars
+          - Cupcakes
+          - Cakes
+          - Breads
+          - Pastries
+          - Donuts
+          - Specialty Items
+        required: true
+      - id: 12
+        name: item_details
+        Label: Detailed Description of Items
+        hint: What specific items will you bring? Include flavors and quantities
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: quantity_estimate
+        Label: Estimated Total Number of Items
+        hint: null
+        type: integer
+        options: []
+        required: true
+      - id: 14
+        name: section_dietary
+        label: -- Dietary and Allergen Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: allergen_info
+        Label: Allergens Contained in Items
+        hint: Nuts, dairy, eggs, soy, gluten, etc.
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: dietary_accommodations
+        Label: Dietary Accommodation Options
+        hint: Vegan, gluten-free, sugar-free, etc.
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: homemade_note
+        Label: Are All Items Homemade?
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - Mix
+        required: true
+      - id: 18
+        name: section_pricing
+        label: -- Pricing Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: suggested_price_per_item
+        Label: Suggested Price Per Item
+        hint: In dollars
+        type: decimal
+        options: []
+        required: true
+      - id: 20
+        name: special_pricing
+        Label: Volume Discount or Bundle Pricing
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: section_delivery
+        label: -- Delivery and Logistics --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: delivery_method
+        Label: How Will You Deliver Items?
+        hint: null
+        type: select_one
+        options:
+          - Morning of Sale
+          - Day Before
+          - Will Pick-up Location
+          - Need Pickup Assistance
+        required: true
+      - id: 23
+        name: delivery_time
+        Label: Delivery/Setup Time
+        hint: null
+        type: time
+        options: []
+        required: false
+      - id: 24
+        name: special_requirements
+        Label: Special Requirements or Notes
+        hint: Storage, refrigeration, display needs, etc.
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: submission_confirmation
+        Label: I Confirm This Information is Accurate and Complete
+        hint: null
+        type: select_one
+        options:
+          - I Confirm
+          - I Do Not Confirm
+        required: true

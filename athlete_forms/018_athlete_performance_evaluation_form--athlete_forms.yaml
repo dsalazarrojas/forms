@@ -1,0 +1,308 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Performance Evaluation Form
+    pages:
+      - id: 1
+        name: athlete_name
+        label: Athlete Full Name
+        hint: First and last name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: athlete_id
+        label: Athlete ID Number
+        hint: Student or team identification number
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: evaluation_date
+        label: Evaluation Date
+        hint: Date of evaluation
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: evaluator_name
+        label: Evaluator Name
+        hint: Name of coach or evaluator
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: evaluator_role
+        label: Evaluator Role
+        hint: Your position
+        type: select_one
+        options:
+          - Head Coach
+          - Assistant Coach
+          - Position Coach
+          - Athletic Director
+          - Trainer
+        required: true
+      - id: 6
+        name: sport
+        label: Sport
+        hint: Primary sport
+        type: select_one
+        options:
+          - Football
+          - Basketball
+          - Soccer
+          - Track and Field
+          - Swimming
+          - Volleyball
+          - Baseball
+          - Softball
+          - Tennis
+          - Other
+        required: true
+      - id: 7
+        name: position
+        label: Primary Position
+        hint: Main position played
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: evaluation_period
+        label: Evaluation Period
+        hint: What period is being evaluated
+        type: select_one
+        options:
+          - Pre-Season
+          - Early Season
+          - Mid-Season
+          - Late Season
+          - Post-Season
+          - Full Season
+        required: true
+      - id: 9
+        name: athletic_ability
+        label: Athletic Ability Rating
+        hint: Rate overall athletic ability
+        type: select_one
+        options:
+          - Excellent
+          - Above Average
+          - Average
+          - Below Average
+          - Needs Improvement
+        required: true
+      - id: 10
+        name: sport_specific_skills
+        label: Sport-Specific Skills
+        hint: Rate technical skills for the sport
+        type: select_one
+        options:
+          - Excellent
+          - Above Average
+          - Average
+          - Below Average
+          - Needs Improvement
+        required: true
+      - id: 11
+        name: speed
+        label: Speed Rating
+        hint: Rate speed and quickness
+        type: select_one
+        options:
+          - Excellent
+          - Above Average
+          - Average
+          - Below Average
+          - Needs Improvement
+        required: true
+      - id: 12
+        name: strength
+        label: Strength Rating
+        hint: Rate physical strength
+        type: select_one
+        options:
+          - Excellent
+          - Above Average
+          - Average
+          - Below Average
+          - Needs Improvement
+        required: true
+      - id: 13
+        name: endurance
+        label: Endurance Rating
+        hint: Rate stamina and conditioning
+        type: select_one
+        options:
+          - Excellent
+          - Above Average
+          - Average
+          - Below Average
+          - Needs Improvement
+        required: true
+      - id: 14
+        name: agility
+        label: Agility Rating
+        hint: Rate agility and coordination
+        type: select_one
+        options:
+          - Excellent
+          - Above Average
+          - Average
+          - Below Average
+          - Needs Improvement
+        required: true
+      - id: 15
+        name: game_intelligence
+        label: Game Intelligence
+        hint: Rate understanding of game strategy
+        type: select_one
+        options:
+          - Excellent
+          - Above Average
+          - Average
+          - Below Average
+          - Needs Improvement
+        required: true
+      - id: 16
+        name: decision_making
+        label: Decision Making
+        hint: Rate in-game decision making
+        type: select_one
+        options:
+          - Excellent
+          - Above Average
+          - Average
+          - Below Average
+          - Needs Improvement
+        required: true
+      - id: 17
+        name: competitiveness
+        label: Competitiveness
+        hint: Rate competitive drive
+        type: select_one
+        options:
+          - Excellent
+          - Above Average
+          - Average
+          - Below Average
+          - Needs Improvement
+        required: true
+      - id: 18
+        name: practice_habits
+        label: Practice Habits
+        hint: Rate practice effort and consistency
+        type: select_one
+        options:
+          - Excellent
+          - Above Average
+          - Average
+          - Below Average
+          - Needs Improvement
+        required: true
+      - id: 19
+        name: attendance
+        label: Attendance
+        hint: Rate attendance record
+        type: select_one
+        options:
+          - Excellent
+          - Above Average
+          - Average
+          - Below Average
+          - Needs Improvement
+        required: true
+      - id: 20
+        name: teamwork
+        label: Teamwork
+        hint: Rate ability to work with teammates
+        type: select_one
+        options:
+          - Excellent
+          - Above Average
+          - Average
+          - Below Average
+          - Needs Improvement
+        required: true
+      - id: 21
+        name: leadership
+        label: Leadership
+        hint: Rate leadership qualities
+        type: select_one
+        options:
+          - Excellent
+          - Above Average
+          - Average
+          - Below Average
+          - Needs Improvement
+        required: true
+      - id: 22
+        name: coachability
+        label: Coachability
+        hint: Rate responsiveness to coaching
+        type: select_one
+        options:
+          - Excellent
+          - Above Average
+          - Average
+          - Below Average
+          - Needs Improvement
+        required: true
+      - id: 23
+        name: performance_highlights
+        label: Performance Highlights
+        hint: List key accomplishments this period
+        type: text
+        options: []
+        required: true
+      - id: 24
+        name: areas_needing_work
+        label: Areas Needing Improvement
+        hint: List areas requiring development
+        type: text
+        options: []
+        required: true
+      - id: 25
+        name: goals_next_period
+        label: Goals for Next Period
+        hint: Set goals for upcoming period
+        type: text
+        options: []
+        required: true
+      - id: 26
+        name: overall_rating
+        label: Overall Performance Rating
+        hint: Final overall evaluation
+        type: select_one
+        options:
+          - Excellent
+          - Above Average
+          - Average
+          - Below Average
+          - Needs Improvement
+        required: true
+      - id: 27
+        name: evaluator_comments
+        label: Evaluator Comments
+        hint: Additional observations
+        type: text
+        options: []
+        required: false
+      - id: 28
+        name: evaluator_signature
+        label: Evaluator Signature
+        hint: Type full name as signature
+        type: text
+        options: []
+        required: true

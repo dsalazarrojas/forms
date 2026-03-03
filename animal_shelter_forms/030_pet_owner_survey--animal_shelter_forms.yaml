@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: pet_owner_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Pet Owner Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: pet_type
+      label: Pet Type
+      hint: null
+      type: select_one
+      options:
+      - Pet dog
+      - Pet cat
+      - Pet bird
+      - Pet fish
+      - Other
+      required: false
+    - id: 3
+      name: pet_age
+      label: Pet Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: pet_breed
+      label: Pet Breed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: pet_color
+      label: Pet Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: pet_weight
+      label: Pet Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: owner_name
+      label: Owner's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: owner_email
+      label: Owner's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: owner_phone
+      label: Owner's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: pet_habit
+      label: Pet Habit
+      hint: null
+      type: text
+      options: []
+      required: false

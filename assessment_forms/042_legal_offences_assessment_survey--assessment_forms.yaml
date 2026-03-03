@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legal Offences Assessment Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: offence_type
+      label: Offence Type
+      hint: null
+      type: select_one
+      options:
+      - Assault
+      - Harassment
+      - Vandalism
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: offence_date
+      label: Date of Offence
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_multiple
+      options:
+      - Name of person involved
+      - Name of person involved 1
+      - Name of person involved 2
+      required: false
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: offence_details
+      label: Offence Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitter
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - Submitter 1
+      - Submitter 2
+      required: false
+    - id: 10
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false

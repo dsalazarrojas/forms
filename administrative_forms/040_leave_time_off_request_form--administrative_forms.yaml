@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: leave_time_off_request_form
+    pages:
+    - id: 1
+      name: form_header
+      label: Leave Time Off Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_date
+      label: request_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''12345''}'
+      - '{''id'': 2, ''name'': ''67890''}'
+      required: false
+    - id: 4
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Pending''}'
+      - '{''id'': 2, ''name'': ''Approved''}'
+      - '{''id'': 3, ''name'': ''Denied''}'
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''John Doe''}'
+      - '{''id'': 2, ''name'': ''Jane Doe''}'
+      required: false
+    - id: 11
+      name: manager_reviewed
+      label: Manager Reviewed
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''John Smith''}'
+      - '{''id'': 2, ''name'': ''Jane Smith''}'
+      required: false
+    - id: 12
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Manager''}'
+      - '{''id'': 2, ''name'': ''HR''}'
+      required: false
+    - id: 13
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''John Doe''}'
+      - '{''id'': 2, ''name'': ''Jane Doe''}'
+      required: false
+    - id: 15
+      name: updated_date
+      label: Updated Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''John Smith''}'
+      - '{''id'': 2, ''name'': ''Jane Smith''}'
+      required: false
+    - id: 17
+      name: approved_date
+      label: Approved Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: denied_by
+      label: Denied By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''John Smith''}'
+      - '{''id'': 2, ''name'': ''Jane Smith''}'
+      required: false
+    - id: 19
+      name: denied_date
+      label: Denied Date
+      hint: null
+      type: date
+      options: []
+      required: false

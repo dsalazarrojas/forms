@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: College Apparel Order Form
+    pages:
+    - id: 1
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: item_type
+      label: Apparel Item Type
+      hint: null
+      type: select_one
+      options:
+      - T-Shirt
+      - Hoodie
+      - Jacket
+      - Hat
+      - Polo Shirt
+      - Sweatpants
+      - Other
+      required: true
+    - id: 7
+      name: color_selection
+      label: Color
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - White
+      - Navy
+      - Royal Blue
+      - Gold
+      - Gray
+      - Red
+      required: true
+    - id: 8
+      name: size
+      label: Size
+      hint: null
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      required: true
+    - id: 9
+      name: quantity
+      label: Quantity
+      hint: Number of items
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: design_option
+      label: Design Option
+      hint: Choose preferred design
+      type: select_one
+      options:
+      - College Logo
+      - College Name
+      - Team Logo
+      - Custom Design
+      - No Design
+      required: true
+    - id: 11
+      name: custom_text
+      label: Custom Text or Personalization
+      hint: If desired, what should be added
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: price_per_item
+      label: Price per Item
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: total_order_cost
+      label: Total Order Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: shipping_address
+      label: Shipping Address
+      hint: Full delivery address
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: shipping_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: shipping_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: shipping_zip
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: shipping_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - Standard Shipping (5-7 days)
+      - Expedited Shipping (2-3 days)
+      - Overnight Shipping
+      - Campus Pickup
+      required: true
+    - id: 20
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Campus Account
+      - PayPal
+      - Check
+      required: true
+    - id: 21
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special requests
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: agree_to_terms
+      label: I agree to the terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

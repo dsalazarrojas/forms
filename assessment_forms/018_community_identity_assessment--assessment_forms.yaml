@@ -1,0 +1,111 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community Identity Assessment
+    pages:
+      - id: 1
+        name: header
+        label: -- Identity Assessment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_affiliation
+        label: Respondent affiliation
+        hint: Resident, business owner, community leader, or other
+        type: select_one
+        options:
+          - Resident
+          - Business owner
+          - Community leader
+          - Other
+        required: true
+      - id: 3
+        name: sense_of_belonging
+        label: Sense of belonging in community
+        hint: Rate your agreement with statements
+        type: select_one
+        options:
+          - Strongly agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly disagree
+        required: true
+      - id: 4
+        name: key_values
+        label: Key community values
+        hint: Select top values that define the community
+        type: select_multiple
+        options:
+          - Inclusivity
+          - Safety
+          - Economic opportunity
+          - Environmental care
+          - Cultural activities
+        required: false
+      - id: 5
+        name: cultural_events_participation
+        label: Participation in cultural events
+        hint: Frequency of engagement
+        type: select_one
+        options:
+          - Frequently
+          - Occasionally
+          - Rarely
+          - Never
+        required: false
+      - id: 6
+        name: priority_areas
+        label: Priority areas for community identity work
+        hint: Choose up to three priorities
+        type: select_multiple
+        options:
+          - Youth engagement
+          - Arts and culture
+          - Heritage preservation
+          - Public spaces
+          - Economic development
+        required: false
+      - id: 7
+        name: barriers_to_identity
+        label: Barriers to a strong community identity
+        hint: Open ended feedback
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: suggestions
+        label: Suggestions to strengthen identity
+        hint: Ideas to improve community cohesion
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: willing_to_help
+        label: Willing to help with initiatives
+        hint: Provide contact if willing to assist
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: false
+      - id: 10
+        name: contact_email
+        label: Contact email
+        hint: Optional for follow up
+        type: email
+        options: []
+        required: false

@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Surgery Recovery Assessment
+    pages:
+    - id: 1
+      name: patient_updates
+      label: Patient Updates
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: current_status
+      label: Current Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 3
+      name: pain_level
+      label: Pain Level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: medication_use
+      label: Medication Use
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: patient_update_time
+      label: Patient Update Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: next_visit
+      label: Next Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_instructions
+      label: Follow-up Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: post_op_procedure
+      label: Post-op Procedure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: surgical_team_follow_up
+      label: Surgical Team Follow-up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 12
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: test_results
+      label: Test Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: imaging_results
+      label: Imaging Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: surgical_notes
+      label: Surgical Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: complications
+      label: Complications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: surgical_team
+      label: Surgical Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_provider
+      label: Follow-up Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_location
+      label: Follow-up Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: null
+      type: text
+      options: []
+      required: false

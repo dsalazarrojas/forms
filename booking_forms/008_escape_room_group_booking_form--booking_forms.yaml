@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: escape_room_group_booking_form
+    pages:
+    - id: 1
+      name: group_details
+      label: Group Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preferred_date
+      label: Preferred Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: special_requests_2
+      label: Special Requests 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: group_booking_request
+      label: Group Booking Request
+      hint: "If the group would like to make a special request, \nplease describe\
+        \ it here."
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: group_details_2
+      label: None
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 6
+      name: email_2
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_2
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: preferred_date_2
+      label: Preferred Date 2
+      hint: null
+      type: date
+      options: []
+      required: false

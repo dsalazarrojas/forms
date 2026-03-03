@@ -1,0 +1,294 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baseball Enrollment Form
+    pages:
+    - id: 1
+      name: player_first_name
+      label: Player First Name
+      hint: First name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: player_last_name
+      label: Player Last Name
+      hint: Last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: player_date_of_birth
+      label: Player Date of Birth
+      hint: MM/DD/YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: player_gender
+      label: Player Gender
+      hint: Select option
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer not to say
+      required: true
+    - id: 5
+      name: parent_guardian_name
+      label: Parent or Guardian Full Name
+      hint: Legal guardian
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: For communications
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: home_address
+      label: Home Address
+      hint: Complete street address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: division
+      label: Division or Age Group
+      hint: Which division
+      type: select_one
+      options:
+      - T-ball - ages 4 to 6
+      - Coach pitch - ages 6 to 8
+      - Minor league - ages 9 to 10
+      - Major league - ages 11 to 12
+      - Junior league - ages 13 to 14
+      - Senior league - ages 15 to 18
+      required: true
+    - id: 13
+      name: school_name
+      label: School Name
+      hint: Current school
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: grade_level
+      label: Grade Level
+      hint: Current grade
+      type: select_one
+      options:
+      - Kindergarten
+      - 1st grade
+      - 2nd grade
+      - 3rd grade
+      - 4th grade
+      - 5th grade
+      - 6th grade
+      - 7th grade
+      - 8th grade
+      - 9th grade
+      - 10th grade
+      - 11th grade
+      - 12th grade
+      required: true
+    - id: 15
+      name: previous_experience
+      label: Previous Baseball Experience
+      hint: Years played
+      type: select_one
+      options:
+      - First time playing
+      - 1 year
+      - 2 to 3 years
+      - 4 to 5 years
+      - More than 5 years
+      required: true
+    - id: 16
+      name: positions_played
+      label: Positions Played
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Pitcher
+      - Catcher
+      - First base
+      - Second base
+      - Third base
+      - Shortstop
+      - Outfield
+      - Designated hitter
+      required: true
+    - id: 17
+      name: bats
+      label: Bats
+      hint: Which hand
+      type: select_one
+      options:
+      - Right
+      - Left
+      - Switch
+      required: true
+    - id: 18
+      name: throws
+      label: Throws
+      hint: Which hand
+      type: select_one
+      options:
+      - Right
+      - Left
+      required: true
+    - id: 19
+      name: medical_conditions
+      label: Medical Conditions or Allergies
+      hint: Any conditions we should know
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medications
+      label: Current Medications
+      hint: List any medications
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: insurance_provider
+      label: Medical Insurance Provider
+      hint: Insurance company
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: How are they related
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: transportation_needs
+      label: Transportation Assistance Needed
+      hint: Do you need help with rides
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 26
+      name: sibling_enrolled
+      label: Sibling Also Enrolling
+      hint: Any siblings joining
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: We appreciate knowing
+      type: select_one
+      options:
+      - School flyer
+      - Social media
+      - Friend referral
+      - Previous participant
+      - Online search
+      - Other
+      required: true
+    - id: 28
+      name: volunteer_interest
+      label: Parent Volunteer Interest
+      hint: Will you help as volunteer
+      type: select_one
+      options:
+      - Yes, as coach
+      - Yes, as team parent
+      - Yes, occasional help
+      - No, cannot volunteer
+      required: true
+    - id: 29
+      name: t_shirt_size
+      label: Uniform T-Shirt Size
+      hint: Player shirt size
+      type: select_one
+      options:
+      - Youth small
+      - Youth medium
+      - Youth large
+      - Adult small
+      - Adult medium
+      - Adult large
+      - Adult XL
+      - Adult XXL
+      required: true
+    - id: 30
+      name: waiver_agreement
+      label: Liability Waiver Agreement
+      hint: I understand and accept the risks
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 31
+      name: parent_signature
+      label: Parent or Guardian Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

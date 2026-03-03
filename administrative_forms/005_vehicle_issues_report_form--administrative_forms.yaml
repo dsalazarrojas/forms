@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Issues Report Form
+    pages:
+    - id: 1
+      name: vehicle_issues_report
+      label: Vehicle Issues Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: issue_location
+      label: Issue Location
+      hint: null
+      type: select_multiple
+      options:
+      - Inside the vehicle
+      - Outside the vehicle'
+      - Other
+      required: false
+    - id: 3
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: select_one
+      options:
+      - Model 1
+      - Model 2
+      required: false
+    - id: 5
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: issue_date
+      label: Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: issue_time
+      label: Issue Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: issue_time_am_pm
+      label: AM/PM
+      hint: null
+      type: select_one
+      options:
+      - AM
+      - PM
+      required: false
+    - id: 9
+      name: issue_priority
+      label: Issue Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 10
+      name: issue_status
+      label: Issue Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Resolved
+      required: false
+    - id: 11
+      name: issue_resolution
+      label: Issue Resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: issue_reporter
+      label: Issue Reporter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: vehicle_model_year
+      label: Vehicle Model Year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: issue_category
+      label: Issue Category
+      hint: null
+      type: select_one
+      options:
+      - Category 1
+      - Category 2
+      required: false
+    - id: 17
+      name: issue_subcategory
+      label: Issue Subcategory
+      hint: null
+      type: select_one
+      options:
+      - Subcategory 1
+      - Subcategory 2
+      required: false
+    - id: 18
+      name: issue_image
+      label: Issue Image
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: issue_video
+      label: Issue Video
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: issue_audio
+      label: Issue Audio
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: issue_notes
+      label: Issue Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: issue_attach
+      label: Attach
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 23
+      name: report_comment
+      label: Report Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: report_status
+      label: Report Status
+      hint: null
+      type: select_one
+      options:
+      - Status 1
+      - Status 2
+      required: false
+    - id: 25
+      name: report_date_reported
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 26
+      name: issue_reporter_email
+      label: Issue Reporter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 27
+      name: issue_reporter_phone
+      label: Issue Reporter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: issue_reporter
+      label: Issue Reporter
+      hint: null
+      type: text
+      options: []
+      required: false

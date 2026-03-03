@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: mobile_app_approval_form
+    pages:
+    - id: 1
+      name: mobile_app_info
+      label: Mobile App Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: app_version
+      label: App Version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: app_build_number
+      label: App Build Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: app_upload_date
+      label: App Upload Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: app_status
+      label: App Status
+      hint: null
+      type: select_one
+      options:
+      - Apple Review Queue
+      - Apple Review in Progress
+      - Approved
+      - Not Approved
+      - Not Reviewed
+      required: false
+    - id: 7
+      name: app_rejection_reason
+      label: App Rejection Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: developer_info
+      label: Developer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: app_store
+      label: App Store
+      hint: null
+      type: select_multiple
+      options:
+      - Apple App Store
+      - Google Play Store
+      required: false
+    - id: 10
+      name: submission_type
+      label: Submission Type
+      hint: null
+      type: select_one
+      options:
+      - Apple
+      - Google
+      - Both
+      required: false
+    - id: 11
+      name: apple_app_id
+      label: Apple App ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: apple_app_status
+      label: Apple App Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Removed
+      - Unknown
+      required: false
+    - id: 13
+      name: google_app_id
+      label: Google App ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: google_app_status
+      label: Google App Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Removed
+      - Unknown
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: approval_notes
+      label: Approval Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: rejection_notes
+      label: Rejection Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: rejection_date
+      label: Rejection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: approval_time
+      label: Approval Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: rejection_time
+      label: Rejection Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: app_type
+      label: App Type
+      hint: null
+      type: select_one
+      options:
+      - Game
+      - Non Game
+      required: false
+    - id: 23
+      name: app_category
+      label: App Category
+      hint: null
+      type: select_multiple
+      options:
+      - Game
+      - Non Game
+      required: false
+    - id: 24
+      name: app_rating
+      label: App Rating
+      hint: null
+      type: select_one
+      options:
+      - 4+
+      - 3+
+      - 2+
+      - '1'
+      required: false

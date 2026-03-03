@@ -1,0 +1,244 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bride Dress Appointment Form
+    pages:
+    - id: 1
+      name: bride_name
+      label: Bride Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: wedding_date
+      label: Wedding Date
+      hint: When is your wedding
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: appointment_type
+      label: Appointment Type
+      hint: What would you like to do
+      type: select_one
+      options:
+      - Initial dress shopping
+      - Continue shopping
+      - First fitting
+      - Fitting and alterations
+      - Final fitting
+      - Bustier fitting
+      - Rehearsal fitting
+      - Other
+      required: true
+    - id: 6
+      name: preferred_date
+      label: Preferred Appointment Date
+      hint: What date works for you
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: preferred_time
+      label: Preferred Time
+      hint: What time slot
+      type: select_one
+      options:
+      - 9 AM - 10 AM
+      - 10 AM - 11 AM
+      - 11 AM - 12 PM
+      - 12 PM - 1 PM
+      - 1 PM - 2 PM
+      - 2 PM - 3 PM
+      - 3 PM - 4 PM
+      - 4 PM - 5 PM
+      required: true
+    - id: 8
+      name: appointment_duration
+      label: How Long Is Your Appointment
+      hint: Expected time needed
+      type: select_one
+      options:
+      - 30 minutes
+      - 1 hour
+      - 1.5 hours
+      - 2 hours
+      - 2.5 hours
+      - 3 hours
+      required: false
+    - id: 9
+      name: dress_size
+      label: Dress Size
+      hint: Current dress size
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - 1X
+      - 2X
+      - 3X+
+      - Unsure
+      required: false
+    - id: 10
+      name: size_range_fluidity
+      label: Expect Size to Change Before Wedding
+      hint: Will your size change
+      type: select_one
+      options:
+      - Stable size
+      - Expect weight loss
+      - Expect weight gain
+      - Unsure
+      required: false
+    - id: 11
+      name: dress_style_preference
+      label: Dress Style Preference
+      hint: What style appeals to you
+      type: select_multiple
+      options:
+      - Ball gown
+      - A-line
+      - Mermaid
+      - Empire waist
+      - Sheath
+      - Tea length
+      - Short dress
+      - Jumpsuit
+      required: false
+    - id: 12
+      name: dress_neckline
+      label: Preferred Neckline
+      hint: Type of neckline
+      type: select_multiple
+      options:
+      - Off-shoulder
+      - Sweetheart
+      - V-neck
+      - Halter
+      - Illusion
+      - Strapless
+      - One-shoulder
+      - High neck
+      required: false
+    - id: 13
+      name: dress_sleeve_style
+      label: Sleeve Style
+      hint: Preferred sleeve type
+      type: select_one
+      options:
+      - Sleeveless
+      - Thin straps
+      - Cap sleeves
+      - Short sleeves
+      - Three-quarter sleeves
+      - Long sleeves
+      - Detachable sleeves
+      - No preference
+      required: false
+    - id: 14
+      name: dress_color
+      label: Dress Color Preference
+      hint: Your color preference
+      type: select_one
+      options:
+      - Pure white
+      - Ivory
+      - Champagne
+      - Blush
+      - Soft pink
+      - Other color
+      - Unsure
+      required: false
+    - id: 15
+      name: budget_range
+      label: Budget Range
+      hint: Your dress budget
+      type: select_one
+      options:
+      - Under 500
+      - 500 - 1000
+      - 1000 - 1500
+      - 1500 - 2000
+      - 2000 - 3000
+      - 3000+
+      - No specific limit
+      required: false
+    - id: 16
+      name: attendants_count
+      label: Number of People Coming With You
+      hint: How many support people
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: attendant_roles
+      label: Roles of Attendants
+      hint: Mother, bridesmaid, friend etc
+      type: select_multiple
+      options:
+      - Mother
+      - Best friend
+      - Sister
+      - Bridesmaids
+      - Fiancé
+      - Other family
+      - Other friends
+      required: false
+    - id: 18
+      name: dress_designer_preference
+      label: Designer or Brand Preference
+      hint: Any specific designer
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: alteration_needs
+      label: Expected Alterations
+      hint: What alterations might be needed
+      type: select_multiple
+      options:
+      - Hem
+      - Taking in
+      - Letting out
+      - Bust adjustment
+      - Strap adjustment
+      - Custom train
+      - Beading repair
+      - None known yet
+      required: false
+    - id: 20
+      name: special_requests
+      label: Special Requests or Notes
+      hint: Any specific needs or preferences
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contact_preference
+      label: Appointment Confirmation Method
+      hint: How should we confirm
+      type: select_multiple
+      options:
+      - Email
+      - Phone call
+      - Text message
+      - No confirmation needed
+      required: true

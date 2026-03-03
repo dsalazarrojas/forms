@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: IT System Performance Assessment Form
+    pages:
+    - id: 1
+      name: it_system_performance_assessment
+      label: it system performance assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: system_name
+      label: system name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: system_type
+      label: system type
+      hint: null
+      type: select_one
+      options:
+      - system_server
+      - system_cloud
+      - system_network
+      required: false
+    - id: 4
+      name: service_name
+      label: service name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: availability
+      label: availability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: uptime
+      label: uptime
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: response_time
+      label: response time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: reliability
+      label: reliability
+      hint: null
+      type: select_multiple
+      options:
+      - high
+      - medium
+      - low
+      required: false
+    - id: 9
+      name: scalability
+      label: scalability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: maintainability
+      label: maintainability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: cost
+      label: cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: support
+      label: support
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: system_id
+      label: system id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: system_type_id
+      label: system type id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: performance_score
+      label: performance score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: overall_satisfaction
+      label: overall satisfaction
+      hint: null
+      type: select_one
+      options:
+      - high
+      - medium
+      - low
+      required: false
+    - id: 22
+      name: system_category
+      label: system category
+      hint: null
+      type: select_one
+      options:
+      - server
+      - cloud
+      - network
+      required: false
+    - id: 23
+      name: system_tags
+      label: system tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: system_comments
+      label: system comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: submitted by
+      hint: null
+      type: text
+      options: []
+      required: false

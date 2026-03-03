@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maintenance Request Monitoring Form
+    pages:
+    - id: 1
+      name: maintenance_request
+      label: Maintenance Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: facility
+      label: Facility
+      hint: null
+      type: select_one
+      options:
+      - Facility A
+      - Facility B
+      - Facility C
+      required: false
+    - id: 3
+      name: equipment_id
+      label: Equipment ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: equipment_status
+      label: Equipment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Inactive
+      - Active
+      required: false
+    - id: 5
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Pending
+      required: false
+    - id: 6
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 8
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 9
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: created_at
+      label: Created Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: updated_at
+      label: Updated Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: due_by
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,262 @@
+inputSchema:
+  type: object
+  properties:
+    title: Broker Accreditation Form
+    pages:
+    - id: 1
+      name: personal_information_header
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Legal Name
+      hint: Your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: social_security_number
+      label: Social Security Number
+      hint: Your SSN for identification purposes
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Your primary email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: home_address
+      label: Home Address
+      hint: Your current residential address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: professional_information_header
+      label: -- Professional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: broker_license_number
+      label: Broker License Number
+      hint: Your current broker license number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: license_state
+      label: Licensing State
+      hint: State where license is issued
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: license_expiration
+      label: License Expiration Date
+      hint: When your current license expires
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: firm_name
+      label: Current Firm Name
+      hint: Name of the firm you are affiliated with
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: firm_address
+      label: Firm Address
+      hint: Address of your firm
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: years_of_experience
+      label: Years of Experience
+      hint: How many years have you been a licensed broker
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: accreditation_type_header
+      label: -- Accreditation Type --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: accreditation_category
+      label: Accreditation Category
+      hint: Type of accreditation you are applying for
+      type: select_one
+      options:
+      - Residential Broker
+      - Commercial Broker
+      - Investment Broker
+      - Property Manager
+      - Real Estate Agent
+      - Mortgage Broker
+      required: true
+    - id: 17
+      name: accreditation_level
+      label: Accreditation Level
+      hint: Level of accreditation requested
+      type: select_one
+      options:
+      - Standard Accreditation
+      - Senior Broker Accreditation
+      - Master Broker Accreditation
+      - Premium Partner
+      required: true
+    - id: 18
+      name: employment_history_header
+      label: -- Employment History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: current_employment
+      label: Current Position
+      hint: Your current job title
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: employment_duration
+      label: Duration at Current Firm
+      hint: How long at your current firm
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - 10+ years
+      required: true
+    - id: 21
+      name: previous_firms
+      label: Previous Firms
+      hint: List any previous firms if applicable
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: certifications_header
+      label: -- Certifications and Training --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: relevant_certifications
+      label: Relevant Certifications
+      hint: Any relevant certifications or training
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: continuing_education
+      label: Continuing Education Credits
+      hint: Number of CE credits completed this period
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: compliance_information_header
+      label: -- Compliance Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: disciplinary_history
+      label: Disciplinary History
+      hint: Have you had any disciplinary actions
+      type: select_one
+      options:
+      - No disciplinary actions
+      - Yes disciplinary action taken
+      required: true
+    - id: 27
+      name: disciplinary_details
+      label: Disciplinary Details
+      hint: Provide details if yes
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: bankruptcy_history
+      label: Bankruptcy History
+      hint: Have you declared bankruptcy in past 7 years
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 29
+      name: supporting_documents_header
+      label: -- Supporting Documents --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: documents_submitted
+      label: Documents Submitted
+      hint: Select documents you are submitting
+      type: select_multiple
+      options:
+      - License Copy
+      - Photo ID
+      - Proof of Insurance
+      - Employment Verification
+      - Certification Documents
+      required: false
+    - id: 31
+      name: declaration_header
+      label: -- Declaration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: accuracy_statement
+      label: I certify that all information provided is accurate
+      hint: Check to certify accuracy of information
+      type: select_one
+      options:
+      - I Certify
+      - Other
+      required: true
+    - id: 33
+      name: signature_date
+      label: Date
+      hint: Date of application
+      type: date
+      options: []
+      required: true

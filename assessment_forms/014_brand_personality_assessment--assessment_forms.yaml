@@ -1,0 +1,202 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Brand Personality Assessment
+    pages:
+      - id: 1
+        name: assessor_name
+        label: Your Name
+        hint: Optional, for tracking purposes
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: assessor_role
+        label: Your Role
+        hint: What is your relationship to this brand
+        type: select_one
+        options:
+          - Customer
+          - Employee
+          - Partner
+          - Industry Expert
+          - General Public
+        required: true
+      - id: 3
+        name: brand_name
+        label: Brand Being Assessed
+        hint: Name of the brand
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: sincerity_rating
+        label: Sincerity
+        hint: Rate how sincere this brand appears
+        type: select_one
+        options:
+          - Very Sincere
+          - Somewhat Sincere
+          - Neutral
+          - Somewhat Insincere
+          - Very Insincere
+        required: true
+      - id: 5
+        name: excitement_rating
+        label: Excitement
+        hint: Rate how exciting this brand appears
+        type: select_one
+        options:
+          - Very Exciting
+          - Somewhat Exciting
+          - Neutral
+          - Somewhat Dull
+          - Very Dull
+        required: true
+      - id: 6
+        name: competence_rating
+        label: Competence
+        hint: Rate how competent this brand appears
+        type: select_one
+        options:
+          - Very Competent
+          - Somewhat Competent
+          - Neutral
+          - Somewhat Incompetent
+          - Very Incompetent
+        required: true
+      - id: 7
+        name: sophistication_rating
+        label: Sophistication
+        hint: Rate how sophisticated this brand appears
+        type: select_one
+        options:
+          - Very Sophisticated
+          - Somewhat Sophisticated
+          - Neutral
+          - Somewhat Unsophisticated
+          - Very Unsophisticated
+        required: true
+      - id: 8
+        name: ruggedness_rating
+        label: Ruggedness
+        hint: Rate how rugged or tough this brand appears
+        type: select_one
+        options:
+          - Very Rugged
+          - Somewhat Rugged
+          - Neutral
+          - Somewhat Delicate
+          - Very Delicate
+        required: true
+      - id: 9
+        name: brand_voice
+        label: Brand Voice
+        hint: How would you describe the brand voice
+        type: select_one
+        options:
+          - Friendly and Casual
+          - Professional and Formal
+          - Witty and Humorous
+          - Serious and Authoritative
+          - Inspirational and Motivational
+        required: true
+      - id: 10
+        name: brand_archetype
+        label: Brand Archetype
+        hint: Which archetype best fits this brand
+        type: select_one
+        options:
+          - The Hero
+          - The Caregiver
+          - The Explorer
+          - The Rebel
+          - The Lover
+          - The Creator
+          - The Jester
+          - The Sage
+          - The Innocent
+          - The Everyman
+          - The Ruler
+          - The Magician
+        required: true
+      - id: 11
+        name: human_characteristics
+        label: Human Characteristics
+        hint: If this brand were a person, describe them
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: lifestyle_alignment
+        label: Lifestyle Alignment
+        hint: Does this brand fit your lifestyle
+        type: select_one
+        options:
+          - Perfectly Aligns
+          - Mostly Aligns
+          - Somewhat Aligns
+          - Does Not Align
+          - Completely Misaligned
+        required: true
+      - id: 13
+        name: values_alignment
+        label: Values Alignment
+        hint: Do the brand values align with yours
+        type: select_one
+        options:
+          - Completely Align
+          - Mostly Align
+          - Somewhat Align
+          - Do Not Align
+          - Completely Opposed
+        required: true
+      - id: 14
+        name: consistency_perception
+        label: Consistency Perception
+        hint: Is the brand personality consistent across touchpoints
+        type: select_one
+        options:
+          - Very Consistent
+          - Mostly Consistent
+          - Somewhat Consistent
+          - Inconsistent
+          - Very Inconsistent
+        required: true
+      - id: 15
+        name: differentiation
+        label: Differentiation
+        hint: How well does this brand stand out
+        type: select_one
+        options:
+          - Very Distinctive
+          - Somewhat Distinctive
+          - Average
+          - Blends In
+          - Not Distinctive at All
+        required: true
+      - id: 16
+        name: personality_improvement
+        label: Personality Improvement Areas
+        hint: What aspects of brand personality could improve
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: overall_assessment
+        label: Overall Assessment
+        hint: Summary of your brand personality assessment
+        type: text
+        options: []
+        required: true

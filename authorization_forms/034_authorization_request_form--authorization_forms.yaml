@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Authorization Request Form
+    pages:
+    - id: 1
+      name: request_date
+      label: Request Date
+      hint: Date of this authorization request
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: request_type
+      label: Type of Authorization Request
+      hint: What authorization is being requested
+      type: select_one
+      options:
+      - Medical Treatment
+      - Educational Activity
+      - Travel
+      - Work Activity
+      - Athletic Participation
+      - Research Study
+      - Event Attendance
+      - Other
+      required: true
+    - id: 3
+      name: subject_name
+      label: Subject Name
+      hint: Name of child or person needing authorization
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: subject_age
+      label: Subject Age or Date of Birth
+      hint: How old is the subject
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: subject_id
+      label: Subject ID Number
+      hint: Student ID, patient ID, or similar
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: Full name of authorizing parent/guardian
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: relationship_to_subject
+      label: Relationship to Subject
+      hint: Parent, guardian, other
+      type: select_one
+      options:
+      - Parent - Mother
+      - Parent - Father
+      - Legal Guardian
+      - Custodian
+      - Other
+      required: true
+    - id: 8
+      name: parent_address
+      label: Parent/Guardian Address
+      hint: Current residential address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: parent_email
+      label: Parent/Guardian Email
+      hint: Email contact
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: parent_phone
+      label: Parent/Guardian Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: activity_description
+      label: Activity or Procedure Description
+      hint: Detailed description of what is being authorized
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: activity_date
+      label: Activity Date or Period
+      hint: When will this take place
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: activity_location
+      label: Activity Location
+      hint: Where will activity take place
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: activity_duration
+      label: Duration of Activity
+      hint: How long will it last
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: organization_name
+      label: Organization or Provider Name
+      hint: School, medical facility, organization
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: responsible_adult
+      label: Responsible Adult or Supervisor
+      hint: Who will be supervising
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: risk_disclosure
+      label: Risk and Liability Disclosure
+      hint: Understand risks and hazards
+      type: select_one
+      options:
+      - Yes - Understand Risks
+      - Yes - With Questions
+      - No - Need More Information
+      required: true
+    - id: 18
+      name: special_instructions
+      label: Special Instructions or Requirements
+      hint: Any special needs or medications
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_conditions
+      label: Relevant Medical Conditions
+      hint: Allergies, medications, conditions
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Alternative contact if parent unavailable
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact phone
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: liability_waiver
+      label: Liability Waiver Agreement
+      hint: Parent agrees to waive liability
+      type: select_one
+      options:
+      - Yes - I Agree
+      - No - Cannot Agree
+      - Conditional - With Modifications
+      required: true
+    - id: 23
+      name: consent_confirmation
+      label: Consent to Activity
+      hint: Give permission for activity
+      type: select_one
+      options:
+      - Yes - I Authorize
+      - No - Do Not Authorize
+      - Conditional - With Restrictions
+      required: true
+    - id: 24
+      name: authorization_duration
+      label: Duration of This Authorization
+      hint: How long is this valid
+      type: select_one
+      options:
+      - One-Time Only
+      - For This School Year
+      - For One Year
+      - For Multiple Years
+      - Ongoing Until Revoked
+      required: true

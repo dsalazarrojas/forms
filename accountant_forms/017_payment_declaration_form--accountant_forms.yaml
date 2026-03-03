@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payment Declaration Form
+    pages:
+    - id: 1
+      name: payment_declaration_form
+      label: Payment Declaration Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: payment_type
+      label: Payment Type
+      hint: null
+      type: select_one
+      options:
+      - cash
+      - credit
+      - bank_transfer
+      required: false
+    - id: 3
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: payment_time
+      label: Payment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: amount_paid
+      label: Amount Paid
+      hint: Enter the amount paid
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - cash
+      - credit
+      - bank_transfer
+      - online_transfer
+      required: false
+    - id: 7
+      name: account_number
+      label: Account Number
+      hint: Enter your account number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: account_holder_name
+      label: Account Holder Name
+      hint: Enter the account holder name
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: bank_name
+      label: Bank Name
+      hint: Enter the bank name
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: branch_name
+      label: Branch Name
+      hint: Enter the branch name
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: bank_branch_address
+      label: Bank Branch Address
+      hint: Enter the branch address
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: bank_account_type
+      label: Bank Account Type
+      hint: Select the bank account type
+      type: select_multiple
+      options:
+      - checking
+      - savings
+      - money_pooling
+      required: false
+    - id: 13
+      name: payment_reference_number
+      label: Payment Reference Number
+      hint: Enter the payment reference number
+      type: text
+      options: []
+      required: false

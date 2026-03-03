@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Weight Rating Correction Form
+    pages:
+    - id: 1
+      name: vehicle_weight_rating_correction_form
+      label: Vehicle Weight Rating Correction Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_gvwr
+      label: vehicle_gvwr
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: vin
+      label: vin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: make
+      label: make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: year
+      label: year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: correction_reason
+      label: correction_reason
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: correction_amount
+      label: correction_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_weight_rating_correction_form_comments
+      label: vehicle_weight_rating_correction_form_comments
+      hint: null
+      type: text
+      options: []
+      required: false

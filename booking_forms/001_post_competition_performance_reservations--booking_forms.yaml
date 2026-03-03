@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post-Competition Performance Reservations
+    pages:
+    - id: 1
+      name: reservation_date
+      label: Reservation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: performer_name
+      label: Performer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: performance_start_time
+      label: Performance Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: performance_duration
+      label: Performance Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: performance_date
+      label: Performance Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Concert
+      - Theatre
+      - Semi-formal
+      - Formal
+      required: false
+    - id: 8
+      name: performance_location
+      label: Performance Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: performance_notes
+      label: Performance Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

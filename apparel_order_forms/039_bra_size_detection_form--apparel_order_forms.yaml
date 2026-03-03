@@ -1,0 +1,234 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bra Size Detection Form
+    pages:
+    - id: 1
+      name: customer_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: For size recommendations
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: measurement_method
+      label: Measurement Method
+      hint: How will you provide measurements
+      type: select_one
+      options:
+      - I will measure myself
+      - I have professional measurements
+      - I need guidance
+      required: true
+    - id: 5
+      name: underbust_measurement
+      label: Underbust Measurement
+      hint: Measurement around ribcage under bust in inches
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: bust_measurement
+      label: Bust Measurement
+      hint: Measurement around fullest part of bust in inches
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: measurement_tape_used
+      label: Measurement Tape Used
+      hint: Did you use a soft measuring tape
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: measurement_taken_standing
+      label: Measurement Taken Standing
+      hint: Were measurements taken while standing
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: bra_worn_during_measurement
+      label: Bra Worn During Measurement
+      hint: Were you wearing a bra
+      type: select_one
+      options:
+      - No bra
+      - Unpadded bra
+      - Padded bra
+      - Sports bra
+      required: true
+    - id: 10
+      name: current_bra_size
+      label: Current Bra Size
+      hint: What size do you currently wear
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: current_bra_fit
+      label: Current Bra Fit
+      hint: How does your current bra fit
+      type: select_one
+      options:
+      - Perfect
+      - Too tight
+      - Too loose
+      - Cups too small
+      - Cups too big
+      - Band rides up
+      - Straps dig in
+      required: true
+    - id: 12
+      name: band_feel
+      label: Band Feel
+      hint: How does the band feel
+      type: select_one
+      options:
+      - Comfortable and snug
+      - Too tight
+      - Too loose
+      - Rides up in back
+      required: true
+    - id: 13
+      name: cup_feel
+      label: Cup Feel
+      hint: How do the cups fit
+      type: select_one
+      options:
+      - Smooth and full coverage
+      - Spillage or overflow
+      - Gaping
+      - Wrinkling
+      required: true
+    - id: 14
+      name: strap_feel
+      label: Strap Feel
+      hint: How do the straps feel
+      type: select_one
+      options:
+      - Comfortable
+      - Dig into shoulders
+      - Keep falling down
+      - Leave marks
+      required: true
+    - id: 15
+      name: underwire_comfort
+      label: Underwire Comfort
+      hint: How does the underwire feel
+      type: select_one
+      options:
+      - Comfortable
+      - Pokes or digs in
+      - Sits on breast tissue
+      - Prefer no underwire
+      required: true
+    - id: 16
+      name: breast_shape
+      label: Breast Shape
+      hint: How would you describe your shape
+      type: select_one
+      options:
+      - Round
+      - Teardrop
+      - Bell
+      - Slender
+      - Asymmetric
+      required: false
+    - id: 17
+      name: breast_fullness
+      label: Breast Fullness
+      hint: Where is most fullness
+      type: select_one
+      options:
+      - Full on top
+      - Full on bottom
+      - Evenly full
+      - Close set
+      - Wide set
+      required: false
+    - id: 18
+      name: preferred_style
+      label: Preferred Bra Style
+      hint: What styles do you prefer
+      type: select_multiple
+      options:
+      - T-shirt bra
+      - Push-up
+      - Sports bra
+      - Wireless
+      - Lace
+      - Minimizer
+      - Balconette
+      - Full coverage
+      - Plunge
+      - Strapless
+      required: true
+    - id: 19
+      name: primary_use
+      label: Primary Use
+      hint: What will you use this bra for
+      type: select_one
+      options:
+      - Everyday wear
+      - Special occasions
+      - Sports and exercise
+      - Work
+      - Sleep
+      required: true
+    - id: 20
+      name: calculated_size
+      label: Calculated Size
+      hint: Your recommended size
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: sister_sizes
+      label: Sister Sizes
+      hint: Alternative sizes to try
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: brand_recommendations
+      label: Brand Recommendations
+      hint: Suggested brands
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: fit_tips
+      label: Fit Tips
+      hint: Additional advice
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: consent_to_contact
+      label: Consent to Contact
+      hint: Can we contact you with recommendations
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

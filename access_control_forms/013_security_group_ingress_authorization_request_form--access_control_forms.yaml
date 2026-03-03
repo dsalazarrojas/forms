@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Security Group Ingress Authorization Request Form
+    pages:
+    - id: 1
+      name: security_group_id
+      label: Security Group ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: security_group
+      label: Security Group
+      hint: null
+      type: select_one
+      options:
+      - Security Group 1
+      - Security Group 2
+      - Security Group 3
+      required: false
+    - id: 5
+      name: request_reason
+      label: Request Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: approver
+      label: Approver
+      hint: null
+      type: select_one
+      options:
+      - Admin
+      - Manager
+      - IT Department
+      required: false
+    - id: 7
+      name: approver_email
+      label: Approver Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: approver_phone
+      label: Approver Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: select_one
+      options:
+      - Admin
+      - Manager
+      - IT Department
+      required: false
+    - id: 12
+      name: approved_at
+      label: Approved At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: created_at
+      label: Created At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: time
+      options: []
+      required: false

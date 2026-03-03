@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ticket Pricing Approval Form
+    pages:
+    - id: 1
+      name: ticket_pricing_approval_form_1
+      label: Ticket Pricings
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: ticket_pricing_approval_form_2
+      label: Ticket Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: ticket_pricing_approval_form_3
+      label: Ticket Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: ticket_pricing_approval_form_4
+      label: Ticket
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: ticket_pricing_approval_form_5
+      label: Price
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: ticket_pricing_approval_form_6
+      label: Approve
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Not Approved
+      required: false
+    - id: 7
+      name: ticket_pricing_approval_form_7
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: ticket_pricing_approval_form_8
+      label: Ticket Pricing Proposal
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

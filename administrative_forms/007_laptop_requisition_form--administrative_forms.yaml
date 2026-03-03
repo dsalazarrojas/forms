@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Laptop Requisition Form
+    pages:
+    - id: 1
+      name: form_section_general
+      label: General
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: form_section_requester
+      label: Requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_section_requested_device
+      label: Requested Device
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Apple MacBook 13'', ''value'': ''apple_macbook_13''}'
+      - '{''label'': ''Lenovo ThinkPad'', ''value'': ''lenovo_thinkpad''}'
+      - '{''label'': ''Dell XPS'', ''value'': ''dell_xps''}'
+      required: false
+    - id: 4
+      name: form_section_department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Sales'', ''value'': ''sales''}'
+      - '{''label'': ''Marketing'', ''value'': ''marketing''}'
+      - '{''label'': ''IT'', ''value'': ''it''}'
+      - '{''label'': ''Customer Service'', ''value'': ''customer_service''}'
+      required: false
+    - id: 5
+      name: form_section_request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: form_section_requesting_user
+      label: Requesting User
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: form_section_priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: form_section_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_section_requested_by
+      label: Requested By
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''IT'', ''value'': ''it''}'
+      - '{''label'': ''Department Manager'', ''value'': ''department_manager''}'
+      - '{''label'': ''Team Lead'', ''value'': ''team_lead''}'
+      required: false
+    - id: 10
+      name: form_section_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: form_section_urgency
+      label: Urgency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: form_section_additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: form_section_attachments
+      label: Attachments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: form_section_requesting_user_department
+      label: Requesting User Department
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Sales'', ''value'': ''sales''}'
+      - '{''label'': ''Marketing'', ''value'': ''marketing''}'
+      - '{''label'': ''IT'', ''value'': ''it''}'
+      - '{''label'': ''Customer Service'', ''value'': ''customer_service''}'
+      required: false
+    - id: 15
+      name: form_section_requesting_user_position
+      label: Requesting User Position
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: form_section_review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 17
+      name: form_section_reviewed_by
+      label: Reviewed By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: form_section_review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: form_section_review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: form_section_requesting_user_id
+      label: Requesting User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: form_section_requesting_user_email
+      label: Requesting User Email
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Loan Compliance Assessment
+    pages:
+    - id: 1
+      name: loan_compliance_assessment
+      label: Loan Compliance Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: assessment_type
+      label: Assessment Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option_1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option_2''}'
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: interest_rate
+      label: Interest Rate
+      hint: null
+      type: number
+      options: []
+      required: false

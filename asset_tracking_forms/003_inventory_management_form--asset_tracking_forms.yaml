@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inventory Management Form
+    pages:
+    - id: 1
+      name: general_info
+      label: general_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: item_list
+      label: item_list
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: item_name
+      label: item_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: item_description
+      label: item_description
+      hint: Briefly describe this item
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: quantity
+      label: quantity
+      hint: Enter the quantity of the item.
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: item_price
+      label: item_price
+      hint: Enter the price of the item.
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: date_received
+      label: date_received
+      hint: When did you receive this item?
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: date_sold
+      label: date_sold
+      hint: When was it sold?
+      type: date
+      options: []
+      required: false

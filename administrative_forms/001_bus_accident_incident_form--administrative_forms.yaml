@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bus Accident Incident Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Date of Incident
+      hint: When did the accident occur?
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: incident_time
+      label: Time of Incident
+      hint: Approximate time the accident occurred
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: driver_name
+      label: Driver Name
+      hint: Full name of the bus driver
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: driver_license
+      label: Driver License Number
+      hint: License number for identification
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: bus_number
+      label: Bus Registration Number
+      hint: Vehicle identification number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: incident_location
+      label: Incident Location
+      hint: Street address or route location
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: incident_type
+      label: Type of Accident
+      hint: Select the type of incident
+      type: select_one
+      options:
+      - Collision with Vehicle
+      - Collision with Object
+      - Passenger Injury
+      - Property Damage
+      - Near Miss
+      - Other
+      required: true
+    - id: 8
+      name: weather_condition
+      label: Weather Conditions
+      hint: Weather at time of incident
+      type: select_one
+      options:
+      - Clear
+      - Rainy
+      - Foggy
+      - Snowy
+      - Stormy
+      required: true
+    - id: 9
+      name: other_vehicles_involved
+      label: Other Vehicles Involved
+      hint: How many other vehicles?
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: passenger_injuries
+      label: Passenger Injuries Reported
+      hint: Were any passengers injured?
+      type: select_one
+      options:
+      - Yes, Minor Injuries
+      - Yes, Serious Injuries
+      - No Injuries
+      required: true
+    - id: 11
+      name: ambulance_called
+      label: Emergency Services Called
+      hint: Was ambulance or police called?
+      type: select_one
+      options:
+      - Ambulance
+      - Police
+      - Both
+      - None
+      required: false
+    - id: 12
+      name: incident_description
+      label: Detailed Description of Incident
+      hint: Provide a complete account of what happened
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: contributing_factors
+      label: Contributing Factors
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Driver Error
+      - Weather Conditions
+      - Road Conditions
+      - Vehicle Malfunction
+      - Third Party Action
+      required: false
+    - id: 14
+      name: witness_name
+      label: Witness Name
+      hint: Name of witness if available
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: witness_phone
+      label: Witness Contact Number
+      hint: Phone number of witness
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: police_report_number
+      label: Police Report Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: estimated_damage
+      label: Estimated Property Damage
+      hint: In currency units
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: photos_attached
+      label: Photos or Evidence Attached
+      hint: Are supporting documents included?
+      type: select_one
+      options:
+      - true
+      - false
+      required: false

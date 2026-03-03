@@ -1,0 +1,250 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bank Account Registration Form
+    pages:
+    - id: 1
+      name: applicant_full_name
+      label: Applicant Full Name
+      hint: Legal name as on ID
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email
+      label: Email Address
+      hint: Primary email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: applicant_phone
+      label: Phone Number
+      hint: Mobile number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: applicant_address
+      label: Residential Address
+      hint: Street, city, state, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address_type
+      label: Address Type
+      hint: Do you own or rent
+      type: select_one
+      options:
+      - Own Home
+      - Rent
+      - Live with Family
+      - Student Housing
+      required: true
+    - id: 7
+      name: years_at_address
+      label: Years at Current Address
+      hint: How long have you lived here
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: social_security_number
+      label: Social Security Number
+      hint: SSN or ITIN
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: government_id_type
+      label: Government ID Type
+      hint: Type of identification
+      type: select_one
+      options:
+      - Drivers License
+      - Passport
+      - State ID
+      - Military ID
+      - Permanent Resident Card
+      required: true
+    - id: 10
+      name: government_id_number
+      label: Government ID Number
+      hint: ID number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: account_type
+      label: Account Type
+      hint: What type of account do you want
+      type: select_one
+      options:
+      - Checking Account
+      - Savings Account
+      - Money Market Account
+      - Certificate of Deposit
+      - Joint Account
+      - Student Account
+      - Senior Account
+      required: true
+    - id: 12
+      name: currency_type
+      label: Currency Type
+      hint: Account currency
+      type: select_one
+      options:
+      - USD - US Dollar
+      - EUR - Euro
+      - GBP - British Pound
+      - CAD - Canadian Dollar
+      - Multi-Currency
+      required: true
+    - id: 13
+      name: initial_deposit
+      label: Initial Deposit Amount
+      hint: Opening deposit
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: employment_status
+      label: Employment Status
+      hint: Current employment
+      type: select_one
+      options:
+      - Employed Full-Time
+      - Employed Part-Time
+      - Self-Employed
+      - Unemployed
+      - Student
+      - Retired
+      - Homemaker
+      required: true
+    - id: 15
+      name: employer_name
+      label: Employer Name
+      hint: Company name
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: occupation
+      label: Occupation
+      hint: Job title or profession
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: annual_income
+      label: Annual Income
+      hint: Gross yearly income
+      type: select_one
+      options:
+      - Under $25000
+      - $25000-$49999
+      - $50000-$74999
+      - $75000-$99999
+      - $100000-$149999
+      - $150000-$199999
+      - $200000 or more
+      required: true
+    - id: 18
+      name: source_of_funds
+      label: Source of Funds
+      hint: Where will the money come from
+      type: select_one
+      options:
+      - Salary
+      - Business Income
+      - Investments
+      - Inheritance
+      - Gift
+      - Savings
+      - Other
+      required: true
+    - id: 19
+      name: debit_card_request
+      label: Debit Card Request
+      hint: Do you want a debit card
+      type: select_one
+      options:
+      - Yes, standard card
+      - Yes, premium card
+      - No thank you
+      required: true
+    - id: 20
+      name: online_banking_enrollment
+      label: Online Banking Enrollment
+      hint: Enroll in online banking
+      type: select_one
+      options:
+      - Yes, enroll me
+      - No, not now
+      required: true
+    - id: 21
+      name: mobile_banking_enrollment
+      label: Mobile Banking Enrollment
+      hint: Download mobile app
+      type: select_one
+      options:
+      - Yes, enroll me
+      - No, not now
+      required: true
+    - id: 22
+      name: statement_preference
+      label: Statement Preference
+      hint: How do you want statements
+      type: select_one
+      options:
+      - Electronic Only
+      - Paper Only
+      - Both Electronic and Paper
+      required: true
+    - id: 23
+      name: overdraft_protection
+      label: Overdraft Protection
+      hint: Enable overdraft coverage
+      type: select_one
+      options:
+      - Yes, with linked savings
+      - Yes, with line of credit
+      - No, decline transactions
+      required: true
+    - id: 24
+      name: additional_services
+      label: Additional Services
+      hint: Other services you want
+      type: select_multiple
+      options:
+      - Checkbook
+      - Safe Deposit Box
+      - Notary Services
+      - Wire Transfer Access
+      - International Transfers
+      - None
+      required: false
+    - id: 25
+      name: terms_acceptance
+      label: Terms and Conditions
+      hint: Do you agree to the account terms
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true
+    - id: 26
+      name: signature_date
+      label: Signature Date
+      hint: Date of application
+      type: date
+      options: []
+      required: true

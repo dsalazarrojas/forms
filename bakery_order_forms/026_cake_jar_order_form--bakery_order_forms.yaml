@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cake Jar Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Your Name
+      hint: Full name for order
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: order_date
+      label: Order Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: pickup_date
+      label: Pickup Date
+      hint: When do you need your cake jars
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: jar_flavor
+      label: Jar Flavor
+      hint: Choose your cake jar flavor
+      type: select_one
+      options:
+      - Vanilla Bean
+      - Chocolate Fudge
+      - Red Velvet
+      - Lemon
+      - Strawberry
+      - Carrot Cake
+      - Cookies and Cream
+      - Salted Caramel
+      - Marble
+      - Funfetti
+      required: true
+    - id: 7
+      name: jar_size
+      label: Jar Size
+      hint: Select jar size
+      type: select_one
+      options:
+      - 4 oz mini jar
+      - 8 oz regular jar
+      - 12 oz large jar
+      - Variety pack
+      required: true
+    - id: 8
+      name: frosting_type
+      label: Frosting Type
+      hint: Choose your frosting
+      type: select_one
+      options:
+      - Buttercream
+      - Cream cheese
+      - Whipped cream
+      - Ganache
+      - Cream cheese swirl
+      - None
+      required: true
+    - id: 9
+      name: quantity
+      label: Quantity
+      hint: How many jars
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: decorative_toppings
+      label: Decorative Toppings
+      hint: Add toppings to your jars
+      type: select_multiple
+      options:
+      - Sprinkles
+      - Chocolate chips
+      - Fresh berries
+      - Caramel drizzle
+      - Chocolate drizzle
+      - Crushed cookies
+      - Whipped cream top
+      - None
+      required: false
+    - id: 11
+      name: gift_packaging
+      label: Gift Packaging
+      hint: Would you like gift packaging
+      type: select_one
+      options:
+      - No thanks
+      - Yes, gift box
+      - Yes, with ribbon
+      - Yes, premium gift set
+      required: false
+    - id: 12
+      name: custom_labels
+      label: Custom Labels
+      hint: Would you like custom labels on jars
+      type: select_one
+      options:
+      - No thanks
+      - Yes, with names
+      - Yes, with message
+      - Yes, for event
+      required: false
+    - id: 13
+      name: custom_label_text
+      label: Custom Label Text
+      hint: What should the labels say
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any special dietary needs
+      type: select_one
+      options:
+      - None
+      - Gluten-free
+      - Dairy-free
+      - Vegan
+      - Nut-free
+      required: true
+    - id: 15
+      name: delivery_method
+      label: Delivery Method
+      hint: How will you receive your order
+      type: select_one
+      options:
+      - Pickup in store
+      - Local delivery
+      - Shipping
+      required: true
+    - id: 16
+      name: delivery_address
+      label: Delivery Address
+      hint: If delivery, provide address
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: occasion
+      label: Occasion
+      hint: What is this order for
+      type: select_one
+      options:
+      - Birthday
+      - Wedding
+      - Baby shower
+      - Bridal shower
+      - Corporate event
+      - Party favor
+      - Gift
+      - Just because
+      - Other
+      required: false
+    - id: 18
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Cash
+      - Mobile payment
+      required: true
+    - id: 19
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special requests or notes
+      type: text
+      options: []
+      required: false

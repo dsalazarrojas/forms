@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: it_support_check_in_form
+    pages:
+    - id: 1
+      name: submit_request
+      label: Submit Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: problem_description
+      label: Problem Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_multiple
+      options:
+      - Technical Support
+      - General Support
+      - Equipment Support
+      - Other
+      required: false
+    - id: 4
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 5
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: issue_summary
+      label: Issue Summary
+      hint: null
+      type: text
+      options: []
+      required: false

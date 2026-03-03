@@ -1,0 +1,225 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Array Basics Assessment
+    pages:
+    - id: 1
+      name: section_student_info
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: class_name
+      label: Class or Course Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_instructions
+      label: -- Instructions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: section_fundamentals
+      label: -- Array Fundamentals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: question_1
+      label: What is an array in programming
+      hint: null
+      type: select_one
+      options:
+      - A collection of elements stored in contiguous memory
+      - A single variable that holds multiple values
+      - A type of loop statement
+      - A mathematical function
+      required: true
+    - id: 9
+      name: question_2
+      label: What is the index of the first element in most programming languages
+      hint: null
+      type: select_one
+      options:
+      - 0
+      - 1
+      - -1
+      - Depends on the language
+      required: true
+    - id: 10
+      name: question_3
+      label: How do you access the third element of an array named myArray
+      hint: null
+      type: select_one
+      options:
+      - myArray[3]
+      - myArray[2]
+      - myArray.third()
+      - myArray(3)
+      required: true
+    - id: 11
+      name: section_operations
+      label: -- Array Operations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: question_4
+      label: Which of the following are common array operations
+      hint: null
+      type: select_multiple
+      options:
+      - Inserting elements
+      - Removing elements
+      - Sorting elements
+      - Searching for elements
+      - All of the above
+      required: true
+    - id: 13
+      name: question_5
+      label: What does the push() method do in JavaScript arrays
+      hint: null
+      type: select_one
+      options:
+      - Adds an element to the end of the array
+      - Removes the first element
+      - Sorts the array
+      - Returns the length of the array
+      required: true
+    - id: 14
+      name: question_6
+      label: Explain how to find the length of an array
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: section_advanced
+      label: -- Advanced Concepts --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: question_7
+      label: What is a multidimensional array
+      hint: null
+      type: select_one
+      options:
+      - An array that contains other arrays
+      - An array with more than 100 elements
+      - An array with different data types
+      - An array sorted in descending order
+      required: true
+    - id: 17
+      name: question_8
+      label: What is the time complexity of accessing an array element by index
+      hint: null
+      type: select_one
+      options:
+      - O(1) constant time
+      - O(n) linear time
+      - O(log n) logarithmic time
+      - O(n2) quadratic time
+      required: true
+    - id: 18
+      name: question_9
+      label: What is the difference between an array and a list
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_practical
+      label: -- Practical Application --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: question_10
+      label: Write a simple code snippet to create an array and add three elements
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: question_11
+      label: How confident are you in your understanding of array basics
+      hint: null
+      type: select_one
+      options:
+      - Very confident
+      - Confident
+      - Somewhat confident
+      - Not confident
+      - Very unsure
+      required: true
+    - id: 22
+      name: section_reflection
+      label: -- Self-Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: strengths
+      label: What are your strengths in understanding arrays
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: areas_improvement
+      label: Areas you would like to improve
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_feedback
+      label: Any additional feedback or comments
+      hint: null
+      type: text
+      options: []
+      required: false

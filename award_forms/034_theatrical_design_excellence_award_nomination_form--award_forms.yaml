@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Theatrical Design Excellence Award Nomination Form
+    pages:
+    - id: 1
+      name: nomination_date
+      label: Nomination Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: theatre_name
+      label: theatre_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: nomination_year
+      label: Nomination Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: nomination_category
+      label: Nomination Category
+      hint: null
+      type: select_one
+      options:
+      - Nomination Category 1
+      - Nomination Category 2
+      - Nomination Category 3
+      required: false
+    - id: 5
+      name: nomination_subcategory
+      label: Nomination Subcategory
+      hint: Please specify subcategory
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: nominator_name
+      label: Nominator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: nominator_email
+      label: Nominator Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: nominator_phone
+      label: Nominator Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: nominator_institution
+      label: Nominator Institution
+      hint: Nominator institution or school
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: nominator_role
+      label: Nominator Role
+      hint: Nominator's role in the production
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: supporting_materials
+      label: Supporting Materials
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: nomination_details
+      label: Nomination Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: nominator_comments
+      label: Nominator Comments
+      hint: null
+      type: text
+      options: []
+      required: false

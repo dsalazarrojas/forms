@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Optical Service Appointment Request Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_message
+      label: Patient Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: available_date
+      label: Available Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: available_time
+      label: Available Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: selected_doctor
+      label: Selected Doctor
+      hint: null
+      type: select_one
+      options:
+      - Dr. John
+      - Dr. Jane
+      - Dr. Doe
+      required: false
+    - id: 11
+      name: appointment_duration
+      label: Appointment Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: schedule_confirmation
+      label: Schedule Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: confirm_appointment
+      label: Confirm Appointment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: confirm_appointment_date
+      label: Confirm Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: confirm_appointment_time
+      label: Confirm Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: confirm_appointment_status
+      label: Confirm Appointment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Confirmed
+      - Rescheduled
+      - Cancelled
+      required: false
+    - id: 19
+      name: confirm_appointment_comments
+      label: Confirm Appointment Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: confirm_patient_message
+      label: Confirm Patient Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: confirm_doctor_name
+      label: Confirm Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: confirm_schedule_status
+      label: Confirm Schedule Status
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Rescheduled
+      - Cancelled
+      required: false
+    - id: 25
+      name: confirm_schedule_date
+      label: Confirm Schedule Date
+      hint: null
+      type: date
+      options: []
+      required: false

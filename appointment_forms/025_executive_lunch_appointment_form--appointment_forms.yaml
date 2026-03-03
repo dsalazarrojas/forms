@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: executive_lunch_appointment_form
+    pages:
+    - id: 1
+      name: meeting_request
+      label: Meeting Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: meeting_time
+      label: Meeting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: meeting_venue
+      label: Meeting Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attendees
+      label: Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: meeting_subject
+      label: Meeting Subject
+      hint: null
+      type: text
+      options: []
+      required: false

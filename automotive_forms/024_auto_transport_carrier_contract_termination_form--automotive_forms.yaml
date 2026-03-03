@@ -1,0 +1,383 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Transport Carrier Contract Termination Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Carrier Contract Termination
+      hint: Complete this form to terminate your carrier contract
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_info
+      label: Company Information
+      hint: Carrier company details
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: Legal company name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_address
+      label: Company Address
+      hint: Business address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: city
+      label: City
+      hint: City of business
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: state
+      label: State
+      hint: State of business
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Florida
+      - Georgia
+      - Other
+      required: true
+    - id: 7
+      name: zip_code
+      label: ZIP Code
+      hint: 5-digit ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_person
+      label: Contact Person
+      hint: Primary contact name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_title
+      label: Contact Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: email
+      label: Email Address
+      hint: Business email
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone
+      label: Phone Number
+      hint: Business phone
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contract_info
+      label: Contract Information
+      hint: Details about the contract
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: contract_number
+      label: Contract Number
+      hint: Your contract ID
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: contract_start_date
+      label: Contract Start Date
+      hint: When did it begin
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: contract_type
+      label: Contract Type
+      hint: Type of agreement
+      type: select_one
+      options:
+      - Independent Carrier
+      - Fleet Carrier
+      - Owner Operator
+      - Regional Carrier
+      - National Carrier
+      - Other
+      required: true
+    - id: 16
+      name: mc_number
+      label: MC Number
+      hint: Motor Carrier number
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: dot_number
+      label: DOT Number
+      hint: Department of Transportation number
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: termination_info
+      label: Termination Information
+      hint: Details about termination
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: termination_date
+      label: Requested Termination Date
+      hint: When should it end
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: termination_reason
+      label: Reason for Termination
+      hint: Why are you terminating
+      type: select_one
+      options:
+      - Business Closure
+      - Retirement
+      - Switching Companies
+      - Contract Dispute
+      - Financial Reasons
+      - Health Reasons
+      - Other
+      required: true
+    - id: 21
+      name: termination_reason_details
+      label: Reason Details
+      hint: Please elaborate
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: notice_period
+      label: Notice Period
+      hint: How much notice
+      type: select_one
+      options:
+      - Immediate
+      - 15 Days
+      - 30 Days
+      - 60 Days
+      - 90 Days
+      required: true
+    - id: 23
+      name: pending_loads
+      label: Pending Loads
+      hint: Do you have active shipments
+      type: select_one
+      options:
+      - No Pending Loads
+      - Yes 1-5 Loads
+      - Yes 6-10 Loads
+      - Yes Over 10 Loads
+      required: true
+    - id: 24
+      name: pending_loads_details
+      label: Pending Loads Details
+      hint: List load numbers
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: completion_plan
+      label: Completion Plan
+      hint: How will you finish pending
+      type: select_one
+      options:
+      - Complete All Before Termination
+      - Transfer to Another Carrier
+      - Company Will Reassign
+      - Other
+      required: true
+    - id: 26
+      name: equipment_info
+      label: Equipment Information
+      hint: Company equipment details
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: company_equipment
+      label: Company Equipment on Hand
+      hint: Do you have company equipment
+      type: select_one
+      options:
+      - No Equipment
+      - Yes Will Return
+      - Yes Already Returned
+      required: true
+    - id: 28
+      name: equipment_list
+      label: Equipment List
+      hint: List items to return
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: return_date
+      label: Equipment Return Date
+      hint: When will you return
+      type: date
+      options: []
+      required: false
+    - id: 30
+      name: financial_info
+      label: Financial Information
+      hint: Payment details
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: outstanding_payments
+      label: Outstanding Payments Due
+      hint: Are you owed money
+      type: select_one
+      options:
+      - false
+      - Yes Under $1000
+      - Yes $1000-$5000
+      - Yes Over $5000
+      required: true
+    - id: 32
+      name: payments_owed
+      label: Payments Owed to Company
+      hint: Do you owe money
+      type: select_one
+      options:
+      - false
+      - Yes Will Pay
+      - Yes Need Arrangement
+      required: true
+    - id: 33
+      name: final_payment_method
+      label: Final Payment Method
+      hint: How to receive final payment
+      type: select_one
+      options:
+      - Direct Deposit
+      - Check by Mail
+      - Wire Transfer
+      - Other
+      required: false
+    - id: 34
+      name: bank_name
+      label: Bank Name
+      hint: For direct deposit
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: account_number
+      label: Account Number
+      hint: Last 4 digits
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: access_info
+      label: Access and Credentials
+      hint: System access
+      type: note
+      options: []
+      required: false
+    - id: 37
+      name: system_access
+      label: System Access
+      hint: Do you have system logins
+      type: select_one
+      options:
+      - Yes Will Disable
+      - Already Disabled
+      - No Access
+      required: true
+    - id: 38
+      name: credentials_returned
+      label: Credentials Returned
+      hint: IDs badges etc
+      type: select_one
+      options:
+      - Not Applicable
+      - Yes Returned
+      - Will Return
+      required: false
+    - id: 39
+      name: additional_info
+      label: Additional Information
+      hint: Anything else
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: future_relationship
+      label: Future Relationship
+      hint: Would you work with us again
+      type: select_one
+      options:
+      - Yes Definitely
+      - Possibly
+      - false
+      - Not Sure
+      required: false
+    - id: 41
+      name: feedback
+      label: Feedback
+      hint: Comments about experience
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: authorization
+      label: Authorization
+      hint: I authorize this termination
+      type: select_one
+      options:
+      - I Agree and Authorize
+      - I Do Not Agree
+      required: true
+    - id: 43
+      name: authorized_signature
+      label: Authorized Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 44
+      name: signature_date
+      label: Date of Signature
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 45
+      name: printed_name
+      label: Printed Name
+      hint: Name as it should appear
+      type: text
+      options: []
+      required: true

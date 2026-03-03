@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: ISO 27001 Risk Assessment Form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: risk_assessment
+      label: Risk Assessment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: priority
+      label: Priority (High, Medium, Low)
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: risk_level
+      label: Risk Level (High, Medium, Low)
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 6
+      name: risk_type
+      label: Risk Type (Physical, Cyber, Data)
+      hint: null
+      type: select_one
+      options:
+      - Physical
+      - Cyber
+      - Data
+      required: true
+    - id: 7
+      name: risk_frequency
+      label: Risk Frequency (Daily, Weekly, Monthly)
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 8
+      name: risk_probability
+      label: Risk Probability (High, Medium, Low)
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 9
+      name: risk_owners
+      label: Risk Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: risk_action
+      label: Risk Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: review_by
+      label: Review By
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: subcategory
+      label: Subcategory
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: asset_tag
+      label: Asset Tag
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: risk_rating
+      label: Risk Rating (0-5)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: risk_rating_scale
+      label: Risk Rating Scale
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: risk_rating_description
+      label: Risk Rating Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: control
+      label: Control
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: control_type
+      label: Control Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: control_effectiveness
+      label: Control Effectiveness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

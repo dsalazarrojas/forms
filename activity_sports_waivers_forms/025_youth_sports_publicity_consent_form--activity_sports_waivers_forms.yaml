@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Sports Publicity Consent Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: birthdate
+      label: birthdate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: publicity_image
+      label: publicity_image
+      hint: null
+      type: select_multiple
+      options:
+      - Image 1
+      - Image 2
+      - Image 3
+      required: true
+    - id: 9
+      name: publicity_audio
+      label: publicity_audio
+      hint: null
+      type: select_multiple
+      options:
+      - Audio 1
+      - Audio 2
+      required: false
+    - id: 10
+      name: publicity_video
+      label: publicity_video
+      hint: null
+      type: select_multiple
+      options:
+      - Video 1
+      - Video 2
+      required: true

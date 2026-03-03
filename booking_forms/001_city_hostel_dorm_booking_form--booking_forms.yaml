@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: City Hostel Dorm Booking Form
+    pages:
+    - id: 1
+      name: personal_info_header
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: We will use this to confirm your booking
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Include country code if international
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: nationality
+      label: Nationality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: booking_details_header
+      label: -- Booking Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: check_in_date
+      label: Check-in Date
+      hint: Select your arrival date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: check_out_date
+      label: Check-out Date
+      hint: Select your departure date
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: number_of_nights
+      label: Number of Nights
+      hint: This will be calculated automatically
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: room_type
+      label: Room Type
+      hint: Select your preferred accommodation
+      type: select_one
+      options:
+      - 4-bed dorm
+      - 6-bed dorm
+      - 8-bed dorm
+      - Private room
+      required: true
+    - id: 11
+      name: bed_preference
+      label: Bed Preference
+      hint: null
+      type: select_one
+      options:
+      - Lower bed
+      - Upper bed
+      - No preference
+      required: false
+    - id: 12
+      name: number_of_guests
+      label: Number of Guests
+      hint: How many people are checking in
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: breakfast_included
+      label: Include Breakfast
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 14
+      name: special_requests
+      label: Special Requests
+      hint: Any additional needs or requests
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: payment_header
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - PayPal
+      - Bank transfer
+      required: true
+    - id: 17
+      name: cancellation_policy
+      label: I agree to the cancellation policy
+      hint: Review our full cancellation terms online
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I decline
+      required: true
+    - id: 18
+      name: newsletter_signup
+      label: Subscribe to our newsletter
+      hint: Get updates on special offers and events
+      type: select_one
+      options:
+      - true
+      - false
+      required: false

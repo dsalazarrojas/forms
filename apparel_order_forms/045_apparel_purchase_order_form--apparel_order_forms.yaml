@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Apparel Purchase Order Form
+    pages:
+    - id: 1
+      name: po_number
+      label: Purchase Order (PO) Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: supplier_details_header
+      label: -- Supplier Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: supplier_name
+      label: Supplier Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: supplier_contact_email
+      label: Supplier Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: order_logistics_header
+      label: -- Logistics and Billing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - Sea Freight
+      - Air Freight
+      - Ground Transport
+      - Express Courier
+      required: true
+    - id: 9
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: item_details_header
+      label: -- Itemized Order --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: item_name
+      label: Item Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: quantity
+      label: Total Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: unit_price
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: tax_rate
+      label: Applicable Tax Rate (%)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: total_amount_due
+      label: Total Amount Due
+      hint: Calculated after tax
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: authorization_signature
+      label: Authorized By (Signature Name)
+      hint: null
+      type: text
+      options: []
+      required: true

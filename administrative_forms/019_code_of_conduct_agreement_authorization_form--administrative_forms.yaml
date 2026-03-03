@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: Code Of Conduct Agreement Authorization Form
+    pages:
+    - id: 1
+      name: section_participant
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: organization
+      label: Organization or Program
+      hint: Name of group or event
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: role
+      label: Role or Position
+      hint: Participant, volunteer, staff, etc
+      type: select_one
+      options:
+      - Participant
+      - Volunteer
+      - Staff Member
+      - Leader
+      - Student
+      - Other
+      required: true
+    - id: 8
+      name: section_acknowledgement
+      label: -- Code of Conduct Acknowledgement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: read_code
+      label: I have read and understand the Code of Conduct
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: agree_respect
+      label: I agree to treat all persons with respect and dignity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: agree_no_harassment
+      label: I agree not to engage in harassment or discrimination
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: agree_no_violence
+      label: I agree not to engage in violence or threats
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: agree_follow_rules
+      label: I agree to follow all rules and procedures
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: agree_no_substance
+      label: I agree not to use illegal substances
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: agree_safe_environment
+      label: I agree to maintain a safe environment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: agree_report
+      label: I agree to report violations of this Code
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: section_understanding
+      label: -- Consequences Understanding --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: understand_consequences
+      label: I understand violations may result in removal or disciplinary action
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: section_voluntary
+      label: -- Voluntary Participation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: voluntary
+      label: I am signing this agreement voluntarily
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: have_questions
+      label: Do you have questions about the Code of Conduct
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: questions_details
+      label: Questions or Concerns
+      hint: If you have questions, please describe them
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: section_authorization
+      label: -- Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: parent_guardian_needed
+      label: Parent or Guardian consent needed
+      hint: Required if participant is under 18
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: If consent is required
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: parent_signature_method
+      label: Parent Consent Method
+      hint: How will parent provide consent
+      type: select_one
+      options:
+      - Digital Signature
+      - Email Confirmation
+      - Paper Signature
+      - Phone Call
+      required: false
+    - id: 27
+      name: agreement_date
+      label: Date of Agreement
+      hint: null
+      type: date
+      options: []
+      required: true

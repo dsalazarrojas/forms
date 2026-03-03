@@ -1,0 +1,184 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Agent Removal Request Form
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Requestor Name
+      hint: Enter the name of the person requesting the agent removal
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requestor_position
+      label: Requestor Position
+      hint: Enter the position/title of the requestor
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requestor_email
+      label: Requestor Email
+      hint: Enter the email address of the requestor
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: request_date
+      label: Request Date
+      hint: Enter the date when this request is submitted
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: agent_details_header
+      label: -- Agent Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: agent_full_name
+      label: Agent Full Name
+      hint: Enter the full name of the agent to be removed
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: agent_id
+      label: Agent ID
+      hint: Enter the unique identifier for the agent
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: agent_position
+      label: Agent Position
+      hint: Enter the position/title of the agent
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: department_team
+      label: Department/Team
+      hint: Enter the department or team the agent belongs to
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: removal_reason_header
+      label: -- Removal Reason --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: reason_for_removal
+      label: Reason for Removal
+      hint: Select the primary reason for the agent removal
+      type: select_one
+      options: ["Termination of Employment", "Role Change", "Contract Expiration", "Performance Issues", "Policy Violation", "Voluntary Resignation", "Project Completion", "Other"]
+      required: true
+    - id: 12
+      name: detailed_reason
+      label: Detailed Reason
+      hint: Provide a detailed explanation for the removal
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: effective_date
+      label: Effective Date
+      hint: Enter the date when the removal should take effect
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: access_revocation_header
+      label: -- Access Revocation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: systems_access_to_be_revoked
+      label: Systems Access to be Revoked
+      hint: List the systems, accounts, or access that needs to be revoked
+      type: select_multiple
+      options: ["Email Account", "CRM System", "Database Access", "Financial Systems", "HR Portal", "VPN Access", "Physical Access Cards", "Application Licenses", "Other"]
+      required: true
+    - id: 16
+      name: additional_access_points
+      label: Additional Access Points
+      hint: If 'Other' was selected, specify additional access points
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: asset_return_obligations
+      label: Asset Return Obligations
+      hint: List any assets that need to be returned
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: approval_authorization_header
+      label: -- Approval and Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: hr_manager_approval
+      label: HR Manager Approval
+      hint: HR manager approval required
+      type: select_one
+      options: ["Approved", "Pending", "Rejected"]
+      required: true
+    - id: 20
+      name: hr_manager_name
+      label: HR Manager Name
+      hint: Enter the name of the HR manager approving this request
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: department_head_approval
+      label: Department Head Approval
+      hint: Department head approval required
+      type: select_one
+      options: ["Approved", "Pending", "Rejected"]
+      required: true
+    - id: 22
+      name: department_head_name
+      label: Department Head Name
+      hint: Enter the name of the department head approving this request
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_approvals_needed
+      label: Additional Approvals Needed
+      hint: Are there any other approvals needed for this removal?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_actions
+      label: Follow-up Actions
+      hint: What follow-up actions need to be taken after removal?
+      type: text
+      options: []
+      required: false

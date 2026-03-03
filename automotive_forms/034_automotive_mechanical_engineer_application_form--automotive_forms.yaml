@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automotive Mechanical Engineer Application Form
+    pages:
+    - id: 1
+      name: section_header_personal
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: current_address
+      label: Current Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_education
+      label: -- Education --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: highest_degree
+      label: Highest Degree
+      hint: null
+      type: select_one
+      options:
+      - Bachelor of Science
+      - Master of Science
+      - PhD
+      - Professional Degree
+      required: true
+    - id: 8
+      name: major
+      label: Major/Field of Study
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: university
+      label: University or Institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: graduation_year
+      label: Graduation Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: gpa
+      label: GPA (if above 3.0)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: section_header_experience
+      label: -- Professional Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: years_experience
+      label: Years of Mechanical Engineering Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: automotive_years
+      label: Years of Automotive Industry Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: current_employer
+      label: Current or Most Recent Employer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_header_technical
+      label: -- Technical Skills --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: cad_software
+      label: CAD Software Proficiency
+      hint: Select all you are proficient in
+      type: select_multiple
+      options:
+      - AutoCAD
+      - SolidWorks
+      - CATIA
+      - Pro/ENGINEER
+      - Fusion 360
+      - NX
+      - Other
+      required: true
+    - id: 18
+      name: simulation_tools
+      label: Simulation and Analysis Tools
+      hint: ANSYS, CFX, etc.
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: programming_languages
+      label: Programming Languages Known
+      hint: C++, Python, MATLAB, etc.
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_header_specialization
+      label: -- Specialization Areas --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: specializations
+      label: Areas of Specialization
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Vehicle Dynamics
+      - Powertrain
+      - Chassis
+      - Thermal Management
+      - Emissions
+      - Electric Vehicles
+      - Autonomous Systems
+      - Safety Systems
+      - Manufacturing
+      required: true
+    - id: 22
+      name: section_header_certifications
+      label: -- Certifications and Licensing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: professional_licenses
+      label: Professional Licenses or Certifications
+      hint: PE, CSWA, etc.
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: section_header_motivation
+      label: -- Position Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: interest_statement
+      label: Why Are You Interested in This Position
+      hint: null
+      type: text
+      options: []
+      required: true

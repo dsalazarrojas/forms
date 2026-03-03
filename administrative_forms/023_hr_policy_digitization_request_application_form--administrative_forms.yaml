@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR Policy Digitization Request Application Form
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Requestor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: policy_type
+      label: Policy Type
+      hint: null
+      type: select_one
+      options:
+      - Digital
+      - Non-Digital
+      - Hybrid
+      required: false
+    - id: 5
+      name: policy_name
+      label: Policy Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: justification
+      label: Justification
+      hint: null
+      type: text
+      options: []
+      required: false

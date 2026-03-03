@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Project Extension Form
+    pages:
+    - id: 1
+      name: section_project_ident
+      label: -- Project and Contract Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: Full Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_id
+      label: Project ID or Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: original_contract_completion
+      label: Original Contract Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: current_contract_completion
+      label: Current (Revised) Completion Date
+      hint: If already extended once
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: lead_requestor_name
+      label: Requesting Party Name and Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_extension_req
+      label: -- Extension Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: requested_extension_days
+      label: Total Additional Calendar Days Requested
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: requested_new_completion_date
+      label: Requested New Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: extension_reason_category
+      label: Primary Reason for Extension
+      hint: null
+      type: select_one
+      options:
+      - Weather Delays (Excusable)
+      - Material Shortage/Supply Chain Delay
+      - Labor Shortage/Strike
+      - Design Changes/Scope Revisions
+      - Regulatory/Permit Delay
+      - Unforeseen Site Conditions
+      - Force Majeure
+      - Other
+      required: true
+    - id: 11
+      name: detailed_justification
+      label: Detailed Justification for Extension
+      hint: Describe specific events and their impact on the critical path
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: critical_path_impact_desc
+      label: Impact on Critical Path
+      hint: How did this event directly delay the project end date?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_financial_impact
+      label: -- Financial Impact and Costs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: additional_costs_req
+      label: Estimated Additional Costs Associated with Extension ($)
+      hint: e.g., General conditions, extended overhead, storage
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: section_mitigation_actions
+      label: -- Mitigation Actions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: mitigation_steps_taken
+      label: Steps taken to mitigate the delay
+      hint: e.g., Re-sequencing tasks, added labor/shifts
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: section_auth_submission
+      label: -- Authorization and Submission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: supporting_docs_ready
+      label: Supporting Documentation Ready for Review
+      hint: Schedule updates, weather logs, photos, etc.
+      type: select_one
+      options:
+      - Yes - Attached to email
+      - Yes - Available in Project Portal
+      - No - In Preparation
+      required: true
+    - id: 19
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submission_date
+      label: Date of Request Submission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: manager_approval_name_label
+      label: Project Manager Approval Name
+      hint: null
+      type: text
+      options: []
+      required: true

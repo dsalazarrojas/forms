@@ -1,0 +1,146 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Colonization Impact Assessment
+    pages:
+      - id: 1
+        name: researcher_name
+        label: Lead Researcher or Organization Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: assessment_date
+        label: Assessment Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: geographic_location
+        label: Geographic Location of Assessment
+        hint: Country, Region, or Territory
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: affected_communities
+        label: Primarily Affected Communities or Indigenous Groups
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: section_impact_categories
+        label: -- Impact Categories --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: cultural_impact_severity
+        label: Cultural Impact Severity
+        hint: Loss of language, traditions, or spiritual practices
+        type: select_one
+        options:
+          - Minimal
+          - Moderate
+          - Significant
+          - Severe
+          - Critical
+        required: true
+      - id: 7
+        name: land_displacement_status
+        label: Land and Territory Displacement Status
+        hint: null
+        type: select_one
+        options:
+          - No Displacement
+          - Partial Displacement
+          - Total Displacement
+          - Forced Relocation to Reservation
+        required: true
+      - id: 8
+        name: economic_impact_details
+        label: Economic Impact and Resource Extraction
+        hint: Description of resource loss or economic marginalization
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: social_structure_disruption
+        label: Disruption to Social and Political Structures
+        hint: Breakdown of traditional governance systems
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: section_health_indicators
+        label: -- Health and Well-being Indicators --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: health_disparities
+        label: Are there significant health disparities noted?
+        hint: Compared to colonizing or dominant populations
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Unsure
+        required: true
+      - id: 12
+        name: intergenerational_trauma_assessment
+        label: Evidence of Intergenerational Trauma
+        hint: null
+        type: select_one
+        options:
+          - Low
+          - Medium
+          - High
+        required: true
+      - id: 13
+        name: section_mitigation
+        label: -- Mitigation and Recovery --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: current_mitigation_efforts
+        label: Ongoing Mitigation or Restorative Efforts
+        hint: Describe any revitalization or reparations programs
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: recovery_potential
+        label: Recovery and Revitalization Potential
+        hint: null
+        type: select_one
+        options:
+          - Limited
+          - Developing
+          - Strong
+        required: false
+      - id: 16
+        name: additional_observations
+        label: Additional Field Observations
+        hint: null
+        type: text
+        options: []
+        required: false

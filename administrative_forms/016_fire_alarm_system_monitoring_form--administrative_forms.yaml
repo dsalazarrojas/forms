@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Alarm System Monitoring Form
+    pages:
+    - id: 1
+      name: fire_alarm_system_monitoring_form
+      label: Fire Alarm System Monitoring Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Administrative Forms
+      - Other
+      required: true
+    - id: 3
+      name: fire_alarm_system_monitoring_form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: fire_alarm_system_monitoring_form_description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 6
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: fire_alarm_system_monitoring_form_id
+      label: Fire Alarm System Monitoring Form ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: form_version
+      label: Form Version
+      hint: null
+      type: text
+      options: []
+      required: false

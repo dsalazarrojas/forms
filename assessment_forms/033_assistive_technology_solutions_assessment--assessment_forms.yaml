@@ -1,0 +1,218 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Assistive Technology Solutions Assessment
+    pages:
+      - id: 1
+        name: referral_date
+        label: Referral Date
+        hint: Date of assessment request
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: individual_first_name
+        label: Individual First Name
+        hint: Person needing assessment
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: individual_last_name
+        label: Individual Last Name
+        hint: Last name
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: individual_id
+        label: Individual ID Number
+        hint: Medical record or ID
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: date_of_birth
+        label: Date of Birth
+        hint: Birth date
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: referring_agency
+        label: Referring Agency or Professional
+        hint: Who referred them?
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: assessment_environment
+        label: Assessment Environment
+        hint: Where do they need technology?
+        type: select_one
+        options:
+          - Home
+          - School
+          - Work
+          - Community
+          - Medical Setting
+          - Multiple Environments
+        required: true
+      - id: 8
+        name: primary_disability
+        label: Primary Disability or Condition
+        hint: Main condition needing support
+        type: select_one
+        options:
+          - Physical Disability
+          - Vision Impairment
+          - Hearing Impairment
+          - Cognitive Disability
+          - Speech/Language Disorder
+          - Multiple Disabilities
+          - Temporary Condition
+          - Other
+        required: true
+      - id: 9
+        name: disability_details
+        label: Details of Disability
+        hint: More specific information
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: functional_limitations
+        label: Functional Limitations
+        hint: What activities are limited?
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: current_technology
+        label: Current Assistive Technology in Use
+        hint: What AT do they use now?
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: technology_effectiveness
+        label: Effectiveness of Current Technology
+        hint: How well does current tech work?
+        type: select_one
+        options:
+          - Very Effective
+          - Moderately Effective
+          - Somewhat Effective
+          - Not Effective
+          - No Current Technology
+        required: true
+      - id: 13
+        name: technology_needs
+        label: Identified Technology Needs
+        hint: What areas need AT support?
+        type: select_multiple
+        options:
+          - Mobility and Positioning
+          - Communication
+          - Computer Access
+          - Environmental Control
+          - Vision Enhancement
+          - Hearing Augmentation
+          - Cognitive Support
+          - Activities of Daily Living
+        required: true
+      - id: 14
+        name: mobility_needs
+        label: Mobility and Positioning Needs
+        hint: Specific mobility requirements
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: communication_needs
+        label: Communication and Speech Needs
+        hint: Communication support needed?
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: computer_access_needs
+        label: Computer and Digital Access Needs
+        hint: How do they access computers?
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: independent_living_goals
+        label: Independent Living Goals
+        hint: What do they want to achieve?
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: work_capacity_assessment
+        label: Work Capacity Assessment
+        hint: Employment potential and goals
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: learning_style
+        label: Learning Style and Technology Comfort
+        hint: How do they learn best?
+        type: text
+        options: []
+        required: true
+      - id: 20
+        name: budget_constraints
+        label: Budget Constraints
+        hint: Funding available or limitations?
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: home_environment
+        label: Home Environment Evaluation
+        hint: Details about living space
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: support_system
+        label: Family and Support System
+        hint: Who helps them?
+        type: text
+        options: []
+        required: true
+      - id: 23
+        name: assessment_notes
+        label: Additional Assessment Notes
+        hint: Any other relevant information
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: assessor_name
+        label: Assessor Name
+        hint: Who conducted this assessment?
+        type: text
+        options: []
+        required: true
+      - id: 25
+        name: assessment_completion_date
+        label: Assessment Completion Date
+        hint: Date assessment was finished
+        type: date
+        options: []
+        required: true

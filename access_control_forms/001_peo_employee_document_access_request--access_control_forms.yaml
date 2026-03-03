@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: PEO Employee Document Access Request
+    pages:
+    - id: 1
+      name: peo_employee_document_access_request_page_1
+      label: peo_employment_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: peo_employee_id
+      label: peo_employee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: peo_employee_name
+      label: peo_employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: peo_department
+      label: peo_department
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: peo_job_title
+      label: peo_job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: peo_document_type
+      label: peo_document_type
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 7
+      name: peo_document_name
+      label: peo_document_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: peo_request_date
+      label: peo_request_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: peo_expiration_date
+      label: peo_expiration_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: peo_status
+      label: peo_status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: peo_comment
+      label: peo_comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: peo_manager_name
+      label: peo_manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: peo_manager_department
+      label: peo_manager_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: peo_approval_status
+      label: peo_approval_status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 15
+      name: peo_request_type
+      label: peo_request_type
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 16
+      name: peo_document_status
+      label: peo_document_status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 17
+      name: peo_approval_date
+      label: peo_approval_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: peo_requester
+      label: peo_requester
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 19
+      name: peo_approver
+      label: peo_approver
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 20
+      name: peo_document_access_level
+      label: peo_document_access_level
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false

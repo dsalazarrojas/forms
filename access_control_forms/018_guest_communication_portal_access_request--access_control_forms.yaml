@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guest Communication Portal Access Request
+    pages:
+    - id: 1
+      name: guest_communication_portal_access_request
+      label: guest_communication_portal_access_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: guest_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: purpose
+      label: purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: access_duration
+      label: access_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: contact_notes
+      label: contact_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: access_type
+      label: access_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: access_duration_start
+      label: access_duration_start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: access_duration_end
+      label: access_duration_end
+      hint: null
+      type: date
+      options: []
+      required: false

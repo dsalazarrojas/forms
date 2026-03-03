@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Director Election Ballot
+    pages:
+    - id: 1
+      name: election_ballot
+      label: Select Your Candidates
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: candidate_1
+      label: Candidate 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: candidate_2
+      label: Candidate 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: candidate_3
+      label: Candidate 3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: candidate_4
+      label: Candidate 4
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: submit_button
+      label: Cast Vote
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

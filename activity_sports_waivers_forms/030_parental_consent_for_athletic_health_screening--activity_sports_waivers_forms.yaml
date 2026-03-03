@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parental Consent For Athletic Health Screening
+    pages:
+    - id: 1
+      name: guardian_name
+      label: Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: guardian_contact_info
+      label: Guardian Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guardian_address
+      label: Guardian Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: guardian_relationship
+      label: Guardian Relationship
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Emergency Contact
+      - Other
+      required: true
+    - id: 5
+      name: guardian_permission
+      label: Guardian Permission
+      hint: null
+      type: select_multiple
+      options:
+      - Permission Given
+      - Permission Not Given
+      required: true
+    - id: 6
+      name: guardian_signature
+      label: Guardian Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: doctor_info
+      label: Doctor Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: health_notes
+      label: Medical Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: text
+      options: []
+      required: false

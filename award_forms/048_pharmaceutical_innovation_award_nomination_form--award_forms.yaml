@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: pharmaceutical_innovation_award_nomination_form
+    pages:
+    - id: 1
+      name: nomination_details
+      label: Nomination Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: award_category
+      label: Award Category
+      hint: null
+      type: select_multiple
+      options:
+      - Innovation in Drug Development
+      - Innovation in Manufacturing
+      - Innovation in Medical Devices
+      required: false
+    - id: 3
+      name: award_recipient_name
+      label: Award Recipient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: award_recipient_email
+      label: Award Recipient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: nomination_reason
+      label: Nomination Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false
+    - id: 14
+      name: submission_comments
+      label: Submission Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submission_date_time
+      label: Submission Date Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submission_notes
+      label: Submission Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: submission_attachments
+      label: Submission Attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submission_attachments_count
+      label: Attachments Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: submission_attachment_type
+      label: Attachment Type
+      hint: null
+      type: select_one
+      options:
+      - Image
+      - Document
+      - Video
+      - Audio
+      required: false
+    - id: 20
+      name: submission_attachment_url
+      label: Attachment URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submission_attachment_size
+      label: Attachment Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: submission_attachment_mime_type
+      label: Attachment MIME Type
+      hint: null
+      type: select_one
+      options:
+      - application/pdf
+      - application/msword
+      - application/vnd.openxmlformats-officedocument
+      - image/jpeg
+      - image/png
+      - application/x-zip
+      required: false
+    - id: 23
+      name: submission_attachment_description
+      label: Attachment Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submission_attachment_tags
+      label: Attachment Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_attachment_comment
+      label: Attachment Comment
+      hint: null
+      type: text
+      options: []
+      required: false

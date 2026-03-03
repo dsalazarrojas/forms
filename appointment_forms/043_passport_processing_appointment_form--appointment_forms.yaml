@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: passport_processing_appointment_form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - French
+      - Spanish
+      required: false
+    - id: 4
+      name: schedule_time
+      label: Schedule Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: schedule_date
+      label: Schedule Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: passport_number
+      label: Passport Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatbot
+      - human_agent
+      required: false
+    - id: 9
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Appointment Forms
+      - Application Forms
+      - User Forms
+      required: false

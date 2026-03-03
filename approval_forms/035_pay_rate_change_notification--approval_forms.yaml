@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pay Rate Change Notification
+    pages:
+    - id: 1
+      name: employee_id
+      label: employee id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: manager_approvals
+      label: manager approvals
+      hint: Select up to 3 managers who will receive notifications
+      type: select_multiple
+      options:
+      - John Doe
+      - Jane Doe
+      - Bob Smith
+      required: false
+    - id: 3
+      name: pay_rate_change_date
+      label: Pay Rate Change Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: pay_rate_effective_date
+      label: Pay Rate Effective Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: old_pay_rate
+      label: Old Pay Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: new_pay_rate
+      label: New Pay Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: reason_for_change
+      label: Reason for Change
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notification_method
+      label: Notification Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - In-person
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

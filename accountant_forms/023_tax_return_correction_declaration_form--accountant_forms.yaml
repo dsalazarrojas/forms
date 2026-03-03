@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Return Correction Declaration Form
+    pages:
+    - id: 1
+      name: tax_return_correction_form
+      label: Tax Return Correction Declaration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: correction_amount
+      label: Correction Amount
+      hint: The amount of the correction
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: reason_for_correction
+      label: Reason For Correction
+      hint: Reason for the tax return correction
+      type: select_one
+      options:
+      - Correcting a mistake on the original return
+      - Adjusting an item not reported
+      - Adjusting an item incorrectly reported
+      - Other (please specify)
+      required: false
+    - id: 4
+      name: other_reason_for_correction
+      label: Other Reason For Correction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_correction
+      label: Date Of Correction
+      hint: Date of the correction
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_correction
+      label: Time Of Correction
+      hint: Time of the correction
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: signed_by
+      label: Signed By
+      hint: Name of person signing the correction
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_signed
+      label: Date Signed
+      hint: Date of signature
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_signed
+      label: Time Signed
+      hint: Time of signature
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: declaration_of_correction
+      label: Declaration Of Correction
+      hint: Declaration of correction
+      type: select_multiple
+      options:
+      - I/We have read and understood the terms and conditions
+      - I/We have reviewed and understand the original return
+      - I/We have made the necessary corrections and adjustments
+      - I/We confirm that all corrections are accurate and complete
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: Additional comments or notes
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Technology Survey
+    pages:
+    - id: 1
+      name: respondent_role
+      label: Your Role in Accounting
+      hint: Select your primary role in the accounting field
+      type: select_one
+      options:
+      - Staff Accountant
+      - Senior Accountant
+      - Manager
+      - Director
+      - CFO
+      - IT Specialist
+      - Student
+      - Other
+      required: true
+    - id: 2
+      name: organization_size
+      label: Size of Your Organization
+      hint: How many employees does your organization have
+      type: select_one
+      options:
+      - 1-10 employees
+      - 11-50 employees
+      - 51-200 employees
+      - 201-500 employees
+      - 501-1000 employees
+      - Over 1000 employees
+      required: true
+    - id: 3
+      name: primary_accounting_software
+      label: Primary Accounting Software Used
+      hint: Which accounting software does your organization primarily use
+      type: select_one
+      options:
+      - QuickBooks Online
+      - QuickBooks Desktop
+      - Xero
+      - Sage
+      - SAP
+      - Oracle NetSuite
+      - Microsoft Dynamics
+      - FreshBooks
+      - Wave
+      - Other
+      required: true
+    - id: 4
+      name: software_satisfaction
+      label: Satisfaction with Current Accounting Software
+      hint: How satisfied are you with your current accounting software
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 5
+      name: automation_tools_used
+      label: Automation Tools Currently Used
+      hint: Select all automation tools your accounting team uses
+      type: select_multiple
+      options:
+      - Robotic Process Automation (RPA)
+      - Automated bank reconciliations
+      - Invoice automation
+      - Expense management automation
+      - Payroll automation
+      - Tax preparation software
+      - None
+      - Other
+      required: false
+    - id: 6
+      name: cloud_adoption_level
+      label: Level of Cloud Adoption
+      hint: How extensively does your organization use cloud-based accounting solutions
+      type: select_one
+      options:
+      - No cloud adoption
+      - Limited cloud use
+      - Partial cloud adoption
+      - Mostly cloud-based
+      - Fully cloud-based
+      required: true
+    - id: 7
+      name: data_analytics_tools
+      label: Data Analytics Tools Used
+      hint: Which data analytics tools does your team use for financial analysis
+      type: select_one
+      options:
+      - Excel only
+      - Excel with Power Query/Power Pivot
+      - Tableau
+      - Power BI
+      - QlikView
+      - SAS
+      - Python/R
+      - None
+      - Other
+      required: true
+    - id: 8
+      name: cybersecurity_measures
+      label: Cybersecurity Measures Implemented
+      hint: Select all cybersecurity measures in place for accounting data
+      type: select_multiple
+      options:
+      - Two-factor authentication
+      - Role-based access controls
+      - Regular security audits
+      - Data encryption
+      - VPN access
+      - Employee training
+      - None
+      - Other
+      required: false
+    - id: 9
+      name: technology_challenges
+      label: Biggest Technology Challenges
+      hint: Select the top challenges your accounting team faces with technology
+      type: select_multiple
+      options:
+      - Integration between systems
+      - Data security concerns
+      - Training and adoption
+      - Cost of technology
+      - Keeping up with updates
+      - Lack of IT support
+      - Resistance to change
+      - Data accuracy
+      required: false
+    - id: 10
+      name: ai_ml_adoption
+      label: Adoption of AI/ML Technologies
+      hint: Does your organization use artificial intelligence or machine learning
+        in accounting processes
+      type: select_one
+      options:
+      - Yes, extensively
+      - Yes, in limited applications
+      - Currently evaluating
+      - No, but planning to adopt
+      - No, not interested
+      required: true
+    - id: 11
+      name: technology_budget_percentage
+      label: Percentage of Budget Allocated to Technology
+      hint: Approximately what percentage of your accounting budget goes to technology
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: future_technology_priorities
+      label: Future Technology Priorities
+      hint: Select the top priorities for technology investment in accounting
+      type: select_multiple
+      options:
+      - Cloud migration
+      - Process automation
+      - Data analytics capabilities
+      - Enhanced security
+      - Mobile accessibility
+      - AI/ML implementation
+      - Integration improvements
+      - Reporting tools
+      required: false
+    - id: 13
+      name: additional_technology_feedback
+      label: Additional Feedback on Accounting Technology
+      hint: Any other thoughts about technology in accounting
+      type: text
+      options: []
+      required: false

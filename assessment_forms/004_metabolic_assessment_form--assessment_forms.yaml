@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Metabolic Assessment Form
+    pages:
+    - id: 1
+      name: metabolic_assessment_form
+      label: Initial Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: resting_metabolic_rate
+      label: Resting Metabolic Rate (RMR)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: basal_metabolic_rate
+      label: Basal Metabolic Rate (BMR)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: daily_activity_level
+      label: Daily Activity Level
+      hint: null
+      type: select_multiple
+      options:
+      - Sedentary (little or no exercise)
+      - Lightly active (light exercise/sports 1-2 days a week)
+      - Moderately active (moderate exercise/sports 3-5 days a week)
+      - Very active (hard exercise/sports 6-7 days a week)
+      - Extremely active (very hard exercise/sports and/or physical job or training,
+        day job or training)
+      required: true
+    - id: 5
+      name: weight_kg
+      label: Weight (kg)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: height_cm
+      label: Height (cm)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 9
+      name: height_unit
+      label: Height Unit
+      hint: null
+      type: select_one
+      options:
+      - meters
+      - centimeters
+      required: true
+    - id: 10
+      name: weight_unit
+      label: Weight Unit
+      hint: null
+      type: select_one
+      options:
+      - kilograms
+      - pounds
+      required: true
+    - id: 11
+      name: activity_level
+      label: Activity Level
+      hint: null
+      type: select_one
+      options:
+      - Sedentary (little or no exercise)
+      - Lightly active (light exercise/sports 1-2 days a week)
+      - Moderately active (moderate exercise/sports 3-5 days a week)
+      - Very active (hard exercise/sports 6-7 days a week)
+      - Extremely active (very hard exercise/sports and/or physical job or training,
+        day job or training)
+      required: true
+    - id: 12
+      name: basal_metabolic_rate_formula
+      label: Basal Metabolic Rate Formula
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: resting_metabolic_rate_formula
+      label: Resting Metabolic Rate Formula
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: total_daily_energy_expenditure_formula
+      label: Total Daily Energy Expenditure Formula
+      hint: null
+      type: text
+      options: []
+      required: false

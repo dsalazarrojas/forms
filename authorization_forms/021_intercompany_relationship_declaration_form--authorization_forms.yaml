@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Intercompany Relationship Declaration Form
+    pages:
+    - id: 1
+      name: related_company
+      label: relatedCompany
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: company_type
+      label: companyType
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Company''}'
+      - '{''id'': 2, ''label'': ''Business''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: relationship_status
+      label: relationshipStatus
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Other (please specify)''}'
+      required: false
+    - id: 4
+      name: related_company_description
+      label: relatedCompanyDescription
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: conflict_of_interest
+      label: conflictOfInterest
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: conflict_of_interest_details
+      label: conflictOfInterestDetails
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_start
+      label: dateOfStart
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: company_name
+      label: companyName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: job_title
+      label: jobTitle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: company_address
+      label: companyAddress
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_number
+      label: contactNumber
+      hint: null
+      type: text
+      options: []
+      required: false

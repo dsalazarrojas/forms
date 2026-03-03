@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pre Session Information Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - German
+      - Italian
+      - Portuguese
+      - Chinese
+      - Japanese
+      - Korean
+      - other
+      required: true
+    - id: 5
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: participant_interests
+      label: Participant Interests
+      hint: null
+      type: select_multiple
+      options:
+      - Music
+      - Sports
+      - Hobbies
+      - Travel
+      - Technology
+      - Books
+      - Movies
+      - TV Shows
+      - Video Games
+      - Food
+      - Other
+      required: false
+    - id: 7
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false

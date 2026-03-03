@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: store_compliance_assessment_registration
+    pages:
+    - id: 1
+      name: store_compliance_assessment_registration_page
+      label: store_compliance_assessment_registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: scheduled_audits
+      label: scheduled_audits
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: compliance_areas
+      label: compliance_areas
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: contact_first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: scheduled_audits_0
+      label: scheduled_audits_0
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: monthly_audit_assessment
+    pages:
+    - id: 1
+      name: monthly_audit_form
+      label: Monthly Audit Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: compliance_areas
+      label: Compliance Areas
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Area 1''}'
+      - '{''label'': ''Area 2''}'
+      - '{''label'': ''Area 3''}'
+      required: true
+    - id: 3
+      name: risk_identification
+      label: Risk Identification
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: corrective_actions
+      label: Corrective Actions
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      required: true
+    - id: 5
+      name: audit_frequency
+      label: Audit Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Monthly''}'
+      - '{''label'': ''Quarterly''}'
+      - '{''label'': ''Annually''}'
+      required: true
+    - id: 6
+      name: audit_date
+      label: Audit Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: start_time
+      label: Start Time
+      hint: "12:00am-11:59pm"
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: end_time
+      label: End Time
+      hint: "12:00am-11:59pm"
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Submit and Save''}'
+      - '{''label'': ''Save and Continue''}'
+      required: false
+    - id: 11
+      name: email_notification
+      label: Email Notification
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: assigned_date
+      label: Assigned Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: assigned_time
+      label: Assigned Time
+      hint: "12:00am-11:59pm"
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''New''}'
+      - '{''label'': ''In Progress''}'
+      - '{''label'': ''Completed''}'
+      required: true
+    - id: 18
+      name: completed_by
+      label: Completed By
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''User 1''}'
+      - '{''label'': ''User 2''}'
+      - '{''label'': ''User 3''}'
+      - '{''label'': ''User 4''}'
+      required: true
+    - id: 19
+      name: completed_date
+      label: Completed Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: completed_time
+      label: Completed Time
+      hint: "12:00am-11:59pm"
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: comments_completed
+      label: Comments Completed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: review
+      label: Review
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 23
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: review_by
+      label: Reviewed By
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''User 1''}'
+      - '{''label'': ''User 2''}'
+      - '{''label'': ''User 3''}'
+      - '{''label'': ''User 4''}'
+      required: true
+    - id: 25
+      name: review_date
+      label: Review Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false

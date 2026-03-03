@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: IT System Access Request Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: manager_id
+      label: Manager ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: it_system_id
+      label: IT System
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''System A''}'
+      - '{''id'': 2, ''label'': ''System B''}'
+      - '{''id'': 3, ''label'': ''System C''}'
+      - '{''id'': 4, ''label'': ''System D''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: reason_for_request
+      label: Reason for request
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''New System Access''}'
+      - '{''id'': 2, ''label'': ''Access Level Update''}'
+      - '{''id'': 3, ''label'': ''Access Type Update''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: start_date
+      label: Start Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: prophets
+      label: Prophets
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitted
+      label: Submitted
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Pending''}'
+      required: false
+    - id: 18
+      name: priority
+      label: Priority
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Low''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''High''}'
+      required: false
+    - id: 19
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: error
+      label: None
+      hint: null
+      type: text
+      options: []
+      required: false

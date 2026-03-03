@@ -1,0 +1,237 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shopping Mall Emergency Exit Inspection Form
+    pages:
+    - id: 1
+      name: emergency_exit_inspection_form
+      label: Emergency Exit Inspection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: emergency_exits
+      label: Emergency Exits
+      hint: List all exits.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: exit_doors
+      label: Exit Doors
+      hint: List each exit door's details
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_exit_signs
+      label: Emergency Exit Signs
+      hint: Ensure all exit signs are clear.
+      type: select_one
+      options:
+      - '{''value'': 1, ''text'': True}'
+      - '{''value'': 0, ''text'': False}'
+      required: false
+    - id: 5
+      name: fire_exits
+      label: Fire Exits
+      hint: List fire exits.
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''text'': ''Main''}'
+      - '{''value'': 2, ''text'': ''Emergency''}'
+      - '{''value'': 3, ''text'': ''Side''}'
+      required: false
+    - id: 6
+      name: emergency_exit_emergency_exits
+      label: Emergency Exit Emergency Exits
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''text'': ''Main''}'
+      - '{''value'': 2, ''text'': ''Emergency''}'
+      - '{''value'': 3, ''text'': ''Side''}'
+      required: false
+    - id: 7
+      name: emergency_exit_emergency_exit_signs
+      label: Emergency Exit Emergency Exit Signs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''text'': True}'
+      - '{''value'': 0, ''text'': False}'
+      required: false
+    - id: 8
+      name: emergency_exit_fire_exits
+      label: Emergency Exit Fire Exits
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''text'': ''Main''}'
+      - '{''value'': 2, ''text'': ''Emergency''}'
+      - '{''value'': 3, ''text'': ''Side''}'
+      required: false
+    - id: 9
+      name: emergency_exit_exit_doors
+      label: Emergency Exit Exit Doors
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''text'': ''Main''}'
+      - '{''value'': 2, ''text'': ''Emergency''}'
+      - '{''value'': 3, ''text'': ''Side''}'
+      required: false
+    - id: 10
+      name: emergency_exit_exit_signs
+      label: Emergency Exit Exit Signs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''text'': True}'
+      - '{''value'': 0, ''text'': False}'
+      required: false
+    - id: 11
+      name: emergency_exit_fire_exit_signs
+      label: Emergency Exit Fire Exit Signs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''text'': True}'
+      - '{''value'': 0, ''text'': False}'
+      required: false
+    - id: 12
+      name: emergency_exit_alarms
+      label: Emergency Exit Alarms
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''text'': True}'
+      - '{''value'': 0, ''text'': False}'
+      required: false
+    - id: 13
+      name: emergency_exit_emergency_exit_doors
+      label: Emergency Exit Emergency Exit Doors
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''text'': ''Main''}'
+      - '{''value'': 2, ''text'': ''Emergency''}'
+      - '{''value'': 3, ''text'': ''Side''}'
+      required: false
+    - id: 14
+      name: emergency_exit_exit_doors_condition
+      label: Exit Doors Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''text'': ''Good''}'
+      - '{''value'': 0, ''text'': ''Poor''}'
+      required: false
+    - id: 15
+      name: emergency_exit_inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: emergency_exit_inspection_time
+      label: Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: emergency_exit_inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_exit_inspector_signature
+      label: Inspector Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_exit_inspection_notes
+      label: Inspection Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_exit_inspection_comments
+      label: Inspection Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: emergency_exit_inspection_result
+      label: Inspection Result
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''text'': ''Pass''}'
+      - '{''value'': 0, ''text'': ''Fail''}'
+      required: false
+    - id: 22
+      name: emergency_exit_remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: emergency_exit_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: emergency_exit_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: emergency_exit_user
+      label: User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: emergency_exit_inspection_status
+      label: Inspection Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''text'': ''In Progress''}'
+      - '{''value'': 2, ''text'': ''Complete''}'
+      - '{''value'': 3, ''text'': ''Canceled''}'
+      required: false
+    - id: 27
+      name: emergency_exit_completed
+      label: Completed
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''text'': True}'
+      - '{''value'': 0, ''text'': False}'
+      required: false
+    - id: 28
+      name: emergency_exit_status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false

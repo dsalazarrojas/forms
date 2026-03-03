@@ -1,0 +1,100 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Data Review Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: Full name of the person requesting the data review
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_department
+      label: Requester Department
+      hint: Department of the person requesting the review
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Requester Email
+      hint: Email address for communication regarding the review
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: review_reason
+      label: Reason for Review
+      hint: Why is this accounting data review being requested
+      type: select_one
+      options: ["Period-end close verification", "Audit preparation", "Discrepancy investigation", "Compliance requirement", "Management inquiry", "Other"]
+      required: true
+    - id: 5
+      name: review_period_start
+      label: Review Period Start Date
+      hint: Beginning date for the accounting period to be reviewed
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: review_period_end
+      label: Review Period End Date
+      hint: Ending date for the accounting period to be reviewed
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: data_types_to_review
+      label: Data Types to Review
+      hint: Select all types of accounting data that need review
+      type: select_multiple
+      options: ["General Ledger", "Accounts Receivable", "Accounts Payable", "Cash Flow", "Fixed Assets", "Revenue Recognition", "Expense Categories", "Intercompany Transactions"]
+      required: true
+    - id: 8
+      name: priority_level
+      label: Priority Level
+      hint: How urgent is this review request
+      type: select_one
+      options: ["Low", "Medium", "High", "Critical"]
+      required: true
+    - id: 9
+      name: requested_completion_date
+      label: Requested Completion Date
+      hint: When do you need the review completed
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: reviewer_assignment
+      label: Suggested Reviewer Assignment
+      hint: Do you have a preference for who performs the review
+      type: select_one
+      options: ["Any available staff", "Specific accountant - please specify", "Internal team only", "External auditor"]
+      required: false
+    - id: 11
+      name: special_instructions
+      label: Special Instructions or Requirements
+      hint: Any specific instructions for the review process
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: supporting_documents_needed
+      label: Supporting Documents Needed
+      hint: List any specific documents that should be included in the review
+      type: text
+      options: []
+      required: false

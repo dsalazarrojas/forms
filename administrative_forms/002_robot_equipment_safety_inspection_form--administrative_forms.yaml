@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: robot_equipment_safety_inspection_form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: equipment_details
+      label: Equipment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: hazards_found
+      label: Hazards Found
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: compliance_status
+      label: Compliance Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: inspected_by
+      label: Inspected By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: certification_number
+      label: Certification Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: serial_number
+      label: Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: model_number
+      label: Model Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: manufacturer_name
+      label: Manufacturer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: manufacturer_address
+      label: Manufacturer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: location_of_inspection
+      label: Location Of Inspection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: remarks_inspection
+      label: Remarks Inspectio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: certification_date
+      label: Certification Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: certification_status
+      label: Certification Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 18
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

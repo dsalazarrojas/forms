@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boy Scout Attendance Form
+    pages:
+    - id: 1
+      name: meeting_details_header
+      label: -- Meeting Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: troop_no
+      label: Troop Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: meet_dt
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: leader_name
+      label: Scout Leader in Charge
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: attendance_log_header
+      label: -- Attendance Log --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: scout_full_name
+      label: Scout Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: att_status
+      label: Attendance Status
+      hint: null
+      type: select_one
+      options:
+      - Present
+      - Absent
+      - Excused
+      - Tardy
+      required: true
+    - id: 8
+      name: uniform_status
+      label: Uniform Check
+      hint: null
+      type: select_one
+      options:
+      - Full Uniform
+      - Partial
+      - No Uniform
+      required: true
+    - id: 9
+      name: advancement_header
+      label: -- Advancement and Tasks --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: finished_tasks
+      label: Tasks / Requirements Completed Today
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Knot Tying
+      - First Aid
+      - Map Reading
+      - Fire Building
+      - Merit Badge Work
+      required: false
+    - id: 11
+      name: svc_hrs
+      label: Service Hours Earned Today
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: scout_notes_header
+      label: -- Notes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: perf_notes
+      label: Notes on Scout Performance or Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: rec_dt
+      label: Date Recorded
+      hint: null
+      type: date
+      options: []
+      required: true

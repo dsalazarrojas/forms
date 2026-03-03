@@ -1,0 +1,84 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Home Collection Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: schedule_date
+      label: schedule_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: schedule_time
+      label: schedule_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: service_type
+      label: service_type
+      hint: null
+      type: select_multiple
+      options:
+      - Service 1
+      - Service 2
+      - Service 3
+      required: true
+    - id: 8
+      name: schedule_time_slot
+      label: schedule_time_slot
+      hint: null
+      type: select_multiple
+      options:
+      - 9am - 10am
+      - 10am - 11am
+      - 11am - 12pm
+      - 12pm - 1pm
+      - 1pm - 2pm
+      - 2pm - 3pm
+      - "{'3pm - 4pmchartInstance': None, 'type': 'object', 'properties': [{'id':\
+        \ 9, 'name': 'service_request', 'label': 'service_request', 'hint': None,\
+        \ 'type': 'text', 'options': []}, 'id:\u0E1B\u0E23\u0E30\u0E01']}"
+      required: false

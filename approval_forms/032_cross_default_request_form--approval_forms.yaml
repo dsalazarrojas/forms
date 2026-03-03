@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cross Default Request Form
+    pages:
+    - id: 1
+      name: requestor_title
+      label: Requestor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: requestor_name
+      label: Requestor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: requestor_department
+      label: Requestor Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: requestor_email
+      label: Requestor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - Loan
+      - Finance
+      - Contract
+      required: false
+    - id: 6
+      name: description
+      label: Description
+      hint: Please provide a brief description of the request
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: request_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - In Progress
+      - Closed
+      required: false
+    - id: 8
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: review_time
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: submitter_title
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter_department
+      label: Submitter Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: request_note
+      label: Request Note
+      hint: Additional information about the request
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: submitted_by_user
+      label: Submitted By User
+      hint: null
+      type: select_one
+      options:
+      - User A
+      - User B
+      required: false

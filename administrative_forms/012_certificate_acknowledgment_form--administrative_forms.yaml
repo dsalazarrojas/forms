@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: Certificate Acknowledgment Form
+    pages:
+    - id: 1
+      name: acknowledgment_date
+      label: Acknowledgment Date
+      hint: Date of certificate acknowledgment
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: Full legal name of certificate recipient
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: Email for certificate delivery
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_address
+      label: Mailing Address
+      hint: Address for physical certificate delivery
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: certificate_type
+      label: Certificate Type
+      hint: Type of certificate being acknowledged
+      type: select_one
+      options:
+      - Course completion certificate
+      - Professional certification
+      - Training certificate
+      - Achievement award
+      - Participation certificate
+      - Continuing education credits
+      - Other
+      required: true
+    - id: 7
+      name: program_name
+      label: Program or Course Name
+      hint: Name of the program completed
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: completion_date
+      label: Completion Date
+      hint: Date when program was completed
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: certificate_number
+      label: Certificate Number
+      hint: Reference number if already assigned
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: terms_review
+      label: Terms and Conditions Review
+      hint: I have read the certificate terms and conditions
+      type: select_one
+      options:
+      - Yes - I have reviewed
+      - No - Need to review
+      required: true
+    - id: 11
+      name: certificate_validity
+      label: Certificate Validity Acknowledgment
+      hint: I understand the validity period of this certificate
+      type: select_one
+      options:
+      - Yes - I understand
+      - No - Need clarification
+      required: true
+    - id: 12
+      name: renewal_requirements
+      label: Renewal Requirements Acknowledgment
+      hint: I understand the requirements for certificate renewal if applicable
+      type: select_one
+      options:
+      - Yes - I understand
+      - Not applicable
+      - No - Need information
+      required: true
+    - id: 13
+      name: code_of_ethics
+      label: Code of Ethics Agreement
+      hint: I agree to abide by the professional code of ethics
+      type: select_one
+      options:
+      - Yes - I agree
+      - Not applicable
+      - No - I do not agree
+      required: true
+    - id: 14
+      name: continuing_education
+      label: Continuing Education Requirement
+      hint: I understand continuing education requirements
+      type: select_one
+      options:
+      - Yes - I understand
+      - Not applicable
+      - No - Need information
+      required: true
+    - id: 15
+      name: delivery_preference
+      label: Certificate Delivery Preference
+      hint: How would you like to receive your certificate
+      type: select_one
+      options:
+      - Digital download
+      - Email attachment
+      - Postal mail
+      - Both digital and physical
+      - Pick up in person
+      required: true
+    - id: 16
+      name: name_on_certificate
+      label: Name to Appear on Certificate
+      hint: Exact name as it should appear on certificate
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: special_requests
+      label: Special Requests
+      hint: Any special formatting or delivery requests
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: data_usage_consent
+      label: Data Usage Consent
+      hint: I consent to my information being used for certificate processing
+      type: select_one
+      options:
+      - Yes - I consent
+      - No - I do not consent
+      required: true
+    - id: 19
+      name: marketing_consent
+      label: Marketing Communications Consent
+      hint: I agree to receive updates about related programs
+      type: select_one
+      options:
+      - Yes - I consent
+      - No - Do not contact me
+      required: true
+    - id: 20
+      name: participant_signature
+      label: Participant Signature
+      hint: Type your full legal name as signature
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true

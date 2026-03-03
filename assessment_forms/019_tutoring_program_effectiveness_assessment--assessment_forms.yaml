@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tutoring Program Effectiveness Assessment
+    pages:
+    - id: 1
+      name: tutoring_program_effectiveness
+      label: Tutoring Program Effectiveness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_goals
+      label: program_goals
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Goal 1''}'
+      - '{''id'': 2, ''text'': ''Goal 2''}'
+      - '{''id'': 3, ''text'': ''Goal 3''}'
+      required: false
+    - id: 3
+      name: student_satisfaction
+      label: student_satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''text'': ''Very Satisfied''}'
+      - '{''id'': 2, ''text'': ''Somewhat Satisfied''}'
+      - '{''id'': 3, ''text'': ''Not Satisfied''}'
+      required: false
+    - id: 4
+      name: program_outcomes
+      label: program_outcomes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: program_improvements
+      label: program_improvements
+      hint: null
+      type: text
+      options: []
+      required: false

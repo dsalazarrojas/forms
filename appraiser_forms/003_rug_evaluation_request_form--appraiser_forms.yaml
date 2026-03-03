@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rug Evaluation Request Form
+    pages:
+    - id: 1
+      name: rug_evaluation_request_form
+      label: rug_evaluation_request_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rug_id
+      label: rug_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: rug_name
+      label: rug_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rug_photo_url
+      label: rug_photo_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: appraisal_type
+      label: appraisal_type
+      hint: null
+      type: select_one
+      options:
+      - Appraisal
+      - Restoration
+      - Resale
+      - Inspection
+      required: false
+    - id: 6
+      name: rug_description
+      label: rug_description
+      hint: null
+      type: text
+      options: []
+      required: false

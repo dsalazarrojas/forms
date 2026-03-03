@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: extended_leave_time_off_form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: job_title
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Team Member
+      required: true
+    - id: 3
+      name: leave_start_date
+      label: leave_start_date
+      hint: Start date of leave
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: leave_end_date
+      label: leave_end_date
+      hint: End date of leave
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: leave_duration
+      label: Leave duration
+      hint: Duration of the leave in days
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: leave_reason
+      label: leave_reason
+      hint: Reason for the leave
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: return_to_work_date
+      label: return_to_work_date
+      hint: Date to return to work
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: leave_type
+      label: leave_type
+      hint: Type of leave
+      type: select_multiple
+      options:
+      - Vacation
+      - Sick
+      - Bereavement
+      - Family and Medical
+      required: true
+    - id: 9
+      name: leave_status
+      label: leave_status
+      hint: Status of the leave
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: true
+    - id: 10
+      name: comments
+      label: comments
+      hint: Comments
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: manager_comments
+      label: manager_comments
+      hint: Manager comments
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: approver
+      label: approver
+      hint: Approver
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: department
+      label: department
+      hint: Department
+      type: select_one
+      options:
+      - HR
+      - Sales
+      - Marketing
+      required: true
+    - id: 14
+      name: approver_notes
+      label: approver_notes
+      hint: Approver notes
+      type: text
+      options: []
+      required: false

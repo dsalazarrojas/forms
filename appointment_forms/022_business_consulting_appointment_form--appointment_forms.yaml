@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Consulting Appointment Form
+    pages:
+    - id: 1
+      name: client_information
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Your business email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_name
+      label: Company Name
+      hint: Your company or organization
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - Sole Proprietor
+      - 1-10 employees
+      - 11-50 employees
+      - 51-250 employees
+      - 250+ employees
+      required: true
+    - id: 8
+      name: appointment_details
+      label: -- Appointment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: appointment_type
+      label: Appointment Type
+      hint: Type of consultation needed
+      type: select_one
+      options:
+      - Initial Consultation
+      - Follow-up Consultation
+      - Strategy Session
+      - Problem-Solving Session
+      - Implementation Review
+      - Other
+      required: true
+    - id: 10
+      name: consultation_area
+      label: Consultation Area
+      hint: Primary focus area
+      type: select_one
+      options:
+      - Business Strategy
+      - Financial Planning
+      - Marketing
+      - Sales
+      - Operations
+      - Human Resources
+      - Technology
+      - Organizational Change
+      required: true
+    - id: 11
+      name: appointment_date
+      label: Preferred Appointment Date
+      hint: Your preferred date
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: appointment_time
+      label: Preferred Time
+      hint: Your preferred time
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: appointment_format
+      label: Appointment Format
+      hint: How you prefer to meet
+      type: select_one
+      options:
+      - In-person
+      - Phone Call
+      - Video Conference
+      - Email Consultation
+      - No Preference
+      required: true
+    - id: 14
+      name: duration
+      label: Estimated Duration
+      hint: How long do you need
+      type: select_one
+      options:
+      - 30 minutes
+      - 1 hour
+      - 90 minutes
+      - 2 hours
+      - Other
+      required: true
+    - id: 15
+      name: consultation_focus
+      label: -- Consultation Focus --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: key_issues
+      label: Key Issues or Challenges
+      hint: Describe your main concerns
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: goals
+      label: Consultation Goals
+      hint: What do you want to achieve
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: background
+      label: Background Information
+      hint: Relevant company background
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: previous_consultations
+      label: Previous Consultations
+      hint: Have you had consultations before
+      type: select_one
+      options:
+      - true
+      - false
+      - With other consultants
+      required: false
+    - id: 20
+      name: budget_range
+      label: Budget Range
+      hint: Your budget for consultation
+      type: select_one
+      options:
+      - Under 1000
+      - 1000-2500
+      - 2500-5000
+      - 5000-10000
+      - 10000+
+      - Flexible
+      required: false
+    - id: 21
+      name: urgent
+      label: Is This Urgent
+      hint: Do you need urgent appointment
+      type: select_one
+      options:
+      - Yes, very urgent
+      - Somewhat urgent
+      - Not urgent
+      required: false
+    - id: 22
+      name: additional_info
+      label: Additional Information
+      hint: Any other relevant details
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: notification_preference
+      label: Notification Preference
+      hint: How should we contact you
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text Message
+      - Both email and phone
+      required: true

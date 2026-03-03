@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Access Card Requisition Form
+    pages:
+    - id: 1
+      name: section_info
+      label: -- Requisitioner Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Full Name of Employee
+      hint: As it appears on payroll
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department or Unit
+      hint: Your primary work group
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: staff_id_number
+      label: Staff ID Number
+      hint: Your unique employee ID
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: work_email
+      label: Work Email
+      hint: Official company email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: section_details
+      label: -- Requisition Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: reason_for_request
+      label: Reason for Request
+      hint: why is a new card needed?
+      type: select_one
+      options:
+      - New Employee
+      - Lost or Stolen Card
+      - Damaged Card
+      - Name Change
+      - Access Level Update
+      required: true
+    - id: 8
+      name: access_zones_requested
+      label: Access Zones Requested
+      hint: Select all areas you need to enter
+      type: select_multiple
+      options:
+      - General Office
+      - IT Server Room
+      - Executive Suite
+      - Parking Garage
+      - Lab 101
+      - Storage B
+      required: true
+    - id: 9
+      name: section_specs
+      label: -- Card Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: card_type
+      label: Card Type
+      hint: Select the required hardware
+      type: select_one
+      options:
+      - Standard Proximity Card
+      - Smart Card (HID)
+      - Key Fob
+      required: true
+    - id: 11
+      name: include_photo
+      label: Does the card require a printed photo?
+      hint: Physical ID requirement
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: section_auth
+      label: -- Authorization and Lost Fees --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: lost_card_fee_acknowledgement
+      label: I acknowledge that a $25 fee applies for lost cards
+      hint: Financial responsibility
+      type: select_one
+      options:
+      - I Acknowledge
+      - Other
+      required: true
+    - id: 14
+      name: supervisor_approval_status
+      label: Has your supervisor approved this request?
+      hint: Pre-approval check
+      type: select_one
+      options:
+      - Approved
+      - Pending Approval
+      required: true
+    - id: 15
+      name: supervisor_name
+      label: Approving Supervisor Name
+      hint: Person who authorized the request
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: requisition_date
+      label: Date of Request
+      hint: Today's date
+      type: date
+      options: []
+      required: true

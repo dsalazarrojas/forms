@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Elementary School Book Order Form
+    pages:
+    - id: 1
+      name: form_1
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: school_name
+      label: school_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: school_email
+      label: school_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: form_4
+      label: form_4
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: form_5
+      label: form_5
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      - option_4
+      required: false
+    - id: 6
+      name: form_6
+      label: form_6
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: false
+    - id: 7
+      name: form_7
+      label: form_7
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: form_8
+      label: form_8
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: form_10
+      label: form_10
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: school_phone
+      label: school_phone
+      hint: null
+      type: text
+      options: []
+      required: false

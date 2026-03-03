@@ -1,0 +1,169 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Archiving Knowledge Quiz
+    pages:
+        - id: 1
+          name: section_instructions
+          label: -- Test Instructions --
+          hint: null
+          type: note
+          options: []
+          required: false
+        - id: 2
+          name: participant_name
+          label: Participant Name
+          hint: Full name for scoring records
+          type: text
+          options: []
+          required: true
+        - id: 3
+          name: participant_id
+          label: Participant ID or Employee Number
+          hint: null
+          type: text
+          options: []
+          required: false
+        - id: 4
+          name: test_date
+          label: Date of Quiz
+          hint: null
+          type: date
+          options: []
+          required: true
+        - id: 5
+          name: section_questions
+          label: -- Digital Archiving Knowledge --
+          hint: null
+          type: note
+          options: []
+          required: false
+        - id: 6
+          name: question_1_definition
+          label: What is digital archiving
+          hint: null
+          type: select_one
+          options:
+            - Creating and preserving digital records for long-term access
+            - Backing up computer files to external drives
+            - Deleting old files to free up space
+            - Converting paper documents to PDF
+          required: true
+        - id: 7
+          name: question_2_preservation
+          label: Which of the following is key to digital preservation
+          hint: null
+          type: select_multiple
+          options:
+            - Metadata documentation
+            - File format standards
+            - Regular system backups
+            - Encryption protocols
+          required: true
+        - id: 8
+          name: question_3_metadata
+          label: Metadata describes what aspect of digital records
+          hint: null
+          type: select_one
+          options:
+            - The content and context of files
+            - Only the file size and creation date
+            - The physical storage location
+            - The user access permissions
+          required: true
+        - id: 9
+          name: question_4_formats
+          label: Which file formats are most suitable for long-term preservation
+          hint: null
+          type: select_multiple
+          options:
+            - PDF-A
+            - TIFF
+            - Proprietary vendor formats
+            - ASCII text
+          required: true
+        - id: 10
+          name: question_5_migration
+          label: What is format migration in digital archiving
+          hint: null
+          type: select_one
+          options:
+            - Converting files from outdated formats to current standards
+            - Moving files between storage devices
+            - Backing up to cloud services
+            - Organizing files into folders
+          required: true
+        - id: 11
+          name: question_6_risks
+          label: Name two major risks to digital preservation
+          hint: Provide brief explanations
+          type: text
+          options: []
+          required: true
+        - id: 12
+          name: question_7_standards
+          label: What is the ISO standard for digital records management
+          hint: null
+          type: select_one
+          options:
+            - ISO 14721
+            - ISO 9001
+            - ISO 27001
+            - ISO 8601
+          required: true
+        - id: 13
+          name: question_8_access
+          label: How does digital archiving differ from digital access
+          hint: null
+          type: text
+          options: []
+          required: false
+        - id: 14
+          name: section_feedback
+          label: -- Quiz Feedback --
+          hint: null
+          type: note
+          options: []
+          required: false
+        - id: 15
+          name: confidence_level
+          label: How confident are you about these answers
+          hint: null
+          type: select_one
+          options:
+            - Very confident
+            - Somewhat confident
+            - Neutral
+            - Somewhat uncertain
+            - Very uncertain
+          required: true
+        - id: 16
+          name: topics_for_review
+          label: Which topics would you like more training on
+          hint: null
+          type: select_multiple
+          options:
+            - Digital preservation strategies
+            - Metadata creation and standards
+            - File format selection
+            - Long-term storage solutions
+            - Legal and compliance issues
+          required: false
+        - id: 17
+          name: additional_comments
+          label: Additional Comments
+          hint: Share any questions or feedback about the quiz
+          type: text
+          options: []
+          required: false

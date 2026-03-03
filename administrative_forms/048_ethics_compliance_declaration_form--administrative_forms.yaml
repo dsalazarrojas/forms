@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: ethics_compliance_declaration_form
+    pages:
+    - id: 1
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: declaration_date
+      label: declaration_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: declaration_status
+      label: declaration_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 6
+      name: employee_signature
+      label: employee_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: declaration_statement
+      label: declaration_statement
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: declaration_date_signature
+      label: declaration_date_signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: declaration_status_signature
+      label: declaration_status_signature
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true

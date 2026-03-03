@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospice Nursing Assessment Form
+    pages:
+    - id: 1
+      name: patient_status
+      label: patient_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 2
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: pain_level
+      label: pain_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 4
+      name: medication_allergies
+      label: medication_allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: hospice_type
+      label: hospice_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: primary_care_giver
+      label: primary_care_giver
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: social_status
+      label: social_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 8
+      name: patient_demeanor
+      label: patient_demeanor
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: hospice_medical_history
+      label: hospice_medical_history
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: medication_side_effects
+      label: medication_side_effects
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: care_goals
+      label: care_goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: hospice_team
+      label: hospice_team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: hospice_location
+      label: hospice_location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: patient_family
+      label: patient_family
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: hospice_needs
+      label: hospice_needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: hospice_goals
+      label: hospice_goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: patient_status
+      label: patient_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 19
+      name: hospice_plan
+      label: hospice_plan
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: hospice_id
+      label: hospice_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: hospice_referral_source
+      label: hospice_referral_source
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: hospice_nurse
+      label: hospice_nurse
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: hospice_nurse_contact
+      label: hospice_nurse_contact
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: hospice_nurse_name
+      label: hospice_nurse_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: hospice_nurse_phone
+      label: hospice_nurse_phone
+      hint: null
+      type: text
+      options: []
+      required: false

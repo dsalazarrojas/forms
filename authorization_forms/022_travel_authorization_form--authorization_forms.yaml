@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: travel-authorization-form
+    pages:
+    - id: 1
+      name: travel_authorization
+      label: travel_authorization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_details
+      label: employee_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: travel_details
+      label: travel_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: travel_purpose
+      label: travel_purpose
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: travel_date
+      label: travel_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: travel_start_date
+      label: travel_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: travel_end_date
+      label: travel_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: travel_duration
+      label: travel_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: travel_destination
+      label: travel_destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: travel_reason
+      label: travel_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: travel_cost
+      label: travel_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: approval_status
+      label: approval_status
+      hint: null
+      type: select_multiple
+      options:
+      - Approved
+      - Pending
+      - Denied
+      required: false
+    - id: 13
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

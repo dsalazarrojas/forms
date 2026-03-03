@@ -1,0 +1,381 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automated Test Creation and Evaluation Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Automated Test Creation and Evaluation
+      hint: Create and evaluate your assessment test
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: test_info
+      label: Test Information
+      hint: Basic test details
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: test_name
+      label: Test Name
+      hint: Title of the test
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: test_description
+      label: Test Description
+      hint: Brief description
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: test_type
+      label: Test Type
+      hint: What kind of test
+      type: select_one
+      options:
+      - Knowledge Assessment
+      - Skills Test
+      - Certification Exam
+      - Practice Quiz
+      - Pre-Test
+      - Post-Test
+      - Final Exam
+      - Other
+      required: true
+    - id: 6
+      name: subject_area
+      label: Subject Area
+      hint: What subject
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: creator_info
+      label: Creator Information
+      hint: Who is creating this
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: email
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: organization
+      label: Organization
+      hint: School or company
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: test_parameters
+      label: Test Parameters
+      hint: Test settings
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: total_questions
+      label: Total Questions
+      hint: Number of questions
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: time_limit
+      label: Time Limit
+      hint: In minutes
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: passing_score
+      label: Passing Score
+      hint: Percentage needed
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: randomize_questions
+      label: Randomize Questions
+      hint: Shuffle order
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: show_correct_answers
+      label: Show Correct Answers
+      hint: After completion
+      type: select_one
+      options:
+      - Yes Immediately
+      - Yes After Test Closes
+      - false
+      required: true
+    - id: 18
+      name: question_types
+      label: Question Types
+      hint: Types to include
+      type: select_multiple
+      options:
+      - Multiple Choice
+      - True or False
+      - Short Answer
+      - Essay
+      - Matching
+      - Fill in the Blank
+      - Ordering
+      required: true
+    - id: 19
+      name: difficulty_level
+      label: Difficulty Level
+      hint: Overall difficulty
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Mixed
+      required: true
+    - id: 20
+      name: topic_distribution
+      label: Topic Distribution
+      hint: How to distribute topics
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: test_content
+      label: Test Content
+      hint: Questions and answers
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: question_1
+      label: Question 1
+      hint: Enter your question
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: answer_1
+      label: Answer 1
+      hint: Correct answer
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: question_2
+      label: Question 2
+      hint: Enter your question
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: answer_2
+      label: Answer 2
+      hint: Correct answer
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: question_3
+      label: Question 3
+      hint: Enter your question
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: answer_3
+      label: Answer 3
+      hint: Correct answer
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: question_4
+      label: Question 4
+      hint: Enter your question
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: answer_4
+      label: Answer 4
+      hint: Correct answer
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: question_5
+      label: Question 5
+      hint: Enter your question
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: answer_5
+      label: Answer 5
+      hint: Correct answer
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: evaluation_criteria
+      label: Evaluation Criteria
+      hint: How to evaluate
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: grading_method
+      label: Grading Method
+      hint: How to grade
+      type: select_one
+      options:
+      - Automatic
+      - Manual Review
+      - Both
+      required: true
+    - id: 34
+      name: partial_credit
+      label: Partial Credit
+      hint: Allow partial credit
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 35
+      name: feedback_type
+      label: Feedback Type
+      hint: What feedback to give
+      type: select_one
+      options:
+      - Score Only
+      - Score and Correct Answers
+      - Score and Explanations
+      - Detailed Analysis
+      required: true
+    - id: 36
+      name: retake_policy
+      label: Retake Policy
+      hint: Can students retake
+      type: select_one
+      options:
+      - Unlimited Retakes
+      - Limited Retakes
+      - No Retakes
+      - Instructor Approval
+      required: true
+    - id: 37
+      name: max_attempts
+      label: Maximum Attempts
+      hint: If limited
+      type: number
+      options: []
+      required: false
+    - id: 38
+      name: test_availability
+      label: Test Availability
+      hint: When available
+      type: note
+      options: []
+      required: false
+    - id: 39
+      name: available_from
+      label: Available From
+      hint: Start date
+      type: date
+      options: []
+      required: true
+    - id: 40
+      name: available_until
+      label: Available Until
+      hint: End date
+      type: date
+      options: []
+      required: true
+    - id: 41
+      name: target_audience
+      label: Target Audience
+      hint: Who will take this
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: prerequisites
+      label: Prerequisites
+      hint: Required before taking
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: evaluation_metrics
+      label: Evaluation Metrics
+      hint: What to track
+      type: select_multiple
+      options:
+      - Average Score
+      - Pass Rate
+      - Time Spent
+      - Question Difficulty
+      - Common Wrong Answers
+      - Completion Rate
+      required: false
+    - id: 44
+      name: report_generation
+      label: Report Generation
+      hint: What reports needed
+      type: select_one
+      options:
+      - Individual Reports
+      - Summary Reports
+      - Both
+      - None
+      required: false
+    - id: 45
+      name: additional_instructions
+      label: Additional Instructions
+      hint: Any special notes
+      type: text
+      options: []
+      required: false
+    - id: 46
+      name: creator_signature
+      label: Creator Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 47
+      name: creation_date
+      label: Creation Date
+      hint: Today date
+      type: date
+      options: []
+      required: true

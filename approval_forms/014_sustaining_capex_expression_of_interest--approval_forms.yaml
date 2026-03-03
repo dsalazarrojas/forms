@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sustaining Capex Expression Of Interest
+    pages:
+    - id: 1
+      name: project_ideas
+      label: Project Ideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_budgets
+      label: Project Budgets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: project_justifications
+      label: Project Justifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: departmentalization
+      label: Departmentalization
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: prioritization
+      label: Prioritization
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_owner
+      label: Project Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - In Progress
+      - Completed
+      required: false

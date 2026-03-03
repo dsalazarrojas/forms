@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Progress Review Appointment Form Template
+    pages:
+    - id: 1
+      name: form_title
+      label: Fitness Progress Review Appointment Form Template
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_information
+      label: client_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: appointment_details
+      label: appointment_details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: appointment_status
+      label: appointment_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: client_phone_number
+      label: client_phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: client_email
+      label: client_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: assigned_user
+      label: assigned_user
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

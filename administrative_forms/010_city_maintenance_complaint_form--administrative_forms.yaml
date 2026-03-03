@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: City Maintenance Complaint Form
+    pages:
+    - id: 1
+      name: reporter_name
+      label: Reporter name
+      hint: Optional name for follow up
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_phone
+      label: Contact phone
+      hint: Provide phone for updates
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: location_of_issue
+      label: Location of issue
+      hint: Street address or landmark
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: issue_type
+      label: Type of maintenance issue
+      hint: Select the category
+      type: select_one
+      options:
+      - Pothole
+      - Streetlight outage
+      - Graffiti
+      - Drainage problem
+      - Other
+      required: true
+    - id: 5
+      name: description_of_issue
+      label: Description of issue
+      hint: Provide details and urgency level
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: preferred_contact_method
+      label: Preferred contact method
+      hint: How would you like to be contacted
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - No contact
+      required: false
+    - id: 7
+      name: photo_upload_note
+      label: Photo upload instructions
+      hint: Attach photos via email or portal
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: urgency_level
+      label: Urgency level
+      hint: 1 low to 5 high
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_request
+      label: Request for follow up
+      hint: Yes if you want status updates
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 10
+      name: submission_date
+      label: Submission date
+      hint: Use current date
+      type: date
+      options: []
+      required: true

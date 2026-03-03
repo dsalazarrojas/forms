@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Land Use Rezoning Application Form
+    pages:
+    - id: 1
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 2
+      name: user_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: user_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_location
+      label: Project Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: zoning_description
+      label: Zoning Description
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: land_use
+      label: Land Use
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: zone_type
+      label: Zone Type
+      hint: null
+      type: select_one
+      options:
+      - single
+      - multi
+      required: false
+    - id: 10
+      name: justification
+      label: Justification
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: property_owner
+      label: Property Owner
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

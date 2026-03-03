@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Solar Assessment Form
+    pages:
+    - id: 1
+      name: user_details
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: assessment_date
+      label: Assessment Date
+      hint: Select the date of the assessment
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: assessment_time
+      label: Assessment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: solar_suitability
+      label: Solar Suitability
+      hint: null
+      type: select_one
+      options:
+      - Suitable
+      - Not Suitable
+      required: false
+    - id: 8
+      name: assessment_notes
+      label: Assessment Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assessment_form_submitted_by
+      label: Assessment Form Submitter
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      required: false

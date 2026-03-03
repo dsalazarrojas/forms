@@ -1,0 +1,296 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Profile Questionnaire
+    pages:
+    - id: 1
+      name: athlete_name
+      label: Athlete Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: preferred_name
+      label: Preferred Name
+      hint: What should we call you
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Prefer Not to Say
+      required: true
+    - id: 5
+      name: athlete_id
+      label: Athlete ID Number
+      hint: Student or team identification number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: address
+      label: Street Address
+      hint: Home address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: sport
+      label: Primary Sport
+      hint: Main sport
+      type: select_one
+      options:
+      - Football
+      - Basketball
+      - Soccer
+      - Track and Field
+      - Swimming
+      - Volleyball
+      - Baseball
+      - Softball
+      - Tennis
+      - Golf
+      - Other
+      required: true
+    - id: 13
+      name: secondary_sports
+      label: Secondary Sports
+      hint: Other sports you play
+      type: select_multiple
+      options:
+      - Football
+      - Basketball
+      - Soccer
+      - Track and Field
+      - Swimming
+      - Volleyball
+      - Baseball
+      - Softball
+      - Tennis
+      - Golf
+      - None
+      required: false
+    - id: 14
+      name: position
+      label: Primary Position
+      hint: Main position played
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: years_experience
+      label: Years of Experience
+      hint: How long have you played this sport
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: team_level
+      label: Current Team Level
+      hint: Competition level
+      type: select_one
+      options:
+      - Varsity
+      - Junior Varsity
+      - Freshman
+      - Club Team
+      - Recreational
+      required: true
+    - id: 17
+      name: school_name
+      label: School Name
+      hint: Current school
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: grade_level
+      label: Grade Level
+      hint: Current grade
+      type: select_one
+      options:
+      - 9th Grade
+      - 10th Grade
+      - 11th Grade
+      - 12th Grade
+      - College Freshman
+      - College Sophomore
+      - College Junior
+      - College Senior
+      - Graduate Student
+      required: true
+    - id: 19
+      name: gpa
+      label: Current GPA
+      hint: Grade point average
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: height
+      label: Height
+      hint: In feet and inches or cm
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: weight
+      label: Weight
+      hint: In pounds or kg
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 24
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact number
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: medical_conditions
+      label: Medical Conditions or Allergies
+      hint: List any conditions or allergies
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: current_medications
+      label: Current Medications
+      hint: List any medications
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: athletic_goals
+      label: Athletic Goals
+      hint: What are your athletic goals
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: previous_teams
+      label: Previous Teams or Clubs
+      hint: List previous teams
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: achievements
+      label: Athletic Achievements
+      hint: List awards, honors, or accomplishments
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: why_join
+      label: Why Do You Want to Join
+      hint: What motivates you
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: availability
+      label: Availability
+      hint: Any schedule restrictions
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: how_heard
+      label: How Did You Hear About Us
+      hint: Source of referral
+      type: select_one
+      options:
+      - Coach Recommendation
+      - Friend or Teammate
+      - Social Media
+      - School Announcement
+      - Website
+      - Other
+      required: true
+    - id: 35
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false

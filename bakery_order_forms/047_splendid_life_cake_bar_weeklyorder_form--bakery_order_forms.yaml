@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: splendid_life_cake_bar_weeklyorder_form
+    pages:
+    - id: 1
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: cake_type
+      label: Cake Type
+      hint: null
+      type: select_one
+      options:
+      - Cheesecake
+      - Tiramisu
+      - Sorbet
+      - Ice Cream
+      required: true
+    - id: 7
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: bakery_store
+      label: Bakery Store
+      hint: null
+      type: select_multiple
+      options:
+      - Houston
+      - The Woodlands
+      - Spring Branch
+      required: true
+    - id: 9
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: cake_size
+      label: Cake Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: true
+    - id: 12
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: select_multiple
+      options:
+      - 123 Main St
+      - 456 Elm St
+      - 789 Oak St
+      required: true
+    - id: 13
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false

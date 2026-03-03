@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: drumming_skills_assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: drumming_experience
+      label: years_playing
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: skills_level
+      label: skills_level
+      hint: null
+      type: select_multiple
+      options:
+      - Basic
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 5
+      name: performance_style
+      label: performance_style
+      hint: null
+      type: select_one
+      options:
+      - Rock
+      - Jazz
+      - Pop
+      - Classical
+      - Folk
+      - Other
+      required: true
+    - id: 6
+      name: rhythm_feeling
+      label: rhythm_feeling
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: music_theory
+      label: music_theory
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false

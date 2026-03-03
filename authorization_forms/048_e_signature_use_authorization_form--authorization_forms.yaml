@@ -1,0 +1,114 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: e-signature-use-authorization-form
+    pages:
+    - id: 1
+      name: user
+      label: User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: signature_type
+      label: Signature Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''E-Signature''}'
+      - '{''id'': 2, ''label'': ''Digital Signature''}'
+      required: true
+    - id: 4
+      name: use_authorizations
+      label: Use Authorizations
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''E-Signature''}'
+      - '{''id'': 2, ''label'': ''E-Signature with Witness''}'
+      - '{''id'': 3, ''label'': ''Witness Signature''}'
+      required: true
+    - id: 5
+      name: signature_document_date
+      label: Signature Document Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: signature_document_time
+      label: Signature Document Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: witness_document_date
+      label: Witness Document Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: witness_document_time
+      label: Witness Document Date Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: witness_name
+      label: Witness Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: witness_title
+      label: Witness Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: witness_document_issuer
+      label: Witness Document Issuer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: signature_type_2
+      label: Signature Type 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: signature_verification_status
+      label: Signature Verification Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Not Verified''}'
+      - '{''id'': 2, ''label'': ''Verified''}'
+      required: true

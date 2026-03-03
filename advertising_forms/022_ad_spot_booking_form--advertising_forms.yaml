@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ad Spot Booking Form
+    pages:
+    - id: 1
+      name: advertiser_header
+      label: -- Advertiser Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company / Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact Person Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: ad_spot_header
+      label: -- Booking Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: publication_platform
+      label: Publication / Platform
+      hint: Where would you like to advertise?
+      type: select_one
+      options:
+      - Monthly Newsletter
+      - Website Homepage
+      - Podcast Audio Spot
+      - Quarterly Printed Magazine
+      - Social Media Featured Post
+      required: true
+    - id: 8
+      name: ad_size_type
+      label: Ad Size / Type
+      hint: null
+      type: select_one
+      options:
+      - Full Page / Banner
+      - Half Page / Sidebar
+      - Quarter Page / Inline
+      - Sponsored Content Article
+      - 30-Second Audio Clip
+      required: true
+    - id: 9
+      name: campaign_start_date
+      label: Campaign Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: campaign_end_date
+      label: Campaign End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: total_spots_requested
+      label: Number of Placements / Rotations
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: creative_assets_header
+      label: -- Creative Assets --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: asset_status
+      label: Creative Asset Status
+      hint: null
+      type: select_one
+      options:
+      - Assets ready for upload
+      - Assets in development
+      - Need design assistance
+      required: true
+    - id: 14
+      name: link_destination
+      label: Destination URL (Click-through)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_requests
+      label: Special Placement Requests or Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: billing_preference
+      label: Billing Preference
+      hint: null
+      type: select_one
+      options:
+      - Invoice via Email
+      - Credit Card (Pre-pay)
+      - Existing Corporate Account
+      required: true
+    - id: 17
+      name: agreement_terms
+      label: I agree to the advertising terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true

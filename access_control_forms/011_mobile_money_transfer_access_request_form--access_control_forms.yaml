@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mobile Money Transfer Access Request Form
+    pages:
+    - id: 1
+      name: mobile_money_transfer_access_request_form
+      label: Mobile Money Transfer Access Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: access_control_forms
+      label: Access Control Forms
+      hint: null
+      type: select_one
+      options:
+      - Financial Services
+      - Mobile Money Transfer
+      required: true
+    - id: 3
+      name: collect_and_review_requests
+      label: Collect and Review Requests
+      hint: null
+      type: select_multiple
+      options:
+      - With Review
+      - Without Review
+      required: false
+    - id: 4
+      name: financial_service_teams
+      label: Financial Service Teams
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: programs_needing_consistent_data
+      label: Programs Needing Consistent Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: organized_form_submission_tracking
+      label: Organized Form Submission Tracking
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: jotform
+      label: Jotform
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_submission_tracking
+      label: Form Submission Tracking
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: form_submission_review_status
+      label: Form Submission Review Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Approved
+      - Rejected
+      required: true
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: time_submitted
+      label: Time Submitted
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitted_for
+      label: Submitted For
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitted_by_name
+      label: Submitted By Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitted_by_email
+      label: Submitted By Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: submitted_by_phone
+      label: Submitted By Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitted_by_extension
+      label: Submitted By Extension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: form_status
+      label: Form Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 23
+      name: form_status_notes
+      label: Form Status Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: submitted_by_department
+      label: Submitted By Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by_location
+      label: Submitted By Location
+      hint: null
+      type: text
+      options: []
+      required: false

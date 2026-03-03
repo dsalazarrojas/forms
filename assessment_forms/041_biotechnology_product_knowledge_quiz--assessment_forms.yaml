@@ -1,0 +1,352 @@
+inputSchema:
+  type: object
+  properties:
+    title: Biotechnology Product Knowledge Quiz
+    pages:
+    - id: 1
+      name: participant_information
+      label: Participant Information
+      hint: Enter your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Full Name
+      hint: Your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: Your identification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: position
+      label: Position
+      hint: Your job title
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: quiz_date
+      label: Quiz Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: training_completion
+      label: Training Completion
+      hint: Have you completed product training
+      type: select_one
+      options:
+      - Yes - Recently Completed
+      - Yes - Completed Previously
+      - Currently In Training
+      - No - Not Yet Trained
+      required: true
+    - id: 8
+      name: product_knowledge_questions
+      label: Product Knowledge Questions
+      hint: Answer all questions to the best of your ability
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: question_1
+      label: Question 1 - What is the primary mechanism of action for monoclonal antibody
+        therapies
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Direct cell destruction
+      - Target-specific binding to block or activate pathways
+      - General immune suppression
+      - Hormone regulation
+      required: true
+    - id: 10
+      name: question_2
+      label: Question 2 - Which storage condition is typically required for biologic
+        products
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Room temperature
+      - Refrigerated at 2-8 degrees Celsius
+      - Frozen at minus 20 degrees Celsius
+      - Any temperature is acceptable
+      required: true
+    - id: 11
+      name: question_3
+      label: Question 3 - What does biosimilar mean
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Identical copy of a biologic
+      - Highly similar biologic with no clinically meaningful differences
+      - Generic version of a small molecule drug
+      - Completely different product
+      required: true
+    - id: 12
+      name: question_4
+      label: Question 4 - What is the typical route of administration for most biologic
+        therapies
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Oral tablet
+      - Injection or infusion
+      - Topical cream
+      - Inhalation
+      required: true
+    - id: 13
+      name: question_5
+      label: Question 5 - What is immunogenicity in the context of biologic products
+      hint: Select the best answer
+      type: select_one
+      options:
+      - The ability to boost immune system generally
+      - The ability of a product to provoke an immune response
+      - The effectiveness of the product
+      - The shelf life of the product
+      required: true
+    - id: 14
+      name: question_6
+      label: Question 6 - Which regulatory agency approves biologic products in the
+        United States
+      hint: Select the best answer
+      type: select_one
+      options:
+      - EPA
+      - FDA
+      - USDA
+      - DEA
+      required: true
+    - id: 15
+      name: question_7
+      label: Question 7 - What is a key difference between biologics and small molecule
+        drugs
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Biologics are smaller
+      - Biologics are produced in living systems
+      - Biologics are always cheaper
+      - Biologics have fewer side effects
+      required: true
+    - id: 16
+      name: question_8
+      label: Question 8 - What does cold chain management refer to
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Shipping in winter months
+      - Temperature-controlled supply chain for sensitive products
+      - Freezing products for long-term storage
+      - Using ice packs for all shipments
+      required: true
+    - id: 17
+      name: question_9
+      label: Question 9 - What is the purpose of a Risk Evaluation and Mitigation
+        Strategy (REMS)
+      hint: Select the best answer
+      type: select_one
+      options:
+      - To increase product sales
+      - To ensure benefits outweigh risks for certain medications
+      - To reduce manufacturing costs
+      - To speed up approval process
+      required: true
+    - id: 18
+      name: question_10
+      label: Question 10 - Which of the following is NOT a common biologic product
+        category
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Monoclonal antibodies
+      - Vaccines
+      - Blood products
+      - Over-the-counter pain relievers
+      required: true
+    - id: 19
+      name: question_11
+      label: Question 11 - What is the typical shelf life of most biologic products
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Indefinite
+      - 6 months to 3 years
+      - 10 to 20 years
+      - 1 week or less
+      required: true
+    - id: 20
+      name: question_12
+      label: Question 12 - What should be done if a biologic product is exposed to
+        temperatures outside its recommended range
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Use it immediately
+      - Quarantine and consult manufacturer guidance
+      - Freeze it to restore potency
+      - Shake well and use
+      required: true
+    - id: 21
+      name: question_13
+      label: Question 13 - What is a black box warning
+      hint: Select the best answer
+      type: select_one
+      options:
+      - A warning about packaging
+      - The FDA's strongest safety warning
+      - A warning for shipping only
+      - A warning for storage conditions
+      required: true
+    - id: 22
+      name: question_14
+      label: Question 14 - Which of the following is a common indication for biologic
+        therapies
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Common cold
+      - Autoimmune diseases
+      - Headache
+      - Minor cuts and bruises
+      required: true
+    - id: 23
+      name: question_15
+      label: Question 15 - What is the purpose of product training for biotechnology
+        products
+      hint: Select the best answer
+      type: select_one
+      options:
+      - To increase sales only
+      - To ensure safe and effective product use
+      - To meet regulatory paperwork requirements
+      - To reduce liability only
+      required: true
+    - id: 24
+      name: scenario_questions
+      label: Scenario-Based Questions
+      hint: Apply your knowledge
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: scenario_1
+      label: Scenario 1 - A patient calls saying their biologic medication was left
+        in a hot car for 3 hours. What do you advise
+      hint: Select the best response
+      type: select_one
+      options:
+      - Tell them to use it anyway
+      - Advise them not to use it and contact their provider
+      - Tell them to put it in the freezer
+      - Tell them to shake it well
+      required: true
+    - id: 26
+      name: scenario_2
+      label: Scenario 2 - A healthcare provider asks about switching from a reference
+        biologic to a biosimilar. What is your response
+      hint: Select the best response
+      type: select_one
+      options:
+      - Tell them it's exactly the same
+      - Explain they are highly similar with no clinically meaningful differences
+      - Tell them biosimilars are inferior
+      - Say you cannot discuss this
+      required: true
+    - id: 27
+      name: self_assessment
+      label: Self-Assessment
+      hint: Rate your confidence
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: confidence_before_quiz
+      label: Confidence Before Quiz
+      hint: How confident were you before taking this quiz
+      type: select_one
+      options:
+      - Very Confident
+      - Confident
+      - Somewhat Confident
+      - Not Confident
+      required: true
+    - id: 29
+      name: confidence_after_quiz
+      label: Confidence After Quiz
+      hint: How confident are you after this quiz
+      type: select_one
+      options:
+      - Very Confident
+      - Confident
+      - Somewhat Confident
+      - Not Confident
+      required: true
+    - id: 30
+      name: additional_training_needed
+      label: Areas Needing Additional Training
+      hint: Select topics you want more training on
+      type: select_multiple
+      options:
+      - None - Feel Fully Trained
+      - Product Mechanisms
+      - Storage and Handling
+      - Administration Techniques
+      - Side Effects Management
+      - Regulatory Requirements
+      - Patient Counseling
+      required: true
+    - id: 31
+      name: assessor_use_only
+      label: For Assessor Use Only
+      hint: Scoring section
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: total_score
+      label: Total Score
+      hint: Number correct
+      type: number
+      options: []
+      required: false
+    - id: 33
+      name: pass_fail_status
+      label: Pass or Fail Status
+      hint: Assessment outcome
+      type: select_one
+      options:
+      - Pass
+      - Fail - Retrain Required
+      - Pending Review
+      required: false
+    - id: 34
+      name: assessor_name
+      label: Assessor Name
+      hint: Name of person grading
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: assessor_comments
+      label: Assessor Comments
+      hint: Additional feedback
+      type: text
+      options: []
+      required: false

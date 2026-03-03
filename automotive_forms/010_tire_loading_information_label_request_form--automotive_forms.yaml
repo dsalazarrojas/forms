@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: tire_loading_information_label_request_form
+    pages:
+    - id: 1
+      name: vehicle_info
+      label: Vehicle Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: owner_info
+      label: owner_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: tire_type
+      label: tire_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: tire_size
+      label: tire_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: loading_label_info
+      label: loading_info
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: tracking_number
+      label: tracking_number
+      hint: null
+      type: text
+      options: []
+      required: false

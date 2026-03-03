@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Salary Adjustment Authorization Form
+    pages:
+    - id: 1
+      name: salary_change_request
+      label: request salary change
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_change_effective
+      label: effective date change
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: prophets_justifications
+      label: justifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: approver_name
+      label: approver name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: approver_email
+      label: approver email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: approver_phone
+      label: approver phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: supervisor_name
+      label: supervisor name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: supervisor_email
+      label: supervisor email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: supervisor_phone
+      label: supervisor phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employee_id
+      label: employee id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: manager_name
+      label: manager name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: manager_email
+      label: manager email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: manager_phone
+      label: manager phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: team
+      label: team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: reason_for_adjustment
+      label: reason for adjustment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: salary_change_amount
+      label: salary change amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: prophets_approver_name
+      label: approver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: salary_change_reason
+      label: reason for change
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: employee_salary
+      label: employee salary
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: new_salary
+      label: new salary
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: salary_change_frequency
+      label: salary change frequency
+      hint: null
+      type: select_one
+      options:
+      - once
+      - ongoing
+      - semi-annual
+      - quarterly
+      - monthly
+      required: false
+    - id: 23
+      name: salary_change_status
+      label: salary change status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - approved
+      - denied
+      - cancelled
+      required: false
+    - id: 24
+      name: approval_comments
+      label: approval comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

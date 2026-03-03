@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: technology_maintenance_checklist
+    pages:
+    - id: 1
+      name: technology_maintenance_checklist_page
+      label: technology_maintenance_checklist
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: technology_page
+      label: technology
+      hint: null
+      type: select_multiple
+      options:
+      - Technology
+      - Server
+      - Laptop
+      - Network
+      required: false
+    - id: 3
+      name: maintenance_type
+      label: maintenance_type
+      hint: null
+      type: select_one
+      options:
+      - Preventative Maintenance
+      - Preventative Maintenance
+      - On-demand Maintenance
+      - Corrective Maintenance
+      - Other
+      required: true
+    - id: 4
+      name: maintenance_status
+      label: maintenance_status
+      hint: null
+      type: select_multiple
+      options:
+      - Complete
+      - In progress
+      - Scheduled
+      - Not started
+      - Deferred
+      required: false
+    - id: 5
+      name: maintenance_frequency
+      label: maintenance_frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Semi-annually
+      - Annually
+      required: true
+    - id: 6
+      name: next_maintenance_date
+      label: next_maintenance_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: last_maintenance_date
+      label: last_maintenance_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: last_maintenance_cost
+      label: last_maintenance_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

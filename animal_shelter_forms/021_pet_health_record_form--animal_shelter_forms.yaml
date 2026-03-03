@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Health Record Form
+    pages:
+    - id: 1
+      name: pet_info
+      label: Pet Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''medication1''}'
+      - medication2
+      required: false
+    - id: 3
+      name: food_intake
+      label: Food Intake
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: vaccination_info
+      label: Vaccination Info
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: behavior
+      label: Behavior
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''allergy1''}'
+      - allergy2
+      required: false
+    - id: 7
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vet_info
+      label: Vet Info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: owner_info
+      label: Owner Info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''owner1''}'
+      - owner2
+      required: false
+    - id: 11
+      name: pet_photo
+      label: Pet Photo
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''photo1''}'
+      - photo2
+      required: false
+    - id: 12
+      name: pet_description
+      label: Pet Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: medical_status
+      label: Medical Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: medical_status_description
+      label: Medical Status Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_notes_additional
+      label: Medical Notes Additional
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_status_update
+      label: Medical Status Update
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: medical_status_last_update
+      label: Medical Status Last Update
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: medical_status_last_update_time
+      label: Medical Status Last Update Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: medical_status_last_update_user
+      label: Medical Status Last Update User
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''user1''}'
+      - user2
+      required: false
+    - id: 22
+      name: medication_schedule
+      label: Medication Schedule
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''med1''}'
+      - med2
+      required: false
+    - id: 23
+      name: medical_history_update
+      label: Medical History Update
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_status_last_update_reason
+      label: Medical Status Last Update Reason
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 25
+      name: vet_name
+      label: Vet Name
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''name1''}'
+      - name2
+      required: false

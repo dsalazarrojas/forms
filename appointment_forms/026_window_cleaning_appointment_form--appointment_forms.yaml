@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Window Cleaning Appointment Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Window Cleaning''}'
+      - '{''value'': ''Glass Replacement''}'
+      required: false
+    - id: 3
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: confirm_appointment
+      label: Confirm Appointment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: window_size
+      label: Window Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: glass_type
+      label: Glass Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Single Pane''}'
+      - '{''value'': ''Double Pane''}'
+      - '{''value'': ''Tempered''}'
+      required: false
+    - id: 11
+      name: window_location
+      label: Window Location
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Front Door''}'
+      - '{''value'': ''Back Door''}'
+      - '{''value'': ''Side Window''}'
+      required: false
+    - id: 12
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: grappling_event_registration
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: experience_level
+      label: experience_level
+      hint: null
+      type: select_one
+      options:
+      - beginner
+      - intermediate
+      - advanced
+      required: false
+    - id: 7
+      name: division
+      label: division
+      hint: null
+      type: select_multiple
+      options:
+      - beginner
+      - intermediate
+      - advanced
+      required: false
+    - id: 8
+      name: waiver_acceptance
+      label: waiver_acceptance
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: event_details
+      label: event_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_signature
+      label: participant_signature
+      hint: null
+      type: text
+      options: []
+      required: false

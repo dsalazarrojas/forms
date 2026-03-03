@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vessel Weather Capability Assessment
+    pages:
+    - id: 1
+      name: form_title
+      label: Vessel Weather Capability Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vessel_type
+      label: Vessel Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Offshore''}'
+      - '{''label'': ''Inshore''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: weather_condition
+      label: Weather Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: sea_state
+      label: Sea State
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: wave_height
+      label: Wave Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: sea_state_comment
+      label: Sea State Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: vessel_condition
+      label: Vessel Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 8
+      name: crew_experience
+      label: Crew Experience
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Low''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''High''}'
+      required: false
+    - id: 9
+      name: crew_training
+      label: Crew Training
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''In progress''}'
+      - '{''label'': ''Completed''}'
+      required: false
+    - id: 10
+      name: crew_certification
+      label: Crew Certification
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''In progress''}'
+      - '{''label'': ''Completed''}'
+      required: false
+    - id: 11
+      name: vessel_equipment
+      label: Vessel Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Needs attention''}'
+      required: false
+    - id: 12
+      name: weather_studies
+      label: Weather Studies
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''In progress''}'
+      - '{''label'': ''Completed''}'
+      required: false
+    - id: 13
+      name: weather_radio_check
+      label: Weather Radio Check
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''In progress''}'
+      - '{''label'': ''Completed''}'
+      required: false
+    - id: 14
+      name: emergency_procedures
+      label: Emergency Procedures
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''In progress''}'
+      - '{''label'': ''Completed''}'
+      required: false
+    - id: 15
+      name: emergency_equipment
+      label: Emergency Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''In progress''}'
+      - '{''label'': ''Completed''}'
+      required: false
+    - id: 16
+      name: emergency_communication
+      label: Emergency Communication
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''In progress''}'
+      - '{''label'': ''Completed''}'
+      required: false
+    - id: 17
+      name: first_assistance_mission
+      label: First Assistance Mission
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: first_assistance_personnel
+      label: Number of First Assistance Mission
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: vessel_speed
+      label: Vessel Speed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: crew_size
+      label: Vessel Crew Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Submit''}'
+      - '{''label'': ''Continue''}'
+      required: false
+    - id: 24
+      name: submit_comment
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submit_confirmation
+      label: Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false

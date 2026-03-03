@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: vehicle_deactivation_form
+    pages:
+    - id: 1
+      name: vehicle_info
+      label: Vehicle Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: vin_number
+      label: vin_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: date_deactivated
+      label: date_deactivated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: odometer_reading
+      label: odometer_reading
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: mileage_reading
+      label: mileage_reading
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_deactivation
+      label: reason_for_deactivation
+      hint: null
+      type: select_one
+      options:
+      - Deactivated due to low mileage
+      - Deactivated due to high mileage
+      - Deactivated due to vehicle condition
+      - Deactivated due to regulatory requirement
+      - Deactivated due to customer request
+      - Deactivated due to internal policy
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_make
+      label: vehicle_make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_model
+      label: vehicle_model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_year
+      label: vehicle_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_color
+      label: vehicle_color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_type
+      label: vehicle_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: manager_email
+      label: manager_email
+      hint: null
+      type: email
+      options: []
+      required: false

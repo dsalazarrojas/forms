@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Character Influence Assessment
+    pages:
+    - id: 1
+      name: section_assessor_info
+      label: -- Assessor and Media Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: assessor_full_name
+      label: Assessor Full Name
+      hint: e.g., Media Critic, Researcher, or Student
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: media_title_being_assessed
+      label: Media Title (Movie, Book, Series, etc.)
+      hint: What is the title of the work being analyzed?
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: character_being_assessed_name
+      label: Character Being Assessed
+      hint: Who is the character being analyzed?
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: character_role_in_story
+      label: Character Role in the Story
+      hint: Select the most accurate description
+      type: select_one
+      options:
+      - Protagonist
+      - Antagonist
+      - Supporting Character
+      - Mentor
+      - Foil
+      - Narrative Device
+      required: true
+    - id: 6
+      name: section_influence_rating
+      label: -- Influence and Impact Rating --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: cultural_influence_rating
+      label: Cultural Influence Rating
+      hint: How much has this character impacted society or popular culture?
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: influence_on_narrative_arc
+      label: Influence on the Narrative Arc
+      hint: How much does this character drive the plot forward?
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: emotional_impact_on_audience
+      label: Emotional Impact on the Audience
+      hint: How strongly does the audience connect with this character?
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: section_behavioral_impact
+      label: -- Behavioral and Moral Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: behavioral_role_modeling_type
+      label: Behavioral Role Modeling Type
+      hint: What kind of behavioral model does this character present?
+      type: select_one
+      options:
+      - Positive Role Model (Aspirational)
+      - Negative Role Model (Cautionary)
+      - Ambiguous (Complex)
+      - No Significant Impact
+      required: true
+    - id: 12
+      name: moral_complexity_rating
+      label: Moral Complexity Rating
+      hint: How complex are this character's moral choices?
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: impact_on_other_characters_rating
+      label: Impact on Other Characters
+      hint: How much does this character influence others in the story?
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: section_qualitative_assessment
+      label: -- Qualitative Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: summary_of_major_influence
+      label: Summary of Major Influence
+      hint: Briefly describe one significant way this character has influenced their
+        world
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: potential_real_world_consequences
+      label: Potential Real-World Consequences
+      hint: What might be the real-world impact of this character's portrayal?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: section_assessment_finalization
+      label: -- Assessment Finalization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: accuracy_confirmation_influence_assessor
+      label: Confirmation of Influence Assessment
+      hint: I confirm that this assessment is based on my thorough analysis
+      type: select_one
+      options:
+      - I Confirm and Log Assessment
+      - Other
+      required: true
+    - id: 19
+      name: date_of_influence_assessment_log
+      label: Date of Assessment
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: additional_influence_comments
+      label: Additional Influence Comments
+      hint: Any other relevant information or context
+      type: text
+      options: []
+      required: false

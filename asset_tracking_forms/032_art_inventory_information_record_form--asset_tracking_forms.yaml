@@ -1,0 +1,291 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Inventory Information Record Form
+    pages:
+    - id: 1
+      name: record_date
+      label: Record Date
+      hint: Date of inventory record
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: artwork_id
+      label: Artwork ID
+      hint: Unique identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: artwork_title
+      label: Artwork Title
+      hint: Title of the artwork
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: artist_name
+      label: Artist Name
+      hint: Full name of artist
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: artist_birth_year
+      label: Artist Birth Year
+      hint: Year artist was born
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: artist_nationality
+      label: Artist Nationality
+      hint: Nationality of artist
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: creation_date
+      label: Creation Date
+      hint: Year or date created
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: artwork_category
+      label: Artwork Category
+      hint: Category of artwork
+      type: select_one
+      options:
+      - Painting
+      - Sculpture
+      - Photography
+      - Drawing
+      - Print
+      - Mixed Media
+      - Installation
+      - Digital Art
+      - Textile
+      - Ceramics
+      - Other
+      required: true
+    - id: 9
+      name: medium
+      label: Medium
+      hint: Materials used
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: support
+      label: Support
+      hint: Surface or base material
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: dimensions_height
+      label: Dimensions Height
+      hint: Height in inches
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: dimensions_width
+      label: Dimensions Width
+      hint: Width in inches
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: dimensions_depth
+      label: Dimensions Depth
+      hint: Depth in inches
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: weight
+      label: Weight
+      hint: Weight in pounds
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: edition_info
+      label: Edition Info
+      hint: Edition number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: signature_location
+      label: Signature Location
+      hint: Where is the artwork signed
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: condition_status
+      label: Condition Status
+      hint: Current condition
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - Needs Restoration
+      required: true
+    - id: 18
+      name: condition_notes
+      label: Condition Notes
+      hint: Details about condition
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: acquisition_date
+      label: Acquisition Date
+      hint: Date acquired
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: acquisition_method
+      label: Acquisition Method
+      hint: How was it acquired
+      type: select_one
+      options:
+      - Purchase
+      - Donation
+      - Bequest
+      - Commission
+      - Exchange
+      - Found in Collection
+      - Other
+      required: false
+    - id: 21
+      name: acquisition_cost
+      label: Acquisition Cost
+      hint: Cost if purchased
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: current_value
+      label: Current Value
+      hint: Estimated current value
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: appraisal_date
+      label: Appraisal Date
+      hint: Date of last appraisal
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: location_current
+      label: Location Current
+      hint: Current location
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: storage_requirements
+      label: Storage Requirements
+      hint: Special storage needs
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: display_history
+      label: Display History
+      hint: Previous exhibitions or displays
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: conservation_history
+      label: Conservation History
+      hint: Any conservation work done
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: insurance_status
+      label: Insurance Status
+      hint: Is the artwork insured
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending
+      required: true
+    - id: 29
+      name: insurance_value
+      label: Insurance Value
+      hint: Insured value
+      type: number
+      options: []
+      required: false
+    - id: 30
+      name: copyright_status
+      label: Copyright Status
+      hint: Copyright information
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: reproduction_rights
+      label: Reproduction Rights
+      hint: Who holds reproduction rights
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: provenance
+      label: Provenance
+      hint: Ownership history
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: exhibition_history
+      label: Exhibition History
+      hint: List of exhibitions
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: bibliography
+      label: Bibliography
+      hint: Publications featuring this work
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: related_works
+      label: Related Works
+      hint: Related artworks
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: notes
+      label: Notes
+      hint: Additional notes
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: recorded_by
+      label: Recorded By
+      hint: Name of person recording
+      type: text
+      options: []
+      required: true

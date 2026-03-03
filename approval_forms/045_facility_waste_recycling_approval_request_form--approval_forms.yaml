@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facility Waste Recycling Approval Request Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: facility_id
+      label: Facility ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: waste_types
+      label: Waste Types
+      hint: null
+      type: select_multiple
+      options:
+      - Paper
+      - Plastic
+      - Glass
+      - Metal
+      - Organic
+      required: false
+    - id: 4
+      name: recycling_program_details
+      label: Recycling Program Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: documentation_upload
+      label: Documentation Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: program_start_date
+      label: Program Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: program_end_date
+      label: Program End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: facility_contact
+      label: Facility Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: facility_email
+      label: Facility Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: facility_phone
+      label: Facility Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: facility_website
+      label: Facility Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: facility_notes
+      label: Facility Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitter_title
+      label: Submitter Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitter_notes
+      label: Submitter Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: facility_signature
+      label: Facility Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitter_signature
+      label: Submitter Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: approver_notes
+      label: Approver Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: approver_signature
+      label: Approver Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: facility_waste_stream
+      label: Facility Waste Stream
+      hint: null
+      type: select_one
+      options:
+      - Single Stream
+      - Multiple Streams
+      - Both
+      required: false

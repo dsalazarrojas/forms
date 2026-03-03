@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Early Check Out Payment Form
+    pages:
+    - id: 1
+      name: early_check_out_payment_form_1
+      label: check_out_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_early_check_out
+      label: reason_for_early_check_out
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: total_amount
+      label: total_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: payment_type
+      label: payment_type
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - Amex
+      - PayPal
+      required: false

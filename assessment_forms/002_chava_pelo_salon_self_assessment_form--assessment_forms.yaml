@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chava' Pelo Salon Self Assessment Form
+    pages:
+    - id: 1
+      name: assessment_intro
+      label: -- COVID-19 Guest Self Assessment --
+      hint: Please complete this assessment before your salon appointment
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: Full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: appointment_date
+      label: Appointment date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: appointment_service
+      label: Service scheduled
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: fever_symptoms
+      label: Do you currently have a fever or elevated body temperature?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 6
+      name: cough_symptoms
+      label: Do you have a new or worsening cough?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 7
+      name: breathing_difficulty
+      label: Do you have difficulty breathing or shortness of breath?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 8
+      name: loss_taste_smell
+      label: Have you experienced loss of taste or smell?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 9
+      name: fatigue_body_aches
+      label: Do you have fatigue, chills, or body aches?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 10
+      name: sore_throat
+      label: Do you have a sore throat?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 11
+      name: headache
+      label: Do you have a headache?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 12
+      name: covid_exposure
+      label: Have you been in close contact with someone who tested positive for COVID-19
+        in the past 14 days?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 13
+      name: covid_tested_positive
+      label: Have you tested positive for COVID-19 in the past 14 days?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 14
+      name: quarantine_status
+      label: Are you currently under quarantine or isolation?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 15
+      name: vaccination_status
+      label: Vaccination status
+      hint: null
+      type: select_one
+      options:
+      - Fully vaccinated
+      - Partially vaccinated
+      - Not vaccinated
+      - Prefer not to answer
+      required: false
+    - id: 16
+      name: mask_requirement
+      label: Are you willing to wear a mask during your appointment?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 17
+      name: health_declaration
+      label: I certify that I have answered the above questions honestly and to the
+        best of my knowledge
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 18
+      name: contact_phone
+      label: Contact phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: contact_email
+      label: Contact email address
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Multimedia Journalist Evaluation
+    pages:
+    - id: 1
+      name: media_used
+      label: Media Used
+      hint: null
+      type: select_multiple
+      options:
+      - Video
+      - Audio
+      - Image
+      - Social media
+      - Text
+      required: false
+    - id: 2
+      name: story_length
+      label: Story Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: story_length_hrs
+      label: Story Length (hrs)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: story_length_days
+      label: Story Length (days)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: story_type
+      label: Story Type
+      hint: null
+      type: select_one
+      options:
+      - Feature
+      - News
+      - Blog
+      - Other
+      required: false
+    - id: 6
+      name: story_type_other
+      label: Story Type Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: story_type_other_details
+      label: Story Type Other Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: journalist_name
+      label: Journalist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: journalist_department
+      label: Journalist Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: journalist_supervisor
+      label: Supervisor
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Editor
+      - Both
+      required: false
+    - id: 11
+      name: journalist_supervisor_other
+      label: Supervisor Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date_of_event
+      label: Date of Event
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time_of_event
+      label: Time of Event
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: time_of_event_hrs
+      label: Time of Event (hrs)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: location_other
+      label: Location Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: location_other_details
+      label: Location Other Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: story_url
+      label: Story URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: story_url_other
+      label: Story URL Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: story_url_other_details
+      label: Story URL Other Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: story_title
+      label: Story Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: story_title_other
+      label: Story Title Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: story_title_other_details
+      label: Story Title Other Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: story_summary
+      label: Story Summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: story_summary_other
+      label: Story Summary Other
+      hint: null
+      type: text
+      options: []
+      required: false

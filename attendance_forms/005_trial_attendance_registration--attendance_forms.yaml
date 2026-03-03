@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trial Attendance Registration
+    pages:
+    - id: 1
+      name: trial_session_details
+      label: Trial Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preferred_dates
+      label: Preferred Dates
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Today''}'
+      - '{''id'': 2, ''label'': ''Tomorrow''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: preferred_times
+      label: Preferred Times
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''10:00 AM''}'
+      - '{''id'': 2, ''label'': ''11:00 AM''}'
+      - '{''id'': 3, ''label'': ''12:00 PM''}'
+      required: false
+    - id: 4
+      name: attendee_details
+      label: Attendee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attendee_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: attendee_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: attendee_email_repeat
+      label: Email (again)
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: attendee_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: attendee_additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false

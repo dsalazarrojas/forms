@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Award Application Form
+    pages:
+    - id: 1
+      name: section_applicant_info
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Applicant Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Applicant Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_nomination_details
+      label: -- Nomination and Award Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: award_category
+      label: Award Category
+      hint: Select the primary category
+      type: select_one
+      options:
+      - Innovation and Technology
+      - Leadership and Management
+      - Community Service and Social Impact
+      - Academic Excellence
+      - Lifetime Achievement Award
+      required: true
+    - id: 7
+      name: affiliation
+      label: Organization or Affiliation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: nomination_type
+      label: Nomination Type
+      hint: How is the applicant being nominated?
+      type: select_one
+      options:
+      - Self-Nomination
+      - Nominated by Colleague/Peer
+      - Nominated by Supervisor
+      - Community Member
+      required: true
+    - id: 9
+      name: nominator_name
+      label: Nominator Full Name
+      hint: If not a self-nomination
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: nominator_email
+      label: Nominator Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: achievement_summary
+      label: Key Achievements and Contributions
+      hint: Summarize why the applicant deserves this award
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: years_experience
+      label: Years of Experience in Field
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: portfolio_link
+      label: Link to Portfolio or CV
+      hint: URL to supporting documents
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: references
+      label: Professional References
+      hint: Name and Contact for 2-3 references
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: verification_consent
+      label: Consent to verify information
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 16
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: signature
+      label: Digital Signature
+      hint: Type full name to certify the application
+      type: text
+      options: []
+      required: true

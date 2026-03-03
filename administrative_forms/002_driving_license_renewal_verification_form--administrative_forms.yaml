@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: driving_license_renewal_verification_form
+    pages:
+    - id: 1
+      name: applicant_info
+      label: Applicant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: license_status
+      label: License Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Expired
+      - Cancelled
+      required: false
+    - id: 3
+      name: license_expiration_date
+      label: License Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_info
+      label: Vehicle Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: license_number
+      label: License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: license_issue_date
+      label: License Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: license_status_confirmation
+      label: License Status Confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - I confirm that my license status is as reported above.
+      - I am unsure about my license status.
+      required: false

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Purchase Order Amendment Request Form
+    pages:
+    - id: 1
+      name: purchase_order_number
+      label: Purchase Order Number
+      hint: Enter the PO number
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: change_type
+      label: change_type
+      hint: null
+      type: select_one
+      options:
+      - Amendment
+      - Cancellation
+      - Return
+      required: true
+    - id: 3
+      name: reason_for_change
+      label: reason_for_change
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: change_description
+      label: description_of_change
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: new_total_cost
+      label: new_total_cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: supporting_files
+      label: supporting_files
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: approver_name
+      label: approver_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: approver_department
+      label: approver_department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: approver_email
+      label: approver_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: approver_phone
+      label: approver_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: approver_note
+      label: approver_note
+      hint: null
+      type: note
+      options: []
+      required: false

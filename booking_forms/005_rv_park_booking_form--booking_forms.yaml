@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: rv park booking form
+    pages:
+    - id: 1
+      name: rv_park_name
+      label: Rv Park Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rv_park_address
+      label: Rv Park Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rv_park_phone
+      label: Rv Park Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rv_park_email
+      label: Rv Park Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: guest_email
+      label: Guest Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: guest_phone
+      label: Guest Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: arrival_date
+      label: Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: departure_date
+      label: Departure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: departure_time
+      label: Departure Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: number_of_people
+      label: Number of People
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: number_of_units
+      label: Number of Units
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: unit_type
+      label: Unit Type
+      hint: null
+      type: select_one
+      options:
+      - rv park unit 1
+      - rv park unit 2
+      - rv park unit 3
+      required: true
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Card
+      - Bank Transfer
+      - Cash
+      required: true
+    - id: 16
+      name: reservation_note
+      label: Reservation Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: message_to_staff
+      label: Message to Staff
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: agree
+      label: Agree
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: rv_park_reservation_id
+      label: Rv Park Reservation ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: rv_park_reservation_status
+      label: Rv Park Reservation Status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - accepted
+      - cancelled
+      - confirmed
+      required: false
+    - id: 21
+      name: guest_message_to_rv_park
+      label: Guest Message to Rv Park
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: rv_park_booking_status
+      label: Rv Park Booking Status
+      hint: null
+      type: select_multiple
+      options:
+      - pending
+      - accepted
+      - cancelled
+      - confirmed
+      required: false
+    - id: 23
+      name: payment_received
+      label: Payment Received
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 24
+      name: rv_park_staff_response
+      label: Rv Park Staff Response
+      hint: null
+      type: select_multiple
+      options:
+      - pending
+      - accepted
+      - rejected
+      required: false
+    - id: 25
+      name: message_to_guest
+      label: Message to Guest
+      hint: null
+      type: text
+      options: []
+      required: false

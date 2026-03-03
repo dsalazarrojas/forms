@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: extracurricular_activity_success_assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_info
+      label: student_info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Yes''}'
+      - '{''value'': ''No''}'
+      required: false
+    - id: 3
+      name: student_grade_level
+      label: student_grade_level
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1}'
+      - '{''value'': 2}'
+      - '{''value'': 3}'
+      required: false
+    - id: 4
+      name: teacher_recommendation
+      label: teacher_recommendation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: staff_support
+      label: staff_support
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: student_feedback
+      label: student_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: staff_feedback
+      label: staff_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_progress
+      label: student_progress
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: program_participation
+      label: program_participation
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''High''}'
+      - '{''value'': ''Moderate''}'
+      - '{''value'': ''Low''}'
+      required: false

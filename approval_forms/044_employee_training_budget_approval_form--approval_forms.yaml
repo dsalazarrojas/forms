@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_training_budget_approval_form
+    pages:
+    - id: 1
+      name: employee_training_budget_approval_form
+      label: Training Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: training_requester_name
+      label: Training Requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: training_requester_department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: training_requester_position
+      label: Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: training_course_name
+      label: Course
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: training_course_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: training_course_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: training_course_duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: training_course_venue
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: training_course_cost
+      label: Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: training_request_reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: training_request_approver_name
+      label: Approver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: training_request_approver_department
+      label: Approver Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: training_request_approver_position
+      label: Approver Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: training_approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 16
+      name: notes
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

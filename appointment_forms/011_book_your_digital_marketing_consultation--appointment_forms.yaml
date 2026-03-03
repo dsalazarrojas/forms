@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book Your Digital Marketing Consultation
+    pages:
+    - id: 1
+      name: client_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: We will send consultation details to this email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Your business name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_website
+      label: Company Website
+      hint: Your website URL
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: industry_type
+      label: Industry Type
+      hint: What industry is your business in
+      type: select_one
+      options:
+      - E-commerce
+      - B2B Services
+      - Healthcare
+      - Technology
+      - Real Estate
+      - Finance
+      - Education
+      - Non-profit
+      - Retail
+      - Other
+      required: true
+    - id: 8
+      name: marketing_challenges
+      label: What are your main marketing challenges
+      hint: Describe your current situation
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: marketing_goals
+      label: What are your marketing goals
+      hint: What do you want to achieve
+      type: select_multiple
+      options:
+      - Increase website traffic
+      - Generate leads
+      - Improve brand awareness
+      - Increase sales
+      - Social media growth
+      - SEO improvement
+      - Email marketing
+      - Content strategy
+      required: true
+    - id: 10
+      name: current_budget
+      label: Current Marketing Budget
+      hint: Your monthly budget for marketing
+      type: select_one
+      options:
+      - Under $1,000
+      - $1,000 - $5,000
+      - $5,000 - $10,000
+      - $10,000 - $25,000
+      - $25,000+
+      required: false
+    - id: 11
+      name: team_size
+      label: Marketing Team Size
+      hint: How many people work on marketing
+      type: select_one
+      options:
+      - Solo
+      - 2-3 people
+      - 4-6 people
+      - 7-10 people
+      - 10+
+      required: false
+    - id: 12
+      name: preferred_consultation_time
+      label: Preferred Consultation Date
+      hint: When would you like to meet
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: preferred_time_slot
+      label: Preferred Time Slot
+      hint: Select your preferred time
+      type: select_one
+      options:
+      - 8:00 AM - 9:00 AM
+      - 9:00 AM - 10:00 AM
+      - 10:00 AM - 11:00 AM
+      - 2:00 PM - 3:00 PM
+      - 3:00 PM - 4:00 PM
+      - 4:00 PM - 5:00 PM
+      required: true
+    - id: 14
+      name: consultation_format
+      label: Preferred Consultation Format
+      hint: How would you like to meet
+      type: select_one
+      options:
+      - Phone call
+      - Video call
+      - In-person
+      required: true
+    - id: 15
+      name: additional_information
+      label: Additional Information
+      hint: Any other details we should know
+      type: text
+      options: []
+      required: false

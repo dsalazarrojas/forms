@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: vehicle_insurance_claim_form
+    pages:
+    - id: 1
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - Vehicle
+      - Motorcycle
+      - Boat
+      - Other
+      required: false
+    - id: 2
+      name: claim_date
+      label: Claim Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: policy_holder_name
+      label: Policy Holder Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: policy_holder_contact
+      label: Policy Holder Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: policy_number
+      label: Policy Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_damage
+      label: Vehicle Damage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: insurance_company
+      label: Insurance Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: adjuster_name
+      label: Adjuster Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: adjuster_contact
+      label: Adjuster Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: vehicle_mileage
+      label: Vehicle Mileage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: vehicle_license_plate
+      label: Vehicle License Plate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: claim_amount
+      label: Claim Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: policy_holder_address
+      label: Policy Holder Address
+      hint: null
+      type: text
+      options: []
+      required: false

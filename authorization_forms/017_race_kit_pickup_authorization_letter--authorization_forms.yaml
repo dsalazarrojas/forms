@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Race Kit Pickup Authorization Letter
+    pages:
+    - id: 1
+      name: race_kit_pickup_authorization_letter_form
+      label: Race Kit Pickup Authorization Letter Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_details
+      label: Event Details
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Event'', ''value'': ''Event''}'
+      - '{''id'': 2, ''label'': ''Team'', ''value'': ''Team''}'
+      required: true
+    - id: 3
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_event
+      label: Date of Event
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time_of_event
+      label: Time of Event
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: race_kit_details
+      label: Race Kit Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: pickup_location
+      label: Pickup Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: race_kit_pickup_location_2
+      label: Race Kit Pickup Location 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: race_kit_collection_date
+      label: Race Kit Collection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: race_kit_collection_time
+      label: Race Kit Collection Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: race_kit_return_location
+      label: Race Kit Return Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: return_details
+      label: Return Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: race_kit_signature
+      label: Race Kit Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: race_kit_signer_name
+      label: Race Kit Signer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: race_kit_date_of_signature
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: race_kit_signer_signature
+      label: Race Kit Signer Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: race_kit_signature_type
+      label: Race Kit Signature Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Hand Signed'', ''value'': ''Hand Signed''}'
+      - '{''id'': 2, ''label'': ''E-Signed'', ''value'': ''E-Signed''}'
+      required: true
+    - id: 18
+      name: race_kit_note
+      label: Race Kit Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 20
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''California'', ''value'': ''California''}'
+      - '{''id'': 2, ''label'': ''Other'', ''value'': ''Other''}'
+      required: true
+    - id: 24
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

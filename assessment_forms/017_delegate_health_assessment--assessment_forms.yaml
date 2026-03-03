@@ -1,0 +1,120 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: delegate_health_assessment
+    pages:
+    - id: 1
+      name: delegate_health_assessment_page_1
+      label: patient_information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_information_fields
+      label: patient
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''patient_information'', ''label'': ''Patient Information''}'
+      - '{''id'': 2, ''name'': ''medical_history'', ''label'': ''Medical History''}'
+      - '{''id'': 3, ''name'': ''medications'', ''label'': ''Medications''}'
+      - '{''id'': 4, ''name'': ''allergies'', ''label'': ''Allergies''}'
+      - '{''id'': 5, ''name'': ''medical_conditions'', ''label'': ''Medical Conditions''}'
+      - '{''id'': 6, ''name'': ''medical_procedures'', ''label'': ''Medical Procedures''}'
+      - '{''id'': 7, ''name'': ''medical_devices'', ''label'': ''Medical Devices''}'
+      - '{''id'': 8, ''name'': ''medical_history_additional_info'', ''label'': ''Additional
+        Medical History''}'
+      required: true
+    - id: 3
+      name: patient_questionnaires
+      label: questionnaires
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''patient_questionnaire_1'', ''label'': ''Patient Questionnaire
+        1''}'
+      - '{''id'': 2, ''name'': ''patient_questionnaire_2'', ''label'': ''Patient Questionnaire
+        2''}'
+      - '{''id'': 3, ''name'': ''patient_questionnaire_3'', ''label'': ''Patient Questionnaire
+        3''}'
+      - '{''id'': 4, ''name'': ''patient_questionnaire_4'', ''label'': ''Patient Questionnaire
+        4''}'
+      - '{''id'': 5, ''name'': ''patient_questionnaire_5'', ''label'': ''Patient Questionnaire
+        5''}'
+      - '{''id'': 6, ''name'': ''patient_questionnaire_6'', ''label'': ''Patient Questionnaire
+        6''}'
+      - '{''id'': 7, ''name'': ''patient_questionnaire_7'', ''label'': ''Patient Questionnaire
+        7''}'
+      - '{''id'': 8, ''name'': ''patient_questionnaire_8'', ''label'': ''Patient Questionnaire
+        8''}'
+      - '{''id'': 9, ''name'': ''patient_questionnaire_9'', ''label'': ''Patient Questionnaire
+        9''}'
+      - '{''id'': 10, ''name'': ''patient_questionnaire_10'', ''label'': ''Patient
+        Questionnaire 10''}'
+      required: true
+    - id: 4
+      name: delegate_questionnaires
+      label: delegate_questionnaires
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''delegate_questionnaire_1'', ''label'': ''Delegate
+        Questionnaire 1''}'
+      - '{''id'': 2, ''name'': ''delegate_questionnaire_2'', ''label'': ''Delegate
+        Questionnaire 2''}'
+      - '{''id'': 3, ''name'': ''delegate_questionnaire_3'', ''label'': ''Delegate
+        Questionnaire 3''}'
+      - '{''id'': 4, ''name'': ''delegate_questionnaire_4'', ''label'': ''Delegate
+        Questionnaire 4''}'
+      - '{''id'': 5, ''name'': ''delegate_questionnaire_5'', ''label'': ''Delegate
+        Questionnaire 5''}'
+      - '{''id'': 6, ''name'': ''delegate_questionnaire_6'', ''label'': ''Delegate
+        Questionnaire 6''}'
+      - '{''id'': 7, ''name'': ''delegate_questionnaire_7'', ''label'': ''Delegate
+        Questionnaire 7''}'
+      - '{''id'': 8, ''name'': ''delegate_questionnaire_8'', ''label'': ''Delegate
+        Questionnaire 8''}'
+      - '{''id'': 9, ''name'': ''delegate_questionnaire_9'', ''label'': ''Delegate
+        Questionnaire 9''}'
+      - '{''id'': 10, ''name'': ''delegate_questionnaire_10'', ''label'': ''Delegate
+        Questionnaire 10''}'
+      required: true
+    - id: 5
+      name: medical_history_3
+      label: medical_history_3
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: medical_history_2
+      label: medical_history_2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''medical_history_2_option_1'', ''label'': ''Option
+        1''}'
+      - '{''id'': 2, ''name'': ''medical_history_2_option_2'', ''label'': ''Option
+        2''}'
+      - '{''id'': 3, ''name'': ''medical_history_2_option_3'', ''label'': ''Option
+        3''}'
+      required: true
+    - id: 7
+      name: medical_history_1
+      label: medical_history_1
+      hint: null
+      type: date
+      options: []
+      required: false

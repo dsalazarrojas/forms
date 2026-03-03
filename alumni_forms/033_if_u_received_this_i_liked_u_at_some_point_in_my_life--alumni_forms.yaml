@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: if_u_received_this_i_liked_u_at_some_point_in_my_life
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: graduation_date
+      label: graduation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: if_i_recognized_u_at
+      label: if I knew you at
+      hint: null
+      type: select_one
+      options:
+      - I was in school
+      - I met online
+      - I met through a friend
+      - I met through a family member
+      - I met at work
+      - I met at a club or group
+      - I met in a class
+      - Other (tell us about it)
+      required: false
+    - id: 7
+      name: if_u_recognized_u_at
+      label: if you recognized me at
+      hint: null
+      type: select_multiple
+      options:
+      - school
+      - online
+      - at a party
+      - at a restaurant
+      - at a store
+      - at a park
+      - at a beach
+      - Other (describe)
+      required: false
+    - id: 8
+      name: why_i_recognized_u_at
+      label: why I recognized you at
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: if_i_was_in_your_class
+      label: if I was in your class
+      hint: null
+      type: select_one
+      options:
+      - 5th
+      - 6th
+      - 7th
+      - 8th
+      - 9th
+      - 10th
+      - 11th
+      - 12th
+      - Other (tell us about it)
+      required: false
+    - id: 10
+      name: if_i_knew_u
+      label: if I knew you
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: if_i_recognized_u_before
+      label: if I recognized you before
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: if_i_recognized_u_before_other
+      label: if I recognized you before other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: if_i_recognized_u_before_other_details
+      label: if I recognized you before other details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: why_i_recognized_u_before_other
+      label: why I recognized you before
+      hint: null
+      type: select_one
+      options:
+      - face
+      - voice
+      - name
+      - other
+      required: false
+    - id: 15
+      name: if_i_recognized_u_before_other_other
+      label: if I recognized you before other other
+      hint: null
+      type: text
+      options: []
+      required: false

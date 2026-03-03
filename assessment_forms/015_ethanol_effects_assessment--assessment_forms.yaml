@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ethanol Effects Assessment
+    pages:
+    - id: 1
+      name: intro
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: ethanol_consumption
+      label: What is your typical daily consumption of ethanol?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: alcohol_type
+      label: What type of alcohol do you drink most often?
+      hint: null
+      type: select_one
+      options:
+      - beer
+      - wine
+      - spirits
+      - other
+      required: false
+    - id: 4
+      name: frequency
+      label: How often do you consume alcohol?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 5
+      name: social_situations
+      label: In what social situations do you usually consume alcohol?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: quantity_consumed
+      label: How much alcohol do you usually consume during these social situations?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: units_consumed
+      label: What is your usual unit size or serving size?
+      hint: null
+      type: select_one
+      options:
+      - standard drink
+      - shot
+      - can
+      - bottle
+      - can_bevaried
+      required: false
+    - id: 8
+      name: binge_drinking
+      label: Do you usually drink to binge?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: drink_drinking
+      label: Do you usually drink to get drunk?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: social_pressures
+      label: Do people pressure you to drink?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: drinking_frequency
+      label: How often do you consume alcohol?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 12
+      name: drinking_location
+      label: Where do you usually drink?
+      hint: null
+      type: select_multiple
+      options:
+      - Home
+      - Bar or Club
+      - Restaurant
+      - Other
+      required: false
+    - id: 13
+      name: drink_alone
+      label: Do you usually drink alone?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: drinking_friends
+      label: How many friends do you usually drink with?
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - 2-3
+      - 4-5
+      - 6 or more
+      required: false
+    - id: 15
+      name: age_of_initiation
+      label: How old were you when you started drinking?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: years_drinking
+      label: How many years have you been drinking?
+      hint: null
+      type: number
+      options: []
+      required: false

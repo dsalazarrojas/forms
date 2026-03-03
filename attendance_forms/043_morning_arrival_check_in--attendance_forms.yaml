@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Morning Arrival Check In
+    pages:
+    - id: 1
+      name: morning_arrival_check_in_form
+      label: Morning Arrival Check In
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: health_status
+      label: Health Status
+      hint: null
+      type: select_one
+      options:
+      - Healthy
+      - Unhealthy
+      - Unknown
+      required: false
+    - id: 4
+      name: symptoms
+      label: Symptoms
+      hint: Please specify any symptoms
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

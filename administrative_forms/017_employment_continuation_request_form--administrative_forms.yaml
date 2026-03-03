@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: employment_continuation_request_form
+    pages:
+    - id: 1
+      name: employee_details
+      label: Employee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employment_start_date
+      label: employment_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: employment_end_date
+      label: employment_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_leaving
+      label: reason_for_leaving
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: supporting_documents
+      label: supporting_documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: employee_signature
+      label: employee_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manager_signature
+      label: manager_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - HR
+      - Sales
+      - Marketing
+      - IT
+      required: true
+    - id: 9
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reason_for_leaving
+      label: reason_for_leaving
+      hint: null
+      type: select_multiple
+      options:
+      - Relocation
+      - Career Change
+      - Retirement
+      - Other
+      required: true
+    - id: 12
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: manager_contact_number
+      label: Manager Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: manager_department
+      label: Manager Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: manager_job_title
+      label: Manager Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: date_of_last_evaluation
+      label: Date Of Last Evaluation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: reason_for_requesting_termination
+      label: reason_for_requesting_termination
+      hint: null
+      type: select_multiple
+      options:
+      - Unemployment
+      - Redundancy
+      - Other
+      required: true
+    - id: 20
+      name: manager_signature_date
+      label: Manager Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false

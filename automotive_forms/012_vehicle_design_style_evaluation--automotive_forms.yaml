@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Design Style Evaluation Form
+    pages:
+    - id: 1
+      name: vehicle_style_preferences
+      label: vehicle style preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: exterior_design_impressions
+      label: exterior design impressions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: interior_design_impressions
+      label: interior design impressions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: overall_design_impressions
+      label: overall design impressions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: color_scheme
+      label: color scheme
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: trim_level
+      label: trim level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 7
+      name: body_style
+      label: body style
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: wheel_type
+      label: wheel type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: transmission_type
+      label: transmission type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: fuel_type
+      label: fuel type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: drivetrain_type
+      label: drivetrain type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: engine_size
+      label: engine size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

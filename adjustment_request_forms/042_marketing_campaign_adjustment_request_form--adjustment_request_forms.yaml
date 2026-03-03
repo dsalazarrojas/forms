@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: marketing_campaign_adjustment_request_form
+    pages:
+    - id: 1
+      name: base_info
+      label: base_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: campaign_name
+      label: campaign_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: change_type
+      label: change_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: change_details
+      label: change_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: campaign_date
+      label: campaign_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: marketing_manager
+      label: marketing_manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: sales_manager
+      label: sales_manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: customer_service
+      label: customer_service
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: change_type_date
+      label: change_type_date
+      hint: null
+      type: date
+      options: []
+      required: false

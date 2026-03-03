@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cost of Inaction Assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: initiative_details
+      label: initiative details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: risk_factor
+      label: risk factor
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: cost_of_delaying
+      label: cost of delaying
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: opportunity_cost
+      label: opportunity cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: project_duration
+      label: project duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: project_budget
+      label: project budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: project_resources
+      label: project resources
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 9
+      name: project_location
+      label: project location
+      hint: null
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: true
+    - id: 10
+      name: project_status
+      label: project status
+      hint: null
+      type: select_multiple
+      options:
+      - In Progress
+      - Completed
+      - On Hold
+      required: true
+    - id: 11
+      name: deadline
+      label: deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: deadline_time
+      label: deadline time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: cost_of_inaction
+      label: cost of inaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: opportunity_cost
+      label: opportunity cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: total_cost
+      label: total cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: recommended_next_steps
+      label: recommended next steps
+      hint: null
+      type: select_multiple
+      options:
+      - Step 1
+      - Step 2
+      - Step 3
+      required: true
+    - id: 17
+      name: comments
+      label: comments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

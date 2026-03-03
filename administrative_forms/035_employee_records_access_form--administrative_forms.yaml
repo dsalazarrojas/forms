@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Records Access Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: job_title
+      label: job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - HR
+      - Finance
+      - Sales
+      - Marketing
+      required: false
+    - id: 6
+      name: manager_id
+      label: manager id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: employee_id
+      label: employee id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: access_level
+      label: access level
+      hint: null
+      type: select_multiple
+      options:
+      - View
+      - Edit
+      - Admin
+      required: false
+    - id: 9
+      name: access_notes
+      label: access notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: confirm_access
+      label: confirm access
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: created_by
+      label: created by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: updated_by
+      label: updated by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: updated_at
+      label: updated at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: updated_by_at
+      label: updated by at
+      hint: null
+      type: time
+      options: []
+      required: false

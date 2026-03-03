@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Relaxation Package Release Form
+    pages:
+    - id: 1
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: package_details
+      label: Package Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: schedule_session
+      label: Schedule Session
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: capture_consent
+      label: Capture Consent
+      hint: null
+      type: select_one
+      options:
+      - Client has read, understands, and agrees to the terms and conditions
+      - Client has read, understands, but disagrees with the terms and conditions
+      - Client has not read nor understands the terms and conditions
+      required: false
+    - id: 5
+      name: session_duration
+      label: Session Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: session_frequency
+      label: Session Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Once
+      - Multiple times
+      - Weekly
+      - Biweekly
+      - Monthly
+      - Every 2 months
+      - Every 3 months
+      - Every 4 months
+      - Every 5 months
+      - Every 6 months
+      - Every 7 months
+      - Every 8 months
+      - Every 9 months
+      - Every 10 months
+      - Every 11 months
+      - Every 12 months
+      - Every 13 months
+      - Every 14 months
+      - Every 15 months
+      - Every 16 months
+      - Every 17 months
+      - Every 18 months
+      - Every 19 months
+      - Every 20 months
+      - Every 21 months
+      - Every 22 months
+      - Every 23 months
+      - Every 24 months
+      - Every 25 months
+      required: false
+    - id: 7
+      name: package_manager
+      label: Package Manager
+      hint: null
+      type: select_one
+      options:
+      - Client
+      - Spa/Wellness Provider
+      - Third Party
+      required: false
+    - id: 8
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submitted
+      label: Submitted
+      hint: null
+      type: date
+      options: []
+      required: false

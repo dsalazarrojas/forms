@@ -1,0 +1,243 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Welcome Packet Printing Order Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: Name of team or organization
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department
+      label: Department
+      hint: Which department is ordering
+      type: select_one
+      options:
+      - Athletics
+      - Sports Medicine
+      - Coaching Staff
+      - Administration
+      - Marketing
+      - Other
+      required: true
+    - id: 3
+      name: contact_name
+      label: Contact Person Name
+      hint: Primary contact for order
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: Email for order communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number for order questions
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: order_date
+      label: Order Date
+      hint: Date of order
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: needed_by_date
+      label: Needed By Date
+      hint: When do you need the packets
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: packet_type
+      label: Packet Type
+      hint: Type of welcome packet
+      type: select_one
+      options:
+      - New Athlete Welcome Packet
+      - Season Welcome Packet
+      - Team Information Packet
+      - Medical Forms Packet
+      - Complete Information Packet
+      - Custom Packet
+      required: true
+    - id: 9
+      name: quantity_needed
+      label: Quantity Needed
+      hint: Number of packets to print
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: packet_size
+      label: Packet Size
+      hint: Preferred size
+      type: select_one
+      options:
+      - Letter Size (8.5 x 11)
+      - Half Letter (5.5 x 8.5)
+      - Tri-Fold Brochure
+      - Custom Size
+      required: true
+    - id: 11
+      name: paper_type
+      label: Paper Type
+      hint: Preferred paper quality
+      type: select_one
+      options:
+      - Standard Copy Paper
+      - Premium Bond Paper
+      - Cardstock Cover
+      - Glossy Finish
+      - Matte Finish
+      required: true
+    - id: 12
+      name: color_options
+      label: Color Options
+      hint: Print color preference
+      type: select_one
+      options:
+      - Full Color
+      - Black and White Only
+      - Color Cover, B and W Inside
+      - Spot Color
+      required: true
+    - id: 13
+      name: binding_type
+      label: Binding Type
+      hint: How should packets be bound
+      type: select_one
+      options:
+      - Stapled
+      - Spiral Bound
+      - Saddle Stitched
+      - Three-Hole Punched
+      - No Binding
+      - Folder with Pockets
+      required: true
+    - id: 14
+      name: folder_type
+      label: Folder Type
+      hint: If using folders
+      type: select_one
+      options:
+      - No Folder Needed
+      - Standard Pocket Folder
+      - Two-Pocket Folder
+      - Folder with Brads
+      - Custom Printed Folder
+      required: false
+    - id: 15
+      name: contents_included
+      label: Contents Included
+      hint: Select all documents to include
+      type: select_multiple
+      options:
+      - Welcome Letter
+      - Team Roster
+      - Schedule of Events
+      - Code of Conduct
+      - Medical Forms
+      - Liability Waivers
+      - Equipment List
+      - Contact Directory
+      - Map and Directions
+      - FAQ Sheet
+      - Custom Documents
+      required: true
+    - id: 16
+      name: custom_content
+      label: Custom Content Description
+      hint: Describe any custom documents
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: personalization_needed
+      label: Personalization Needed
+      hint: Do packets need individual names or info
+      type: select_one
+      options:
+      - No - All Identical
+      - Yes - Name Only
+      - Yes - Name and ID
+      - Yes - Full Personalization
+      required: true
+    - id: 18
+      name: athlete_list_provided
+      label: Athlete List Provided
+      hint: Will you provide a list for personalization
+      type: select_one
+      options:
+      - Yes - Attached
+      - Yes - Will Send Later
+      - No - Not Needed
+      required: true
+    - id: 19
+      name: logo_needed
+      label: Logo Printing
+      hint: Is logo printing needed
+      type: select_one
+      options:
+      - Yes - Logo on Cover
+      - Yes - Logo on Each Page
+      - No Logo Needed
+      required: true
+    - id: 20
+      name: logo_file
+      label: Logo File
+      hint: Upload logo file or describe
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: delivery_method
+      label: Delivery Method
+      hint: How should order be delivered
+      type: select_one
+      options:
+      - Pickup at Print Shop
+      - Campus Delivery
+      - Office Delivery
+      - Mail or Ship
+      required: true
+    - id: 22
+      name: delivery_address
+      label: Delivery Address
+      hint: Where should order be delivered
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: budget_code
+      label: Budget or Account Code
+      hint: For billing purposes
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special requests or notes
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: rush_order
+      label: Rush Order
+      hint: Is this a rush order
+      type: select_one
+      options:
+      - No - Standard Turnaround
+      - Yes - Rush Processing
+      required: true

@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Advocacy Training Evaluation Form
+    pages:
+    - id: 1
+      name: patient_advocacy_training_course
+      label: Patient Advocacy Training Course
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: course_length
+      label: Course Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: learning_objectives
+      label: Learning Objectives
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: course_outcome
+      label: Course Outcome
+      hint: null
+      type: select_one
+      options:
+      - Patient Advocate
+      - Trainer
+      - Other
+      required: false
+    - id: 6
+      name: patient_advocacy_training_evaluation_form
+      label: Patient Advocacy Training Evaluation Form
+      hint: null
+      type: select_multiple
+      options:
+      - Patient Advocate
+      - Trainer
+      - Other
+      required: false
+    - id: 7
+      name: training_environment
+      label: Training Environment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: course_instructor
+      label: Course Instructor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submission
+      label: Submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: form_submissions
+      label: Form Submissions
+      hint: null
+      type: select_one
+      options:
+      - One
+      - Two
+      - Three
+      - Four
+      - Five
+      required: false
+    - id: 14
+      name: form_completion
+      label: Form Completion
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - Incomplete
+      - Partially Complete
+      required: false
+    - id: 15
+      name: form_review
+      label: Form Review
+      hint: null
+      type: select_multiple
+      options:
+      - Reviewed
+      - Not Reviewed
+      required: false
+    - id: 16
+      name: form_approval
+      label: Form Approval
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: false
+    - id: 17
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 18
+      name: submission_timestamp
+      label: Submission Timestamp
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: submission_datetime
+      label: Submission Datetime
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: submission_timezone
+      label: Submission Timezone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submission_timezone_offset
+      label: Submission Timezone Offset
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: submission_timezone_offset_minutes
+      label: Submission Timezone Offset Minutes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: submission_utc_offset
+      label: Submission UTC Offset
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: submission_utc_offset_hours
+      label: Submission UTC Offset Hours
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,232 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Insurance Online Payment Form
+    pages:
+    - id: 1
+      name: policyholder_info
+      label: Policyholder Information
+      hint: Please provide your policy details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: policy_number
+      label: Policy Number
+      hint: Your insurance policy number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Email for receipt confirmation
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: payment_info
+      label: Payment Information
+      hint: Enter your payment details
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: payment_amount
+      label: Payment Amount
+      hint: Amount you wish to pay
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: payment_type
+      label: Payment Type
+      hint: What type of payment is this
+      type: select_one
+      options:
+      - Full Premium Payment
+      - Partial Payment
+      - Deductible Payment
+      - Late Payment
+      - Reinstatement Payment
+      required: true
+    - id: 10
+      name: billing_period
+      label: Billing Period
+      hint: Which period are you paying for
+      type: select_one
+      options:
+      - Current Month
+      - Next Month
+      - Previous Month
+      - Quarterly
+      - Semi-Annual
+      - Annual
+      required: true
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Account
+      - PayPal
+      - Apple Pay
+      - Google Pay
+      required: true
+    - id: 12
+      name: card_type
+      label: Card Type
+      hint: Select your card type
+      type: select_one
+      options:
+      - Visa
+      - MasterCard
+      - American Express
+      - Discover
+      - Not Applicable
+      required: false
+    - id: 13
+      name: card_number
+      label: Card Number
+      hint: XXXX-XXXX-XXXX-XXXX
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: cardholder_name
+      label: Cardholder Name
+      hint: Name as it appears on card
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: expiration_month
+      label: Expiration Month
+      hint: MM
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 08
+      - 09
+      - 10
+      - 11
+      - 12
+      required: false
+    - id: 16
+      name: expiration_year
+      label: Expiration Year
+      hint: YYYY
+      type: select_one
+      options:
+      - 2026
+      - 2027
+      - 2028
+      - 2029
+      - 2030
+      - 2031
+      - 2032
+      required: false
+    - id: 17
+      name: cvv
+      label: CVV
+      hint: 3-digit security code
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: billing_address
+      label: Billing Address
+      hint: Address associated with payment method
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: billing_zip
+      label: Billing ZIP Code
+      hint: ZIP code for billing address
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: save_payment_method
+      label: Save Payment Method
+      hint: Save for future payments
+      type: select_one
+      options:
+      - Yes save securely
+      - No one-time payment
+      required: true
+    - id: 21
+      name: autopay_option
+      label: Enable AutoPay
+      hint: Automatically charge future payments
+      type: select_one
+      options:
+      - Yes enable AutoPay
+      - No thank you
+      - Already enrolled
+      required: true
+    - id: 22
+      name: email_receipt
+      label: Email Receipt
+      hint: Send receipt to email
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: additional_notes
+      label: Additional Notes
+      hint: Any comments about this payment
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: terms_acceptance
+      label: Terms and Conditions
+      hint: I agree to the terms and conditions
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 25
+      name: authorization
+      label: Payment Authorization
+      hint: I authorize this charge to my payment method
+      type: select_one
+      options:
+      - I Authorize
+      - I Do Not Authorize
+      required: true

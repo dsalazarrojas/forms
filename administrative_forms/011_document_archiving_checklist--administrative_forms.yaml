@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Document Archiving Checklist
+    pages:
+    - id: 1
+      name: document_archive_form
+      label: Document Archive Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: storage_location
+      label: Storage Location
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: false
+    - id: 3
+      name: document_type
+      label: Document Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: false
+    - id: 4
+      name: archive_date
+      label: Archive Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: archive_time
+      label: Archive Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: storage_duration
+      label: Storage Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: retention_period
+      label: Retention Period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: archiving_status
+      label: Archiving Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: document_number
+      label: Document Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: document_description
+      label: Document Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: document_version
+      label: Document Version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: document_status
+      label: Document Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: false

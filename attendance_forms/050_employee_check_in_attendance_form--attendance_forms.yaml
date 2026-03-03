@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Check In Attendance Form
+    pages:
+    - id: 1
+      name: employee_shift
+      label: Employee Shift
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: shift_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: shift_start_time
+      label: Shift Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: shift_end_time
+      label: Shift End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: employee_code
+      label: Employee Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: true

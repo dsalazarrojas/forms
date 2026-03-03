@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing Needs Assessment Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: current_position
+      label: current_position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: marketing_channels
+      label: marketing_channels
+      hint: null
+      type: select_multiple
+      options:
+      - Channel 1
+      - Channel 2
+      - Channel 3
+      required: false
+    - id: 4
+      name: budget_allocation
+      label: budget_allocation
+      hint: Budget per channel
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: expected_outcome
+      label: expected_outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: actual_outcome
+      label: actual_outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: recommended_action
+      label: recommended_action
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

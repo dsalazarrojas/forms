@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Sports Safety Workshop Consent Form
+    pages:
+    - id: 1
+      name: parent_permissions
+      label: Parent Permissions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: emergency_contacts
+      label: Emergency Contacts
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Parent/Guardian'', ''value'': ''parentguardian''}'
+      - '{''id'': 2, ''label'': ''Emergency Contact'', ''value'': ''emergencycontact''}'
+      - '{''id'': 3, ''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 3
+      name: health_details
+      label: Health Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: waiver
+      label: Waiver
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lift Operator Skills Assessment
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: operator_license_number
+      label: Operator License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_number
+      label: Emergency Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: years_of_experience
+      label: Years of Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: previous_employers
+      label: Previous Employer(s)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: work_status
+      label: Current Work Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Retired
+      - On Leave
+      - On Layoff
+      required: true
+    - id: 12
+      name: medical_certifications
+      label: Medical Certifications
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Class A
+      - Class B
+      - Class C
+      required: true
+    - id: 13
+      name: first_aids_training_completed
+      label: First Aid and CPR Training
+      hint: null
+      type: select_multiple
+      options:
+      - Completed
+      - Not Completed
+      - N/A
+      required: true
+    - id: 14
+      name: safety_equipment_used
+      label: Safety Equipment Used
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - N/A
+      required: true
+    - id: 15
+      name: training_programs_completed
+      label: Training Programs Completed
+      hint: null
+      type: select_multiple
+      options:
+      - Completed
+      - Not Completed
+      - N/A
+      required: true
+    - id: 16
+      name: medical_certifications_date
+      label: Medical Certifications Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: safety_equipment_used_date
+      label: Safety Equipment Used Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: training_programs_completed_date
+      label: Training Programs Completed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: supervisor_relationship
+      label: Supervisor Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Direct Supervisor
+      - Indirect Supervisor
+      - No Supervisor
+      required: true
+    - id: 21
+      name: supervisor_phone
+      label: Supervisor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: supervisor_email
+      label: Supervisor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: training_records
+      label: Training Records
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: training_hours
+      label: Training Hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: training_hours_date
+      label: Training Hours Date
+      hint: null
+      type: date
+      options: []
+      required: false

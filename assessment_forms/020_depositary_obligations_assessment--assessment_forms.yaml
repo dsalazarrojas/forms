@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Depositary Obligations Assessment
+    pages:
+    - id: 1
+      name: depositary_obligations_assessment_form
+      label: Depositary Obligations Assessment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: depositary_obligations_assessment_description
+      label: Depositary Obligations Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: depositary_obligations_date_of_last_assessment
+      label: Date of Last Assessment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: depositary_obligations_frequency_of_assessments
+      label: Frequency of Assessments
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: depositary_obligations_type_of_assessment
+      label: Type of Assessment
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Financial Institution''}'
+      - '{''id'': 2, ''label'': ''Central Bank''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: depositary_obligations_frequency_of_assessments_frequency
+      label: How often
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Monthly''}'
+      - '{''id'': 2, ''label'': ''Quarterly''}'
+      - '{''id'': 3, ''label'': ''Annually''}'
+      required: false
+    - id: 7
+      name: depositary_obligations_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: depositary_obligations_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: depositary_obligations_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: depositary_obligations_other_contact_info
+      label: Other Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false

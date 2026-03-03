@@ -1,0 +1,105 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Childhood ADHD Collateral Questionnaire
+    pages:
+      - id: 1
+        name: section_header_child_info
+        label: -- Child Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: child_name
+        label: Child Name
+        hint: Full name of the child being evaluated
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: date_of_birth
+        label: Date of Birth
+        hint: Child date of birth
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: respondent_name
+        label: Respondent Name
+        hint: Name of caregiver or teacher completing this form
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: relationship_to_child
+        label: Relationship to Child
+        hint: e.g., Parent, Teacher, Guardian
+        type: select_one
+        options:
+          - Parent
+          - Teacher
+          - Guardian
+          - Other
+        required: true
+      - id: 6
+        name: attention_concerns
+        label: Attention Concerns
+        hint: Describe difficulties with attention or focus
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: hyperactivity_observations
+        label: Hyperactivity Observations
+        hint: Note any observed hyperactivity or impulsivity
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: behavior_in_class
+        label: Behavior in Class
+        hint: Typical behaviour during lessons and group activities
+        type: select_one
+        options:
+          - Appropriate
+          - Occasionally Distracted
+          - Frequently Distracted
+          - Disruptive
+        required: true
+      - id: 9
+        name: school_performance
+        label: School Performance
+        hint: Academic impact observed
+        type: select_one
+        options:
+          - Above Average
+          - Average
+          - Below Average
+          - Significantly Below Average
+        required: false
+      - id: 10
+        name: interventions_tried
+        label: Interventions Tried
+        hint: List any strategies or supports already used
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other notes relevant to assessment
+        type: text
+        options: []
+        required: false

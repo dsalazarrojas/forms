@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: Apartment Lease Renewal Form
+    pages:
+    - id: 1
+      name: renewal_date
+      label: Lease renewal request date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: property_address
+      label: Property address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: unit_number
+      label: Unit or apartment number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: landlord_name
+      label: Landlord or property manager name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: landlord_email
+      label: Landlord email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: tenant_name
+      label: Tenant full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: tenant_email
+      label: Tenant email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: tenant_phone
+      label: Tenant phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: current_lease_start
+      label: Current lease start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: current_lease_end
+      label: Current lease end date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: current_rent
+      label: Current monthly rent
+      hint: In dollars
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: renewal_start_date
+      label: Proposed renewal start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: renewal_end_date
+      label: Proposed renewal end date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: renewal_term_months
+      label: Renewal term length in months
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: new_rent_amount
+      label: New monthly rent amount
+      hint: In dollars
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: rent_increase_reason
+      label: Reason for any rent increase
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: tenant_acceptance
+      label: Does tenant accept new rental terms?
+      hint: null
+      type: select_one
+      options:
+      - Yes, accept renewal
+      - No, decline renewal
+      - Pending decision
+      required: true
+    - id: 18
+      name: tenant_concerns
+      label: Tenant concerns or requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: property_condition
+      label: Property condition upon renewal
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair - some maintenance needed
+      - Poor - significant repairs needed
+      required: true
+    - id: 20
+      name: maintenance_requested
+      label: Maintenance or repairs requested
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: utilities_terms_unchanged
+      label: Utility terms remain unchanged
+      hint: null
+      type: select_one
+      options:
+      - Yes, same as current
+      - No, changes proposed
+      required: true
+    - id: 22
+      name: utilities_changes
+      label: If changed - describe utility changes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: pet_policy_unchanged
+      label: Pet policy remains unchanged
+      hint: null
+      type: select_one
+      options:
+      - Yes, same as current
+      - No, changes proposed
+      required: true
+    - id: 24
+      name: other_terms_changes
+      label: Any other term changes proposed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: payment_method
+      label: Rent payment method
+      hint: null
+      type: select_one
+      options:
+      - Check
+      - Bank transfer
+      - Credit card
+      - ACH
+      - Cash
+      - Online portal
+      - Other
+      required: true
+    - id: 26
+      name: move_out_plan
+      label: If not renewing - move-out date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 27
+      name: notice_period_met
+      label: Proper notice period provided
+      hint: null
+      type: select_one
+      options:
+      - Yes, 30 days notice
+      - Yes, 60 days notice
+      - Yes, other notice period
+      - false
+      - N/A
+      required: true
+    - id: 28
+      name: landlord_signature_date
+      label: Landlord signature date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 29
+      name: tenant_signature_date
+      label: Tenant signature date
+      hint: null
+      type: date
+      options: []
+      required: true

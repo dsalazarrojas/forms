@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Detailed Service Request
+    pages:
+    - id: 1
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - Haircut
+      - Car Repair
+      - Other
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: Enter your name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: service_type
+      label: Service Type
+      hint: What kind of service are you requesting?
+      type: select_one
+      options:
+      - Haircut
+      - Car Repair
+      - Other
+      required: false
+    - id: 8
+      name: service_details
+      label: Service Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

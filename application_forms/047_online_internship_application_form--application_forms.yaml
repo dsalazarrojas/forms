@@ -1,0 +1,781 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Internship Application Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: education_background
+      label: Education Background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: skills_list
+      label: Skills List
+      hint: null
+      type: select_multiple
+      options:
+      - Web Development
+      - Data Science
+      - Machine Learning
+      - Artificial Intelligence
+      - Cyber Security
+      required: false
+    - id: 5
+      name: language_proficiency
+      label: Language Proficiency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: language_proficiency_language
+      label: Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - French
+      - Spanish
+      - Chinese
+      - German
+      - Italian
+      - Portuguese
+      - Japanese
+      - Korean
+      - Arabic
+      required: false
+    - id: 7
+      name: language_proficiency_level
+      label: Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 8
+      name: work_experience_job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: education_background_degree
+      label: Degree
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: education_background_university
+      label: University
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: education_background_diploma
+      label: Diploma
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: work_experience_workplace
+      label: Workplace
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: work_experience_duration
+      label: Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: work_experience_job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: education_background_education
+      label: Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: education_background_graduation_date
+      label: Graduation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: education_background_gpa
+      label: GPA
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: education_background_major
+      label: Major
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: education_background_minor
+      label: Minor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: language_proficiency_communication
+      label: Communication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: language_proficiency_listening
+      label: Listening
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: language_proficiency_writing
+      label: Writing
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: language_proficiency_reading
+      label: Reading
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: skills_list_proficiency
+      label: Proficiency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: skills_list_skill
+      label: Skill
+      hint: null
+      type: select_multiple
+      options:
+      - HTML/CSS
+      - JavaScript
+      - SQL
+      - Database Management
+      - Python
+      - C#
+      - Java
+      - Ruby
+      - Swift
+      - PHP
+      required: false
+    - id: 26
+      name: skills_list_skill_2
+      label: Skill 2
+      hint: null
+      type: select_multiple
+      options:
+      - Data Analysis
+      - Data Science
+      - Machine Learning
+      - Cyber Security
+      - Cloud Computing
+      - Artificial Intelligence
+      - Web Development
+      - Mobile Development
+      - Database Management
+      - Network Security
+      required: false
+    - id: 27
+      name: skills_list_skill_3
+      label: Skill 3
+      hint: null
+      type: select_multiple
+      options:
+      - Cloud Computing
+      - Cyber Security
+      - Network Security
+      - Database Management
+      - Data Science
+      - Machine Learning
+      - Artificial Intelligence
+      - Web Development
+      - Mobile Development
+      - Database Administration
+      required: false
+    - id: 28
+      name: language_proficiency_2_skill
+      label: Skill 2
+      hint: null
+      type: select_multiple
+      options:
+      - French
+      - German
+      - Italian
+      - Japanese
+      - Korean
+      - Arabic
+      - Spanish
+      - Chinese
+      - Portuguese
+      - Russian
+      required: false
+    - id: 29
+      name: language_proficiency_2_language
+      label: Language 2
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 30
+      name: language_proficiency_2_level
+      label: Level 2
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 31
+      name: skills_list_proficiency_2
+      label: Proficiency 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: skills_list_skill_3
+      label: Skill 3
+      hint: null
+      type: select_multiple
+      options:
+      - Data Analysis
+      - Data Science
+      - Machine Learning
+      - Cyber Security
+      - Cloud Computing
+      - Artificial Intelligence
+      - Web Development
+      - Mobile Development
+      - Database Management
+      - Network Security
+      required: false
+    - id: 33
+      name: skills_list_skill_4
+      label: Skill 4
+      hint: null
+      type: select_multiple
+      options:
+      - Cloud Computing
+      - Cyber Security
+      - Network Security
+      - Database Management
+      - Data Science
+      - Machine Learning
+      - Artificial Intelligence
+      - Web Development
+      - Mobile Development
+      - Database Administration
+      required: false
+    - id: 34
+      name: skills_list_skill_5
+      label: Skill 5
+      hint: null
+      type: select_multiple
+      options:
+      - French
+      - German
+      - Italian
+      - Japanese
+      - Korean
+      - Arabic
+      - Spanish
+      - Portuguese
+      - Russian
+      required: false
+    - id: 35
+      name: skills_list_skill_6
+      label: Skill 6
+      hint: null
+      type: select_multiple
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 36
+      name: skills_list_skill_7
+      label: Skill 7
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - French
+      - Spanish
+      - Chinese
+      - German
+      - Italian
+      - Portuguese
+      - Japanese
+      - Korean
+      - Arabic
+      required: false
+    - id: 37
+      name: skills_list_skill_8
+      label: Skill 8
+      hint: null
+      type: select_multiple
+      options:
+      - Data Analysis
+      - Data Science
+      - Machine Learning
+      - Cyber Security
+      - Cloud Computing
+      - Artificial Intelligence
+      - Web Development
+      - Mobile Development
+      - Database Management
+      - Network Security
+      required: false
+    - id: 38
+      name: skills_list_skill_9
+      label: Skill 9
+      hint: null
+      type: select_multiple
+      options:
+      - HTML/CSS
+      - JavaScript
+      - SQL
+      - Database Management
+      - Python
+      - C#
+      - Java
+      - Ruby
+      - Swift
+      - PHP
+      required: false
+    - id: 39
+      name: skills_list_skill_10
+      label: Skill 10
+      hint: null
+      type: select_multiple
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 40
+      name: skills_list_skill_11
+      label: Skill 11
+      hint: null
+      type: select_multiple
+      options:
+      - French
+      - German
+      - Italian
+      - Japanese
+      - Korean
+      - Arabic
+      - Spanish
+      - Portuguese
+      - Russian
+      required: false
+    - id: 41
+      name: skills_list_skill_12
+      label: Skill 12
+      hint: null
+      type: select_multiple
+      options:
+      - Data Analysis
+      - Data Science
+      - Machine Learning
+      - Cyber Security
+      - Cloud Computing
+      - Artificial Intelligence
+      - Web Development
+      - Mobile Development
+      - Database Management
+      - Network Security
+      required: false
+    - id: 42
+      name: skills_list_skill_13
+      label: Skill 13
+      hint: null
+      type: select_multiple
+      options:
+      - HTML/CSS
+      - JavaScript
+      - SQL
+      - Database Management
+      - Python
+      - C#
+      - Java
+      - Ruby
+      - Swift
+      - PHP
+      required: false
+    - id: 43
+      name: skills_list_skill_14
+      label: Skill 14
+      hint: null
+      type: select_multiple
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 44
+      name: skills_list_skill_15
+      label: Skill 15
+      hint: null
+      type: select_multiple
+      options:
+      - French
+      - German
+      - Italian
+      - Japanese
+      - Korean
+      - Arabic
+      - Spanish
+      - Portuguese
+      - Russian
+      required: false
+    - id: 45
+      name: skills_list_skill_16
+      label: Skill 16
+      hint: null
+      type: select_multiple
+      options:
+      - Data Analysis
+      - Data Science
+      - Machine Learning
+      - Cyber Security
+      - Cloud Computing
+      - Artificial Intelligence
+      - Web Development
+      - Mobile Development
+      - Database Management
+      - Network Security
+      required: false
+    - id: 46
+      name: skills_list_skill_17
+      label: Skill 17
+      hint: null
+      type: select_multiple
+      options:
+      - HTML/CSS
+      - JavaScript
+      - SQL
+      - Database Management
+      - Python
+      - C#
+      - Java
+      - Ruby
+      - Swift
+      - PHP
+      required: false
+    - id: 47
+      name: skills_list_skill_18
+      label: Skill 18
+      hint: null
+      type: select_multiple
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 48
+      name: skills_list_skill_19
+      label: Skill 19
+      hint: null
+      type: select_multiple
+      options:
+      - French
+      - German
+      - Italian
+      - Japanese
+      - Korean
+      - Arabic
+      - Spanish
+      - Portuguese
+      - Russian
+      required: false
+    - id: 49
+      name: skills_list_skill_20
+      label: Skill 20
+      hint: null
+      type: select_multiple
+      options:
+      - Data Analysis
+      - Data Science
+      - Machine Learning
+      - Cyber Security
+      - Cloud Computing
+      - Artificial Intelligence
+      - Web Development
+      - Mobile Development
+      - Database Management
+      - Network Security
+      required: false
+    - id: 50
+      name: education_background_2_education
+      label: Education 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 51
+      name: education_background_2_graduation_date
+      label: Graduation Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 52
+      name: education_background_2_gpa
+      label: GPA 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 53
+      name: education_background_2_major
+      label: Major 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 54
+      name: education_background_2_minor
+      label: Minor 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 55
+      name: skills_list_skill_21
+      label: Skill 21
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - French
+      - Spanish
+      - Chinese
+      - German
+      - Italian
+      - Portuguese
+      - Japanese
+      - Korean
+      - Arabic
+      required: false
+    - id: 56
+      name: skills_list_skill_22
+      label: Skill 22
+      hint: null
+      type: select_multiple
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 57
+      name: skills_list_skill_23
+      label: Skill 23
+      hint: null
+      type: select_multiple
+      options:
+      - HTML/CSS
+      - JavaScript
+      - SQL
+      - Database Management
+      - Python
+      - C#
+      - Java
+      - Ruby
+      - Swift
+      - PHP
+      required: false
+    - id: 58
+      name: skills_list_skill_24
+      label: Skill 24
+      hint: null
+      type: select_multiple
+      options:
+      - French
+      - German
+      - Italian
+      - Japanese
+      - Korean
+      - Arabic
+      - Spanish
+      - Portuguese
+      - Russian
+      required: false
+    - id: 59
+      name: skills_list_skill_25
+      label: Skill 25
+      hint: null
+      type: select_multiple
+      options:
+      - Data Analysis
+      - Data Science
+      - Machine Learning
+      - Cyber Security
+      - Cloud Computing
+      - Artificial Intelligence
+      - Web Development
+      - Mobile Development
+      - Database Management
+      - Network Security
+      required: false
+    - id: 60
+      name: skills_list_skill_26
+      label: Skill 26
+      hint: null
+      type: select_multiple
+      options:
+      - HTML/CSS
+      - JavaScript
+      - SQL
+      - Database Management
+      - Python
+      - C#
+      - Java
+      - Ruby
+      - Swift
+      - PHP
+      required: false
+    - id: 61
+      name: skills_list_skill_27
+      label: Skill 27
+      hint: null
+      type: select_multiple
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 62
+      name: education_background_3_education
+      label: Education 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 63
+      name: education_background_3_graduation_date
+      label: Graduation Date 3
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 64
+      name: education_background_3_gpa
+      label: GPA 3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 65
+      name: education_background_3_major
+      label: Major 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 66
+      name: skills_list_skill_28
+      label: Skill 28
+      hint: null
+      type: select_multiple
+      options:
+      - French
+      - German
+      - Italian
+      - Japanese
+      - Korean
+      - Arabic
+      - Spanish
+      - Portuguese
+      - Russian
+      required: false
+    - id: 67
+      name: skills_list_skill_29
+      label: Skill 29
+      hint: null
+      type: select_multiple
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 68
+      name: education_background_4_education
+      label: Education 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 69
+      name: education_background_4_graduation_date
+      label: Graduation Date 4
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 70
+      name: education_background_4_gpa
+      label: GPA 4
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 71
+      name: education_background_4_major
+      label: Major 4
+      hint: null
+      type: text
+      options: []
+      required: false

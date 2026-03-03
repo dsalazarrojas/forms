@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Safety Inspection Form
+    pages:
+    - id: 1
+      name: food_safety_inspection_form_page_1
+      label: Food Safety Inspection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_inspection
+      label: Date Of Inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time_of_inspection
+      label: Time Of Inspection
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: facility_type
+      label: Facility Type
+      hint: null
+      type: select_one
+      options:
+      - Food Processing
+      - Food Storage
+      - Food Service
+      required: false
+    - id: 5
+      name: facility_location
+      label: Facility Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: number_of_inspectors
+      label: Number Of Inspectors
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: facility_capacity
+      label: Facility Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: inspection_start
+      label: Inspection Start
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: inspection_end
+      label: Inspection End
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: facility_status
+      label: Facility Status
+      hint: null
+      type: select_one
+      options:
+      - In Compliance
+      - Out of Compliance
+      - Not Applicable
+      required: false
+    - id: 11
+      name: facility_notes
+      label: Facility Notes
+      hint: null
+      type: note
+      options: []
+      required: false

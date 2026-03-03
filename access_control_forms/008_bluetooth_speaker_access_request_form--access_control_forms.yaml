@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bluetooth Speaker Access Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: Full name of person requesting equipment
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Requester Email
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requester_phone
+      label: Requester Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department or organization
+      type: select_one
+      options:
+      - Facilities
+      - IT
+      - Events
+      - Marketing
+      - Administration
+      - Student Services
+      - Other
+      required: true
+    - id: 5
+      name: equipment_type
+      label: Equipment Type Needed
+      hint: Select the type of speaker needed
+      type: select_one
+      options:
+      - Portable Bluetooth Speaker
+      - Conference Room Speaker
+      - Outdoor PA Speaker
+      - Desktop Speaker
+      - Smart Speaker
+      required: true
+    - id: 6
+      name: specific_model
+      label: Specific Model Preference
+      hint: If you have a preference
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: quantity_needed
+      label: Quantity Needed
+      hint: How many units?
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: event_or_purpose
+      label: Event or Purpose
+      hint: What is this equipment for?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: event_location
+      label: Event Location
+      hint: Where will the equipment be used?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: pickup_date
+      label: Pickup Date
+      hint: When do you need the equipment?
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: pickup_time
+      label: Pickup Time
+      hint: Preferred pickup time
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: return_date
+      label: Return Date
+      hint: When will you return the equipment?
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: return_time
+      label: Return Time
+      hint: Expected return time
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: additional_accessories
+      label: Additional Accessories Needed
+      hint: Select any accessories required
+      type: select_multiple
+      options:
+      - Charging Cable
+      - AUX Cable
+      - Carrying Case
+      - Microphone
+      - Stand
+      - None
+      required: false
+    - id: 15
+      name: special_requirements
+      label: Special Requirements
+      hint: Any specific setup needs
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: estimated_attendees
+      label: Estimated Number of Attendees
+      hint: How many people will be present?
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: indoor_or_outdoor
+      label: Event Location Type
+      hint: Where will the event be held?
+      type: select_one
+      options:
+      - Indoor
+      - Outdoor
+      - Both
+      required: true
+    - id: 18
+      name: approval_status
+      label: Approval Status
+      hint: Current approval status
+      type: select_one
+      options:
+      - Pending Review
+      - Approved
+      - Denied
+      required: true
+    - id: 19
+      name: approver_name
+      label: Approver Name
+      hint: Name of approving authority
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: terms_acceptance
+      label: Equipment Use Agreement
+      hint: I agree to handle equipment responsibly and return on time
+      type: select_one
+      options:
+      - Yes, I Accept
+      - No, I Do Not Accept
+      required: true

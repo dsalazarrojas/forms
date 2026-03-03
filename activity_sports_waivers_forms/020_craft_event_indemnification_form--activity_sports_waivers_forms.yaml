@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Craft Event Indemnification Form
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: waiver_consent
+      label: Waiver Consent
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 3
+      name: waiver_signature
+      label: Waiver Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: workshop_details
+      label: Workshop Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 8
+      name: workshop_duration
+      label: Workshop Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: participant_age
+      label: Participant Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: participant_gender
+      label: Participant Gender
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 11
+      name: waiver_expires
+      label: Waiver Expires
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: workshop_venue
+      label: Workshop Venue
+      hint: null
+      type: text
+      options: []
+      required: false

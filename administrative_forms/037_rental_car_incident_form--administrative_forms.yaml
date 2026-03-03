@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rental Car Incident Form
+    pages:
+    - id: 1
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: accident_date
+      label: Accident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: vehicle_damage
+      label: Vehicle Damage
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: incident_description
+      label: Incident Description
+      hint: Describe the accident
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: witness_names
+      label: Witness Names
+      hint: List any witnesses present
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: witness_statements
+      label: Witness Statements
+      hint: Record witness statements
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: police_report_number
+      label: Police Report Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: driver_license_numbers
+      label: Driver License Numbers
+      hint: List driver license numbers
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: witness_contact_info
+      label: Witness Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: police_officer_name
+      label: Police Officer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: police_officer_id
+      label: Police Officer ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: vehicle_color
+      label: Vehicle Color
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: vehicle_license
+      label: Vehicle License
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: vehicle_registration
+      label: Vehicle Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: vehicle_vin
+      label: Vehicle VIN
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: driver_name
+      label: Driver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: driver_address
+      label: Driver Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: driver_license
+      label: Driver License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: driver_contact_info
+      label: Driver Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: insurance_company
+      label: Insurance Company
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: insurance_company_name
+      label: Insurance Company Name
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Polymer Properties Assessment
+    pages:
+    - id: 1
+      name: polymer_sample_id
+      label: Polymer Sample ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sample_name
+      label: Sample Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sample_type
+      label: Sample Type
+      hint: null
+      type: select_one
+      options:
+      - Polymer 1
+      - Polymer 2
+      - Polymer 3
+      required: false
+    - id: 4
+      name: polymer_type
+      label: Polymer Type
+      hint: null
+      type: select_multiple
+      options:
+      - A
+      - B
+      - C
+      required: false
+    - id: 5
+      name: sample_weight
+      label: Sample Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: density
+      label: Density
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: tensile_strength
+      label: Tensile Strength
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: hardness
+      label: Hardness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: elongation
+      label: Elongation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: thermal_resistance
+      label: Thermal Resistance
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 11
+      name: chemical_stability
+      label: Chemical Stability
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 12
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: Additional notes
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,240 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Caries Risk Assessment Form
+    pages:
+    - id: 1
+      name: patient_information_section
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_dob
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: assessment_date
+      label: Assessment Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: clinical_risk_factors
+      label: -- Clinical Risk Factors --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: visible_cavities
+      label: Any visible cavities in past 12 months?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Uncertain
+      required: true
+    - id: 8
+      name: white_spot_lesions
+      label: White spot lesions (early demineralization)?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Uncertain
+      required: true
+    - id: 9
+      name: existing_restorations
+      label: Existing fillings or restorations
+      hint: null
+      type: select_one
+      options:
+      - None
+      - One or two
+      - Multiple (3 or more)
+      required: true
+    - id: 10
+      name: gum_disease
+      label: Signs of gum disease or gingivitis
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Mild
+      - Moderate
+      - Severe
+      required: true
+    - id: 11
+      name: plaque_buildup
+      label: Visible plaque or biofilm on teeth
+      hint: null
+      type: select_one
+      options:
+      - Minimal
+      - Moderate
+      - Extensive
+      required: true
+    - id: 12
+      name: behavioral_risk_factors
+      label: -- Behavioral Risk Factors --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: brushing_frequency
+      label: How often do you brush your teeth daily?
+      hint: null
+      type: select_one
+      options:
+      - Three or more times
+      - Twice daily
+      - Once daily
+      - Less than once daily
+      required: true
+    - id: 14
+      name: uses_fluoride
+      label: Do you use fluoride toothpaste or rinse?
+      hint: null
+      type: select_one
+      options:
+      - Regularly
+      - Occasionally
+      - Never
+      - Uncertain
+      required: true
+    - id: 15
+      name: flosses_regularly
+      label: Do you floss between teeth?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Several times per week
+      - Weekly
+      - Rarely
+      - Never
+      required: true
+    - id: 16
+      name: dietary_risk_factors
+      label: -- Dietary Risk Factors --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: sugary_drinks
+      label: Frequency of sugary drinks consumption
+      hint: null
+      type: select_one
+      options:
+      - Never or rarely
+      - A few times per week
+      - Daily
+      - Multiple times daily
+      required: true
+    - id: 18
+      name: snacking_frequency
+      label: How often do you snack between meals?
+      hint: null
+      type: select_one
+      options:
+      - Rarely
+      - A few times per week
+      - Daily
+      - Multiple times per day
+      required: true
+    - id: 19
+      name: sticky_foods
+      label: Frequent consumption of sticky or sugary foods
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: fluoride_exposure
+      label: -- Fluoride Exposure and Prevention --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: professional_fluoride
+      label: Received professional fluoride treatment in past year?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Uncertain
+      required: true
+    - id: 22
+      name: water_fluoridation
+      label: Does your water supply contain fluoride?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Uncertain
+      required: true
+    - id: 23
+      name: risk_assessment_summary
+      label: -- Risk Assessment Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: overall_caries_risk
+      label: Overall Caries Risk Level
+      hint: Based on all factors assessed
+      type: select_one
+      options:
+      - Low Risk
+      - Moderate Risk
+      - High Risk
+      - Very High Risk
+      required: true
+    - id: 25
+      name: clinical_notes
+      label: Clinical notes or additional observations
+      hint: null
+      type: text
+      options: []
+      required: false

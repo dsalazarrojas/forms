@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lockout Tagout Safety Assessment
+    pages:
+    - id: 1
+      name: lockout_tagout_procedure_1
+      label: lockout tagout procedure
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: procedure_description_2
+      label: Procedure Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: equipment_1
+      label: equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: hazards_1
+      label: hazards
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: lockout_conditions_1
+      label: Lockout Conditions
+      hint: Describe the lockout conditions
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: lockout_device_1
+      label: Lockout Device
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: lockout_tagout_status_1
+      label: Lockout/Tagout Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: employee_1
+      label: Employee
+      hint: Enter the employee name
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: supervisor_1
+      label: Supervisor
+      hint: Enter the supervisor name
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: procedure_review_by_1
+      label: Procedure Review By
+      hint: Enter review by date
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: procedure_reviewed_by_1
+      label: Procedure Reviewed By
+      hint: Enter review by name
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: lockout_tagout_closure_1
+      label: Lockout/Tagout Closure
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: lockout_tagout_closure_status_1
+      label: Lockout/Tagout Closure Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 16
+      name: remarks_1
+      label: Remarks
+      hint: Enter remarks
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: review_by_1
+      label: Review By
+      hint: Enter review by name
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: review_date_1
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: reviewer_1
+      label: Reviewer
+      hint: Enter reviewer name
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: reviewer_email_1
+      label: Reviewer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: reviewer_phone_1
+      label: Reviewer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: reviewer_verified_1
+      label: Reviewer Verified
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: lockout_tagout_status_1
+      label: Lockout/Tagout Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 24
+      name: closure_1
+      label: Closure
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: comments_1
+      label: Comments
+      hint: Enter comments
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Assessment Form
+    pages:
+    - id: 1
+      name: client_health
+      label: client_health
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: fitness_level
+      label: fitness_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 3
+      name: goals
+      label: goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: medical_conditions
+      label: medical_conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: weight
+      label: weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: medical_notes
+      label: medical_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: medical_notes_2
+      label: medical_notes_2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: medical_notes_3
+      label: medical_notes_3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: client_goals
+      label: client_goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: trainer_goals
+      label: trainer_goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

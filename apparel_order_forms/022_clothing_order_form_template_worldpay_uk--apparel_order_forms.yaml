@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clothing Order Form Template WorldPay UK
+    pages:
+    - id: 1
+      name: customer_name
+      label: Full Name
+      hint: Customer name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_products
+      label: -- Product Information --
+      hint: Items you wish to order
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: product_selection
+      label: Select Product
+      hint: Choose item from catalogue
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: product_description
+      label: Product Description
+      hint: Style details and specifications
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: colour
+      label: Colour
+      hint: Preferred colour of item
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: size
+      label: Size
+      hint: null
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      - XXXL
+      required: true
+    - id: 9
+      name: quantity
+      label: Quantity
+      hint: Number of items
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: unit_price
+      label: Unit Price (GBP)
+      hint: Price per item in pounds
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: line_total
+      label: Line Total (GBP)
+      hint: Quantity multiplied by price
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: section_delivery
+      label: -- Delivery Address --
+      hint: Where to send your order
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: delivery_address
+      label: Delivery Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: city
+      label: City or Town
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: postcode
+      label: Postcode
+      hint: UK postcode format
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: county
+      label: County
+      hint: Optional - county or state
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: country
+      label: Country
+      hint: Delivery country
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: section_billing
+      label: -- Billing Address --
+      hint: Billing details
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: billing_same
+      label: Billing address is same as delivery address
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: billing_address
+      label: Billing Address if Different
+      hint: Full address for billing
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_shipping
+      label: -- Shipping Method --
+      hint: Choose your delivery method
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - Standard delivery - 5-7 working days
+      - Express delivery - 2-3 working days
+      - Next day delivery
+      - Collect in store
+      required: true
+    - id: 23
+      name: section_payment
+      label: -- Payment Details --
+      hint: Payment information via WorldPay
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: subtotal
+      label: Subtotal (GBP)
+      hint: Total before shipping and tax
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: shipping_cost
+      label: Shipping Cost (GBP)
+      hint: Delivery charge
+      type: number
+      options: []
+      required: true

@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Animal Rescue Application Form
+    pages:
+    - id: 1
+      name: volunteer_animal_rescue_application_form
+      label: Volunteer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rescue_animal
+      label: What kind of animal do you rescue?
+      hint: null
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Other
+      required: false
+    - id: 3
+      name: rescue_location
+      label: Rescue Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: volunteer_name
+      label: Volunteer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: volunteer_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: volunteer_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: volunteer_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: volunteer_experience
+      label: Volunteer Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: rescue_date
+      label: Rescue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: availability
+      label: Availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: availability_1
+      label: 7am-12pm
+      hint: null
+      type: select_multiple
+      options:
+      - 7am-12pm
+      - 12pm-3pm
+      - 3pm-6pm
+      required: false
+    - id: 12
+      name: availability_2
+      label: 7pm-10pm
+      hint: null
+      type: select_multiple
+      options:
+      - 7pm-10pm
+      - 10pm-1am
+      - 1am-4am
+      required: false
+    - id: 13
+      name: availability_3
+      label: Weekends
+      hint: null
+      type: select_multiple
+      options:
+      - Weekends
+      - Weekdays
+      - Flexible
+      required: false
+    - id: 14
+      name: volunteer_interest
+      label: Volunteer Interest
+      hint: null
+      type: select_multiple
+      options:
+      - Animal Handling
+      - Animal Socialization
+      - Other
+      required: false
+    - id: 15
+      name: volunteer_vehicles
+      label: Vehicles
+      hint: null
+      type: select_multiple
+      options:
+      - Car
+      - Truck
+      - Bike
+      required: false
+    - id: 16
+      name: volunteer_notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: volunteer_agreement
+      label: Volunteer Agreement
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 18
+      name: volunteer_signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: volunteer_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: volunteer_agreement_date
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: volunteer_agreement_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: volunteer_agreement_signed
+      label: Signed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: volunteer_agreement_signed_1
+      label: 'True'
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: volunteer_agreement_signed_2
+      label: 'False'
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: volunteer_agreement_signed_3
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false

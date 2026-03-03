@@ -1,0 +1,434 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Compactor Inspection Checklist
+    pages:
+      - id: 1
+        name: inspector_name
+        label: Inspector Name
+        hint: Full name of inspector
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: inspector_id
+        label: Inspector ID Number
+        hint: Employee or certification ID
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: inspection_date
+        label: Inspection Date
+        hint: Date of inspection
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: inspection_time
+        label: Inspection Time
+        hint: Start time
+        type: time
+        options: []
+        required: true
+      - id: 5
+        name: facility_name
+        label: Facility Name
+        hint: Location name
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: facility_address
+        label: Facility Address
+        hint: Street, city, state, zip
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: compactor_id
+        label: Compactor ID/Serial Number
+        hint: Equipment identifier
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: compactor_model
+        label: Compactor Model
+        hint: Make and model
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: compactor_location
+        label: Compactor Location
+        hint: Specific location on site
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: section_exterior
+        label: -- Exterior Inspection --
+        hint: Check all exterior components
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: check_body_condition
+        label: Compactor body condition
+        hint: No dents or damage
+        type: select_one
+        options:
+          - Pass
+          - Fail
+          - Not Applicable
+        required: true
+      - id: 12
+        name: check_paint_markings
+        label: Paint and safety markings
+        hint: Visible and intact
+        type: select_one
+        options:
+          - Pass
+          - Fail
+          - Not Applicable
+        required: true
+      - id: 13
+        name: check_door_latches
+        label: Door latches and hinges
+        hint: Functioning properly
+        type: select_one
+        options:
+          - Pass
+          - Fail
+          - Not Applicable
+        required: true
+      - id: 14
+        name: check_wheels_casters
+        label: Wheels and casters
+        hint: Secure and rolling freely
+        type: select_one
+        options:
+          - Pass
+          - Fail
+          - Not Applicable
+        required: true
+      - id: 15
+        name: exterior_notes
+        label: Exterior Inspection Notes
+        hint: Any issues found
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: section_hydraulic
+        label: -- Hydraulic System --
+        hint: Check hydraulic components
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: check_hydraulic_fluid
+        label: Hydraulic fluid level
+        hint: At proper level
+        type: select_one
+        options:
+          - Pass
+          - Fail
+          - Not Applicable
+        required: true
+      - id: 18
+        name: check_hydraulic_leaks
+        label: No hydraulic leaks
+        hint: Inspect for leaks
+        type: select_one
+        options:
+          - Pass
+          - Fail
+          - Not Applicable
+        required: true
+      - id: 19
+        name: check_hydraulic_hoses
+        label: Hydraulic hoses and fittings
+        hint: No cracks or damage
+        type: select_one
+        options:
+          - Pass
+          - Fail
+          - Not Applicable
+        required: true
+      - id: 20
+        name: check_hydraulic_pressure
+        label: Hydraulic pressure gauge
+        hint: Reading in normal range
+        type: select_one
+        options:
+          - Pass
+          - Fail
+          - Not Applicable
+        required: true
+      - id: 21
+        name: hydraulic_notes
+        label: Hydraulic System Notes
+        hint: Any issues found
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: section_electrical
+        label: -- Electrical System --
+        hint: Check electrical components
+        type: note
+        options: []
+        required: false
+      - id: 23
+        name: check_power_cord
+        label: Power cord condition
+        hint: No fraying or damage
+        type: select_one
+        options:
+          - Pass
+          - Fail
+          - Not Applicable
+        required: true
+      - id: 24
+        name: check_control_panel
+        label: Control panel operation
+        hint: All controls functioning
+        type: select_one
+        options:
+          - Pass
+          - Fail
+          - Not Applicable
+        required: true
+      - id: 25
+        name: check_emergency_stop
+        label: Emergency stop button
+        hint: Functional and accessible
+        type: select_one
+        options:
+          - Pass
+          - Fail
+          - Not Applicable
+        required: true
+      - id: 26
+        name: check_safety_switches
+        label: Safety switches and interlocks
+        hint: Operating correctly
+        type: select_one
+        options:
+          - Pass
+          - Fail
+          - Not Applicable
+        required: true
+      - id: 27
+        name: check_warning_lights
+        label: Warning lights and alarms
+        hint: Functioning properly
+        type: select_one
+        options:
+          - Pass
+          - Fail
+          - Not Applicable
+        required: true
+      - id: 28
+        name: electrical_notes
+        label: Electrical System Notes
+        hint: Any issues found
+        type: text
+        options: []
+        required: false
+      - id: 29
+        name: section_operation
+        label: -- Operational Check --
+        hint: Test compactor operation
+        type: note
+        options: []
+        required: false
+      - id: 30
+        name: check_cycle_operation
+        label: Cycle operation
+        hint: Smooth and complete
+        type: select_one
+        options:
+          - Pass
+          - Fail
+          - Not Applicable
+        required: true
+      - id: 31
+        name: check_compaction_force
+        label: Compaction force
+        hint: Adequate pressure
+        type: select_one
+        options:
+          - Pass
+          - Fail
+          - Not Applicable
+        required: true
+      - id: 32
+        name: check_noise_level
+        label: Noise level
+        hint: Within normal range
+        type: select_one
+        options:
+          - Pass
+          - Fail
+          - Not Applicable
+        required: true
+      - id: 33
+        name: check_vibration
+        label: Vibration levels
+        hint: No excessive vibration
+        type: select_one
+        options:
+          - Pass
+          - Fail
+          - Not Applicable
+        required: true
+      - id: 34
+        name: operation_notes
+        label: Operational Check Notes
+        hint: Any issues found
+        type: text
+        options: []
+        required: false
+      - id: 35
+        name: section_safety
+        label: -- Safety Features --
+        hint: Verify safety equipment
+        type: note
+        options: []
+        required: false
+      - id: 36
+        name: check_safety_signs
+        label: Safety signs and labels
+        hint: Present and legible
+        type: select_one
+        options:
+          - Pass
+          - Fail
+          - Not Applicable
+        required: true
+      - id: 37
+        name: check_fire_extinguisher
+        label: Fire extinguisher present
+        hint: If required
+        type: select_one
+        options:
+          - Pass
+          - Fail
+          - Not Applicable
+        required: true
+      - id: 38
+        name: check_first_aid
+        label: First aid kit accessible
+        hint: If required
+        type: select_one
+        options:
+          - Pass
+          - Fail
+          - Not Applicable
+        required: true
+      - id: 39
+        name: check_lockout_tagout
+        label: Lockout/tagout equipment
+        hint: Available and functional
+        type: select_one
+        options:
+          - Pass
+          - Fail
+          - Not Applicable
+        required: true
+      - id: 40
+        name: safety_notes
+        label: Safety Features Notes
+        hint: Any issues found
+        type: text
+        options: []
+        required: false
+      - id: 41
+        name: overall_status
+        label: Overall Inspection Status
+        hint: Final determination
+        type: select_one
+        options:
+          - Pass - All items satisfactory
+          - Conditional Pass - Minor issues noted
+          - Fail - Major issues require repair
+          - Fail - Unsafe to operate
+        required: true
+      - id: 42
+        name: issues_found
+        label: List All Issues Found
+        hint: Detailed description
+        type: text
+        options: []
+        required: false
+      - id: 43
+        name: corrective_actions
+        label: Recommended Corrective Actions
+        hint: What needs to be done
+        type: text
+        options: []
+        required: false
+      - id: 44
+        name: priority_level
+        label: Priority Level
+        hint: Urgency of repairs
+        type: select_one
+        options:
+          - Low - Schedule routine maintenance
+          - Medium - Address within 1 week
+          - High - Address within 24 hours
+          - Critical - Do not operate until repaired
+        required: true
+      - id: 45
+        name: follow_up_required
+        label: Is follow-up inspection required?
+        hint: Re-inspection needed
+        type: select_one
+        options:
+          - No
+          - Yes, within 1 week
+          - Yes, within 1 month
+          - Yes, within 3 months
+        required: true
+      - id: 46
+        name: follow_up_date
+        label: Follow-up Inspection Date
+        hint: Scheduled date
+        type: date
+        options: []
+        required: false
+      - id: 47
+        name: next_inspection_due
+        label: Next Regular Inspection Due
+        hint: Scheduled date
+        type: date
+        options: []
+        required: true
+      - id: 48
+        name: inspector_signature
+        label: Inspector Signature
+        hint: Electronic signature
+        type: text
+        options: []
+        required: true
+      - id: 49
+        name: supervisor_review
+        label: Supervisor Review (if required)
+        hint: Supervisor name
+        type: text
+        options: []
+        required: false

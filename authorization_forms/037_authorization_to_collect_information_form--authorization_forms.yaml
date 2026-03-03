@@ -1,0 +1,249 @@
+inputSchema:
+  type: object
+  properties:
+    title: Authorization To Collect Information Form
+    pages:
+    - id: 1
+      name: authorization_date
+      label: Authorization Date
+      hint: Date of this authorization
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: individual_name
+      label: Individual Full Name
+      hint: Name of person whose data will be collected
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: individual_email
+      label: Email Address
+      hint: Your email contact
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: individual_phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: organization_name
+      label: Organization Collecting Data
+      hint: Name of organization
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: organization_type
+      label: Organization Type
+      hint: What type of organization
+      type: select_one
+      options:
+      - Healthcare Provider
+      - Financial Institution
+      - Government Agency
+      - Research Institution
+      - Private Company
+      - Educational Institution
+      - Non-Profit
+      - Other
+      required: true
+    - id: 8
+      name: data_collection_purpose
+      label: Purpose of Data Collection
+      hint: Why is data being collected
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: purpose_category
+      label: Purpose Category
+      hint: What category does the purpose fall under
+      type: select_one
+      options:
+      - Service Delivery
+      - Research
+      - Marketing
+      - Legal Compliance
+      - Risk Management
+      - Analytics
+      - Benefit Administration
+      - Other
+      required: true
+    - id: 10
+      name: data_types_collected
+      label: Types of Data to Be Collected
+      hint: Select all data types
+      type: select_multiple
+      options:
+      - Personal Information - Name, Address
+      - Contact Information - Email, Phone
+      - Financial Information
+      - Health Information
+      - Educational Background
+      - Employment History
+      - Behavioral Data
+      - Biometric Data
+      - Location Data
+      required: true
+    - id: 11
+      name: data_sources
+      label: Data Sources
+      hint: Where will data come from
+      type: select_multiple
+      options:
+      - Directly from You
+      - Third-Party Services
+      - Public Records
+      - Social Media
+      - Credit Agencies
+      - Healthcare Providers
+      - Other Sources
+      required: true
+    - id: 12
+      name: data_usage
+      label: How Will Data Be Used
+      hint: Describe intended use
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: data_sharing
+      label: Will Data Be Shared with Third Parties
+      hint: Will your data be shared
+      type: select_one
+      options:
+      - No - Not Shared
+      - Yes - With Specific Partners
+      - Yes - With Service Providers
+      - Yes - Broadly Shared
+      - Depends on Circumstances
+      required: true
+    - id: 14
+      name: third_party_details
+      label: Third Party Details
+      hint: Which parties will receive data
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: data_retention_period
+      label: Data Retention Period
+      hint: How long will data be kept
+      type: select_one
+      options:
+      - Until Service Ends
+      - 1 Year
+      - 3 Years
+      - 5 Years
+      - 7 Years
+      - Indefinitely
+      - Other - Specify
+      required: true
+    - id: 16
+      name: data_security_measures
+      label: Data Security Measures
+      hint: What protections will be used
+      type: select_multiple
+      options:
+      - Encryption
+      - Access Controls
+      - Secure Storage
+      - Regular Audits
+      - Employee Training
+      - Firewalls
+      - Intrusion Detection
+      required: true
+    - id: 17
+      name: privacy_policy_provided
+      label: Privacy Policy Provided
+      hint: Have you reviewed privacy policy
+      type: select_one
+      options:
+      - Yes - Read and Understood
+      - Yes - Reviewed
+      - No - Not Yet Provided
+      - No - Have Not Reviewed
+      required: true
+    - id: 18
+      name: privacy_policy_understanding
+      label: Understand Privacy Practices
+      hint: Do you understand how data will be used
+      type: select_one
+      options:
+      - Yes - Fully Understand
+      - Mostly Understand
+      - Somewhat Understand
+      - Need More Clarification
+      required: true
+    - id: 19
+      name: gdpr_compliance
+      label: GDPR or Similar Compliance
+      hint: Do you have data protection rights
+      type: select_one
+      options:
+      - Yes - GDPR Applies
+      - Yes - Similar Laws Apply
+      - Not Applicable
+      - Unsure
+      required: false
+    - id: 20
+      name: rights_acknowledgment
+      label: Acknowledge Your Data Rights
+      hint: Do you understand your rights
+      type: select_one
+      options:
+      - Yes - I Understand
+      - Partially Understand
+      - Need More Information
+      required: true
+    - id: 21
+      name: withdrawal_right
+      label: Ability to Withdraw Consent
+      hint: Can you withdraw consent later
+      type: select_one
+      options:
+      - Yes - Can Withdraw Anytime
+      - Yes - With Notice Period
+      - Limited Withdrawal Rights
+      - Cannot Withdraw
+      required: true
+    - id: 22
+      name: voluntary_consent
+      label: Voluntary Consent
+      hint: This is your voluntary choice
+      type: select_one
+      options:
+      - Yes - Voluntary Choice
+      - No - Coerced
+      - Conditional - Some Pressure
+      required: true
+    - id: 23
+      name: authorization_confirmation
+      label: I Authorize Data Collection
+      hint: Give permission to collect data
+      type: select_one
+      options:
+      - Yes - I Authorize
+      - No - Do Not Authorize
+      - Conditional - With Restrictions
+      required: true
+    - id: 24
+      name: additional_notes
+      label: Additional Notes or Questions
+      hint: Any other information
+      type: text
+      options: []
+      required: false

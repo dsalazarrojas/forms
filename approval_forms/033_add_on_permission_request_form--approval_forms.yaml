@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Add-On Permission Request Form
+    pages:
+    - id: 1
+      name: request_header
+      label: -- Internal Add-On Approval Request --
+      hint: Use this form to request new software extensions, plugins, or tool add-ons
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Information Technology
+      - Marketing and Communications
+      - Sales and Business Development
+      - Human Resources
+      - Finance and Legal
+      - Operations
+      required: true
+    - id: 4
+      name: manager_approval_email
+      label: Direct Manager's Email
+      hint: Request will be routed here for initial approval
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: addon_details_header
+      label: -- Add-On / Software Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: addon_name
+      label: Name of Add-On / Tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: addon_url
+      label: Product URL / Documentation Link
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: primary_platform
+      label: Integration Platform
+      hint: Which system does this add-on integrate with?
+      type: select_one
+      options:
+      - Browser Extension (Chrome/Edge)
+      - CRM (Salesforce/HubSpot)
+      - Productivity (Google Workspace/Office 365)
+      - Communication (Slack/Teams)
+      - CMS (WordPress/Shopify)
+      - Other
+      required: true
+    - id: 9
+      name: business_justification
+      label: Business Justification
+      hint: Why is this tool needed and what problem does it solve?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: urgency_level
+      label: Urgency / Priority
+      hint: null
+      type: select_one
+      options:
+      - Low - Exploration / Nice to have
+      - Medium - Efficiency Improvement
+      - High - Required for Active Project
+      - Critical - Project Blocker
+      required: true
+    - id: 11
+      name: security_check_header
+      label: -- Security and Compliance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: data_access_req
+      label: Does this add-on require access to sensitive company data?
+      hint: null
+      type: select_one
+      options:
+      - No Access Required
+      - Read-Only Access
+      - Read and Write Access
+      - Administrative Access
+      required: true
+    - id: 13
+      name: cost_estimate
+      label: Estimated Annual Cost
+      hint: Enter 0 if free
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: alternatives_considered
+      label: Alternatives Considered
+      hint: Have you evaluated existing company tools?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submission_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true

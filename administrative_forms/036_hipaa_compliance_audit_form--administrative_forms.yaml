@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: hipaa_compliance_audit_form
+    pages:
+    - id: 1
+      name: compliance_audit
+      label: Compliance Audit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: audit_date
+      label: Audit Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: auditors_name
+      label: Auditor's Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: is_hipaa_compliant
+      label: Is HIPAA Compliant
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: auditors_signature
+      label: Auditor's Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: auditors_date
+      label: Auditor's Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: patient_signature
+      label: Patient's Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: patient_date
+      label: Patient's Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: is_signed
+      label: Is Signed
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 16
+      name: signature_block
+      label: Signature Block
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: auditors_comments
+      label: Auditor's Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: patient_comments
+      label: Patient Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: compliance_officer
+      label: Compliance Officer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: compliance_officer_title
+      label: Compliance Officer Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: compliance_officer_contact
+      label: Compliance Officer Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: compliance_officer_email
+      label: Compliance Officer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: compliance_officer_phone
+      label: Compliance Officer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: auditors_notes
+      label: Auditor's Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: patient_consent
+      label: Patient Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false

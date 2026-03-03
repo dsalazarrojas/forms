@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Evaluation Appointment Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: manager_id
+      label: Manager ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: evaluation_type
+      label: Evaluation Type
+      hint: null
+      type: select_one
+      options:
+      - Evaluation
+      - Review
+      - Check
+      required: false
+    - id: 6
+      name: evaluation_type_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: evaluation_comment
+      label: Evaluation Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - Manager
+      - HR
+      required: false
+    - id: 9
+      name: status
+      label: StatuschartInstance
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Pending
+      - Cancelled
+      required: false
+    - id: 10
+      name: status_other
+      label: Other Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: field_14
+      label: Field 14
+      hint: null
+      type: text
+      options: []
+      required: false

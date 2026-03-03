@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alumni Merchandise Pre Order Form
+    pages:
+    - id: 1
+      name: section_order_details
+      label: -- Order Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: buyer_name
+      label: Buyer name
+      hint: Full name for the order
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: item_selection
+      label: Item selection
+      hint: Choose the merchandise item
+      type: select_one
+      options:
+      - T shirt
+      - Hoodie
+      - Cap
+      required: true
+    - id: 5
+      name: size_selection
+      label: Size selection
+      hint: Select a size if applicable
+      type: select_one
+      options:
+      - S
+      - M
+      - L
+      - XL
+      required: false
+    - id: 6
+      name: quantity
+      label: Quantity
+      hint: Number of units to order
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: shipping_address
+      label: Shipping address
+      hint: Full address for delivery
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: payment_method
+      label: Payment method
+      hint: Choose a payment option
+      type: select_one
+      options:
+      - Credit card
+      - PayPal
+      - Bank transfer
+      required: true
+    - id: 9
+      name: special_instructions
+      label: Special instructions
+      hint: Optional notes for fulfillment
+      type: text
+      options: []
+      required: false

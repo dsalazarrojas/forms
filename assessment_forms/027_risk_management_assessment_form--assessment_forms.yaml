@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Risk Management Assessment Form
+    pages:
+    - id: 1
+      name: risk_management_assessment_form_page_1
+      label: Risk Management Assessment Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: risk_assessment_questions
+      label: Risk Assessment Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: risk_risk_factors
+      label: Risk Factors
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''risk_factors_1'', ''description'': ''Physical Hazards''}'
+      - '{''id'': 2, ''name'': ''risk_factors_2'', ''description'': ''Human Error''}'
+      - '{''id'': 3, ''name'': ''risk_factors_3'', ''description'': ''External''}'
+      - '{''id'': 4, ''name'': ''risk_factors_4'', ''description'': ''Technical''}'
+      - '{''id'': 5, ''name'': ''risk_factors_5'', ''description'': ''Cyber''}'
+      required: false
+    - id: 4
+      name: risk_management_actions
+      label: Risk Management Actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: risk_management_review
+      label: Risk Management Review
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: risk_management_risk_score
+      label: Risk Management Risk Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: risk_management_review_frequency
+      label: Risk Management Review Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Monthly''}'
+      - '{''id'': 2, ''name'': ''Quarterly''}'
+      - '{''id'': 3, ''name'': ''Semi-Annually''}'
+      - '{''id'': 4, ''name'': ''Annually''}'
+      required: true
+    - id: 8
+      name: risk_management_assessment_form_submit
+      label: Risk Management Assessment Form Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Submit''}'
+      - '{''id'': 2, ''name'': ''Do Not Submit''}'
+      required: true
+    - id: 9
+      name: risk_management_review_comment
+      label: Risk Management Review Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: risk_management_reviewer
+      label: Risk Management Reviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: risk_management_review_date
+      label: Risk Management Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: risk_management_last_reviewed
+      label: Risk Management Last Reviewed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: risk_management_risk_rating
+      label: Risk Management Risk Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: risk_management_risk_score_scale
+      label: Risk Management Risk Score Scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: risk_management_risk_level
+      label: Risk Management Risk Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: risk_management_risk_frequency
+      label: Risk Management Risk Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: risk_management_risk_impact
+      label: Risk Management Risk Impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: risk_management_risk_probability
+      label: Risk Management Risk Probability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: risk_management_review_frequency
+      label: Risk Management Review Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: risk_management_risk_level_scale
+      label: Risk Management Risk Level Scale
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Low''}'
+      - '{''id'': 2, ''name'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''High''}'
+      required: true
+    - id: 21
+      name: risk_management_risk_rating_scale
+      label: Risk Management Risk Rating Scale
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''1-2''}'
+      - '{''id'': 2, ''name'': ''3-5''}'
+      - '{''id'': 3, ''name'': ''6-10''}'
+      required: true
+    - id: 22
+      name: risk_management_review_comment
+      label: Risk Management Review Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: risk_management_risk_factors_comments
+      label: Risk Management Risk Factors Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: risk_management_risk_impact_scale
+      label: Risk Management Risk Impact Scale
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Low''}'
+      - '{''id'': 2, ''name'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''High''}'
+      - '{''id'': 4, ''name'': ''Critical''}'
+      required: true
+    - id: 25
+      name: risk_management_risk_probability_scale
+      label: Risk Management Risk Probability Scale
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Low''}'
+      - '{''id'': 2, ''name'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''High''}'
+      - '{''id'': 4, ''name'': ''Critical''}'
+      required: true

@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Phishing Risk Assessment Form
+    pages:
+    - id: 1
+      name: user_input
+      label: user_input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: phishing_risk_score
+      label: phishing_risk_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: phishing_risk_description
+      label: phishing_risk_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: risk_factors
+      label: risk_factors
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: recommended_controls
+      label: recommended_controls
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: mitigation_plans
+      label: mitigation_plans
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: phishing_risk_impact
+      label: phishing_risk_impact
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: phishing_risk_probability
+      label: phishing_risk_probability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: phishing_risk_impact_time
+      label: phishing_risk_impact_time
+      hint: null
+      type: time
+      options: []
+      required: false

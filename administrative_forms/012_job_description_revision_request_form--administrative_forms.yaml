@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Job Description Revision Request Form
+    pages:
+    - id: 1
+      name: job_description_revision_request_form
+      label: Job Description Revision Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Job Category''}'
+      - '{''value'': ''Job Title''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_description
+      label: Job Description
+      hint: Briefly describe the job
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Administrative''}'
+      - '{''value'': ''Technical''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 6
+      name: role
+      label: Role
+      hint: Briefly describe the role
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: current_responsibilities
+      label: Current Responsibilities
+      hint: Briefly describe the current job responsibilities
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: update_responsibilities
+      label: Update Responsibilities
+      hint: Briefly describe the changes to be made
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: reason_for_update
+      label: Reason for Update
+      hint: Briefly describe the reason for the update
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_required
+      label: Date Required
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_required
+      label: Time Required
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitted_by_email
+      label: Submitted By Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: submitted_by_phone
+      label: Submitted By Phone
+      hint: null
+      type: text
+      options: []
+      required: false

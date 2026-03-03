@@ -1,0 +1,89 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Career Counseling Session Request Form
+    pages:
+      - id: 1
+        name: request_header
+        label: -- Session Request --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: requester_name
+        label: Requester name
+        hint: Full name for booking
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email
+        label: Email
+        hint: For booking confirmation
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: preferred_dates
+        label: Preferred dates
+        hint: Provide up to three preferred dates
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: preferred_time
+        label: Preferred time
+        hint: Time window for sessions
+        type: time
+        options: []
+        required: false
+      - id: 6
+        name: session_objectives
+        label: Session objectives
+        hint: What would you like to work on
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: session_length_preference
+        label: Session length preference
+        hint: Typical session duration
+        type: select_one
+        options:
+          - 30 minutes
+          - 45 minutes
+          - 60 minutes
+        required: false
+      - id: 8
+        name: counselor_preference
+        label: Counselor preference
+        hint: Request a specific counselor if any
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: special_requirements
+        label: Special requirements
+        hint: Accessibility or accommodation needs
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: additional_notes
+        label: Additional notes
+        hint: Any other information
+        type: text
+        options: []
+        required: false

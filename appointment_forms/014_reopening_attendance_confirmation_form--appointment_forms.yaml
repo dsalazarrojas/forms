@@ -1,0 +1,478 @@
+inputSchema:
+  type: object
+  properties:
+    title: reopening_attendance_confirmation_form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: confirmation_status
+      label: Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: confirm_date
+      label: Confirm Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: confirm_time
+      label: Confirm Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: confirm_date2
+      label: Confirm Date 2
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: confirm_time2
+      label: Confirm Time 2
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: confirm_date3
+      label: Confirm Date 3
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: confirm_time3
+      label: Confirm Time 3
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: user_name2
+      label: User Name 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: email2
+      label: Email 2
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: phone2
+      label: Phone 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: confirmation_status2
+      label: Confirmation 2
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: comments2
+      label: Comments 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: date2
+      label: Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: time2
+      label: Time 2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: phone2
+      label: Phone 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: confirm_date3
+      label: Confirm Date 3
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: confirm_time3
+      label: Confirm Time 3
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 24
+      name: confirm_date4
+      label: Confirm Date 4
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: confirm_time4
+      label: Confirm Time 4
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 26
+      name: confirm_date5
+      label: Confirm Date 5
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 27
+      name: confirm_time5
+      label: Confirm Time 5
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 28
+      name: confirm_date6
+      label: Confirm Date 6
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 29
+      name: confirm_time6
+      label: Confirm Time 6
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 30
+      name: confirm_date7
+      label: Confirm Date 7
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 31
+      name: confirm_time7
+      label: Confirm Time 7
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 32
+      name: confirm_date8
+      label: Confirm Date 8
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 33
+      name: confirm_time8
+      label: Confirm Time 8
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 34
+      name: confirm_date9
+      label: Confirm Date 9
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 35
+      name: confirm_time9
+      label: Confirm Time 9
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 36
+      name: confirm_date10
+      label: Confirm Date 10
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 37
+      name: confirm_time10
+      label: Confirm Time 10
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 38
+      name: confirm_date11
+      label: Confirm Date 11
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 39
+      name: confirm_time11
+      label: Confirm Time 11
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 40
+      name: confirm_date12
+      label: Confirm Date 12
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 41
+      name: confirm_time12
+      label: Confirm Time 12
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 42
+      name: confirm_date13
+      label: Confirm Date 13
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 43
+      name: confirm_time13
+      label: Confirm Time 13
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 44
+      name: confirm_date14
+      label: Confirm Date 14
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 45
+      name: confirm_time14
+      label: Confirm Time 14
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 46
+      name: confirm_date15
+      label: Confirm Date 15
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 47
+      name: confirm_time15
+      label: Confirm Time 15
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 48
+      name: confirm_date16
+      label: Confirm Date 16
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 49
+      name: confirm_time16
+      label: Confirm Time 16
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 50
+      name: confirm_date17
+      label: Confirm Date 17
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 51
+      name: confirm_time17
+      label: Confirm Time 17
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 52
+      name: confirm_date18
+      label: Confirm Date 18
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 53
+      name: confirm_time18
+      label: Confirm Time 18
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 54
+      name: confirm_date19
+      label: Confirm Date 19
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 55
+      name: confirm_time19
+      label: Confirm Time 19
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 56
+      name: confirm_date20
+      label: Confirm Date 20
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 57
+      name: confirm_time20
+      label: Confirm Time 20
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 58
+      name: confirm_date21
+      label: Confirm Date 21
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 59
+      name: confirm_time21
+      label: Confirm Time 21
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 60
+      name: confirm_date22
+      label: Confirm Date 22
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 61
+      name: confirm_time22
+      label: Confirm Time 22
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 62
+      name: confirm_date23
+      label: Confirm Date 23
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 63
+      name: confirm_time23
+      label: Confirm Time 23
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 64
+      name: confirm_date24
+      label: Confirm Date 24
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 65
+      name: confirm_time24
+      label: Confirm Time 24
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 66
+      name: confirm_date25
+      label: Confirm Date 25
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 67
+      name: confirm_time25
+      label: Confirm Time 25
+      hint: null
+      type: time
+      options: []
+      required: true

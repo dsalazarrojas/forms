@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book Award Application
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: Student ID Number
+      hint: Your university or school ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: We will send updates to this email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department or Major
+      hint: Your academic department
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: academic_level
+      label: Academic Level
+      hint: Select your current year
+      type: select_one
+      options:
+      - Freshman
+      - Sophomore
+      - Junior
+      - Senior
+      - Graduate Student
+      - Doctoral Candidate
+      required: true
+    - id: 7
+      name: book_title
+      label: Book Title for Award
+      hint: Title of the book you are submitting
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: book_author
+      label: Book Author
+      hint: Author of the submitted work
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: submission_category
+      label: Award Category
+      hint: Select the category that best fits your work
+      type: select_one
+      options:
+      - Fiction
+      - Non-Fiction
+      - Poetry
+      - Academic Research
+      - Creative Writing
+      - Technical Writing
+      required: true
+    - id: 10
+      name: submission_abstract
+      label: Abstract or Summary
+      hint: Brief 250-word summary of your work
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: faculty_sponsor
+      label: Faculty Sponsor Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: gpa
+      label: Current GPA
+      hint: Your current grade point average
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: previous_awards
+      label: Have you received any literary awards before
+      hint: Select yes if you have won any writing awards
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: award_details
+      label: Previous Award Details
+      hint: List any previous awards received
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: personal_statement
+      label: Personal Statement
+      hint: Explain why you deserve this award
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: writing_sample
+      label: Writing Sample Attached
+      hint: Confirm you have attached your writing sample
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: submission_date
+      label: Submission Date
+      hint: Date of application
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: terms_agreement
+      label: I agree to the terms and conditions
+      hint: By selecting yes you confirm all information is accurate
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true

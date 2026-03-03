@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athletic Training Waiver Form
+    pages:
+    - id: 1
+      name: participant_details
+      label: -- Participant Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: age
+      label: Age
+      hint: Current age in years
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: sport_activity
+      label: Sport/Activity
+      hint: Which athletic activity will you participate in?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: organization
+      label: Organization/Team
+      hint: Name of team or athletic organization
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: health_disclosure
+      label: -- Health Disclosure --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: health_conditions
+      label: Health Conditions
+      hint: Any relevant medical conditions?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: allergies_list
+      label: Allergies
+      hint: Any known allergies to medications or materials?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medications_taking
+      label: Current Medications
+      hint: List all medications you regularly take
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: previous_injuries
+      label: Previous Injuries
+      hint: Any prior athletic injuries or surgeries?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: physical_limitations
+      label: Physical Limitations
+      hint: Any limitations you should disclose?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: physician_cleared
+      label: Physician Medical Clearance
+      hint: Have you been cleared to participate by a physician?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Uncertain
+      required: true
+    - id: 16
+      name: assumption_of_risk
+      label: -- Assumption of Risk --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: understand_risks
+      label: I understand the inherent risks of athletic participation
+      hint: Including injury, even if precautions are taken
+      type: select_one
+      options:
+      - I Understand
+      - I Do Not Understand
+      required: true
+    - id: 18
+      name: assume_personal_risk
+      label: I assume all personal risk for any injuries
+      hint: null
+      type: select_one
+      options:
+      - I Assume
+      - I Do Not Assume
+      required: true
+    - id: 19
+      name: release_of_liability
+      label: -- Release of Liability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: release_organization
+      label: I release the organization from liability
+      hint: For injuries or damages during participation
+      type: select_one
+      options:
+      - I Release
+      - I Do Not Release
+      required: true
+    - id: 21
+      name: indemnify_organization
+      label: I agree to indemnify the organization
+      hint: Against claims or suits arising from my participation
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 22
+      name: emergency_authorization
+      label: -- Emergency Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: authorize_emergency_care
+      label: I authorize emergency medical treatment
+      hint: If unable to provide consent
+      type: select_one
+      options:
+      - I Authorize
+      - I Do Not Authorize
+      required: true
+    - id: 24
+      name: waiver_acknowledgment
+      label: I have read and fully understand this waiver
+      hint: null
+      type: select_one
+      options:
+      - I Acknowledge
+      - I Do Not Acknowledge
+      required: true
+    - id: 25
+      name: parent_consent_under_18
+      label: Parent/Guardian Consent (if under 18)
+      hint: For athletes under 18 years of age
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      - Not Applicable
+      required: false

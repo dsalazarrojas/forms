@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music Royalty Adjustment Request Form
+    pages:
+    - id: 1
+      name: music_royalty_adjustment_request_form
+      label: submit_form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: supporting_documents
+      label: upload_documents
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 3
+      name: artist_label_publisher
+      label: select_artist_label_publisher
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: discrepancy_claim
+      label: discrepancy_claim
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: adjustment_request
+      label: adjustment_request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: supporting_documents_uploads
+      label: upload_supporting_documents
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: review
+      label: centralize_review
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: music_license_number
+      label: music_license_number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: music_license_holder
+      label: music_license_holder
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: artist_contact_email
+      label: artist_contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: publisher_contact_email
+      label: publisher_contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: artist_contact_phone
+      label: artist_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: publisher_contact_phone
+      label: publisher_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: artist
+      label: artist
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: labels
+      label: labels
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: publishers
+      label: publishers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: date_submitted
+      label: date_submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: adjustment_status
+      label: adjustment_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 19
+      name: adjustment_date
+      label: adjustment_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: uploaded_files
+      label: uploaded_files
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: upload_date
+      label: upload_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: file_name
+      label: file_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: true

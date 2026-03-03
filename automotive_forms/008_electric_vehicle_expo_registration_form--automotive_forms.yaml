@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: electric_vehicle_expo_registration_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_year
+      label: Year
+      hint: null
+      type: select_one
+      options:
+      - '2015'
+      - '2016'
+      - '2017'
+      - '2018'
+      - '2019'
+      - '2020'
+      required: false
+    - id: 6
+      name: vehicle_make
+      label: Make
+      hint: null
+      type: select_multiple
+      options:
+      - Toyota
+      - Nissan
+      - Tesla
+      - Honda
+      - Ford
+      - Volkswagen
+      required: false
+    - id: 7
+      name: vehicle_model
+      label: Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_type
+      label: Type
+      hint: null
+      type: select_multiple
+      options:
+      - Electric
+      - Hybrid
+      - Petrol
+      - Diesel
+      required: false
+    - id: 9
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chat_bob
+      - chat_sally
+      required: true
+    - id: 14
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false

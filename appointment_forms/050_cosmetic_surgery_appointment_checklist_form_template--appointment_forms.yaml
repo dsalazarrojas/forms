@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: cosmetic_surgery_appointment_checklist_form_template
+    pages:
+    - id: 1
+      name: cosmetic_surgery_appointment_checklist
+      label: Cosmetic Surgery Appointment Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - options_for_select_1
+      - Other
+      required: false
+    - id: 2
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: surgical_plan
+      label: Surgical Plan
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: patient_information_2
+      label: Patient Information 2
+      hint: null
+      type: text
+      options: []
+      required: false

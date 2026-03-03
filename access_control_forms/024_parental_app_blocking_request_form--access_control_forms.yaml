@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parental App Blocking Request Form
+    pages:
+    - id: 1
+      name: parental_app_blocking_request_form
+      label: Parental App Blocking Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reason_prophets
+      label: why
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: child_username
+      label: child username
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: parental_permission
+      label: parental permission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: app_to_block
+      label: app to block
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: app_details
+      label: app details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: blocked
+      label: blocked
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: unblocked
+      label: unblocked
+      hint: null
+      type: text
+      options: []
+      required: false

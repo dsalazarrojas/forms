@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athletic Program Declaration Form
+    pages:
+    - id: 1
+      name: student_athlete_information
+      label: -- Student Athlete Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_id
+      label: Student ID Number
+      hint: School ID number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - 9th Grade
+      - 10th Grade
+      - 11th Grade
+      - 12th Grade
+      required: true
+    - id: 7
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: home_address
+      label: Home Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: Student's phone number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: email_address
+      label: Email Address
+      hint: Student's email address
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: sport_declaration
+      label: -- Sport Declaration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: sport_name
+      label: Sport to Participate In
+      hint: Which sport are you declaring for?
+      type: select_one
+      options:
+      - Football
+      - Volleyball
+      - Basketball
+      - Baseball
+      - Softball
+      - Soccer
+      - Tennis
+      - Cross Country
+      - Track and Field
+      - Golf
+      - Swimming
+      - Wrestling
+      - Other
+      required: true
+    - id: 13
+      name: position_preference
+      label: Preferred Position
+      hint: Your preferred position or role
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: prior_experience
+      label: Prior Athletic Experience
+      hint: Years and types of experience in this sport
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: jv_varsity_preference
+      label: JV or Varsity Preference
+      hint: If applicable, your preference
+      type: select_one
+      options:
+      - JV
+      - Varsity
+      - Either
+      - No Preference
+      required: false
+    - id: 16
+      name: parent_guardian_information
+      label: -- Parent/Guardian Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: parent_name
+      label: Parent/Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: parent_phone
+      label: Parent/Guardian Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: parent_email
+      label: Parent/Guardian Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 20
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: If different from parent/guardian
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: health_medical_information
+      label: -- Health and Medical Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Any chronic or relevant health conditions
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: allergies
+      label: Allergies
+      hint: Include medication and environmental allergies
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: current_medications
+      label: Current Medications
+      hint: List all medications athlete is taking
+      type: text
+      options: []
+      required: false

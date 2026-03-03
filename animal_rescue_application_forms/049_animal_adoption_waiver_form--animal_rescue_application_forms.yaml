@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Adoption Waiver Form
+    pages:
+    - id: 1
+      name: section_waiver
+      label: -- Waiver and Release --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: adopter_name
+      label: Adopter name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: pet_name
+      label: Pet name
+      hint: Name of the animal
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: waiver_terms_understood
+      label: I understand the waiver terms
+      hint: Confirm understanding
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 5
+      name: liability_acknowledgement
+      label: Liability acknowledgement
+      hint: Agree to assume responsibility
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact phone
+      hint: For urgent matters
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: signature
+      label: Signature printed name
+      hint: Type name to sign
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: date_signed
+      label: Date signed
+      hint: Date of signature
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: high_school_student_skills_assessment_questionnaire
+    pages:
+    - id: 1
+      name: student_id
+      label: student_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: math_grade
+      label: math_grade
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: math_subjects
+      label: math_subjects
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''a'', ''label'': ''Algebra''}'
+      - '{''id'': 2, ''name'': ''b'', ''label'': ''Calculus''}'
+      - '{''id'': 3, ''name'': ''c'', ''label'': ''Geometry''}'
+      - '{''id'': 4, ''name'': ''d'', ''label'': ''Trigonometry''}'
+      - '{''id'': 5, ''name'': ''e'', ''label'': ''Statistics''}'
+      required: false
+    - id: 5
+      name: english_grade
+      label: english_grade
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: science_grade
+      label: science_grade
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: social_science_grade
+      label: social_science_grade
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: foreign_language_grade
+      label: foreign_language_grade
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: social_skills
+      label: social_skills
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: career_aspiration
+      label: career_aspiration
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''a'', ''label'': ''Business/Entrepreneurship''}'
+      - '{''id'': 2, ''name'': ''b'', ''label'': ''Art/Design''}'
+      - '{''id'': 3, ''name'': ''c'', ''label'': ''Engineering''}'
+      - '{''id'': 4, ''name'': ''d'', ''label'': ''Social Science''}'
+      - '{''id'': 5, ''name'': ''e'', ''label'': ''Other''}'
+      required: false
+    - id: 11
+      name: graduation_year
+      label: graduation_year
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: graduation_status
+      label: graduation_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''a'', ''label'': ''High School''}'
+      - '{''id'': 2, ''name'': ''b'', ''label'': ''Currently in high school''}'
+      - '{''id'': 3, ''name'': ''c'', ''label'': ''Some college''}'
+      - '{''id'': 4, ''name'': ''d'', ''label'': ''Associates''}'
+      - '{''id'': 5, ''name'': ''e'', ''label'': ''Bachelor''}'
+      - '{''id'': 6, ''name'': ''f'', ''label'': ''Master''}'
+      - '{''id'': 7, ''name'': ''g'', ''label'': ''Doctoral''}'
+      required: false

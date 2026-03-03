@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Work Contract Form
+    pages:
+    - id: 1
+      name: main_page
+      label: Remote Work Contract
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_details
+      label: Employee Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: role_definition
+      label: Role Definition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: responsibilities
+      label: Responsibilities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: work_hours_frequency
+      label: Work Hours Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: work_schedule
+      label: Work Schedule
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: work_location
+      label: Work Location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: work_location_list
+      label: Work Locations
+      hint: null
+      type: select_multiple
+      options:
+      - New York
+      - Los Angeles
+      - London
+      required: true
+    - id: 10
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_one
+      options:
+      - Mobile
+      - Phone
+      - Email
+      - None
+      required: true
+    - id: 11
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_info
+      label: Emergency Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: termination_clauses
+      label: Termination Clauses
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: termination_reason
+      label: Termination Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: termination_date
+      label: Termination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: termination_status
+      label: Termination Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: true
+    - id: 17
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: agreement_terms
+      label: Agreement Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: agreement_signature
+      label: Agreement Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: agreement_date
+      label: Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: agreement_status
+      label: Agreement Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Rejected
+      required: true
+    - id: 22
+      name: contract_duration
+      label: Contract Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: contract_end_date
+      label: Contract End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: contract_start_date
+      label: Contract Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: contract_signee
+      label: Contract Signee
+      hint: null
+      type: text
+      options: []
+      required: false

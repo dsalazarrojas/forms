@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Work Location Authorization Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: A valid email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manager_first_name
+      label: Manager First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_last_name
+      label: Manager Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: work_location
+      label: Work Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: reason_for_request
+      label: Reason for request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - Request 1
+      - Request 2
+      - Request 3
+      - Request 4
+      - Request 5
+      required: false
+    - id: 18
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_multiple
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      - Approved Pending
+      - Rejected Pending
+      required: false
+    - id: 19
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: approval_time
+      label: Approval Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - HR
+      - Manager
+      - User
+      required: false
+    - id: 23
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by_title
+      label: Submitted By Title
+      hint: null
+      type: select_one
+      options:
+      - CEO
+      - Manager
+      - Team
+      - User
+      required: false

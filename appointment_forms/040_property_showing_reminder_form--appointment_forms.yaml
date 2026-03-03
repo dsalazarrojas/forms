@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Showing Reminder Form
+    pages:
+    - id: 1
+      name: property_showing_reminder_form
+      label: Property Showing Reminder
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: showing_date
+      label: Showing Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: showing_time
+      label: Showing Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: show_to_client
+      label: Show to Client
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: send_reminders
+      label: Send Reminders
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: reminder_frequency
+      label: Reminder Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: confirmation_message
+      label: Confirmation Message
+      hint: null
+      type: text
+      options: []
+      required: false

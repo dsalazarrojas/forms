@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hydro Operations Assessment Survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: Hydro Operations Assessment Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: site_visit
+      label: Site Visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: hydro_operations
+      label: Hydro Operations
+      hint: null
+      type: select_multiple
+      options:
+      - Hydroelectric Power Plant
+      - Hydroelectric Power Plant 2
+      - Hydroelectric Power Plant 3
+      required: false
+    - id: 5
+      name: operational_status
+      label: Operational Status
+      hint: null
+      type: select_one
+      options:
+      - Running
+      - Under Maintenance
+      - Shutdown
+      - Scheduled for Shutdown
+      required: false
+    - id: 6
+      name: site_visit_date
+      label: Site Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_notes
+      label: Contact Notes
+      hint: null
+      type: text
+      options: []
+      required: false

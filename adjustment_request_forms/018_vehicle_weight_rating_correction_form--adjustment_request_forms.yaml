@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: vehicle_weight_rating_correction_form
+    pages:
+    - id: 1
+      name: vehicle_weight_rating_correction_form_first_page
+      label: vehicle_weight_rating_correction_form_first_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_weight_rating_correction_form_vehicle_type
+      label: vehicle_weight_rating_correction_form_vehicle_type
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 3
+      name: vehicle_weight_rating_correction_form_vehicle_make
+      label: vehicle_weight_rating_correction_form_vehicle_make
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 4
+      name: vehicle_weight_rating_correction_form_vehicle_year
+      label: vehicle_weight_rating_correction_form_vehicle_year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: vehicle_weight_rating_correction_form_vehicle_year_range
+      label: vehicle_weight_rating_correction_form_vehicle_year_range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_weight_rating_correction_form_vehicle_weight
+      label: vehicle_weight_rating_correction_form_vehicle_weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: vehicle_weight_rating_correction_form_vehicle_weight_range
+      label: vehicle_weight_rating_correction_form_vehicle_weight_range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_weight_rating_correction_form_vehicle_weight_status
+      label: vehicle_weight_rating_correction_form_vehicle_weight_status
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 9
+      name: vehicle_weight_rating_correction_form_vehicle_weight_status_note
+      label: vehicle_weight_rating_correction_form_vehicle_weight_status_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_weight_rating_correction_form_additional_details
+      label: vehicle_weight_rating_correction_form_additional_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: vehicle_weight_rating_correction_form_reviewer_name
+      label: vehicle_weight_rating_correction_form_reviewer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: vehicle_weight_rating_correction_form_reviewer_contact
+      label: vehicle_weight_rating_correction_form_reviewer_contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: vehicle_weight_rating_correction_form_reviewer_date
+      label: vehicle_weight_rating_correction_form_reviewer_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: vehicle_weight_rating_correction_form_reviewer_time
+      label: vehicle_weight_rating_correction_form_reviewer_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: vehicle_weight_rating_correction_form_reviewer_signature
+      label: vehicle_weight_rating_correction_form_reviewer_signature
+      hint: null
+      type: text
+      options: []
+      required: true

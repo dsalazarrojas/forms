@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Research Paper Submission Form
+    pages:
+    - id: 1
+      name: form_header
+      label: -- Academic Research Paper Submission Form --
+      hint: Submit your manuscript for journal, conference, or university review.
+        Please complete all required fields.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: corresponding_author_name
+      label: Corresponding author full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: corresponding_author_email
+      label: Corresponding author email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: corresponding_author_affiliation
+      label: Institutional affiliation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: co_authors
+      label: Co-author names and affiliations
+      hint: List each co-author with their institution, separated by semicolons
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: paper_title
+      label: Title of the paper
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: abstract_text
+      label: Abstract (250 words maximum)
+      hint: Provide a concise summary of your research
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: keywords
+      label: Keywords (3-5 keywords separated by commas)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: subject_area
+      label: Subject area or discipline
+      hint: null
+      type: select_one
+      options:
+      - Natural Sciences
+      - Social Sciences
+      - Engineering and Technology
+      - Health and Medicine
+      - Humanities
+      - Business and Economics
+      - Education
+      - Other
+      required: true
+    - id: 10
+      name: submission_type
+      label: Type of submission
+      hint: null
+      type: select_one
+      options:
+      - Original research article
+      - Review article
+      - Case study
+      - Short communication
+      - Conference paper
+      - Technical report
+      required: true
+    - id: 11
+      name: target_publication
+      label: Target journal or conference name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: word_count
+      label: Approximate word count of the manuscript
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: funding_sources
+      label: Funding sources or grant numbers (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: ethical_approval
+      label: Does this research involve human subjects or animals requiring ethical
+        approval
+      hint: null
+      type: select_one
+      options:
+      - Yes - approval obtained
+      - Yes - approval pending
+      - Not applicable
+      required: true
+    - id: 15
+      name: conflict_of_interest
+      label: Do any authors have a conflict of interest to declare
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: conflict_details
+      label: If yes, please describe the conflict of interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: previous_submission
+      label: Has this paper been previously submitted to another journal or conference
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: originality_confirmation
+      label: I confirm that this work is original and has not been published elsewhere
+      hint: null
+      type: select_one
+      options:
+      - Yes - I confirm
+      - Other
+      required: true
+    - id: 19
+      name: submission_date
+      label: Date of submission
+      hint: null
+      type: date
+      options: []
+      required: true

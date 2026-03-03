@@ -1,0 +1,216 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 1 On 1 Coaching Appointment Form
+    pages:
+    - id: 1
+      name: section_header_client_info
+      label: '--- Client Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: We'll use this to send confirmations
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Include country code (e.g., +1 555-123-4567)
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: For age verification purposes
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: preferred_contact_method
+      label: Preferred contact method
+      hint: Choose how you prefer to receive updates
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - SMS
+      required: false
+    - id: 7
+      name: section_header_appointment
+      label: '--- Appointment Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: appointment_date
+      label: Appointment date
+      hint: Select the desired date
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: appointment_time
+      label: Appointment time
+      hint: Select the desired time
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: appointment_type
+      label: Appointment type
+      hint: Choose the focus of the session
+      type: select_one
+      options:
+      - Coaching
+      - Strategy Session
+      - Feedback Review
+      - Career Planning
+      required: true
+    - id: 11
+      name: session_duration_minutes
+      label: Session duration (minutes)
+      hint: Typical duration in minutes
+      type: integer
+      options: []
+      required: true
+    - id: 12
+      name: location_type
+      label: Location type
+      hint: How will the session be conducted?
+      type: select_one
+      options:
+      - In-person
+      - Video Call
+      - Phone Call
+      required: true
+    - id: 13
+      name: coach_preference
+      label: Preferred coach (if any)
+      hint: Provide the coach's name or leave blank
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: special_needs
+      label: Special needs or accommodations
+      hint: Let us know if you require anything special
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_header_feedback
+      label: '--- Feedback ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: satisfaction
+      label: How satisfied are you with the 1 On 1 Coaching Appointment Form?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 17
+      name: usage_frequency
+      label: How often do you use the 1 On 1 Coaching Appointment Form?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: true
+    - id: 18
+      name: key_features
+      label: Which features influenced your opinion?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Design
+      - Price
+      - Performance
+      - Features
+      - Support
+      - Reliability
+      required: false
+    - id: 19
+      name: likelihood_to_recommend
+      label: How likely are you to recommend to others? (0-10)
+      hint: 0 = not at all, 10 = extremely likely
+      type: integer
+      options: []
+      required: true
+    - id: 20
+      name: competitor_comparison
+      label: How does this compare to alternatives?
+      hint: null
+      type: select_one
+      options:
+      - Much better
+      - Somewhat better
+      - About the same
+      - Somewhat worse
+      - Much worse
+      required: true
+    - id: 21
+      name: price_perception
+      label: How do you perceive the pricing?
+      hint: null
+      type: select_one
+      options:
+      - Great value
+      - Fair price
+      - Slightly expensive
+      - Too expensive
+      required: true
+    - id: 22
+      name: improvement_suggestion
+      label: What would you improve about the 1 On 1 Coaching Appointment Form?
+      hint: Provide any suggestions
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

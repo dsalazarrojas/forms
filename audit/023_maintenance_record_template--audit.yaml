@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maintenance Record Template
+    pages:
+    - id: 1
+      name: asset_id
+      label: Asset ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: maintenance_type
+      label: maintenance_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Repair''}'
+      - '{''value'': ''Maintenance''}'
+      - '{''value'': ''Inspection''}'
+      required: false
+    - id: 5
+      name: cost
+      label: cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Complete''}'
+      - '{''value'': ''In Progress''}'
+      - '{''value'': ''Pending''}'
+      required: false
+    - id: 7
+      name: asset_type
+      label: asset_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Vehicle''}'
+      - '{''value'': ''Equipment''}'
+      - '{''value'': ''Property''}'
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

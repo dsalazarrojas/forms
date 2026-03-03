@@ -1,0 +1,319 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Condition Assessment Survey
+    pages:
+    - id: 1
+      name: assessment_header
+      label: -- Building Condition Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: assessment_date
+      label: Assessment date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: assessor_name
+      label: Assessor name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: building_name
+      label: Building name or identifier
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: building_address
+      label: Building address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: exterior_assessment
+      label: -- Exterior Condition --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: roof_condition
+      label: Roof condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent - Like new
+      - Good - Minor wear
+      - Fair - Moderate wear
+      - Poor - Significant damage
+      - Critical - Urgent repairs needed
+      required: true
+    - id: 8
+      name: wall_condition
+      label: Exterior walls condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Critical
+      required: true
+    - id: 9
+      name: foundation_condition
+      label: Foundation condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair - Minor cracks
+      - Poor - Visible damage
+      - Critical - Structural concern
+      required: true
+    - id: 10
+      name: windows_doors
+      label: Windows and doors condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Critical
+      required: true
+    - id: 11
+      name: gutters_drainage
+      label: Gutters and drainage systems
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Not present
+      required: true
+    - id: 12
+      name: landscaping
+      label: Landscaping and grounds condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent - Well maintained
+      - Good - Adequate
+      - Fair - Some work needed
+      - Poor - Neglected
+      - Critical - Safety concern
+      required: true
+    - id: 13
+      name: interior_assessment
+      label: -- Interior Condition --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: flooring_condition
+      label: Flooring condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Critical
+      required: true
+    - id: 15
+      name: walls_paint
+      label: Walls and paint condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Critical
+      required: true
+    - id: 16
+      name: ceiling_condition
+      label: Ceiling condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair - Minor stains
+      - Poor - Damage/leaks
+      - Critical - Safety concern
+      required: true
+    - id: 17
+      name: doors_frames
+      label: Interior doors and frames
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Critical
+      required: true
+    - id: 18
+      name: systems_assessment
+      label: -- Building Systems --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: electrical_system
+      label: Electrical system condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent - Modern, safe
+      - Good - Functional
+      - Fair - Some upgrades needed
+      - Poor - Deteriorated
+      - Critical - Safety hazard
+      required: true
+    - id: 20
+      name: plumbing_system
+      label: Plumbing system condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair - Minor leaks
+      - Poor - Multiple issues
+      - Critical - Major problems
+      required: true
+    - id: 21
+      name: hvac_system
+      label: HVAC system condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent - New or recently serviced
+      - Good - Functional
+      - Fair - Works but needs service
+      - Poor - Multiple issues
+      - Critical - Non-functional
+      required: true
+    - id: 22
+      name: water_damage
+      label: Water damage or moisture issues
+      hint: null
+      type: select_one
+      options:
+      - None observed
+      - Minor - Limited areas
+      - Moderate - Several areas
+      - Extensive - Multiple areas
+      - Critical - Severe throughout
+      required: true
+    - id: 23
+      name: pest_evidence
+      label: Evidence of pests or rodents
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Minor signs
+      - Moderate evidence
+      - Significant evidence
+      - Active infestation
+      required: true
+    - id: 24
+      name: mold_presence
+      label: Mold or mildew presence
+      hint: null
+      type: select_one
+      options:
+      - None observed
+      - Minor - Limited areas
+      - Moderate - Several areas
+      - Extensive - Multiple areas
+      - Critical - Extensive throughout
+      required: true
+    - id: 25
+      name: maintenance_needs
+      label: -- Maintenance Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: immediate_repairs
+      label: Immediate repairs needed
+      hint: Urgent issues
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: short_term_repairs
+      label: Short-term repairs (3-6 months)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: long_term_maintenance
+      label: Long-term maintenance items (1+ years)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: estimated_repairs_cost
+      label: Estimated cost for needed repairs
+      hint: Approximate total
+      type: number
+      options: []
+      required: false
+    - id: 30
+      name: overall_condition
+      label: -- Overall Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: overall_rating
+      label: Overall building condition rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent - Well maintained
+      - Good - Minor issues only
+      - Fair - Moderate maintenance needed
+      - Poor - Significant problems
+      - Critical - Major repairs required
+      required: true
+    - id: 32
+      name: occupancy_safety
+      label: Building safe for occupancy
+      hint: null
+      type: select_one
+      options:
+      - Yes, fully safe
+      - Yes, with minor improvements
+      - Conditional safety
+      - No - Safety concerns
+      - No - Unsafe for occupancy
+      required: true

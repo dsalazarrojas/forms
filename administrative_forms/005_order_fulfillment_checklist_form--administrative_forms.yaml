@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Order Fulfillment Checklist Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shipping_info
+      label: Shipping Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - Partially Complete
+      - Not Complete
+      required: false
+    - id: 5
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Cash
+      - Bank Transfer
+      required: false
+    - id: 8
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: shipping_city
+      label: Shipping City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: shipping_postal_code
+      label: Shipping Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: order_total_reimbursed
+      label: Order Total Reimbursed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: order_items_shippped
+      label: Order Items Shipped
+      hint: null
+      type: select_multiple
+      options:
+      - Item 1
+      - Item 2
+      - Item 3
+      - Item 4
+      - Item 5
+      required: false

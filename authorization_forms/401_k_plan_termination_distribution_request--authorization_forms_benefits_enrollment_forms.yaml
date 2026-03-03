@@ -1,0 +1,204 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 401(k) Plan Termination Distribution Request
+    pages:
+    - id: 1
+      name: section_header_personal
+      label: '--- Participant Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: As it appears on your account records
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: social_security_number
+      label: Social Security Number
+      hint: Last 4 digits only
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email address
+      hint: For important notifications about your distribution
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: phone
+      options: []
+      required: false
+    - id: 7
+      name: mailing_address
+      label: Current mailing address
+      hint: Where you'd like distribution documents sent
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_header_account
+      label: '--- Account Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: employee_id
+      label: Employee ID number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: plan_participation_date
+      label: Date of initial plan participation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: account_balance
+      label: Current account balance (USD)
+      hint: As of the most recent statement
+      type: decimal
+      options: []
+      required: true
+    - id: 12
+      name: section_header_distribution
+      label: '--- Distribution Preferences ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: distribution_method
+      label: Preferred distribution method
+      hint: null
+      type: select_one
+      options:
+      - Lump sum cash payment
+      - Rollover to another qualified plan
+      - Rollover to IRA
+      - Installment payments
+      - Annuity purchase
+      required: true
+    - id: 14
+      name: rollover_destination
+      label: Rollover destination (if applicable)
+      hint: Name and address of receiving institution
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: tax_withholding_percentage
+      label: Federal tax withholding percentage (%)
+      hint: Minimum 20% for distributions over $200,000
+      type: integer
+      options: []
+      required: false
+    - id: 16
+      name: state_tax_withholding
+      label: State tax withholding
+      hint: null
+      type: select_one
+      options:
+      - Yes, withhold state taxes
+      - No, do not withhold state taxes
+      - I will handle state taxes myself
+      required: false
+    - id: 17
+      name: section_header_certifications
+      label: '--- Certifications and Acknowledgments ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: eligible_distributions
+      label: Are you eligible for distributions under plan terms?
+      hint: null
+      type: select_one
+      options:
+      - Yes, I am eligible
+      - No, I am not eligible
+      - I am unsure
+      required: true
+    - id: 19
+      name: early_distribution_penalty
+      label: Are you aware of potential early distribution penalties?
+      hint: Applies if under age 59½
+      type: select_one
+      options:
+      - Yes, I understand the penalty
+      - No, I need more information
+      required: true
+    - id: 20
+      name: beneficiary_confirmation
+      label: Beneficiary information is current
+      hint: On file with HR/Payroll department
+      type: select_one
+      options:
+      - Confirmed, no changes needed
+      - Need to update beneficiary
+      - Not applicable
+      required: true
+    - id: 21
+      name: section_header_authorization
+      label: '--- Authorization ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: signature
+      label: Participant signature
+      hint: By signing, I certify the information is accurate
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: signature_date
+      label: Date of signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: additional_comments
+      label: Additional comments or special instructions
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,65 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Concepts Mastery Assessment
+    pages:
+      - id: 1
+        name: section_assessment_instructions
+        label: -- Assessment Instructions --
+        hint: Evaluate mastery of listed concepts
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: learner_name
+        label: Learner name
+        hint: Optional for anonymous assessment
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: concept_list
+        label: Concept list
+        hint: Topics covered by this assessment
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: mastery_level
+        label: Mastery level
+        hint: Rate overall mastery
+        type: select_one
+        options: [Mastered, Proficient, Developing, Emerging]
+        required: true
+      - id: 5
+        name: evidence_examples
+        label: Evidence examples
+        hint: Provide samples or references demonstrating mastery
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: areas_to_improve
+        label: Areas to improve
+        hint: Specific concepts requiring further work
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: instructor_recommendations
+        label: Instructor recommendations
+        hint: Suggested next steps and resources
+        type: text
+        options: []
+        required: false

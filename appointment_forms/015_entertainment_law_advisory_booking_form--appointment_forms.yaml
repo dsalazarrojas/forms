@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Entertainment Law Advisory Booking Form
+    pages:
+    - id: 1
+      name: client_details
+      label: client_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: advisory_session
+      label: advisory_session
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Morning''}'
+      - '{''id'': 2, ''label'': ''Afternoon''}'
+      - '{''id'': 3, ''label'': ''Evening''}'
+      required: false
+    - id: 3
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_time
+      label: date_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_zone
+      label: time_zone
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: client_address
+      label: client_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: legal_team
+      label: legal_team
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Jim''}'
+      - '{''id'': 2, ''label'': ''Sue''}'
+      - '{''id'': 3, ''label'': ''Bob''}'
+      required: false
+    - id: 10
+      name: message
+      label: message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: confirm_session
+      label: confirm_session
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Scheduled''}'
+      - '{''id'': 2, ''label'': ''Not Scheduled''}'
+      required: false

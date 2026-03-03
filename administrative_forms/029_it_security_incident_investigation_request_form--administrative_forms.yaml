@@ -1,0 +1,240 @@
+inputSchema:
+  type: object
+  properties:
+    title: it_security_incident_investigation_request_form
+    pages:
+    - id: 1
+      name: incident_description
+      label: incident description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: incident_date
+      label: incident date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: incident_time
+      label: incident time
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: incident_details
+      label: incident details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_location
+      label: incident location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: reporting_person
+      label: reporting person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: incident_type
+      label: incident type
+      hint: null
+      type: select_one
+      options:
+      - Phishing
+      - Malware
+      - Ransomware
+      - SQL Injection
+      - DDOS
+      - Data Breach
+      required: true
+    - id: 9
+      name: incident_status
+      label: incident status
+      hint: null
+      type: select_multiple
+      options:
+      - Open
+      - Closed
+      - Escalated
+      - On hold
+      - Waiting
+      - In Progress
+      required: false
+    - id: 10
+      name: incident_priority
+      label: incident priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 11
+      name: incident_severity
+      label: incident severity
+      hint: null
+      type: select_one
+      options:
+      - Severity 1
+      - Severity 2
+      - Severity 3
+      - Severity 4
+      - Severity 5
+      - Severity 6
+      - Severity 7
+      - Severity 8
+      required: true
+    - id: 12
+      name: incident_asset
+      label: incident asset
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: incident_asset_id
+      label: incident asset id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: incident_description_2
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: incident_location_2
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: incident_type_2
+      label: incident type 2
+      hint: null
+      type: select_multiple
+      options:
+      - phishing
+      - malware
+      - ransomware
+      - sql injection
+      - ddos
+      - data breach
+      required: false
+    - id: 17
+      name: incident_status_2
+      label: incident status 2
+      hint: null
+      type: select_multiple
+      options:
+      - open
+      - closed
+      - escalated
+      - on hold
+      - waiting
+      - in progress
+      required: false
+    - id: 18
+      name: incident_priority_2
+      label: incident priority 2
+      hint: null
+      type: select_one
+      options:
+      - high
+      - medium
+      - low
+      required: false
+    - id: 19
+      name: incident_severity_2
+      label: incident severity 2
+      hint: null
+      type: select_one
+      options:
+      - severity 1
+      - severity 2
+      - severity 3
+      - severity 4
+      - severity 5
+      - severity 6
+      - severity 7
+      - severity 8
+      required: false
+    - id: 20
+      name: incident_date_2
+      label: incident date 2
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: incident_time_2
+      label: incident time 2
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: true
+    - id: 22
+      name: incident_details_2
+      label: incident details 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: incident_location_3
+      label: incident location 3
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: incident_status_3
+      label: incident status 3
+      hint: null
+      type: select_multiple
+      options:
+      - open
+      - closed
+      - escalated
+      - on hold
+      - waiting
+      - in progress
+      required: false
+    - id: 25
+      name: incident_type_3
+      label: incident type 3
+      hint: null
+      type: select_one
+      options:
+      - Phishing
+      - Malware
+      - Ransomware
+      - SQL Injection
+      - DDOS
+      - Data Breach
+      required: true

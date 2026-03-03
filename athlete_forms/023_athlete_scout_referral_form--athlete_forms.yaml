@@ -1,0 +1,260 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Scout Referral Form
+    pages:
+    - id: 1
+      name: referrer_name
+      label: Your Name
+      hint: Name of person making referral
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: referrer_role
+      label: Your Role
+      hint: Your relationship to the athlete
+      type: select_one
+      options:
+      - Coach
+      - Teacher
+      - Parent or Guardian
+      - Teammate
+      - Friend
+      - Scout
+      - Other
+      required: true
+    - id: 3
+      name: referrer_email
+      label: Your Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: referrer_phone
+      label: Your Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: athlete_name
+      label: Athlete Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: athlete_email
+      label: Athlete Email
+      hint: If available
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: athlete_phone
+      label: Athlete Phone
+      hint: If available
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: athlete_date_of_birth
+      label: Athlete Date of Birth
+      hint: MM-DD-YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: athlete_school
+      label: Athlete School
+      hint: Current school
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: athlete_grade
+      label: Athlete Grade Level
+      hint: Current grade
+      type: select_one
+      options:
+      - 9th Grade
+      - 10th Grade
+      - 11th Grade
+      - 12th Grade
+      - College
+      - Post-Graduate
+      required: true
+    - id: 11
+      name: sport
+      label: Sport
+      hint: Primary sport
+      type: select_one
+      options:
+      - Football
+      - Basketball
+      - Soccer
+      - Track and Field
+      - Swimming
+      - Volleyball
+      - Baseball
+      - Softball
+      - Tennis
+      - Other
+      required: true
+    - id: 12
+      name: position
+      label: Primary Position
+      hint: Main position played
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: height
+      label: Height
+      hint: In feet and inches or cm
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: weight
+      label: Weight
+      hint: In pounds or kg
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: team_name
+      label: Current Team
+      hint: School or club team
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: coach_name
+      label: Coach Name
+      hint: Current coach
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: coach_contact
+      label: Coach Contact Information
+      hint: Email or phone
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: referral_reason
+      label: Reason for Referral
+      hint: Why are you referring this athlete
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: athlete_strengths
+      label: Athlete Strengths
+      hint: List key strengths
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: athletic_achievements
+      label: Athletic Achievements
+      hint: List awards, honors, records
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: stats_or_numbers
+      label: Relevant Stats
+      hint: Key statistics or performance numbers
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: academic_info
+      label: Academic Information
+      hint: GPA, test scores, academic honors
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: character_assessment
+      label: Character Assessment
+      hint: Describe work ethic, leadership, teamwork
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: video_available
+      label: Is Video Footage Available
+      hint: Do you have game or practice footage
+      type: select_one
+      options:
+      - Yes - Will Provide
+      - Yes - Already Sent
+      - 'No'
+      required: true
+    - id: 25
+      name: video_link
+      label: Video Link
+      hint: Provide link if available
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: competition_level
+      label: Competition Level Observed
+      hint: What level have you seen them compete at
+      type: select_one
+      options:
+      - High School Varsity
+      - Club Level
+      - Regional
+      - State
+      - National
+      - International
+      required: true
+    - id: 27
+      name: potential_level
+      label: Projected Potential Level
+      hint: What level could they compete at
+      type: select_one
+      options:
+      - College Division III
+      - College Division II
+      - College Division I
+      - Professional
+      - Olympic
+      - Too Early to Tell
+      required: true
+    - id: 28
+      name: urgency
+      label: Referral Urgency
+      hint: How soon should they be evaluated
+      type: select_one
+      options:
+      - Immediate Attention
+      - Within This Month
+      - This Season
+      - No Rush
+      required: true
+    - id: 29
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: permission_to_contact
+      label: Permission to Contact Athlete
+      hint: Have you informed the athlete about this referral
+      type: select_one
+      options:
+      - Yes - They Are Aware
+      - Yes - Please Contact Them
+      - No - Contact Me First
+      required: true

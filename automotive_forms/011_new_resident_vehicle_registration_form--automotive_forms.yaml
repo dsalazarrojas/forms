@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Resident Vehicle Registration Form
+    pages:
+    - id: 1
+      name: vehicle_registration_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Car''}'
+      - '{''id'': 2, ''label'': ''Motorcycle''}'
+      - '{''id'': 3, ''label'': ''Boat''}'
+      required: false
+    - id: 2
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_year
+      label: Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_license_plate
+      label: License Plate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: registration_expiration_date
+      label: Registration Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: parking_needs
+      label: Parking Needs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''On-site parking available''}'
+      - '{''id'': 2, ''label'': ''Off-site parking available''}'
+      - '{''id'': 3, ''label'': ''No parking available''}'
+      required: false
+    - id: 8
+      name: documentation_upload1
+      label: Vehicle Registration Document 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: documentation_upload2
+      label: Vehicle Registration Document 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: documentation_upload3
+      label: Vehicle Registration Document 3
+      hint: null
+      type: text
+      options: []
+      required: false

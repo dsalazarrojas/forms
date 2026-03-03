@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Applicant Portal Login Assistance Request
+    pages:
+    - id: 1
+      name: request_date
+      label: Request Date
+      hint: Date when assistance is being requested
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: applicant_name
+      label: Applicant Name
+      hint: Full name of the applicant needing assistance
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email
+      label: Applicant Email
+      hint: Email address associated with the applicant account
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: applicant_phone
+      label: Applicant Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: applicant_id
+      label: Applicant ID
+      hint: Application reference or ID number if available
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: portal_type
+      label: Portal Type
+      hint: Which portal is the applicant trying to access
+      type: select_one
+      options:
+      - Job Application Portal
+      - Admissions Portal
+      - Candidate Portal
+      - Recruitment Portal
+      - Not Sure
+      required: true
+    - id: 7
+      name: issue_type
+      label: Issue Type
+      hint: What type of login issue is being experienced
+      type: select_one
+      options:
+      - Forgot Username
+      - Forgot Password
+      - Account Locked
+      - Cannot Access Email
+      - Technical Error
+      - Account Not Found
+      - Other
+      required: true
+    - id: 8
+      name: issue_description
+      label: Issue Description
+      hint: Detailed description of the login problem
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: error_message
+      label: Error Message
+      hint: Exact error message displayed if any
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: browser_used
+      label: Browser Used
+      hint: Which web browser is being used
+      type: select_one
+      options:
+      - Google Chrome
+      - Mozilla Firefox
+      - Safari
+      - Microsoft Edge
+      - Internet Explorer
+      - Other
+      - Not Sure
+      required: false
+    - id: 11
+      name: device_type
+      label: Device Type
+      hint: What device is being used to access the portal
+      type: select_one
+      options:
+      - Desktop Computer
+      - Laptop
+      - Tablet
+      - Smartphone
+      - Other
+      required: false
+    - id: 12
+      name: operating_system
+      label: Operating System
+      hint: Operating system of the device
+      type: select_one
+      options:
+      - Windows
+      - macOS
+      - iOS
+      - Android
+      - Linux
+      - Chrome OS
+      - Not Sure
+      required: false
+    - id: 13
+      name: last_successful_login
+      label: Last Successful Login
+      hint: When was the last time you successfully logged in
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: password_reset_attempted
+      label: Password Reset Attempted
+      hint: Have you tried resetting your password
+      type: select_one
+      options:
+      - Yes - Successfully
+      - Yes - Failed
+      - false
+      required: true
+    - id: 15
+      name: account_creation_date
+      label: Account Creation Date
+      hint: Approximately when was the account created
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: position_applied
+      label: Position Applied
+      hint: Job position or program applied for
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent is this assistance request
+      type: select_one
+      options:
+      - Critical - Application Deadline Today
+      - High - Deadline Within 48 Hours
+      - Normal - Deadline This Week
+      - Low - General Inquiry
+      required: true
+    - id: 18
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should support contact you
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      - Any Method
+      required: true
+    - id: 19
+      name: best_contact_time
+      label: Best Contact Time
+      hint: Best time of day to reach you
+      type: select_one
+      options:
+      - Morning (8 AM - 12 PM)
+      - Afternoon (12 PM - 5 PM)
+      - Evening (5 PM - 9 PM)
+      - Any Time
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information that may help resolve the issue
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: consent_to_contact
+      label: Consent to Contact
+      hint: Do you consent to being contacted about this request
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

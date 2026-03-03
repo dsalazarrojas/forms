@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: profit_and_loss_assessment_form
+    pages:
+    - id: 1
+      name: main_section
+      label: main_section
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_name
+      label: business_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: year
+      label: year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: revenue_streams
+      label: revenue_streams
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: revenue
+      label: revenue
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: cost_of_goods_sold
+      label: cost_of_goods_sold
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: gross_profit
+      label: gross_profit
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: operating_expenses
+      label: operating_expenses
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 9
+      name: operating_expenses_breakdown
+      label: operating_expenses_breakdown
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: tax_expenses
+      label: tax_expenses
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: net_profit
+      label: net_profit
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: file_upload
+      label: file_upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: back
+      label: back
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: save
+      label: save
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: cancel
+      label: cancel
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: help
+      label: help
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: reset
+      label: reset
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

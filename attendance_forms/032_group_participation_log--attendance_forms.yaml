@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Group Participation Log
+    pages:
+    - id: 1
+      name: main_page
+      label: main-page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_list
+      label: participant-list
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: participant_list_hint
+      label: participant-list-hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: Architectural Project Intake Form
+    pages:
+    - id: 1
+      name: section_client_info
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client or Developer Name
+      hint: Individual or company
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: client_organization
+      label: Company or Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_preference
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text
+      - In-person
+      required: true
+    - id: 7
+      name: section_project_details
+      label: -- Project Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: project_name
+      label: Project Name or Description
+      hint: What do you call this project?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - New construction
+      - Addition
+      - Renovation
+      - Adaptive reuse
+      - Interior redesign
+      - Mixed-use
+      required: true
+    - id: 10
+      name: project_location
+      label: Project Location
+      hint: Address or area
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: land_owned
+      label: Do you own or control the land?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - In process
+      required: true
+    - id: 12
+      name: section_project_vision
+      label: -- Project Vision --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: project_goals
+      label: What are your primary project goals?
+      hint: What do you want to achieve?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: target_users
+      label: Who will use this space?
+      hint: End users or occupants
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: design_preferences
+      label: Design Style or Preferences
+      hint: Modern, traditional, contemporary, etc
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_parameters
+      label: -- Project Parameters --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: site_area_sf
+      label: Site Area (Square Feet)
+      hint: Total lot size
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: building_area_sf
+      label: Building Area (Square Feet)
+      hint: Total built space
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: estimated_budget
+      label: Estimated Budget
+      hint: Total project cost
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: timeline
+      label: Desired Timeline
+      hint: When do you want to start?
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: section_requirements
+      label: -- Special Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: special_requirements
+      label: Any Special Requirements or Constraints
+      hint: Zoning, climate, accessibility, etc
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: sustainability_goals
+      label: Sustainability or Green Building Goals
+      hint: LEED, energy efficiency, etc
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: structure_inspection_form
+    pages:
+    - id: 1
+      name: safety_assessment
+      label: Safety Assessment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: property_inspection
+      label: Property Inspection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: risk_factors
+      label: Risk Factors
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: structure_condition
+      label: Structure Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: safety_standards
+      label: Safety Standards
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,236 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Activity Transfer Proposal
+    pages:
+    - id: 1
+      name: proposer_info
+      label: Proposer Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: position
+      label: Position
+      hint: Your job title
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - Operations
+      - Finance
+      - Human Resources
+      - IT
+      - Sales
+      - Marketing
+      - Administration
+      - Other
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Your work email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: transfer_details
+      label: Transfer Details
+      hint: Information about the proposed transfer
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: activity_name
+      label: Activity Name
+      hint: Name of business activity being transferred
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: activity_description
+      label: Activity Description
+      hint: Describe the activity in detail
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: current_owner
+      label: Current Owner
+      hint: Current department or entity responsible
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: proposed_owner
+      label: Proposed Owner
+      hint: Department or entity to receive transfer
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: transfer_type
+      label: Transfer Type
+      hint: Type of transfer
+      type: select_one
+      options:
+      - Full Transfer
+      - Partial Transfer
+      - Temporary Transfer
+      - Shared Responsibility
+      - Other
+      required: true
+    - id: 13
+      name: transfer_reason
+      label: Reason for Transfer
+      hint: Why is this transfer being proposed
+      type: select_one
+      options:
+      - Organizational Restructuring
+      - Efficiency Improvement
+      - Cost Reduction
+      - Strategic Realignment
+      - Resource Optimization
+      - Compliance Requirement
+      - Other
+      required: true
+    - id: 14
+      name: transfer_justification
+      label: Transfer Justification
+      hint: Provide detailed justification
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: impact_assessment
+      label: Impact Assessment
+      hint: What will be the impact of this transfer
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: operational_impact
+      label: Operational Impact
+      hint: How will operations be affected
+      type: select_one
+      options:
+      - No Impact
+      - Minor Impact
+      - Moderate Impact
+      - Significant Impact
+      - Major Disruption
+      required: true
+    - id: 17
+      name: financial_impact
+      label: Financial Impact
+      hint: Expected financial impact
+      type: select_one
+      options:
+      - Cost Savings
+      - No Financial Impact
+      - Minor Cost Increase
+      - Moderate Cost Increase
+      - Significant Cost Increase
+      required: true
+    - id: 18
+      name: employee_impact
+      label: Employee Impact
+      hint: How will employees be affected
+      type: select_one
+      options:
+      - No Impact
+      - Reporting Change Only
+      - Role Modification
+      - Position Elimination
+      - New Positions Created
+      required: true
+    - id: 19
+      name: affected_employees
+      label: Number of Affected Employees
+      hint: How many employees will be affected
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: timeline
+      label: Proposed Timeline
+      hint: When should transfer occur
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: proposed_start_date
+      label: Proposed Start Date
+      hint: When should transfer begin
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: proposed_completion_date
+      label: Proposed Completion Date
+      hint: When should transfer be complete
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: transition_plan
+      label: Transition Plan
+      hint: Brief description of transition approach
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: risks
+      label: Potential Risks
+      hint: What risks are associated with this transfer
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: mitigation_strategy
+      label: Risk Mitigation Strategy
+      hint: How will risks be addressed
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: approvals_needed
+      label: Required Approvals
+      hint: Select all approvals needed
+      type: select_multiple
+      options:
+      - Department Head
+      - Finance Approval
+      - HR Approval
+      - Legal Review
+      - Executive Approval
+      - Board Approval
+      - Other
+      required: true
+    - id: 27
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

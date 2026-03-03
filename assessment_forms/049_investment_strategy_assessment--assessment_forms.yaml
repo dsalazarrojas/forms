@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Investment Strategy Assessment
+    pages:
+    - id: 1
+      name: risk_tolerance
+      label: What is your risk tolerance?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: investment_objectives
+      label: What are your investment objectives?
+      hint: null
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: true
+    - id: 3
+      name: investment_timeframe
+      label: What is your investment timeframe?
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: investment_amount
+      label: Investment amount?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: investment_horizon
+      label: What is your investment horizon?
+      hint: null
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: true
+    - id: 6
+      name: investment_preferences
+      label: What are your investment preferences?
+      hint: null
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: true
+    - id: 7
+      name: risk_acceptance
+      label: What is your risk acceptance level?
+      hint: null
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: true
+    - id: 8
+      name: investment_return
+      label: What is your expected investment return?
+      hint: null
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: true
+    - id: 9
+      name: investment_frequency
+      label: How often do you invest?
+      hint: null
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: true
+    - id: 10
+      name: investment_frequency_other
+      label: Please specify frequency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: investment_amount_other
+      label: Please specify investment amount
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: investment_objectives_other
+      label: Other investment objectives
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: risk_tolerance_other
+      label: Other risk tolerance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: investment_timeframe_other
+      label: Other investment timeframe
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: investment_horizon_other
+      label: Other investment horizon
+      hint: null
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: false
+    - id: 16
+      name: investment_preferences_other
+      label: Other investment preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: false
+    - id: 17
+      name: risk_acceptance_other
+      label: Other risk acceptance level
+      hint: null
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: false
+    - id: 18
+      name: investment_return_other
+      label: Other expected investment return
+      hint: null
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: false
+    - id: 19
+      name: investment_frequency_other
+      label: Other frequency
+      hint: null
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: false
+    - id: 20
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 22
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_date
+      label: Submitted date
+      hint: null
+      type: date
+      options: []
+      required: true

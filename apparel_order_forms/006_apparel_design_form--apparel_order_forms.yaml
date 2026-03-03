@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Apparel Design Form
+    pages:
+    - id: 1
+      name: order_information
+      label: -- Order Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: design_details
+      label: -- Design Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: product_type
+      label: What product do you need designed?
+      hint: null
+      type: select_one
+      options:
+      - Banner
+      - T-shirt
+      - Hoodie
+      - Cap
+      - Polo shirt
+      - Custom apparel
+      required: true
+    - id: 8
+      name: product_size
+      label: Product Size
+      hint: null
+      type: select_one
+      options:
+      - Extra Small (XS)
+      - Small (S)
+      - Medium (M)
+      - Large (L)
+      - Extra Large (XL)
+      - 2XL
+      - 3XL
+      required: true
+    - id: 9
+      name: quantity_needed
+      label: How many units do you need?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: color_preference
+      label: -- Color Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: primary_color
+      label: Primary Color
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - White
+      - Navy Blue
+      - Red
+      - Green
+      - Yellow
+      - Custom color
+      required: true
+    - id: 12
+      name: secondary_color
+      label: Secondary Color
+      hint: Optional - for multi-color designs
+      type: select_one
+      options:
+      - Black
+      - White
+      - Navy Blue
+      - Red
+      - Green
+      - Gray
+      - None
+      required: false
+    - id: 13
+      name: design_details_text
+      label: Describe your design
+      hint: Include logos, text, graphics, or any specific details
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: print_technique
+      label: Preferred printing method
+      hint: null
+      type: select_one
+      options:
+      - Screen printing
+      - Direct-to-garment printing
+      - Heat transfer
+      - Embroidery
+      - Sublimation
+      required: false
+    - id: 15
+      name: budget_budget
+      label: Estimated Budget
+      hint: null
+      type: select_one
+      options:
+      - Under $500
+      - $500 - $1000
+      - $1000 - $2500
+      - $2500 - $5000
+      - $5000+
+      required: false
+    - id: 16
+      name: delivery_date
+      label: When do you need the order?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: special_requests
+      label: Any special requests or notes?
+      hint: null
+      type: text
+      options: []
+      required: false

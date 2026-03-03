@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scriptwriting Appointment Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: client_type
+      label: Client Type
+      hint: null
+      type: select_one
+      options:
+      - Writer
+      - Consultant
+      - Other
+      required: false
+    - id: 6
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: session_type
+      label: Session Type
+      hint: null
+      type: select_multiple
+      options:
+      - Consultation
+      - Workshop
+      - Other
+      required: false
+    - id: 8
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - Other
+      required: false
+    - id: 9
+      name: preferred_contact
+      label: Preferred Contact
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Text
+      - In-Person
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: session_length
+      label: Session Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: session_length_unit
+      label: Session Length Unit
+      hint: null
+      type: select_one
+      options:
+      - minutes
+      - hours
+      - Other
+      required: false
+    - id: 14
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - In-office
+      - Other
+      required: false
+    - id: 15
+      name: availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: availability_end_date
+      label: Availability End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: notes_2
+      label: Notes 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: select_multiple
+      options:
+      - AM
+      - PM
+      - Flexible
+      required: false
+    - id: 20
+      name: preferred_time_block
+      label: Preferred Time Block
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Flexible
+      required: false
+    - id: 21
+      name: preferred_day
+      label: Preferred Day
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 22
+      name: preferred_day_time
+      label: Preferred Day Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: session_type_2
+      label: Session Type 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: preferred_language_2
+      label: Preferred Language 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: preferred_contact_2
+      label: Preferred Contact 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

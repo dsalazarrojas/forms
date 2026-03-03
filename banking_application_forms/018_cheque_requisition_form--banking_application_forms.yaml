@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cheque Requisition Form
+    pages:
+    - id: 1
+      name: requisition_intro
+      label: -- Cheque Requisition Form --
+      hint: Request a cheque for payment or reimbursement
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requisition_number
+      label: Requisition number
+      hint: Auto-generated or leave blank
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: requisition_date
+      label: Date of requisition
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: requester_name
+      label: Name of requester
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: requester_department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: requester_employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: requester_phone
+      label: Contact phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: requester_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: payee_name
+      label: Payee name
+      hint: Name to appear on the cheque
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: payee_address
+      label: Payee mailing address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: payee_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: payee_state
+      label: State or province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: payee_postal_code
+      label: Postal code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: payee_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: cheque_amount
+      label: Cheque amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: amount_in_words
+      label: Amount in words
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: payment_purpose
+      label: Purpose of payment
+      hint: null
+      type: select_one
+      options:
+      - Vendor payment
+      - Employee reimbursement
+      - Expense payment
+      - Salary
+      - Rent
+      - Utilities
+      - Contractor payment
+      - Other
+      required: true
+    - id: 18
+      name: payment_description
+      label: Detailed description of payment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: invoice_number
+      label: Invoice or reference number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: cost_center
+      label: Cost center or project code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: account_coding
+      label: Account coding
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: cheque_delivery
+      label: Cheque delivery method
+      hint: null
+      type: select_one
+      options:
+      - Mail to payee address
+      - Hold for pickup
+      - Hand deliver
+      - Electronic transfer
+      required: true
+    - id: 23
+      name: approval_manager
+      label: Approving manager name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: special_instructions
+      label: Special instructions or notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,156 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Chamber Of Commerce Award Voting Form
+    pages:
+      - id: 1
+        name: voter_name
+        label: Voter Name
+        hint: Full name of voting member
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: voter_email
+        label: Email Address
+        hint: Chamber member email
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: voter_company
+        label: Company or Organization
+        hint: Business you represent
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: membership_status
+        label: Chamber Membership Status
+        hint: Verify you are a member
+        type: select_one
+        options: ["Active Member", "Associate Member", "Investor Member", "Non-Member"]
+        required: true
+      - id: 5
+        name: membership_number
+        label: Chamber Membership Number
+        hint: Your membership ID
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: voting_deadline_confirmation
+        label: This Voting Period is Still Open
+        hint: Confirm votes are being accepted
+        type: select_one
+        options: ["Yes", "No"]
+        required: true
+      - id: 7
+        name: award_category_1
+        label: Business of the Year Nominee
+        hint: Select or enter business name
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: award_category_2
+        label: Community Service Award Nominee
+        hint: Select or enter organization
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: award_category_3
+        label: Young Professional Award Nominee
+        hint: Select or enter name
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: award_category_4
+        label: Entrepreneur of the Year Nominee
+        hint: Select or enter name
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: award_category_5
+        label: Leadership Excellence Award Nominee
+        hint: Select or enter name
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: award_category_6
+        label: Innovation Award Nominee
+        hint: Select or enter name
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: award_category_7
+        label: Customer Service Excellence Nominee
+        hint: Select or enter name
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: nomination_justification_1
+        label: Business of the Year - Why This Nominee
+        hint: Reason for nomination
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: nomination_justification_2
+        label: Community Service - Why This Nominee
+        hint: Reason for nomination
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: nomination_justification_3
+        label: Young Professional - Why This Nominee
+        hint: Reason for nomination
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: additional_nominees
+        label: Additional Nominations or Comments
+        hint: Any other suggestions
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: voting_integrity
+        label: I Have Not Voted Before on This Form
+        hint: Confirm first and only vote
+        type: select_one
+        options: ["Yes, This Is My First Vote", "No, I May Have Voted Before"]
+        required: true
+      - id: 19
+        name: confidentiality_agreement
+        label: I Understand Votes Are Confidential
+        hint: Votes will not be attributed to voters
+        type: select_one
+        options: ["Yes, I Agree", "No"]
+        required: true
+      - id: 20
+        name: submission_consent
+        label: Submit My Votes
+        hint: Confirm and submit voting form
+        type: select_one
+        options: ["Yes, Submit My Votes", "No, Do Not Submit"]
+        required: true

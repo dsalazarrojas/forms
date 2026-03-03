@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: fleet_management_assessment_form
+    pages:
+    - id: 1
+      name: fleet_management_1
+      label: fleet_management_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_performance
+      label: vehicle_performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: maintenance_status
+      label: maintenance_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: driver_efficiency
+      label: driver_efficiency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''very_good''}'
+      - '{''value'': ''good''}'
+      - '{''value'': ''fair''}'
+      - '{''value'': ''poor''}'
+      required: false
+    - id: 5
+      name: vehicle_performance_2
+      label: vehicle_performance_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_performance_3
+      label: vehicle_performance_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_maintenance_1
+      label: vehicle_maintenance_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_maintenance_2
+      label: vehicle_maintenance_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_maintenance_3
+      label: vehicle_maintenance_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_maintenance_4
+      label: vehicle_maintenance_4
+      hint: null
+      type: text
+      options: []
+      required: false

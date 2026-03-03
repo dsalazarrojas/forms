@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stadium Security Assessment Form
+    pages:
+    - id: 1
+      name: stadium_security_assessment_form_1
+      label: Assessment 1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: stadium_event_operators
+      label: Event Operators
+      hint: Name of event operators
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: security_readiness_1
+      label: Readiness 1
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: security_readiness_2
+      label: Readiness 2
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: security_readiness_3
+      label: Readiness 3
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: stadium_security_assessment_form_description
+      label: Description
+      hint: Brief description of the form
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false

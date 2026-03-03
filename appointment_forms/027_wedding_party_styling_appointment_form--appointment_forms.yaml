@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Party Styling Appointment Form
+    pages:
+    - id: 1
+      name: wedding_party_styling_appointment_form_1
+      label: wedding party styling form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: wedding_party_styling_appointment_time
+      label: appointment time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: wedding_party_styling_date
+      label: appointment date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: wedding_party_styling_name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: wedding_party_styling_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: wedding_party_styling_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: wedding_party_styling_message
+      label: message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: save_changes
+      label: save changes
+      hint: null
+      type: select_multiple
+      options:
+      - wedding party styling form 1
+      - wedding party styling form 2
+      - wedding party styling form 3
+      required: true
+    - id: 9
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

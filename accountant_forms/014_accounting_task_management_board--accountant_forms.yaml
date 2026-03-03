@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Task Management Board
+    pages:
+    - id: 1
+      name: task_title
+      label: Task Title
+      hint: Brief title for the accounting task
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: task_description
+      label: Task Description
+      hint: Detailed description of what needs to be done
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: assigned_to
+      label: Assigned To
+      hint: Name of the person responsible for completing the task
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: task_category
+      label: Task Category
+      hint: Type of accounting task
+      type: select_one
+      options:
+      - Bookkeeping
+      - Reconciliation
+      - Tax Preparation
+      - Financial Reporting
+      - Audit Support
+      - Budget Planning
+      - Payroll
+      - Other
+      required: true
+    - id: 5
+      name: priority_level
+      label: Priority Level
+      hint: How urgent is this task
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Critical
+      required: true
+    - id: 6
+      name: due_date
+      label: Due Date
+      hint: When does this task need to be completed
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: estimated_hours
+      label: Estimated Hours to Complete
+      hint: How many hours do you estimate this task will take
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: task_status
+      label: Task Status
+      hint: Current status of the task
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - Review
+      - Completed
+      - On Hold
+      - Cancelled
+      required: true
+    - id: 9
+      name: project_phase
+      label: Project Phase
+      hint: Which phase of the project does this task belong to
+      type: select_one
+      options:
+      - Planning
+      - Execution
+      - Review
+      - Closing
+      required: false
+    - id: 10
+      name: dependencies
+      label: Dependencies
+      hint: Does this task depend on completion of other tasks
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: required_resources
+      label: Required Resources
+      hint: What resources are needed to complete this task
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: related_documents
+      label: Related Documents
+      hint: List any documents or files related to this task
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: completion_criteria
+      label: Completion Criteria
+      hint: What defines successful completion of this task
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: review_required
+      label: Review Required
+      hint: Does this task require review by another team member
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

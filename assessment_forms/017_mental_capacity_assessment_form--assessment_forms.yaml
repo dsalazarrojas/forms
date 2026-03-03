@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mental Capacity Assessment Form
+    pages:
+    - id: 1
+      name: patient_identification
+      label: Patient Identification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: mental_state
+      label: Mental State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: mental_state_questions
+      label: Mental State Questions
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: capacity_determination
+      label: Capacity Determination
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: decision_making
+      label: Decision Making
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: risk_assessment
+      label: Risk Assessment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: mental_capacity
+      label: Mental Capacity
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 8
+      name: mental_capacity_determination
+      label: Mental Capacity Determination
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 9
+      name: treatment_plan
+      label: Treatment Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: mental_capacity_status
+      label: Mental Capacity Status
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 12
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: assessed_by
+      label: Assessed By
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

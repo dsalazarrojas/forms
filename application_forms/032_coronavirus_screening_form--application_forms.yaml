@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: coronavirus_screening_form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: health_status
+      label: Health Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: travel_history
+      label: Travel History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_history
+      label: Contact History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: test_date
+      label: Test Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: test_result
+      label: Test Result
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book Purchase Confirmation
+    pages:
+    - id: 1
+      name: customer_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: We will send confirmation here
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: For order inquiries
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: order_number
+      label: Order Number
+      hint: Your order reference number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: order_date
+      label: Order Date
+      hint: Date of order
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: book_title
+      label: Book Title
+      hint: Full title of book
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: book_author
+      label: Book Author
+      hint: Author of the book
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: book_isbn
+      label: Book ISBN
+      hint: ISBN number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: book_format
+      label: Book Format
+      hint: Format purchased
+      type: select_one
+      options:
+      - Hardcover
+      - Paperback
+      - eBook
+      - Audiobook
+      - Deluxe Edition
+      required: true
+    - id: 10
+      name: quantity
+      label: Quantity
+      hint: Number of copies
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: unit_price
+      label: Price Per Book
+      hint: Price per copy
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: subtotal
+      label: Subtotal
+      hint: Total before tax and shipping
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: tax_amount
+      label: Tax Amount
+      hint: Tax applied
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: shipping_cost
+      label: Shipping Cost
+      hint: Shipping charges
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: total_amount
+      label: Total Amount
+      hint: Final total
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: shipping_address
+      label: Shipping Address
+      hint: Full delivery address
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: postal_code
+      label: Postal Code
+      hint: Your ZIP or postal code
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: country
+      label: Country
+      hint: Your country
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - Other
+      required: true
+    - id: 21
+      name: shipping_method
+      label: Shipping Method
+      hint: Selected shipping option
+      type: select_one
+      options:
+      - Standard 5-7 days
+      - Express 2-3 days
+      - Overnight
+      - International
+      required: true
+    - id: 22
+      name: estimated_delivery
+      label: Estimated Delivery Date
+      hint: When to expect delivery
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: payment_method
+      label: Payment Method
+      hint: How you paid
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Apple Pay
+      - Google Pay
+      required: true
+    - id: 24
+      name: payment_status
+      label: Payment Status
+      hint: Current payment status
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      - Processing
+      required: true
+    - id: 25
+      name: gift_message
+      label: Gift Message
+      hint: Optional gift message
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: special_instructions
+      label: Special Instructions
+      hint: Any delivery instructions
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: confirmation_acknowledgment
+      label: I Confirm This Order Is Correct
+      hint: By selecting yes you confirm all details
+      type: select_one
+      options:
+      - Yes I confirm
+      - No I need to make changes
+      required: true
+    - id: 28
+      name: terms_agreement
+      label: I Agree to Terms and Conditions
+      hint: By selecting yes you agree to terms
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true

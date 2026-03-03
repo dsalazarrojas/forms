@@ -1,0 +1,273 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Classroom Setup Checklist Form
+    pages:
+      - id: 1
+        name: classroom_number
+        label: Classroom Number
+        hint: Room number or identifier
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: teacher_name
+        label: Teacher Name
+        hint: Name of the teacher assigned to this classroom
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: grade_level
+        label: Grade Level
+        hint: Grade level for this classroom
+        type: select_one
+        options:
+          - Kindergarten
+          - Grade 1-2
+          - Grade 3-5
+          - Grade 6-8
+          - Grade 9-12
+        required: true
+      - id: 4
+        name: setup_date
+        label: Setup Date
+        hint: Date when setup is being completed
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: school_year
+        label: School Year
+        hint: Academic year
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: section_header_furniture
+        label: -- Furniture Setup --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: desks_arranged
+        label: Desks and Tables Arranged
+        hint: All desks and tables properly positioned
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Started
+          - Not Applicable
+        required: true
+      - id: 8
+        name: chairs_inspected
+        label: Chairs Inspected and Safe
+        hint: All chairs are safe and functional
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Started
+          - Not Applicable
+        required: true
+      - id: 9
+        name: teacher_desk_organized
+        label: Teacher Desk Organized
+        hint: Teacher desk and area prepared
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Started
+          - Not Applicable
+        required: true
+      - id: 10
+        name: bookshelves_arranged
+        label: Bookshelves and Storage Arranged
+        hint: Bookshelves and storage units organized
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Started
+          - Not Applicable
+        required: true
+      - id: 11
+        name: section_header_instructional
+        label: -- Instructional Materials --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: whiteboard_clean
+        label: Whiteboard or Chalkboard Clean and Ready
+        hint: Writing surfaces prepared with markers or chalk
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Started
+          - Not Applicable
+        required: true
+      - id: 13
+        name: bulletin_boards_displayed
+        label: Bulletin Boards and Displays Posted
+        hint: Educational displays and bulletin boards ready
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Started
+          - Not Applicable
+        required: true
+      - id: 14
+        name: instructional_materials_stocked
+        label: Instructional Materials Stocked
+        hint: Textbooks, handouts, and materials available
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Started
+          - Not Applicable
+        required: true
+      - id: 15
+        name: technology_setup
+        label: Technology Equipment Set Up
+        hint: Projector, computer, and other tech ready
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Started
+          - Not Applicable
+        required: true
+      - id: 16
+        name: section_header_supplies
+        label: -- Classroom Supplies --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: writing_supplies_available
+        label: Writing Supplies Available
+        hint: Pencils, pens, markers, and paper stocked
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Started
+          - Not Applicable
+        required: true
+      - id: 18
+        name: cleaning_supplies_available
+        label: Cleaning Supplies Available
+        hint: Tissues, sanitizer, and cleaning materials ready
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Started
+          - Not Applicable
+        required: true
+      - id: 19
+        name: safety_equipment_check
+        label: Safety Equipment Checked
+        hint: First aid kit, fire extinguisher, emergency info posted
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Started
+          - Not Applicable
+        required: true
+      - id: 20
+        name: section_header_environment
+        label: -- Classroom Environment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: classroom_cleaned
+        label: Classroom Thoroughly Cleaned
+        hint: Floors, windows, and surfaces clean
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Started
+          - Not Applicable
+        required: true
+      - id: 22
+        name: lighting_functional
+        label: Lighting Functional
+        hint: All lights working properly
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Started
+          - Not Applicable
+        required: true
+      - id: 23
+        name: temperature_comfortable
+        label: Temperature Control Working
+        hint: HVAC system functioning properly
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Started
+          - Not Applicable
+        required: true
+      - id: 24
+        name: emergency_procedures_posted
+        label: Emergency Procedures Posted
+        hint: Evacuation routes and emergency contacts visible
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Started
+          - Not Applicable
+        required: true
+      - id: 25
+        name: additional_notes
+        label: Additional Notes or Issues
+        hint: List any issues or additional items needed
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: setup_completed_by
+        label: Setup Completed By
+        hint: Name of person who completed setup
+        type: text
+        options: []
+        required: true
+      - id: 27
+        name: administrator_approval
+        label: Administrator Approval
+        hint: Administrator sign-off
+        type: select_one
+        options:
+          - Approved - Classroom ready for use
+          - Approved with Minor Issues - Can be used
+          - Not Approved - Needs additional work
+        required: true

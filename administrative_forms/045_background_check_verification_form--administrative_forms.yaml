@@ -1,0 +1,116 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Background Check Verification Form
+    pages:
+      - id: 1
+        name: verification_admin_header
+        label: -- Administrative Background Check Verification --
+        hint: For recording the results of individual verification steps
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: candidate_name_verification
+        label: Candidate Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: verification_type_performed
+        label: Type of Verification Performed
+        hint: null
+        type: select_one
+        options:
+          - Employment History
+          - Educational Degrees/Certifications
+          - Professional Reference
+          - Professional License
+          - Personal Reference
+        required: true
+      - id: 4
+        name: organization_contacted
+        label: Organization/Entity Contacted
+        hint: e.g., University name, Previous Employer
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: contact_person_verified
+        label: Name of Contact Person at Entity
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: contact_method_verification
+        label: Method of Verification
+        hint: null
+        type: select_one
+        options:
+          - Phone Call
+          - Email
+          - Online Database (e.g., National Student Clearinghouse)
+          - Written Correspondence
+        required: true
+      - id: 7
+        name: verification_result_status
+        label: Verification Result
+        hint: null
+        type: select_one
+        options:
+          - Verified (Matches Candidate Statement)
+          - Discrepancy Found (Minor)
+          - Discrepancy Found (Significant)
+          - Unable to Verify
+          - Adverse Information Discovered
+        required: true
+      - id: 8
+        name: verification_details_findings
+        label: Detailed Findings and Comments
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: verified_by_admin_name
+        label: Verified By (Admin/Staff Name)
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: date_verification_completed
+        label: Date Verification Completed
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 11
+        name: followup_required_check
+        label: Is further follow-up required?
+        hint: null
+        type: select_one
+        options:
+          - No
+          - Yes (See comments)
+        required: true
+      - id: 12
+        name: internal_file_reference
+        label: Internal File Reference Number
+        hint: null
+        type: text
+        options: []
+        required: false

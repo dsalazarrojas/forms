@@ -1,0 +1,239 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coaches' Code Of Conduct Agreement
+    pages:
+    - id: 1
+      name: coach_name
+      label: Coach Full Name
+      hint: Your legal full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: team_or_organization
+      label: Team or Organization Name
+      hint: Name of your team or organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: sport_or_activity
+      label: Sport or Activity
+      hint: What sport or activity do you coach
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: coaching_level
+      label: Coaching Level
+      hint: What level do you coach
+      type: select_one
+      options:
+      - Youth Recreational
+      - Youth Competitive
+      - High School
+      - College
+      - Professional
+      - Adult Amateur
+      required: true
+    - id: 7
+      name: years_coaching
+      label: Years of Coaching Experience
+      hint: How long have you been coaching
+      type: select_one
+      options:
+      - First Year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - Over 10 years
+      required: true
+    - id: 8
+      name: agreement_date
+      label: Agreement Date
+      hint: Date of this agreement
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: sportsmanship_commitment
+      label: I Commit to Good Sportsmanship
+      hint: You agree to demonstrate good sportsmanship
+      type: select_one
+      options:
+      - Yes I Commit
+      - false
+      required: true
+    - id: 10
+      name: respect_commitment
+      label: I Will Respect All Participants
+      hint: You agree to respect players officials and opponents
+      type: select_one
+      options:
+      - Yes I Agree
+      - false
+      required: true
+    - id: 11
+      name: positive_environment
+      label: I Will Create a Positive Environment
+      hint: You agree to foster a supportive atmosphere
+      type: select_one
+      options:
+      - Yes I Commit
+      - false
+      required: true
+    - id: 12
+      name: no_abuse_policy
+      label: I Will Not Tolerate Any Form of Abuse
+      hint: You agree to prevent physical verbal or emotional abuse
+      type: select_one
+      options:
+      - Yes I Understand
+      - false
+      required: true
+    - id: 13
+      name: fair_play_commitment
+      label: I Will Promote Fair Play
+      hint: You agree to uphold fair play principles
+      type: select_one
+      options:
+      - Yes I Commit
+      - false
+      required: true
+    - id: 14
+      name: player_development_focus
+      label: I Will Prioritize Player Development Over Winning
+      hint: You agree to focus on growth not just results
+      type: select_one
+      options:
+      - Yes I Agree
+      - false
+      required: true
+    - id: 15
+      name: safety_commitment
+      label: I Will Prioritize Player Safety
+      hint: You agree to put safety first
+      type: select_one
+      options:
+      - Yes I Commit
+      - false
+      required: true
+    - id: 16
+      name: rules_compliance
+      label: I Will Follow All Rules and Regulations
+      hint: You agree to comply with league and organization rules
+      type: select_one
+      options:
+      - Yes I Will
+      - false
+      required: true
+    - id: 17
+      name: confidentiality_agreement
+      label: I Will Maintain Confidentiality
+      hint: You agree to keep sensitive information private
+      type: select_one
+      options:
+      - Yes I Agree
+      - false
+      required: true
+    - id: 18
+      name: conflict_of_interest
+      label: I Will Disclose Conflicts of Interest
+      hint: You agree to report any conflicts
+      type: select_one
+      options:
+      - Yes I Will
+      - false
+      required: true
+    - id: 19
+      name: professional_boundaries
+      label: I Will Maintain Professional Boundaries
+      hint: You agree to appropriate coach-athlete boundaries
+      type: select_one
+      options:
+      - Yes I Commit
+      - false
+      required: true
+    - id: 20
+      name: continuous_learning
+      label: I Will Pursue Continuous Learning
+      hint: You agree to improve your coaching skills
+      type: select_one
+      options:
+      - Yes I Commit
+      - false
+      required: true
+    - id: 21
+      name: substance_free_commitment
+      label: I Will Remain Substance-Free During Duties
+      hint: You agree to be free of alcohol and drugs while coaching
+      type: select_one
+      options:
+      - Yes I Commit
+      - false
+      required: true
+    - id: 22
+      name: social_media_conduct
+      label: I Will Maintain Appropriate Social Media Conduct
+      hint: You agree to professional online behavior
+      type: select_one
+      options:
+      - Yes I Agree
+      - false
+      required: true
+    - id: 23
+      name: reporting_obligations
+      label: I Will Report Violations and Concerns
+      hint: You agree to report code violations
+      type: select_one
+      options:
+      - Yes I Will
+      - false
+      required: true
+    - id: 24
+      name: consequence_understanding
+      label: I Understand Consequences of Violations
+      hint: You understand penalties for breaking this code
+      type: select_one
+      options:
+      - Yes I Understand
+      - false
+      required: true
+    - id: 25
+      name: signature_confirmation
+      label: I Have Read and Agree to This Code of Conduct
+      hint: You confirm reading and agreeing to all terms
+      type: select_one
+      options:
+      - Yes I Agree
+      - false
+      required: true
+    - id: 26
+      name: witness_name
+      label: Witness Name
+      hint: Name of witness if applicable
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: additional_comments
+      label: Additional Comments
+      hint: Any questions or clarifications
+      type: text
+      options: []
+      required: false

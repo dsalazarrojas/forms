@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: quick_release_steering_wheel_installation_checklist
+    pages:
+    - id: 1
+      name: make_note
+      label: Make
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: model_year
+      label: model_year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: vehicle_type
+      label: vehicle_type
+      hint: null
+      type: select_multiple
+      options:
+      - 4WD
+      - FWD
+      - RWD
+      - AWD
+      - AT
+      - MT
+      required: true
+    - id: 4
+      name: vehicle_condition
+      label: vehicle_condition
+      hint: null
+      type: select_one
+      options:
+      - new
+      - used
+      - certified_preowned
+      required: true
+    - id: 5
+      name: steering_wheel_type
+      label: steering_wheel_type
+      hint: null
+      type: select_one
+      options:
+      - quick_release
+      - power_locking
+      - manual
+      required: true
+    - id: 6
+      name: installation_method
+      label: installation_method
+      hint: null
+      type: select_multiple
+      options:
+      - bolt_on
+      - press_fit
+      - snap_on
+      required: true
+    - id: 7
+      name: installation_location
+      label: installation_location
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: installation_notes
+      label: installation_notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: customer_signature
+      label: customer_signature
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: mechanic_signature
+      label: mechanic_signature
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: date_installed
+      label: date_installed
+      hint: null
+      type: date
+      options: []
+      required: true

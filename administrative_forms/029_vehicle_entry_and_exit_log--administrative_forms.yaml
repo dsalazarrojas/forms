@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: vehicle_entry_and_exit_log
+    pages:
+    - id: 1
+      name: entry_date
+      label: Entry Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: entry_time
+      label: Entry Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: vehicle_id
+      label: Vehicle ID
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: entry_location
+      label: Entry Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: exit_location
+      label: Exit Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: exit_date
+      label: Exit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: exit_time
+      label: Exit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: operator_id
+      label: Operator ID
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: entry_time
+      label: Entry Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 15
+      name: form_ids
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Administrative Forms
+      - Other
+      required: false
+    - id: 18
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false

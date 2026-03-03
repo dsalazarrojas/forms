@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Innovation Award Nomination Form
+    pages:
+    - id: 1
+      name: nomination_details
+      label: Nomination Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: nomination_category
+      label: Nomination Category
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: nomination_subcategory
+      label: Nomination Subcategory
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: description
+      label: Description
+      hint: A brief description of the innovation
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: file_upload
+      label: File Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: file_description
+      label: File Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: judging_team
+      label: Judging Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

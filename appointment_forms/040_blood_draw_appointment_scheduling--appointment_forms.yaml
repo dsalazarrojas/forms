@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blood Draw Appointment Scheduling
+    pages:
+    - id: 1
+      name: scheduling_header
+      label: Blood Draw Appointment Scheduling
+      hint: Schedule your blood draw appointment
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Birth date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Insurance company name
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: insurance_id
+      label: Insurance ID Number
+      hint: Policy number
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: ordering_physician
+      label: Ordering Physician
+      hint: Doctor who ordered tests
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: physician_phone
+      label: Physician Phone
+      hint: Doctor contact number
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: test_types
+      label: Types of Tests Ordered
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Complete Blood Count
+      - Basic Metabolic Panel
+      - Comprehensive Metabolic Panel
+      - Lipid Panel
+      - Thyroid Panel
+      - HbA1c
+      - Vitamin D
+      - Other
+      required: true
+    - id: 15
+      name: fasting_required
+      label: Fasting Required
+      hint: Were you instructed to fast
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: true
+    - id: 16
+      name: preferred_location
+      label: Preferred Location
+      hint: Choose draw center
+      type: select_one
+      options:
+      - Main Laboratory
+      - Downtown Clinic
+      - Westside Branch
+      - Home Visit
+      - Workplace Visit
+      required: true
+    - id: 17
+      name: preferred_date
+      label: Preferred Date
+      hint: First choice
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: preferred_time
+      label: Preferred Time
+      hint: What time works best
+      type: time
+      options: []
+      required: true
+    - id: 19
+      name: alternate_date
+      label: Alternate Date
+      hint: Second choice
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: appointment_type
+      label: Appointment Type
+      hint: Type of visit
+      type: select_one
+      options:
+      - Routine Blood Draw
+      - Urgent Blood Draw
+      - Follow-Up Draw
+      - Home Collection
+      required: true
+    - id: 21
+      name: difficult_draw
+      label: Difficult Draw History
+      hint: Do you have difficult veins
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: special_needs
+      label: Special Needs
+      hint: Any accommodations
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reminder_preference
+      label: Reminder Preference
+      hint: How should we remind you
+      type: select_one
+      options:
+      - Email
+      - SMS
+      - Phone Call
+      - No Reminder
+      required: true
+    - id: 24
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,377 @@
+inputSchema:
+  type: object
+  properties:
+    title: Antimicrobial Therapy Assessment
+    pages:
+    - id: 1
+      name: patient_id
+      label: Patient ID
+      hint: Medical record number
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_age
+      label: Patient Age
+      hint: Age in years
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: patient_gender
+      label: Patient Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer not to say
+      required: true
+    - id: 4
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of review
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: facility_name
+      label: Facility Name
+      hint: Hospital or clinic name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: unit_or_department
+      label: Unit or Department
+      hint: Where is patient located
+      type: select_one
+      options:
+      - Internal medicine
+      - ICU
+      - Emergency department
+      - Surgery
+      - Oncology
+      - Pediatrics
+      - Other
+      required: true
+    - id: 7
+      name: admitting_diagnosis
+      label: Admitting Diagnosis
+      hint: Primary diagnosis on admission
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: infection_type
+      label: Type of Infection
+      hint: Select if infection-related
+      type: select_one
+      options:
+      - Respiratory tract infection
+      - Urinary tract infection
+      - Bloodstream infection
+      - Skin and soft tissue infection
+      - Intra-abdominal infection
+      - CNS infection
+      - Bone and joint infection
+      - Other
+      - No infection
+      required: true
+    - id: 9
+      name: infection_site
+      label: Specific Infection Site
+      hint: Describe location
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: antimicrobial_section
+      label: -- Antimicrobial Therapy --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: current_antibiotics
+      label: Current Antibiotic Regimen
+      hint: List all antibiotics
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: start_date
+      label: Therapy Start Date
+      hint: When was antibiotic started
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: indication_documented
+      label: Indication Documented
+      hint: Is indication in medical record
+      type: select_one
+      options:
+      - Yes, clearly documented
+      - Yes, somewhat documented
+      - No, not documented
+      required: true
+    - id: 14
+      name: culture_obtained
+      label: Cultures Obtained
+      hint: Before starting antibiotics
+      type: select_one
+      options:
+      - Yes, appropriate cultures
+      - Yes, but incomplete
+      - No cultures obtained
+      - Not applicable
+      required: true
+    - id: 15
+      name: culture_results
+      label: Culture Results
+      hint: If available
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: organism_identified
+      label: Organism Identified
+      hint: Name of pathogen if known
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: susceptibility_testing
+      label: Susceptibility Testing Done
+      hint: Are results available
+      type: select_one
+      options:
+      - Yes, results available
+      - Yes, pending
+      - No testing done
+      - Not applicable
+      required: true
+    - id: 18
+      name: therapy_appropriateness_section
+      label: -- Therapy Appropriateness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: drug_selection
+      label: Drug Selection Appropriateness
+      hint: Based on guidelines
+      type: select_one
+      options:
+      - Appropriate
+      - Somewhat appropriate
+      - Inappropriate
+      - Unable to assess
+      required: true
+    - id: 20
+      name: dosing_appropriateness
+      label: Dosing Appropriateness
+      hint: Correct dose and frequency
+      type: select_one
+      options:
+      - Appropriate
+      - Somewhat appropriate
+      - Inappropriate
+      - Unable to assess
+      required: true
+    - id: 21
+      name: renal_adjustment
+      label: Renal Dose Adjustment
+      hint: If needed, was it made
+      type: select_one
+      options:
+      - Not needed
+      - Needed and made
+      - Needed but not made
+      - Unknown
+      required: true
+    - id: 22
+      name: route_appropriateness
+      label: Route Appropriateness
+      hint: IV vs oral
+      type: select_one
+      options:
+      - Appropriate
+      - Somewhat appropriate
+      - Inappropriate
+      - Unable to assess
+      required: true
+    - id: 23
+      name: iv_to_oral_candidate
+      label: Candidate for IV to Oral Conversion
+      hint: Can patient switch to oral
+      type: select_one
+      options:
+      - Yes, ready now
+      - Yes, soon
+      - No, IV required
+      - Already on oral
+      required: true
+    - id: 24
+      name: duration_assessment
+      label: Duration Assessment
+      hint: Is duration appropriate
+      type: select_one
+      options:
+      - Appropriate duration planned
+      - Duration too long
+      - Duration too short
+      - Unable to assess
+      required: true
+    - id: 25
+      name: recommended_duration
+      label: Recommended Duration
+      hint: In days
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: de_escalation_opportunity
+      label: De-escalation Opportunity
+      hint: Can therapy be narrowed
+      type: select_one
+      options:
+      - Yes, recommended
+      - No, current therapy optimal
+      - Already de-escalated
+      - Unable to assess
+      required: true
+    - id: 27
+      name: de_escalation_recommendation
+      label: De-escalation Recommendation
+      hint: Suggest narrower agent
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: drug_interactions
+      label: Drug Interactions
+      hint: Any concerns
+      type: select_one
+      options:
+      - No interactions
+      - Minor interactions
+      - Moderate interactions
+      - Severe interactions
+      - Unknown
+      required: true
+    - id: 29
+      name: adverse_effects
+      label: Adverse Effects Observed
+      hint: Any side effects
+      type: select_one
+      options:
+      - None
+      - Mild
+      - Moderate
+      - Severe
+      - Unknown
+      required: true
+    - id: 30
+      name: adverse_effects_description
+      label: Adverse Effects Description
+      hint: Describe if present
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: stewardship_interventions
+      label: -- Stewardship Interventions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: intervention_recommended
+      label: Intervention Recommended
+      hint: Is stewardship intervention needed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 33
+      name: intervention_type
+      label: Type of Intervention
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Discontinue antibiotics
+      - De-escalate therapy
+      - Change dose
+      - IV to oral conversion
+      - Shorten duration
+      - Switch agent
+      - Obtain cultures
+      - No intervention
+      required: true
+    - id: 34
+      name: intervention_details
+      label: Intervention Details
+      hint: Describe recommendation
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: provider_response
+      label: Provider Response
+      hint: If intervention made
+      type: select_one
+      options:
+      - Accepted
+      - Partially accepted
+      - Rejected
+      - Pending
+      - Not applicable
+      required: false
+    - id: 36
+      name: follow_up_needed
+      label: Follow-up Needed
+      hint: Is additional review required
+      type: select_one
+      options:
+      - Yes, within 24 hours
+      - Yes, within 48 hours
+      - Yes, within 72 hours
+      - No further follow-up
+      required: true
+    - id: 37
+      name: clinical_outcome
+      label: Clinical Outcome
+      hint: Patient response to therapy
+      type: select_one
+      options:
+      - Improved
+      - Stable
+      - Worsened
+      - Unknown
+      required: true
+    - id: 38
+      name: reviewer_name
+      label: Reviewer Name
+      hint: Name of assessor
+      type: text
+      options: []
+      required: true
+    - id: 39
+      name: reviewer_credentials
+      label: Reviewer Credentials
+      hint: Professional title
+      type: text
+      options: []
+      required: true
+    - id: 40
+      name: assessment_complete_date
+      label: Assessment Completion Date
+      hint: Date completed
+      type: date
+      options: []
+      required: true

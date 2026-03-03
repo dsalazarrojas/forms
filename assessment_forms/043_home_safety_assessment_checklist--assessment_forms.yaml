@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Safety Assessment Checklist
+    pages:
+    - id: 1
+      name: home_safety_checklist
+      label: First Floor
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: emergency_contacts
+      label: Emergency Contacts
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      - Jim Smith
+      required: true
+    - id: 3
+      name: home_address
+      label: Home Address
+      hint: Enter your home address
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: emergency_contact_relationship
+      label: Relationship to Emergency Contact
+      hint: null
+      type: select_one
+      options:
+      - Spouse
+      - Child
+      - Parent
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact_person
+      label: Who will contact in case of emergency
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Jim
+      required: true
+    - id: 9
+      name: medical_conditions
+      label: Medical Conditions
+      hint: List your medical conditions
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: medications
+      label: Medications
+      hint: List your medications
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: allergies
+      label: Allergies
+      hint: List your allergies
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_medical_info
+      label: Emergency Medical Info
+      hint: List any emergency medical information
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: emergency_medical_contact
+      label: Medical Contact Person
+      hint: null
+      type: select_one
+      options:
+      - Doctor
+      - Nurse
+      - Family Member
+      required: true
+    - id: 14
+      name: home_security_system
+      label: Home Security System
+      hint: null
+      type: select_one
+      options:
+      - Monitored
+      - Unmonitored
+      required: true
+    - id: 15
+      name: carbon_monoxide_detector
+      label: Carbon Monoxide Detector
+      hint: null
+      type: select_one
+      options:
+      - Installed
+      - Not Installed
+      required: true
+    - id: 16
+      name: fire_alarm
+      label: Fire Alarm
+      hint: null
+      type: select_one
+      options:
+      - Installed
+      - Not Installed
+      required: true
+    - id: 17
+      name: smoke_detector
+      label: Smoke Detector
+      hint: null
+      type: select_one
+      options:
+      - Installed
+      - Not Installed
+      required: true
+    - id: 18
+      name: carbon_monoxide_alarm
+      label: Carbon Monoxide Alarm
+      hint: null
+      type: select_one
+      options:
+      - Installed
+      - Not Installed
+      required: true
+    - id: 19
+      name: fire_extinguisher
+      label: Fire Extinguisher
+      hint: null
+      type: select_one
+      options:
+      - Installed
+      - Not Installed
+      required: true
+    - id: 20
+      name: electrical_equipment
+      label: Electrical Equipment
+      hint: null
+      type: select_one
+      options:
+      - GFCI
+      - No GFCI
+      required: true
+    - id: 21
+      name: first_floor
+      label: First Floor
+      hint: null
+      type: select_one
+      options:
+      - Ground Floor
+      - Upper Floors
+      required: true
+    - id: 22
+      name: smoke_detector_location
+      label: Smoke Detector Location
+      hint: Enter the location of smoke detectors
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: carbon_monoxide_detector_location
+      label: Carbon Monoxide Detector Location
+      hint: Enter the location of Carbon Monoxide detectors
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: fire_alarm_location
+      label: Fire Alarm Location
+      hint: Enter the location of fire alarms
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: emergency_contact_list
+      label: Emergency Contact List
+      hint: List emergency contacts
+      type: text
+      options: []
+      required: true

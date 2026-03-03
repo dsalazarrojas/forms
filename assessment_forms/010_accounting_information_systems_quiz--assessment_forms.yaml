@@ -1,0 +1,124 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Information Systems Quiz
+    pages:
+    - id: 1
+      name: student_information
+      label: -- Student information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student name
+      hint: Full name for grading
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID
+      hint: University or course ID
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: course_section
+      label: Course section
+      hint: Course code or semester
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: q1_understanding_ais
+      label: Understanding of AIS purpose
+      hint: Select the best answer
+      type: select_one
+      options:
+        - Data processing and reporting
+        - Human resources only
+        - Marketing analytics only
+      required: true
+    - id: 6
+      name: q2_components_of_ais
+      label: Components of an AIS
+      hint: Choose all that apply
+      type: select_multiple
+      options:
+        - People
+        - Procedures
+        - Data
+        - Software
+        - Hardware
+      required: true
+    - id: 7
+      name: q3_control_objectives
+      label: Control objectives example
+      hint: Select the best answer
+      type: select_one
+      options:
+        - Ensure data integrity
+        - Increase sales
+        - Reduce marketing spend
+      required: true
+    - id: 8
+      name: q4_evidence_of_transactions
+      label: Evidence of transactions
+      hint: Which document provides primary transaction evidence
+      type: select_one
+      options:
+        - Invoice
+        - Memo
+        - Marketing plan
+      required: true
+    - id: 9
+      name: q5_audit_trail_importance
+      label: Importance of audit trail
+      hint: Short explanation
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: q6_security_measures
+      label: Common security measures
+      hint: List up to three measures
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: q7_system_integration
+      label: System integration benefits
+      hint: Select one
+      type: select_one
+      options:
+        - Streamlined reporting
+        - More manual entry
+        - Increased errors
+      required: true
+    - id: 12
+      name: instructor_notes
+      label: Instructor notes
+      hint: For instructor grading comments
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submission_date
+      label: Submission date
+      hint: Date of quiz submission
+      type: date
+      options: []
+      required: true

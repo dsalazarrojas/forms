@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: CT Imaging Knowledge Assessment
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant name
+      hint: Full name for records
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department
+      label: Department
+      hint: e g Radiology or Emergency
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: assessment_date
+      label: Assessment date
+      hint: Date of the test
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: q1
+      label: Question 1 - Indicate correct windowing technique
+      hint: Select best answer
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: true
+    - id: 5
+      name: q2
+      label: Question 2 - Identify common artifacts
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Motion
+      - Beam hardening
+      - Metal
+      required: true
+    - id: 6
+      name: q3
+      label: Question 3 - Typical CT slice thickness for chest
+      hint: Numeric answer in millimeters
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: score_estimate
+      label: Estimated score
+      hint: For instructor use
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: evaluator_notes
+      label: Evaluator notes
+      hint: Feedback and remediation suggestions
+      type: text
+      options: []
+      required: false

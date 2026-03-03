@@ -1,0 +1,233 @@
+inputSchema:
+  type: object
+  properties:
+    title: Classroom Supplies Requisition Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: Full name of the person requesting supplies
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_id
+      label: Requester ID Number
+      hint: Employee or staff ID number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: School email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Your department or subject area
+      type: select_one
+      options:
+      - General Education
+      - Mathematics
+      - Science
+      - English Language Arts
+      - Social Studies
+      - Art
+      - Music
+      - Physical Education
+      - Special Education
+      - Administration
+      - Other
+      required: true
+    - id: 6
+      name: grade_level
+      label: Grade Level
+      hint: Which grade levels do you teach
+      type: select_multiple
+      options:
+      - Kindergarten
+      - Grade 1-2
+      - Grade 3-5
+      - Grade 6-8
+      - Grade 9-12
+      required: true
+    - id: 7
+      name: classroom_number
+      label: Classroom Number
+      hint: Room number or location
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: request_date
+      label: Request Date
+      hint: Date of this requisition request
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: needed_by_date
+      label: Needed By Date
+      hint: When do you need these supplies
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: supply_category
+      label: Supply Category
+      hint: Primary category of supplies requested
+      type: select_one
+      options:
+      - Paper Products
+      - Writing Instruments
+      - Art Supplies
+      - Classroom Decorations
+      - Technology Accessories
+      - Cleaning Supplies
+      - Organizational Materials
+      - Instructional Materials
+      - Other
+      required: true
+    - id: 11
+      name: item_1_name
+      label: Item 1 Name
+      hint: Name or description of first item
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: item_1_quantity
+      label: Item 1 Quantity
+      hint: Quantity needed
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: item_1_unit_cost
+      label: Item 1 Estimated Unit Cost
+      hint: Approximate cost per item if known
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: item_2_name
+      label: Item 2 Name
+      hint: Name or description of second item
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: item_2_quantity
+      label: Item 2 Quantity
+      hint: Quantity needed
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: item_2_unit_cost
+      label: Item 2 Estimated Unit Cost
+      hint: Approximate cost per item if known
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: item_3_name
+      label: Item 3 Name
+      hint: Name or description of third item
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: item_3_quantity
+      label: Item 3 Quantity
+      hint: Quantity needed
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: item_3_unit_cost
+      label: Item 3 Estimated Unit Cost
+      hint: Approximate cost per item if known
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_items
+      label: Additional Items
+      hint: List any other items needed with quantities
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: total_estimated_cost
+      label: Total Estimated Cost
+      hint: Your estimate of total cost if known
+      type: select_one
+      options:
+      - Under $25
+      - $25 - $50
+      - $51 - $100
+      - $101 - $250
+      - $251 - $500
+      - Over $500
+      - Unknown
+      required: false
+    - id: 22
+      name: justification
+      label: Justification for Request
+      hint: Explain why these supplies are needed
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgently are these supplies needed
+      type: select_one
+      options:
+      - Critical - Needed immediately
+      - High - Needed within one week
+      - Medium - Needed within two weeks
+      - Low - Needed within one month
+      required: true
+    - id: 24
+      name: budget_code
+      label: Budget Code or Account Number
+      hint: If known, provide the budget code to charge
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: previous_request_reference
+      label: Previous Request Reference
+      hint: Was this item requested before? If yes, provide reference
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: special_instructions
+      label: Special Instructions or Notes
+      hint: Any additional information for the purchasing department
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: supervisor_approval_needed
+      label: Supervisor Approval Needed
+      hint: Does this request require supervisor approval
+      type: select_one
+      options:
+      - Yes - Approval required
+      - No - Within my budget authority
+      - Unsure
+      required: true

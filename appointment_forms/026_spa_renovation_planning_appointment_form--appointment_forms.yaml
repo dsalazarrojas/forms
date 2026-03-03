@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spa Renovation Planning Appointment Form
+    pages:
+    - id: 1
+      name: spa_renovation_planning_appointment_form_page_1
+      label: spa-renovation-planning-appointment-form-page-1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_info
+      label: client-info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_details
+      label: project-details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_budget
+      label: project-budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: appointment_requests
+      label: appointment-requests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: spa_manager
+      label: spa-manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: contact-info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: meeting_request
+      label: meeting-request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: follow_up
+      label: follow-up
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: spa_details
+      label: spa-details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: spa_manager_email
+      label: spa-manager-email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: spa_manager_phone
+      label: spa-manager-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: spa_manager_phone_ext
+      label: spa-manager-phone-extensions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: appointment_status
+      label: appointment-status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 17
+      name: follow_up_status
+      label: follow-up-status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 18
+      name: meeting_status
+      label: meeting-status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 19
+      name: next_step
+      label: next-step
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: appointment_date
+      label: appointment-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: appointment_time
+      label: appointment-time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 22
+      name: spa_location
+      label: spa-location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: spa_manager_name
+      label: spa-manager-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: spa_manager_email
+      label: spa-manager-email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: spa_manager_phone
+      label: spa-manager-phone
+      hint: null
+      type: text
+      options: []
+      required: false

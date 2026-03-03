@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Insurance Claim Form
+    pages:
+    - id: 1
+      name: pet_insurance_form
+      label: Pet Insurance Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_name
+      label: Pet Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: pet_type
+      label: Pet Type
+      hint: null
+      type: select_one
+      options:
+      - Cat
+      - Dog
+      - Other
+      required: true
+    - id: 4
+      name: vet_bills_submitted
+      label: Vet Bills Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_condition_description
+      label: Medical Condition Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_expenses_submitted
+      label: Medical Expenses Submitted
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: veterinary_clinic
+      label: Veterinary Clinic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: veterinary_clinic_address
+      label: Veterinary Clinic Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_expense_date
+      label: Medical Expense Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: medical_expense_amount
+      label: Medical Expense Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: claim_amount
+      label: Claim Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: claim_reason
+      label: Claim Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_multiple
+      options:
+      - Open
+      - Closed
+      - Pending
+      required: false
+    - id: 15
+      name: claim_date
+      label: Claim Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: claim_reimbursed
+      label: Claim Reimbursed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: claim_reimbursed_reason
+      label: Claim Reimbursed Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: claim_reimbursed_amount
+      label: Claim Reimbursed Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: claim_reimbursed_date
+      label: Claim Reimbursed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: claim_reimbursed_status
+      label: Claim Reimbursed Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 21
+      name: claim_reimbursed_notes
+      label: Claim Reimbursed Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: claim_reimbursed_vet_clinic
+      label: Claim Reimbursed Veterinary Clinic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: claim_reimbursed_vet_clinic_address
+      label: Claim Reimbursed Veterinary Clinic Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: claim_reimbursed_vet_clinic_phone
+      label: Claim Reimbursed Veterinary Clinic Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: claim_reimbursed_vet_clinic_note
+      label: Claim Reimbursed Veterinary Clinic Note
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Shelter Case Review Recording Consent Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Full Name
+      hint: Person being interviewed
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_address
+      label: Address
+      hint: Street address
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: case_number
+      label: Case Number or Reference
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: interview_date
+      label: Scheduled Interview Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: interview_type
+      label: Type of Case Review
+      hint: null
+      type: select_one
+      options:
+      - Adoption Follow-up
+      - Surrender Interview
+      - Behavioral Assessment
+      - Incident Investigation
+      - Welfare Check
+      - Custody Review
+      - Other
+      required: true
+    - id: 8
+      name: interviewer_name
+      label: Interviewer Name
+      hint: Staff member conducting interview
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: recording_purpose
+      label: Purpose of Recording
+      hint: Why the interview is being recorded
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: purpose_details
+      label: Recording Purpose Details
+      hint: For case documentation and review purposes
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: consent_to_record
+      label: Do You Consent to This Interview Being Recorded
+      hint: Audio recording only
+      type: select_one
+      options:
+      - Yes I Consent
+      - No I Do Not Consent
+      required: true
+    - id: 12
+      name: recording_usage
+      label: How the Recording Will Be Used
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Internal Case Documentation
+      - Staff Training
+      - Quality Assurance Review
+      - Legal Proceedings
+      - Not for Public Use
+      required: true
+    - id: 13
+      name: data_retention
+      label: Data Retention Period
+      hint: How long recordings are kept
+      type: select_one
+      options:
+      - Until Case Closure
+      - 1 Year
+      - 3 Years
+      - 5 Years
+      - Indefinitely for Legal Protection
+      required: true
+    - id: 14
+      name: access_restrictions
+      label: Who Will Have Access to the Recording
+      hint: null
+      type: select_multiple
+      options:
+      - Case Manager
+      - Shelter Director
+      - Legal Team
+      - Authorized Staff Only
+      - External Auditors
+      required: true
+    - id: 15
+      name: right_to_review
+      label: Do You Want to Review the Recording
+      hint: null
+      type: select_one
+      options:
+      - Yes Please
+      - No Thank You
+      - Undecided
+      required: false
+    - id: 16
+      name: right_to_revoke
+      label: Understanding of Revocation Rights
+      hint: You may revoke consent at any time
+      type: select_one
+      options:
+      - I Understand I Can Revoke Consent
+      - I Need More Information
+      required: true
+    - id: 17
+      name: confidentiality_agreement
+      label: Confidentiality Agreement
+      hint: Information will be kept confidential
+      type: select_one
+      options:
+      - I Understand Confidentiality Terms
+      - I Have Questions
+      required: true
+    - id: 18
+      name: voluntary_participation
+      label: Voluntary Participation Statement
+      hint: Participation is voluntary
+      type: select_one
+      options:
+      - I Understand Participation Is Voluntary
+      - I Do Not Understand
+      required: true
+    - id: 19
+      name: alternative_options
+      label: Alternative Options If You Decline Recording
+      hint: null
+      type: select_one
+      options:
+      - Written Statement Only
+      - In-Person Interview Without Recording
+      - Phone Interview Without Recording
+      - Decline to Participate
+      required: false
+    - id: 20
+      name: questions_or_concerns
+      label: Do You Have Any Questions or Concerns
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: concerns_details
+      label: Please Describe Your Questions or Concerns
+      hint: If yes explain
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: witness_name
+      label: Witness Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: participant_signature
+      label: Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: final_confirmation
+      label: I Have Read and Understand This Consent Form
+      hint: null
+      type: select_one
+      options:
+      - Yes I Confirm
+      - No I Do Not Confirm
+      required: true

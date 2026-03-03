@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product List Order Template
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: example@example.com
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: product_list
+      label: Product List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: product_list_item_1_price
+      label: Price 1
+      hint: Enter the price of product 1
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: product_list_item_2_price
+      label: Price 2
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: product_list_item_3_price
+      label: Price 3
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: quantity_1
+      label: Quantity 1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: quantity_2
+      label: Quantity 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: quantity_3
+      label: Quantity 3
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: total
+      label: Total
+      hint: Auto-calculated field
+      type: date
+      options: []
+      required: false

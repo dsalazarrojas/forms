@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: credit_application_for_business_account_form
+    pages:
+    - id: 1
+      name: account_information
+      label: Enter Account Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: owner
+      label: Owner
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: business_entity
+      label: Business Entity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: business_entity_type
+      label: Business Entity Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: business_entity_type_id
+      label: Business Entity Type ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: tax_id_number
+      label: Tax ID Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: tax_id_type
+      label: Tax ID Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: account_type
+      label: Account Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: credit_limit
+      label: Credit Limit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: credit_term
+      label: Credit Term
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: payment_term
+      label: Payment Term
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: payment_term_id
+      label: Payment Term ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: annual_fee
+      label: Annual Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: monthly_fee
+      label: Monthly Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: minimum_renewal_fees
+      label: Minimum Renewal Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: credit_score
+      label: Credit Score
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: account_status
+      label: Account Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 23
+      name: status_date
+      label: Status Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

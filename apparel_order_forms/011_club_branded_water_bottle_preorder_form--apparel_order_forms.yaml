@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Club Branded Water Bottle Preorder Form
+    pages:
+    - id: 1
+      name: member_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: member_email
+      label: Email Address
+      hint: Confirmation will be sent here
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: member_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: membership_status
+      label: Membership Status
+      hint: null
+      type: select_one
+      options:
+      - Active Member
+      - Inactive Member
+      - New Member
+      - Alumni
+      required: true
+    - id: 5
+      name: bottle_color
+      label: Water Bottle Color
+      hint: Choose your preferred color
+      type: select_one
+      options:
+      - Silver
+      - Black
+      - White
+      - Navy
+      - Red
+      - Teal
+      - Mint
+      required: true
+    - id: 6
+      name: bottle_size
+      label: Bottle Size
+      hint: Select capacity
+      type: select_one
+      options:
+      - 16 oz
+      - 18 oz
+      - 20 oz
+      - 24 oz
+      - 32 oz
+      required: true
+    - id: 7
+      name: quantity
+      label: Number of Bottles
+      hint: How many bottles to order
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: unit_price
+      label: Price Per Bottle
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: total_order_cost
+      label: Total Order Cost
+      hint: Quantity times unit price
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: personalization
+      label: Want Personalization
+      hint: Add your name to bottle
+      type: select_one
+      options:
+      - No Personalization
+      - Name Only
+      - Name and Year
+      - Custom Initials
+      required: false
+    - id: 11
+      name: personal_text
+      label: Personalization Text
+      hint: Name or initials to add
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: pickup_method
+      label: Pickup or Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Club Meeting Pickup
+      - Campus Location
+      - Mail Delivery
+      - Home Delivery
+      required: true
+    - id: 13
+      name: pickup_location
+      label: Preferred Pickup Location
+      hint: Where you will pick up
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: delivery_address
+      label: Delivery Address
+      hint: If choosing mail or home delivery
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special requests
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Cash
+      - Check
+      - Venmo
+      - PayPal
+      required: true

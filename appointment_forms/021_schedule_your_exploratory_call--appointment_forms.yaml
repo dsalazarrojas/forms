@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Schedule Your Exploratory Call
+    pages:
+    - id: 1
+      name: exploratory_call_schedule_date
+      label: Exploratory Call Schedule Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: time_zone
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''UTC''}'
+      - '{''value'': ''EST''}'
+      - '{''value'': ''CST''}'
+      - '{''value'': ''MST''}'
+      - '{''value'': ''PST''}'
+      required: false
+    - id: 3
+      name: exploratory_call_schedule_time
+      label: Exploratory Call Schedule Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: exploratory_call_schedule_duration
+      label: Exploratory Call Schedule Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: lead_first_name
+      label: Lead First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: lead_last_name
+      label: Lead Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: lead_email
+      label: Lead Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: lead_phone
+      label: Lead Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: exploratory_call_notes
+      label: Exploratory Call Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: lead_company
+      label: Lead Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: lead_title
+      label: Lead Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: exploratory_call_scheduling_link
+      label: Exploratory Call Scheduling Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''User 1''}'
+      - '{''value'': ''User 2''}'
+      - '{''value'': ''User 3''}'
+      required: false
+    - id: 14
+      name: exploratory_call_scheduling_status
+      label: Exploratory Call Scheduling Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''New''}'
+      - '{''value'': ''In Progress''}'
+      - '{''value'': ''Done''}'
+      required: false
+    - id: 15
+      name: exploratory_call_scheduling_notes
+      label: Exploratory Call Scheduling Notes
+      hint: null
+      type: note
+      options: []
+      required: false

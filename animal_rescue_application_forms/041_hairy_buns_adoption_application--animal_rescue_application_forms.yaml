@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hairy Buns Adoption Application
+    pages:
+    - id: 1
+      name: user_input
+      label: Application Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: animal_type
+      label: Animal Type
+      hint: null
+      type: select_one
+      options:
+      - bunnies
+      - hamsters
+      - kittens
+      required: false
+    - id: 7
+      name: adoption_date
+      label: Adoption Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: user_confirmation
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - I confirm that I will care for the animal.
+      - I do not confirm that I will care for the animal.
+      required: false
+    - id: 10
+      name: review_agreement
+      label: Review Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - Yes, I have read and agree to the terms.
+      - No, I do not agree to the terms.
+      - I have not yet read the agreement.
+      required: false
+    - id: 11
+      name: other_animals
+      label: Other Animals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

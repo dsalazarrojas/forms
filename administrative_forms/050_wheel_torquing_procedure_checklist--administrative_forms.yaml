@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wheel Torquing Procedure Checklist
+    pages:
+    - id: 1
+      name: wheel_torquing_procedure_checklist
+      label: wheel_torquing_procedure_checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: safety_inspection
+      label: safety_inspection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: proper_torque_value
+      label: proper_torque_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: verify_torque_specification
+      label: verify_torque_specification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: safety_procedure
+      label: safety_procedure
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

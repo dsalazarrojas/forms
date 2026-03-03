@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Handbook Distribution Authorization Form
+    pages:
+    - id: 1
+      name: employee_handbook_distribution_form
+      label: Employee Handbook Distribution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: acknowledgement_date
+      label: Acknowledgement Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: employee_handbook_distributed
+      label: Employee Handbook Distributed
+      hint: null
+      type: select_multiple
+      options:
+      - Employee Handbook
+      - Employee Handbook 2022
+      - Employee Handbook 2021
+      required: false
+    - id: 4
+      name: reason_for_not_distributing
+      label: Reason for Not Distributing
+      hint: null
+      type: select_one
+      options:
+      - Not Applicable
+      - No Interest
+      - Not Required
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: acknowledgement_by
+      label: Acknowledged by
+      hint: null
+      type: text
+      options: []
+      required: false

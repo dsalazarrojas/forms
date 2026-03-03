@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Vision Assessment
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_title
+      label: Your Title or Position
+      hint: Role in the organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_name
+      label: Organization Name
+      hint: Company or team name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department or Division
+      hint: Your department
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: tenure_years
+      label: Years with Organization
+      hint: How long have you been here
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: vision_clarity
+      label: Clarity of Organization Vision
+      hint: How clear is the company vision
+      type: select_one
+      options:
+      - Very Clear
+      - Clear
+      - Somewhat Clear
+      - Unclear
+      - Very Unclear
+      required: true
+    - id: 7
+      name: vision_alignment
+      label: Personal Alignment with Vision
+      hint: Do you agree with the vision
+      type: select_one
+      options:
+      - Strongly Aligned
+      - Aligned
+      - Neutral
+      - Misaligned
+      - Strongly Misaligned
+      required: true
+    - id: 8
+      name: values_understanding
+      label: Understanding of Company Values
+      hint: How well do you know the values
+      type: select_one
+      options:
+      - Excellent Understanding
+      - Good Understanding
+      - Fair Understanding
+      - Poor Understanding
+      - No Understanding
+      required: true
+    - id: 9
+      name: values_practice
+      label: Values Practiced in Organization
+      hint: Are values actually practiced
+      type: select_one
+      options:
+      - Always
+      - Usually
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 10
+      name: strategic_priorities
+      label: Awareness of Strategic Priorities
+      hint: Do you know current priorities
+      type: select_one
+      options:
+      - Very Aware
+      - Aware
+      - Somewhat Aware
+      - Unaware
+      - Very Unaware
+      required: true
+    - id: 11
+      name: strategy_contribution
+      label: Can You Contribute to Strategy
+      hint: Ability to help achieve goals
+      type: select_one
+      options:
+      - Significant Contribution
+      - Good Contribution
+      - Some Contribution
+      - Limited Contribution
+      - No Contribution
+      required: true
+    - id: 12
+      name: leadership_confidence
+      label: Confidence in Leadership Direction
+      hint: Trust in leadership decisions
+      type: select_one
+      options:
+      - Very Confident
+      - Confident
+      - Neutral
+      - Not Confident
+      - Very Not Confident
+      required: true
+    - id: 13
+      name: communication_effectiveness
+      label: Effectiveness of Vision Communication
+      hint: How well is vision communicated
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 14
+      name: vision_improvements
+      label: How Should We Refine Our Vision
+      hint: Suggestions for improvement
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: commitment_level
+      label: Your Commitment to Vision Success
+      hint: Overall commitment level
+      type: select_one
+      options:
+      - Highly Committed
+      - Committed
+      - Neutral
+      - Uncommitted
+      - Opposed
+      required: true

@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Assessment Pre Visit Questionnaire
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_address
+      label: property_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Agricultural
+      required: false
+    - id: 5
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_one
+      options:
+      - Occupied
+      - Vacant
+      - Lease
+      required: false
+    - id: 6
+      name: purpose_of_visit
+      label: Purpose Of Visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: client_type
+      label: Client Type
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Company
+      - Agency
+      required: false

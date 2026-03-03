@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payroll Correction Request Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: error_date
+      label: Error Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: pay_cycle_id
+      label: Pay Cycle ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: pay_cycle
+      label: Pay Cycle
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: error_type
+      label: Error Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: attachment
+      label: Attachment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submitter
+      label: Submitter
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter_department
+      label: Submitter Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitter_job_title
+      label: Submitter Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: pay_adjustment_amount
+      label: Pay Adjustment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: pay_currency
+      label: Pay Currency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

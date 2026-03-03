@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Leave Absence Form
+    pages:
+    - id: 1
+      name: holiday_leave_absence_form_page
+      label: holiday leave absence form page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_details
+      label: Employee Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: leave_type
+      label: Leave Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Vacation''}'
+      - '{''label'': ''Holiday''}'
+      - '{''label'': ''Personal''}'
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: reason_for_leave
+      label: Reason for Leave
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Approve''}'
+      - '{''label'': ''Deny''}'
+      - '{''label'': ''Delegate''}'
+      required: false

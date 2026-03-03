@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Safety Inspection Records Release Form
+    pages:
+    - id: 1
+      name: business_name
+      label: business_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: inspector_name
+      label: inspector_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inspection_date
+      label: inspection_date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: facility_address
+      label: facility_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: facility_name
+      label: facility_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: inspection_result
+      label: inspection_result
+      hint: null
+      type: select_one
+      options:
+      - Passed
+      - Failed
+      - Rescheduled
+      required: true
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: facility_type
+      label: facility_type
+      hint: null
+      type: select_one
+      options:
+      - Restaurant
+      - Food Processing Plant
+      - Food Processing Plant - Retail
+      - Food Manufacturing
+      - Other (please specify)
+      required: true
+    - id: 9
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_email
+      label: contact_email
+      hint: john.doe@example.com
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_notes
+      label: contact_notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 13
+      name: additional_notes
+      label: additional_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: release_date
+      label: release_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: signed_by
+      label: signed_by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: title
+      label: title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: inspector_comments
+      label: inspector_comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 18
+      name: facility_status
+      label: facility_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Suspended
+      - Permanently Closed
+      required: true
+    - id: 19
+      name: facility_status_date
+      label: facility_status_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: facility_type_status
+      label: facility_type_status
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: false
+    - id: 21
+      name: facility_address_status
+      label: facility_address_status
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: false
+    - id: 22
+      name: facility_equipment_status
+      label: facility_equipment_status
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: false
+    - id: 23
+      name: facility_equipment_status_date
+      label: facility_equipment_status_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: facility_license_status
+      label: facility_license_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Suspended
+      - Expired
+      required: false
+    - id: 25
+      name: facility_license_status_date
+      label: facility_license_status_date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chapter Of The Year Award Nomination
+    pages:
+    - id: 1
+      name: section_nominator_info
+      label: -- Nominator Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: nominator_name
+      label: Your Full Name
+      hint: Please provide your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: nominator_email
+      label: Your Email Address
+      hint: We will use this to confirm your nomination
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: nominator_phone
+      label: Your Phone Number
+      hint: Optional contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: nominator_chapter
+      label: Your Chapter Name
+      hint: Which chapter are you from
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_nominee_info
+      label: -- Nominee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: nominee_name
+      label: Chapter Name Being Nominated
+      hint: Full legal name of the chapter
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: nominee_location
+      label: Chapter Location
+      hint: City and state or region
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: nominee_contact_person
+      label: Chapter Contact Person
+      hint: Primary contact for the chapter
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: nominee_contact_email
+      label: Chapter Contact Email
+      hint: Email for the chapter representative
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: section_nomination_details
+      label: -- Nomination Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: nomination_summary
+      label: Summary of Nomination
+      hint: Brief overview of why this chapter deserves the award
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: achievement_category
+      label: Primary Achievement Category
+      hint: What area did the chapter excel in
+      type: select_one
+      options:
+      - Community Impact
+      - Membership Growth
+      - Event Excellence
+      - Financial Performance
+      - Member Engagement
+      - Innovation
+      - Leadership Development
+      required: true
+    - id: 14
+      name: membership_growth
+      label: Membership Growth Percentage
+      hint: Year-over-year growth in percentages
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: key_accomplishments
+      label: Key Accomplishments and Highlights
+      hint: Describe the chapter's major achievements this year
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: community_impact_description
+      label: Community Impact Description
+      hint: How has this chapter made a difference in their community
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: supporting_documents
+      label: Do you have supporting documents
+      hint: Such as photos, reports, or testimonials
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: nomination_date
+      label: Nomination Date
+      hint: When did you submit this nomination
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: additional_comments
+      label: Additional Comments or Information
+      hint: Any other details you would like to share
+      type: text
+      options: []
+      required: false

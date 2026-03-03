@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: sports_covid_19_and_release_of_liability_waiver
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: medical_organization
+      label: medical_organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: doctor_s_name
+      label: doctor_s_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: doctor_s_contact_number
+      label: doctor_s_contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vaccine_dosage
+      label: vaccine_dosage
+      hint: Please select the dose of the COVID-19 vaccine that you have taken
+      type: select_one
+      options:
+      - 10 mcg
+      - 15 mcg
+      - 20 mcg
+      - 30 mcg
+      required: false
+    - id: 10
+      name: vaccine_administered_date
+      label: vaccine_administered_date
+      hint: Please enter the date when the vaccine was administered
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: consent
+      label: consent
+      hint: Please check the options you agree with
+      type: select_multiple
+      options:
+      - I agree to accept the risks associated with the COVID-19 vaccine
+      - I do not agree to accept the risks associated with the COVID-19 vaccine
+      required: false
+    - id: 12
+      name: release_of_liability
+      label: release_of_liability
+      hint: Please check the box to release the liability
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: signature
+      label: signature
+      hint: Please check the options you agree with
+      type: select_multiple
+      options:
+      - I have read and understood the risks associated with the COVID-19 vaccine
+      - I have not read and understood the risks associated with the COVID-19 vaccine
+      required: false

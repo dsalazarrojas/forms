@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Casual Leave Form
+    pages:
+    - id: 1
+      name: employee_details_header
+      label: -- Employee Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Administration
+      - Operations
+      - Finance
+      - Marketing
+      - IT
+      - Sales
+      required: true
+    - id: 5
+      name: section_leave_period
+      label: -- Leave Period --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: leave_start_date
+      label: Leave Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: leave_end_date
+      label: Leave End Date (Inclusive)
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: total_days_requested
+      label: Total Number of Days Requested
+      hint: Include half days if applicable
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: section_reason
+      label: -- Reason and Handover --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: leave_reason
+      label: Primary Reason for Leave
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_during_leave
+      label: Contact Phone Number during Leave
+      hint: For emergencies only
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: handover_notes
+      label: Work Handover Notes
+      hint: List tasks or responsibilities covered during your absence
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: back_up_colleague
+      label: Designated Back-up Colleague
+      hint: Who will handle your urgent tasks
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: manager_approval_name
+      label: Line Manager Name
+      hint: For tracking purposes
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: submission_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,249 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Rental Referral Form
+    pages:
+    - id: 1
+      name: referrer_information
+      label: Referrer Information
+      hint: Your contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: referrer_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: referrer_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: referrer_email
+      label: Email Address
+      hint: For referral communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: referrer_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: referrer_company
+      label: Company Name
+      hint: Your company
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: referrer_type
+      label: Referrer Type
+      hint: What type of referrer are you?
+      type: select_one
+      options:
+      - Travel agent
+      - Hotel concierge
+      - Corporate partner
+      - Insurance agent
+      - Auto repair shop
+      - Previous customer
+      - Other
+      required: true
+    - id: 8
+      name: referral_information
+      label: Referral Information
+      hint: Details about the referred customer
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: referred_customer_name
+      label: Referred Customer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: referred_customer_email
+      label: Referred Customer Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: referred_customer_phone
+      label: Referred Customer Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: referral_date
+      label: Referral Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: rental_details
+      label: Rental Details
+      hint: Expected rental information
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: expected_pickup_date
+      label: Expected Pickup Date
+      hint: When do they need the car?
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: expected_return_date
+      label: Expected Return Date
+      hint: When will they return?
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: vehicle_category_needed
+      label: Vehicle Category Needed
+      hint: Type of vehicle
+      type: select_one
+      options:
+      - Economy
+      - Compact
+      - Mid-size
+      - Full-size
+      - SUV
+      - Minivan
+      - Luxury
+      - Sports car
+      - Truck
+      - Unknown
+      required: false
+    - id: 17
+      name: referral_source
+      label: How Did Customer Hear About Us
+      hint: Referral source
+      type: select_one
+      options:
+      - Travel agent recommendation
+      - Hotel recommendation
+      - Corporate partner
+      - Friend/Family
+      - Online search
+      - Advertisement
+      - Other
+      required: true
+    - id: 18
+      name: referral_notes
+      label: Referral Notes
+      hint: Any special notes about this referral
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: customer_preferences
+      label: Customer Preferences
+      hint: Known preferences
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: special_requirements
+      label: Special Requirements
+      hint: Any special needs?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: referral_tracking
+      label: Referral Tracking
+      hint: For internal use
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: referral_id
+      label: Referral ID
+      hint: Internal tracking number
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: commission_eligible
+      label: Commission Eligible
+      hint: Is this referral commission-eligible?
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending verification
+      required: true
+    - id: 24
+      name: commission_rate
+      label: Commission Rate
+      hint: Applicable rate
+      type: select_one
+      options:
+      - 5%
+      - 10%
+      - 15%
+      - Custom rate
+      - Not applicable
+      required: false
+    - id: 25
+      name: follow_up_required
+      label: Follow-Up Required
+      hint: Is follow-up needed?
+      type: select_one
+      options:
+      - Yes - contact customer
+      - Yes - contact referrer
+      - No - proceed normally
+      required: true
+    - id: 26
+      name: follow_up_notes
+      label: Follow-Up Notes
+      hint: Instructions for follow-up
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: referral_status
+      label: Referral Status
+      hint: Current status
+      type: select_one
+      options:
+      - New referral
+      - Contacted
+      - Quote sent
+      - Booking confirmed
+      - Completed
+      - Cancelled
+      required: true
+    - id: 28
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: submission_date
+      label: Submission Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

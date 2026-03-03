@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sponsorship Approval Form
+    pages:
+    - id: 1
+      name: event_organizer
+      label: Event Organizers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sponsor_name
+      label: Sponsor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sponsor_email
+      label: Sponsor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: sponsor_phone
+      label: Sponsor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sponsorship_date
+      label: Sponsorship Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: agreement_date
+      label: Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: sponsor_message
+      label: Sponsor Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: sponsor_type
+      label: Sponsor Type
+      hint: null
+      type: select_multiple
+      options:
+      - Small Sponsor
+      - Medium Sponsor
+      - Large Sponsor
+      required: false
+    - id: 12
+      name: sponsor_details
+      label: Sponsor Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: approval
+      label: Approval
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: false
+    - id: 14
+      name: reason_denied
+      label: Reason Denied
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

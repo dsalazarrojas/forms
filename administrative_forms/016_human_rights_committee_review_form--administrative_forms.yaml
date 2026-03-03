@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Human Rights Committee Review Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: case_number
+      label: Case Number
+      hint: A unique number for each case
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: Complainant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: case_type
+      label: Case Type
+      hint: null
+      type: select_one
+      options:
+      - Civil
+      - Criminal
+      - Immigration
+      - Other
+      required: false
+    - id: 6
+      name: issue
+      label: Case Issue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: case_status
+      label: Case Status
+      hint: null
+      type: select_multiple
+      options:
+      - Open
+      - Closed
+      required: false
+    - id: 9
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: next_follow_up_date
+      label: Next Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - No follow-up
+      - Completed
+      - Ongoing
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: review_notes
+      label: Review Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Completed
+      - Pending
+      required: false
+    - id: 17
+      name: follow_up_details
+      label: Follow-up Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: user_input_2
+      label: User Input 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: case_notes
+      label: Case Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: review_details
+      label: Review Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: next_follow_up_reminder
+      label: Next Follow-up Reminder
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_reminder_sent
+      label: Follow-up Reminder Sent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_reminder_email_sent
+      label: Follow-up Reminder Email Sent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_reminder_sms_sent
+      label: Follow-up Reminder SMS Sent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_reminder_call_sent
+      label: Follow-up Reminder Call Sent
+      hint: null
+      type: text
+      options: []
+      required: false

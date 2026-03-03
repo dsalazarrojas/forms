@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Work Authorization Renewal Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_description
+      label: Job Description
+      hint: Please provide a detailed job description
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: work_authorization_date
+      label: Work Authorization Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - Finance
+      - HR
+      - Marketing
+      - Operations
+      required: false
+    - id: 8
+      name: location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - Remote
+      - On-site
+      - Client Site
+      - Home Office
+      required: false
+    - id: 9
+      name: work_authorization_status
+      label: Work Authorization Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - chatjimmy2
+      required: false
+    - id: 12
+      name: assigned_by
+      label: Assigned By
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - chatjimmy2
+      required: false

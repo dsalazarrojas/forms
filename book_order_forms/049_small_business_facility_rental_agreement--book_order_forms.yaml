@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: small_business_facility_rental_agreement
+    pages:
+    - id: 1
+      name: business_location_id
+      label: Business Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_one
+      options:
+      - Bob
+      - John
+      - Mike
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: facility_type
+      label: Facility Type
+      hint: null
+      type: select_one
+      options:
+      - Conference
+      - Training
+      - Event
+      required: true
+    - id: 9
+      name: facility_size
+      label: Facility Size
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      required: true
+    - id: 10
+      name: start_time
+      label: Start Time
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: true
+    - id: 11
+      name: end_time
+      label: End Time
+      hint: null
+      type: select_one
+      options:
+      - 1 hour
+      - 2 hours
+      - 3 hours
+      required: true
+    - id: 12
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: agreement
+      label: Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 16
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: facility_description
+      label: Facility
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: rental_terms
+      label: Rental Terms
+      hint: null
+      type: select_multiple
+      options:
+      - Month-to-Month
+      - Short-Term
+      - Long-Term
+      required: true
+    - id: 19
+      name: rental_agreement
+      label: Rental Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - Month-to-Month
+      - Short-Term
+      - Long-Term
+      required: true
+    - id: 20
+      name: cancellation_policy
+      label: Cancellation Policy
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Check
+      required: true
+    - id: 22
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Not Paid
+      - Pending
+      required: true
+    - id: 24
+      name: facility_status
+      label: Facility Status
+      hint: null
+      type: select_multiple
+      options:
+      - Available
+      - Not Available
+      - Pending
+      required: true
+    - id: 25
+      name: report
+      label: Report
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Letter Of Protection Authorization Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: Enter patient name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_dob
+      label: Patient DOB
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: authorized_party
+      label: Authorized Party
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 4
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: claim_number
+      label: Claim Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_injury
+      label: Date of Injury
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: injury_description
+      label: Injury Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: authorization_type
+      label: Authorization Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 9
+      name: insurance_info
+      label: Insurance Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_provider
+      label: Medical Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 12
+      name: authorized_by
+      label: Authorized By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 15
+      name: clinic
+      label: Clinic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: doctor_title
+      label: Doctor Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: office_phone
+      label: Office Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: office_address
+      label: Office Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: fax
+      label: Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: license_number
+      label: License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: authorization_date
+      label: Authorization Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: authorization_expiration
+      label: Authorization Expiration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

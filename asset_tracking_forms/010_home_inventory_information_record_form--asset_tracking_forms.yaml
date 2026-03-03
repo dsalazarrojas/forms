@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Inventory Information Record Form
+    pages:
+    - id: 1
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: asset_id
+      label: asset_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: asset_type
+      label: asset_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Book''}'
+      - '{''value'': ''Furniture''}'
+      - '{''value'': ''Tool''}'
+      required: false
+    - id: 4
+      name: item_name
+      label: item_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: price
+      label: price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false

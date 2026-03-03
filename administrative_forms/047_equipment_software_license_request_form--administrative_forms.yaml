@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Equipment Software License Request Form
+    pages:
+    - id: 1
+      name: software_license_request
+      label: Software License Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: license_type
+      label: License Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: software_version
+      label: Software Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: software_license_start_date
+      label: Software License Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: software_license_end_date
+      label: Software License End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: software_license_expiration_date
+      label: Software License Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: software_license_status
+      label: Software License Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false

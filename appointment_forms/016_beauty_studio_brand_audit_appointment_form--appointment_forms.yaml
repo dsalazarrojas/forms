@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Studio Brand Audit Appointment Form
+    pages:
+    - id: 1
+      name: section_business_info
+      label: -- Business and Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Studio or Brand Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Primary Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_audit_goals
+      label: -- Brand Audit Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: current_brand_challenges
+      label: What are your primary brand challenges?
+      hint: e.g. lack of consistency, outdated visuals, low engagement
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: audit_focus_areas
+      label: Which areas do you want the audit to focus on?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Logo and Visual Identity
+      - Social Media Presence
+      - Website User Experience
+      - Messaging and Tone
+      - Retail/In-Studio Experience
+      - Competitor Analysis
+      required: true
+    - id: 9
+      name: target_audience
+      label: Who is your primary target audience?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_scheduling
+      label: -- Scheduling and Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: preferred_appointment_date
+      label: Preferred Date for Audit Session
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: preferred_time_slot
+      label: Preferred Time Slot
+      hint: null
+      type: select_one
+      options:
+      - Morning (9AM - 12PM)
+      - Afternoon (12PM - 3PM)
+      - Late Afternoon (3PM - 6PM)
+      required: true
+    - id: 13
+      name: audit_method
+      label: Audit Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - In-Person Session
+      - Virtual Meeting (Zoom/Teams)
+      - Written Report only
+      required: true
+    - id: 14
+      name: data_access_consent
+      label: I consent to share access to brand assets for the purpose of this audit
+      hint: null
+      type: select_one
+      options:
+      - I Consent
+      - Other
+      required: true
+    - id: 15
+      name: submission_date
+      label: Today's Date
+      hint: null
+      type: date
+      options: []
+      required: true

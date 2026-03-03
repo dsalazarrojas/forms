@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Credit Card Authorization Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: zip_code
+      label: Zip code
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: card_type
+      label: Card Type
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - American Express
+      - Discover
+      - Diners Club
+      - JCB
+      - Electron
+      - Elo
+      - Maestro
+      - Solo
+      - Switch
+      - Laser
+      - Solo
+      - UAH
+      - UCB
+      - UCB
+      - other
+      required: true
+    - id: 6
+      name: authorization_date
+      label: Authorization Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: cvv
+      label: Cvv
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: exp_date
+      label: Expire date
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: customer_id
+      label: Customer ID
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: cvv2
+      label: Cvv2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: zip_code2
+      label: Zip code2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: address2
+      label: Address2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: last_4_digits
+      label: Last 4 digits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: exp_date2
+      label: Expire date2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: cvv3
+      label: Cvv3
+      hint: null
+      type: number
+      options: []
+      required: false

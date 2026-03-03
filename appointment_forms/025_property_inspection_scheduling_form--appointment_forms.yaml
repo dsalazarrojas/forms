@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Inspection Scheduling Form
+    pages:
+    - id: 1
+      name: inspection_request
+      label: Inspection Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: tenant_name
+      label: Tenant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_address
+      label: Property Address
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: inspection_time
+      label: Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: inspection_type
+      label: Inspection Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: inspection_notes
+      label: Inspection Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: preferred_inspection_location
+      label: Preferred Location
+      hint: null
+      type: select_one
+      options:
+      - Front Door
+      - Back Door
+      - Side
+      - Other
+      required: false
+    - id: 10
+      name: additional_inspection_comments
+      label: Additional Inspection Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: property_manager_name
+      label: Property Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: property_manager_phone
+      label: Property Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: property_manager_email
+      label: Property Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: inspection_team
+      label: Inspection Team
+      hint: null
+      type: select_multiple
+      options:
+      - Team 1
+      - Team 2
+      - Team 3
+      required: false
+    - id: 15
+      name: inspection_status
+      label: Inspection Status
+      hint: null
+      type: select_one
+      options:
+      - Scheduled
+      - Completed
+      - Rescheduled
+      required: false
+    - id: 16
+      name: inspection_schedule
+      label: Inspection Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: inspection_start_time
+      label: Inspection Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: inspection_end_time
+      label: Inspection End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: scheduled_inspection_start_time
+      label: Scheduled Inspection Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: scheduled_inspection_end_time
+      label: Scheduled Inspection End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: inspection_duration
+      label: Inspection Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: total_inspection_time
+      label: Total Inspection Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: inspection_cost
+      label: Inspection Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: inspection_cost_currency
+      label: Inspection Cost Currency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: text
+      options: []
+      required: false

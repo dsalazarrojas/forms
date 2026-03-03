@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Idling Assessment Form
+    pages:
+    - id: 1
+      name: vehicle_idling_assessment_form_page_one
+      label: vehicle_idling_assessment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: idling_habits
+      label: vehicle_idling_habits
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: fleet_management
+      label: fleet_management
+      hint: null
+      type: text
+      options: []
+      required: false

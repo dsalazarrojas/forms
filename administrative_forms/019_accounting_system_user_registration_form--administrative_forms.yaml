@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accounting System User Registration Form
+    pages:
+    - id: 1
+      name: user_onboarding_header
+      label: -- User onboarding --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Name as it should appear in system
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: username
+      label: Desired username
+      hint: System login ID
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email address
+      hint: Corporate email for notifications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone number
+      hint: Optional phone for support
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: Team or business unit
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: role
+      label: Role
+      hint: System role or position
+      type: select_one
+      options:
+      - Viewer
+      - Data entry
+      - Manager
+      - Administrator
+      required: true
+    - id: 8
+      name: access_level
+      label: Access level
+      hint: Required system permissions
+      type: select_one
+      options:
+      - Read only
+      - Edit
+      - Approve
+      - Full admin
+      required: true
+    - id: 9
+      name: start_date
+      label: Start date
+      hint: Date access should begin
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: systems_to_integrate
+      label: Systems to integrate
+      hint: Other systems that should be linked
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: training_required
+      label: Training required
+      hint: Indicate if training is needed before access
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 12
+      name: manager_approval
+      label: Manager approval
+      hint: Manager name for approval
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: requested_by
+      label: Requested by
+      hint: Person making the access request
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: additional_notes
+      label: Additional notes
+      hint: Any special instructions for onboarding
+      type: text
+      options: []
+      required: false

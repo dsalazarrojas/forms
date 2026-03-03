@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Library Room Reservation Access Form
+    pages:
+    - id: 1
+      name: date_start
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: date_end
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time_start
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: time_end
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: room_type
+      label: Room Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Meeting Room''}'
+      - '{''value'': ''Study Room''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 6
+      name: room_number
+      label: Room Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: preferred_room
+      label: Preferred Room
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''1st Floor''}'
+      - '{''value'': ''2nd Floor''}'
+      - '{''value'': ''3rd Floor''}'
+      required: false
+    - id: 8
+      name: reservation_duration
+      label: Reservation Duration
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Half-day''}'
+      - '{''value'': ''Full-day''}'
+      - '{''value'': ''Multiple days''}'
+      required: false
+    - id: 9
+      name: reservation_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

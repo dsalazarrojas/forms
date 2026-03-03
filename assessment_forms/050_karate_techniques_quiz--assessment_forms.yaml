@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Karate Techniques Quiz
+    pages:
+    - id: 1
+      name: intro
+      label: welcome to the quiz
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: technique
+      label: what is the name of the basic punch technique that uses the ball of the
+        foot?
+      hint: null
+      type: select_multiple
+      options:
+      - Front Kick
+      - Roundhouse Kick
+      - Back Fist
+      required: true
+    - id: 3
+      name: stance
+      label: what is your fighting stance?
+      hint: null
+      type: select_one
+      options:
+      - Front Stance
+      - Back Stance
+      required: true
+    - id: 4
+      name: basic_techniques
+      label: what is one basic technique that a karate student should know?
+      hint: null
+      type: select_multiple
+      options:
+      - Stance and Movement
+      - Block and Strike
+      required: true
+    - id: 5
+      name: basic_stances
+      label: what are your basic stances?
+      hint: null
+      type: select_multiple
+      options:
+      - Front Stance
+      - Back Stance
+      required: true
+    - id: 6
+      name: techniques
+      label: what techniques should a student be proficient in?
+      hint: null
+      type: select_multiple
+      options:
+      - Punch
+      - Kick
+      - Sweep
+      required: true
+    - id: 7
+      name: instructor
+      label: who is your instructor?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: dojo
+      label: what dojo do you train at?
+      hint: null
+      type: select_one
+      options:
+      - Dojo Name 1
+      - Dojo Name 2
+      required: true
+    - id: 9
+      name: grade_level
+      label: what is your grade level in the system?
+      hint: null
+      type: select_one
+      options:
+      - 1st
+      - 2nd
+      required: true
+    - id: 10
+      name: score
+      label: what is your score?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: date_submitted
+      label: what is the date submitted?
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,255 @@
+inputSchema:
+  type: object
+  properties:
+    title: Canteen Stay Waiver Form
+    pages:
+    - id: 1
+      name: intro_header
+      label: -- Canteen After-Hours Stay Permission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_text
+      label: This form grants permission for after-hours facility use. All users must
+        complete this waiver and agree to terms before accessing the canteen.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: participant_info_header
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: Required for all participants
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: student_id
+      label: Student ID or Employee ID
+      hint: Facility identifier
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: role
+      label: Role or Status at Facility
+      hint: Select one
+      type: select_one
+      options:
+      - Student
+      - Faculty
+      - Staff
+      - Volunteer
+      - Visitor
+      - Other
+      required: true
+    - id: 9
+      name: contact_info_header
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email_address
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_header
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: emergency_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: emergency_relationship
+      label: Relationship to Participant
+      hint: Relationship
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: access_request_header
+      label: -- Access Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: access_date
+      label: Date of After-Hours Access
+      hint: Date you need access
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: access_start_time
+      label: Start Time
+      hint: When you will arrive
+      type: time
+      options: []
+      required: true
+    - id: 19
+      name: access_end_time
+      label: End Time
+      hint: When you will leave
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: reason_for_access
+      label: Reason for After-Hours Access
+      hint: Select one
+      type: select_one
+      options:
+      - Study group
+      - Event preparation
+      - Team practice
+      - Club meeting
+      - Individual work
+      - Facility maintenance
+      - Special activity
+      - Other
+      required: true
+    - id: 21
+      name: access_reason_details
+      label: Please describe your activity
+      hint: Provide details
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: group_info_header
+      label: -- Group Information (If Applicable) --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: group_size
+      label: How many people will be present?
+      hint: Number of participants
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: group_members
+      label: Names of Other Group Members
+      hint: List all participants
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: supervisor_required
+      label: Will a supervisor or staff member be present?
+      hint: Select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 26
+      name: supervisor_name
+      label: Supervisor Name (if applicable)
+      hint: Name of supervising staff
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: safety_agreement_header
+      label: -- Safety Agreement and Waiver --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: understand_rules
+      label: I understand and agree to follow all facility rules
+      hint: Required
+      type: select_one
+      options:
+      - Yes, I agree
+      - 'No'
+      required: true
+    - id: 29
+      name: acknowledge_liability
+      label: I acknowledge the risks of after-hours facility access
+      hint: Required
+      type: select_one
+      options:
+      - Yes, I acknowledge
+      - 'No'
+      required: true
+    - id: 30
+      name: liability_release
+      label: I release the facility from liability for injuries or damage
+      hint: Required
+      type: select_one
+      options:
+      - Yes, I release
+      - 'No'
+      required: true
+    - id: 31
+      name: property_care
+      label: I agree to treat facility property with care and respect
+      hint: Required
+      type: select_one
+      options:
+      - Yes, I agree
+      - 'No'
+      required: true
+    - id: 32
+      name: parental_consent
+      label: If under 18, parent or guardian consent required
+      hint: Parent/Guardian name and signature
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Practice Growth Consultation Form
+    pages:
+    - id: 1
+      name: practice_growth_consultation_form
+      label: lead_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: practice_goals
+      label: goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: schedule_consultation
+      label: schedule_a_consultation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: consultation_details
+      label: consultation_details
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: lead_status
+      label: lead_status
+      hint: null
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: false
+    - id: 8
+      name: practice_type
+      label: practice_type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

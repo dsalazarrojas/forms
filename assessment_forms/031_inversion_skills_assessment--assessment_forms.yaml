@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inversion Skills Assessment
+    pages:
+    - id: 1
+      name: athlete_name
+      label: Athlete Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: coach_name
+      label: Coach Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: skill_to_evaluate
+      label: Skill to Evaluate
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: athlete_progress
+      label: Athlete Progress
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: skill_level
+      label: Skill Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 8
+      name: assessment_outcome
+      label: Assessment Outcome
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: coach_recommendations
+      label: Coach Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assessment_notes
+      label: Assessment Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: video_recording
+      label: Video Recording
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: image_captures
+      label: Image Captures
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: assessment_status
+      label: Assessment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

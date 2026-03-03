@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: sdr-dog-adoption-application
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: dog_breed
+      label: Dog Breed
+      hint: null
+      type: select_one
+      options:
+      - Poodle
+      - Chihuahua
+      - German Shepherd
+      - Golden Retriever
+      required: false
+    - id: 10
+      name: dog_age
+      label: Dog Age
+      hint: null
+      type: select_one
+      options:
+      - Puppy
+      - Adult
+      - Senior
+      required: false
+    - id: 11
+      name: adoption_date
+      label: Adoption Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: adoption_reason
+      label: Adoption Reason
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: special_needs
+      label: Special Needs
+      hint: null
+      type: select_multiple
+      options:
+      - Heart condition
+      - Allergies
+      - Other
+      required: false
+    - id: 14
+      name: adoption_agreement
+      label: Adoption Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - I have read and agree to the terms of the adoption agreement
+      - I have read but do not agree to the terms of the adoption agreement
+      required: false

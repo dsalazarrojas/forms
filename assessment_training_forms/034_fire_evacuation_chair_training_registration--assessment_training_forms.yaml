@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Evacuation Chair Training Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shift
+      label: Shift
+      hint: e.g. AM, PM
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: training_date
+      label: Training Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: start_time
+      label: Start Time
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: end_time
+      label: End Time
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: e.g. 123-456-7890
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: e.g. user@example.com
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: shift_hours
+      label: Shift Hours
+      hint: e.g. 8, 4
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: shift_days
+      label: Shift Days
+      hint: e.g. Monday, Tuesday
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday'
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 17
+      name: training_type
+      label: Training Type
+      hint: null
+      type: select_one
+      options:
+      - Fire Evacuation Chair Training
+      - Fire Evacuation Chair Refresher Training
+      - Fire Evacuation Chair Recertification Training
+      required: false
+    - id: 18
+      name: training_location
+      label: Training Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: training_instructor
+      label: Training Instructor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: participant_agree
+      label: Participant Agreement
+      hint: I have read and agree to all of the terms and conditions
+      type: select_one
+      options:
+      - I have read and agree to all of the terms and conditions
+      - I do not have read and agree to all of the terms and conditions
+      required: false
+    - id: 21
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: staff_name
+      label: Staff Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: staff_email
+      label: Staff Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: staff_title
+      label: Staff Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: staff_phone
+      label: Staff Phone
+      hint: e.g. 123-456-7890
+      type: text
+      options: []
+      required: false

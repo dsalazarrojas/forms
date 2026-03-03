@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Project Management Excellence Award Nomination
+    pages:
+    - id: 1
+      name: section_nominee_ident
+      label: -- Nominee and Project Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: nominee_full_name
+      label: Nominee Full Name
+      hint: Individual being nominated for excellence in PM
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: nominee_company
+      label: Nominee Company or Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: nominee_years_exp
+      label: Nominee's Total Years of Project Management Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: nomination_project_name
+      label: Featured Project for this Nomination
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: project_location_address
+      label: Project Location/Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_award_category
+      label: -- Award Category and Criteria --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: award_category_ident
+      label: Award Category
+      hint: Select the most appropriate category
+      type: select_one
+      options:
+      - Project Manager of the Year (Commercial)
+      - Project Manager of the Year (Residential)
+      - Innovation in Construction Planning
+      - Safety Leadership Excellence
+      - Sustainable Project Management
+      - Emerging Leader (Under 30)
+      - Excellence in Multi-million Dollar Project Management
+      required: true
+    - id: 9
+      name: section_nomination_narrative
+      label: -- Nomination Narrative --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: project_success_summary
+      label: Summary of Project Success and Impact
+      hint: Max 500 characters
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: specific_innovation_desc
+      label: Describe a specific innovation or unique PM approach used
+      hint: Max 1000 characters
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: budget_schedule_adherence_stmt
+      label: Demonstrate Budget and Schedule Adherence
+      hint: Provide brief metrics/data point
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: safety_performance_metrics
+      label: Safety Performance Metrics for the Featured Project
+      hint: e.g., Zero incidents, specific safety award
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: section_supporting_evidence
+      label: -- Supporting Evidence and Endorsement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: client_testimonial_summary
+      label: Summary of Client Testimonial/Feedback
+      hint: Full testimonial can be attached separately
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: team_feedback_endorsement
+      label: Summary of Team/Subcontractor Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: project_photos_ready
+      label: High-resolution Project Photos Ready for Upload
+      hint: Required for award ceremony presentation
+      type: select_one
+      options:
+      - Yes - Attached to nomination
+      - Yes - Available in Portal
+      - No - Will provide upon request
+      required: true
+    - id: 18
+      name: section_nominator_ident
+      label: -- Nominator Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: nominator_name
+      label: Your Full Name (Nominator)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: nominator_email
+      label: Your Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 21
+      name: relationship_to_nominee
+      label: Your Professional Relationship to the Nominee
+      hint: null
+      type: select_one
+      options:
+      - Supervisor/Principal
+      - Colleague/Peer
+      - Client/Owner Representative
+      - Subcontractor/Partner
+      - Industry Peer/Competitor
+      required: true
+    - id: 22
+      name: submission_date
+      label: Date of Nomination
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: nominator_ack_ident
+      label: Acknowledgment of Eligibility Rules
+      hint: I confirm this nomination meets all stated award eligibility criteria
+      type: select_one
+      options:
+      - I Acknowledge and Agree
+      - I Disagree
+      required: true
+    - id: 24
+      name: nomination_comments
+      label: Additional Comments for the Committee
+      hint: null
+      type: text
+      options: []
+      required: false

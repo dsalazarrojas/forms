@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quarterly Food Safety Assessment Form
+    pages:
+    - id: 1
+      name: food_service_team
+      label: Food Service Team
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: review_type
+      label: Review Type
+      hint: null
+      type: select_one
+      options:
+      - Quarterly Review
+      - Monthly Review
+      required: false
+    - id: 4
+      name: assessment_results
+      label: Assessment Results
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: food_safety_risks
+      label: Food Safety Risks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: corrective_actions
+      label: Corrective Actions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: follow_up_actions
+      label: Follow-up Actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: review_conducted_by
+      label: Review Conducted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: food_service_location
+      label: Food Service Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: form_submitted_at
+      label: Form Submitted At
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: review_frequency
+      label: Review Frequency
+      hint: null
+      type: select_one
+      options:
+      - Quarterly
+      - Monthly
+      required: false
+    - id: 17
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - In Progress
+      - Not Complete
+      required: false
+    - id: 18
+      name: form_completed_at
+      label: Form Completed At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: submission_status_note
+      label: Submission Status Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: submission_status_note_who
+      label: Submission Status Note Who
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submission_status_note_when
+      label: Submission Status Note When
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: review_status_note
+      label: Review Status Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_status_note
+      label: Follow-up Status Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_status_note_who
+      label: Follow-up Status Note Who
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_status_note_when
+      label: Follow-up Status Note When
+      hint: null
+      type: date
+      options: []
+      required: false

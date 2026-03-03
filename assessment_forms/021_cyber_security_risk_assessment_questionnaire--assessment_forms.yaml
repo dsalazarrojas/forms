@@ -1,0 +1,91 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cyber Security Risk Assessment Questionnaire
+    pages:
+    - id: 1
+      name: assessment_page
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: risk_areas
+      label: Risk Areas
+      hint: List the critical risk areas to be assessed.
+      type: select_multiple
+      options:
+      - Network and Device Security
+      - Application Security
+      - Data Security
+      - User Security
+      - Operations Security
+      required: false
+    - id: 3
+      name: risk_factors
+      label: Risk Factors
+      hint: Describe the risk factors for each selected area.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: risk_factors_list
+      label: Risk Factors List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: risk_factors_description
+      label: Risk Factors Description
+      hint: Describe each risk factor in detail.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: risk_factors_frequency
+      label: Risk Factors Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: controls
+      label: Controls
+      hint: List the controls to manage each risk factor.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: controls_list
+      label: Controls List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: controls_description
+      label: Controls Description
+      hint: Describe each control in detail.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: controls_frequency
+      label: Controls Frequency
+      hint: null
+      type: text
+      options: []
+      required: false

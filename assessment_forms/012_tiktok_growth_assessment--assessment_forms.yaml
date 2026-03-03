@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: TikTok Growth Assessment
+    pages:
+    - id: 1
+      name: tiktok_growth_assessment
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: what_is_your_current_level_of_experience_on_tiktok
+      label: your_current_level_of_experience_on_tiktok
+      hint: null
+      type: select_one
+      options:
+      - beginner
+      - intermediate
+      - advanced
+      - expert
+      required: true
+    - id: 3
+      name: what_are_your_goals_for_tiktok
+      label: what_are_your_goals_for_tiktok
+      hint: null
+      type: select_multiple
+      options:
+      - grow_follower_count
+      - increase_engagement
+      - boost_post_reach
+      - none
+      required: true
+    - id: 4
+      name: how_do_you_currently_use_tiktok
+      label: how_do_you_currently_use_tiktok
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: what_are_your_current_budget_for_tiktok
+      label: what_are_your_current_budget_for_tiktok
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: what_is_your_current_average_monthly_budget_allocation_for_content_creation
+      label: what_is_your_current_average_monthly_budget_allocation_for_content_creation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: do_you_have_a_tiktok_account_manager
+      label: do_you_have_a_tiktok_account_manager
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 8
+      name: what_are_your_current_average_monthly_budget_allocation_for_paid_ads
+      label: what_are_your_current_average_monthly_budget_allocation_for_paid_ads
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: do_you_have_a_working_relationship_with_other_tiktok_users
+      label: do_you_have_a_working_relationship_with_other_tiktok_users
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 10
+      name: how_do_you_measure_tiktok_success
+      label: how_do_you_measure_tiktok_success
+      hint: null
+      type: select_multiple
+      options:
+      - engagement
+      - reach
+      - impressions
+      - none
+      required: true
+    - id: 11
+      name: what_is_your_current_average_tiktok_post_frequency
+      label: what_is_your_current_average_tiktok_post_frequency
+      hint: null
+      type: number
+      options: []
+      required: true

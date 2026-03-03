@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Club Registration Form
+    pages:
+    - id: 1
+      name: member_information
+      label: Member Information
+      hint: Please provide your personal details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Primary email for club communications
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Street Address
+      hint: Your mailing address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: Your state or province
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP Code
+      hint: Your ZIP or postal code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: vehicle_information
+      label: Vehicle Information
+      hint: Tell us about your car
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_year
+      label: Vehicle Year
+      hint: Year of your primary car
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: vehicle_make
+      label: Vehicle Make
+      hint: Manufacturer of your car
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: vehicle_model
+      label: Vehicle Model
+      hint: Model of your car
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: vehicle_color
+      label: Vehicle Color
+      hint: Primary color of your car
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: vehicle_vin
+      label: VIN (Optional)
+      hint: Vehicle Identification Number
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: vehicle_type
+      label: Vehicle Type
+      hint: What type of car do you have?
+      type: select_one
+      options:
+      - Muscle Car
+      - Classic/Vintage
+      - Sports Car
+      - Import/Tuner
+      - Luxury
+      - Truck/SUV
+      - Electric
+      - Other
+      required: true
+    - id: 18
+      name: modifications
+      label: Modifications
+      hint: List any modifications or upgrades
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: club_membership
+      label: Club Membership Details
+      hint: Your membership preferences
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: membership_type
+      label: Membership Type
+      hint: Select your membership level
+      type: select_one
+      options:
+      - Individual - $50/year
+      - Family - $75/year
+      - Student - $30/year
+      - Lifetime - $500
+      required: true
+    - id: 21
+      name: interests
+      label: Club Interests
+      hint: What activities interest you?
+      type: select_multiple
+      options:
+      - Car Shows
+      - Track Days
+      - Cruise Nights
+      - Charity Events
+      - Technical Workshops
+      - Group Drives
+      - Social Meetups
+      - Competitions
+      required: true
+    - id: 22
+      name: volunteer_interest
+      label: Volunteer Interest
+      hint: Would you like to help organize events?
+      type: select_one
+      options:
+      - Yes - very interested
+      - Maybe - depends on the event
+      - No - just want to participate
+      required: true
+    - id: 23
+      name: how_heard_about_us
+      label: How Did You Hear About Us
+      hint: Your referral source
+      type: select_one
+      options:
+      - Friend/Member
+      - Social Media
+      - Car Show
+      - Website
+      - Flyer/Advertisement
+      - Other
+      required: false
+    - id: 24
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact number
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: terms_agreement
+      label: Club Rules Agreement
+      hint: Do you agree to follow club rules?
+      type: select_one
+      options:
+      - I agree to the club rules and code of conduct
+      - I do not agree
+      required: true
+    - id: 27
+      name: registration_date
+      label: Registration Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

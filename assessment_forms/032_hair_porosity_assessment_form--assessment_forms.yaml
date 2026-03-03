@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hair Porosity Assessment Form
+    pages:
+    - id: 1
+      name: form_start
+      label: Form Start
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_info
+      label: Client Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: hair_type
+      label: Hair Type
+      hint: Please select your hair type
+      type: select_one
+      options:
+      - Fine
+      - Medium
+      - Coarse
+      required: false
+    - id: 4
+      name: porosity_level
+      label: Porosity Level
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '10'
+      - '20'
+      - '30'
+      - '40'
+      - '50'
+      required: false
+    - id: 5
+      name: hair_length
+      label: Hair Length
+      hint: Please select your hair length
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 6
+      name: hair_color
+      label: Hair Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: porosity_location
+      label: Porosity Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: hair_condition
+      label: Hair Condition
+      hint: Please describe your hair condition
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: hair_porosity
+      label: Hair Porosity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: porosity_scale
+      label: Porosity Scale
+      hint: Please select a porosity scale
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 11
+      name: porosity_score
+      label: Porosity Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: hair_follicle_size
+      label: Hair Follicle Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 13
+      name: hair_follicle_distribution
+      label: Hair Follicle Distribution
+      hint: null
+      type: select_one
+      options:
+      - Even
+      - Uneven
+      - Mixed
+      required: false
+    - id: 14
+      name: hair_breakage
+      label: Hair Breakage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: form_end
+      label: Form End
+      hint: null
+      type: text
+      options: []
+      required: false

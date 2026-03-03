@@ -1,0 +1,261 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Anti Bullying Initiative Effectiveness Assessment
+    pages:
+    - id: 1
+      name: respondent_type
+      label: Respondent Type
+      hint: Are you a student, parent, or staff member
+      type: select_one
+      options:
+        - Student
+        - Parent or Guardian
+        - Teacher
+        - Administrator
+        - Support Staff
+        - Other
+      required: true
+    - id: 2
+      name: school_name
+      label: School or Organization Name
+      hint: Name of your school or organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: grade_level
+      label: Grade Level
+      hint: If student, what grade
+      type: select_one
+      options:
+        - Elementary
+        - Middle school
+        - High school
+        - Not applicable
+      required: false
+    - id: 4
+      name: awareness_of_initiative
+      label: Awareness of Anti-Bullying Initiative
+      hint: Are you aware of the current initiative
+      type: select_one
+      options:
+        - Very aware
+        - Somewhat aware
+        - Heard of it
+        - Not aware at all
+      required: true
+    - id: 5
+      name: initiative_duration
+      label: How long has the initiative been active
+      hint: Your understanding of the timeline
+      type: select_one
+      options:
+        - Less than 6 months
+        - 6 months to 1 year
+        - 1 to 2 years
+        - More than 2 years
+        - Not sure
+      required: true
+    - id: 6
+      name: program_components
+      label: Program Components You Are Aware Of
+      hint: Select all that apply
+      type: select_multiple
+      options:
+        - Educational workshops
+        - Peer mentoring
+        - Reporting system
+        - Counseling services
+        - Parent involvement
+        - Staff training
+        - Awareness campaigns
+        - None
+      required: true
+    - id: 7
+      name: perceived_effectiveness
+      label: Perceived Overall Effectiveness
+      hint: How effective do you think the initiative is
+      type: select_one
+      options:
+        - Very effective
+        - Effective
+        - Somewhat effective
+        - Not very effective
+        - Not effective at all
+      required: true
+    - id: 8
+      name: bullying_frequency_change
+      label: Change in Bullying Frequency
+      hint: Since the initiative started
+      type: select_one
+      options:
+        - Significantly decreased
+        - Somewhat decreased
+        - No change
+        - Somewhat increased
+        - Significantly increased
+        - Not sure
+      required: true
+    - id: 9
+      name: reporting_comfort
+      label: Comfort Level Reporting Bullying
+      hint: How comfortable would you feel reporting
+      type: select_one
+      options:
+        - Very comfortable
+        - Comfortable
+        - Neutral
+        - Uncomfortable
+        - Very uncomfortable
+      required: true
+    - id: 10
+      name: reporting_system_knowledge
+      label: Knowledge of Reporting System
+      hint: Do you know how to report incidents
+      type: select_one
+      options:
+        - Yes, very well
+        - Yes, somewhat
+        - Heard of it
+        - No, I do not know
+      required: true
+    - id: 11
+      name: response_effectiveness
+      label: Effectiveness of Response to Incidents
+      hint: How well are incidents handled
+      type: select_one
+      options:
+        - Very effectively
+        - Effectively
+        - Somewhat effectively
+        - Ineffectively
+        - Very ineffectively
+        - Have not witnessed response
+      required: true
+    - id: 12
+      name: school_climate
+      label: Overall School Climate
+      hint: How would you describe the environment
+      type: select_one
+      options:
+        - Very safe and supportive
+        - Safe and supportive
+        - Neutral
+        - Unsafe or unsupportive
+        - Very unsafe or unsupportive
+      required: true
+    - id: 13
+      name: peer_intervention
+      label: Peer Intervention Frequency
+      hint: Do students intervene when witnessing bullying
+      type: select_one
+      options:
+        - Always
+        - Often
+        - Sometimes
+        - Rarely
+        - Never
+      required: true
+    - id: 14
+      name: staff_involvement
+      label: Staff Involvement Level
+      hint: How involved are staff members
+      type: select_one
+      options:
+        - Very involved
+        - Involved
+        - Somewhat involved
+        - Not very involved
+        - Not involved at all
+      required: true
+    - id: 15
+      name: parent_involvement
+      label: Parent or Family Involvement Level
+      hint: How involved are families
+      type: select_one
+      options:
+        - Very involved
+        - Involved
+        - Somewhat involved
+        - Not very involved
+        - Not involved at all
+      required: true
+    - id: 16
+      name: most_effective_component
+      label: Most Effective Component
+      hint: What part of the initiative works best
+      type: select_one
+      options:
+        - Education and awareness
+        - Reporting mechanisms
+        - Counseling support
+        - Peer programs
+        - Policy enforcement
+        - Parent engagement
+        - Staff training
+      required: true
+    - id: 17
+      name: least_effective_component
+      label: Least Effective Component
+      hint: What needs improvement
+      type: select_one
+      options:
+        - Education and awareness
+        - Reporting mechanisms
+        - Counseling support
+        - Peer programs
+        - Policy enforcement
+        - Parent engagement
+        - Staff training
+        - All components effective
+      required: true
+    - id: 18
+      name: recommendations
+      label: Recommendations for Improvement
+      hint: What changes would you suggest
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: additional_support_needed
+      label: Additional Support Needed
+      hint: What resources are still needed
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: would_participate
+      label: Willingness to Participate in Future Programs
+      hint: Would you join future initiatives
+      type: select_one
+      options:
+        - Definitely yes
+        - Probably yes
+        - Undecided
+        - Probably no
+        - Definitely no
+      required: true
+    - id: 21
+      name: overall_satisfaction
+      label: Overall Satisfaction with Initiative
+      hint: Rate your satisfaction
+      type: select_one
+      options:
+        - Very satisfied
+        - Satisfied
+        - Neutral
+        - Dissatisfied
+        - Very dissatisfied
+      required: true

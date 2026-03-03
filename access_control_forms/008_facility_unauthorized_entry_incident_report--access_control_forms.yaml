@@ -1,0 +1,111 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Facility Unauthorized Entry Incident Report
+    pages:
+    - id: 1
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: select_one
+      options:
+      - Security Officer
+      - Maintenance
+      - Visitor
+      required: true
+    - id: 2
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time_of_inincident
+      label: Time of Incident
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - Trespasser
+      - Security Breach
+      - Property Damage
+      - Theft
+      - Fire
+      required: true
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_reporter
+      label: Incident Reporter
+      hint: null
+      type: select_one
+      options:
+      - Security Officer
+      - Maintenance
+      - Visitor
+      required: true
+    - id: 8
+      name: incident_summary
+      label: Incident Summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: submitted_on
+      label: Submitted on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: updated_by
+      label: Updated by
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mandatory Purchase Compliance Form
+    pages:
+    - id: 1
+      name: purchase_request_details
+      label: Purchase Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: purchase_requester
+      label: Requester
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: purchase_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: purchase_amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: purchase_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: purchase_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: purchase_type
+      label: Type
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: purchase_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: purchase_compliance
+      label: Compliance
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: requester_notes
+      label: Requester Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: approver_notes
+      label: Approver Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: purchase_requester_email
+      label: Requester Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: purchase_requester_phone
+      label: Requester Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: purchase_requester_name
+      label: Requester Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: purchase_requester_department
+      label: Requester Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: purchase_requester_job_title
+      label: Requester Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: purchase_requester_job_function
+      label: Requester Job Function
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: purchase_requester_location
+      label: Requester Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: purchase_requester_manager
+      label: Requester Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: purchase_requester_manager_department
+      label: Requester Manager Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: purchase_requester_manager_job_title
+      label: Requester Manager Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: purchase_requester_manager_job_function
+      label: Requester Manager Job Function
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: purchase_requester_manager_location
+      label: Requester Manager Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: submitting_user
+      label: Submitting User
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: submitting_user_department
+      label: Submitting User Department
+      hint: null
+      type: text
+      options: []
+      required: true

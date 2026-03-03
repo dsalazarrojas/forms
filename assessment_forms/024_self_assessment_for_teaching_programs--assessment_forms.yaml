@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Self Assessment For Teaching Programs
+    pages:
+    - id: 1
+      name: teaching_programs
+      label: teaching_programs
+      hint: null
+      type: select_multiple
+      options:
+      - Teaching Programs
+      - Other
+      required: false
+    - id: 2
+      name: teaching_practices
+      label: teaching_practices
+      hint: null
+      type: select_multiple
+      options:
+      - Lesson Planning
+      - Classroom Management
+      - Instructional Strategies
+      - Classroom Environment
+      - Parent Communication
+      - Professional Development
+      - Technology Integration
+      - Interdisciplinary Connections
+      - Assessment and Feedback
+      - Community Building
+      required: false
+    - id: 3
+      name: classroom_environment
+      label: classroom_environment
+      hint: null
+      type: select_multiple
+      options:
+      - Learning Environment
+      - Classroom Management
+      - Classroom Organization
+      - Class Size
+      - Noise Level
+      - Physical Environment
+      - Safety
+      required: false
+    - id: 4
+      name: teaching_practices_1
+      label: teaching_practices_1
+      hint: null
+      type: select_multiple
+      options:
+      - Lesson Planning
+      - Classroom Management
+      - Instructional Strategies
+      required: false
+    - id: 5
+      name: teaching_practices_2
+      label: teaching_practices_2
+      hint: null
+      type: select_multiple
+      options:
+      - Classroom Organization
+      - Class Size
+      - Technology Integration
+      - Interdisciplinary Connections
+      - Assessment and Feedback
+      required: false
+    - id: 6
+      name: teaching_practices_3
+      label: teaching_practices_3
+      hint: null
+      type: select_multiple
+      options:
+      - Parent Communication
+      - Professional Development
+      - Community Building
+      required: false
+    - id: 7
+      name: teaching_practices_4
+      label: teaching_practices_4
+      hint: null
+      type: select_multiple
+      options:
+      - Classroom Environment
+      - Other
+      required: false
+    - id: 8
+      name: self_reflection
+      label: self_reflection
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: areas_for_improvement
+      label: areas_for_improvement
+      hint: null
+      type: select_multiple
+      options:
+      - Teaching Practices
+      - Classroom Environment
+      - Self-Reflection
+      required: false
+    - id: 10
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

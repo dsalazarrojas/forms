@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: r_d_experiment_validation_report_form
+    pages:
+    - id: 1
+      name: experiment_id
+      label: Experiment ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: validation_status
+      label: Validation Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - In-Progress
+      - Not Approved
+      - Not Started
+      required: true
+    - id: 3
+      name: experiment_results
+      label: Experiment Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: validation_comments
+      label: Validation Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: experiment_conclusion
+      label: Experiment Conclusion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false

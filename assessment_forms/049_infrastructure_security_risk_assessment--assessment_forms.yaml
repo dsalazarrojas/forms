@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Infrastructure Security Risk Assessment
+    pages:
+    - id: 1
+      name: site_id
+      label: Site Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: site_evaluations
+      label: Site Evaluations
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: risk_factors
+      label: Risk Factors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: risk_factor_scores
+      label: Risk Factor Scores
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: risk_factor_descriptions
+      label: Risk Factor Descriptions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: overall_risk_score
+      label: Overall Risk Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - High
+      required: true
+    - id: 8
+      name: risk_level_descriptions
+      label: Risk Level Descriptions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: remediation_plans
+      label: Remediation Plans
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: next_review_date
+      label: Next Review Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: next_review_time
+      label: Next Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: auditor_name
+      label: Auditor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: auditor_location
+      label: Auditor Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: auditor_contact_info
+      label: Auditor Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: site_name
+      label: Site Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: site_description
+      label: Site Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: site_address
+      label: Site Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 21
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: site_status
+      label: Site Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 23
+      name: site_type
+      label: Site Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: site_subtype
+      label: Site Subtype
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: site_status_notes
+      label: Site Status Notes
+      hint: null
+      type: text
+      options: []
+      required: false

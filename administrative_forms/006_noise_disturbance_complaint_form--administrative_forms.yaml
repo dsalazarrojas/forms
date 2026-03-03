@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Noise Disturbance Complaint Form
+    pages:
+    - id: 1
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: noise_type
+      label: Noise Type
+      hint: null
+      type: select_one
+      options:
+      - Excessive Noise
+      - Construction Noise
+      - Party Noise
+      - Other
+      required: false
+    - id: 3
+      name: noise_level
+      label: Noise Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: address
+      label: Street
+      hint: null
+      type: text
+      options: []
+      required: false

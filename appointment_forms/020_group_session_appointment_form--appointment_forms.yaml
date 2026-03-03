@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Group Session Appointment Form
+    pages:
+    - id: 1
+      name: group_session_appointment_form_page_1
+      label: participant_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: group_session_appointment_form_page_2
+      label: session_details
+      hint: รก
+      type: select_multiple
+      options:
+      - Session 1
+      - Session 2
+      - Session 3
+      required: true
+    - id: 3
+      name: group_session_appointment_form_page_3
+      label: workshop_info
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: group_session_appointment_form_page_4
+      label: participant_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: group_session_appointment_form_page_5
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: group_session_appointment_form_page_6
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: group_session_appointment_form_page_7
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: group_session_appointment_form_page_8
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: group_session_appointment_form_page_9
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: group_session_appointment_form_page_10
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: group_session_appointment_form_page_11
+      label: payment_terms
+      hint: null
+      type: select_one
+      options:
+      - Option
+      - Option 2
+      - Option 3
+      required: true
+    - id: 12
+      name: group_session_appointment_form_page_12
+      label: payment_terms_assistant
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 13
+      name: group_session_appointment_form_page_13
+      label: payment_terms_assistant
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: group_session_appointment_form_page_14
+      label: payment_terms_assistant_assistant
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: group_session_appointment_form_page_15
+      label: payment_terms_assistant_assistant_assistant
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: group_session_appointment_form_page_16
+      label: payment_terms_assistant_assistant_assistant_assistant
+      hint: null
+      type: text
+      options: []
+      required: false

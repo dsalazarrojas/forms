@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Administrative Application Form
+    pages:
+    - id: 1
+      name: applicant_information
+      label: Applicant information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Legal name for application
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: For contact about application
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: position_applied
+      label: Position applied for
+      hint: Administrative role title
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: qualifications
+      label: Qualifications and experience
+      hint: Education and relevant experience
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: availability
+      label: Availability to start
+      hint: Earliest available start date
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: references
+      label: References
+      hint: Provide two professional references
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: resume_attached
+      label: Resume attached
+      hint: Confirm resume is attached
+      type: select_one
+      options: [Yes, No]
+      required: true
+    - id: 9
+      name: cover_letter
+      label: Cover letter summary
+      hint: Brief statement of fit for role
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_information
+      label: Additional information
+      hint: Any other details for hiring team
+      type: text
+      options: []
+      required: false

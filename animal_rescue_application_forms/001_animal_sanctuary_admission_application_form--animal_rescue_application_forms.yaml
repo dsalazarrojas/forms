@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Sanctuary Admission Application Form
+    pages:
+    - id: 1
+      name: section_header
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant full name
+      hint: Enter the primary applicant full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: Provide an email for application updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact phone number
+      hint: Provide a best contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: animal_name
+      label: Animal name
+      hint: If unknown enter unknown
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: species
+      label: Species
+      hint: Select the species that best matches the animal
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Bird
+      - Small mammal
+      - Other
+      required: true
+    - id: 7
+      name: animal_age_years
+      label: Animal age in years
+      hint: Enter approximate whole years
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: sex
+      label: Sex
+      hint: Select known sex of the animal
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Unknown
+      required: false
+    - id: 9
+      name: medical_history
+      label: Medical history and current concerns
+      hint: Summarize any known medical issues or medications
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: intake_date
+      label: Requested intake date
+      hint: Preferred date for admission
+      type: date
+      options: []
+      required: false

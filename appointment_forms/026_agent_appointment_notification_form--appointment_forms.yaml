@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agent Appointment Notification Form
+    pages:
+    - id: 1
+      name: appointment_info
+      label: -- Appointment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: agent_name
+      label: Agent name
+      hint: Name of agent assigned to appointment
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_name
+      label: Client name
+      hint: Client or customer name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: appointment_date
+      label: Appointment date
+      hint: Date of appointment
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: appointment_time
+      label: Appointment time
+      hint: Time of appointment
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: appointment_location
+      label: Appointment location
+      hint: Physical or virtual meeting details
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: appointment_type
+      label: Appointment type
+      hint: Purpose of appointment
+      type: select_one
+      options:
+      - Consultation
+      - Follow up
+      - Inspection
+      - Other
+      required: true
+    - id: 8
+      name: contact_phone
+      label: Contact phone
+      hint: Phone for day of appointment
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: special_instructions
+      label: Special instructions
+      hint: Any access or preparation notes
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: confirmation_required
+      label: Confirmation required
+      hint: Does client need to confirm appointment
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

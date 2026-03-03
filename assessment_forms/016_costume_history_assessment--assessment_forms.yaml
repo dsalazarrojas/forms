@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Costume History Assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: historical_period
+      label: historical period
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: art_styles
+      label: art styles
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: artists
+      label: notable-artists
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: materials_and_techniques
+      label: materials and techniques
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: textiles
+      label: textiles
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: fashion_trends
+      label: fashion trends
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: cultural_influences
+      label: cultural influences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: conclusion
+      label: conclusion
+      hint: null
+      type: text
+      options: []
+      required: false

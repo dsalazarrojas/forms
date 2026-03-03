@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cold Facility Access Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Email Address
+      hint: Work email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requester_phone
+      label: Phone Number
+      hint: Direct contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department or Division
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization
+      label: Organization Name
+      hint: Company or institution
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: facility_name
+      label: Facility Name
+      hint: Which cold facility you need to access
+      type: select_one
+      options:
+      - Cold Storage Warehouse A
+      - Cold Storage Warehouse B
+      - Laboratory Freezer Room
+      - Medical Refrigeration Unit
+      - Food Processing Cold Room
+      - Research Facility
+      - Other
+      required: true
+    - id: 8
+      name: access_purpose
+      label: Purpose of Access
+      hint: Reason for entering the cold facility
+      type: select_one
+      options:
+      - Routine Inspection
+      - Equipment Maintenance
+      - Sample Collection
+      - Inventory Check
+      - Research Activity
+      - Delivery or Pickup
+      - Emergency Response
+      - Training
+      - Other
+      required: true
+    - id: 9
+      name: purpose_details
+      label: Purpose Details
+      hint: Provide more details about your visit
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: requested_date
+      label: Requested Access Date
+      hint: Date you need access
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: entry_time
+      label: Expected Entry Time
+      hint: Time you plan to enter
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: exit_time
+      label: Expected Exit Time
+      hint: Time you plan to leave
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: duration
+      label: Expected Duration
+      hint: How long will you be inside
+      type: select_one
+      options:
+      - Less than 30 minutes
+      - 30 minutes to 1 hour
+      - 1 to 2 hours
+      - 2 to 4 hours
+      - 4 to 8 hours
+      - Full day
+      - Multiple days
+      required: true
+    - id: 14
+      name: access_type
+      label: Type of Access Requested
+      hint: Level of access needed
+      type: select_one
+      options:
+      - One-Time Access
+      - Temporary Access
+      - Recurring Access
+      - Emergency Access
+      required: true
+    - id: 15
+      name: recurring_schedule
+      label: Recurring Schedule
+      hint: If recurring, specify days and times
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: equipment_needed
+      label: Equipment You Will Bring
+      hint: List any equipment or tools
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: ppe_required
+      label: Personal Protective Equipment Needed
+      hint: Select required PPE
+      type: select_multiple
+      options:
+      - Cold Weather Gear
+      - Insulated Gloves
+      - Safety Boots
+      - Face Shield
+      - Hard Hat
+      - High-Visibility Vest
+      - Respirator
+      required: true
+    - id: 18
+      name: safety_training_completed
+      label: Cold Facility Safety Training Completed
+      hint: Have you completed required safety training
+      type: select_one
+      options:
+      - true
+      - false
+      - In Progress
+      required: true
+    - id: 19
+      name: training_date
+      label: Safety Training Completion Date
+      hint: Date of training completion
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: medical_conditions
+      label: Medical Conditions Affecting Cold Exposure
+      hint: Any conditions we should be aware of
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Person to contact in case of emergency
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact number
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: supervisor_name
+      label: Supervisor or Manager Name
+      hint: Your direct supervisor
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: supervisor_approval
+      label: Supervisor Approval Status
+      hint: Has your supervisor approved this request
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Not Required
+      required: true
+    - id: 25
+      name: safety_acknowledgment
+      label: Safety Rules Acknowledgment
+      hint: I acknowledge and agree to follow all safety protocols
+      type: select_one
+      options:
+      - Yes I Acknowledge
+      - false
+      required: true
+    - id: 26
+      name: additional_notes
+      label: Additional Notes or Special Requirements
+      hint: Any other information
+      type: text
+      options: []
+      required: false

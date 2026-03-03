@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cybersecurity Incident Records Release Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: incident_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: incident_location
+      label: incident_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_type
+      label: incident_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: incident_report
+      label: incident_report
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: incident_details
+      label: incident_details
+      hint: prophets
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incident_classification
+      label: incident_classification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: incident_status
+      label: incident_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: incident_resolution_date
+      label: incident_resolution_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: incident_resolution_method
+      label: incident_resolution_method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_resolution_notes
+      label: incident_resolution_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: incident_review
+      label: incident_review
+      hint: This will be reviewed and approved by the appropriate personnel
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: incident_approval
+      label: incident_approval
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: incident_release
+      label: incident_release
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: incident_comments
+      label: incident_comments
+      hint: null
+      type: note
+      options: []
+      required: false

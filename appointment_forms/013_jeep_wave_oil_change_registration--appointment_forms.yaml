@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Jeep Wave Oil Change Registration
+    pages:
+    - id: 1
+      name: vehicle_details
+      label: Vehicle Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: wave_eligibility
+      label: Wave Eligibility
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 3
+      name: confirm_scheduling
+      label: Confirm Scheduling
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: service_details
+      label: Service Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Phone'', ''value'': ''phone''}'
+      - '{''label'': ''Email'', ''value'': ''email''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 6
+      name: wave_vehicle_details
+      label: Wave Vehicle Details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: wave_vehicle_year
+      label: Wave Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: wave_vehicle_make
+      label: Wave Vehicle Make
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Jeep'', ''value'': ''jeep''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 9
+      name: wave_vehicle_model
+      label: Wave Vehicle Model
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Grand Cherokee'', ''value'': ''grand-cherokee''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 10
+      name: wave_vehicle_color
+      label: Wave Vehicle Color
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Black'', ''value'': ''black''}'
+      - '{''label'': ''White'', ''value'': ''white''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 11
+      name: wave_vehicle_mileage
+      label: Wave Vehicle Mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: wave_vehiclevin
+      label: Wave Vehicle VIN
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: wave_appointment_type
+      label: Wave Appointment Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Service Appointment'', ''value'': ''service-appointment''}'
+      - '{''label'': ''Maintenance Appointment'', ''value'': ''maintenance-appointment''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 14
+      name: wave_service_type
+      label: Wave Service Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Oil Change'', ''value'': ''oil-change''}'
+      - '{''label'': ''Tire Rotation'', ''value'': ''tire-rotation''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 15
+      name: wave_scheduling
+      label: Wave Scheduling
+      hint: null
+      type: date
+      options: []
+      required: false

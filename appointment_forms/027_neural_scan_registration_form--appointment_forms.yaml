@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: neural scan registration form
+    pages:
+    - id: 1
+      name: patient_info
+      label: patient info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: scan_details
+      label: scan details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: scan_type
+      label: scan type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: medical_insurance
+      label: medical insurance
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - None
+      - None
+      - None
+      - None
+      required: false
+    - id: 5
+      name: consent
+      label: consent
+      hint: Please select 'yes' to consent
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: true
+    - id: 6
+      name: contact_details
+      label: contact details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_notes
+      label: additional notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: patient_consent_signature
+      label: patient consent signature
+      hint: Please sign to consent
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: true

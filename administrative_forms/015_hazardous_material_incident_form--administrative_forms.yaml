@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hazardous Material Incident Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: employee_affected
+      label: Employee Affected
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''John'', ''label'': ''John Smith''}'
+      - '{''value'': ''Jane'', ''label'': ''Jane Doe''}'
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: material_hazards
+      label: Material Hazards
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Fire'', ''label'': ''Fire''}'
+      - '{''value'': ''Chemical'', ''label'': ''Chemical''}'
+      - '{''value'': ''Physical'', ''label'': ''Physical''}'
+      required: false
+    - id: 6
+      name: material_quantity
+      label: Material Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: employee_injured
+      label: Employee Injured
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 0, ''label'': 0}'
+      - '{''value'': ''1-2'', ''label'': ''1-2''}'
+      - '{''value'': ''3-5'', ''label'': ''3-5''}'
+      - '{''value'': ''6 or more'', ''label'': ''6 or more''}'
+      required: false
+    - id: 8
+      name: employee_injured_severity
+      label: Employee Injured Severity
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''None'', ''label'': ''None''}'
+      - '{''value'': ''Minor'', ''label'': ''Minor''}'
+      - '{''value'': ''Serious'', ''label'': ''Serious''}'
+      - '{''value'': ''Critical'', ''label'': ''Critical''}'
+      required: false
+    - id: 9
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_needed
+      label: Follow up Needed
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 11
+      name: reporting_officer
+      label: Reporting Officer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: supervisor_approval
+      label: Supervisor Approval
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: signature_time
+      label: Signature Time
+      hint: null
+      type: time
+      options: []
+      required: false

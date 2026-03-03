@@ -1,0 +1,70 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Laser Hair Removal Waiver Form
+    pages:
+    - id: 1
+      name: client_consent
+      label: client_consent
+      hint: null
+      type: select_multiple
+      options:
+      - I understand the risks and procedures involved with this service
+      - I am aware of any allergies or sensitivities I may have that could interfere
+        with this service
+      - I am over 18 years of age
+      required: true
+    - id: 2
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: laser_risks
+      label: laser_risks
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: client_info
+      label: client_info
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: false
+    - id: 5
+      name: laser_technician
+      label: laser_technician
+      hint: null
+      type: select_multiple
+      options:
+      - Certified laser technician
+      - Untrained but has experience
+      - Trained by a dermatologist
+      required: false
+    - id: 6
+      name: laser_equipment
+      label: laser_equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Lumenis
+      - Lumenis or similar
+      - Other
+      required: false

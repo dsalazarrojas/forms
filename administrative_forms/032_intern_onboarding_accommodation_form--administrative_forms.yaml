@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: intern onboarding accommodation form
+    pages:
+    - id: 1
+      name: start
+      label: form introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: first name
+      hint: Please enter your first name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: surname
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: accommodation_type
+      label: accommodation type
+      hint: null
+      type: select_multiple
+      options:
+      - house
+      - apartment
+      - hotel
+      required: false
+    - id: 5
+      name: preferred_location
+      label: preferred location
+      hint: null
+      type: select_one
+      options:
+      - city1
+      - city2
+      - city3
+      - city4
+      - city5
+      required: false
+    - id: 6
+      name: check_in_date
+      label: check in date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: check_out_date
+      label: check out date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: contact number
+      hint: null
+      type: text
+      options: []
+      required: false

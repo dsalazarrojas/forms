@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Return Questionnaire
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tax_year
+      label: Tax Year
+      hint: null
+      type: select_one
+      options:
+      - '2022'
+      - '2023'
+      - '2024'
+      required: false
+    - id: 3
+      name: income_source
+      label: Income Source
+      hint: null
+      type: select_one
+      options:
+      - Salary
+      - Self-Employed
+      - Business
+      required: false
+    - id: 4
+      name: income_tax_credit
+      label: Income Tax Credit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: deductions_claim
+      label: Deductions Claim
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: tax_withholding
+      label: Tax Withholding
+      hint: null
+      type: select_one
+      options:
+      - Withholding
+      - Non-withholding
+      required: false
+    - id: 7
+      name: tax_amount
+      label: Tax Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: tax_returns_filing_status
+      label: Tax Returns Filing Status
+      hint: null
+      type: select_one
+      options:
+      - Filed
+      - Unfiled
+      - Pending
+      required: false
+    - id: 9
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: tax_return_submitted
+      label: Tax Return Submitted
+      hint: null
+      type: note
+      options: []
+      required: false

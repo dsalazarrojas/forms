@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Actor Profile Update Session Booking Form
+    pages:
+    - id: 1
+      name: --session_request
+      label: -- Session Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: actor_name
+      label: Actor name
+      hint: Full professional name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: For confirmation and delivery of updated materials
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: session_purpose
+      label: Session purpose
+      hint: Headshots, reels, profile photos or bio update
+      type: select_one
+      options:
+      - Headshot session
+      - Reel update
+      - Bio and resume update
+      - Other
+      required: true
+    - id: 5
+      name: preferred_dates
+      label: Preferred dates and times
+      hint: Provide multiple options
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: wardrobe_choices
+      label: Wardrobe choices
+      hint: Brief description of looks to bring
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: length_of_session
+      label: Length of session minutes
+      hint: Typical formats 30 60 90
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: additional_services
+      label: Additional services requested
+      hint: Hair makeup retouching editing
+      type: select_multiple
+      options:
+      - Hair styling
+      - Makeup
+      - Photo retouching
+      - Video editing
+      required: false
+    - id: 9
+      name: accessibility_needs
+      label: Accessibility needs
+      hint: Any mobility or sensory accommodations
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: special_notes
+      label: Special notes for photographer or coach
+      hint: Any creative direction or requests
+      type: note
+      options: []
+      required: false

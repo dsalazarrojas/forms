@@ -1,0 +1,79 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Air Show Team Waiver Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant name
+      hint: Full name for waiver record
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: team_name
+      label: Team name
+      hint: Name of the display team
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_date
+      label: Event date
+      hint: Date of performance
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: For emergencies during event
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: medical_conditions
+      label: Medical conditions or medications
+      hint: Relevant health information
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: liability_waiver_acknowledgement
+      label: Liability waiver acknowledgement
+      hint: Participant accepts the risk and waives liability
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: insurance_details
+      label: Insurance details
+      hint: Provider and policy number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: signature_date
+      label: Date signed
+      hint: Date the waiver was acknowledged
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: additional_notes
+      label: Additional notes for organizers
+      hint: Any special requests or safety concerns
+      type: text
+      options: []
+      required: false

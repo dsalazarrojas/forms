@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: SCBA Safety Assessment Survey
+    pages:
+    - id: 1
+      name: equipment_readiness
+      label: Equipment Readiness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: assessor_details
+      label: Assessor Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: inspections
+      label: Inspections
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: scba_unit
+      label: SCBA Unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: equipment_description
+      label: Equipment Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: assessor_name
+      label: Assessor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assessor_signature
+      label: Assessor Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: equipment_status
+      label: Equipment Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: inspection_time
+      label: Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: equipment_last_service
+      label: Equipment Last Service
+      hint: null
+      type: text
+      options: []
+      required: false

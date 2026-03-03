@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mini Mental State Examination (MMSE) Score Recording
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Female
+      - Male
+      - Other
+      required: false
+    - id: 5
+      name: marital_status
+      label: Marital Status
+      hint: null
+      type: select_multiple
+      options:
+      - Married
+      - Divorced
+      - Single
+      - Widow
+      - Other
+      required: false
+    - id: 6
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_one
+      options:
+      - Primary school
+      - High school
+      - College/University
+      - University/Postgraduate
+      - Other
+      required: false
+    - id: 7
+      name: cognitive_screening
+      label: Cognitive Screening
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: score_1
+      label: Score 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: score_2
+      label: Score 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: score_3
+      label: Score 3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: score_4
+      label: Score 4
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: score_5
+      label: Score 5
+      hint: null
+      type: number
+      options: []
+      required: false

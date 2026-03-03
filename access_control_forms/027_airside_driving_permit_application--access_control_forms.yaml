@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Airside Driving Permit Application
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID/Contractor ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employer_name
+      label: Employer/Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title/Role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_license
+      label: -- Driving License Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: state_driving_license_no
+      label: State Driving License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: license_expiry_date
+      label: License Expiry Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: license_categories
+      label: License Categories (Held)
+      hint: e.g. B, C, D
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_permit
+      label: -- Permit Application Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: application_type
+      label: Application Type
+      hint: null
+      type: select_one
+      options:
+      - Initial Application
+      - Renewal
+      - Replacement (Lost/Stolen)
+      - Category Upgrade
+      required: true
+    - id: 12
+      name: airside_areas_required
+      label: Airside Areas Requested
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Ramp/Apron only
+      - Perimeter Roads
+      - Taxiways
+      - Runways (Requires ATC clearance)
+      - Baggage Makeup Area
+      required: true
+    - id: 13
+      name: vehicle_types_operated
+      label: Vehicle Types to be Operated
+      hint: null
+      type: select_multiple
+      options:
+      - Light Vehicle (Car/Van)
+      - Tug/Tractor
+      - High Lift Loader
+      - Fuel Tanker
+      - Bus
+      - Fire/Emergency Vehicle
+      required: true
+    - id: 14
+      name: airside_training_completed
+      label: Date of Airside Driving Theory Training
+      hint: Must be within last 12 months
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: medical_fitness_confirmation
+      label: I confirm I am medically fit to operate vehicles airside
+      hint: null
+      type: select_one
+      options:
+      - I confirm
+      - Other
+      required: true
+    - id: 16
+      name: manager_approval_name
+      label: Authorizing Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: declaration_statement
+      label: I declare all information is correct and I will comply with airport driving
+        regulations
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true

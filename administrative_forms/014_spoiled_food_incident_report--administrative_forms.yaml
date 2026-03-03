@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spoiled Food Incident Report
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: food_type
+      label: Food Type
+      hint: null
+      type: select_one
+      options:
+      - Type A
+      - Type B
+      - Type C
+      required: false
+    - id: 3
+      name: storage_area
+      label: Storage Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: spoilage_date
+      label: Spoilage Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: investigation_notes
+      label: Investigation Notes
+      hint: null
+      type: text
+      options: []
+      required: false

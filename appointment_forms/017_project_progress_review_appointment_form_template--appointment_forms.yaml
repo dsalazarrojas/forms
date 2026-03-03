@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Progress Review Appointment Form Template
+    pages:
+    - id: 1
+      name: project_progress_review_appointment_form_template
+      label: review_request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: review_request_date
+      label: review_request_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: review_request_time
+      label: review_request_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: review_request_location
+      label: review_request_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: meeting_participants
+      label: meeting_participants
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: meeting_duration
+      label: meeting_duration
+      hint: null
+      type: number
+      options: []
+      required: false

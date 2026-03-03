@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Admission Checklist
+    pages:
+    - id: 1
+      name: camper_basic_info_header
+      label: -- Camper Admissions Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: camper_full_name_admission
+      label: Camper Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: camper_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: camper_grade_upcoming
+      label: Grade Entering (Next Fall)
+      hint: null
+      type: select_one
+      options:
+      - Grade 1
+      - Grade 2
+      - Grade 3
+      - Grade 4
+      - Grade 5
+      - Grade 6
+      - Grade 7
+      - Grade 8
+      - Grade 9
+      - Grade 10
+      - Grade 11
+      - Grade 12
+      required: true
+    - id: 5
+      name: emergency_contacts_header
+      label: -- Emergency Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_1_name
+      label: Primary Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact_1_phone
+      label: Primary Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact_1_relation
+      label: Relationship to Camper
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact_2_name
+      label: Secondary Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_2_phone
+      label: Secondary Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_info_header
+      label: -- Medical and Health Checklist --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: health_insurance_provider
+      label: Health Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: policy_holder_name
+      label: Policy Holder Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: medical_conditions_admission
+      label: Known Medical Conditions or Concerns
+      hint: e.g., Asthma, Diabetes, Heart conditions
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: allergic_reactions_admission
+      label: Known Allergies (Food, Environmental, Medication)
+      hint: Please list all with reaction types
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: routine_medications_camp
+      label: Routine Medications to be Taken at Camp
+      hint: Include dosage and schedule
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: dietary_needs_admission
+      label: Dietary Restrictions or Needs
+      hint: null
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Nut-Free
+      - Halal / Kosher
+      required: false
+    - id: 18
+      name: immunization_record_status
+      label: Status of Immunization Record
+      hint: null
+      type: select_one
+      options:
+      - Up to date - Uploaded
+      - Up to date - Bringing copy
+      - Exempt - Paperwork provided
+      required: true
+    - id: 19
+      name: permission_to_treat_admission
+      label: Permission to Treat Agreement
+      hint: I authorize medical staff to treat my child in case of emergency
+      type: select_one
+      options:
+      - I Consent
+      - Other
+      required: true
+    - id: 20
+      name: admissions_officer_initials
+      label: For Office Use - Initials
+      hint: null
+      type: text
+      options: []
+      required: false

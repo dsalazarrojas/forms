@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athletic League Registration Form
+    pages:
+    - id: 1
+      name: athlete_name
+      label: Athlete Name
+      hint: Full name of the athlete registering
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: age_group
+      label: Age Group
+      hint: Select the appropriate age division
+      type: select_one
+      options:
+      - U12
+      - U14
+      - U16
+      - U18
+      - Adult 18-25
+      - Adult 25-35
+      - Adult 35+
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Prefer Not to Say
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Your primary email for league communications
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Primary contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: sport
+      label: Sport
+      hint: Which sport are you registering for?
+      type: select_one
+      options:
+      - Baseball
+      - Basketball
+      - Football
+      - Soccer
+      - Volleyball
+      - Tennis
+      - Track and Field
+      - Other
+      required: true
+    - id: 8
+      name: team_preference
+      label: Team Preference
+      hint: Do you have a preferred team?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: position
+      label: Preferred Position
+      hint: Your preferred playing position
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: experience_level
+      label: Experience Level
+      hint: Your competitive experience
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Elite
+      required: true
+    - id: 11
+      name: previous_league
+      label: Previous League Participation
+      hint: Have you played in this league before?
+      type: select_one
+      options:
+      - Yes, Multiple Seasons
+      - Yes, One Season
+      - No, New
+      required: true
+    - id: 12
+      name: parent_guardian_name
+      label: Parent/Guardian Name
+      hint: Required if athlete is under 18
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: parent_email
+      label: Parent/Guardian Email
+      hint: Contact email for parent/guardian
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: parent_phone
+      label: Parent/Guardian Phone
+      hint: Contact phone for parent/guardian
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of person to contact in case of emergency
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: medical_conditions
+      label: Medical Conditions
+      hint: List any relevant medical conditions or allergies
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: registration_fee
+      label: Registration Fee
+      hint: League registration fee amount in USD
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: payment_status
+      label: Payment Status
+      hint: Status of registration fee payment
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      - Due at Check-in
+      required: true
+    - id: 20
+      name: waiver_signed
+      label: Waiver and Liability Release Signed
+      hint: I agree to the league liability waiver
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: parent_consent
+      label: Parent/Guardian Consent
+      hint: For athletes under 18 - parent consent required
+      type: select_one
+      options:
+      - I Consent
+      - Not Applicable
+      required: false

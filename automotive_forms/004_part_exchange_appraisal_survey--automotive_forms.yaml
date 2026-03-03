@@ -1,0 +1,74 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Part Exchange Appraisal Survey
+    pages:
+    - id: 1
+      name: vehicle_details
+      label: vehicle_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: owner_details
+      label: owner_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_condition
+      label: select_one
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Excellent'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Good'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Fair'', ''value'': 3}'
+      required: true
+    - id: 4
+      name: trade_in_reason
+      label: select_multiple
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Want to trade in for a new vehicle'', ''value'':
+        ''Want to trade in for a new vehicle''}'
+      - '{''id'': 2, ''label'': ''Want to sell the vehicle privately'', ''value'':
+        ''Want to sell the vehicle privately''}'
+      - '{''id'': 3, ''label'': ''Want to sell to another dealership'', ''value'':
+        ''Want to sell to another dealership''}'
+      required: false
+    - id: 5
+      name: appraiser_details
+      label: appraiser_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submission_details
+      label: submission_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_condition_note
+      label: vehicle_condition_note
+      hint: null
+      type: text
+      options: []
+      required: false

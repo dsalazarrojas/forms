@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Housing Investment Loan Application Form
+    pages:
+    - id: 1
+      name: applicant_info
+      label: Applicant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_info
+      label: Property Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: financial_info
+      label: Financial Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: loan_details
+      label: Loan Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: loan_term
+      label: Loan Term
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''3 years''}'
+      - '{''label'': ''5 years''}'
+      - '{''label'': ''10 years''}'
+      required: false
+    - id: 7
+      name: loan_type
+      label: Loan Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Primary Residence''}'
+      - '{''label'': ''Investment''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: applicant_employment_status
+      label: Employment Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Full-time''}'
+      - '{''label'': ''Part-time''}'
+      - '{''label'': ''Self-Employed''}'
+      required: false
+    - id: 9
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Single Family''}'
+      - '{''label'': ''Duplex''}'
+      - '{''label'': ''Townhouse''}'
+      - '{''label'': ''Condo''}'
+      required: false
+    - id: 10
+      name: loan_purpose
+      label: Loan Purpose
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Home Improvement''}'
+      - '{''label'': ''Debt Consolidation''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 11
+      name: applicant_income
+      label: Applicant Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: applicant_employer
+      label: Applicant Employer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: applicant_job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: applicant_years_of_employment
+      label: Years of Employment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: property_city
+      label: Property City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: property_state
+      label: Property State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: property_postal_code
+      label: Property Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: property_country
+      label: Property Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: property_purchase_price
+      label: Property Purchase Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: property_purchase_date
+      label: Property Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: property_value
+      label: Property Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: loan_amount_requested
+      label: Loan Amount Requested
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: loan_interest_rate
+      label: Loan Interest Rate
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''6.5%''}'
+      - '{''label'': ''7.5%''}'
+      - '{''label'': ''8.5%''}'
+      - '{''label'': ''9.5%''}'
+      - '{''label'': ''10.5%''}'
+      required: false
+    - id: 25
+      name: loan_term_years
+      label: Loan Term Years
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': 3}'
+      - '{''label'': 5}'
+      - '{''label'': 10}'
+      - '{''label'': 15}'
+      - '{''label'': 20}'
+      required: false

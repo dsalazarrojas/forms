@@ -1,0 +1,95 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Decision Review Application Form
+    pages:
+    - id: 1
+      name: application_form
+      label: Application form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: decision_requester
+      label: Decision Requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: decision_review_committee
+      label: Decision Review Committee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: decision_reviewer
+      label: Decision Reviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_request
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: decision_date
+      label: Decision Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_reviewer
+      label: Assigned Reviewer
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - john
+      - jenny
+      required: false
+    - id: 10
+      name: route_to_reviewer
+      label: Route to Reviewer
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - john
+      - jenny
+      required: false

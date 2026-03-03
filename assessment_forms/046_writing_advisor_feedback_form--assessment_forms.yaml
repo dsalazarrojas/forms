@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: writing-advisor-feedback-form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: What was your experience with your writing advisor?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rating_1
+      label: Rating
+      hint: Select a rating between 1 and 5
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 4
+      name: question_2
+      label: What did you find most helpful about your experience?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: question_3
+      label: What could be improved about your experience?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: question_4
+      label: Have you been able to accomplish your goals as a result of your experience
+        with the writing advisor?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: question_5
+      label: How likely are you to recommend the writing advisor to others?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: question_6
+      label: What other comments do you have?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

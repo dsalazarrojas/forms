@@ -1,0 +1,244 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Service Appointment Feedback Form
+    pages:
+    - id: 1
+      name: customer_information
+      label: -- CUSTOMER INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Your name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: visit_date
+      label: Date of service visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: service_details
+      label: -- SERVICE DETAILS --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: service_type
+      label: Type of service received
+      hint: null
+      type: select_one
+      options:
+      - Oil Change
+      - Tire Service
+      - Brake Service
+      - Engine Diagnostics
+      - Transmission Service
+      - Electrical
+      - Body Work
+      - Routine Maintenance
+      - Other
+      required: true
+    - id: 8
+      name: service_completed
+      label: Was your service completed as promised?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Partially
+      - false
+      required: true
+    - id: 9
+      name: completion_timeline
+      label: Service completed on scheduled date?
+      hint: null
+      type: select_one
+      options:
+      - On Time
+      - Earlier than Expected
+      - Late
+      - Not Completed
+      required: false
+    - id: 10
+      name: cost_expectations
+      label: Final cost matched the estimate?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Exact Match
+      - Yes - Within 10%
+      - No - Higher
+      - No - Lower
+      required: false
+    - id: 11
+      name: satisfaction_rating
+      label: -- SATISFACTION RATING --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: overall_satisfaction
+      label: Overall satisfaction with service
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 13
+      name: staff_professionalism
+      label: Staff professionalism and courtesy
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 14
+      name: communication_quality
+      label: Quality of communication about service
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 15
+      name: waiting_time
+      label: Waiting time for service
+      hint: null
+      type: select_one
+      options:
+      - Short
+      - Acceptable
+      - Longer than Expected
+      - Very Long
+      - Unacceptable
+      required: false
+    - id: 16
+      name: facility_cleanliness
+      label: Facility cleanliness and condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: false
+    - id: 17
+      name: quality_of_work
+      label: Quality of work performed
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 18
+      name: specific_feedback
+      label: -- SPECIFIC FEEDBACK --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: what_went_well
+      label: What went well during your visit?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: improvement_areas
+      label: Areas for improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: technician_name
+      label: Name of technician who served you
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: return_likelihood
+      label: Would you return for future service?
+      hint: null
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Unsure
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 23
+      name: recommend_likelihood
+      label: Would you recommend us to others?
+      hint: null
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Unsure
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 24
+      name: preferred_contact
+      label: May we contact you with follow-up?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Phone
+      - Yes - Email
+      - Yes - Text
+      - false
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional comments or suggestions
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Training Pre Assessment Survey
+    pages:
+    - id: 1
+      name: training_preassessment_survey
+      label: Training Pre-Assessment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: training_level
+      label: Training Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: training_level_hint
+      label: What level of training do you have?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: self_evaluation
+      label: Self-Evaluation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: evaluation_hint
+      label: Please enter a self-evaluation -
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: evaluation_score
+      label: Evaluation Score
+      hint: null
+      type: select_one
+      options:
+      - Unqualified
+      - Partially Qualified
+      - Qualified
+      - Highly Qualified
+      required: false
+    - id: 7
+      name: evaluation_score_hint
+      label: How would you evaluate your current level of training?
+      hint: null
+      type: select_multiple
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: false
+    - id: 8
+      name: areas_of_growth
+      label: Areas Of Growth
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: areas_of_growth_hint
+      label: What areas would you like to grow in?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: action_plans
+      label: Action Plans
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: action_plans_hint
+      label: What plans do you have to improve your skills?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: support_system
+      label: Support System
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: support_system_hint
+      label: What support system would you need to improve your skills?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: training_needs
+      label: Training Needs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: training_needs_hint
+      label: Do you feel you need additional training?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: training_recommendation
+      label: Training Recommendation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: training_recommendation_hint
+      label: Who would you recommend for training?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: additional_comments_hint
+      label: Please enter any additional comments -
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: completed_by
+      label: Completed By
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: completed_by_hint
+      label: Who completed this survey?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: completed_date
+      label: Completed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: completed_by_date
+      label: Completed By Date
+      hint: null
+      type: date
+      options: []
+      required: false

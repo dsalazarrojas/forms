@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: refund_tracker_form
+    pages:
+    - id: 1
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: refund_date
+      label: Refund Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: refund_status
+      label: Refund Status
+      hint: null
+      type: select_one
+      options:
+      - Processing
+      - Complete
+      - Pending
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - johndoe
+      - janesmith
+      required: false
+    - id: 8
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false

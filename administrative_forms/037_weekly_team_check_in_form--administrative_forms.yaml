@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weekly Team Check In Form
+    pages:
+    - id: 1
+      name: user
+      label: user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: challenges
+      label: challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: achievements
+      label: achievements
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: team_members
+      label: team members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

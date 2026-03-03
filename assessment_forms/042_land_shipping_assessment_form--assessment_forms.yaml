@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: land_shipping_assessment_form
+    pages:
+    - id: 1
+      name: shipping_details
+      label: Shipping Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping_service
+      label: Shipping Service
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: shipper_email
+      label: Shipper Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: shipper_phone
+      label: Shipper Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: shipper_notes
+      label: Shipper Notes
+      hint: null
+      type: note
+      options: []
+      required: false

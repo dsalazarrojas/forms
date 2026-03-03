@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: rv_loan_online_payment
+    pages:
+    - id: 1
+      name: rv_loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: loan_term
+      label: Loan Term
+      hint: null
+      type: select_one
+      options:
+      - '12'
+      - '24'
+      - '36'
+      - '60'
+      required: false
+    - id: 3
+      name: loan_rate
+      label: Loan Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Bank Draft
+      - Cash
+      - Credit Card
+      required: false
+    - id: 5
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: payment_time
+      label: Payment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: loan_status
+      label: Loan Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: false
+    - id: 8
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false

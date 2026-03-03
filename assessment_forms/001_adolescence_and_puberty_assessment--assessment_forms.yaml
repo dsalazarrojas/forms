@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adolescence And Puberty Assessment
+    pages:
+    - id: 1
+      name: section_general_info
+      label: -- General Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: age
+      label: Age
+      hint: Your current age
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_puberty_assessment
+      label: -- Puberty Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: knowledge_of_puberty
+      label: Knowledge of Puberty
+      hint: How much do you know about the changes happening during puberty?
+      type: select_one
+      options:
+      - Very knowledgeable
+      - Somewhat knowledgeable
+      - Neutral
+      - Little knowledge
+      - Not knowledgeable at all
+      required: true
+    - id: 7
+      name: physical_changes_noticed
+      label: Physical Changes Noticed
+      hint: Select all that apply to you
+      type: select_multiple
+      options:
+      - Growth spurt
+      - Skin changes
+      - Voice deepening
+      - Body hair growth
+      - Mood changes
+      required: false
+    - id: 8
+      name: concerns_or_questions
+      label: Concerns or Questions
+      hint: Is there anything you are worried about or want to ask?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_wellness_support
+      label: -- Wellness and Support --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: comfort_discussing_topics
+      label: Comfort Discussing Topics
+      hint: How comfortable are you talking about these changes?
+      type: select_one
+      options:
+      - Very comfortable
+      - Somewhat comfortable
+      - Neutral
+      - Uncomfortable
+      - Very uncomfortable
+      required: true
+    - id: 11
+      name: primary_support_person
+      label: Primary Support Person
+      hint: Who do you usually talk to about personal changes?
+      type: select_one
+      options:
+      - Parent
+      - Teacher
+      - Counselor
+      - Friend
+      - Other
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information you would like to share
+      type: text
+      options: []
+      required: false

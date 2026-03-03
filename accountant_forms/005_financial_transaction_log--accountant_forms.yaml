@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Transaction Log
+    pages:
+    - id: 1
+      name: transaction_date
+      label: Transaction Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: transaction_amount
+      label: Transaction Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: transaction_description
+      label: Transaction Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: transaction_type
+      label: Transaction Type
+      hint: null
+      type: select_multiple
+      options:
+      - Income
+      - Expense
+      - Payment
+      required: false
+    - id: 5
+      name: transaction_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Salary
+      - Bills
+      - Investments
+      - Other
+      required: false
+    - id: 6
+      name: transaction_subcategory
+      label: Subcategory
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: transaction_currency
+      label: Transaction CurrencychartInstance -ประก
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - CNY
+      - JPY
+      required: false
+    - id: 8
+      name: transaction_ref
+      label: Transaction Ref
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: transaction_notes
+      label: Transaction Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: false

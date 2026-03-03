@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tire Contact Patch Measurement Form
+    pages:
+    - id: 1
+      name: page_1
+      label: Page 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page_2
+      label: Tire Information
+      hint: null
+      type: select_one
+      options:
+      - tire_type
+      - tire_size
+      - tire_speed
+      required: false
+    - id: 3
+      name: page_2_tire_type
+      label: Tire Type
+      hint: Select a tire type
+      type: select_multiple
+      options:
+      - Standard
+      - P-Metric
+      - P-Metric P1
+      - P-Metric P2
+      - P-Metric P3
+      required: false
+    - id: 4
+      name: page_2_tire_size
+      label: Tire Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Standard
+      - Large
+      - Extra Large
+      required: false
+    - id: 5
+      name: page_2_tire_speed
+      label: Tire Speed
+      hint: null
+      type: select_one
+      options:
+      - Low Speed
+      - High Speed
+      required: false
+    - id: 6
+      name: page_3
+      label: Page 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: page_3_measurement_1
+      label: Measurement 1
+      hint: Enter a value
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: page_3_measurement_2
+      label: Measurement 2
+      hint: Enter a value
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: page_4
+      label: Page 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: page_4_measurement_1
+      label: Measurement 1
+      hint: Enter a value
+      type: date
+      options: []
+      required: false

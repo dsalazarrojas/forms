@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Timesheet Checklist Form
+    pages:
+    - id: 1
+      name: employee_work_hours
+      label: employee_work_hours
+      hint: null
+      type: select_multiple
+      options:
+      - Hours worked on Monday
+      - Hours worked on Tuesday
+      - Hours worked on Wednesday
+      - Hours worked on Thursday
+      - Hours worked on Friday
+      - Hours worked on Saturday
+      - Hours worked on Sunday
+      required: false
+    - id: 2
+      name: total_employees
+      label: total_employees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: employee_attendance
+      label: employee_attendance
+      hint: null
+      type: select_one
+      options:
+      - Absent
+      - Late
+      - Present
+      - On leave
+      required: false
+    - id: 4
+      name: employee_overtime
+      label: employee_overtime
+      hint: null
+      type: select_one
+      options:
+      - Less than 2 hours
+      - Between 2-10 hours
+      - More than 10 hours
+      required: false

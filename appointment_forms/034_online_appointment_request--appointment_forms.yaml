@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Appointment Request
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: treatment_1
+      label: Treatment 1
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: treatment_2
+      label: Treatment 2
+      hint: null
+      type: select_one
+      options:
+      - Option 4
+      - Option 5
+      - Option 6
+      required: false
+    - id: 6
+      name: appointment_1
+      label: Date 1
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: appointment_2
+      label: Time 1
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: appointment_3
+      label: Date 2
+      hint: null
+      type: date
+      options: []
+      required: false

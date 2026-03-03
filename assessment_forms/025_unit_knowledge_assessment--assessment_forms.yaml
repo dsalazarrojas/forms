@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: unit_knowledge_assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: What is your confidence about this unit?
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 2
+      name: question_1
+      label: How well do you understand the unit?
+      hint: null
+      type: select_multiple
+      options:
+      - Very well
+      - Well
+      - Not well
+      required: false
+    - id: 3
+      name: reflection_1
+      label: Can you reflect on what you learned about this unit?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: question_2
+      label: What would you do if you were in charge?
+      hint: null
+      type: select_multiple
+      options:
+      - A
+      - B
+      - C
+      - D
+      required: false
+    - id: 5
+      name: confidence_1
+      label: How confident are you about this unit?
+      hint: null
+      type: number
+      options: []
+      required: false

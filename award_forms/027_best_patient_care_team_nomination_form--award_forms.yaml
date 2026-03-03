@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Best Patient Care Team Nomination Form
+    pages:
+    - id: 1
+      name: nominator_info_header
+      label: -- Nominator Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: nominator_full_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: nominator_relationship
+      label: Your Relationship to the Team
+      hint: How do you know the work of this team
+      type: select_one
+      options:
+      - Patient
+      - Patient Family Member
+      - Colleague or Staff Member
+      - Management or Administration
+      - Other
+      required: true
+    - id: 4
+      name: nominator_email_addr
+      label: Your Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: nominator_phone_number
+      label: Your Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: team_nominee_info_header
+      label: -- Team Nominee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: team_department_name
+      label: Team or Department Name
+      hint: The official name of the care team
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: facility_ward_name
+      label: Primary Facility or Ward
+      hint: Where is this team located
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: team_lead_name
+      label: Name of Team Lead
+      hint: Optional - if known
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: performance_ratings_header
+      label: -- Performance Evaluation --
+      hint: Rate from 1 (Needs Improvement) to 5 (Outstanding)
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: compassion_rating_score
+      label: Compassion and Empathy
+      hint: Quality of interpersonal care
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 12
+      name: professionalism_rating_score
+      label: Professionalism and Medical Skills
+      hint: Expertise and conduct
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 13
+      name: communication_clarity_rating
+      label: Communication and Clarity
+      hint: How well do they explain information
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 14
+      name: teamwork_rating_score
+      label: Teamwork and Coordination
+      hint: How well do they work together
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 15
+      name: responsiveness_rating_score
+      label: Responsiveness and Timeliness
+      hint: How quickly do they attend to needs
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 16
+      name: detailed_nomination_header
+      label: -- Detailed Nomination --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: exceptional_care_instance
+      label: Describe a specific instance where this team provided exceptional care
+      hint: Detailed story or observation
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: team_differentiation_desc
+      label: What makes this team stand out from others
+      hint: Unique qualities or strengths
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: impact_on_outcomes_desc
+      label: How has this team's work impacted patient experience or health
+      hint: Results or feelings shared by patients
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: win_justification_detailed
+      label: Why should this team win the Best Patient Care Team Award
+      hint: Summarize your nomination
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: final_details_header
+      label: -- Final Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: care_experience_date
+      label: Approximate Date of Care Experience
+      hint: When did this happen
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: nomination_final_date_stamp
+      label: Date of Nomination
+      hint: null
+      type: date
+      options: []
+      required: true

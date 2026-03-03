@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Make An Appointment Request
+    pages:
+    - id: 1
+      name: appointment_request
+      label: make-an-appointment-request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: appointment_date
+      label: appointment-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: appointment_time
+      label: appointment-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: appointment_day
+      label: appointment-day
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: appointment_time_range
+      label: appointment-time-range
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: appointment_repeat
+      label: appointment-repeat
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: appointment_note
+      label: appointment-note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: true

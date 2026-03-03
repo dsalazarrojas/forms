@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: School T Shirt Order Form
+    pages:
+    - id: 1
+      name: order_details
+      label: order_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shipping_details
+      label: shipping_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: t_shirt_size
+      label: t_shirt_size
+      hint: null
+      type: select_one
+      options:
+      - xsmall
+      - small
+      - medium
+      - large
+      - xlarge
+      required: false
+    - id: 5
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - online_payment
+      - offline_payment
+      required: false
+    - id: 6
+      name: order_notes
+      label: order_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - paid
+      - unpaid
+      required: false
+    - id: 8
+      name: t_shirt_color
+      label: t_shirt_color
+      hint: null
+      type: select_one
+      options:
+      - red
+      - blue
+      - yellow
+      - green
+      - black
+      - white
+      required: false
+    - id: 9
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false

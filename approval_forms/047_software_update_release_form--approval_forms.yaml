@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Software Update Release Form
+    pages:
+    - id: 1
+      name: planned_release
+      label: Planned Release
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: release_notes
+      label: Release Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: release_version
+      label: Release Version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: release_type
+      label: Release Type
+      hint: null
+      type: select_one
+      options:
+      - Release
+      - Patch
+      - Hotfix
+      required: true
+    - id: 7
+      name: it_contact
+      label: IT Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: product_contact
+      label: Product Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: release_status
+      label: Release Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: true
+    - id: 11
+      name: release_approvals
+      label: Release Approvals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: approval_note
+      label: Approval Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: release_number
+      label: Release Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: release_name
+      label: Release Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: release_date_time
+      label: Release Date/Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: release_time_zone
+      label: Release Time Zone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: release_notes_who
+      label: Release Notes Who
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: release_notes_what
+      label: Release Notes What
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: release_notes_where
+      label: Release Notes Where
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: release_notes_when
+      label: Release Notes When
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: release_notes_why
+      label: Release Notes Why
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: release_notes_comment
+      label: Release Notes Comments
+      hint: null
+      type: text
+      options: []
+      required: false

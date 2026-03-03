@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Executive Function Assessment Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: score_0
+      label: rating for self
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: score_1
+      label: rating for self
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: score_2
+      label: rating for self
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: score_3
+      label: rating for self
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: score_4
+      label: rating for self
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: selected_item_0
+      label: selected item 0
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''11-0'', ''label'': ''option 1'', ''value'': 1}'
+      - '{''id'': ''11-1'', ''label'': ''option 2'', ''value'': 2}'
+      required: false
+    - id: 12
+      name: selected_item_1
+      label: selected item 1
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''12-0'', ''label'': ''option 1'', ''value'': 1}'
+      - '{''id'': ''12-1'', ''label'': ''option 2'', ''value'': 2}'
+      required: false
+    - id: 13
+      name: start_time
+      label: start time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: end_time
+      label: end time
+      hint: null
+      type: time
+      options: []
+      required: true

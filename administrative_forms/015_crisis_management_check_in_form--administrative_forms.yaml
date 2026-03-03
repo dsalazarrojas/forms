@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: emergency_details
+      label: emergency_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_lead
+      label: team_lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: team_members
+      label: team_members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: location
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: incident_description
+      label: incident_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_time
+      label: incident_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: incident_date
+      label: incident_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: emergency_status
+      label: emergency_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: status_update
+      label: status_update
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: team_response
+      label: team_response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: incident_type
+      label: incident_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: team_status
+      label: team_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clothing Purchase Invoice
+    pages:
+    - id: 1
+      name: invoice_number
+      label: Invoice Number
+      hint: Unique invoice identifier
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: invoice_date
+      label: Invoice Date
+      hint: Date of invoice generation
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: section_customer
+      label: -- Customer Information --
+      hint: Details of the customer
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: customer_name
+      label: Customer Name
+      hint: Full name of customer
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_email
+      label: Email Address
+      hint: Customer email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: customer_phone
+      label: Phone Number
+      hint: Customer contact number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_billing
+      label: -- Billing Address --
+      hint: Billing location
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: billing_address
+      label: Billing Address
+      hint: Full address for billing
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: billing_city_state
+      label: City, State, Zip Code
+      hint: Location details
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: billing_country
+      label: Country
+      hint: Country of billing address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_shipping
+      label: -- Shipping Address --
+      hint: Delivery location details
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: shipping_address
+      label: Shipping Address
+      hint: Where to deliver order
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: shipping_city_state
+      label: City, State, Zip Code
+      hint: Delivery location details
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: shipping_country
+      label: Country
+      hint: Shipping destination country
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: section_items
+      label: -- Item Details --
+      hint: Products purchased
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: item_description
+      label: Item Description
+      hint: Name and details of clothing item
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: item_size
+      label: Size
+      hint: Size of the item
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: item_colour
+      label: Colour
+      hint: Colour of the item
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: item_quantity
+      label: Quantity
+      hint: Number of items
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: unit_price
+      label: Unit Price
+      hint: Price per item
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: line_amount
+      label: Line Amount
+      hint: Quantity times unit price
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: section_totals
+      label: -- Order Totals --
+      hint: Cost summary
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: subtotal
+      label: Subtotal
+      hint: Total before tax and shipping
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: tax_amount
+      label: Tax Amount
+      hint: Sales tax or VAT
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: shipping_cost
+      label: Shipping Cost
+      hint: Delivery charge
+      type: number
+      options: []
+      required: true

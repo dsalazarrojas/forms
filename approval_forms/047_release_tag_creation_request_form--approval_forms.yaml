@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Release Tag Creation Request Form
+    pages:
+    - id: 1
+      name: release_tag_creation_request_form
+      label: release_tag_creation_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: environment
+      label: environment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: release_tag_name
+      label: release_tag_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: release_tag_version
+      label: release_tag_version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: approver
+      label: approver
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: approver_email
+      label: approver_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: request_form_id
+      label: request_form_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: request_form_status
+      label: request_form_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: release_tag_status
+      label: release_tag_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

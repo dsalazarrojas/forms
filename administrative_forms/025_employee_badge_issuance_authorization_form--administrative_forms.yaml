@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Badge Issuance Authorization Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: employee-name
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: badge_type
+      label: badge-type
+      hint: 'null'
+      type: select_one
+      options:
+      - badge_type_1
+      - badge_type_2
+      required: true
+    - id: 3
+      name: employee_id
+      label: employee-id
+      hint: 'null'
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: department
+      hint: 'null'
+      type: select_multiple
+      options:
+      - department_1
+      - department_2
+      - department_3
+      required: false
+    - id: 5
+      name: approval_level
+      label: approval-level
+      hint: 'null'
+      type: select_one
+      options:
+      - approval_level_1
+      - approval_level_2
+      required: false
+    - id: 6
+      name: start_date
+      label: start-date
+      hint: 'null'
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: end-date
+      hint: 'null'
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: note
+      hint: 'null'
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: 'null'
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: assigned-tool
+      hint: 'null'
+      type: select_one
+      options:
+      - assigned_tool_1
+      - assigned_tool_2
+      required: false

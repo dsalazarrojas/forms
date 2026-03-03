@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mileage Reimbursement Verification Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: mileage_date
+      label: Mileage Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: mileage_start_location
+      label: Starting Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: mileage_end_location
+      label: End Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: mileage_distance
+      label: Mileage Distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: mileage_odometer_reading
+      label: Odometer Reading
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: mileage_rate
+      label: Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: mileage_currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - CAD
+      required: false
+    - id: 9
+      name: mileage_expenses
+      label: Expenses
+      hint: null
+      type: select_multiple
+      options:
+      - Meals
+      - Hotel
+      - Parking
+      - Fuel
+      required: false
+    - id: 10
+      name: mileage_proof_attachment
+      label: Proof Attachment
+      hint: Attach proof of expenses
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: mileage_notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: user_confirmation
+      label: Confirm
+      hint: Confirm user details
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: form_confirmation
+      label: Confirm
+      hint: Confirm form details
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Assigned Tool
+      - Form Generator
+      required: false
+    - id: 17
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Admin
+      required: false
+    - id: 19
+      name: approved_on
+      label: Approved On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: form_status
+      label: Form Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      required: false
+    - id: 22
+      name: submission_id
+      label: Submission ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

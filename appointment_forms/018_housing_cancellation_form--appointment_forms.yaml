@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Housing Cancellation Form
+    pages:
+    - id: 1
+      name: cancellation_reason
+      label: What is your reason for cancelling
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: agreement_type
+      label: Type of agreement
+      hint: null
+      type: select_one
+      options:
+      - Apartment
+      - Lease
+      - Roommate
+      - Others
+      required: false
+    - id: 3
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: cancellation_request_date
+      label: Cancellation request date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: notice_period
+      label: notice_period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: notice_address
+      label: notice_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_note
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contact_date
+      label: contact_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: contact_other
+      label: other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: notice_period_days
+      label: notice_days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: contact_city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false

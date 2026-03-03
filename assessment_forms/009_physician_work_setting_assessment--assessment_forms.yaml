@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physician Work Setting Assessment
+    pages:
+    - id: 1
+      name: physician_work_setting_assessment_page1
+      label: Physician Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: work_setting
+      label: work setting
+      hint: null
+      type: select_one
+      options:
+      - Hospital
+      - Clinic
+      - Ambulatory Surgery
+      - Office
+      - Other
+      required: true
+    - id: 3
+      name: work_hours
+      label: work hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: work_hours_holiday
+      label: work hours on holidays
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: work_settings_urgency
+      label: work settings urgency
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 6
+      name: other_work_settings
+      label: other work settings
+      hint: null
+      type: select_multiple
+      options:
+      - Other 1
+      - Other 2
+      - Other 3
+      required: false
+    - id: 7
+      name: work_setting_other
+      label: other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: work_environment
+      label: work environment
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 9
+      name: patient_flow
+      label: patient flow
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 10
+      name: work_setting_other_urgency
+      label: work setting other urgency
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 11
+      name: physician_workload
+      label: physician workload
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 12
+      name: prophets
+      label: Prophets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: physician_work_setting_other
+      label: physician work setting other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: work_hours_onsunday
+      label: work hours on sunday
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: work_hours_on_monday
+      label: work hours on monday
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: work_hours_on_tuesday
+      label: work hours on tuesday
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: work_hours_on_wednesday
+      label: work hours on wednesday
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: work_hours_on_thursday
+      label: work hours on thursday
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: work_hours_on_friday
+      label: work hours on friday
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: work_hours_on_saturday
+      label: work hours on saturday
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: work_hours_on_sunday
+      label: work hours on sunday
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: work_setting_urgency
+      label: work setting urgency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: work_setting_description
+      label: work setting description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: other_work_setting_description
+      label: other work setting description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: physician_work_setting_comments
+      label: physician work setting comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Streaming Strategy Assessment
+    pages:
+    - id: 1
+      name: streaming_strategy_assessment
+      label: Streaming Strategy Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: streamer_name
+      label: Streamer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: streamer_email
+      label: Streamer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: streamer_phone
+      label: Streamer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: streaming_frequency
+      label: Streaming Frequency
+      hint: How often do you stream?
+      type: select_one
+      options:
+      - Less than weekly
+      - Weekly
+      - Biweekly
+      - Monthly
+      required: true
+    - id: 6
+      name: streaming_frequency_time
+      label: Streaming Frequency Time
+      hint: What time of day do you most often stream?
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Late Night
+      required: true
+    - id: 7
+      name: streaming_goals
+      label: Streaming Goals
+      hint: What are you trying to achieve through streaming?
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: streaming_challenges
+      label: Streaming Challenges
+      hint: What challenges do you face while streaming?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: content_planning
+      label: Content Planning
+      hint: How do you plan your content?
+      type: select_one
+      options:
+      - Thorough
+      - Spontaneous
+      required: true
+    - id: 10
+      name: performance_improvement
+      label: Performance Improvements
+      hint: What improvements would you like to see in your streaming performance?
+      type: text
+      options: []
+      required: false

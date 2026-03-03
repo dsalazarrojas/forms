@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Daily Readiness Assessment
+    pages:
+    - id: 1
+      name: athlete_name
+      label: Athlete Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: athlete_id
+      label: Athlete ID Number
+      hint: Student or team identification number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: assessment_date
+      label: Assessment Date
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: assessment_time
+      label: Assessment Time
+      hint: Time of assessment
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: sport
+      label: Sport
+      hint: Primary sport
+      type: select_one
+      options:
+      - Football
+      - Basketball
+      - Soccer
+      - Track and Field
+      - Swimming
+      - Volleyball
+      - Baseball
+      - Softball
+      - Tennis
+      - Other
+      required: true
+    - id: 6
+      name: sleep_quality
+      label: Sleep Quality Last Night
+      hint: Rate your sleep quality
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: true
+    - id: 7
+      name: sleep_hours
+      label: Hours of Sleep
+      hint: Number of hours slept last night
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: muscle_soreness
+      label: Muscle Soreness Level
+      hint: Rate your current muscle soreness
+      type: select_one
+      options:
+      - None
+      - Mild
+      - Moderate
+      - Severe
+      - Very Severe
+      required: true
+    - id: 9
+      name: energy_level
+      label: Energy Level
+      hint: Rate your current energy level
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Moderate
+      - Low
+      - Very Low
+      required: true
+    - id: 10
+      name: motivation_level
+      label: Motivation Level
+      hint: How motivated do you feel to train today
+      type: select_one
+      options:
+      - Very Motivated
+      - Motivated
+      - Neutral
+      - Unmotivated
+      - Very Unmotivated
+      required: true
+    - id: 11
+      name: stress_level
+      label: Stress Level
+      hint: Rate your current stress level
+      type: select_one
+      options:
+      - None
+      - Low
+      - Moderate
+      - High
+      - Very High
+      required: true
+    - id: 12
+      name: pain_areas
+      label: Areas of Pain or Discomfort
+      hint: Select any areas experiencing pain
+      type: select_multiple
+      options:
+      - Head
+      - Neck
+      - Shoulders
+      - Back
+      - Hips
+      - Knees
+      - Ankles
+      - Feet
+      - None
+      required: true
+    - id: 13
+      name: hydration_status
+      label: Hydration Status
+      hint: How hydrated do you feel
+      type: select_one
+      options:
+      - Well Hydrated
+      - Adequately Hydrated
+      - Slightly Dehydrated
+      - Dehydrated
+      - Very Dehydrated
+      required: true
+    - id: 14
+      name: nutrition_status
+      label: Nutrition Status
+      hint: How would you rate your nutrition today
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 15
+      name: illness_symptoms
+      label: Any Illness Symptoms
+      hint: Are you experiencing any illness symptoms
+      type: select_one
+      options:
+      - None
+      - Mild Cold Symptoms
+      - Fever
+      - Respiratory Issues
+      - Gastrointestinal Issues
+      - Other
+      required: true
+    - id: 16
+      name: readiness_score
+      label: Overall Readiness Score
+      hint: Rate your overall readiness to train from 1 to 10
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: training_modification_needed
+      label: Training Modification Needed
+      hint: Do you feel you need modified training today
+      type: select_one
+      options:
+      - No - Full Training
+      - Yes - Light Intensity
+      - Yes - Reduced Volume
+      - Yes - Skip Certain Exercises
+      - Yes - Complete Rest
+      required: true
+    - id: 18
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other factors affecting your readiness
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: coach_review
+      label: Coach Review Required
+      hint: Does this assessment require coach review
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

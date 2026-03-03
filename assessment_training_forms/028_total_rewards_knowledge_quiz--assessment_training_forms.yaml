@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Total Rewards Knowledge Quiz
+    pages:
+    - id: 1
+      name: compensation
+      label: What is total compensation?
+      hint: null
+      type: select_multiple
+      options:
+      - Base pay
+      - Bonus and incentives
+      - Stock options
+      - Other benefits
+      - Total
+      required: false
+    - id: 2
+      name: benefits
+      label: What are some examples of employee benefits?
+      hint: null
+      type: select_multiple
+      options:
+      - Health insurance
+      - Dental insurance
+      - Vision insurance
+      - Retirement plans
+      - Other benefits
+      required: false
+    - id: 3
+      name: prophets
+      label: What are some examples of employee benefits?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: recognition
+      label: What is employee recognition?
+      hint: null
+      type: select_one
+      options:
+      - Monetary rewards
+      - Non-monetary rewards
+      - Both
+      - No recognition
+      required: false
+    - id: 5
+      name: benefits_frequencies
+      label: How often do you receive employee benefits?
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Semimonthly
+      - Annually
+      - Irregularly
+      required: false
+    - id: 6
+      name: rewards_tiers
+      label: What are the reward tiers for employee benefits?
+      hint: null
+      type: select_one
+      options:
+      - One-time
+      - Tiered
+      required: false
+    - id: 7
+      name: rewards_frequency_f
+      label: Frequency of Rewards
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-Monthly
+      - Annually
+      - Irregularly
+      required: false
+    - id: 8
+      name: total_revenue
+      label: What is the total revenue of the company?
+      hint: null
+      type: number
+      options: []
+      required: false

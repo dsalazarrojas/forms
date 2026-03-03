@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: Afterpay Cosmetics Order Form
+    pages:
+    - id: 1
+      name: customer_full_name
+      label: Customer Full Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: Enter your email for order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: Enter your phone number for delivery updates
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: shipping_address
+      label: Shipping Address
+      hint: Enter the complete address for delivery
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: billing_address_same_as_shipping
+      label: Billing Address Same as Shipping
+      hint: Is your billing address the same as your shipping address?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: billing_address
+      label: Billing Address
+      hint: Enter the complete billing address if different from shipping
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: skin_type_header
+      label: -- Skin Type and Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: skin_type
+      label: Skin Type
+      hint: What is your skin type?
+      type: select_one
+      options:
+      - Normal
+      - Oily
+      - Dry
+      - Combination
+      - Sensitive
+      required: true
+    - id: 9
+      name: skin_concerns
+      label: Skin Concerns
+      hint: Select any skin concerns you'd like to address
+      type: select_multiple
+      options:
+      - Acne
+      - Aging
+      - Dark Spots
+      - Dryness
+      - Sensitivity
+      - Large Pores
+      - Dullness
+      - None
+      required: false
+    - id: 10
+      name: cosmetic_items_header
+      label: -- Cosmetic Items --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: product_category
+      label: Product Category
+      hint: Select the type of cosmetic product you're interested in
+      type: select_one
+      options:
+      - Skincare
+      - Makeup
+      - Hair Care
+      - Fragrance
+      - Body Care
+      - Tools/Brushes
+      - Other
+      required: true
+    - id: 12
+      name: specific_product_name
+      label: Specific Product Name
+      hint: Enter the name of the specific product you want to order
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: product_brand
+      label: Preferred Brand
+      hint: Enter the brand of the product you're looking for
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: product_variant
+      label: Product Variant
+      hint: Specify color, shade, scent, or other variant if applicable
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: quantity
+      label: Quantity
+      hint: How many units would you like to order?
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: allergies_sensitivities
+      label: Allergies or Sensitivities
+      hint: Do you have any allergies or sensitivities to cosmetic ingredients?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: shipping_preference
+      label: Shipping Preference
+      hint: Select your preferred shipping method
+      type: select_one
+      options:
+      - Standard (5-7 business days)
+      - Express (2-3 business days)
+      - Priority (1-2 business days)
+      - Store Pickup
+      required: true
+    - id: 18
+      name: payment_method
+      label: Payment Method
+      hint: Select Afterpay as your payment method
+      type: select_one
+      options:
+      - Afterpay (Buy Now, Pay Later)
+      - Credit Card
+      - Debit Card
+      - PayPal
+      required: true
+    - id: 19
+      name: terms_agreement
+      label: Terms Agreement
+      hint: Do you agree to the store's terms and Afterpay conditions?
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: travel_start_date
+      label: travel_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: travel_end_date
+      label: travel_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: travel_type
+      label: travel_type
+      hint: null
+      type: select_one
+      options:
+      - Domestic
+      - International
+      required: true
+    - id: 4
+      name: travel_destination
+      label: travel_destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: travel_mode
+      label: travel_mode
+      hint: null
+      type: select_multiple
+      options:
+      - Flight
+      - Train
+      - Car
+      required: false
+    - id: 6
+      name: travel_participants
+      label: travel_participants
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: travel_cost
+      label: travel_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: travel_notes
+      label: travel_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false

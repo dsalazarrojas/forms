@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Request Approval Form
+    pages:
+    - id: 1
+      name: travel_request_form
+      label: Travel Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: approver
+      label: Approver
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1001, ''name'': ''John Doe''}'
+      - '{''id'': 1002, ''name'': ''Jane Doe''}'
+      - '{''id'': 1003, ''name'': ''Joe Smith''}'
+      required: false
+    - id: 3
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: travel_time
+      label: Travel Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: start_location
+      label: Start Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: end_location
+      label: End Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: travel_reason
+      label: Travel Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: travel_duration
+      label: Travel Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: travel_type
+      label: Travel Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1004, ''name'': ''Business''}'
+      - '{''id'': 1005, ''name'': ''Personal''}'
+      - '{''id'': 1006, ''name'': ''Both''}'
+      required: false
+    - id: 10
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: return_time
+      label: Return Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: return_location
+      label: Return Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: return_reason
+      label: Return Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: return_type
+      label: Return Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1007, ''name'': ''Hotel''}'
+      - '{''id'': 1008, ''name'': ''Flight''}'
+      - '{''id'': 1009, ''name'': ''Train''}'
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: travel_budget
+      label: Travel Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: approval_time
+      label: Approval Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: approver_notes
+      label: Approver Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1010, ''name'': ''Pending''}'
+      - '{''id'': 1011, ''name'': ''Approved''}'
+      - '{''id'': 1012, ''name'': ''Rejected''}'
+      required: false
+    - id: 23
+      name: assigned_user_id
+      label: Assigned User ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: assigned_user_name
+      label: Assigned User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_user_email
+      label: Assigned User Email
+      hint: null
+      type: text
+      options: []
+      required: false

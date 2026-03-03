@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Luxury Car Rental Quotation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rental_date
+      label: Rental Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: rental_time
+      label: Rental Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: desired_rental_length
+      label: Desired Rental Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: car_type
+      label: Car Type
+      hint: null
+      type: select_one
+      options:
+      - Luxury Car
+      - Economy Car
+      - SUV
+      required: false
+    - id: 9
+      name: insurance_type
+      label: Insurance Type
+      hint: null
+      type: select_multiple
+      options:
+      - Optional
+      - Required
+      - Not Applicable
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Luxury Car
+      - Economy Car
+      - SUV
+      required: false
+    - id: 12
+      name: form_id
+      label: Form ID
+      hint: 88118
+      type: text
+      options: []
+      required: false

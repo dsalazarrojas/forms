@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Office Hours Form
+    pages:
+    - id: 1
+      name: schedule_appointment
+      label: Schedule Appointment
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''10:00 AM''}'
+      - '{''label'': ''10:30 AM''}'
+      - '{''label'': ''11:00 AM''}'
+      - '{''label'': ''11:30 AM''}'
+      - '{''label'': ''12:00 PM''}'
+      - '{''label'': ''12:30 PM''}'
+      - '{''label'': ''1:00 PM''}'
+      - '{''label'': ''1:30 PM''}'
+      - '{''label'': ''2:00 PM''}'
+      - '{''label'': ''2:30 PM''}'
+      - '{''label'': ''3:00 PM''}'
+      - '{''label'': ''3:30 PM''}'
+      required: false
+    - id: 2
+      name: reason_for_visit
+      label: reason_for_visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: schedule_time
+      label: schedule_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: selected_time
+      label: selected_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_visit
+      label: reason_for_visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_id
+      label: student_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: professor_id
+      label: professor_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: meeting_duration
+      label: meeting_duration
+      hint: null
+      type: number
+      options: []
+      required: false

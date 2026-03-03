@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: office_software_proficiency_assessment
+    pages:
+    - id: 1
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: office_software_proficiency_assessment
+      label: Office Software Proficiency Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: software_proficiency_assessment
+      label: Software Proficiency Assessment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: office_software_proficiency
+      label: Office Software Proficiency
+      hint: null
+      type: select_one
+      options:
+      - Software
+      - Office
+      - Application
+      - Proficiency
+      required: false
+    - id: 5
+      name: office_software_skills
+      label: Office Software Skills
+      hint: null
+      type: select_one
+      options:
+      - Software
+      - Office
+      - Application
+      - Skills
+      - Microsoft
+      - Word
+      - Excel
+      - Outlook
+      - Access
+      required: false
+    - id: 6
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: software_skills_assessment
+      label: Software Skills Assessment
+      hint: null
+      type: select_one
+      options:
+      - Office
+      - Software
+      - Application
+      - Skills
+      - Proficiency
+      required: false
+    - id: 8
+      name: office_software_proficiency_2
+      label: Office Software Proficiency 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: office_software_proficiency_3
+      label: Office Software Proficiency 3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: office_software_proficiency_4
+      label: Office Software Proficiency 4
+      hint: null
+      type: text
+      options: []
+      required: false

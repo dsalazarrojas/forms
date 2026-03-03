@@ -1,0 +1,236 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Punch List
+    pages:
+    - id: 1
+      name: punch_list_date
+      label: Punch List Date
+      hint: Date punch list is created
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: project_name
+      label: Project Name
+      hint: Name of construction project
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_address
+      label: Project Address
+      hint: Full site address
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: project_number
+      label: Project Number
+      hint: Project reference number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: general_contractor
+      label: General Contractor
+      hint: Primary contractor company
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: client_name
+      label: Client Name
+      hint: Project owner or client
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: prepared_by
+      label: Prepared By
+      hint: Name of person creating punch list
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: punch_item_1_location
+      label: Item 1 Location
+      hint: Where is the first issue located
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: punch_item_1_description
+      label: Item 1 Description
+      hint: Describe the issue or deficiency
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: punch_item_1_trade
+      label: Item 1 Trade Responsible
+      hint: Which trade should fix this
+      type: select_one
+      options:
+      - General
+      - Carpentry
+      - Electrical
+      - Plumbing
+      - HVAC
+      - Painting
+      - Flooring
+      - Drywall
+      - Roofing
+      - Other
+      required: true
+    - id: 11
+      name: punch_item_1_priority
+      label: Item 1 Priority
+      hint: How urgent is this item
+      type: select_one
+      options:
+      - Critical
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 12
+      name: punch_item_1_status
+      label: Item 1 Status
+      hint: Current status
+      type: select_one
+      options:
+      - Open
+      - In Progress
+      - Completed
+      - Not Applicable
+      required: true
+    - id: 13
+      name: punch_item_2_location
+      label: Item 2 Location
+      hint: Where is this issue located
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: punch_item_2_description
+      label: Item 2 Description
+      hint: Describe the issue
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: punch_item_2_trade
+      label: Item 2 Trade Responsible
+      hint: Which trade should fix this
+      type: select_one
+      options:
+      - General
+      - Carpentry
+      - Electrical
+      - Plumbing
+      - HVAC
+      - Painting
+      - Flooring
+      - Drywall
+      - Roofing
+      - Other
+      required: false
+    - id: 16
+      name: punch_item_2_priority
+      label: Item 2 Priority
+      hint: Priority level
+      type: select_one
+      options:
+      - Critical
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 17
+      name: punch_item_2_status
+      label: Item 2 Status
+      hint: Current status
+      type: select_one
+      options:
+      - Open
+      - In Progress
+      - Completed
+      - Not Applicable
+      required: false
+    - id: 18
+      name: additional_items
+      label: Additional Punch List Items
+      hint: Describe any other items needing attention
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: total_items_count
+      label: Total Number of Items
+      hint: Count of all punch list items
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: completion_deadline
+      label: Completion Deadline
+      hint: When should all items be completed
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: reinspection_date
+      label: Reinspection Date
+      hint: When will follow-up inspection occur
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: special_instructions
+      label: Special Instructions
+      hint: Any specific requirements for completing items
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: contractor_acknowledgment
+      label: Contractor Acknowledgment
+      hint: Does contractor agree to complete items
+      type: select_one
+      options:
+      - Acknowledged and Accepted
+      - Acknowledged with Comments
+      - Disputed
+      required: true
+    - id: 24
+      name: contractor_comments
+      label: Contractor Comments
+      hint: Any comments or concerns from contractor
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: client_approval
+      label: Client Approval
+      hint: Does client approve this punch list
+      type: select_one
+      options:
+      - Approved
+      - Approved with Additions
+      - Not Approved
+      required: true
+    - id: 26
+      name: inspector_signature
+      label: Inspector Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: contractor_signature
+      label: Contractor Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true

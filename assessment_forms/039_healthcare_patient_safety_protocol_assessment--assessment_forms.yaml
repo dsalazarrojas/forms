@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Patient Safety Protocol Assessment
+    pages:
+    - id: 1
+      name: general_info
+      label: general-info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: staff_training
+      label: staff-training
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: patient_care
+      label: patient-care
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: facility_safety_procedures
+      label: Facility Safety Procedures
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: medical_device_malfunction
+      label: Medical Device Malfunction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: medication_administration
+      label: Medication Administration
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: patient_complaints
+      label: Patient Complaints
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: patient_safety_scores
+      label: Patient Safety Scores
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: medication_errors
+      label: Medication Errors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: facility_accidents
+      label: Facility Accidents
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

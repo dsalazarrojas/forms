@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Surface Laboratory Assessment
+    pages:
+    - id: 1
+      name: test_form
+      label: Surface test form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: laboratory_assessment
+      label: Surface Test
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: test_result
+      label: Test Result
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: sample_id
+      label: Sample ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: test_type
+      label: Test Type
+      hint: null
+      type: select_one
+      options:
+      - Blood test
+      - Urine test
+      - Other
+      required: false
+    - id: 6
+      name: test_result_date
+      label: Test Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: test_result_time
+      label: Test Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: result_status
+      label: Result Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Complete
+      - Cancelled
+      required: false

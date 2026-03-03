@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: electric_vehicle_maintenance_program_admission_form
+    pages:
+    - id: 1
+      name: applicant_info
+      label: Applicant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: professional_info
+      label: Professional Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_info
+      label: Vehicle Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: electric_vehicle_info
+      label: Electric Vehicle Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: maintenance_certificates
+      label: Maintenance Certifications
+      hint: List maintenance certificates if relevant.
+      type: select_one
+      options:
+      - text
+      - Other
+      required: false
+    - id: 7
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: select_one
+      options:
+      - text
+      - Other
+      required: false
+    - id: 8
+      name: education
+      label: Education
+      hint: null
+      type: select_one
+      options:
+      - text
+      - Other
+      required: false

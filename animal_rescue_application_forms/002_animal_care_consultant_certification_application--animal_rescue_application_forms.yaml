@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Care Consultant Certification Application
+    pages:
+    - id: 1
+      name: applicant_full_name
+      label: Applicant full name
+      hint: Legal name as it appears on identification
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact email
+      hint: Preferred email for application correspondence
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone number
+      hint: Include country code if outside local area
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: current_organization
+      label: Current organization or affiliation
+      hint: Employer or volunteer group
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: years_experience
+      label: Years of animal care experience
+      hint: Enter whole number of years
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: areas_of_expertise
+      label: Areas of expertise
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Shelter operations
+      - Medical care
+      - Animal behavior
+      - Rehabilitation
+      - Education and outreach
+      required: true
+    - id: 7
+      name: certification_goals
+      label: Certification goals and motivation
+      hint: Briefly describe why you seek certification
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: relevant_certifications
+      label: Relevant certifications or training
+      hint: List certificates and issuing organizations
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: references
+      label: Professional references
+      hint: Provide names and contact details for two references
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: background_check_consent
+      label: Background check consent
+      hint: Applicant consents to verification checks
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: portfolio_or_resume
+      label: Portfolio or resume link
+      hint: Provide a URL or indicate attachment method
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: signature_name
+      label: Signature name
+      hint: Type full name to serve as electronic signature
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Afterpay Book Order Form
+    pages:
+    - id: 1
+      name: customer_information
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer name
+      hint: Full name for order record
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Customer email
+      hint: Email for order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: billing_address
+      label: Billing address
+      hint: Street, city, postal code
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: book_title
+      label: Book title
+      hint: Title and author if known
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: quantity
+      label: Quantity
+      hint: Number of copies
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: format
+      label: Preferred format
+      hint: Physical or digital
+      type: select_one
+      options:
+      - Hardcover
+      - Paperback
+      - eBook
+      required: true
+    - id: 8
+      name: afterpay_option
+      label: Use Afterpay
+      hint: Payment split option
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: delivery_instructions
+      label: Delivery instructions
+      hint: Optional directions for courier
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: special_requests
+      label: Special requests
+      hint: Gift wrap or personalization details
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Incident Resolution Absence Form
+    pages:
+    - id: 1
+      name: incident_resolution_absence_form
+      label: Incident Resolution Absence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee
+      label: Employee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: resolution_status
+      label: Resolution Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Closed
+      - Pending
+      required: true
+    - id: 5
+      name: incident_start_date
+      label: Incident Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: incident_end_date
+      label: Incident End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: incident_duration
+      label: Incident Duration
+      hint: null
+      type: number
+      options: []
+      required: false

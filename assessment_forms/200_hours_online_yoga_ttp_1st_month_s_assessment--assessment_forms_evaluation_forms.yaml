@@ -1,0 +1,178 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 200 Hours Online Yoga TTP 1st Month's Assessment
+    pages:
+    - id: 1
+      name: section_header_participant_info
+      label: '--- Participant Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your full name as used for registration
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: Preferred contact email (we will use this for course updates)
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Include country code if outside local area (optional)
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: date_of_assessment
+      label: Date of assessment
+      hint: Date this evaluation is being completed
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: age
+      label: Age
+      hint: Enter age in years
+      type: integer
+      options: []
+      required: true
+    - id: 7
+      name: years_of_practice
+      label: Years of yoga practice
+      hint: Whole years of consistent practice (0 if new)
+      type: integer
+      options: []
+      required: true
+    - id: 8
+      name: current_fitness_level
+      label: Current fitness level
+      hint: Choose the option that best matches your typical capacity
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Experienced teacher
+      required: true
+    - id: 9
+      name: attendance_percentage
+      label: Attendance this month (%)
+      hint: Round to nearest whole percent (0-100)
+      type: integer
+      options: []
+      required: true
+    - id: 10
+      name: weekly_practice_sessions
+      label: Practice sessions per week (average)
+      hint: Include self-practice and live sessions
+      type: integer
+      options: []
+      required: false
+    - id: 11
+      name: preferred_practice_time
+      label: Preferred practice time
+      hint: Time of day you most often practice
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: self_practice_focus
+      label: Primary focus areas in self-practice (select all that apply)
+      hint: Select every area you actively work on
+      type: select_multiple
+      options:
+      - Asana (postures)
+      - Pranayama (breathwork)
+      - Meditation
+      - Yoga philosophy/theory
+      - Teaching practice/peer teaching
+      - Sequencing & adjustments
+      required: false
+    - id: 13
+      name: primary_goal
+      label: Primary goal for the training
+      hint: Choose the single most important goal for you this course
+      type: select_one
+      options:
+      - Deepen personal practice
+      - Improve teaching skills
+      - Learn anatomy & alignment
+      - Increase strength & endurance
+      - Improve flexibility & mobility
+      - Stress reduction & wellbeing
+      required: true
+    - id: 14
+      name: technical_skill_rating
+      label: Practical technique rating (1-10)
+      hint: 10 = excellent execution and alignment
+      type: integer
+      options: []
+      required: true
+    - id: 15
+      name: theory_understanding
+      label: Understanding of theory and concepts
+      hint: Knowledge from lectures and readings
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      required: true
+    - id: 16
+      name: pranayama_comfort_level
+      label: Comfort with pranayama practices
+      hint: How comfortable are you with guided breathwork so far?
+      type: select_one
+      options:
+      - Very comfortable
+      - Somewhat comfortable
+      - Beginner / learning
+      - Not started
+      required: false
+    - id: 17
+      name: injuries_or_contraindications
+      label: Any injuries, medical conditions or contraindications?
+      hint: List injuries, chronic conditions, or limitations; leave blank if none
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: instructor_observations
+      label: Instructor observations and feedback
+      hint: 'For instructors: note strengths, areas to improve, and immediate next
+        steps'
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: additional_comments
+      label: Additional comments or personal reflection
+      hint: Open feedback about the month, suggestions, or questions
+      type: text
+      options: []
+      required: false

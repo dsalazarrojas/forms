@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: BlueSnap Animal Shelter Donation Form
+    pages:
+    - id: 1
+      name: donation_intro
+      label: -- Help Save Lives at Our Shelter --
+      hint: Your donation makes a difference
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: donor_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: donor_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donor_address
+      label: Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: select_one
+      options:
+      - $10
+      - $25
+      - $50
+      - $100
+      - $250
+      - $500
+      - Custom amount
+      required: true
+    - id: 7
+      name: custom_donation_amount
+      label: Custom Donation Amount
+      hint: If other
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: donation_frequency
+      label: Donation Type
+      hint: null
+      type: select_one
+      options:
+      - One-time donation
+      - Monthly recurring
+      - Quarterly
+      - Annual
+      required: true
+    - id: 9
+      name: donation_focus
+      label: Where would you like your donation to go?
+      hint: null
+      type: select_one
+      options:
+      - Medical care
+      - Food and supplies
+      - Shelter operations
+      - Adoption programs
+      - No preference
+      required: false
+    - id: 10
+      name: is_corporate_donor
+      label: Is this a corporate donation?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: company_name
+      label: Company Name
+      hint: If corporate
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: tax_deductible
+      label: Need tax deduction documentation?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: recognition_preference
+      label: Recognition Preference
+      hint: null
+      type: select_one
+      options:
+      - Public recognition with name
+      - Public recognition - anonymous
+      - No public recognition
+      required: true
+    - id: 14
+      name: newsletter_signup
+      label: Subscribe to our newsletter?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      required: true
+    - id: 16
+      name: donation_date
+      label: Donation Date
+      hint: null
+      type: date
+      options: []
+      required: true

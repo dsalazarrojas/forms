@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lost And Found Pet Form
+    pages:
+    - id: 1
+      name: reporting_reason
+      label: Reporting Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_lost
+      label: Date Lost
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: type_of_pet
+      label: Type of Pet
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: breed_of_pet
+      label: Breed of Pet
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: street
+      label: Street
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: pet_name
+      label: Pet's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: color
+      label: Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: age_of_pet
+      label: Age of Pet
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: size_of_pet
+      label: Size of Pet
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: upload_pictures
+      label: Upload Pictures
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: pictures
+      label: Pictures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: pet_type
+      label: Pet Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: pet_breed
+      label: Pet Breed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: pet_color
+      label: Pet Color
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: pet_size
+      label: Pet Size
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: pet_gender
+      label: Pet Gender
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: pet_age
+      label: Pet Age
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: pet_status
+      label: Pet Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 24
+      name: date_found
+      label: Date Found
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false

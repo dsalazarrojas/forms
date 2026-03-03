@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Refund Timeframe Exception Request
+    pages:
+    - id: 1
+      name: purchase_details
+      label: Purchase Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: refund_reasons
+      label: Refund Reasons
+      hint: null
+      type: select_one
+      options:
+      - Refund not received
+      - Refund not processed
+      - Refund amount was incorrect
+      - Refund not in the correct format
+      - Other
+      required: true
+    - id: 3
+      name: document
+      label: Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_message
+      label: Message to Customer Service Team
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: customer_service_response
+      label: Response to Customer Service Team
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: customer_service_response_status
+      label: Response Status
+      hint: null
+      type: select_one
+      options:
+      - Awaiting Response
+      - Customer Acknowledged
+      - Customer Declined
+      - Customer Accepted
+      - Closed
+      required: true
+    - id: 7
+      name: purchase_date
+      label: Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: refund_amount
+      label: Refund Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: reason_for_refund
+      label: Reason for Refund
+      hint: null
+      type: select_multiple
+      options:
+      - Refund not received
+      - Refund not processed
+      - Refund amount was incorrect
+      - Refund not in the correct format
+      required: false
+    - id: 10
+      name: business_response
+      label: Business Response
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: business_response_status
+      label: Business Response Status
+      hint: null
+      type: select_one
+      options:
+      - Awaiting Response
+      - Customer Acknowledged
+      - Customer Declined
+      - Customer Accepted
+      - Closed
+      required: true
+    - id: 12
+      name: reason_for_exception
+      label: Reason for Exception
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: timeframe_for_exception
+      label: Timeframe for Exception
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Process Control Adjustment Request Form
+    pages:
+    - id: 1
+      name: process_control_adjustment_request_form
+      label: Process Control Adjustment Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: manufacturing_team
+      label: Manufacturing Team
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Team A''}'
+      - '{''id'': 2, ''name'': ''Team B''}'
+      - '{''id'': 3, ''name'': ''Team C''}'
+      required: false
+    - id: 3
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: process_control_area
+      label: Process Control Area
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: process_name
+      label: Process Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_adjustment
+      label: Reason For Adjustment
+      hint: Provide detailed reason
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: adjustment_description
+      label: Adjustment Description
+      hint: Provide detailed description
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: impact_assessment
+      label: Impact Assessment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: process_control_equipment
+      label: Process Control Equipment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: request_status
+      label: Request Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Open''}'
+      - '{''id'': 2, ''name'': ''In Progress''}'
+      - '{''id'': 3, ''name'': ''Closed''}'
+      required: true

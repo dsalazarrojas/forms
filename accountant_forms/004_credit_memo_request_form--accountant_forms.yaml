@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Credit Memo Request Form
+    pages:
+    - id: 1
+      name: user_input
+      label: user_input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: account_number
+      label: account_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: account_owner
+      label: account_owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_range
+      label: date_range
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: supporting_document
+      label: supporting_document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: total_amount
+      label: total_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: amount_refund
+      label: amount_refund
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: amount_credit
+      label: amount_credit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: credit_applied
+      label: credit_applied
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

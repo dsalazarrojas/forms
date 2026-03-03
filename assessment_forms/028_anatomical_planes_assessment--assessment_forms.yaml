@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anatomical Planes Assessment
+    pages:
+    - id: 1
+      name: section_assessment_header
+      label: -- Anatomical Planes Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: course_id
+      label: Course ID / Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_assessment_questions
+      label: -- Assessment Questions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: sagittal_plane_description
+      label: Which of the following best describes the sagittal plane?
+      hint: null
+      type: select_one
+      options:
+      - Divides body into left and right
+      - Divides body into front and back
+      - Divides body into top and bottom
+      required: true
+    - id: 6
+      name: transverse_plane_example
+      label: Provide an example of a cut along the transverse plane.
+      hint: null
+      type: select_one
+      options:
+      - A horizontal cut through the waist
+      - A vertical cut through the ears
+      - A vertical cut from nose to back
+      required: true
+    - id: 7
+      name: coronal_plane_alternative_name
+      label: What is another name for the coronal plane?
+      hint: null
+      type: select_one
+      options:
+      - Frontal Plane
+      - Horizontal Plane
+      - Median Plane
+      required: true
+    - id: 8
+      name: section_practical_application
+      label: -- Practical Application --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: confidence_level
+      label: Rate your confidence in identifying anatomical planes.
+      hint: null
+      type: select_one
+      options:
+      - Very Confident
+      - Confident
+      - Somewhat Confident
+      - Not Confident
+      required: true
+    - id: 10
+      name: written_reflection_on_anatomical_orientation
+      label: Written reflection on the importance of anatomical orientation.
+      hint: Why is this critical in clinical settings?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_grading_info
+      label: -- Grading Information --
+      hint: For instructor use only
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: total_questions_answered
+      label: Total Questions Answered
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: instructor_feedback
+      label: Instructor Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

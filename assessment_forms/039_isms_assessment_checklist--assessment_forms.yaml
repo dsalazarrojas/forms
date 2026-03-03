@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: ISMS Assessment Checklist
+    pages:
+    - id: 1
+      name: assessment_form
+      label: isms_assessment_checklist
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: team_name
+      label: isms_team_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: control_status
+      label: isms_control_status
+      hint: null
+      type: select_one
+      options:
+      - In Place
+      - In Progress
+      - Not Implemented
+      required: false
+    - id: 4
+      name: security_maturity
+      label: isms_security_maturity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: audit_maturity
+      label: isms_audit_maturity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: improvement_priorities
+      label: isms_improvement_priorities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_comments
+      label: isms_additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: control_name
+      label: isms_control_name
+      hint: null
+      type: text
+      options: []
+      required: false

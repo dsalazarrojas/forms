@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Banking Error Correction Request Form
+    pages:
+    - id: 1
+      name: request_date
+      label: Request Date
+      hint: Date of this error report
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: Your full name as registered with the bank
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: Your email for contact and updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: Best contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: account_number
+      label: Account Number
+      hint: Last 4 digits of your account number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: error_type
+      label: Type of Error
+      hint: What type of error are you reporting?
+      type: select_one
+      options:
+      - Incorrect Transaction Amount
+      - Duplicate Transaction
+      - Missing Transaction
+      - Wrong Account Charged
+      - Incorrect Fee
+      - Other
+      required: true
+    - id: 7
+      name: error_discovery_date
+      label: When Did You Discover This Error?
+      hint: Date you first noticed the issue
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: transaction_date
+      label: Transaction Date
+      hint: Date of the erroneous transaction
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: transaction_amount
+      label: Transaction Amount
+      hint: Amount of the transaction in question
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: merchant_name
+      label: Merchant or Payee Name
+      hint: Name of the business or person in the transaction
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: transaction_description
+      label: Transaction Description
+      hint: Description of what the transaction was for
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: error_details
+      label: Detailed Description of Error
+      hint: Explain the issue in detail
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: expected_amount
+      label: Expected Transaction Amount
+      hint: What should the correct amount have been?
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: impact_on_balance
+      label: How Has This Error Affected Your Account?
+      hint: Describe the impact
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: documentation_attached
+      label: Documentation Attached
+      hint: What supporting documents are you providing?
+      type: select_multiple
+      options:
+      - Bank Statement
+      - Email Confirmation
+      - Receipt
+      - Correspondence
+      - Other Documentation
+      required: false
+    - id: 16
+      name: desired_resolution
+      label: Desired Resolution
+      hint: How would you like this error corrected?
+      type: select_one
+      options:
+      - Credit Account
+      - Reverse Transaction
+      - Refund to Card
+      - Other
+      required: true
+    - id: 17
+      name: error_priority
+      label: Error Urgency Level
+      hint: How urgent is this issue?
+      type: select_one
+      options:
+      - High - Affects Daily Operations
+      - Medium - Requires Action Soon
+      - Low - Can Wait
+      required: false
+    - id: 18
+      name: previous_reports
+      label: Have You Reported This Error Before?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: previous_reference_number
+      label: Previous Report Reference Number
+      hint: If yes, provide the reference number
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: authorization_confirmation
+      label: I authorize investigation of this error report
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

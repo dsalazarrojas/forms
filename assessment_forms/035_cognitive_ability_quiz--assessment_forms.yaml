@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cognitive Ability Quiz
+    pages:
+    - id: 1
+      name: section_participant
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: date_of_assessment
+      label: Date of Assessment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_reasoning
+      label: -- Critical Thinking Questions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: q1_logic
+      label: Question 1 - All birds have feathers. Penguins are birds. Therefore
+      hint: null
+      type: select_one
+      options:
+      - Penguins cannot fly
+      - Penguins have feathers
+      - Penguins are not birds
+      - Penguins are black and white
+      required: true
+    - id: 7
+      name: q2_analogy
+      label: Question 2 - Cat is to dog as fish is to
+      hint: null
+      type: select_one
+      options:
+      - Ocean
+      - Water
+      - Bird
+      - Scales
+      required: true
+    - id: 8
+      name: q3_pattern
+      label: Question 3 - What comes next in the sequence 2, 4, 8, 16
+      hint: null
+      type: select_one
+      options:
+      - '18'
+      - '24'
+      - '32'
+      - '20'
+      required: true
+    - id: 9
+      name: q4_problem_solve
+      label: Question 4 - You have 3 jars and need to measure 4 liters
+      hint: Which approach is best
+      type: select_one
+      options:
+      - Trial and error
+      - Systematic water transfer
+      - Guess randomly
+      - Assume it is impossible
+      required: true
+    - id: 10
+      name: q5_interpretation
+      label: Question 5 - Interpret this statement - Slow and steady wins the race
+      hint: null
+      type: select_one
+      options:
+      - Speed is never important
+      - Consistent effort often succeeds
+      - Racing is unnecessary
+      - Only slow people succeed
+      required: true
+    - id: 11
+      name: section_verbal
+      label: -- Verbal Comprehension --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: q6_vocabulary
+      label: Question 6 - Benevolent means most nearly
+      hint: null
+      type: select_one
+      options:
+      - Harmful
+      - Kind and charitable
+      - Powerful
+      - Intelligent
+      required: true
+    - id: 13
+      name: q7_synonym
+      label: Question 7 - Choose the best synonym for Pragmatic
+      hint: null
+      type: select_one
+      options:
+      - Idealistic
+      - Practical and realistic
+      - Theoretical
+      - Optimistic
+      required: true
+    - id: 14
+      name: q8_reading
+      label: Question 8 - Main idea of this passage
+      hint: Reading comprehension question
+      type: select_one
+      options:
+      - Supporting details
+      - Central theme or point
+      - Author's opinion
+      - Conclusion
+      required: true
+    - id: 15
+      name: section_spatial
+      label: -- Spatial and Numerical Reasoning --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: q9_math
+      label: Question 9 - If 60 percent of a number is 18, the number is
+      hint: null
+      type: select_one
+      options:
+      - '10'
+      - '20'
+      - '30'
+      - '40'
+      required: true
+    - id: 17
+      name: q10_spatial
+      label: Question 10 - Visualize a cube with one corner cut off
+      hint: How many edges does the resulting shape have
+      type: select_one
+      options:
+      - '12'
+      - '15'
+      - '18'
+      - '21'
+      required: true
+    - id: 18
+      name: section_assessment
+      label: -- Self Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: difficulty_level
+      label: Overall difficulty of the quiz
+      hint: null
+      type: select_one
+      options:
+      - 1 - Too easy
+      - 2 - Easy
+      - 3 - Moderate
+      - 4 - Difficult
+      - 5 - Too difficult
+      required: true
+    - id: 20
+      name: areas_strength
+      label: Areas of Strength
+      hint: Which areas did you find easier
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: areas_challenge
+      label: Challenging Areas
+      hint: Where did you struggle
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: time_taken
+      label: Approximate Time Taken - minutes
+      hint: How long to complete quiz
+      type: number
+      options: []
+      required: false

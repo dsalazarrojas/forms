@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Inspection Declaration Form
+    pages:
+    - id: 1
+      name: vehicle_inspection_declaration
+      label: Vehicle Inspection Declaration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_year
+      label: vehicle_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_make
+      label: vehicle_make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_model
+      label: vehicle_model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_year_of_manufacture
+      label: vehicle_year_of_manufacture
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_inspection_date
+      label: vehicle_inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_inspection_item_1
+      label: Vehicle Inspection Item 1
+      hint: null
+      type: select_one
+      options:
+      - Item 1
+      - Item 2
+      - Item 3
+      required: false
+    - id: 8
+      name: vehicle_inspection_item_2
+      label: Vehicle Inspection Item 2
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 9
+      name: vehicle_inspection_item_3
+      label: Vehicle Inspection Item 3
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 10
+      name: vehicle_inspection_notes
+      label: Vehicle Inspection Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_inspection_recommendations
+      label: Vehicle Inspection Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_inspection_relevant_parts
+      label: Relevant Vehicle Parts
+      hint: null
+      type: select_multiple
+      options:
+      - Part 1
+      - Part 2
+      - Part 3
+      required: false
+    - id: 13
+      name: vehicle_inspection_cost
+      label: Vehicle Inspection Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: vehicle_inspection_date_completed
+      label: Vehicle Inspection Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false

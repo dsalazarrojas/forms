@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Expense Approval Request Form
+    pages:
+    - id: 1
+      name: expense_amount_type
+      label: expense_amount_type
+      hint: null
+      type: select_one
+      options:
+      - 'Expense: Food'
+      - 'Expense: Travel'
+      - 'Expense: Other'
+      required: true
+    - id: 2
+      name: expense_date
+      label: expense_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: expense_description
+      label: expense_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: expense_amount
+      label: expense_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: expense_receipt
+      label: expense_receipt
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: approver
+      label: approver
+      hint: null
+      type: select_one
+      options:
+      - Jimmy
+      - Jane
+      - John
+      required: true
+    - id: 7
+      name: approval_date
+      label: approval_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: approval_status
+      label: approval_status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Declined
+      - Pending
+      required: true
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: submitter
+      label: submitter
+      hint: null
+      type: select_one
+      options:
+      - Jane
+      - Jimmy
+      - John
+      required: true

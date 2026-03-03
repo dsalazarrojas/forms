@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Travel Authorization Form
+    pages:
+    - id: 1
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee
+      label: Employee
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: purpose
+      label: Purpose
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: conference_seminar
+      label: Conference/ Seminar
+      hint: null
+      type: select_multiple
+      options:
+      - Conference
+      - Seminar
+      - Audit/Inspection
+      required: true
+    - id: 5
+      name: travel_start_date
+      label: Travel Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: travel_end_date
+      label: Travel End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: travel_duration
+      label: Travel Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: travel_method
+      label: Travel Method
+      hint: null
+      type: select_one
+      options:
+      - Air
+      - Train
+      - Car
+      - Other (Specify)
+      required: true
+    - id: 10
+      name: travel_details
+      label: Travel Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: true
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

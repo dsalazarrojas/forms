@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inventory Lot Assessment Form
+    pages:
+    - id: 1
+      name: lot_number
+      label: Lot Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: lot_size
+      label: Lot Size
+      hint: Enter a brief description of the lot
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: lot_value
+      label: Lot Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: lot_value_currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - CAD
+      - EUR
+      - GBP
+      required: true
+    - id: 6
+      name: lot_status
+      label: Lot Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Pending
+      - Reserved
+      required: true
+    - id: 7
+      name: lot_description
+      label: Lot Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: 123-456-7890
+      type: text
+      options: []
+      required: true

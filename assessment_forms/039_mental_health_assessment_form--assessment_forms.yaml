@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mental Health Assessment Form
+    pages:
+    - id: 1
+      name: mood_tracker
+      label: Mood Tracker
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: mental_state
+      label: Mental State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: anxiety_level
+      label: Anxiety Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: depression_scale
+      label: Depression Scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: sleep_patterns
+      label: Sleep Patterns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medication_usage
+      label: Medication Usage
+      hint: null
+      type: select_one
+      options:
+      - Anxiety
+      - Depressed
+      - None
+      required: false
+    - id: 7
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: treatment_plan
+      label: Treatment Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: physical_activity
+      label: Physical Activity
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Science Fiction Awards U21
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: nomination_title
+      label: Nomination Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: nomination_category
+      label: Nomination Category
+      hint: null
+      type: select_one
+      options:
+      - Science
+      - Fiction
+      required: true
+    - id: 4
+      name: nomination_subcategory
+      label: Subcategory
+      hint: null
+      type: select_multiple
+      options:
+      - Science
+      - Fiction
+      - Technology
+      required: true
+    - id: 5
+      name: nomination_submitter
+      label: Nomination Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: nomination_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: nomination_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: submission_notes
+      label: Submission Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: review_panel
+      label: Review Panel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: review_panel_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: review_panel_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: review_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: review_time
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: review_score
+      label: Review Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: review_score_hint
+      label: Review Score Hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: review_score_max
+      label: Max Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: review_score_min
+      label: Min Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: review_panel_score
+      label: Panel Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: review_panel_score_hint
+      label: Panel Score Hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_comments
+      label: Submitter Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accounts Receivable Customer Request Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: account_number
+      label: Account Number
+      hint: Your internal customer ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: request_type
+      label: Request Type
+      hint: How can we help you today?
+      type: select_one
+      options:
+      - Invoice Copy
+      - Payment Confirmation
+      - Credit Balance Inquiry
+      - Dispute Resolution
+      - Update Billing Info
+      required: true
+    - id: 4
+      name: invoice_number_referenced
+      label: Invoice Number Referenced
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: details_of_request
+      label: Details of Request
+      hint: Provide as much detail as possible
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: Where we should send the response
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: document_header
+      label: -- Requested Documents --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: documents_needed
+      label: Documents Needed
+      hint: Select all files you require
+      type: select_multiple
+      options:
+      - Original Invoice
+      - Signed Proof of Delivery
+      - Statement of Account
+      - Tax Form
+      required: false
+    - id: 10
+      name: date_of_request
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: response_urgency
+      label: Response Urgency
+      hint: null
+      type: select_one
+      options:
+      - Standard
+      - High
+      required: true

@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Power Outage Survival Guide
+    pages:
+    - id: 1
+      name: individual_or_family
+      label: individual_family
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: power_outage_info
+      label: power_outage_info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''Power outage type'': ''Planned Outage''}'
+      - '{''Power outage type'': ''Unplanned Outage''}'
+      - '{''Power outage type'': ''Extended Outage''}'
+      required: true
+    - id: 6
+      name: outdate_start
+      label: outdate_start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: outdate_end
+      label: outdate_end
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: emergency_plan
+      label: emergency_plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: backup_power_source
+      label: backup_power_source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: battery_backup
+      label: battery_backup
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: first_aids
+      label: first_aids
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: first_aids_description
+      label: first_aids_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: alternate_contact
+      label: alternate_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_services
+      label: emergency_services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_plan_status
+      label: emergency_plan_status
+      hint: null
+      type: select_one
+      options:
+      - None
+      - In progress
+      - Complete
+      required: true
+    - id: 17
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: family_info
+      label: family_info
+      hint: null
+      type: text
+      options: []
+      required: false

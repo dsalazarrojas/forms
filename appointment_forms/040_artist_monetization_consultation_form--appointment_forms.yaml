@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artist Monetization Consultation Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Artist Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: artist_name
+      label: Artist or Creator Name
+      hint: Your professional name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: artist_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: artist_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: creative_field
+      label: Creative Field
+      hint: Music, visual art, writing, video, etc.
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_2
+      label: -- Current Revenue Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: current_income_streams
+      label: Current Income Streams
+      hint: How are you currently monetizing?
+      type: select_multiple
+      options:
+      - Direct Sales
+      - Streaming Royalties
+      - Subscriptions
+      - Sponsorships
+      - Advertising
+      - Freelance Work
+      - Commission Work
+      - Grants or Funding
+      - None Yet
+      required: true
+    - id: 8
+      name: annual_income
+      label: Approximate Annual Income from Creative Work
+      hint: Estimated total
+      type: select_one
+      options:
+      - Under GBP 1000
+      - GBP 1000 - 5000
+      - GBP 5000 - 20000
+      - GBP 20000 - 50000
+      - GBP 50000+
+      - Not yet monetized
+      required: true
+    - id: 9
+      name: section_header_3
+      label: -- Audience and Platform --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: audience_size
+      label: Current Audience Size
+      hint: Total followers or audience
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: main_platforms
+      label: Main Platforms Where You Have Presence
+      hint: Social media, websites, streaming services
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: engagement_level
+      label: Engagement Level
+      hint: How engaged is your audience?
+      type: select_one
+      options:
+      - Low (minimal interaction)
+      - Moderate (some interaction)
+      - High (good engagement)
+      - Very High (very engaged community)
+      required: false
+    - id: 13
+      name: section_header_4
+      label: -- Monetization Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: monetization_goals
+      label: Primary Monetization Goals
+      hint: What do you want to achieve?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: target_income
+      label: Target Annual Income
+      hint: What amount are you aiming for?
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: timeline
+      label: Timeline for Achieving Goals
+      hint: When do you want to reach your targets?
+      type: select_one
+      options:
+      - 3 months
+      - 6 months
+      - 1 year
+      - 2 years
+      - No specific timeline
+      required: false
+    - id: 17
+      name: section_header_5
+      label: -- Current Challenges --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: main_challenges
+      label: Main Challenges with Monetization
+      hint: What obstacles are you facing?
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: areas_needing_help
+      label: Areas Where You Need Most Help
+      hint: Select primary areas of concern
+      type: select_multiple
+      options:
+      - Building Audience
+      - Selecting Right Platforms
+      - Pricing Strategy
+      - Marketing and Promotion
+      - Technical Setup
+      - Contract Negotiation
+      - Tax and Legal Issues
+      - Product Development
+      required: true
+    - id: 20
+      name: section_header_6
+      label: -- Consultation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: preferred_format
+      label: Preferred Consultation Format
+      hint: How would you like to be consulted?
+      type: select_one
+      options:
+      - Video call
+      - Phone call
+      - In-person meeting
+      - Email consultation
+      - No preference
+      required: false
+    - id: 22
+      name: preferred_time
+      label: Preferred Consultation Time
+      hint: When works best for you?
+      type: select_one
+      options:
+      - Mornings
+      - Afternoons
+      - Evenings
+      - Weekends
+      - Flexible
+      required: false
+    - id: 23
+      name: additional_context
+      label: Additional Context or Background
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: budget_available
+      label: Budget Available for Consultation
+      hint: Are you able to pay for the service?
+      type: select_one
+      options:
+      - Yes, significant budget
+      - Limited budget
+      - Looking for free consultation
+      - Willing to negotiate
+      required: false
+    - id: 25
+      name: confirm_consultation
+      label: I am Ready for a Monetization Consultation
+      hint: Confirm your readiness to proceed
+      type: select_one
+      options:
+      - Yes, I am ready
+      - I need more time to decide
+      required: true

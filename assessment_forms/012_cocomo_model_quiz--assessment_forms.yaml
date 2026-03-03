@@ -1,0 +1,188 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COCOMO Model Quiz
+    pages:
+      - id: 1
+        name: student_name
+        label: Student Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: student_id
+        label: Student ID
+        hint: Your student identification number
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: course_name
+        label: Course Name
+        hint: Name of the software engineering course
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: instructor_name
+        label: Instructor Name
+        hint: Name of your course instructor
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: quiz_date
+        label: Quiz Date
+        hint: Today's date
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: question_1
+        label: What does COCOMO stand for?
+        hint: Select the correct answer
+        type: select_one
+        options:
+          - Capability Organization Cost Model
+          - Constructive Cost Model
+          - Corporate Component Model
+          - Common Code Operational Model
+        required: true
+      - id: 7
+        name: question_2
+        label: COCOMO was developed to estimate project costs based on what primary factor?
+        hint: null
+        type: select_one
+        options:
+          - Source lines of code
+          - Number of developers
+          - Duration of project
+          - Budget constraints
+        required: true
+      - id: 8
+        name: question_3
+        label: Which is NOT one of the three main models in COCOMO?
+        hint: null
+        type: select_one
+        options:
+          - Waterfall Model
+          - Organic Model
+          - Semi-Detached Model
+          - Embedded Model
+        required: true
+      - id: 9
+        name: question_4
+        label: "The Organic COCOMO model applies to projects that are:"
+        hint: null
+        type: select_one
+        options:
+          - Small, simple projects with flexible requirements
+          - Large, complex projects with rigid requirements
+          - Medium projects with moderate requirements change
+          - Projects requiring embedded systems
+        required: true
+      - id: 10
+        name: question_5
+        label: What does the effort multiplier in COCOMO consider?
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Software complexity
+          - Team experience
+          - Required reliability
+          - Programming language
+          - Project budget
+        required: false
+      - id: 11
+        name: question_6
+        label: "The Semi-Detached COCOMO model is typically used for:"
+        hint: null
+        type: select_one
+        options:
+          - Small projects with experienced teams
+          - Medium-sized projects with mixed requirements
+          - Very large projects with strict requirements
+          - Research and development projects
+        required: true
+      - id: 12
+        name: question_7
+        label: Which factor is NOT a cost driver in COCOMO estimation?
+        hint: null
+        type: select_one
+        options:
+          - Required software reliability
+          - Product complexity
+          - Analyst capability
+          - Office location
+        required: true
+      - id: 13
+        name: question_8
+        label: "The basic COCOMO effort equation is approximately:"
+        hint: null
+        type: select_one
+        options:
+          - Effort = a * (KLOC)^b
+          - Effort = KLOC / a * b
+          - Effort = a + b * KLOC
+          - Effort = KLOC * (a + b)^2
+        required: true
+      - id: 14
+        name: question_9
+        label: "KLOC in COCOMO stands for:"
+        hint: null
+        type: select_one
+        options:
+          - Kilo Lines of Code
+          - Known Logical Operations Code
+          - Key Level Operation Code
+          - Knowledge Logic Operational Coding
+        required: true
+      - id: 15
+        name: question_10
+        label: How many levels of detail does COCOMO provide?
+        hint: null
+        type: select_one
+        options:
+          - 1 level
+          - 2 levels
+          - 3 levels
+          - 4 levels
+        required: true
+      - id: 16
+        name: confidence_level
+        label: How confident are you in your answers?
+        hint: Rate your confidence
+        type: select_one
+        options:
+          - "1 - Not confident"
+          - "2 - Somewhat confident"
+          - "3 - Confident"
+          - "4 - Very confident"
+          - "5 - Extremely confident"
+        required: false
+      - id: 17
+        name: areas_of_difficulty
+        label: Which topics were most difficult?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: additional_comments
+        label: Additional Comments
+        hint: Any feedback about the quiz or material
+        type: text
+        options: []
+        required: false

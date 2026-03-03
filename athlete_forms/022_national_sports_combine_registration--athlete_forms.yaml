@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: national_sports_combine_registration
+    pages:
+    - id: 1
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: emergency_contact_details
+      label: Emergency Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: athlete_sport
+      label: Sport
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Baseball''}'
+      - '{''label'': ''Basketball''}'
+      - '{''label'': ''Football''}'
+      - '{''label'': ''Hockey''}'
+      - '{''label'': ''Soccer''}'
+      required: false
+    - id: 5
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: participant_gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Male''}'
+      - '{''label'': ''Female''}'
+      - '{''label'': ''Non-Binary''}'
+      required: false
+    - id: 10
+      name: participant_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: participant_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: sport_participated_in
+      label: Sport Participated In
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Baseball''}'
+      - '{''label'': ''Basketball''}'
+      - '{''label'': ''Football''}'
+      - '{''label'': ''Hockey''}'
+      - '{''label'': ''Soccer''}'
+      required: false
+    - id: 13
+      name: participant_acknowledge
+      label: Participate Acknowledge
+      hint: null
+      type: note
+      options: []
+      required: false

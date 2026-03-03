@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Distribution Appointment Form
+    pages:
+    - id: 1
+      name: schedule_appointment
+      label: Schedule Appointment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: client_details
+      label: Client Details
+      hint: Please enter client details
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_details
+      label: Product Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: distribution_details
+      label: Distribution Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_time
+      label: Date and Time
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contact_details
+      label: Contact Details
+      hint: Include phone and email
+      type: text
+      options: []
+      required: false

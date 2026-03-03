@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cloud Hosting Subscription Approval Form
+    pages:
+    - id: 1
+      name: section_requester
+      label: -- Requester Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester Name
+      hint: Person requesting cloud hosting
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: manager_name
+      label: Manager Name
+      hint: Direct supervisor
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_service
+      label: -- Cloud Hosting Service Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: service_type
+      label: Type of Cloud Hosting Service
+      hint: null
+      type: select_one
+      options:
+      - Web hosting
+      - Application hosting
+      - Database hosting
+      - Storage hosting
+      - Full cloud infrastructure
+      - Other
+      required: true
+    - id: 9
+      name: provider
+      label: Preferred Cloud Provider
+      hint: null
+      type: select_one
+      options:
+      - AWS
+      - Microsoft Azure
+      - Google Cloud
+      - Other
+      required: true
+    - id: 10
+      name: service_description
+      label: Service Description and Purpose
+      hint: What will be hosted and why
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_requirements
+      label: -- Technical Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: estimated_traffic
+      label: Estimated Monthly Users - Traffic
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: storage_needed
+      label: Storage Capacity Needed - GB
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: bandwidth_needed
+      label: Bandwidth Needed - GB per month
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: uptime_requirement
+      label: Uptime Requirement
+      hint: Availability SLA percentage
+      type: select_one
+      options:
+      - 99.9%
+      - 99.99%
+      - 99.999%
+      - No specific requirement
+      required: true
+    - id: 16
+      name: section_cost
+      label: -- Cost and Budget --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: estimated_monthly_cost
+      label: Estimated Monthly Cost - USD
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: annual_cost
+      label: Estimated Annual Cost - USD
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: cost_center
+      label: Cost Center or Budget Code
+      hint: For billing purposes
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: section_approval
+      label: -- Approval Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: business_justification
+      label: Business Justification
+      hint: Why is this service needed?
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Pending approval
+      - Approved
+      - Rejected
+      required: true
+    - id: 23
+      name: approver_name
+      label: Approver Name
+      hint: If already approved
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false

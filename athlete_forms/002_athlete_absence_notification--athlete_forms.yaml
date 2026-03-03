@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Absence Notification
+    pages:
+    - id: 1
+      name: athlete_name
+      label: Athlete Full Name
+      hint: First and last name of the athlete
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: athlete_id
+      label: Athlete ID Number
+      hint: Student or team ID if applicable
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: team_name
+      label: Team Name
+      hint: Which team does the athlete belong to
+      type: select_one
+      options:
+      - Varsity
+      - Junior Varsity
+      - Freshman
+      - Club Team
+      required: true
+    - id: 4
+      name: sport
+      label: Sport
+      hint: Select the sport
+      type: select_one
+      options:
+      - Football
+      - Basketball
+      - Soccer
+      - Track and Field
+      - Swimming
+      - Volleyball
+      - Baseball
+      - Softball
+      - Tennis
+      - Other
+      required: true
+    - id: 5
+      name: absence_type
+      label: Type of Absence
+      hint: What is the athlete missing
+      type: select_one
+      options:
+      - Practice Only
+      - Game Only
+      - Both Practice and Game
+      - Multiple Days
+      required: true
+    - id: 6
+      name: absence_date
+      label: Date of Absence
+      hint: Select the date the athlete will be absent
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: return_date
+      label: Expected Return Date
+      hint: When will the athlete return
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: reason_category
+      label: Reason Category
+      hint: General category for the absence
+      type: select_one
+      options:
+      - Illness or Injury
+      - Family Emergency
+      - Academic Commitment
+      - Personal Reason
+      - Travel
+      - Other
+      required: true
+    - id: 9
+      name: reason_details
+      label: Reason Details
+      hint: Please provide more details about the absence
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: injury_related
+      label: Is This Absence Injury Related
+      hint: Select yes if the absence is due to an injury
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: medical_note_required
+      label: Medical Note Required
+      hint: Will a medical note be provided upon return
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Applicable
+      required: false
+    - id: 12
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: Name of parent or guardian submitting this form
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Contact email for follow-up
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: coach_notification
+      label: Coach to Notify
+      hint: Select the primary coach to notify
+      type: select_one
+      options:
+      - Head Coach
+      - Assistant Coach
+      - Both Coaches
+      required: true
+    - id: 16
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information the coaching staff should know
+      type: text
+      options: []
+      required: false

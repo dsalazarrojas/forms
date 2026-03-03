@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Call Handling Assessment
+    pages:
+    - id: 1
+      name: assessment_header
+      label: -- Call Handling Performance Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: csr_name
+      label: Customer Service Representative Name
+      hint: Name of the individual being assessed
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: evaluator_name
+      label: Evaluator Name
+      hint: Person conducting the assessment
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: assessment_date
+      label: Date of Assessment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: call_id
+      label: Call Reference ID
+      hint: Unique ID of the recorded call
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: scoring_section
+      label: -- Evaluation Criteria --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: opening_greeting
+      label: Opening and Greeting
+      hint: Did the CSR use the standard greeting and identify themselves?
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 8
+      name: tone_and_empathy
+      label: Tone and Empathy
+      hint: Was the CSR polite, professional, and empathetic to the customer?
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 9
+      name: active_listening
+      label: Active Listening
+      hint: Did the CSR listen without interrupting and confirm understanding?
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 10
+      name: problem_solving_skills
+      label: Problem Solving and Technical Knowledge
+      hint: Accuracy of information and efficiency in resolving the issue
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 11
+      name: closing_etiquette
+      label: Closing Etiquette
+      hint: Did the CSR summarize the call and offer further assistance?
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 12
+      name: call_duration
+      label: Call Duration (Minutes)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: resolution_status
+      label: Was the issue resolved during the call?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Partially
+      - Escalated
+      required: true
+    - id: 14
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: Specific feedback for the CSR
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: overall_comments
+      label: Overall Evaluator Comments
+      hint: General summary of performance
+      type: text
+      options: []
+      required: false

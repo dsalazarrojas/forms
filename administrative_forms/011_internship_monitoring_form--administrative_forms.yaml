@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: internship_monitoring_form
+    pages:
+    - id: 1
+      name: intern_info
+      label: Intern Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: supervisor_info
+      label: Supervisor Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: intern_progress
+      label: Intern Progress
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: performance_evaluation
+      label: Performance Evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: intern_performance
+      label: Intern Performance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: intern_evaluations
+      label: Intern Evaluations
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: supervisor_evaluations
+      label: Supervisor Evaluations
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: internship_completion_date
+      label: Internship Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: form_completion
+      label: Form Completion
+      hint: null
+      type: text
+      options: []
+      required: false

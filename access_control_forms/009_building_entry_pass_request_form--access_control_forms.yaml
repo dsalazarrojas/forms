@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Entry Pass Request Form
+    pages:
+    - id: 1
+      name: visitor_name
+      label: Visitor Full Name
+      hint: Complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: visitor_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: visitor_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: visitor_company
+      label: Company or Organization
+      hint: Where do you work
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: visitor_id
+      label: Identification Type
+      hint: What ID will you present
+      type: select_one
+      options:
+      - Driver License
+      - Passport
+      - National ID
+      - State ID
+      - Government ID
+      required: true
+    - id: 6
+      name: host_name
+      label: Host Employee Name
+      hint: Who are you visiting
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: host_department
+      label: Host Department
+      hint: Department of host
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: host_email
+      label: Host Email Address
+      hint: For verification
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: visit_purpose
+      label: Purpose of Visit
+      hint: Why are you visiting
+      type: select_one
+      options:
+      - Meeting
+      - Interview
+      - Delivery
+      - Maintenance
+      - Inspection
+      - Consultation
+      - Other
+      required: true
+    - id: 10
+      name: visit_date
+      label: Date of Visit
+      hint: When do you plan to visit
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: arrival_time
+      label: Estimated Arrival Time
+      hint: When will you arrive
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: departure_time
+      label: Estimated Departure Time
+      hint: When will you leave
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: visit_description
+      label: Visit Description
+      hint: Details about the visit
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: areas_access
+      label: Areas Needing Access
+      hint: Which areas do you need to visit
+      type: select_multiple
+      options:
+      - Reception Area
+      - Office
+      - Meeting Rooms
+      - Server Room
+      - Storage
+      - Parking
+      required: false
+    - id: 15
+      name: vehicle_information
+      label: Will You Bring a Vehicle
+      hint: Do you need parking
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 16
+      name: vehicle_make
+      label: Vehicle Make and Model
+      hint: If bringing a vehicle
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: license_plate
+      label: License Plate Number
+      hint: Vehicle identification
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: escorted
+      label: Will You Be Escorted
+      hint: Or entering independently
+      type: select_one
+      options:
+      - Yes, Escorted
+      - No, Independent
+      required: true

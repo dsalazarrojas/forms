@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: shopping_by_appointment_form
+    pages:
+    - id: 1
+      name: appointment_form
+      label: appointment_form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: session_details
+      label: session_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: duration
+      label: duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: shopping_list
+      label: shopping_list
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: customer_details
+      label: customer_details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: assigned_user
+      label: assigned_user
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: form_status
+      label: form_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: session_type
+      label: session_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: session_status
+      label: session_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: customer_id
+      label: customer_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: assigned_user_id
+      label: assigned_user_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: customer_address
+      label: customer_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_notes
+      label: customer_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: customer_notes
+      label: customer_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: customer_note
+      label: customer_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: customer_notes_1
+      label: customer_notes_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: customer_notes_2
+      label: customer_notes_2
+      hint: null
+      type: text
+      options: []
+      required: false

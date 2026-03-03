@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Black Friday Wishlist Template
+    pages:
+    - id: 1
+      name: wishlist_header
+      label: -- My Black Friday Wishlist --
+      hint: Plan your shopping and save!
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: user_name
+      label: Wishlist Name / User
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: total_budget
+      label: Overall Black Friday Budget
+      hint: Your maximum spending limit
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: item_1_header
+      label: -- Item 1 --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: item_1_name
+      label: Item 1 Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: item_1_store
+      label: Store / Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: item_1_original_price
+      label: Original Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: item_1_sale_price
+      label: Black Friday Sale Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: item_1_priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - Must Have
+      - Nice to Have
+      - If Budget Allows
+      required: true
+    - id: 10
+      name: item_2_header
+      label: -- Item 2 --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: item_2_name
+      label: Item 2 Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: item_2_store
+      label: Store / Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: item_2_sale_price
+      label: Black Friday Sale Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: planning_header
+      label: -- Planning --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: gift_recipient
+      label: Who is this for?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Myself
+      - Family
+      - Friends
+      - Coworkers
+      required: false
+    - id: 16
+      name: planning_notes
+      label: Planning Notes
+      hint: null
+      type: text
+      options: []
+      required: false

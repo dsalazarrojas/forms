@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Portrait Appointment Form
+    pages:
+    - id: 1
+      name: holiday_appointment_form
+      label: Holiday Appointment Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: appointment_details
+      label: prophets appointment details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: photographer
+      label: Photographer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: subject_name
+      label: Subject Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

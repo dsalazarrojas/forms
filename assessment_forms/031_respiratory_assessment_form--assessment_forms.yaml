@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Respiratory Assessment Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: current_symptoms
+      label: Current Symptoms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: respiratory_rate
+      label: Respiratory Rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: oxygen_saturation
+      label: Oxygen Saturation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: vital_signs
+      label: Vital Signs
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Tachycardic
+      - Tachypneic
+      - Bradycardic
+      - Bradypneic
+      required: true
+    - id: 7
+      name: lung_exam
+      label: Lung Exam
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: patient_condition
+      label: Patient Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Well
+      - Stable
+      - Unwell
+      - Critical
+      required: false
+    - id: 9
+      name: medication_list
+      label: Medication List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_allergies
+      label: Patient Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: respiratory_system
+      label: Respiratory System
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: date_of_last_dose
+      label: Date of Last Dose
+      hint: null
+      type: date
+      options: []
+      required: true

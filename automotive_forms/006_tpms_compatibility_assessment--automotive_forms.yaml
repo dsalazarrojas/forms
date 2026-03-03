@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: tpms_compatibility_assessment
+    pages:
+    - id: 1
+      name: vehicle_details
+      label: Vehicle Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tpms_product
+      label: TPMS Product
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 4
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_multiple
+      options:
+      - Service 1
+      - Service 2
+      - Service 3
+      required: false
+    - id: 5
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: tpms_version
+      label: TPMS Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service_date
+      label: Service Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: mileage
+      label: Mileage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Cat 1
+      - Cat 2
+      - Cat 3
+      required: false

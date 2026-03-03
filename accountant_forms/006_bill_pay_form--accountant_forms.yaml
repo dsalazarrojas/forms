@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bill Pay Form
+    pages:
+    - id: 1
+      name: payer_information
+      label: Payer Information
+      hint: Enter the payer's contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: payer_first_name
+      label: First Name
+      hint: Payer's first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: payer_last_name
+      label: Last Name
+      hint: Payer's last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: payer_email
+      label: Email Address
+      hint: Email for payment confirmation
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: payer_phone
+      label: Phone Number
+      hint: Contact number for payment issues
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_name
+      label: Company Name
+      hint: Business name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: account_number
+      label: Account Number
+      hint: Customer or account number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: bill_information
+      label: Bill Information
+      hint: Enter bill payment details
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: bill_number
+      label: Bill Number
+      hint: Invoice or bill reference number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: bill_date
+      label: Bill Date
+      hint: Date on the bill or invoice
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: bill_due_date
+      label: Due Date
+      hint: Payment due date
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: bill_amount
+      label: Bill Amount
+      hint: Total amount due
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: bill_description
+      label: Bill Description
+      hint: Brief description of charges
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: payment_details
+      label: Payment Details
+      hint: Specify payment information
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: payment_amount
+      label: Payment Amount
+      hint: Amount to be paid
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: payment_date
+      label: Payment Date
+      hint: Date payment is being made
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: payment_method
+      label: Payment Method
+      hint: Select payment type
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Check
+      - Cash
+      - PayPal
+      - Venmo
+      required: true
+    - id: 18
+      name: payment_frequency
+      label: Payment Frequency
+      hint: Is this a recurring payment
+      type: select_one
+      options:
+      - One-Time Payment
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 19
+      name: autopay_authorization
+      label: AutoPay Authorization
+      hint: Do you want to enable automatic payments
+      type: select_one
+      options:
+      - Yes - Enable AutoPay
+      - No - Manual Payment Only
+      required: true
+    - id: 20
+      name: payment_notes
+      label: Payment Notes
+      hint: Any additional information about this payment
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: late_fee_acknowledgment
+      label: Late Fee Acknowledgment
+      hint: Understand potential late fees
+      type: select_one
+      options:
+      - I understand late fees may apply if payment is after due date
+      - Payment is being made before due date
+      required: false
+    - id: 22
+      name: confirmation_preference
+      label: Confirmation Preference
+      hint: How would you like to receive confirmation
+      type: select_one
+      options:
+      - Email Confirmation
+      - SMS Confirmation
+      - Both Email and SMS
+      - No Confirmation Needed
+      required: true
+    - id: 23
+      name: authorization_agreement
+      label: Authorization Agreement
+      hint: Confirm payment authorization
+      type: select_one
+      options:
+      - I authorize this payment and certify funds are available
+      - I confirm this payment information is accurate
+      required: true

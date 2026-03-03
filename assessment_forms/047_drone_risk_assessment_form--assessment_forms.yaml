@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Drone Risk Assessment Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: select_one
+      options:
+      - low
+      - medium
+      - high
+      required: false
+    - id: 3
+      name: drone_serial_number
+      label: Drone Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: pilot_training
+      label: Pilot Training
+      hint: null
+      type: select_multiple
+      options:
+      - basic
+      - advanced
+      - refresher
+      required: false
+    - id: 5
+      name: flight_area
+      label: Flight Area
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 6
+      name: drone_height
+      label: Drone Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: pilot_experience
+      label: Pilot Experience
+      hint: null
+      type: select_multiple
+      options:
+      - beginner
+      - intermediate
+      - advanced
+      required: false
+    - id: 8
+      name: drone_weight
+      label: Drone Weight
+      hint: null
+      type: number
+      options: []
+      required: false

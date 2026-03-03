@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Individual Self Assessment Form For Program Management Office
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: goals
+      label: Goals
+      hint: What are your goals and objectives?
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: skills
+      label: Skills
+      hint: Select skills that you feel you are strong in
+      type: select_multiple
+      options:
+      - Analytical
+      - Communication
+      - Project Management
+      - Time Management
+      - Team Management
+      - Leadership
+      - Strategic
+      - Interpersonal
+      required: true
+    - id: 6
+      name: strengths
+      label: Strengths
+      hint: What are your strengths that you feel you have?
+      type: select_one
+      options:
+      - Leadership
+      - Analytical
+      - Communication
+      - Project Management
+      - Time Management
+      - Team Management
+      - Strategic
+      - Interpersonal
+      required: true
+    - id: 7
+      name: weaknesses
+      label: Weaknesses
+      hint: What are your weaknesses that you would like to improve on?
+      type: select_multiple
+      options:
+      - Leadership
+      - Analytical
+      - Communication
+      - Project Management
+      - Time Management
+      - Team Management
+      - Strategic
+      - Interpersonal
+      required: true
+    - id: 8
+      name: evaluation
+      label: Evaluation
+      hint: Evaluate your skills based on the following criteria
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: evaluation_criteria
+      label: Evaluation Criteria
+      hint: Evaluate your skills based on the following criteria
+      type: select_one
+      options:
+      - Leadership
+      - Analytical
+      - Communication
+      - Project Management
+      - Time Management
+      - Team Management
+      - Strategic
+      - Interpersonal
+      required: true
+    - id: 10
+      name: evaluation_score
+      label: Evaluation Score
+      hint: On a scale from 1-10
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: true
+    - id: 11
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: Comments
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: signature
+      label: Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: timestamp
+      label: Timestamp
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false

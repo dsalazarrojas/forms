@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Faculty Research Contribution Assessment Form
+    pages:
+    - id: 1
+      name: faculty_info
+      label: -- Faculty Research Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: faculty_name
+      label: Faculty name
+      hint: Full name for records
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department or unit
+      hint: Faculty departmental affiliation
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: research_output_count
+      label: Number of publications in period
+      hint: Enter a whole number
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: grant_activity
+      label: Grant activity and funding secured
+      hint: Provide totals and major awards
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: impact_assessment
+      label: Impact assessment of research
+      hint: Summary of citations, policy influence, or uptake
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: collaborative_projects
+      label: Collaborative projects and partnerships
+      hint: List key collaborations
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: supervision_activity
+      label: Supervision of graduate students
+      hint: Number of supervised students in period
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: development_needs
+      label: Research development needs
+      hint: Training, infrastructure, or support needed
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assessor_comments
+      label: Assessor comments
+      hint: Evaluator remarks and recommendations
+      type: text
+      options: []
+      required: true

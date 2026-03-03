@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Rebooking Rate Calculator Form
+    pages:
+    - id: 1
+      name: reporting_period
+      label: Reporting Period
+      hint: The time frame for this analysis
+      type: select_one
+      options:
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
+      required: true
+    - id: 2
+      name: reporting_year
+      label: Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: total_clients_served
+      label: Total Number of Clients Served
+      hint: How many unique clients did you serve during this period?
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: new_clients_count
+      label: Number of New Clients
+      hint: Clients served for the first time in this period
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: returning_clients_count
+      label: Number of Returning Clients
+      hint: Clients who returned for another booking
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: repeat_bookings
+      label: Total Repeat Bookings
+      hint: Total number of return bookings in this period
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: cancellations_count
+      label: Number of Cancellations
+      hint: How many clients cancelled after their first booking?
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: did_not_rebook_count
+      label: Clients Who Did Not Rebook
+      hint: Clients who completed service but didn't return
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: average_time_between_bookings
+      label: Average Time Between Bookings
+      hint: In days or weeks
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: service_type
+      label: Primary Service Type
+      hint: null
+      type: select_one
+      options:
+      - Hair and Beauty
+      - Personal Training
+      - Consulting
+      - Cleaning
+      - Pet Care
+      - Healthcare
+      - Other
+      required: true
+    - id: 11
+      name: rebooking_rate_calculated
+      label: Calculated Rebooking Rate
+      hint: Percentage of clients who returned for another booking
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: retention_goal
+      label: Retention Goal
+      hint: What percentage rebooking rate are you targeting?
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: key_factors
+      label: Key Factors Affecting Rebooking Rates
+      hint: Describe what influences client return rates
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: improvement_strategies
+      label: Strategies to Improve Rebooking Rates
+      hint: What will you do to increase client retention?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: notes_additional
+      label: Additional Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

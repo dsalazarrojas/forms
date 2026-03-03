@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Statement Of Financial Needs Authorization Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: financial_needs
+      label: financial needs
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Financial Needs'', ''text'': ''Financial Needs''}'
+      - '{''value'': ''Resources and Authorization'', ''text'': ''Resources and Authorization''}'
+      - '{''value'': ''Other'', ''text'': ''Other''}'
+      required: false
+    - id: 3
+      name: resources_aid
+      label: financial resources aid
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Financial Aid'', ''text'': ''Financial Aid''}'
+      - '{''value'': ''Resources'', ''text'': ''Resources''}'
+      - '{''value'': ''Other'', ''text'': ''Other''}'
+      required: false
+    - id: 4
+      name: user_contact
+      label: User Contact
+      hint: Contact info is optional
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: user_email
+      label: User Email
+      hint: User's email
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: date_of_last_employment
+      label: Date of last employment
+      hint: Date of last employment (or present)
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_last_employment
+      label: Time of last employment
+      hint: Time of last employment (or present)
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_employment
+      label: Reason for employment
+      hint: Reason for employment
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Employed'', ''text'': ''Employed''}'
+      - '{''value'': ''Unemployed'', ''text'': ''Unemployed''}'
+      - '{''value'': ''Student'', ''text'': ''Student''}'
+      - '{''value'': ''Disabled'', ''text'': ''Disabled''}'
+      required: false
+    - id: 10
+      name: statement_date
+      label: Statement date
+      hint: Statement date must be current date
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: financial_needs_details
+      label: Financial Needs Details
+      hint: Financial needs details
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: authorization
+      label: Authorization
+      hint: Authorization
+      type: select_one
+      options:
+      - '{''value'': ''Authorized'', ''text'': ''Authorized''}'
+      - '{''value'': ''Not Authorized'', ''text'': ''Not Authorized''}'
+      required: false
+    - id: 13
+      name: authorization_details
+      label: Authorization details
+      hint: Authorization details
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: Additional information
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: user_signature
+      label: User signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: authorized_signature
+      label: Authorized signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: approval_note
+      label: Approval Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: approval_by
+      label: Approval By
+      hint: Approval by
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: approval_date
+      label: Approval Date
+      hint: Approval Date
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: approval_time
+      label: Approval Time
+      hint: Approval Time
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Approved'', ''text'': ''Approved''}'
+      - '{''value'': ''Not Approved'', ''text'': ''Not Approved''}'
+      - '{''value'': ''Pending'', ''text'': ''Pending''}'
+      required: false
+    - id: 22
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: user_address
+      label: User Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: user_city
+      label: User City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: user_country
+      label: User Country
+      hint: null
+      type: text
+      options: []
+      required: false

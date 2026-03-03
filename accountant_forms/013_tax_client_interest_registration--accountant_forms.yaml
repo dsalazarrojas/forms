@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Client Interest Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: services_of_interest
+      label: Services of Interest
+      hint: null
+      type: select_multiple
+      options:
+      - Tax Return Preparation
+      - Tax Planning
+      - Tax Representation
+      required: false
+    - id: 7
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Español
+      - Français
+      required: false
+    - id: 8
+      name: how_did_you_hear
+      label: How did you hear about us?
+      hint: null
+      type: select_multiple
+      options:
+      - Google Search
+      - Referral
+      - Online Ads
+      - Facebook
+      - Other
+      required: false
+    - id: 9
+      name: date_of_interest
+      label: Date of Interest
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: tax_year_of_interest
+      label: Tax Year of Interest
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: consent_to_terms
+      label: Consent to Terms
+      hint: null
+      type: select_one
+      options:
+      - Accept
+      - Decline
+      required: false
+    - id: 13
+      name: terms_of_service
+      label: Terms of Service
+      hint: null
+      type: select_multiple
+      options:
+      - Accept
+      - Decline
+      required: false
+    - id: 14
+      name: privacy_policy
+      label: Privacy Policy
+      hint: null
+      type: select_one
+      options:
+      - Accept
+      - Decline
+      required: false
+    - id: 15
+      name: agreement
+      label: Agreement
+      hint: null
+      type: select_one
+      options:
+      - Accept
+      - Decline
+      required: false
+    - id: 16
+      name: review
+      label: Review
+      hint: null
+      type: select_one
+      options:
+      - Accept
+      - Decline
+      required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: industrial_equipment_inspection_checklist_form
+    pages:
+    - id: 1
+      name: page1
+      label: page1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: equipment_details
+      label: equipment_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: equipment_inspected
+      label: equipment_inspected
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: condition
+      label: condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: safety_precautions
+      label: safety_precautions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: certification
+      label: certification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recruitment Budget Adjustment Request Form
+    pages:
+    - id: 1
+      name: request_details
+      label: Request details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: adjustment_type
+      label: adjustment_type
+      hint: null
+      type: select_one
+      options:
+      - Budget Increase
+      - Budget Decrease
+      - Budget Adjustment
+      required: false
+    - id: 3
+      name: budget_category
+      label: budget_category
+      hint: null
+      type: select_one
+      options:
+      - salary
+      - non_salary
+      - other
+      required: false
+    - id: 4
+      name: budget_amount
+      label: budget_amount
+      hint: Requested budget
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: request_date
+      label: Request date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: comment
+      label: Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: user_requesting
+      label: User requesting
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Jim
+      required: false
+    - id: 8
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - Accounting
+      - Marketing
+      - IT
+      required: false
+    - id: 9
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Jim
+      required: false
+    - id: 10
+      name: submitted_date
+      label: Submitted date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: review_status
+      label: Review status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: false
+    - id: 12
+      name: review_comments
+      label: Review comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: review_by
+      label: Review by
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Jim
+      required: false
+    - id: 14
+      name: updated_date
+      label: Updated date
+      hint: null
+      type: date
+      options: []
+      required: false

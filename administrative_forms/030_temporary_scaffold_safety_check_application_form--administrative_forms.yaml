@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Temporary Scaffold Safety Check Application Form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: scaffold_type
+      label: Scaffold Type
+      hint: null
+      type: select_multiple
+      options:
+      - scaffold_type_a
+      - scaffold_type_b
+      required: false
+    - id: 3
+      name: site_location
+      label: Site Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: finish_date
+      label: Finish Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: company_address
+      label: Company Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - another_tool
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: inspector_signature
+      label: Inspector Signature
+      hint: null
+      type: note
+      options: []
+      required: false

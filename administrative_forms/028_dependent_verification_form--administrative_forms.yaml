@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dependent Verification Form
+    pages:
+    - id: 1
+      name: dependent_verification_form_info
+      label: Dependent Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dependents
+      label: Dependents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Enter date of birth
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: dependent_verification_form_docs
+      label: Dependent Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: social_security_number
+      label: Social Security Number
+      hint: Enter SSN
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: driver_license_number
+      label: Driver License Number
+      hint: Enter DL Number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: dependent_verification_form_signature
+      label: Dependent Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: dependent_verification_form_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: dependent_verification_form_status
+      label: Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: dependent_verification_form_reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false

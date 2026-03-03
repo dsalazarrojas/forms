@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adoption Certificate Application
+    pages:
+    - id: 1
+      name: section_applicant_contact
+      label: -- Applicant Contact Info --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_full_name
+      label: Applicant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: For application status updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: section_case_details
+      label: -- Adoption Case Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: case_reference_number
+      label: Case Reference Number
+      hint: Issued during the adoption process
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: final_decree_date
+      label: Final Decree Date
+      hint: Date of the court order
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: court_of_jurisdiction
+      label: Court of Jurisdiction
+      hint: The court that finalized the adoption
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_doc_request
+      label: -- Document Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: number_of_certified_copies
+      label: Number of Certified Copies
+      hint: Standard fee applies per copy
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5 or more
+      required: true
+    - id: 11
+      name: delivery_method
+      label: Delivery Method
+      hint: How should we send the documents?
+      type: select_one
+      options:
+      - Standard mail
+      - Express courier
+      - In-person pickup
+      required: true
+    - id: 12
+      name: mailing_address_for_certificates
+      label: Mailing Address for Certificates
+      hint: If different from home address
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: payment_method
+      label: Payment Method
+      hint: Processing fee payment
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Money Order
+      required: true
+    - id: 14
+      name: additional_requests_or_instructions
+      label: Additional Requests or Instructions
+      hint: Any specific requirements for the certificate
+      type: text
+      options: []
+      required: false

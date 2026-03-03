@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Family Event Attendance Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: family_size
+      label: Family Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: family_type
+      label: Family Type
+      hint: null
+      type: select_one
+      options:
+      - Family with kids
+      - Family with no kids
+      - Other
+      required: false
+    - id: 10
+      name: attended_event
+      label: Attended Event
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 13
+      name: comments2
+      label: Comments2
+      hint: null
+      type: note
+      options: []
+      required: false

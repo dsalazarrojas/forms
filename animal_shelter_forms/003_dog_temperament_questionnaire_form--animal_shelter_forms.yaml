@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dog Temperament Questionnaire Form
+    pages:
+    - id: 1
+      name: user_input
+      label: userInput
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dog_breed
+      label: dogBreed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: socialization_status
+      label: socializationStatus
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: energy_level
+      label: energyLevel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: health_status
+      label: healthStatus
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: behavior_issues
+      label: behaviorIssues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: rescue_organization
+      label: rescueOrganization
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: owner_name
+      label: ownerName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_info
+      label: contactInfo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: dog_license
+      label: dogLicense
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

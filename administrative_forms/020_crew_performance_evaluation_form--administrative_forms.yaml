@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Crew Performance Evaluation Form
+    pages:
+    - id: 1
+      name: crew_performance_evaluation_form_1
+      label: form_instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_members
+      label: team_members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: performance_metrics
+      label: performance_metrics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: evaluation_date
+      label: evaluation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: performance_rating
+      label: performance_rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Needs Improvement
+      required: false
+    - id: 6
+      name: performance_comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: action_items
+      label: action_items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: follow_up_actions
+      label: follow_up_actions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: final_evaluation
+      label: final_evaluation
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      required: false
+    - id: 10
+      name: final_comments
+      label: final_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_comments
+      label: follow_up_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: performance_review
+      label: performance_review
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: evaluation_frequency
+      label: evaluation_frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: evaluation_cycle
+      label: evaluation_cycle
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

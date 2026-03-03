@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Form 1040
+    pages:
+    - id: 1
+      name: reporting_income
+      label: Reporting income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: claim_deductions
+      label: Claiming deductions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: tax_liability
+      label: Tax liability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: payments_and_refunds
+      label: Payments and refunds
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: tax_law_compliance
+      label: Tax law compliance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: amount_owed
+      label: Amount owed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: reporting_payments
+      label: Reporting payments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: claiming_credits
+      label: Claiming credits
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

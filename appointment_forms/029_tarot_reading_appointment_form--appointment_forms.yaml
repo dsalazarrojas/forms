@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tarot Reading Appointment Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reading_type
+      label: Reading Type
+      hint: null
+      type: select_one
+      options:
+      - tarot_reading
+      - card_reading
+      - palm_reading
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: tarot_card_reader
+      label: Tarot Card Reader
+      hint: null
+      type: select_one
+      options:
+      - tarot_reader1
+      - tarot_reader2
+      - tarot_reader3
+      required: false
+    - id: 7
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - location1
+      - location2
+      - location3
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

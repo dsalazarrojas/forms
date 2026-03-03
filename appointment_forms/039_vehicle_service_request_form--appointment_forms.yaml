@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Service Request Form
+    pages:
+    - id: 1
+      name: user_inputs
+      label: User Inputs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: submit_summary
+      label: Submit Summary
+      hint: Please enter a brief summary of the service request.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: submit_button
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

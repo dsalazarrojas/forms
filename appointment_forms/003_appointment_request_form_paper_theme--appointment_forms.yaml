@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Appointment Request Form Paper Theme
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: appointment_info
+      label: Appointment Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: appointment_date
+      label: Desired Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: appointment_time
+      label: Preferred Time
+      hint: null
+      type: select_one
+      options:
+      - 8:00 AM
+      - 9:00 AM
+      - 10:00 AM
+      - 11:00 AM
+      - 1:00 PM
+      - 2:00 PM
+      - 3:00 PM
+      required: true
+    - id: 9
+      name: service_type
+      label: Type of Service
+      hint: null
+      type: select_one
+      options:
+      - Haircut
+      - Color Treatment
+      - Styling
+      - Other
+      required: true
+    - id: 10
+      name: comments
+      label: Special Requests or Comments
+      hint: Tell us about any specific needs
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: first_time_customer
+      label: Are you a first-time customer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: how_found
+      label: How Did You Find Us
+      hint: null
+      type: select_one
+      options:
+      - Friend Referral
+      - Online Search
+      - Social Media
+      - Walk-in
+      - Other
+      required: false

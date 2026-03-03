@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Factory Equipment Inspection Form
+    pages:
+    - id: 1
+      name: main
+      label: main page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: equipment_condition
+      label: Equipment Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: maintenance_needs
+      label: Maintenance Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: main
+      label: main page-2
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 7
+      name: maintenance_needs_2
+      label: Additional Maintenance Needs
+      hint: null
+      type: select_one
+      options:
+      - High Priority
+      - Medium Priority
+      - Low Priority
+      required: false
+    - id: 8
+      name: equipment_id
+      label: Equipment ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: equipment_condition_2
+      label: Equipment Condition Rating
+      hint: null
+      type: number
+      options: []
+      required: false

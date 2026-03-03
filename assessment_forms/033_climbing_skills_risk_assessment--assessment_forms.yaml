@@ -1,0 +1,241 @@
+inputSchema:
+  type: object
+  properties:
+    title: Climbing Skills Risk Assessment
+    pages:
+    - id: 1
+      name: climber_section
+      label: -- Climber Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_assessment
+      label: Date of Assessment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: assessor_name
+      label: Assessor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: experience_section
+      label: -- Climbing Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: climbing_type
+      label: Type of climbing experience
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Bouldering
+      - Top-rope
+      - Sport/Lead climbing
+      - Trad climbing
+      - Mountaineering
+      - Indoor gym
+      - Outdoor crag
+      - Other
+      required: true
+    - id: 7
+      name: years_experience
+      label: Years of climbing experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: experience_level
+      label: Self-assessed experience level
+      hint: null
+      type: select_one
+      options:
+      - Beginner (less than 1 year)
+      - Intermediate (1-3 years)
+      - Advanced (3-5 years)
+      - Expert (5+ years)
+      required: true
+    - id: 9
+      name: technical_section
+      label: -- Technical Skills Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: belay_competency
+      label: Belay competency level
+      hint: null
+      type: select_one
+      options:
+      - Not competent
+      - Basic competency
+      - Competent
+      - Highly competent
+      required: true
+    - id: 11
+      name: rope_management
+      label: Rope management skills
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 12
+      name: anchor_knowledge
+      label: Anchor placement and building knowledge
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Basic
+      - Intermediate
+      - Advanced
+      - Expert
+      required: false
+    - id: 13
+      name: physical_section
+      label: -- Physical Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: grip_strength
+      label: Grip strength assessment
+      hint: null
+      type: select_one
+      options:
+      - Below average
+      - Average
+      - Above average
+      - Excellent
+      required: true
+    - id: 15
+      name: core_strength
+      label: Core strength
+      hint: null
+      type: select_one
+      options:
+      - Below average
+      - Average
+      - Above average
+      - Excellent
+      required: true
+    - id: 16
+      name: flexibility
+      label: Flexibility and mobility
+      hint: null
+      type: select_one
+      options:
+      - Below average
+      - Average
+      - Above average
+      - Excellent
+      required: true
+    - id: 17
+      name: endurance
+      label: Cardiovascular endurance
+      hint: null
+      type: select_one
+      options:
+      - Below average
+      - Average
+      - Above average
+      - Excellent
+      required: true
+    - id: 18
+      name: risk_section
+      label: -- Risk Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: fear_management
+      label: Fear and anxiety management
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 20
+      name: risk_awareness
+      label: Risk awareness and judgment
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 21
+      name: decision_making
+      label: Decision-making under pressure
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 22
+      name: injuries_section
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: past_injuries
+      label: Past climbing-related injuries
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: current_limitations
+      label: Current physical limitations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: overall_risk
+      label: Overall risk assessment rating
+      hint: null
+      type: select_one
+      options:
+      - Low risk
+      - Moderate risk
+      - High risk
+      - Very high risk
+      required: true

@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Assessment Form
+    pages:
+    - id: 1
+      name: client_information
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: vital_signs
+      label: Vital Signs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: medications
+      label: Meds
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: physical_condition
+      label: Physical Condition
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 6
+      name: client_goals
+      label: Client Goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: assessment_results
+      label: Assessment Results
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: exercise_plan
+      label: Exercise Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: fitness_level
+      label: Fitness Level
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: true
+    - id: 10
+      name: pain_level
+      label: Pain Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: exercise_recommendations
+      label: Exercise Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: nutrition_plan
+      label: Nutrition Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: client_outcomes
+      label: Client Outcomes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_appointments
+      label: Follow Up Appointments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: fitness_goals
+      label: Fitness Goals
+      hint: null
+      type: text
+      options: []
+      required: false

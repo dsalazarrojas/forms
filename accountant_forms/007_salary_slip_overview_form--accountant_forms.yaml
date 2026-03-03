@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Salary Slip Overview Form
+    pages:
+    - id: 1
+      name: employee_info
+      label: Employee Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_id
+      label: Company ID
+      hint: Enter company ID
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pay_date
+      label: Pay Date
+      hint: Enter pay date
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: salary_rate
+      label: Salary Rate
+      hint: Enter salary rate
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: employee_name
+      label: Employee Name
+      hint: Enter employee name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Sales
+      - Marketing
+      - IT
+      required: false
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: salary_dollars
+      label: Salary (USD)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: tax_rate
+      label: Tax Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: gross_salary
+      label: Gross Salary
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: net_pay
+      label: Net Pay
+      hint: null
+      type: number
+      options: []
+      required: false

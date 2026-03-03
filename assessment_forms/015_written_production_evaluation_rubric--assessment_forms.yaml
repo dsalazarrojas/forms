@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Written Production Evaluation Rubric
+    pages:
+    - id: 1
+      name: first_page
+      label: written_production_evaluation_rubric
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: section_title
+      label: written_production_assessment_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: written_production_rubric
+      label: written_production_evaluation_rubric
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''rubric_option_1''}'
+      - '{''value'': ''rubric_option_2''}'
+      - '{''value'': ''rubric_option_3''}'
+      - '{''value'': ''rubric_option_4''}'
+      required: true
+    - id: 4
+      name: written_production_comment
+      label: written_production_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: written_production_score
+      label: written_production_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: teacher_notes
+      label: written_production_evaluation_rubric_teacher_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: form_submission_notes
+      label: form_submission_notes
+      hint: null
+      type: text
+      options: []
+      required: false

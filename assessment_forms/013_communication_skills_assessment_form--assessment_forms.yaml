@@ -1,0 +1,92 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Communication Skills Assessment
+    pages:
+      - id: 1
+        name: participant_name
+        label: Participant name
+        hint: Name of person being assessed
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: role
+        label: Role or position
+        hint: Job title or student role
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: verbal_communication
+        label: Verbal communication clarity
+        hint: Rate from 1 lowest to 5 highest
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 4
+        name: listening_skills
+        label: Listening skills
+        hint: Rate responsiveness and attentiveness
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 5
+        name: written_communication
+        label: Written communication quality
+        hint: Clarity grammar and structure
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 6
+        name: non_verbal_skills
+        label: Non verbal communication
+        hint: Body language and eye contact
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 7
+        name: overall_comments
+        label: Overall comments and recommendations
+        hint: Provide constructive feedback
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: assessor_name
+        label: Assessor name
+        hint: Person completing the assessment
+        type: text
+        options: []
+        required: true

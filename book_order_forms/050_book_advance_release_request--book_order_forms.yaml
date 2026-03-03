@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book Advance Release Request
+    pages:
+    - id: 1
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: requester_name
+      label: Requester Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requester_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization
+      label: Organization or Publication
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization_type
+      label: Organization Type
+      hint: null
+      type: select_one
+      options:
+      - Media Outlet
+      - Book Review Publication
+      - Blogger
+      - Author Platform
+      - Educational Institution
+      - Library
+      - Bookstore
+      - Other
+      required: true
+    - id: 7
+      name: professional_credentials
+      label: Professional Credentials
+      hint: Title, credentials, publications
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: book_title
+      label: Book Title Requested
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: book_author
+      label: Book Author
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: book_isbn
+      label: Book ISBN
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: book_publication_date
+      label: Scheduled Publication Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: advance_copies_requested
+      label: Number of Advance Copies Requested
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: format_preference
+      label: Preferred Format
+      hint: null
+      type: select_one
+      options:
+      - Hardcover
+      - Paperback
+      - eBook
+      - Audiobook
+      - Mixed Formats
+      - No Preference
+      required: true
+    - id: 14
+      name: intended_use
+      label: Intended Use of Advance Copy
+      hint: null
+      type: select_one
+      options:
+      - Book Review
+      - Feature Article
+      - Interview
+      - Promotional Material
+      - Educational Use
+      - Research
+      - Recommendation
+      - Other
+      required: true
+    - id: 15
+      name: publication_platform
+      label: Publication Platform
+      hint: Where it will be featured
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: audience_reach
+      label: Estimated Audience Reach
+      hint: Circulation or followers
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: planned_publication_date
+      label: Planned Publication Date of Review
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: embargo_acceptable
+      label: Can You Respect Publication Embargo
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Have Questions
+      required: true
+    - id: 19
+      name: embargo_concern_explanation
+      label: If No - Explain Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: previous_coverage
+      label: Previous Coverage of This Author
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: similar_books_reviewed
+      label: Similar Books Recently Reviewed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: shipping_city_state_zip
+      label: City - State - Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: press_release_authorization
+      label: Permission to Use in Press Releases
+      hint: null
+      type: select_one
+      options:
+      - Yes - Authorize
+      - No - Do Not Authorize
+      - Other Terms - Contact Me
+      required: true
+    - id: 25
+      name: request_certification
+      label: I certify the above information is accurate
+      hint: null
+      type: select_one
+      options:
+      - I Certify
+      - I Cannot Certify
+      required: true

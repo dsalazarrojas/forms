@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Complaint Escalation Request Form
+    pages:
+    - id: 1
+      name: tenant_complaint_escalation_request_form_page_1
+      label: Escalate Complaint
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: escalation_reason
+      label: Escalation Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: escalate_to
+      label: Escalate To
+      hint: null
+      type: select_one
+      options:
+      - Tenant Manager
+      - Property Management
+      required: true
+    - id: 4
+      name: description
+      label: Description of Issue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: select_multiple
+      options:
+      - Tenant Agreement
+      - Lease Agreement
+      - Rent Roll
+      required: false
+    - id: 6
+      name: preferred_contact
+      label: Preferred Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: tenant_contact_information
+      label: Tenant Contact Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: property_manager_contact_information
+      label: Property Manager Contact Information
+      hint: null
+      type: note
+      options: []
+      required: false

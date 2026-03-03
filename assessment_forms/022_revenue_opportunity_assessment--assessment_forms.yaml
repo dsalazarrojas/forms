@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Revenue Opportunity Assessment
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: sales_manager
+      label: Sales Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: account_owner
+      label: Account Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: revenue_value
+      label: Revenue Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: close_probability
+      label: Close Probability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: pipeline_stage
+      label: Pipeline Stage
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Pipeline Stage 1''}'
+      - '{''value'': ''Pipeline Stage 2''}'
+      - '{''value'': ''Pipeline Stage 3''}'
+      required: false
+    - id: 7
+      name: deal_description
+      label: Deal Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: opportunity_type
+      label: Opportunity Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''New Opportunity''}'
+      - '{''value'': ''Existing Opportunity''}'
+      required: false
+    - id: 9
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: company_size
+      label: Company Size
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Less than 10 employees''}'
+      - '{''value'': ''10-100 employees''}'
+      - '{''value'': ''More than 100 employees''}'
+      required: false

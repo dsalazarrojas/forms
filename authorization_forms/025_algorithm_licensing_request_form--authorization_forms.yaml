@@ -1,0 +1,246 @@
+inputSchema:
+  type: object
+  properties:
+    title: Algorithm Licensing Request Form
+    pages:
+    - id: 1
+      name: request_id
+      label: Request ID
+      hint: Unique request identifier
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: request_date
+      label: Request Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: requester_name
+      label: Requester Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requester_email
+      label: Requester Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: organization
+      label: Organization
+      hint: Company or institution
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: algorithm_name
+      label: Algorithm Name
+      hint: Name or identifier of algorithm
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: algorithm_version
+      label: Algorithm Version
+      hint: Version number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: licensing_purpose
+      label: Purpose of Licensing
+      hint: Why do you need this license?
+      type: select_one
+      options:
+      - Commercial product development
+      - Research and development
+      - Academic research
+      - Internal business use
+      - Integration into existing product
+      - Evaluation/testing
+      - Other
+      required: true
+    - id: 11
+      name: intended_use_description
+      label: Intended Use Description
+      hint: Describe how you will use the algorithm
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: license_type_requested
+      label: License Type Requested
+      hint: Type of license needed
+      type: select_one
+      options:
+      - Non-exclusive license
+      - Exclusive license
+      - Research license
+      - Commercial license
+      - Enterprise license
+      - Academic license
+      - Trial license
+      required: true
+    - id: 13
+      name: license_duration
+      label: License Duration
+      hint: How long do you need the license?
+      type: select_one
+      options:
+      - 1 year
+      - 2 years
+      - 3 years
+      - 5 years
+      - Perpetual
+      - Project-based
+      required: true
+    - id: 14
+      name: geographic_scope
+      label: Geographic Scope
+      hint: Where will it be used?
+      type: select_one
+      options:
+      - North America
+      - Europe
+      - Asia Pacific
+      - Global
+      - Specific country only
+      required: true
+    - id: 15
+      name: expected_users
+      label: Expected Number of Users
+      hint: How many will use it?
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: integration_details
+      label: Integration Details
+      hint: How will it be integrated?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: technical_requirements
+      label: Technical Requirements
+      hint: System requirements
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: budget_range
+      label: Budget Range
+      hint: Licensing budget
+      type: select_one
+      options:
+      - Under $10,000
+      - $10,000 - $50,000
+      - $50,001 - $100,000
+      - $100,001 - $500,000
+      - Over $500,000
+      - To be determined
+      required: false
+    - id: 19
+      name: timeline
+      label: Project Timeline
+      hint: When do you need access?
+      type: select_one
+      options:
+      - Immediately
+      - Within 1 month
+      - Within 3 months
+      - Within 6 months
+      - Flexible
+      required: true
+    - id: 20
+      name: previous_license_history
+      label: Previous License History
+      hint: Have you licensed before?
+      type: select_one
+      options:
+      - Yes, currently licensed
+      - Yes, previously licensed
+      - No, first time
+      required: true
+    - id: 21
+      name: compliance_agreement
+      label: Compliance Agreement
+      hint: Will you comply with terms?
+      type: select_one
+      options:
+      - Yes, I agree to comply
+      - Need to review terms first
+      required: true
+    - id: 22
+      name: nda_required
+      label: NDA Required
+      hint: Do you need an NDA?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: additional_terms
+      label: Additional Terms or Conditions
+      hint: Any special requirements?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: references
+      label: Professional References
+      hint: Provide references if available
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: supporting_documents
+      label: Supporting Documents
+      hint: List attached documents
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: decision_timeframe
+      label: Decision Timeframe
+      hint: When do you need a decision?
+      type: date
+      options: []
+      required: false
+    - id: 27
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: authorization_signature
+      label: Authorization
+      hint: I authorize this request
+      type: select_one
+      options:
+      - I authorize this licensing request
+      - I do not authorize
+      required: true

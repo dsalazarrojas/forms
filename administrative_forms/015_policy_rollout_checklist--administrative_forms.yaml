@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: policy_rollout_checklist
+    pages:
+    - id: 1
+      name: new_policy
+      label: New Policy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: policy_title
+      label: Policy Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: policy_description
+      label: Policy Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: policy_type
+      label: Policy Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: policy_owner
+      label: Policy Owner
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: policy_status
+      label: Policy Status
+      hint: null
+      type: select_multiple
+      options:
+      - Draft
+      - In Development
+      - Published
+      - Expired
+      required: false
+    - id: 7
+      name: tasks_due_date
+      label: Tasks Due Date
+      hint: YYYY-MM-YY
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: tasks_completed_date
+      label: Tasks Completed Date
+      hint: YYYY-MM-YY
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: communication_plan
+      label: Communication Plan
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: communication_date
+      label: Communication Date
+      hint: YYYY-MM-YY
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: review_cycle
+      label: Review Cycle
+      hint: 'null'
+      type: text
+      options: []
+      required: false

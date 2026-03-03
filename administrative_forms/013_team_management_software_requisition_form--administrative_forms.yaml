@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Management Software Requisition Form
+    pages:
+    - id: 1
+      name: team_request_form
+      label: Team Request Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: requested_date
+      label: Requested Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: user_requester
+      label: Requester
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: team_description
+      label: Team Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: software_requisition
+      label: Software Requisition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: software_requester
+      label: Requester
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: software_version
+      label: Software Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: software_vendor
+      label: Software Vendor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: requisitioned_by
+      label: Requisited By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: request_reason
+      label: Request Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: form_status
+      label: Form Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 18
+      name: submitter
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

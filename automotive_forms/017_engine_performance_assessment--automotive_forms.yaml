@@ -1,0 +1,240 @@
+inputSchema:
+  type: object
+  properties:
+    title: Engine Performance Assessment
+    pages:
+    - id: 1
+      name: vehicle_info
+      label: Vehicle Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: engine_condition
+      label: Engine Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Bad'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Fair'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Good'', ''value'': 3}'
+      - '{''id'': 4, ''label'': ''Excellent'', ''value'': 4}'
+      required: false
+    - id: 3
+      name: performance_rating
+      label: Performance Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: oil_quality
+      label: Oil Quality
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Low'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Medium'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''High'', ''value'': 3}'
+      required: false
+    - id: 5
+      name: fuel_level
+      label: Fuel Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Empty'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Less than 1/4'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''1/4 to 1/2'', ''value'': 3}'
+      - '{''id'': 4, ''label'': ''1/2 to 3/4'', ''value'': 4}'
+      - '{''id'': 5, ''label'': ''More than 3/4'', ''value'': 5}'
+      required: false
+    - id: 6
+      name: engine_problem
+      label: Engine Problem
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Low Oil Level'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''High Water Temperature'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Leaking Oil'', ''value'': 3}'
+      - '{''id'': 4, ''label'': ''Overheating'', ''value'': 4}'
+      - '{''id'': 5, ''label'': ''Other (please specify)'', ''value'': 5}'
+      - '{''id'': 6, ''label'': ''No Problem'', ''value'': 6}'
+      required: false
+    - id: 7
+      name: fuel_type
+      label: Fuel Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Regular'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Mid-Grade'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Premium'', ''value'': 3}'
+      - '{''id'': 4, ''label'': ''Diesel'', ''value'': 4}'
+      - '{''id'': 5, ''label'': ''Other (please specify)'', ''value'': 5}'
+      required: false
+    - id: 8
+      name: engine_size
+      label: Engine Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: engine_type
+      label: Engine Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Gas'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Diesel'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Hybrid'', ''value'': 3}'
+      - '{''id'': 4, ''label'': ''Other (please specify)'', ''value'': 4}'
+      required: false
+    - id: 10
+      name: fuel_efficiency
+      label: Fuel Efficiency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: engine_year
+      label: Engine Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: engine_oil_filter
+      label: Engine Oil Filter
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Clean'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Dirty'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Not Installed'', ''value'': 3}'
+      - '{''id'': 4, ''label'': ''Other (please specify)'', ''value'': 4}'
+      required: false
+    - id: 13
+      name: engine_air_filter
+      label: Engine Air Filter
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Clean'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Dirty'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Not Installed'', ''value'': 3}'
+      - '{''id'': 4, ''label'': ''Other (please specify)'', ''value'': 4}'
+      required: false
+    - id: 14
+      name: transmission_type
+      label: Transmission Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Automatic'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Manual'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Semi-Automatic'', ''value'': 3}'
+      - '{''id'': 4, ''label'': ''CVT'', ''value'': 4}'
+      - '{''id'': 5, ''label'': ''Other (please specify)'', ''value'': 5}'
+      required: false
+    - id: 15
+      name: vehicle_weight
+      label: Vehicle Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: transmission_oil_quality
+      label: Transmission Oil Quality
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Low'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Medium'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''High'', ''value'': 3}'
+      - '{''id'': 4, ''label'': ''Excellent'', ''value'': 4}'
+      required: false
+    - id: 17
+      name: transmission_oil_filter
+      label: Transmission Oil Filter
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Clean'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Dirty'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Not Installed'', ''value'': 3}'
+      - '{''id'': 4, ''label'': ''Other (please specify)'', ''value'': 4}'
+      required: false
+    - id: 18
+      name: drive_position
+      label: Drive Position
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Front-Wheel Drive'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Rear-Wheel Drive'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''All-Wheel Drive'', ''value'': 3}'
+      - '{''id'': 4, ''label'': ''Four-Wheel Drive'', ''value'': 4}'
+      - '{''id'': 5, ''label'': ''Other (please specify)'', ''value'': 5}'
+      required: false
+    - id: 19
+      name: fuel_mileage
+      label: Fuel Mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: fuel_maintenance
+      label: Fuel Maintenance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: engine_oil_leak
+      label: Engine Oil Leak
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': False, ''value'': 1}'
+      - '{''id'': 2, ''label'': True, ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Other (please specify)'', ''value'': 3}'
+      required: false
+    - id: 22
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''New'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Average'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Used'', ''value'': 3}'
+      - '{''id'': 4, ''label'': ''Other (please specify)'', ''value'': 4}'
+      required: false
+    - id: 23
+      name: vehicle_age
+      label: Vehicle Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Rental Extension Form
+    pages:
+    - id: 1
+      name: section_personal_information
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_full_name
+      label: Customer full name
+      hint: Enter name as on driver license
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: Provide an email for confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact phone number
+      hint: Include country code if outside local area
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: current_reservation_id
+      label: Current reservation id
+      hint: Enter the booking reference number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: extend_until_date
+      label: New return date
+      hint: Select the date you want to extend to
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: additional_days_requested
+      label: Additional days requested
+      hint: Number of extra days to add
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: vehicle_preference
+      label: Vehicle preference for extension
+      hint: Optional change of vehicle type
+      type: select_one
+      options:
+      - Economy
+      - Compact
+      - SUV
+      - Luxury
+      required: false
+    - id: 9
+      name: payment_method_on_file
+      label: Payment method on file
+      hint: Confirm if existing payment will be used
+      type: select_one
+      options:
+      - Yes use existing
+      - No update payment
+      required: true
+    - id: 10
+      name: additional_requests
+      label: Additional requests or notes
+      hint: Any special instructions
+      type: text
+      options: []
+      required: false

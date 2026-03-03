@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Date Selection And Confirmation Form
+    pages:
+    - id: 1
+      name: date_selection_and_confirmation_form
+      label: Select Your Date
+      hint: Select a date and time
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: confirm_booking
+      label: Confirm Booking
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: cancel_booking
+      label: Cancel Booking
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false

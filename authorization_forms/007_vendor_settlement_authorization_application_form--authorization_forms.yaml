@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Settlement Authorization Application Form
+    pages:
+    - id: 1
+      name: vendor_settlement_form
+      label: Vendor Settlement Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendor_details
+      label: Vendor Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: settlement_details
+      label: Settlement Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: bank_details
+      label: Bank Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: bank_routing_info
+      label: Bank Routing Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: bank_account_info
+      label: Bank Account Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: tax_id_number
+      label: Tax ID Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: tax_id_type
+      label: Tax ID Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: tax_id_date_of_issue
+      label: Tax ID Date Of Issue
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: tax_id_place_of_issue
+      label: Tax ID Place Of Issue
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: tax_id_status
+      label: Tax ID Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: tax_id_expire_date
+      label: Tax ID Expire Date
+      hint: null
+      type: date
+      options: []
+      required: false

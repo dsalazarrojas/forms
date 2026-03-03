@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: esp-feature-configuration-request
+    pages:
+    - id: 1
+      name: stability_control_feature_configuration
+      label: Stability Control Feature Configuration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: requestor_info
+      label: Requestor Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: feature_request_type
+      label: Feature Request Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: feature_configuration_type
+      label: Feature Configuration Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: feature_configuration_date
+      label: Feature Configuration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: feature_configuration_time
+      label: Feature Configuration Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: reviewer_remark
+      label: Reviewer Remark
+      hint: null
+      type: text
+      options: []
+      required: false

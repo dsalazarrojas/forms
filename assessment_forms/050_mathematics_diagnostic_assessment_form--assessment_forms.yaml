@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mathematics Diagnostic Assessment Form
+    pages:
+    - id: 1
+      name: student_info
+      label: Student Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: math_subject
+      label: Math Subject
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Algebra''}'
+      - '{2: ''Geometry''}'
+      - '{3: ''Trigonometry''}'
+      - '{4: ''Calculus''}'
+      - '{5: ''Statistics''}'
+      required: false
+    - id: 3
+      name: student_grade
+      label: Student Grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: student_level
+      label: Student Level
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Elementary''}'
+      - '{2: ''Intermediate''}'
+      - '{3: ''High School''}'
+      required: false
+    - id: 5
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: math_readiness
+      label: Math Readiness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: math_needs
+      label: Math Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: school_info
+      label: School Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: teacher_info
+      label: Teacher Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: assessment_result
+      label: Assessment Result
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: false

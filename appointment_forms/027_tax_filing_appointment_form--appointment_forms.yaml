@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: tax_filing_appointment_form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: tax_filing_session_date
+      label: tax_filing_session_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: tax_filing_session_time
+      label: tax_filing_session_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: tax_filing_session_start
+      label: tax_filing_session_start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: client_contact_number
+      label: Client Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: tax_preparer
+      label: Tax Preparer
+      hint: null
+      type: select_one
+      options:
+      - Tax Professional
+      - Tax Consultant
+      - Tax Agent
+      required: false
+    - id: 8
+      name: appointment_location
+      label: Appointment Location
+      hint: null
+      type: select_multiple
+      options:
+      - Location 1
+      - Location 2
+      - Location 3
+      required: false
+    - id: 9
+      name: appointment_note
+      label: Appointment Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_footer
+      label: Form Footer
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: tax_preparer_note
+      label: Tax Preparer Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: tax_filing_session_length
+      label: tax_filing_session_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: appointment_status
+      label: Appointment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Cancelled
+      required: false

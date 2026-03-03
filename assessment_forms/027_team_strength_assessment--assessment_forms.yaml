@@ -1,0 +1,39 @@
+inputSchema:
+  type: object
+  properties:
+    title: team_strength_assessment
+    pages:
+    - id: 1
+      name: team_strengthening
+      label: Team Strengthening
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: team_collaboration
+      label: Team Collaboration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: team_dynamics
+      label: Team Dynamics
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: team_performance
+      label: Team Performance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

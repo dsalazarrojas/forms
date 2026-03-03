@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Calendar Planning Absence Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: Full name of employee requesting absence
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Your department or team
+      type: select_one
+      options:
+      - Marketing
+      - Content Creation
+      - Social Media
+      - Design
+      - Editorial
+      - Video Production
+      - Analytics
+      - Management
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Work email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: absence_type
+      label: Type of Absence
+      hint: What type of absence is this?
+      type: select_one
+      options:
+      - Vacation
+      - Sick Leave
+      - Personal Day
+      - Family Emergency
+      - Medical Appointment
+      - Bereavement
+      - Jury Duty
+      - Other
+      required: true
+    - id: 6
+      name: absence_start_date
+      label: Absence Start Date
+      hint: First day of absence
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: absence_end_date
+      label: Absence End Date
+      hint: Last day of absence
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: return_date
+      label: Return Date
+      hint: Date you will return to work
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: total_days
+      label: Total Days of Absence
+      hint: Number of business days
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: content_responsibilities
+      label: Content Responsibilities During Absence
+      hint: List your key content responsibilities
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: pending_deadlines
+      label: Pending Deadlines
+      hint: Are there any deadlines during your absence?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: deadline_details
+      label: Deadline Details
+      hint: Describe deadlines and how they will be handled
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: coverage_arrangements
+      label: Coverage Arrangements
+      hint: Who will cover your responsibilities?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: handover_completed
+      label: Handover Completed
+      hint: Have you completed handover with covering colleague?
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: true
+    - id: 15
+      name: content_calendar_updated
+      label: Content Calendar Updated
+      hint: Is the content calendar updated for your absence?
+      type: select_one
+      options:
+      - true
+      - false
+      - Partially
+      required: true
+    - id: 16
+      name: scheduled_posts_status
+      label: Scheduled Posts Status
+      hint: Status of scheduled social media posts
+      type: select_one
+      options:
+      - All Scheduled
+      - Some Scheduled
+      - None Scheduled
+      - Not Applicable
+      required: true
+    - id: 17
+      name: urgent_contacts
+      label: Urgent Contact Information
+      hint: Who should be contacted for urgent matters?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: access_instructions
+      label: Access Instructions
+      hint: Any special access instructions for your files
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: manager_approval
+      label: Manager Approval Status
+      hint: Has your manager approved this absence?
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Not Yet Requested
+      required: true
+    - id: 20
+      name: manager_name
+      label: Manager Name
+      hint: Name of your direct manager
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: submission_date
+      label: Submission Date
+      hint: Date this form was submitted
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information about your absence
+      type: text
+      options: []
+      required: false

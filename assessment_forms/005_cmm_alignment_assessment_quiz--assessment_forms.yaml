@@ -1,0 +1,202 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: CMM Alignment Assessment Quiz
+    pages:
+      - id: 1
+        name: assessor_name
+        label: Assessor Name
+        hint: Full name of the person conducting this assessment
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: organization_name
+        label: Organization Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: assessment_date
+        label: Assessment Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: department_assessed
+        label: Department or Team Being Assessed
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: process_documentation
+        label: Does your organization have documented processes?
+        hint: null
+        type: select_one
+        options:
+          - "Not at all"
+          - "Minimal documentation"
+          - "Some documentation"
+          - "Most processes documented"
+          - "All processes documented"
+        required: true
+      - id: 6
+        name: process_communication
+        label: Are processes effectively communicated to the team?
+        hint: null
+        type: select_one
+        options:
+          - "Not communicated"
+          - "Poorly communicated"
+          - "Somewhat communicated"
+          - "Well communicated"
+          - "Excellently communicated"
+        required: true
+      - id: 7
+        name: process_adherence
+        label: How well does the team adhere to documented processes?
+        hint: null
+        type: select_one
+        options:
+          - "Not followed"
+          - "Rarely followed"
+          - "Sometimes followed"
+          - "Usually followed"
+          - "Consistently followed"
+        required: true
+      - id: 8
+        name: process_monitoring
+        label: Are processes monitored and measured?
+        hint: null
+        type: select_one
+        options:
+          - "No monitoring"
+          - "Minimal monitoring"
+          - "Some monitoring"
+          - "Adequate monitoring"
+          - "Comprehensive monitoring"
+        required: true
+      - id: 9
+        name: quality_assurance
+        label: Is there a quality assurance function in place?
+        hint: null
+        type: select_one
+        options:
+          - "No QA function"
+          - "Minimal QA"
+          - "Basic QA activities"
+          - "Formal QA processes"
+          - "Comprehensive QA program"
+        required: true
+      - id: 10
+        name: requirements_management
+        label: How well are requirements managed and tracked?
+        hint: null
+        type: select_one
+        options:
+          - "Not managed"
+          - "Informally managed"
+          - "Partially managed"
+          - "Formally managed"
+          - "Fully managed with traceability"
+        required: true
+      - id: 11
+        name: supplier_management
+        label: Are supplier/vendor relationships formally managed?
+        hint: null
+        type: select_one
+        options:
+          - "No management"
+          - "Minimal management"
+          - "Informal management"
+          - "Formal procedures"
+          - "Comprehensive management"
+        required: false
+      - id: 12
+        name: process_improvement
+        label: Is there a formal process improvement program?
+        hint: null
+        type: select_one
+        options:
+          - "No improvement program"
+          - "Ad-hoc improvements"
+          - "Some improvement initiatives"
+          - "Formal improvement process"
+          - "Continuous improvement culture"
+        required: true
+      - id: 13
+        name: metrics_collection
+        label: Are metrics actively collected and analyzed?
+        hint: null
+        type: select_one
+        options:
+          - "No metrics"
+          - "Minimal metrics"
+          - "Some metrics collected"
+          - "Regular metrics program"
+          - "Comprehensive metrics analysis"
+        required: false
+      - id: 14
+        name: risk_management
+        label: Are risks identified and managed proactively?
+        hint: null
+        type: select_one
+        options:
+          - "No risk management"
+          - "Minimal risk awareness"
+          - "Basic risk identification"
+          - "Formal risk processes"
+          - "Comprehensive risk management"
+        required: true
+      - id: 15
+        name: training_program
+        label: Does the organization have a training program?
+        hint: null
+        type: select_one
+        options:
+          - "No training program"
+          - "Minimal training"
+          - "Basic training available"
+          - "Formal training program"
+          - "Comprehensive training and mentoring"
+        required: false
+      - id: 16
+        name: estimated_maturity_level
+        label: Estimated CMM Maturity Level
+        hint: What level do you believe this organization is at?
+        type: select_one
+        options:
+          - "Level 1 - Initial"
+          - "Level 2 - Repeatable"
+          - "Level 3 - Defined"
+          - "Level 4 - Managed"
+          - "Level 5 - Optimizing"
+        required: true
+      - id: 17
+        name: improvement_priorities
+        label: Top areas needing improvement
+        hint: List your recommendations for improvement
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: additional_comments
+        label: Additional Assessment Comments
+        hint: null
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Application Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Student'', ''label'': ''Student''}'
+      - '{''id'': 2, ''name'': ''Parent'', ''label'': ''Parent''}'
+      - '{''id'': 3, ''name'': ''Guardian'', ''label'': ''Guardian''}'
+      required: false
+    - id: 3
+      name: academic_history
+      label: Academic History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: school_level
+      label: School Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Elementary'', ''label'': ''Elementary''}'
+      - '{''id'': 2, ''name'': ''Middle School'', ''label'': ''Middle School''}'
+      - '{''id'': 3, ''name'': ''High School'', ''label'': ''High School''}'
+      required: false
+    - id: 7
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

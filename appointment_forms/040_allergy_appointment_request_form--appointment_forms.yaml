@@ -1,0 +1,311 @@
+inputSchema:
+  type: object
+  properties:
+    title: Allergy Appointment Request Form
+    pages:
+    - id: 1
+      name: patient_first_name
+      label: First Name
+      hint: Patient first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_last_name
+      label: Last Name
+      hint: Patient last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 5
+      name: patient_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: patient_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: mailing_address
+      label: Mailing Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Insurance company
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: insurance_id
+      label: Insurance ID Number
+      hint: Policy number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: insurance_group_number
+      label: Group Number
+      hint: Group number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: referral_required
+      label: Referral Required?
+      hint: Does your insurance need referral?
+      type: select_one
+      options:
+      - Yes, I have a referral
+      - No, referral not needed
+      - Not sure
+      required: true
+    - id: 12
+      name: referring_physician
+      label: Referring Physician
+      hint: Doctor name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: appointment_type
+      label: Appointment Type
+      hint: Type of visit needed
+      type: select_one
+      options:
+      - Initial consultation
+      - Follow-up visit
+      - Allergy testing
+      - Skin prick test
+      - Blood test
+      - Patch test
+      - Food challenge
+      - Immunotherapy consultation
+      - Medication refill
+      - Other
+      required: true
+    - id: 14
+      name: reason_for_visit
+      label: Reason for Visit
+      hint: Main concern
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: allergy_types
+      label: Types of Allergies
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Food allergies
+      - Environmental allergies
+      - Drug allergies
+      - Insect sting allergies
+      - Latex allergies
+      - Skin allergies
+      - Seasonal allergies
+      - Pet allergies
+      - Unknown
+      required: true
+    - id: 16
+      name: specific_allergens
+      label: Specific Allergens
+      hint: List known allergens
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: symptom_severity
+      label: Symptom Severity
+      hint: Rate your symptoms
+      type: select_one
+      options:
+      - Mild
+      - Moderate
+      - Severe
+      - Life-threatening (anaphylaxis)
+      required: true
+    - id: 18
+      name: symptoms_experienced
+      label: Symptoms Experienced
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Sneezing
+      - Runny/stuffy nose
+      - Itchy eyes
+      - Watery eyes
+      - Skin rash/hives
+      - Swelling
+      - Difficulty breathing
+      - Wheezing
+      - Coughing
+      - Nausea/vomiting
+      - Anaphylaxis
+      - Other
+      required: true
+    - id: 19
+      name: symptom_duration
+      label: How Long Have You Had Symptoms?
+      hint: Duration
+      type: select_one
+      options:
+      - Less than 1 month
+      - 1-6 months
+      - 6 months - 1 year
+      - 1-5 years
+      - Over 5 years
+      required: true
+    - id: 20
+      name: previous_allergy_treatment
+      label: Previous Allergy Treatment
+      hint: Have you been treated before?
+      type: select_one
+      options:
+      - Yes, currently in treatment
+      - Yes, in the past
+      - No, never treated
+      required: true
+    - id: 21
+      name: current_medications
+      label: Current Medications
+      hint: List all medications
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: family_history_allergies
+      label: Family History of Allergies
+      hint: Any family allergies?
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: false
+    - id: 23
+      name: preferred_clinic_location
+      label: Preferred Clinic Location
+      hint: Which location?
+      type: select_one
+      options:
+      - Main Clinic
+      - Downtown Office
+      - Westside Office
+      - North County Office
+      - Any location
+      required: true
+    - id: 24
+      name: preferred_appointment_date
+      label: Preferred Appointment Date
+      hint: First choice date
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: preferred_appointment_time
+      label: Preferred Appointment Time
+      hint: Time preference
+      type: select_one
+      options:
+      - Morning (8 AM - 12 PM)
+      - Afternoon (12 PM - 4 PM)
+      - Evening (4 PM - 7 PM)
+      - Any time
+      required: true
+    - id: 26
+      name: alternative_dates
+      label: Alternative Dates
+      hint: Other available dates
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: transportation_needs
+      label: Transportation Needs
+      hint: Any special needs?
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: interpreter_needed
+      label: Interpreter Needed
+      hint: Language assistance?
+      type: select_one
+      options:
+      - false
+      - Yes, Spanish
+      - Yes, other (specify)
+      required: false
+    - id: 29
+      name: interpreter_language
+      label: Interpreter Language
+      hint: Which language?
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: how_hear_about_clinic
+      label: How Did You Hear About Us?
+      hint: Source
+      type: select_one
+      options:
+      - Physician referral
+      - Internet search
+      - Insurance directory
+      - Friend/family
+      - Advertisement
+      - Other
+      required: false
+    - id: 31
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: consent_to_treatment
+      label: Consent to Treatment
+      hint: Do you consent?
+      type: select_one
+      options:
+      - Yes, I consent to treatment
+      - false
+      required: true
+    - id: 33
+      name: hipaa_acknowledgment
+      label: HIPAA Acknowledgment
+      hint: Have you read HIPAA notice?
+      type: select_one
+      options:
+      - Yes, I acknowledge
+      - No, need to review
+      required: true

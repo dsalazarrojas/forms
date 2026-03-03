@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inventory Check Out Form
+    pages:
+    - id: 1
+      name: item_name
+      label: Item Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_checked_out
+      label: Date Checked Out
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: checked_out_by
+      label: Checked Out By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: checked_out_to
+      label: Checked Out To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: item_type
+      label: Item Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: checked_out_status
+      label: Checked Out Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Unknown
+      required: false
+    - id: 8
+      name: checked_out_by_user
+      label: Checked Out By User
+      hint: null
+      type: select_multiple
+      options:
+      - admin
+      - staff
+      - other
+      required: true
+    - id: 9
+      name: checked_out_date
+      label: Checked Out Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: return_status
+      label: Return Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Unknown
+      required: false
+    - id: 12
+      name: return_by
+      label: Return By
+      hint: null
+      type: select_multiple
+      options:
+      - admin
+      - staff
+      - other
+      required: true
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: user_comments
+      label: User Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: system_comments
+      label: System Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: checked_out_by_manager
+      label: Checked Out By Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: checked_out_by_status
+      label: Checked Out By Manager Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Unknown
+      required: false
+    - id: 20
+      name: checked_out_by_manager_user
+      label: Checked Out By Manager User
+      hint: null
+      type: select_multiple
+      options:
+      - admin
+      - staff
+      - other
+      required: false
+    - id: 21
+      name: return_by_manager
+      label: Return By Manager
+      hint: null
+      type: select_multiple
+      options:
+      - admin
+      - staff
+      - other
+      required: false
+    - id: 22
+      name: return_by_manager_status
+      label: Return By Manager Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Unknown
+      required: false
+    - id: 23
+      name: checked_out_by_user_status
+      label: Checked Out By User Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Unknown
+      required: false
+    - id: 24
+      name: checked_out_by_user
+      label: Checked Out By User
+      hint: null
+      type: select_multiple
+      options:
+      - admin
+      - staff
+      - other
+      required: false
+    - id: 25
+      name: checked_out_status_manager
+      label: Checked Out Status Manager
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Unknown
+      required: false

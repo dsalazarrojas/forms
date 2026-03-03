@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: thanksgiving_send_a_message_form
+    pages:
+    - id: 1
+      name: thanksgiving_send_a_message_form_1
+      label: give_thanks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: name
+      label: recipient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: message
+      label: message_to_send
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: sender_email
+      label: sender_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: sender_phone
+      label: sender_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: sender_note
+      label: sender_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: send_message
+      label: send_message
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Thank-you
+      - Greetings
+      - Love
+      - Kindness
+      - Friendship
+      - Other
+      required: false
+    - id: 9
+      name: send_to
+      label: send_to
+      hint: null
+      type: select_multiple
+      options:
+      - family
+      - friends
+      - other
+      required: false
+    - id: 10
+      name: send_to_other
+      label: send_to_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: send_to_note
+      label: send_to_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: send_to_email
+      label: send_to_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: send_to_phone
+      label: send_to_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: send_to_note
+      label: send_to_note
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Value Assessment Form
+    pages:
+    - id: 1
+      name: rent_period
+      label: Rent Period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: rent_type
+      label: Rent Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''monthly''}'
+      - '{''value'': ''weekly''}'
+      required: true
+    - id: 3
+      name: rent_amount
+      label: Rent Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: rent_frequency
+      label: Rent Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''daily''}'
+      - '{''value'': ''monthly''}'
+      - '{''value'': ''yearly''}'
+      required: true
+    - id: 5
+      name: property_type
+      label: Property Type
+      hint: Please select the type of property.
+      type: select_one
+      options:
+      - '{''value'': ''House''}'
+      - '{''value'': ''Apartment''}'
+      - '{''value'': ''Condo''}'
+      required: false
+    - id: 6
+      name: property_status
+      label: Property Status
+      hint: Select the status of the property.
+      type: select_multiple
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''Inactive''}'
+      required: false
+    - id: 7
+      name: unit_id
+      label: Unit ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: unit_value
+      label: Unit Value
+      hint: Select the value of the unit.
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 9
+      name: value_change
+      label: Value Change
+      hint: Select how the unit value has changed.
+      type: select_multiple
+      options:
+      - '{''value'': ''Increase''}'
+      - '{''value'': ''Decrease''}'
+      - '{''value'': ''Stable''}'
+      required: false
+    - id: 10
+      name: reason_change
+      label: Reason Change
+      hint: Select reason for the change.
+      type: select_multiple
+      options:
+      - '{''value'': ''Rent increase''}'
+      - '{''value'': ''Rent decrease''}'
+      - '{''value'': ''Market change''}'
+      required: false
+    - id: 11
+      name: value_amount
+      label: Value Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date_assessment
+      label: Date of Assessment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time_of_assessment
+      label: Time of Assessment
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: user_comments
+      label: User Comments
+      hint: Please enter any comments or concerns.
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: manager_comments
+      label: Manager Comments
+      hint: Please enter any comments or concerns.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: unit_status
+      label: Unit Status
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: unit_address
+      label: Unit Address
+      hint: null
+      type: text
+      options: []
+      required: false

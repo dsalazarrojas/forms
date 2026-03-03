@@ -1,0 +1,317 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Insurance Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: Auto Insurance Questionnaire
+      hint: Please answer the following questions to help us provide you with accurate
+        quotes
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: personal_info
+      label: Personal Information
+      hint: Tell us about yourself
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: gender
+      label: Gender
+      hint: Your gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 7
+      name: marital_status
+      label: Marital Status
+      hint: Current marital status
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      - Separated
+      required: true
+    - id: 8
+      name: email
+      label: Email Address
+      hint: Where should we send your quote
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: address
+      label: Street Address
+      hint: Your home address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: state
+      label: State
+      hint: State of residence
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Florida
+      - Georgia
+      - Other
+      required: true
+    - id: 13
+      name: zip_code
+      label: ZIP Code
+      hint: 5-digit ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: vehicle_questions
+      label: Vehicle Questions
+      hint: Tell us about your vehicle
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: vehicle_year
+      label: Vehicle Year
+      hint: Year of manufacture
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: vehicle_make
+      label: Vehicle Make
+      hint: Manufacturer
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: vehicle_model
+      label: Vehicle Model
+      hint: Model name
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: vehicle_type
+      label: Vehicle Type
+      hint: What type of vehicle
+      type: select_one
+      options:
+      - Sedan
+      - SUV
+      - Truck
+      - Coupe
+      - Convertible
+      - Van
+      - Motorcycle
+      - Other
+      required: true
+    - id: 19
+      name: vehicle_value
+      label: Estimated Vehicle Value
+      hint: Current market value
+      type: select_one
+      options:
+      - Under $10000
+      - $10000-$20000
+      - $20000-$30000
+      - $30000-$50000
+      - Over $50000
+      required: true
+    - id: 20
+      name: ownership_status
+      label: Ownership Status
+      hint: Do you own or lease
+      type: select_one
+      options:
+      - Own outright
+      - Financing
+      - Leasing
+      required: true
+    - id: 21
+      name: driving_questions
+      label: Driving History Questions
+      hint: Your driving record
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: years_licensed
+      label: Years Licensed
+      hint: How long have you been licensed
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - Over 10 years
+      required: true
+    - id: 23
+      name: accidents_past_5_years
+      label: Accidents in Past 5 Years
+      hint: How many at-fault accidents
+      type: select_one
+      options:
+      - None
+      - 1
+      - 2
+      - 3 or more
+      required: true
+    - id: 24
+      name: violations_past_3_years
+      label: Violations in Past 3 Years
+      hint: Speeding tickets or violations
+      type: select_one
+      options:
+      - None
+      - 1
+      - 2
+      - 3 or more
+      required: true
+    - id: 25
+      name: license_suspension
+      label: License Suspension History
+      hint: Has your license ever been suspended
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 26
+      name: insurance_questions
+      label: Insurance Questions
+      hint: Current and desired coverage
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: current_coverage
+      label: Current Insurance Coverage
+      hint: What coverage do you have now
+      type: select_one
+      options:
+      - Liability Only
+      - Liability and Collision
+      - Full Coverage
+      - No Current Insurance
+      required: true
+    - id: 28
+      name: desired_coverage
+      label: Desired Coverage
+      hint: What coverage are you seeking
+      type: select_one
+      options:
+      - State Minimum
+      - Standard Coverage
+      - Full Coverage
+      - Premium Coverage
+      - Not Sure
+      required: true
+    - id: 29
+      name: additional_drivers
+      label: Additional Drivers
+      hint: Will others drive this vehicle
+      type: select_one
+      options:
+      - false
+      - Yes 1 additional
+      - Yes 2 additional
+      - Yes 3 or more
+      required: true
+    - id: 30
+      name: vehicles_to_insure
+      label: Number of Vehicles to Insure
+      hint: How many vehicles need coverage
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4 or more
+      required: true
+    - id: 31
+      name: quote_timeline
+      label: When Do You Need Coverage
+      hint: Your timeline for insurance
+      type: select_one
+      options:
+      - Immediately
+      - Within 1 week
+      - Within 1 month
+      - Just shopping
+      required: true
+    - id: 32
+      name: current_provider
+      label: Current Insurance Provider
+      hint: Who insures you now
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: discounts_interest
+      label: Discounts of Interest
+      hint: Which discounts might apply
+      type: select_multiple
+      options:
+      - Multi-Vehicle
+      - Multi-Policy
+      - Safe Driver
+      - Good Student
+      - Military
+      - Senior
+      - Low Mileage
+      - Anti-Theft Device
+      required: false

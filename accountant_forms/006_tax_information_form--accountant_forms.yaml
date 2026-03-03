@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Information Form
+    pages:
+    - id: 1
+      name: tax_info_form_name
+      label: Tax Information Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tax_return_frequency
+      label: Tax Return Frequency
+      hint: null
+      type: select_one
+      options:
+      - W-4
+      - W-2
+      required: false
+    - id: 3
+      name: tax_return_frequency_hint
+      label: Tax Return Frequency Hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: client_id
+      label: Client ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: client_address
+      label: Client Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: client_city
+      label: Client City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: client_state
+      label: Client State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: client_postal_code
+      label: Client Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: business_name_abn
+      label: Business Name (ABN)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: client_tax_file_number
+      label: Client Tax File Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: tax_filing_date
+      label: Tax Filing Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: client_date_of_birth
+      label: Client Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: client_tax_filing_status
+      label: Client Tax Filing Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Not Applicable
+      - Separated
+      - Married filing Jointly
+      required: false
+    - id: 18
+      name: tax_residence_status
+      label: Tax Residence Status
+      hint: null
+      type: select_one
+      options:
+      - Australia
+      - New Zealand
+      - Overseas
+      - Other
+      - None
+      required: false
+    - id: 19
+      name: tax_identification_number
+      label: Tax Identification Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: accountant_name
+      label: Accountant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: tax_filing_method
+      label: Tax Filing Method
+      hint: null
+      type: select_multiple
+      options:
+      - Online
+      - Offline
+      - Phone
+      - Email
+      - In-person
+      required: false
+    - id: 22
+      name: accountant_phone
+      label: Accountant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: accountant_email
+      label: Accountant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: accountant_notes
+      label: Accountant Notes
+      hint: null
+      type: text
+      options: []
+      required: false

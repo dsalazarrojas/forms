@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inclusive Excellence Award Application Form
+    pages:
+    - id: 1
+      name: award_form_data
+      label: Award Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant Name
+      hint: Please enter your name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: award_category
+      label: Award Category
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: award_subcategory
+      label: Award Subcategory
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: application_cover_letter
+      label: Application Cover Letter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: cv_resume
+      label: CV/Resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: false

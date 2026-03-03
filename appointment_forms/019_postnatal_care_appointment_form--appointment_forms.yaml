@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Postnatal Care Appointment Form
+    pages:
+    - id: 1
+      name: new_mother_name
+      label: New Mother Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: new_mother_date_of_birth
+      label: New Mother Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: new_mother_weight
+      label: New Mother Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: postnatal_care_provider
+      label: Postnatal Care Provider
+      hint: null
+      type: select_multiple
+      options:
+      - Provider A
+      - Provider B
+      - Provider C
+      required: false
+    - id: 5
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: appointment_duration
+      label: Appointment Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_care_required
+      label: Follow Up Care Required
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: follow_up_care_date
+      label: Follow Up Care Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_care_time
+      label: Follow Up Care Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: new_mother_phone_number
+      label: New Mother Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: new_mother_email
+      label: New Mother Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: new_mother_notes
+      label: New Mother Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_care_provider
+      label: Follow Up Care Provider
+      hint: null
+      type: select_multiple
+      options:
+      - Provider A
+      - Provider B
+      - Provider C
+      required: false
+    - id: 15
+      name: follow_up_care_type
+      label: Follow Up Care Type
+      hint: null
+      type: select_one
+      options:
+      - Type A
+      - Type B
+      - Type C
+      required: false
+    - id: 16
+      name: new_mother_allergies
+      label: New Mother Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - Allergy A
+      - Allergy B
+      - Allergy C
+      required: false

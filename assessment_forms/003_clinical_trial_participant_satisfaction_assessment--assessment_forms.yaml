@@ -1,0 +1,261 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Clinical Trial Participant Satisfaction Assessment
+    pages:
+    - id: 1
+      name: participant_id
+      label: Participant ID
+      hint: Your unique study identification number
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: study_name
+      label: Study Name or Title
+      hint: Name of the clinical trial you participated in
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: study_duration
+      label: How long did you participate in the study
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 month
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - More than 1 year
+      required: true
+    - id: 4
+      name: section_overall
+      label: -- Overall Experience --
+      hint: Rate your general experience
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: overall_satisfaction
+      label: Overall satisfaction with the study experience
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 6
+      name: willingness_repeat
+      label: Would you participate in another clinical trial
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Probably yes
+      - Uncertain
+      - Probably not
+      - Definitely not
+      required: true
+    - id: 7
+      name: section_recruitment
+      label: -- Recruitment and Enrollment --
+      hint: Feedback on how you joined the study
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: recruitment_clarity
+      label: The recruitment process was clear and transparent
+      hint: null
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 9
+      name: enrollment_ease
+      label: Enrollment procedures were straightforward
+      hint: null
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 10
+      name: informed_consent
+      label: You were fully informed about the study requirements
+      hint: null
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 11
+      name: section_procedures
+      label: -- Study Procedures --
+      hint: Rate the study procedures and activities
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: procedure_clarity
+      label: Study procedures were clearly explained
+      hint: null
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 13
+      name: visit_convenience
+      label: Study visit schedule was convenient
+      hint: null
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 14
+      name: burden_assessment
+      label: The study procedures were not overly burdensome
+      hint: null
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 15
+      name: section_staff
+      label: -- Research Staff and Support --
+      hint: Evaluate team professionalism and support
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: staff_professionalism
+      label: Staff was professional and knowledgeable
+      hint: null
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 17
+      name: staff_responsiveness
+      label: Staff responded promptly to your concerns
+      hint: null
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 18
+      name: communication_quality
+      label: Communication with research team was effective
+      hint: null
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 19
+      name: section_facilities
+      label: -- Facilities and Environment --
+      hint: Feedback on location and setting
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: facility_comfort
+      label: Study facility was clean, safe, and comfortable
+      hint: null
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 21
+      name: accessibility
+      label: Study location was accessible and easy to reach
+      hint: null
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 22
+      name: section_feedback
+      label: -- Recommendations --
+      hint: Your suggestions for improvement
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: most_positive
+      label: What was the most positive aspect of your participation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: improvements
+      label: What could be improved for future participants
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional comments or suggestions
+      hint: null
+      type: text
+      options: []
+      required: false

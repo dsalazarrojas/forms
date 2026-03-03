@@ -1,0 +1,88 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Acknowledgment Of Policy Handbook
+    pages:
+    - id: 1
+      name: header
+      label: -- Policy acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee name
+      hint: Full name as listed in HR
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: Optional internal identifier
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: Department or team
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: handbook_version
+      label: Handbook version
+      hint: Version or date of handbook reviewed
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_reviewed
+      label: Date reviewed
+      hint: Date the employee reviewed the handbook
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: understanding_confirmation
+      label: Understanding confirmation
+      hint: Confirm that the employee understands policies
+      type: select_one
+      options:
+        - I have read and understand the handbook
+        - I have read but do not understand
+      required: true
+    - id: 8
+      name: questions_for_hr
+      label: Questions for HR
+      hint: Any questions or clarifications needed
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: electronic_signature
+      label: Electronic signature
+      hint: Type full name to confirm acknowledgment
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date_signed
+      label: Date signed
+      hint: Date of electronic signature
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Witness Testimony Consent Form
+    pages:
+    - id: 1
+      name: witness_name
+      label: Witness Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: relationship_to_witness
+      label: Relationship To Witness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: witness_address
+      label: Witness Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: witness_email
+      label: Witness Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: witness_phone
+      label: Witness Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: witness_consent
+      label: Witness Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: witness_consent_date
+      label: Witness Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: witness_consent_time
+      label: Witness Consent Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: witness_consent_note
+      label: Witness Consent Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: witness_consent_signature
+      label: Witness Consent Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

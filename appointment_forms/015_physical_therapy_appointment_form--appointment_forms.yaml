@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physical Therapy Appointment Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: schedule_appointment
+      label: Schedule Appointment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: appointment_details
+      label: Appointment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_info
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: staff_signature
+      label: Staff Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Credit Card
+      - Insurance
+      required: false
+    - id: 8
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false

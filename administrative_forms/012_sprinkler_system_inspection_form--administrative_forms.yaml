@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sprinkler System Inspection Form
+    pages:
+    - id: 1
+      name: sprinkler_system_inspection_form_page_1
+      label: sprinkler_system_inspection_form_page_1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sprinkler_system_inspection_form_page_2
+      label: sprinkler_system_inspection_form_page_2_label
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: sprinkler_system_inspection_form_page_3
+      label: sprinkler_system_inspection_form_page_3_label
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: sprinkler_system_inspection_form_page_4
+      label: sprinkler_system_inspection_form_page_4_label
+      hint: null
+      type: date
+      options: []
+      required: false

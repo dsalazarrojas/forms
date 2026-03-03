@@ -1,0 +1,72 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: CV Creation Checklist
+    pages:
+      - id: 1
+        name: full_name
+        label: Full name
+        hint: As to appear on CV
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: contact_details
+        label: Contact details
+        hint: Email and phone
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: professional_summary
+        label: Professional summary
+        hint: 2 to 4 sentence overview
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: key_skills
+        label: Key skills
+        hint: Comma separated list
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: education
+        label: Education entries
+        hint: Institution and qualification
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: work_history
+        label: Work history summary
+        hint: Recent roles and dates
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: certifications
+        label: Certifications and licenses
+        hint: Relevant professional certifications
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: references
+        label: References available on request
+        hint: Provide contact details if available
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: RV Service Check In Form
+    pages:
+    - id: 1
+      name: owner_details
+      label: Owner Details
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_info
+      label: Vehicle Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_requests
+      label: Service Requests
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: checkin_time
+      label: Preferred Checkin Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: owner_notes
+      label: Owner Notes
+      hint: 'null'
+      type: note
+      options: []
+      required: false

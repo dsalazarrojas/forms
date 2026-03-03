@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Statistical Analysis Report Form
+    pages:
+    - id: 1
+      name: research_question
+      label: What is your research question?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: data_type
+      label: Data type
+      hint: null
+      type: select_one
+      options:
+      - Data
+      - Other
+      required: false
+    - id: 3
+      name: data_source
+      label: Data source
+      hint: null
+      type: select_multiple
+      options:
+      - Data
+      - Other
+      required: false
+    - id: 4
+      name: data_location
+      label: Data location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: data_format
+      label: Data format
+      hint: null
+      type: select_one
+      options:
+      - CSV
+      - Excel
+      - Other
+      required: false
+    - id: 6
+      name: data_size
+      label: Data size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: data_structure
+      label: Data structure
+      hint: null
+      type: select_one
+      options:
+      - Matrix
+      - Array
+      - Other
+      required: false
+    - id: 8
+      name: data_period
+      label: Data period
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: analysis_method
+      label: Analysis method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: statistical_analysis
+      label: Statistical analysis
+      hint: null
+      type: select_one
+      options:
+      - Descriptive
+      - Inferential
+      - Other
+      required: false
+    - id: 11
+      name: results_format
+      label: Results format
+      hint: null
+      type: select_one
+      options:
+      - Table
+      - Chart
+      - Other
+      required: false
+    - id: 12
+      name: output_format
+      label: Output format
+      hint: null
+      type: select_one
+      options:
+      - PDF
+      - Excel
+      - Word Document
+      required: false
+    - id: 13
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_info
+      label: Contact info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: file_upload
+      label: File upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: form_submitted
+      label: Form submitted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: data_description
+      label: Data description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: data_category
+      label: Data category
+      hint: null
+      type: select_one
+      options:
+      - Research
+      - Business
+      - Other
+      required: false
+    - id: 22
+      name: data_security
+      label: Data security
+      hint: null
+      type: select_one
+      options:
+      - Secure
+      - Insecure
+      required: false
+    - id: 23
+      name: data_quality
+      label: Data quality
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 24
+      name: data_completeness
+      label: Data completeness
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - Incomplete
+      required: false
+    - id: 25
+      name: data_validity
+      label: Data validity
+      hint: null
+      type: select_one
+      options:
+      - Valid
+      - Invalid
+      required: false

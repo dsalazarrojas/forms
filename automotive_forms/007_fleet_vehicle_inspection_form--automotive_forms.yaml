@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fleet Vehicle Inspection Form
+    pages:
+    - id: 1
+      name: vehicle_general_info
+      label: Vehicle Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_condition_report
+      label: Condition Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_mileage
+      label: Mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_last_service_date
+      label: Last Service Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_next_service_date
+      label: Next Service Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_last_service_mileage
+      label: Last Service Mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_last_service_cost
+      label: Last Service Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_next_service_cost
+      label: Next Service Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_owner
+      label: Owner Name
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Owner 1''}'
+      - '{''label'': ''Owner 2''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 10
+      name: vehicle_driver
+      label: Driver
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Driver 1''}'
+      - '{''label'': ''Driver 2''}'
+      - '{''label'': ''None''}'
+      required: false
+    - id: 11
+      name: vehicle_vehicle_status
+      label: Vehicle Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Available''}'
+      - '{''label'': ''In Use''}'
+      - '{''label'': ''Sold''}'
+      required: false
+    - id: 12
+      name: vehicle_remarks
+      label: Remarks
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 14
+      name: vehicle_damage_type
+      label: Damage Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Minor''}'
+      - '{''label'': ''Major''}'
+      - '{''label'': ''None''}'
+      required: false
+    - id: 15
+      name: vehicle_last_maintenance_date
+      label: Last Maintenance Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: vehicle_inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: vehicle_inspection_frequency
+      label: Inspection Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Every 1 Month''}'
+      - '{''label'': ''Every 3 Months''}'
+      - '{''label'': ''Quarterly''}'
+      - '{''label'': ''Bi-Annually''}'
+      - '{''label'': ''Never''}'
+      required: false
+    - id: 18
+      name: vehicle_last_inspection_cost
+      label: Last Inspection Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: vehicle_last_inspection_mileage
+      label: Last Inspection Mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: vehicle_last_mileage_reading
+      label: Last Mileage Reading
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: vehicle_remarks
+      label: Remarks
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: vehicle_next_maintenance_date
+      label: Next Maintenance Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: vehicle_next_maintenance_frequency
+      label: Next Maintenance Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Every 1 Month''}'
+      - '{''label'': ''Every 3 Months''}'
+      - '{''label'': ''Quarterly''}'
+      - '{''label'': ''Bi-Annually''}'
+      - '{''label'': ''Never''}'
+      required: false
+    - id: 24
+      name: vehicle_next_remarks
+      label: Next Remarks
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: vehicle_remarks_2
+      label: Remarks
+      hint: null
+      type: note
+      options: []
+      required: false

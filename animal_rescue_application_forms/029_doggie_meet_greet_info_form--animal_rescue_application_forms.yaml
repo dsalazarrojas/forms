@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Doggie Meet & Greet Info Form
+    pages:
+    - id: 1
+      name: pet_name
+      label: pet_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_type
+      label: pet_type
+      hint: null
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Other
+      required: false
+    - id: 3
+      name: meet_date
+      label: meet_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: duration
+      label: duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false

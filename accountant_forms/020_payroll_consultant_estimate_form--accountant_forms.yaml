@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payroll Consultant Estimate Form
+    pages:
+    - id: 1
+      name: estimate_form_1
+      label: Employee Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: payroll_service_hours
+      label: Hours Worked
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: payroll_service_fees
+      label: Fees
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: payroll_consultant_name
+      label: Consultant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: consultant_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: consultant_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: estimate_form_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: payroll_consultant_estimates
+      label: Estimates
+      hint: null
+      type: select_multiple
+      options:
+      - Accounting and Bookkeeping
+      - Payroll Consulting
+      - Payroll Processing
+      - Payroll Services
+      - Payroll Systems
+      required: true
+    - id: 9
+      name: form_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: estimate_form_2
+      label: Employee Details
+      hint: null
+      type: select_multiple
+      options:
+      - Accountant
+      - Contractor
+      - Employee
+      - Employer
+      - Independent Contractor
+      required: true
+    - id: 12
+      name: payroll_service_rate
+      label: Service Rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: service_rate_currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - CAD
+      - EUR
+      - JPY
+      required: true
+    - id: 14
+      name: estimate_form_3
+      label: Service Description
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: payroll_consultant_rate
+      label: Rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: estimate_form_4
+      label: Total Hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: consultant_service_hours
+      label: Total Hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: payroll_consultant_service_rate
+      label: Service Rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: estimate_form_5
+      label: Total Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: consultant_service_amount
+      label: Total Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: payroll_consultant_estimates_2
+      label: Estimates
+      hint: null
+      type: select_multiple
+      options:
+      - Accounting and Bookkeeping
+      - Payroll Consulting
+      - Payroll Processing
+      - Payroll Services
+      - Payroll Systems
+      required: true
+    - id: 22
+      name: estimate_form_6
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: form_comments_2
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: submit_2
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: estimate_form_7
+      label: Employee Details
+      hint: null
+      type: select_multiple
+      options:
+      - Accountant
+      - Contractor
+      - Employee
+      - Employer
+      - Independent Contractor
+      required: true

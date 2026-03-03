@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Adoption Application ARP
+    pages:
+    - id: 1
+      name: section_applicant
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: For application updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: residence_type
+      label: Residence type
+      hint: Home situation
+      type: select_one
+      options:
+      - Own
+      - Rent
+      required: true
+    - id: 6
+      name: pet_preference
+      label: Pet preference
+      hint: Species, age, or breed preferences
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: household_members
+      label: Household members
+      hint: Number and ages of household members
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: vet_reference
+      label: Veterinary reference
+      hint: Name and contact if available
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: agreement
+      label: I agree to adoption terms and responsibilities
+      hint: Confirm agreement
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

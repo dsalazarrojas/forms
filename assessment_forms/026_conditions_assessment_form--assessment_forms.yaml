@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conditions Assessment Form
+    pages:
+    - id: 1
+      name: assessor_name
+      label: Assessor name
+      hint: Person completing the assessment
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: assessment_date
+      label: Assessment date
+      hint: Date of the assessment
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: location
+      label: Location of assessment
+      hint: Site or building name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: condition_category
+      label: Condition category
+      hint: Type of condition being assessed
+      type: select_one
+      options:
+      - Structural
+      - Mechanical
+      - Electrical
+      - Cosmetic
+      required: true
+    - id: 5
+      name: severity_rating
+      label: Severity rating
+      hint: Scale of severity
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 6
+      name: measured_values
+      label: Measured values or readings
+      hint: Enter measurement details
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: compliance_status
+      label: Compliance status
+      hint: Whether item meets standards
+      type: select_one
+      options:
+      - Compliant
+      - Non compliant
+      - Conditional
+      required: true
+    - id: 8
+      name: recommended_action
+      label: Recommended action
+      hint: Repairs, monitoring, or replacement
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: estimated_cost
+      label: Estimated cost
+      hint: Rough cost estimate for repairs
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Additional notes
+      hint: Observations or photos reference
+      type: text
+      options: []
+      required: false

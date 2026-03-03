@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corrosion Inhibitors Knowledge Quiz
+    pages:
+    - id: 1
+      name: corrosion_inhibitors_knowledge_quiz
+      label: Quiz
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inhibitor_type
+      label: Inhibitor Type
+      hint: null
+      type: select_one
+      options:
+      - Anodic Inhibitors
+      - Cathodic Inhibitors
+      - Mixed Inhibitors
+      required: false
+    - id: 3
+      name: inhibitor_effectiveness
+      label: Inhibitor Effectiveness
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      required: false
+    - id: 4
+      name: inhibitor_concentration
+      label: Inhibitor Concentration
+      hint: Please enter a value.
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: inhibitor_temperature
+      label: Inhibitor Temperature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: inhibitor_pressure
+      label: Inhibitor Pressure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: inhibitor_flow_rate
+      label: Inhibitor Flow Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: inhibitor_application
+      label: Inhibitor Application
+      hint: null
+      type: select_multiple
+      options:
+      - General Use
+      - Specific Use
+      required: false
+    - id: 9
+      name: inhibitor_adverse_effects
+      label: Inhibitor Adverse Effects
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: inhibitor_notes
+      label: Inhibitor Notes
+      hint: Please enter your notes.
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: inhibitor_email
+      label: Inhibitor Email
+      hint: Please enter your email.
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: inhibitor_phone
+      label: Inhibitor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: inhibitor_comment
+      label: Inhibitor Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: inhibitor_rating
+      label: Inhibitor Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: inhibitor_submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: false

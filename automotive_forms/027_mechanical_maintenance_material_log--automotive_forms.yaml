@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mechanical Maintenance Material Log
+    pages:
+    - id: 1
+      name: maintenance_log
+      label: Maintenance Log
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: material_used
+      label: Material Used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: maintenance_operation
+      label: Maintenance Operation
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: true
+    - id: 4
+      name: material_cost
+      label: Material Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: material_supplier
+      label: Material Supplier
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 6
+      name: purchase_date
+      label: Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: purchase_time
+      label: Purchase Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: quantity_purchased
+      label: Quantity Purchased
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: quantity_remaining
+      label: Quantity Remaining
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: purchase_location
+      label: Purchase Location
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 11
+      name: vendor
+      label: Vendor
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false

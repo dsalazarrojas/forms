@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Literacy Assessment Form
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reading_comprehension
+      label: reading_comprehension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: writing_comprehension
+      label: writing_comprehension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: speaking_comprehension
+      label: speaking_comprehension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: listening_comprehension
+      label: listening_comprehension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: total_score
+      label: total_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: overall_assessment
+      label: overall_assessment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: first_page_2
+      label: first_page_2
+      hint: null
+      type: note
+      options: []
+      required: false

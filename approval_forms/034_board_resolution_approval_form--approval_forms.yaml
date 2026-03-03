@@ -1,0 +1,75 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Board Resolution Approval Form
+    pages:
+      - id: 1
+        name: resolution_header
+        label: -- Circular Resolution --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: resolution_reference
+        label: Resolution reference
+        hint: Unique identifier for resolution
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: resolution_summary
+        label: Resolution summary
+        hint: Brief description of decision
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: proposer
+        label: Proposer name
+        hint: Board member proposing resolution
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: vote_deadline
+        label: Vote deadline
+        hint: Latest date for responses
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: member_vote
+        label: Member vote
+        hint: Select your vote
+        type: select_one
+        options:
+          - Approve
+          - Reject
+          - Abstain
+        required: true
+      - id: 7
+        name: comments
+        label: Comments
+        hint: Any remarks or conditions
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: signer_name
+        label: Signer name
+        hint: Name of board member signing
+        type: text
+        options: []
+        required: true

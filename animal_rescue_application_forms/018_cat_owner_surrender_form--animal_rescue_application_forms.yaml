@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cat Owner Surrender Form
+    pages:
+    - id: 1
+      name: owner_header
+      label: -- Current Owner Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: owner_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: owner_contact
+      label: Phone and Email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: cat_profile_header
+      label: -- Cat Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: cat_name
+      label: Cat Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: cat_age_approx
+      label: Age of Cat
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: breed_color
+      label: Breed and Primary Color
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: spay_neuter_status
+      label: Is the cat spayed or neutered
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: true
+    - id: 9
+      name: surrender_reason_header
+      label: -- Reason for Surrender --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: main_surrender_reason
+      label: Primary Reason for Surrendering
+      hint: null
+      type: select_one
+      options:
+      - Financial reasons
+      - Behavioral issues
+      - Moving - Landlord issues
+      - Allergies
+      - Health of owner
+      - Found as stray
+      - Other
+      required: true
+    - id: 11
+      name: behavioral_history
+      label: Does the cat have a history of biting or scratching
+      hint: Please be honest for the safety of our staff
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: medical_header
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: veterinary_records_provided
+      label: Are you providing veterinary records with the cat
+      hint: null
+      type: select_one
+      options:
+      - Yes, attached
+      - No records available
+      required: true
+    - id: 14
+      name: microchip_info
+      label: Is the cat microchipped
+      hint: If yes, please provide the chip number if known
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_relinquishment
+      label: -- Legal Relinquishment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: legal_agreement
+      label: I certify that I am the legal owner and relinquish all rights to this
+        cat
+      hint: By signing, you transfer ownership to the rescue organization
+      type: select_one
+      options:
+      - I Agree and Understand
+      - Other
+      required: true
+    - id: 17
+      name: owner_signature
+      label: Electronic Signature
+      hint: Type your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: surrender_date
+      label: Date of Surrender
+      hint: null
+      type: date
+      options: []
+      required: true

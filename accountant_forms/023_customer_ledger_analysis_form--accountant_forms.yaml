@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Ledger Analysis Form
+    pages:
+    - id: 1
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: ledger_period
+      label: Ledger Period
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: outstanding_balance
+      label: Outstanding Balance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: transaction_categories
+      label: Transaction Categories
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Debit Card
+      - Credit Card
+      required: true
+    - id: 5
+      name: discrepancies
+      label: Discrepancies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: ledger_analysis
+      label: Ledger Analysis
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Visual Control Assessment Form
+    pages:
+    - id: 1
+      name: workplace
+      label: workplace
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: safety_risks
+      label: Safety Risks
+      hint: null
+      type: select_multiple
+      options:
+      - Falls
+      - Cuts
+      - Burns
+      - Other
+      required: false
+    - id: 3
+      name: workspaces
+      label: workspaces
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: visual_controls
+      label: visual_controls
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: workstations
+      label: workstations
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: control_measures
+      label: control_measures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: control_measures_effectiveness
+      label: control_measures_effectiveness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: safety_training
+      label: safety_training
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: safety_risks_frequency
+      label: safety_risks_frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: safety_risks_consequences
+      label: safety_risks_consequences
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Moderate
+      - Low
+      required: false
+    - id: 11
+      name: safety_risks_description
+      label: safety_risks_description
+      hint: null
+      type: text
+      options: []
+      required: false

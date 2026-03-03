@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anti Cellulite Massage Consent Form
+    pages:
+    - id: 1
+      name: section_treatment_overview
+      label: -- Treatment Overview --
+      hint: Please read the information and provide consent
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client name
+      hint: Full name of the client receiving treatment
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: For medical record keeping
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: known_allergies
+      label: Known allergies or sensitivities
+      hint: List any relevant allergies to products or medications
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_conditions
+      label: Relevant medical conditions
+      hint: Inform therapist about conditions that may affect treatment
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: consent_to_treatment
+      label: I consent to receive anti cellulite massage treatment
+      hint: Consent is required to proceed
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      required: true
+    - id: 7
+      name: agree_risks
+      label: I acknowledge potential risks and side effects
+      hint: Typical risks may include redness bruising or soreness
+      type: select_one
+      options:
+      - Acknowledged
+      - Not acknowledged
+      required: true
+    - id: 8
+      name: emergency_contact
+      label: Emergency contact phone number
+      hint: Name and phone number for emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional comments or instructions
+      hint: Include any special requests or limitations
+      type: text
+      options: []
+      required: false

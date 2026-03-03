@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Match Attendance Confirmation
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: game_date
+      label: Game Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: game_time
+      label: Game Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: game_location
+      label: Game Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: attendance
+      label: Attendance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

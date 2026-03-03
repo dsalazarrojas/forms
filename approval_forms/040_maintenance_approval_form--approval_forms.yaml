@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maintenance Approval Form
+    pages:
+    - id: 1
+      name: maintenance_form
+      label: maintenance_approval_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: maintenance_requester
+      label: Maintenance Requester
+      hint: Name of the person requesting maintenance
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: maintenance_description
+      label: Maintenance Description
+      hint: Brief description of the requested maintenance
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: maintenance_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: maintenance_start_time
+      label: Start Time
+      hint: Start time (optional)
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: maintenance_status
+      label: Status
+      hint: Status of the maintenance request
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Pending
+      required: false
+    - id: 7
+      name: maintenance_priority
+      label: Priority
+      hint: High, Medium, Low
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 8
+      name: maintenance_requestor
+      label: Maintenance Requestor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: maintenance_comment
+      label: Maintenance Comment
+      hint: Comment about the maintenance request
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: maintenance_approval
+      label: Maintenance Approval
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: false
+    - id: 11
+      name: maintenance_status_update
+      label: Status Update
+      hint: Optional status update
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: maintenance_request_status_update
+      label: Requester Status Update
+      hint: Optional status update by maintenance requester
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: maintenance_requester_email
+      label: Requester Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: maintenance_requester_phone
+      label: Requester Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: maintenance_requester_comments
+      label: Requester Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: maintenance_requester_address
+      label: Requester Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: maintenance_requester_organization
+      label: Requester Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: maintenance_requester_job_title
+      label: Requester Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: maintenance_requester_department
+      label: Requester Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: maintenance_requester_supervisor
+      label: Requester Supervisor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: maintenance_requester_supervisor_phone
+      label: Requester Supervisor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: maintenance_requester_supervisor_email
+      label: Requester Supervisor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: maintenance_requester_supervisor_job_title
+      label: Requester Supervisor Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: maintenance_requester_supervisor_department
+      label: Requester Supervisor Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: maintenance_requester_supervisor_notes
+      label: Requester Supervisor Notes
+      hint: Notes about the request
+      type: text
+      options: []
+      required: false

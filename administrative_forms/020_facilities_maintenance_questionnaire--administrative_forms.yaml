@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facilities Maintenance Questionnaire
+    pages:
+    - id: 1
+      name: facilities_maintenance_questionnaire
+      label: What is the facility address?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: maintenance_request
+      label: Do you have a maintenance request?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: facilities_issues
+      label: What facilities issues do you have?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: facilities_status
+      label: What is the facilities status?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: facilities_condition
+      label: What is the facilities condition?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: facilities_request_date
+      label: When is the maintenance request date?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: facilities_request_time
+      label: What time of day is the maintenance request time?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: facilities_requester
+      label: Who submitted the maintenance request?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: facilities_requester_department
+      label: What department is submitting the maintenance request?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: facilities_requester_name
+      label: What is the name of the person submitting the request?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: facilities_requester_phone
+      label: What is the phone number of the person submitting the request?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: facilities_additional_information
+      label: Is there additional information that needs to be considered?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: facilities_comment
+      label: Do you have any further comments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: facilities_agreed
+      label: Has it been agreed?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 15
+      name: facilities_agreed_date
+      label: Date agreed?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: facilities_agreed_time
+      label: Time agreed?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: facilities_followup
+      label: Followup?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 18
+      name: facilities_followup_date
+      label: Followup date?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: facilities_followup_time
+      label: Followup time?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: facilities_requester_email
+      label: What is the email of the person submitting the request?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: facilities_followup_comment
+      label: Followup comments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: facilities_agreed_comment
+      label: Agreed comments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: facilities_requester_address
+      label: Facilities address?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: facilities_requester_company
+      label: Facilities company?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: facilities_requester_notes
+      label: Facilities notes?
+      hint: null
+      type: text
+      options: []
+      required: false

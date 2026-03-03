@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Wallet Access Recovery Request
+    pages:
+    - id: 1
+      name: digital_wallet_access_recovery_request_form
+      label: Digital Wallet Access Recovery Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: file_uploads
+      label: File Uploads
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: user_details
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_request
+      label: Reason for Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: file_uploads_2
+      label: Attach Files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: follow_up_details
+      label: Follow-up Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

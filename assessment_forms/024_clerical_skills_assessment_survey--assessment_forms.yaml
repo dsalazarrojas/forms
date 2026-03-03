@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clerical Skills Assessment Survey
+    pages:
+    - id: 1
+      name: assessment_intro
+      label: -- Clerical Skills Self-Assessment --
+      hint: Please rate your proficiency in various administrative tasks.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: candidate_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: current_position
+      label: Current Position/Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_assessment
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: software_skills_header
+      label: -- Software and Computer Proficiency --
+      hint: Rate from 1 (Novice) to 5 (Expert)
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: word_processing_rating
+      label: Word Processing (e.g. MS Word, Google Docs)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: spreadsheet_rating
+      label: Spreadsheets (e.g. MS Excel, Google Sheets)
+      hint: Formulas, pivot tables, etc.
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: database_rating
+      label: Database Management (e.g. CRM, Access)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: email_management_rating
+      label: Email and Calendar Management
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: administrative_skills_header
+      label: -- Administrative Task Proficiency --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: typing_speed_wpm
+      label: Approximate Typing Speed (WPM)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: data_entry_accuracy
+      label: Data Entry Accuracy
+      hint: null
+      type: select_one
+      options:
+      - High (99-100%)
+      - Moderate (95-98%)
+      - Low (Less than 95%)
+      required: true
+    - id: 13
+      name: phone_etiquette
+      label: Professional Phone Etiquette
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Needs Improvement
+      required: true
+    - id: 14
+      name: file_organization
+      label: Filing and Document Management
+      hint: null
+      type: select_one
+      options:
+      - Expert in digital and physical filing
+      - Competent
+      - Basic knowledge
+      required: true
+    - id: 15
+      name: meeting_coordination
+      label: Meeting Coordination and Minutes
+      hint: null
+      type: select_one
+      options:
+      - Very Experienced
+      - Some Experience
+      - No Experience
+      required: true
+    - id: 16
+      name: language_skills_header
+      label: -- Language and Communication --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: primary_language
+      label: Primary Language
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: additional_languages
+      label: Additional Languages Spoken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: writing_sample_required
+      label: Are you willing to provide a writing sample or take a skills test?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: additional_training_interest
+      label: Areas where you would like more training
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: comments_footer
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

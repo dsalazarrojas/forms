@@ -1,0 +1,249 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Annual Review Evaluation Form
+    pages:
+      - id: 1
+        name: evaluator_name
+        label: Evaluator Name
+        hint: Full name of person conducting review
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: evaluator_title
+        label: Evaluator Title
+        hint: Position of evaluator
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: employee_name
+        label: Employee Name
+        hint: Full name of employee being evaluated
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: employee_id
+        label: Employee ID
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: position_title
+        label: Position Title
+        hint: Job title of employee
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: department
+        label: Department
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: review_period
+        label: Review Period
+        hint: Date range for this evaluation
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: employment_date
+        label: Employment Start Date
+        hint: When employee started
+        type: date
+        options: []
+        required: false
+      - id: 9
+        name: job_knowledge
+        label: Job Knowledge and Technical Skills
+        hint: Proficiency in required skills
+        type: select_one
+        options:
+          - "Excellent - exceeds requirements"
+          - "Good - meets requirements"
+          - "Satisfactory - basic competency"
+          - "Needs improvement - deficient"
+          - "Poor - unable to perform"
+        required: true
+      - id: 10
+        name: quality_of_work
+        label: Quality of Work
+        hint: Accuracy and completeness
+        type: select_one
+        options:
+          - "Excellent"
+          - "Good"
+          - "Satisfactory"
+          - "Needs improvement"
+          - "Poor"
+        required: true
+      - id: 11
+        name: quantity_of_work
+        label: Quantity of Work
+        hint: Productivity and output
+        type: select_one
+        options:
+          - "Excellent"
+          - "Good"
+          - "Satisfactory"
+          - "Needs improvement"
+          - "Poor"
+        required: true
+      - id: 12
+        name: timeliness
+        label: Timeliness and Punctuality
+        hint: Meeting deadlines and schedules
+        type: select_one
+        options:
+          - "Excellent"
+          - "Good"
+          - "Satisfactory"
+          - "Needs improvement"
+          - "Poor"
+        required: true
+      - id: 13
+        name: communication
+        label: Communication Skills
+        hint: Written and verbal communication
+        type: select_one
+        options:
+          - "Excellent"
+          - "Good"
+          - "Satisfactory"
+          - "Needs improvement"
+          - "Poor"
+        required: true
+      - id: 14
+        name: teamwork
+        label: Teamwork and Collaboration
+        hint: Works effectively with others
+        type: select_one
+        options:
+          - "Excellent"
+          - "Good"
+          - "Satisfactory"
+          - "Needs improvement"
+          - "Poor"
+        required: true
+      - id: 15
+        name: reliability
+        label: Reliability and Dependability
+        hint: Follow-through and commitment
+        type: select_one
+        options:
+          - "Excellent"
+          - "Good"
+          - "Satisfactory"
+          - "Needs improvement"
+          - "Poor"
+        required: true
+      - id: 16
+        name: problem_solving
+        label: Problem-Solving Ability
+        hint: Identifies and resolves issues
+        type: select_one
+        options:
+          - "Excellent"
+          - "Good"
+          - "Satisfactory"
+          - "Needs improvement"
+          - "Poor"
+        required: true
+      - id: 17
+        name: adaptability
+        label: Adaptability and Flexibility
+        hint: Responds to change and new challenges
+        type: select_one
+        options:
+          - "Excellent"
+          - "Good"
+          - "Satisfactory"
+          - "Needs improvement"
+          - "Poor"
+        required: true
+      - id: 18
+        name: initiative
+        label: Initiative and Self-Motivation
+        hint: Takes on responsibilities proactively
+        type: select_one
+        options:
+          - "Excellent"
+          - "Good"
+          - "Satisfactory"
+          - "Needs improvement"
+          - "Poor"
+        required: true
+      - id: 19
+        name: professionalism
+        label: Professionalism and Conduct
+        hint: Maintains professional standards
+        type: select_one
+        options:
+          - "Excellent"
+          - "Good"
+          - "Satisfactory"
+          - "Needs improvement"
+          - "Poor"
+        required: true
+      - id: 20
+        name: goals_achievement
+        label: Achievement of Performance Goals
+        hint: Accomplishment of annual objectives
+        type: select_one
+        options:
+          - "Exceeded goals"
+          - "Achieved all goals"
+          - "Achieved most goals"
+          - "Achieved some goals"
+          - "Did not achieve goals"
+        required: true
+      - id: 21
+        name: strengths
+        label: Employee Strengths
+        hint: Positive attributes and abilities
+        type: text
+        options: []
+        required: true
+      - id: 22
+        name: improvement_areas
+        label: Areas for Improvement
+        hint: Skills or behaviors to develop
+        type: text
+        options: []
+        required: true
+      - id: 23
+        name: overall_rating
+        label: Overall Performance Rating
+        hint: null
+        type: select_one
+        options:
+          - "Exceeds expectations"
+          - "Meets expectations"
+          - "Meets most expectations"
+          - "Below expectations"
+          - "Unsatisfactory"
+        required: true
+      - id: 24
+        name: development_plan
+        label: Development Plan for Next Year
+        hint: Goals and training recommendations
+        type: text
+        options: []
+        required: true

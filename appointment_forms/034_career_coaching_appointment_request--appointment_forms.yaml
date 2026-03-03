@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Career Coaching Appointment Request
+    pages:
+    - id: 1
+      name: appointment_header
+      label: -- Appointment Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client name
+      hint: Full name of person requesting coaching
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: For appointment confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: Optional contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preferred_date
+      label: Preferred date
+      hint: Preferred appointment date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: preferred_time
+      label: Preferred time
+      hint: Preferred time window
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: coaching_focus_areas
+      label: Coaching focus areas
+      hint: Select areas to focus on
+      type: select_multiple
+      options:
+      - Resume development
+      - Interview preparation
+      - Career planning
+      - Skills assessment
+      required: true
+    - id: 8
+      name: session_format_preference
+      label: Session format preference
+      hint: Choose format
+      type: select_one
+      options:
+      - In person
+      - Virtual
+      - Phone
+      required: false
+    - id: 9
+      name: prior_coaching_experience
+      label: Prior coaching experience
+      hint: Brief description if any
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_notes
+      label: Additional notes
+      hint: Anything coach should know before session
+      type: text
+      options: []
+      required: false

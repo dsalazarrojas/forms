@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: W9 Form
+    pages:
+    - id: 1
+      name: w9_form_1
+      label: form_1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: form_1_name
+      label: form 1 name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_1_business_name
+      label: business name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_1_address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_1_city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_1_state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_1_zip
+      label: zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: form_1_type
+      label: type
+      hint: null
+      type: select_one
+      options:
+      - W-2
+      - W-4
+      - W-8
+      required: false
+    - id: 9
+      name: form_1_payer
+      label: payer
+      hint: null
+      type: select_one
+      options:
+      - individual
+      - business
+      required: false

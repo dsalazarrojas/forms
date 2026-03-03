@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agricultural Crop Assessment Form
+    pages:
+    - id: 1
+      name: assessment_details_header
+      label: -- Assessment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: assessor_name
+      label: Assessor Name
+      hint: Name of person conducting the assessment
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of field visit
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: field_id
+      label: Field ID
+      hint: Unique identifier for the field
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: crop_condition_header
+      label: -- Crop Condition --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: crop_type
+      label: Crop Type
+      hint: Primary crop in field
+      type: select_one
+      options:
+      - Corn
+      - Wheat
+      - Soybeans
+      - Cotton
+      - Rice
+      - Specialty Crop
+      required: true
+    - id: 7
+      name: growth_stage
+      label: Growth Stage
+      hint: Current development stage
+      type: select_one
+      options:
+      - Germination
+      - Vegetative
+      - Flowering
+      - Fruit Development
+      - Maturity
+      - Harvest Ready
+      required: true
+    - id: 8
+      name: pest_pressure
+      label: Pest Pressure
+      hint: Severity of pest infestation
+      type: select_one
+      options:
+      - None
+      - Low
+      - Medium
+      - High
+      - Severe
+      required: true
+    - id: 9
+      name: disease_symptoms
+      label: Disease Symptoms
+      hint: Describe any visible disease signs
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: weed_presence
+      label: Weed Presence
+      hint: Density of weeds
+      type: select_one
+      options:
+      - None
+      - Scattered
+      - Moderate
+      - Heavy
+      required: true
+    - id: 11
+      name: soil_moisture
+      label: Soil Moisture
+      hint: Current soil water status
+      type: select_one
+      options:
+      - Dry
+      - Moist
+      - Wet
+      - Saturated
+      required: true
+    - id: 12
+      name: estimated_yield
+      label: Estimated Yield
+      hint: Bushels/tons per acre
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: photos_note
+      label: Photos
+      hint: Please upload photos to the central server
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: recommendations
+      label: Recommendations
+      hint: Action items for the grower
+      type: text
+      options: []
+      required: true

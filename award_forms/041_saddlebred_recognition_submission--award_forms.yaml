@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Saddlebred Recognition Submission
+    pages:
+    - id: 1
+      name: owner_info
+      label: Owner Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: horse_details
+      label: Horse Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: achievements_prophets_awards
+      label: Achievements Prophets Awards
+      hint: null
+      type: select_multiple
+      options:
+      - Award
+      - Achievement
+      - Recognition
+      required: false
+    - id: 4
+      name: supporting_files
+      label: Supporting Files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: horse_breed
+      label: Horse Breed
+      hint: null
+      type: select_one
+      options:
+      - American Saddlebred
+      - American Miniature
+      - Standardbred
+      required: false
+    - id: 6
+      name: horse_height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: horse_color
+      label: Color
+      hint: null
+      type: select_one
+      options:
+      - Bay
+      - Black
+      - Blue
+      - Brown
+      required: false
+    - id: 8
+      name: horse_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: supporting_files
+      label: Supporting Files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: horse_name
+      label: Horse Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: horse_year
+      label: Year of Birth
+      hint: null
+      type: number
+      options: []
+      required: false

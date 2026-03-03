@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accident Investigation Leave Form
+    pages:
+    - id: 1
+      name: section_employee_info
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_incident_info
+      label: -- Incident Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: incident_date
+      label: Date of Accident
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: incident_time
+      label: Time of Accident
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: incident_location
+      label: Location of Accident
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: incident_description
+      label: Brief Description of the Accident
+      hint: Summarize what happened
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: injury_type
+      label: Type of Injury Sustained
+      hint: null
+      type: select_one
+      options:
+      - Fracture
+      - Sprain or strain
+      - Laceration
+      - Burn
+      - Concussion
+      - Bruising or contusion
+      - Other
+      required: true
+    - id: 15
+      name: section_leave_details
+      label: -- Leave Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: leave_start_date
+      label: Leave Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: estimated_return_date
+      label: Estimated Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: leave_type
+      label: Type of Leave Requested
+      hint: null
+      type: select_one
+      options:
+      - Paid sick leave
+      - Workers compensation leave
+      - Short-term disability
+      - Unpaid leave
+      - Other
+      required: true
+    - id: 19
+      name: medical_clearance
+      label: Has Medical Clearance Been Obtained for Leave
+      hint: null
+      type: select_one
+      options:
+      - true
+      - No - Pending
+      - Not required
+      required: true
+    - id: 20
+      name: section_investigation
+      label: -- Investigation Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: investigation_status
+      label: Current Investigation Status
+      hint: null
+      type: select_one
+      options:
+      - Not yet started
+      - In progress
+      - Completed
+      required: true
+    - id: 22
+      name: investigating_officer
+      label: Name of Investigating Officer or Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: workers_comp_claim_filed
+      label: Has a Workers Compensation Claim Been Filed
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - In progress
+      required: true
+    - id: 24
+      name: additional_notes
+      label: Additional Notes or Comments
+      hint: null
+      type: text
+      options: []
+      required: false

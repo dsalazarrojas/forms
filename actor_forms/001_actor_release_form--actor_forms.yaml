@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Actor Release Form
+    pages:
+    - id: 1
+      name: release_header
+      label: -- Actor Release Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: talent_name
+      label: Full Name of Talent
+      hint: Enter the legal name of the actor/performer
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: talent_address
+      label: Address
+      hint: Current residential address
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: talent_city_state
+      label: City State Zip Code
+      hint: City, state, and zip code
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: production_title
+      label: Title of Production
+      hint: Name of the film, TV show, commercial, or project
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: production_company
+      label: Production Company Name
+      hint: Legal name of the production company
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: work_description
+      label: Description of Work Performed
+      hint: Brief description of the role or performance
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: compensation_amount
+      label: Compensation Amount
+      hint: Total payment or consideration received
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: work_date
+      label: Date of Work
+      hint: Date when the performance took place
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: work_location
+      label: Location of Work
+      hint: Where the performance took place
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: media_rights
+      label: Media Rights Granted
+      hint: Check all media formats covered by this release
+      type: select_multiple
+      options:
+      - Television
+      - Film
+      - Internet Streaming
+      - DVD/Blu-ray
+      - Theatrical Release
+      - Social Media
+      - Promotional Materials
+      required: true
+    - id: 12
+      name: perpetual_rights
+      label: Grant Perpetual Rights
+      hint: Does the talent grant perpetual rights to the footage?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: signature_date
+      label: Signature Date
+      hint: Date when this agreement is signed
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: talent_signature
+      label: Talent Signature
+      hint: Legal signature of the talent
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: witness_signature
+      label: Witness Signature
+      hint: Signature of witness present during signing
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: witness_name
+      label: Witness Name
+      hint: Printed name of the witness
+      type: text
+      options: []
+      required: false

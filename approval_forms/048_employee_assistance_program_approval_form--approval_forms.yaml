@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_assistance_program_approval_form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: manager_id
+      label: manager_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: reason_for_request
+      label: Reason for Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_request
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: approved_by_manager
+      label: Approved by Manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: approved_by_manager_time
+      label: Approved by Manager Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: approved_by_manager_date
+      label: Approved by Manager Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: employee_status
+      label: Employee Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 14
+      name: form_submitted
+      label: Form submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false

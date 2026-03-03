@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Packing Materials Requisition Form
+    pages:
+    - id: 1
+      name: request_packing_materials
+      label: Request Packing Materials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping_location
+      label: Shipping Location
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''warehouse1''}'
+      - '{''value'': ''warehouse2''}'
+      - '{''value'': ''warehouse3''}'
+      required: false
+    - id: 3
+      name: material_type
+      label: Material Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''cardboard''}'
+      - '{''value'': ''bubble_mailer''}'
+      - '{''value'': ''paper_towel''}'
+      required: false
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipping_date
+      label: Shipping Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: shipping_time
+      label: Shipping Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false

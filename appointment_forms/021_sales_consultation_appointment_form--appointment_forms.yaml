@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Consultation Appointment Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: consultation_topic
+      label: Consultation Topic
+      hint: null
+      type: select_one
+      options:
+      - Sales
+      - Marketing
+      - Product
+      - Service
+      required: false
+    - id: 5
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - French
+      - Spanish
+      - Mandarin
+      - Arabic
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_salesperson
+      label: Assigned Salesperson
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjimmy
+      - chatjimmy
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjimmy
+      - chatjimmy
+      required: false

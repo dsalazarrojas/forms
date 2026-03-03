@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: training_awards_nomination_form
+    pages:
+    - id: 1
+      name: nomination_form
+      label: Training Awards Nomination Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: award_category
+      label: Award Category
+      hint: null
+      type: select_one
+      options:
+      - Award for Excellence
+      - Award for Innovation
+      - Award for Teamwork
+      required: false
+    - id: 5
+      name: award_recipient
+      label: Award Recipient
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: nominator
+      label: Nominator
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: nominator_email
+      label: Nominator Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: nominator_phone
+      label: Nominator Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: award_description
+      label: Award Description
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: nomination_date
+      label: Nomination Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false
+    - id: 13
+      name: submission_comments
+      label: Submission Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: award_recipient_notes
+      label: Award Recipient Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: submission_status_date
+      label: Submission Status Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: submission_status_time
+      label: Submission Status Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: submission_date_time
+      label: Submission Date/Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submission_status_updated
+      label: Submission Status Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: submission_status_updated_by
+      label: Submission Status Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submission_status_updated_reason
+      label: Submission Status Updated Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submission_status_comment
+      label: Submission Status Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submission_status_comment_updated_by
+      label: Submission Status Comment Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_status_comment
+      label: Submission Status Comment
+      hint: null
+      type: note
+      options: []
+      required: false

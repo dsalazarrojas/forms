@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Attendance Agreement
+    pages:
+    - id: 1
+      name: client_first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: Best number to reach you
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: program_type
+      label: Program Type
+      hint: Which program are you joining?
+      type: select_one
+      options:
+      - Fitness Training
+      - Wellness Coaching
+      - Academic Tutoring
+      - Music Lessons
+      - Art Classes
+      - Dance Studio
+      - Yoga Studio
+      - Other
+      required: true
+    - id: 6
+      name: program_start_date
+      label: Program Start Date
+      hint: When will you begin?
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: session_frequency
+      label: Expected Session Frequency
+      hint: How often will you attend?
+      type: select_one
+      options:
+      - Once per week
+      - Twice per week
+      - Three times per week
+      - Four or more times per week
+      - Variable schedule
+      required: true
+    - id: 8
+      name: preferred_session_time
+      label: Preferred Session Time
+      hint: What time works best?
+      type: select_one
+      options:
+      - Early Morning (6am-9am)
+      - Mid Morning (9am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (5pm-9pm)
+      required: false
+    - id: 9
+      name: cancellation_policy_understanding
+      label: I Understand the Cancellation Policy
+      hint: 24-hour notice required
+      type: select_one
+      options:
+      - Yes, I Understand
+      - No, I Need Clarification
+      required: true
+    - id: 10
+      name: late_arrival_policy
+      label: I Understand Late Arrival May Result in Session Forfeit
+      hint: Sessions start on time
+      type: select_one
+      options:
+      - Yes, I Understand
+      - No, I Need Clarification
+      required: true
+    - id: 11
+      name: missed_session_makeup
+      label: I Understand Missed Sessions Cannot Always Be Made Up
+      hint: Subject to availability
+      type: select_one
+      options:
+      - Yes, I Understand
+      - No, I Need Clarification
+      required: true
+    - id: 12
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Best number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: How are they related to you?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: medical_conditions
+      label: Medical Conditions We Should Know About
+      hint: Any conditions affecting participation
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: liability_waiver
+      label: I Agree to the Liability Waiver and Terms of Participation
+      hint: Read and agree to all terms
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 17
+      name: photo_release
+      label: Photo Release Authorization
+      hint: May we use photos for marketing?
+      type: select_one
+      options:
+      - Yes, I Authorize
+      - No, I Do Not Authorize
+      required: false
+    - id: 18
+      name: agreement_date
+      label: Agreement Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: electronic_signature
+      label: Electronic Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true

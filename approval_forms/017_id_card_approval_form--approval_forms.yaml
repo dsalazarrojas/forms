@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: ID Card Approval Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Finance
+      - Marketing
+      - HR
+      - IT
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: null
+      type: select_multiple
+      options:
+      - Analyst
+      - Associate
+      - Manager
+      - Specialist
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: supervisor_approvals
+      label: Supervisor Approvals
+      hint: null
+      type: select_multiple
+      options:
+      - Approve
+      - Reject
+      required: true
+    - id: 9
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: true
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: approver_name
+      label: Approver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: approver_title
+      label: Approver Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: approver_signature
+      label: Approver Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: approval_level
+      label: Approval Level
+      hint: null
+      type: select_one
+      options:
+      - Management
+      - Department
+      - Team
+      required: true
+    - id: 18
+      name: id_card_request_date
+      label: ID Card Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: requestor_name
+      label: Requestor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: departmental_approvals
+      label: Departmental Approvals
+      hint: null
+      type: select_multiple
+      options:
+      - Finance
+      - Marketing
+      - HR
+      required: false
+    - id: 21
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: approver_comments
+      label: Approver Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: form_submitted_by
+      label: Form Submitted by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: form_submitted_on
+      label: Form Submitted on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: form_updated_on
+      label: Form Updated on
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Management Board
+    pages:
+    - id: 1
+      name: project_management_board
+      label: Project Management Board
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: task_id
+      label: Task ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: title
+      label: Task Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: Task Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: progress
+      label: Progress
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: assignee
+      label: Assignee
+      hint: Assign this task to a team member
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: status
+      label: Status
+      hint: 'Task status: In progress/Completed/Delayed'
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: labels
+      label: Labels
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Custom Furniture Appointment Form
+    pages:
+    - id: 1
+      name: schedule_appointment
+      label: Schedule Appointment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: select_client
+      label: Select Client
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John''}'
+      - '{''id'': 2, ''label'': ''Jane''}'
+      - '{''id'': 3, ''label'': ''Bob''}'
+      required: false
+    - id: 3
+      name: select_date
+      label: Select Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: select_time
+      label: Select Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: select_services
+      label: Select Services
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Furniture Consultation''}'
+      - '{''id'': 2, ''label'': ''Home Decor Consultation''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: select_staff
+      label: Select Staff
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John''}'
+      - '{''id'': 2, ''label'': ''Jane''}'
+      - '{''id'': 3, ''label'': ''Bob''}'
+      required: false
+    - id: 7
+      name: schedule_note
+      label: Schedule Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: schedule_email
+      label: Schedule Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: schedule_phone
+      label: Schedule Phone
+      hint: null
+      type: text
+      options: []
+      required: false

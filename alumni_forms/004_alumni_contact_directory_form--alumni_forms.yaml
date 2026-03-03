@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alumni Contact Directory Form
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_nickname
+      label: Nickname at School
+      hint: How your classmates might remember you
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: graduation_year
+      label: Graduation Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: current_mailing_address
+      label: Current Mailing Address
+      hint: For physical mailings and alumni magazine
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: professional_biography
+      label: Professional Biography
+      hint: A brief summary of your career since graduation
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: favorite_memory
+      label: Favorite School Memory
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: social_media_handle
+      label: Social Media Handle
+      hint: Twitter, Instagram, etc.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: alumni_interests
+      label: Alumni Interests
+      hint: Select areas you would like to be involved in
+      type: select_multiple
+      options:
+      - Mentoring Students
+      - Professional Networking
+      - Class Reunions
+      - Career Support
+      - Fundraising
+      required: false
+    - id: 11
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Post
+      required: true

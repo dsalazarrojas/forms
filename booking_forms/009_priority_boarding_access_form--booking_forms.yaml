@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Priority Boarding Access Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: preferred_boarding_time
+      label: Preferred Boarding Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: preferred_boarding_day
+      label: Preferred Boarding Day
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 6
+      name: boarding_pass_number
+      label: Boarding Pass Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: flight_number
+      label: Flight Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: seat_number
+      label: Seat Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: boarding_group
+      label: Boarding Group
+      hint: null
+      type: select_multiple
+      options:
+      - Group A
+      - Group B
+      - Group C
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Counselor Honorarium Submission Form
+    pages:
+    - id: 1
+      name: submission_form
+      label: Submission Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: honorarium_recipient
+      label: Honorarium Recipient
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Counselor''}'
+      - '{''id'': 2, ''name'': ''Administrator''}'
+      required: false
+    - id: 3
+      name: honorarium_amount
+      label: Honorarium Amount
+      hint: Enter honorarium amount
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: Provide a description for the honorarium
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: Select payment method
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Check''}'
+      - '{''id'': 2, ''name'': ''Online Payment''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      required: false
+    - id: 6
+      name: payment_date
+      label: Payment Date
+      hint: Select payment date
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: payment_time
+      label: Payment Time
+      hint: Select payment time
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Counselor''}'
+      - '{''id'': 2, ''name'': ''Administrator''}'
+      required: false
+    - id: 9
+      name: submitted_on
+      label: Submitted On
+      hint: Select submitted on
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: submitted_time
+      label: Submitted Time
+      hint: Select submitted time
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: approval_status
+      label: Approval Status
+      hint: Select approval status
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Pending''}'
+      - '{''id'': 2, ''name'': ''Approved''}'
+      - '{''id'': 3, ''name'': ''Denied''}'
+      required: false
+    - id: 12
+      name: payment_status
+      label: Payment Status
+      hint: Select payment status
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Pending''}'
+      - '{''id'': 2, ''name'': ''Paid''}'
+      - '{''id'': 3, ''name'': ''Unpaid''}'
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: Add notes
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: payment_method_other
+      label: Other Payment Method
+      hint: Enter other payment method
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: honorarium_recipient_other
+      label: Other Honorarium Recipient
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submission_form_other
+      label: Other Submission Form
+      hint: Enter other submission form details
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitted_on_other
+      label: Other Submitted On
+      hint: Select other submitted date
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: submitted_time_other
+      label: Other Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: approval_status_other
+      label: Other Approval Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Other''}'
+      - '{''id'': 2, ''name'': ''Pending''}'
+      required: false
+    - id: 20
+      name: payment_status_other
+      label: Other Payment Status
+      hint: Select other payment status
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Other''}'
+      - '{''id'': 2, ''name'': ''Paid''}'
+      - '{''id'': 3, ''name'': ''Unpaid''}'
+      required: false
+    - id: 21
+      name: notes_other
+      label: Other Notes
+      hint: Add other notes
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: payment_date_other
+      label: Other Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: payment_time_other
+      label: Other Payment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: honorarium_amount_other
+      label: Other Honorarium Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: description_other
+      label: Other Description
+      hint: Provide other description
+      type: text
+      options: []
+      required: false

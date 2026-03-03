@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: credit_strategy_session_registration
+    pages:
+    - id: 1
+      name: schedule_session
+      label: Schedule Session
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: select_session_type
+      label: Select Session Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: select_session_date
+      label: Select Session Date
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: select_session_time
+      label: Select Session Time
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: session_details
+      label: Session Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: select_professional
+      label: Select Professional
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: select_location
+      label: Select Location
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: confirm_phone
+      label: Confirm Phone
+      hint: null
+      type: text
+      options: []
+      required: false

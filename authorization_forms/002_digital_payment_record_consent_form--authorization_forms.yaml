@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: digital_payment_record_consent_form
+    pages:
+    - id: 1
+      name: digital_payment_record_consent_form
+      label: digital_payment_record_consent_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: authorization_details
+      label: authorization_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: digital_payment_record_consent
+      label: digital_payment_record_consent
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,274 @@
+inputSchema:
+  type: object
+  properties:
+    title: Compensation Band Adjustment Form
+    pages:
+    - id: 1
+      name: request_date
+      label: Request Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: requester_name
+      label: Requester Name
+      hint: Name of person submitting request
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_title
+      label: Requester Title
+      hint: Your job title
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - Human Resources
+      - Finance
+      - Marketing
+      - Sales
+      - Operations
+      - IT
+      - Customer Service
+      - Legal
+      - Other
+      required: true
+    - id: 5
+      name: employee_name
+      label: Employee Name
+      hint: Name of employee for adjustment
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: employee_id
+      label: Employee ID
+      hint: Employee identification number
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: current_job_title
+      label: Current Job Title
+      hint: Employee current title
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: current_compensation_band
+      label: Current Compensation Band
+      hint: Current pay grade or band
+      type: select_one
+      options:
+      - Band 1 - Entry Level
+      - Band 2 - Junior
+      - Band 3 - Mid-Level
+      - Band 4 - Senior
+      - Band 5 - Lead or Principal
+      - Band 6 - Manager
+      - Band 7 - Director
+      - Band 8 - Executive
+      required: true
+    - id: 9
+      name: requested_compensation_band
+      label: Requested Compensation Band
+      hint: Proposed new band
+      type: select_one
+      options:
+      - Band 1 - Entry Level
+      - Band 2 - Junior
+      - Band 3 - Mid-Level
+      - Band 4 - Senior
+      - Band 5 - Lead or Principal
+      - Band 6 - Manager
+      - Band 7 - Director
+      - Band 8 - Executive
+      required: true
+    - id: 10
+      name: current_salary
+      label: Current Annual Salary
+      hint: Current base salary amount
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: proposed_salary
+      label: Proposed Annual Salary
+      hint: Proposed new salary amount
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: adjustment_percentage
+      label: Percentage Increase
+      hint: Approximate percentage change
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: adjustment_reason
+      label: Reason for Adjustment
+      hint: Primary reason for band change
+      type: select_one
+      options:
+      - Promotion to higher role
+      - Market adjustment
+      - Expanded responsibilities
+      - Exceptional performance
+      - Retention concern
+      - Internal equity correction
+      - Role reclassification
+      - Other
+      required: true
+    - id: 14
+      name: justification
+      label: Detailed Justification
+      hint: Explain why this adjustment is needed
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: market_data_available
+      label: Is market data available
+      hint: Salary benchmarking data
+      type: select_one
+      options:
+      - Yes - attached
+      - Yes - will provide
+      - No - not available
+      - Not applicable
+      required: true
+    - id: 16
+      name: market_comparison
+      label: How does current pay compare to market
+      hint: Market position
+      type: select_one
+      options:
+      - Well below market
+      - Below market
+      - At market
+      - Above market
+      - Well above market
+      - Unknown
+      required: true
+    - id: 17
+      name: performance_rating
+      label: Employee Performance Rating
+      hint: Most recent performance rating
+      type: select_one
+      options:
+      - Exceeds Expectations
+      - Meets Expectations
+      - Partially Meets Expectations
+      - Does Not Meet Expectations
+      - Not yet rated
+      required: true
+    - id: 18
+      name: tenure_in_role
+      label: Time in Current Role
+      hint: How long in current position
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1 to 2 years
+      - 3 to 4 years
+      - 5 or more years
+      required: true
+    - id: 19
+      name: previous_adjustments
+      label: Previous Band Adjustments
+      hint: Has employee had prior adjustments
+      type: select_one
+      options:
+      - No - first adjustment
+      - Yes - one prior
+      - Yes - multiple
+      required: true
+    - id: 20
+      name: last_adjustment_date
+      label: Date of Last Adjustment
+      hint: When was last change
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: budget_impact
+      label: Budget Impact
+      hint: Impact on department budget
+      type: select_one
+      options:
+      - Within budget
+      - Slight budget impact
+      - Significant budget impact
+      - Requires additional budget
+      required: true
+    - id: 22
+      name: effective_date
+      label: Proposed Effective Date
+      hint: When should change take effect
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: supporting_documents
+      label: Supporting Documents
+      hint: List attached documents
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: manager_recommendation
+      label: Manager Recommendation
+      hint: Manager approval status
+      type: select_one
+      options:
+      - Strongly recommend
+      - Recommend
+      - Neutral
+      - Do not recommend
+      - Not applicable
+      required: false
+    - id: 25
+      name: manager_comments
+      label: Manager Comments
+      hint: Additional manager input
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: hr_review
+      label: HR Review Status
+      hint: For HR use only
+      type: select_one
+      options:
+      - Pending review
+      - Under review
+      - Approved
+      - Denied
+      - More information needed
+      required: false
+    - id: 27
+      name: final_approval
+      label: Final Approval Status
+      hint: Final decision
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending executive approval
+      - Withdrawn
+      required: false
+    - id: 28
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

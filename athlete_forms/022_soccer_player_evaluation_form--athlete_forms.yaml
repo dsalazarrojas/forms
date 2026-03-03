@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Soccer Player Evaluation Form
+    pages:
+    - id: 1
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: player_position
+      label: player_position
+      hint: null
+      type: select_one
+      options:
+      - Soccer Player
+      - Midfielder
+      - Forward
+      - Defender
+      - Goalkeeper
+      required: false
+    - id: 3
+      name: technical_skills
+      label: Technical Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Dribbling
+      - Passing
+      - Shooting
+      - Ball Control
+      - Ball Possession
+      required: false
+    - id: 4
+      name: tactical_skills
+      label: Tactical Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Ball Control
+      - Field Reading
+      - Decision Making
+      - Strategic Awareness
+      - Vision
+      required: false
+    - id: 5
+      name: physical_skills
+      label: Physical Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Endurance
+      - Speed
+      - Agility
+      - Power
+      - Strength
+      required: false
+    - id: 6
+      name: psychological_skills
+      label: Psychological Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Focus
+      - Motivation
+      - Teamwork
+      - Confidence
+      - Emotional Control
+      required: false
+    - id: 7
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: Please provide any additional comments about the player's skills.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: overall_evaluation
+      label: Overall Evaluation
+      hint: Rate the player's overall performance from 1-5.
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: recommendation
+      label: Recommendation
+      hint: If the player has a potential for professional development, enter the
+        level of recommendation.
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,78 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Legal Obligation Absence Form
+    pages:
+    - id: 1
+      name: employee_request
+      label: Employee Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_absence
+      label: reason_for_absence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_documents
+      label: Employee Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 6
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Approve'', ''value'': ''approve''}'
+      - '{''label'': ''Reject'', ''value'': ''reject''}'
+      - '{''label'': ''Request for clarification'', ''value'': ''request_for_clarification''}'
+      - '{''label'': ''Decline'', ''value'': ''decline''}'
+      required: false
+    - id: 7
+      name: date_absence
+      label: Date Absence
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_absence
+      label: Time Absence
+      hint: null
+      type: time
+      options: []
+      required: false

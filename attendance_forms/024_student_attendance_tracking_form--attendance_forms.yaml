@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Attendance Tracking Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: Enter your name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: Enter your ID number
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: attendance
+      label: Attendance
+      hint: null
+      type: select_one
+      options:
+      - absent
+      - present
+      required: false
+    - id: 4
+      name: reason_absent
+      label: Reason Absent
+      hint: If student is absent, provide reason
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: checked_in_by
+      label: Checked In By
+      hint: null
+      type: select_one
+      options:
+      - Self
+      - Teacher
+      - Other
+      required: false
+    - id: 6
+      name: student_name_label
+      label: Label Student
+      hint: null
+      type: select_multiple
+      options:
+      - absent
+      - late
+      - excused
+      - excused_late
+      required: false
+    - id: 7
+      name: checked_out_by
+      label: Checked Out By
+      hint: null
+      type: select_one
+      options:
+      - Self
+      - Teacher
+      - Other
+      required: false
+    - id: 8
+      name: checked_out_time
+      label: Checked Out Time
+      hint: Time
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: Enter your email
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: student_status
+      label: Student Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Unknown
+      required: false
+    - id: 13
+      name: active
+      label: Active
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Not Active
+      required: false
+    - id: 14
+      name: inactive
+      label: Inactive
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Not Active
+      required: false
+    - id: 15
+      name: unknown
+      label: Unknown
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Not Active
+      required: false
+    - id: 16
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: checked_in_time
+      label: Checked In Time
+      hint: Time
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: checked_out
+      label: Checked Out
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Unknown
+      required: false

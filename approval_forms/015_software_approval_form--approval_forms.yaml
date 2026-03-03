@@ -1,0 +1,135 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: software_approval_form
+    pages:
+    - id: 1
+      name: software_approval
+      label: software approval
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_details
+      label: request details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: software_info
+      label: software information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: approval_status
+      label: approval status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''approved'', ''label'': ''approved''}'
+      - '{''id'': 2, ''name'': ''declined'', ''label'': ''declined''}'
+      - '{''id'': 3, ''name'': ''pending'', ''label'': ''pending''}'
+      required: false
+    - id: 5
+      name: software_requester
+      label: software requester
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''requestor1'', ''label'': ''requestor 1''}'
+      - '{''id'': 2, ''name'': ''requestor2'', ''label'': ''requestor 2''}'
+      - '{''id'': 3, ''name'': ''requestor3'', ''label'': ''requestor 3''}'
+      required: false
+    - id: 6
+      name: software_reviewers
+      label: software reviewers
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''reviewer1'', ''label'': ''reviewer 1''}'
+      - '{''id'': 2, ''name'': ''reviewer2'', ''label'': ''reviewer 2''}'
+      - '{''id'': 3, ''name'': ''reviewer3'', ''label'': ''reviewer 3''}'
+      required: false
+    - id: 7
+      name: software_versioning
+      label: software versioning
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''version1'', ''label'': ''version 1''}'
+      - '{''id'': 2, ''name'': ''version2'', ''label'': ''version 2''}'
+      - '{''id'': 3, ''name'': ''version3'', ''label'': ''version 3''}'
+      required: false
+    - id: 8
+      name: software_implementation_status
+      label: software implementation status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''implemented'', ''label'': ''implemented''}'
+      - '{''id'': 2, ''name'': ''not implemented'', ''label'': ''not implemented''}'
+      - '{''id'': 3, ''name'': ''pending'', ''label'': ''pending''}'
+      required: false
+    - id: 9
+      name: software_last_updated
+      label: software last updated
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''label'': True}'
+      - '{''id'': 2, ''name'': False, ''label'': False}'
+      - '{''id'': 3, ''name'': ''n/a'', ''label'': ''n/a''}'
+      required: false
+    - id: 10
+      name: software_review_status
+      label: software review status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''reviewed'', ''label'': ''reviewed''}'
+      - '{''id'': 2, ''name'': ''not reviewed'', ''label'': ''not reviewed''}'
+      - '{''id'': 3, ''name'': ''n/a'', ''label'': ''n/a''}'
+      required: false
+    - id: 11
+      name: software_comments
+      label: software comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: software_requester_comments
+      label: software requester comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: created_by
+      label: created by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: updated_by
+      label: updated by
+      hint: null
+      type: text
+      options: []
+      required: false

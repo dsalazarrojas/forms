@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Valuation Form
+    pages:
+    - id: 1
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_year_model
+      label: Year Model
+      hint: null
+      type: select_one
+      options:
+      - '2001'
+      - '2002'
+      - '2003'
+      - '2004'
+      - '2005'
+      - '2006'
+      - '2007'
+      - '2008'
+      - '2009'
+      required: false
+    - id: 5
+      name: vehicle_trim
+      label: Vehicle Trim
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_body_style
+      label: Body Style
+      hint: null
+      type: select_multiple
+      options:
+      - Sedan
+      - SUV
+      - Truck
+      - Hatchback
+      - Convertible
+      required: false
+    - id: 7
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: vehicle_damage
+      label: Vehicle Damage
+      hint: null
+      type: select_multiple
+      options:
+      - Front
+      - Back
+      - Side
+      - Rear
+      required: false
+    - id: 9
+      name: vehicle_color
+      label: Vehicle Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_engine_type
+      label: Engine Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_transmission
+      label: Transmission Type
+      hint: null
+      type: select_one
+      options:
+      - Automatic
+      - Manual
+      - CVT
+      - DCT
+      - Semi-Automatic
+      - Dual Clutch
+      required: false
+    - id: 12
+      name: vehicle_mileage
+      label: Vehicle Mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_engine_capacity
+      label: Engine Capacity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: vehicle_doors
+      label: Vehicle Doors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: vehicle_seats
+      label: Vehicle Seats
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: vehicle_drive_type
+      label: Drive Type
+      hint: null
+      type: select_one
+      options:
+      - FWD
+      - RWD
+      - AWD
+      - RWD with 2WD
+      - 2WD
+      - FWD with RWD
+      required: false
+    - id: 17
+      name: vehicle_wheel_type
+      label: Wheel Type
+      hint: null
+      type: select_one
+      options:
+      - RWD
+      - FWD
+      - 4WD
+      - 2WD
+      required: false
+    - id: 18
+      name: vehicle_engine_type_id
+      label: Engine Type ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: vehicle_transmission_id
+      label: Transmission Type ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: vehicle_body_style_id
+      label: Body Style ID
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: vehicle_year_id
+      label: Year ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: vehicle_make_id
+      label: Make ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: vehicle_model_id
+      label: Model ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: vehicle_trim_id
+      label: Trim ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: vehicle_color_id
+      label: Color ID
+      hint: null
+      type: text
+      options: []
+      required: false

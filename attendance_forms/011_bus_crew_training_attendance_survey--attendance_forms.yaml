@@ -1,0 +1,228 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Bus Crew Training Attendance Survey
+    pages:
+      - id: 1
+        name: training_session_info
+        label: Training Session Information
+        hint: Details about the training session
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: session_title
+        label: Session Title
+        hint: Name of the training session
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: session_date
+        label: Session Date
+        hint: Date of training
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: session_time
+        label: Session Time
+        hint: Start time of training
+        type: time
+        options: []
+        required: true
+      - id: 5
+        name: session_location
+        label: Session Location
+        hint: Where is the training held
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: trainer_name
+        label: Trainer Name
+        hint: Name of the instructor
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: attendee_info
+        label: Attendee Information
+        hint: Your details
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: full_name
+        label: Full Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: employee_id
+        label: Employee ID
+        hint: Your employee identification number
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: position
+        label: Position
+        hint: Your job title
+        type: select_one
+        options:
+        - Bus Driver
+        - Assistant Driver
+        - Dispatcher
+        - Maintenance Staff
+        - Supervisor
+        - Other
+        required: true
+      - id: 11
+        name: department
+        label: Department
+        hint: Your department
+        type: select_one
+        options:
+        - Operations
+        - Maintenance
+        - Administration
+        - Safety
+        - Training
+        required: true
+      - id: 12
+        name: years_experience
+        label: Years of Experience
+        hint: How long have you worked in this role
+        type: select_one
+        options:
+        - Less than 1 year
+        - 1-3 years
+        - 3-5 years
+        - 5-10 years
+        - More than 10 years
+        required: true
+      - id: 13
+        name: attendance_status
+        label: Attendance Status
+        hint: What is your attendance status
+        type: select_one
+        options:
+        - Present
+        - Late
+        - Left Early
+        - Absent
+        required: true
+      - id: 14
+        name: training_type
+        label: Training Type
+        hint: What type of training is this
+        type: select_one
+        options:
+        - Safety Training
+        - Defensive Driving
+        - Customer Service
+        - Vehicle Maintenance
+        - Emergency Procedures
+        - Route Training
+        - Compliance Training
+        - Other
+        required: true
+      - id: 15
+        name: session_feedback
+        label: Session Feedback
+        hint: Your feedback on the training
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: content_relevance
+        label: Content Relevance
+        hint: How relevant is the content to your role
+        type: select_one
+        options:
+        - Very Relevant
+        - Relevant
+        - Somewhat Relevant
+        - Not Very Relevant
+        - Not Relevant
+        required: true
+      - id: 17
+        name: trainer_effectiveness
+        label: Trainer Effectiveness
+        hint: How effective was the trainer
+        type: select_one
+        options:
+        - Excellent
+        - Good
+        - Average
+        - Below Average
+        - Poor
+        required: true
+      - id: 18
+        name: material_quality
+        label: Material Quality
+        hint: Quality of training materials
+        type: select_one
+        options:
+        - Excellent
+        - Good
+        - Average
+        - Below Average
+        - Poor
+        required: true
+      - id: 19
+        name: knowledge_gained
+        label: Knowledge Gained
+        hint: How much did you learn
+        type: select_one
+        options:
+        - A Great Deal
+        - A Lot
+        - Some
+        - A Little
+        - Nothing
+        required: true
+      - id: 20
+        name: would_recommend
+        label: Would You Recommend This Training
+        hint: Would you recommend to colleagues
+        type: select_one
+        options:
+        - Yes
+        - No
+        - Maybe
+        required: true
+      - id: 21
+        name: additional_training_needed
+        label: Additional Training Needed
+        hint: What other training do you need
+        type: select_multiple
+        options:
+        - Advanced Safety
+        - First Aid
+        - Conflict Resolution
+        - Route Planning
+        - Vehicle Technology
+        - Customer Relations
+        - None
+        required: false
+      - id: 22
+        name: comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

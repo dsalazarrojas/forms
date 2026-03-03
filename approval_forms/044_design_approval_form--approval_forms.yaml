@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Design Approval Form
+    pages:
+    - id: 1
+      name: design_approval_form
+      label: submit_designs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: design_approvals
+      label: review_designs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: designer_info
+      label: designer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: client_response
+      label: client_response
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: design_files
+      label: upload_designs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: client_feedback
+      label: client_feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: designer_notes
+      label: designer_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: client_notes
+      label: client_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: design_status
+      label: design_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: share_link
+      label: share_link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: custom_design
+      label: custom_design
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

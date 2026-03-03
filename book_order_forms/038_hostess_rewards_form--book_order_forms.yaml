@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hostess Rewards Form
+    pages:
+    - id: 1
+      name: book_order_form
+      label: Book Order Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: book_name
+      label: Book Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: book_author
+      label: Book Author
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: order_quantity
+      label: Order Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: total_value
+      label: Total Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: reward_type
+      label: Reward Type
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      - option_4
+      required: false
+    - id: 10
+      name: reward_value
+      label: Reward Value
+      hint: null
+      type: select_multiple
+      options:
+      - option_5
+      - option_6
+      - option_7
+      - option_8
+      required: false

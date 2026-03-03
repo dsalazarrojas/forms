@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Palliative Care Assessment Form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: patient_info
+      label: patient_info
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: care_type
+      label: care_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: symptoms
+      label: symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: pain
+      label: pain
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: emotional_status
+      label: emotional_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 8
+      name: medical_team
+      label: medical_team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: medication
+      label: medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: discharge
+      label: discharge
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: medical_conditions
+      label: medical_conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_care_status
+      label: patient_care_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 13
+      name: hospice_info
+      label: hospice_info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: social_support
+      label: social_support
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: spiritual_status
+      label: spiritual_status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: end_of_life_info
+      label: end_of_life_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: family_involvement
+      label: family_involvement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: care_location
+      label: care_location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: medical_facility
+      label: medical_facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_staff
+      label: medical_staff
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: discharge_status
+      label: discharge_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 22
+      name: hospice_location
+      label: hospice_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: care_team_members
+      label: care_team_members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: care_level
+      label: care_level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: other_comments
+      label: other_comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: BlueSnap Newsletter Subscription Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: We will send the newsletter to this address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: subscription_format
+      label: Subscription Format
+      hint: How would you like to receive the newsletter?
+      type: select_one
+      options:
+      - Digital Only
+      - Print Only
+      - Both Digital and Print
+      required: true
+    - id: 5
+      name: subscription_duration
+      label: Subscription Duration
+      hint: How long would you like to subscribe?
+      type: select_one
+      options:
+      - 1 Month
+      - 3 Months
+      - 6 Months
+      - 1 Year
+      - 2 Years
+      - Ongoing
+      required: true
+    - id: 6
+      name: interests
+      label: Areas of Interest
+      hint: Select topics you are most interested in
+      type: select_multiple
+      options:
+      - Business News
+      - Technology
+      - Health and Wellness
+      - Finance
+      - Lifestyle
+      - Entertainment
+      - Sports
+      - Politics
+      required: false
+    - id: 7
+      name: company_name
+      label: Company Name
+      hint: Optional - for business subscribers
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_title
+      label: Job Title
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone Number
+      hint: Optional - for account verification
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: street_address
+      label: Street Address
+      hint: Required for print subscriptions
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - Other
+      required: false
+    - id: 15
+      name: referral_source
+      label: How Did You Hear About Us?
+      hint: Help us understand how you found us
+      type: select_one
+      options:
+      - Social Media
+      - Search Engine
+      - Friend or Family
+      - Advertisement
+      - Email Campaign
+      - Other
+      required: false
+    - id: 16
+      name: marketing_consent
+      label: Marketing Communications
+      hint: May we send you occasional promotional offers?
+      type: select_one
+      options:
+      - Yes, send me promotional offers
+      - No, newsletter only
+      required: true
+    - id: 17
+      name: payment_method
+      label: Payment Method
+      hint: For paid subscriptions
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      required: true
+    - id: 18
+      name: cardholder_name
+      label: Cardholder Name
+      hint: Name as it appears on the card
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: terms_acceptance
+      label: Terms and Conditions
+      hint: I agree to the subscription terms and privacy policy
+      type: select_one
+      options:
+      - Yes, I Accept
+      - No, I Do Not Accept
+      required: true

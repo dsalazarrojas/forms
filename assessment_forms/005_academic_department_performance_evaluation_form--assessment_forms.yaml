@@ -1,0 +1,101 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Department Performance Evaluation Form
+    pages:
+      - id: 1
+        name: section_overview
+        label: -- Evaluation Overview --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: department_name
+        label: Department name
+        hint: Name of the academic department
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: evaluator_name
+        label: Evaluator name
+        hint: Person completing this evaluation
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: evaluation_period
+        label: Evaluation period
+        hint: Term or academic year under review
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: teaching_quality_rating
+        label: Teaching quality rating
+        hint: Rate overall teaching effectiveness
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Needs improvement
+          - Unsatisfactory
+        required: true
+      - id: 6
+        name: research_productivity_rating
+        label: Research productivity rating
+        hint: Rate departmental research output
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Needs improvement
+          - Unsatisfactory
+        required: true
+      - id: 7
+        name: student_support_rating
+        label: Student support and advising rating
+        hint: Rate support services for students
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Needs improvement
+          - Unsatisfactory
+        required: true
+      - id: 8
+        name: strengths
+        label: Department strengths
+        hint: Key strengths observed during evaluation
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: areas_for_improvement
+        label: Areas for improvement
+        hint: Recommended actions or focus areas
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: overall_recommendation
+        label: Overall recommendation
+        hint: Summary recommendation for the department
+        type: text
+        options: []
+        required: true

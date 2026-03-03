@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Agreement Extension Form
+    pages:
+    - id: 1
+      name: service_agreement_extension_form
+      label: Service Agreement Extension Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: agreement_type
+      label: Agreement Type
+      hint: null
+      type: select_one
+      options:
+      - Extension
+      - Renewal
+      - Termination
+      required: true
+    - id: 3
+      name: business_id
+      label: Business ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: reason_for_extension
+      label: Reason for Extension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: new_terms_start_date
+      label: New Terms Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: new_terms_end_date
+      label: New Terms End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: client_id
+      label: Client ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: service_id
+      label: Service ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: agreement_version
+      label: Agreement Version
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: extension_type
+      label: Extension Type
+      hint: null
+      type: select_one
+      options:
+      - Extension
+      - Renewal
+      - Termination
+      required: true
+    - id: 12
+      name: reason_for_termination
+      label: Reason for Termination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: notice_period
+      label: Notice Period
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: termination_reason
+      label: Termination Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: last_updated
+      label: Last Updated
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: service_agreement_status
+      label: Service Agreement Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Terminated
+      required: true
+    - id: 17
+      name: service_agreement_type
+      label: Service Agreement Type
+      hint: null
+      type: select_one
+      options:
+      - Service Agreement
+      - Service Agreement Extension
+      - Service Agreement Termination
+      required: true
+    - id: 18
+      name: service_agreement_name
+      label: Service Agreement Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: agreement_start_date
+      label: Agreement Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: agreement_end_date
+      label: Agreement End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: extension_status
+      label: Extension Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Expired
+      required: true
+    - id: 22
+      name: reason_for_extension
+      label: Reason for Extension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: new_terms_start_date
+      label: New Terms Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: new_terms_end_date
+      label: New Terms End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: last_updated
+      label: Last Updated
+      hint: null
+      type: date
+      options: []
+      required: true

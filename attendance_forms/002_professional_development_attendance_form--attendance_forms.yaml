@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Professional Development Attendance Form
+    pages:
+    - id: 1
+      name: workshop_title
+      label: Workshop Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: workshop_date
+      label: Workshop Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: workshop_time
+      label: Workshop Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: workshop_location
+      label: Workshop Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: trainer_name
+      label: Trainer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: attendee_title
+      label: Attendee Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: attended_workshops
+      label: Attended Workshops
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: attendance_status
+      label: Attendance Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Attended
+      - Declined
+      - No Show
+      - Confirmed
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

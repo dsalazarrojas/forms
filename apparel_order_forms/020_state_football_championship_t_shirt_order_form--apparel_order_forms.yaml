@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: state_football_championship_t_shirt_order_form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: custom_shirt_info
+      label: Custom Shirt Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: team_info
+      label: Team Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: t_shirt_size
+      label: T-Shirt Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - X-Large
+      - XX-Large
+      required: false
+    - id: 5
+      name: t_shirt_color
+      label: T-Shirt Color
+      hint: null
+      type: select_one
+      options:
+      - Blue
+      - Red
+      - Green
+      - Yellow
+      - White
+      required: false
+    - id: 6
+      name: t_shirt_text
+      label: T-Shirt Text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: t_shirt_number
+      label: T-Shirt Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: order_quantity
+      label: Order Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - PayPal
+      - Apple Pay
+      required: false
+    - id: 10
+      name: order_details
+      label: Order Details
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,391 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Seat Inspection Scheduling
+    pages:
+    - id: 1
+      name: requester_information
+      label: Requester Information
+      hint: Your contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For scheduling communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization
+      label: Organization
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: relationship_to_child
+      label: Relationship to Child
+      hint: Your relationship
+      type: select_one
+      options:
+      - Parent
+      - Guardian
+      - Grandparent
+      - Other relative
+      - Caregiver
+      - Foster parent
+      required: true
+    - id: 8
+      name: child_information
+      label: Child Information
+      hint: Details about children
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: number_of_children
+      label: Number of Children
+      hint: How many need inspection?
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4 or more
+      required: true
+    - id: 10
+      name: child_1_age
+      label: Child 1 Age
+      hint: Age in years
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: child_1_weight
+      label: Child 1 Weight
+      hint: In pounds
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: child_2_age
+      label: Child 2 Age
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: child_2_weight
+      label: Child 2 Weight
+      hint: In pounds
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: child_3_age
+      label: Child 3 Age
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: child_3_weight
+      label: Child 3 Weight
+      hint: In pounds
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: car_seat_details
+      label: Car Seat Details
+      hint: Information about seats
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: number_of_seats
+      label: Number of Car Seats
+      hint: Total seats
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4 or more
+      required: true
+    - id: 18
+      name: seat_types
+      label: Seat Types
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Infant seat (rear-facing)
+      - Convertible seat
+      - Forward-facing seat
+      - Booster seat
+      - All-in-one seat
+      - Not sure
+      required: true
+    - id: 19
+      name: seat_ownership
+      label: Seat Ownership
+      hint: Do you own the seats?
+      type: select_one
+      options:
+      - Yes - own all seats
+      - Some owned some borrowed
+      - No - all borrowed
+      - Need seat recommendations
+      required: true
+    - id: 20
+      name: scheduling_preferences
+      label: Scheduling Preferences
+      hint: Your availability
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: preferred_date
+      label: Preferred Date
+      hint: First choice
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: preferred_time
+      label: Preferred Time
+      hint: What time?
+      type: time
+      options: []
+      required: true
+    - id: 23
+      name: alternative_date_1
+      label: Alternative Date 1
+      hint: Second choice
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: alternative_date_2
+      label: Alternative Date 2
+      hint: Third choice
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: time_flexibility
+      label: Time Flexibility
+      hint: How flexible are you?
+      type: select_one
+      options:
+      - Very flexible
+      - Somewhat flexible
+      - Not flexible - specific time needed
+      required: true
+    - id: 26
+      name: appointment_location
+      label: Appointment Location
+      hint: Where to meet?
+      type: select_one
+      options:
+      - Fire station
+      - Police station
+      - Community center
+      - Hospital
+      - Health department
+      - Home visit
+      - Other
+      required: true
+    - id: 27
+      name: location_address
+      label: Location Address
+      hint: Specific address
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: service_type
+      label: Service Type
+      hint: What service do you need?
+      type: select_one
+      options:
+      - Installation check
+      - New installation
+      - Education only
+      - Seat selection help
+      - Recall check
+      - Multiple services
+      required: true
+    - id: 29
+      name: vehicle_information
+      label: Vehicle Information
+      hint: Details about your vehicle
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: vehicle_year
+      label: Vehicle Year
+      hint: Year
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: vehicle_make
+      label: Vehicle Make
+      hint: Manufacturer
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: vehicle_model
+      label: Vehicle Model
+      hint: Model
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: vehicle_type
+      label: Vehicle Type
+      hint: Type of vehicle
+      type: select_one
+      options:
+      - Sedan
+      - SUV
+      - Minivan
+      - Truck
+      - Wagon
+      - Other
+      required: true
+    - id: 34
+      name: installation_method
+      label: Installation Method
+      hint: How is it installed?
+      type: select_one
+      options:
+      - LATCH system
+      - Seat belt
+      - Both
+      - Not sure
+      required: false
+    - id: 35
+      name: concerns_questions
+      label: Concerns and Questions
+      hint: What would you like help with?
+      type: select_multiple
+      options:
+      - Proper installation
+      - Harness tightness
+      - Seat angle
+      - Seat belt routing
+      - Expiration date
+      - Recall status
+      - Seat appropriateness
+      - Multiple seat installation
+      - Transitioning to next seat
+      - Other
+      required: false
+    - id: 36
+      name: specific_concerns
+      label: Specific Concerns
+      hint: Describe your concerns
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: previous_inspection
+      label: Previous Inspection
+      hint: Have you had an inspection before?
+      type: select_one
+      options:
+      - Yes - within 1 year
+      - Yes - over 1 year ago
+      - No - first time
+      required: true
+    - id: 38
+      name: referral_source
+      label: Referral Source
+      hint: How did you hear about us?
+      type: select_one
+      options:
+      - Healthcare provider
+      - Fire department
+      - Police department
+      - Social media
+      - Friend/Family
+      - Website
+      - Community event
+      - Other
+      required: false
+    - id: 39
+      name: special_circumstances
+      label: Special Circumstances
+      hint: Any special needs?
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: language_preference
+      label: Language Preference
+      hint: Preferred language
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Other
+      required: true
+    - id: 41
+      name: other_language
+      label: Other Language
+      hint: If other
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: reminder_preference
+      label: Reminder Preference
+      hint: How to remind you?
+      type: select_one
+      options:
+      - Email
+      - Text message
+      - Phone call
+      - No reminder needed
+      required: true
+    - id: 43
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 44
+      name: scheduling_date
+      label: Scheduling Request Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

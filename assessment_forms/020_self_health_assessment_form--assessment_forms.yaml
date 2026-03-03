@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Self Health Assessment Form
+    pages:
+    - id: 1
+      name: self_health_assessment
+      label: Self Health Assessment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: health_data
+      label: Health Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: wellness_goal
+      label: Wellness Goal
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: health_risk
+      label: Health Risk
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Low''}'
+      - '{''id'': 2, ''name'': ''Moderate''}'
+      - '{''id'': 3, ''name'': ''High''}'
+      required: false
+    - id: 5
+      name: self_assessment
+      label: Self-Assessment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: healthcare_provider
+      label: Healthcare Provider
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''MD''}'
+      - '{''id'': 2, ''name'': ''DO''}'
+      - '{''id'': 3, ''name'': ''NP''}'
+      required: false
+    - id: 8
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: number
+      options: []
+      required: false

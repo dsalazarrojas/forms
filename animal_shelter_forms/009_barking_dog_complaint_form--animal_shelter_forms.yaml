@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: Barking Dog Complaint Form
+    pages:
+    - id: 1
+      name: complainant_name
+      label: Your Full Name
+      hint: Person filing the complaint
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: complainant_address
+      label: Your Address
+      hint: Complete street address
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: complainant_phone
+      label: Your Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: complainant_email
+      label: Your Email Address
+      hint: For follow up communication
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: dog_owner_name
+      label: Dog Owner Name if Known
+      hint: Name of the dog owner
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: dog_owner_address
+      label: Dog Owner Address
+      hint: Address where the dog is located
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: relationship_to_property
+      label: Your Relationship to the Property
+      hint: How are you affected
+      type: select_one
+      options:
+      - Neighbor - adjacent property
+      - Neighbor - nearby
+      - Tenant in same building
+      - Business owner nearby
+      - Passerby
+      - Other
+      required: true
+    - id: 8
+      name: dog_description
+      label: Description of Dog
+      hint: Breed, color, size if known
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: number_of_dogs
+      label: Number of Dogs
+      hint: How many dogs are barking
+      type: select_one
+      options:
+      - One
+      - Two
+      - Three or more
+      - Unknown
+      required: true
+    - id: 10
+      name: barking_frequency
+      label: How Often Does Barking Occur
+      hint: Frequency of the barking
+      type: select_one
+      options:
+      - Constantly throughout the day
+      - Several times daily
+      - Once or twice daily
+      - Several times weekly
+      - Occasionally
+      required: true
+    - id: 11
+      name: barking_duration
+      label: How Long Does Barking Last
+      hint: Duration of each barking episode
+      type: select_one
+      options:
+      - Less than 10 minutes
+      - 10 to 30 minutes
+      - 30 minutes to 1 hour
+      - 1 to 2 hours
+      - More than 2 hours
+      required: true
+    - id: 12
+      name: time_of_day
+      label: Time of Day When Barking Occurs
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Early morning - before 7 AM
+      - Morning - 7 AM to 12 PM
+      - Afternoon - 12 PM to 5 PM
+      - Evening - 5 PM to 9 PM
+      - Night - after 9 PM
+      - Late night - after 11 PM
+      required: true
+    - id: 13
+      name: start_date
+      label: When Did the Problem Start
+      hint: Approximate date barking became an issue
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: triggers_identified
+      label: Known Triggers for Barking
+      hint: What seems to cause the barking
+      type: select_multiple
+      options:
+      - People walking by
+      - Other animals
+      - Delivery personnel
+      - Mail carrier
+      - Noises
+      - Owner leaving
+      - Unknown
+      required: true
+    - id: 15
+      name: impact_description
+      label: How Does This Affect You
+      hint: Describe the impact on your daily life
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: sleep_disturbed
+      label: Is Your Sleep Disturbed
+      hint: Does the barking wake you up
+      type: select_one
+      options:
+      - Yes, frequently
+      - Yes, occasionally
+      - false
+      required: true
+    - id: 17
+      name: work_from_home
+      label: Do You Work From Home
+      hint: Does barking interfere with work
+      type: select_one
+      options:
+      - Yes, it interferes
+      - Yes, but manageable
+      - No, I work outside the home
+      - Not applicable
+      required: true
+    - id: 18
+      name: previous_contact
+      label: Have You Contacted the Owner
+      hint: Have you spoken to the dog owner
+      type: select_one
+      options:
+      - Yes, multiple times
+      - Yes, once
+      - No, not comfortable
+      - No, owner unknown
+      required: true
+    - id: 19
+      name: owner_response
+      label: Owner Response if Any
+      hint: How did the owner respond
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: evidence_available
+      label: Do You Have Evidence
+      hint: Recordings, logs, or witnesses
+      type: select_one
+      options:
+      - Yes, audio or video recordings
+      - Yes, written log
+      - Yes, witness statements
+      - No evidence
+      required: true
+    - id: 21
+      name: desired_resolution
+      label: Desired Resolution
+      hint: What outcome are you seeking
+      type: select_one
+      options:
+      - Owner addresses the barking
+      - Mediation with owner
+      - Official warning to owner
+      - Fine or penalty
+      - Other
+      required: true
+    - id: 22
+      name: confidentiality_request
+      label: Request Confidentiality
+      hint: Should your identity be kept confidential
+      type: select_one
+      options:
+      - Yes, keep my information confidential
+      - No, owner may know who complained
+      required: true
+    - id: 23
+      name: additional_information
+      label: Additional Information
+      hint: Any other relevant details
+      type: text
+      options: []
+      required: false

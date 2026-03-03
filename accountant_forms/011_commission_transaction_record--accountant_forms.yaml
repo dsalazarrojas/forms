@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commission Transaction Record
+    pages:
+    - id: 1
+      name: transaction_information
+      label: Transaction Information
+      hint: Details about the commission transaction
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: transaction_date
+      label: Transaction Date
+      hint: Date of the commission transaction
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: transaction_id
+      label: Transaction ID
+      hint: Unique transaction reference number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: transaction_type
+      label: Transaction Type
+      hint: Type of commission transaction
+      type: select_one
+      options:
+      - New Sale
+      - Renewal
+      - Referral
+      - Upsell
+      - Cross-Sell
+      - Adjustment
+      - Reversal
+      required: true
+    - id: 5
+      name: employee_information
+      label: Employee Information
+      hint: Details about the commission earner
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: employee_name
+      label: Employee Name
+      hint: Full name of the employee
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: employee_id
+      label: Employee ID
+      hint: Employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: department
+      label: Department
+      hint: Employee department
+      type: select_one
+      options:
+      - Sales
+      - Business Development
+      - Account Management
+      - Real Estate
+      - Insurance
+      - Financial Services
+      required: true
+    - id: 9
+      name: deal_information
+      label: Deal Information
+      hint: Details about the underlying deal
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: client_name
+      label: Client Name
+      hint: Name of the client or customer
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: deal_value
+      label: Deal Value
+      hint: Total value of the deal in USD
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: product_service
+      label: Product Service
+      hint: Product or service sold
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: commission_calculation
+      label: Commission Calculation
+      hint: How the commission was calculated
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: commission_rate
+      label: Commission Rate
+      hint: Commission percentage applied
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: commission_amount
+      label: Commission Amount
+      hint: Total commission amount in USD
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: split_percentage
+      label: Split Percentage
+      hint: Percentage if commission is split
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: net_commission
+      label: Net Commission
+      hint: Net commission after splits in USD
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: payment_information
+      label: Payment Information
+      hint: Details about commission payment
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: payment_status
+      label: Payment Status
+      hint: Current payment status
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Processing
+      - Paid
+      - On Hold
+      - Cancelled
+      required: true
+    - id: 20
+      name: payment_date
+      label: Payment Date
+      hint: Date payment was or will be made
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: payment_method
+      label: Payment Method
+      hint: How payment will be made
+      type: select_one
+      options:
+      - Direct Deposit
+      - Check
+      - Payroll
+      - Wire Transfer
+      required: false
+    - id: 22
+      name: fiscal_period
+      label: Fiscal Period
+      hint: Fiscal period this transaction belongs to
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: notes
+      label: Notes
+      hint: Any additional notes or comments
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: recorded_by
+      label: Recorded By
+      hint: Name of person recording this transaction
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: approval_required
+      label: Approval Required
+      hint: Does this transaction require approval
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

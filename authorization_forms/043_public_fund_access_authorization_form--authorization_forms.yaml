@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Fund Access Authorization Form
+    pages:
+    - id: 1
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: authorized_officer
+      label: Authorized Officer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: title
+      label: Title
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: access_level
+      label: Access Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: purpose
+      label: Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: authorized_representatives
+      label: Authorized Representatives
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: authorized_signer
+      label: Authorized Signer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: signer_title
+      label: Signer Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_address_1
+      label: Contact Address 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_address_2
+      label: Contact Address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_city
+      label: Contact City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_state
+      label: Contact State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_zip
+      label: Contact Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_country
+      label: Contact Country
+      hint: null
+      type: text
+      options: []
+      required: false

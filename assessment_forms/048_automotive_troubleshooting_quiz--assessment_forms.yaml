@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automotive Troubleshooting Quiz
+    pages:
+    - id: 1
+      name: section_header_participant
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_quiz
+      label: -- Troubleshooting Quiz Questions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: question_1
+      label: Question 1 - Engine Will Not Start
+      hint: What is the first diagnostic step?
+      type: select_one
+      options:
+      - Check for fuel
+      - Check battery voltage
+      - Check spark plugs
+      - Replace starter
+      required: true
+    - id: 8
+      name: question_2
+      label: Question 2 - Check Engine Light Is On
+      hint: What should you do first?
+      type: select_one
+      options:
+      - Replace the oxygen sensor
+      - Read the diagnostic trouble codes
+      - Clear the fault codes
+      - Replace the engine
+      required: true
+    - id: 9
+      name: question_3
+      label: Question 3 - Brake Pedal Is Soft
+      hint: What is the likely cause?
+      type: select_one
+      options:
+      - Air in brake lines
+      - Worn brake pads
+      - Weak springs
+      - Low coolant
+      required: true
+    - id: 10
+      name: question_4
+      label: Question 4 - Vehicle Overheating
+      hint: What is the first thing to check?
+      type: select_one
+      options:
+      - Coolant level
+      - Fan belt tension
+      - Radiator cap
+      - Engine thermostat
+      required: true
+    - id: 11
+      name: question_5
+      label: Question 5 - Strange Noise from Engine
+      hint: What could cause a knocking sound?
+      type: select_one
+      options:
+      - Worn bearings
+      - Low oil level
+      - Worn timing belt
+      - Clogged air filter
+      required: true
+    - id: 12
+      name: question_6
+      label: Question 6 - Transmission Slipping
+      hint: What is the most common cause?
+      type: select_one
+      options:
+      - Low transmission fluid
+      - Worn transmission fluid
+      - Failed solenoid
+      - Mechanical wear
+      required: true
+    - id: 13
+      name: question_7
+      label: Question 7 - Power Steering Not Working
+      hint: First diagnostic step?
+      type: select_one
+      options:
+      - Check belt condition
+      - Check fluid level
+      - Check pump pressure
+      - Replace pump
+      required: true
+    - id: 14
+      name: question_8
+      label: Question 8 - Battery Draining Quickly
+      hint: What should you test?
+      type: select_one
+      options:
+      - Alternator output
+      - Battery terminals
+      - Parasitic draw
+      - Cable resistance
+      required: true
+    - id: 15
+      name: question_9
+      label: Question 9 - Vibration at High Speed
+      hint: What is a common cause?
+      type: select_one
+      options:
+      - Unbalanced wheels
+      - Worn suspension
+      - Engine misfire
+      - Low tire pressure
+      required: true
+    - id: 16
+      name: question_10
+      label: Question 10 - No Air Conditioning Cooling
+      hint: First check?
+      type: select_one
+      options:
+      - Refrigerant level
+      - Compressor operation
+      - Fan motor
+      - Expansion valve
+      required: true
+    - id: 17
+      name: section_header_experience
+      label: -- Experience Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: confidence_level
+      label: Confidence in Troubleshooting Abilities
+      hint: null
+      type: select_one
+      options:
+      - Very Confident
+      - Confident
+      - Somewhat Confident
+      - Not Confident
+      required: true
+    - id: 19
+      name: areas_weak
+      label: Areas Where You Need More Training
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_header_performance
+      label: -- Performance Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: quiz_difficulty
+      label: Quiz Difficulty Level
+      hint: null
+      type: select_one
+      options:
+      - Too Easy
+      - Just Right
+      - Challenging
+      - Too Difficult
+      required: true
+    - id: 22
+      name: time_spent
+      label: Approximate Time Spent (minutes)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: feedback_on_quiz
+      label: Feedback on Quiz Content
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: training_needed
+      label: I need additional training in troubleshooting
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: true
+    - id: 25
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

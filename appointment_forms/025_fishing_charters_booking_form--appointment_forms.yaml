@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fishing Charters Booking Form
+    pages:
+    - id: 1
+      name: name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: charter_type
+      label: charter_type
+      hint: null
+      type: select_multiple
+      options:
+      - Fishing
+      - Boat
+      - Charter
+      required: false
+    - id: 8
+      name: num_people
+      label: number_of_people
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: num_fishers
+      label: num_fishers
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: fishers_names
+      label: fishers_names
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - ChatJimmy
+      - Other
+      required: false
+    - id: 13
+      name: form_id
+      label: form_id
+      hint: null
+      type: text
+      options: []
+      required: false

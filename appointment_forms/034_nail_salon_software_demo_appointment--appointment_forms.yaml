@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nail Salon Software Demo Appointment
+    pages:
+    - id: 1
+      name: salons_software_demo_navigate
+      label: Navigate
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: salons_software_demo_leads
+      label: Leads
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: salons_software_demo_details
+      label: Demo Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: salons_software_demo_schedule
+      label: Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: salons_software_demo_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: salons_software_demo_manager
+      label: Manager
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: salons_software_demo_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: salons_software_demo_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: salons_software_demo_submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: salons_software_demo_agree
+      label: Agree
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

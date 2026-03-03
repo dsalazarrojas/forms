@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Occupancy Permit Authorization Form
+    pages:
+    - id: 1
+      name: property_owner
+      label: property_owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Single''}'
+      - '{''id'': 2, ''name'': ''Multi-unit''}'
+      - '{''id'': 3, ''name'': ''Commercial''}'
+      required: false
+    - id: 3
+      name: property_size
+      label: property_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: property_address
+      label: property_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: request_date
+      label: request_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: request_time
+      label: request_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter
+      label: submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitter_phone
+      label: submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: submitter_signature
+      label: submitter_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitter_title
+      label: submitter_title
+      hint: null
+      type: text
+      options: []
+      required: false

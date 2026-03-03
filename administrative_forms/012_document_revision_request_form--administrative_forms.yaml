@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Document Revision Request Form
+    pages:
+    - id: 1
+      name: document_revision_request_form
+      label: Document Revision Request
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: document_id
+      label: Document ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: revision_type
+      label: Revision Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

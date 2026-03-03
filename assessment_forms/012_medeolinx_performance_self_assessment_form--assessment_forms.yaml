@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: MedeoLinx Performance Self Assessment Form
+    pages:
+    - id: 1
+      name: performance_level_rating
+      label: Performance Level
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Needs Improvement
+      required: true
+    - id: 2
+      name: review_period
+      label: Review Period
+      hint: Select the date and time
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: employee_title
+      label: Title
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: manager_name
+      label: Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: true

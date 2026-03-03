@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: lost_receipt_form
+    pages:
+    - id: 1
+      name: employee_details
+      label: Employee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: receipt_details
+      label: Receipt Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: expense_description
+      label: Expense Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: receipt_date
+      label: Receipt Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: expense_category
+      label: Expense Category
+      hint: null
+      type: select_one
+      options:
+      - Accounting
+      - Miscellaneous
+      required: true
+    - id: 6
+      name: expense_subcategory
+      label: Expense Subcategory
+      hint: null
+      type: select_multiple
+      options:
+      - Office Supplies
+      - Equipment
+      - Services
+      required: false
+    - id: 7
+      name: total_amount
+      label: Total Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: receipt_status
+      label: Receipt Status
+      hint: null
+      type: select_one
+      options:
+      - Received
+      - Not Received
+      required: true

@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: engine_intake_manifold_torque_sequence_checklist
+    pages:
+    - id: 1
+      name: engine_intake_torque_procedures
+      label: Engine Intake Torque Procedures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: manifold_type
+      label: Manifold Type
+      hint: null
+      type: select_one
+      options:
+      - standard
+      - tuned
+      - custom
+      required: false
+    - id: 3
+      name: sequence_torque
+      label: Sequence Torque
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: torque_sequence_notes
+      label: Torque Sequence Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: date_performed
+      label: Date Performed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: technician_name
+      label: Technician's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shop_name
+      label: Shop Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_number
+      label: Vehicle Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: serial_number
+      label: Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: engine_type
+      label: Engine Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: engine_intake_manifold_torque_sequence_checklist_form_submitted
+      label: Engine Intake Manifold Torque Sequence Checklist Form Submitted
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false

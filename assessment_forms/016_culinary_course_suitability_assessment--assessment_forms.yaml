@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Culinary Course Suitability Assessment
+    pages:
+    - id: 1
+      name: prospective_student
+      label: Prospective Student
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: experience_level
+      label: Experience Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''None''}'
+      - '{''id'': 2, ''value'': ''Basic''}'
+      - '{''id'': 3, ''value'': ''Intermediate''}'
+      - '{''id'': 4, ''value'': ''Advanced''}'
+      - '{''id'': 5, ''value'': ''Master''}'
+      required: false
+    - id: 3
+      name: learning_needs
+      label: Learning Needs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Cooking Techniques''}'
+      - '{''id'': 2, ''value'': ''Knife Skills''}'
+      - '{''id'': 3, ''value'': ''Food Safety''}'
+      required: false
+    - id: 4
+      name: availability
+      label: Availability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false

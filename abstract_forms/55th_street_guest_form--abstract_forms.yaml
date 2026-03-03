@@ -1,0 +1,132 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 55th Street Guest Form
+    pages:
+    - id: 1
+      name: section_header_guest_info
+      label: "--- Guest Information ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: guest_full_name
+      label: Guest full name
+      hint: First and last name as on ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guest_date_of_birth
+      label: Date of birth
+      hint: Use the guest's legal birth date
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: guest_email
+      label: Email address
+      hint: For booking confirmations and notices
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: guest_phone
+      label: Phone number
+      hint: Best contact number while on site
+      type: phone
+      options: []
+      required: true
+    - id: 6
+      name: stay_arrival_date
+      label: Arrival date
+      hint: Check-in date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: stay_departure_date
+      label: Departure date
+      hint: Check-out date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: room_or_space_requested
+      label: Room or space preference
+      hint: Choose preferred option; subject to availability
+      type: select_one
+      options:
+        - Single room
+        - Shared room
+        - Family room
+        - Dormitory/communal
+        - No preference
+      required: false
+    - id: 9
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: Person to contact in case of emergency
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_phone
+      label: Emergency contact phone
+      hint: Include country code if applicable
+      type: phone
+      options: []
+      required: true
+    - id: 11
+      name: vehicle_registration
+      label: Vehicle make/model and registration
+      hint: Leave blank if not bringing a vehicle
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: arrival_time
+      label: Expected arrival time
+      hint: Approximate time of arrival
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: guest_consent_terms
+      label: I agree to the host's terms, house rules, and liability waiver
+      hint: Signature implies agreement
+      type: select_one
+      options:
+        - I agree (signed)
+        - I do not agree
+      required: true
+    - id: 14
+      name: guest_signature
+      label: Signature (typed full name)
+      hint: Type your full legal name to sign
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: special_requests
+      label: Special requests or accessibility needs
+      hint: Dietary, mobility, or other accommodations
+      type: text
+      options: []
+      required: false

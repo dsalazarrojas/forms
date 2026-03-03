@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: professional-risk-assessment-questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: What is your name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: job title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: risk_areas
+      label: What are the main areas of your workplace?
+      hint: null
+      type: select_multiple
+      options:
+      - Area 1
+      - Area 2
+      - Area 3
+      - Area 4
+      - Area 5
+      - Area 6
+      - Area 7
+      - Area 8
+      required: false
+    - id: 4
+      name: training_procedure
+      label: Training Procedure
+      hint: null
+      type: select_one
+      options:
+      - Procedure 1
+      - Procedure 2
+      - Procedure 3
+      - Procedure 4
+      - Procedure 5
+      - Procedure 6
+      required: true
+    - id: 5
+      name: prophets
+      label: Prophets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: risk_management_process
+      label: risk management process
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: hazard_areas
+      label: hazard areas
+      hint: null
+      type: select_multiple
+      options:
+      - Hazard 1
+      - Hazard 2
+      - Hazard 3
+      - Hazard 4
+      - Hazard 5
+      - Hazard 6
+      - Hazard 7
+      - Hazard 8
+      required: false
+    - id: 8
+      name: risk_level
+      label: risk level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: risk_assessment_date
+      label: Date of risk assessment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: risk_assessment_employee_count
+      label: Number of employees
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: risk_assessment_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: risk_assessment_signoff_approval
+      label: Signoff/Approval
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Not Approved
+      required: true
+    - id: 13
+      name: risk_assessment_review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: risk_assessment_reviewer_signature
+      label: Reviewer Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: risk_assessment_reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: risk_assessment_reviewer_title
+      label: Reviewer Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: risk_assessment_reviewer_email
+      label: Reviewer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: risk_assessment_reviewer_department
+      label: Reviewer Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: risk_assessment_reviewer_phone
+      label: Reviewer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: risk_assessment_reviewer_location
+      label: Reviewer Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: risk_assessment_reviewer_remarks
+      label: Reviewer Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: risk_assessment_reviewer_signature_date
+      label: Reviewer Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: risk_assessment_reviewer_signature_title
+      label: Reviewer Signature Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: risk_assessment_reviewer_signature_name
+      label: Reviewer Signature Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: risk_assessment_reviewer_signature_remark
+      label: Reviewer Signature Remark
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,250 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Assessment Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer Not to Say
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: For follow-up
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: assessment_date
+      label: Assessment Date
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: current_temperature
+      label: Current Temperature
+      hint: In Fahrenheit
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: fever_present
+      label: Fever Present
+      hint: Temperature over 100.4 F
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 9
+      name: symptoms_check
+      label: Current Symptoms
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Cough
+      - Shortness of breath
+      - Difficulty breathing
+      - Fatigue
+      - Muscle or body aches
+      - Headache
+      - New loss of taste or smell
+      - Sore throat
+      - Congestion or runny nose
+      - Nausea or vomiting
+      - Diarrhea
+      - Chills
+      - None
+      required: true
+    - id: 10
+      name: symptom_severity
+      label: Symptom Severity
+      hint: Overall severity
+      type: select_one
+      options:
+      - Mild - Can manage at home
+      - Moderate - Some limitation
+      - Severe - Significant limitation
+      - Very Severe - Emergency care needed
+      required: true
+    - id: 11
+      name: symptom_onset_date
+      label: Symptom Onset Date
+      hint: When did symptoms start
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: known_exposure
+      label: Known COVID-19 Exposure
+      hint: Close contact in past 14 days
+      type: select_one
+      options:
+      - Yes - Confirmed case
+      - Yes - Suspected case
+      - false
+      - Unsure
+      required: true
+    - id: 13
+      name: travel_history
+      label: Recent Travel History
+      hint: Travel in past 14 days
+      type: select_one
+      options:
+      - Yes - Domestic
+      - Yes - International
+      - No travel
+      required: true
+    - id: 14
+      name: travel_locations
+      label: Travel Locations
+      hint: Where did you travel
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: high_risk_conditions
+      label: High Risk Medical Conditions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Cancer
+      - Chronic kidney disease
+      - COPD
+      - Heart conditions
+      - Obesity
+      - Pregnancy
+      - Sickle cell disease
+      - Smoking history
+      - Type 2 diabetes
+      - Weakened immune system
+      required: true
+    - id: 16
+      name: age_risk
+      label: Age Risk Factor
+      hint: Age 65 or older
+      type: select_one
+      options:
+      - Under 65
+      - 65 or older
+      required: true
+    - id: 17
+      name: previous_covid_infection
+      label: Previous COVID-19 Infection
+      hint: Have you had COVID before
+      type: select_one
+      options:
+      - Yes - Confirmed by test
+      - Yes - Suspected but not tested
+      - false
+      - Unsure
+      required: true
+    - id: 18
+      name: vaccination_status
+      label: Vaccination Status
+      hint: COVID-19 vaccine status
+      type: select_one
+      options:
+      - Not vaccinated
+      - Partially vaccinated - 1 dose
+      - Fully vaccinated - Primary series
+      - Boosted
+      required: true
+    - id: 19
+      name: emergency_warning_signs
+      label: Emergency Warning Signs
+      hint: Trouble breathing etc
+      type: select_multiple
+      options:
+      - None
+      - Trouble breathing
+      - Persistent chest pain
+      - New confusion
+      - Inability to wake or stay awake
+      - Bluish lips or face
+      - Other severe symptoms
+      required: true
+    - id: 20
+      name: risk_assessment
+      label: Risk Assessment Result
+      hint: To be completed by clinician
+      type: select_one
+      options:
+      - Low Risk - Home care recommended
+      - Moderate Risk - Testing recommended
+      - High Risk - Immediate evaluation needed
+      - Emergency - Call 911
+      required: false
+    - id: 21
+      name: testing_recommended
+      label: Testing Recommended
+      hint: Should patient get tested
+      type: select_one
+      options:
+      - Yes - PCR test
+      - Yes - Antigen test
+      - No - Not indicated
+      - Already tested
+      required: false
+    - id: 22
+      name: isolation_instructions
+      label: Isolation Instructions Given
+      hint: Patient education
+      type: select_one
+      options:
+      - Yes - Quarantine at home
+      - Yes - Isolate at home
+      - No - Not indicated
+      required: false
+    - id: 23
+      name: follow_up_plan
+      label: Follow-up Plan
+      hint: Next steps
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: clinician_name
+      label: Clinician Name
+      hint: Assessor name
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: clinician_signature
+      label: Clinician Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: false

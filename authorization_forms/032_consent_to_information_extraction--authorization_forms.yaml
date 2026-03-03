@@ -1,0 +1,254 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consent To Information Extraction
+    pages:
+    - id: 1
+      name: consent_date
+      label: Consent Date
+      hint: Date of consent
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: data_subject_name
+      label: Your Name
+      hint: Full name of data subject
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: data_subject_email
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: data_subject_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: data_subject_address
+      label: Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: organization_name
+      label: Organization Name
+      hint: Name of organization requesting extraction
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: organization_contact
+      label: Organization Contact
+      hint: Name of contact person
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: extraction_purpose
+      label: Purpose of Information Extraction
+      hint: Why is information being extracted
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: information_types
+      label: Types of Information to Extract
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Personal Information
+      - Contact Information
+      - Financial Records
+      - Medical Records
+      - Educational Records
+      - Employment Records
+      - Communication Records
+      - Transaction History
+      - Behavioral Data
+      - Other
+      required: true
+    - id: 10
+      name: information_types_other
+      label: Other Information Types
+      hint: Specify if other selected
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: data_sources
+      label: Data Sources
+      hint: Where will information be extracted from
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: extraction_method
+      label: Extraction Method
+      hint: How will information be extracted
+      type: select_one
+      options:
+      - Automated Software
+      - Manual Review
+      - API Integration
+      - Database Query
+      - Document Analysis
+      - Other
+      required: true
+    - id: 13
+      name: data_volume
+      label: Estimated Data Volume
+      hint: Approximate amount of data
+      type: select_one
+      options:
+      - Small - Less than 100 records
+      - Medium - 100 to 1000 records
+      - Large - 1000 to 10000 records
+      - Very Large - More than 10000 records
+      required: true
+    - id: 14
+      name: extraction_timeline
+      label: Extraction Timeline
+      hint: When will extraction occur
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: data_retention_period
+      label: Data Retention Period
+      hint: How long will extracted data be kept
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: data_storage_location
+      label: Data Storage Location
+      hint: Where will data be stored
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: security_measures
+      label: Security Measures
+      hint: How will data be protected
+      type: select_multiple
+      options:
+      - Encryption at Rest
+      - Encryption in Transit
+      - Access Controls
+      - Audit Logging
+      - Data Masking
+      - Secure Deletion
+      - Other
+      required: true
+    - id: 18
+      name: data_sharing
+      label: Will Data Be Shared
+      hint: Will extracted data be shared with others
+      type: select_one
+      options:
+      - Yes - With Named Parties
+      - Yes - With Anonymous Parties
+      - No - Internal Use Only
+      required: true
+    - id: 19
+      name: third_party_details
+      label: Third Party Details
+      hint: List parties if data will be shared
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: data_processing_location
+      label: Where Will Data Be Processed
+      hint: Geographic location of processing
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: legal_basis
+      label: Legal Basis for Extraction
+      hint: What legal basis applies
+      type: select_one
+      options:
+      - Consent
+      - Contract Performance
+      - Legal Obligation
+      - Legitimate Interest
+      - Public Interest
+      required: true
+    - id: 22
+      name: rights_understood
+      label: Your Rights Understood
+      hint: Do you understand your data rights
+      type: select_one
+      options:
+      - Yes - Fully Understood
+      - Yes - Partially Understood
+      - false
+      required: true
+    - id: 23
+      name: right_to_withdraw
+      label: Right to Withdraw Understood
+      hint: Do you know you can withdraw consent
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: withdrawal_process
+      label: Withdrawal Process Explained
+      hint: Do you know how to withdraw
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: questions_answered
+      label: Were Your Questions Answered
+      hint: Did you have opportunity to ask questions
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 26
+      name: consent_decision
+      label: Your Consent Decision
+      hint: Do you consent to information extraction
+      type: select_one
+      options:
+      - Yes - I Consent
+      - No - I Do Not Consent
+      required: true
+    - id: 27
+      name: data_subject_signature
+      label: Your Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: organization_representative
+      label: Organization Representative
+      hint: Name of organization representative
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: representative_signature
+      label: Representative Signature
+      hint: Type name as signature
+      type: text
+      options: []
+      required: true

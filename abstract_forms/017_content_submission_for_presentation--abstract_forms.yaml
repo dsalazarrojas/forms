@@ -1,0 +1,138 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Content Submission For Presentation
+    pages:
+      - id: 1
+        name: presenter_details_header
+        label: -- Presenter Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: presenter_full_name
+        label: Presenter Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: presenter_email
+        label: Presenter Email
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: presenter_bio
+        label: Professional Bio (Short)
+        hint: Max 150 words for the program
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: presenter_photo_link
+        label: Link to Professional Headshot
+        hint: Use Google Drive, Dropbox, or LinkedIn URL
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: presentation_details_header
+        label: -- Presentation Details --
+        hint: Provide information about your session
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: presentation_title
+        label: Presentation Title
+        hint: Make it engaging and clear
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: session_abstract
+        label: Session Abstract
+        hint: What will the audience learn (200-300 words)
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: target_audience_level
+        label: Target Audience Level
+        hint: null
+        type: select_one
+        options:
+          - Beginner - No prior knowledge needed
+          - Intermediate - Basic understanding assumed
+          - Advanced - Technical or expert level
+        required: true
+      - id: 10
+        name: session_duration
+        label: Preferred Session Duration
+        hint: Including Q and A time
+        type: select_one
+        options:
+          - 15 Minutes (Lightning Talk)
+          - 30 Minutes (Standard Session)
+          - 60 Minutes (Deep Dive/Workshop)
+          - 90 Minutes (Interactive Lab)
+        required: true
+      - id: 11
+        name: technical_requirements
+        label: Technical Requirements
+        hint: e.g., Audio for video, Mac adapter, Demo internet
+        type: select_multiple
+        options:
+          - Standard Projector/HDMI
+          - Sound Output/Audio Jack
+          - High-speed Internet for Demo
+          - Whiteboard and Markers
+          - Handout Printing
+        required: false
+      - id: 12
+        name: previous_speaking_experience
+        label: Have you presented on this topic before
+        hint: null
+        type: select_one
+        options:
+          - Yes - At a similar conference
+          - Yes - Internally/Local meetup
+          - No - This is a new presentation
+        required: true
+      - id: 13
+        name: submission_date
+        label: Date of Submission
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 14
+        name: agreement_present
+        label: I agree to be present for the full event
+        hint: null
+        type: select_one
+        options:
+          - I Agree
+          - I Disagree
+        required: true
+      - id: 15
+        name: additional_comments
+        label: Additional Comments for the Review Committee
+        hint: null
+        type: text
+        options: []
+        required: false

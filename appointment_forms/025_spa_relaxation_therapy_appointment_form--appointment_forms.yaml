@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spa Relaxation Therapy Appointment Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''phone''}'
+      - '{''value'': ''email''}'
+      - '{''value'': ''chat''}'
+      required: false
+    - id: 5
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: therapy_session_start_time
+      label: Therapy Session Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: therapy_session_duration
+      label: Therapy Session Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: therapist_id
+      label: Therapist ID
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1}'
+      - '{''value'': 2}'
+      - '{''value'': 3}'
+      required: false
+    - id: 9
+      name: therapy_session_type
+      label: Therapy Session Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''individual''}'
+      - '{''value'': ''couples''}'
+      - '{''value'': ''group''}'
+      required: false
+    - id: 10
+      name: therapy_session_frequency
+      label: Therapy Session Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''regular''}'
+      - '{''value'': ''sporadic''}'
+      - '{''value'': ''as_needed''}'
+      required: false
+    - id: 11
+      name: therapy_session_status
+      label: Therapy Session Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''active''}'
+      - '{''value'': ''completed''}'
+      - '{''value'': ''cancelled''}'
+      required: false

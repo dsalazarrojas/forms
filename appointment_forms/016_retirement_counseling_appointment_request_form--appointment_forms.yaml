@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retirement Counseling Appointment Request Form
+    pages:
+    - id: 1
+      name: retirement_counseling_appointment_request_form_page_1
+      label: Retirement Counseling Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: retirement_counseling_appointment_request_form_page_2
+      label: Select Date and Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: retirement_counseling_appointment_request_form_page_3
+      label: Select Counselor
+      hint: Please select a retirement counselor from the list below
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: retirement_counseling_appointment_request_form_page_4
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: retirement_counseling_appointment_request_form_page_5
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: retirement_counseling_appointment_request_form_page_6
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

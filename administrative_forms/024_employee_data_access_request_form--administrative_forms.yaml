@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Data Access Request Form
+    pages:
+    - id: 1
+      name: employee_data
+      label: Employee Data
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: manager_name
+      label: Manager Name
+      hint: Enter your manager's name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: data_access_reason
+      label: Data Access Reason
+      hint: null
+      type: select_one
+      options:
+      - Data Access Request
+      - Data Access Request for IT Security
+      - Data Access Request for HR
+      required: true
+    - id: 4
+      name: access_level
+      label: Access Level
+      hint: null
+      type: select_multiple
+      options:
+      - Basic Access
+      - Advanced Access
+      - Critical Access
+      required: true
+    - id: 5
+      name: employee_email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: employee_phone
+      label: Employee Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: employee_notes
+      label: Employee Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: manager_notes
+      label: Manager Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,293 @@
+inputSchema:
+  type: object
+  properties:
+    title: Assisted Stretch Sign Up Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: For records
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: For records
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Prefer Not to Say
+      required: true
+    - id: 6
+      name: membership_status
+      label: Membership Status
+      hint: Are you a member
+      type: select_one
+      options:
+      - Current Member
+      - Former Member
+      - New Client
+      required: true
+    - id: 7
+      name: membership_number
+      label: Membership Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: preferred_location
+      label: Preferred Location
+      hint: Where to stretch
+      type: select_one
+      options:
+      - Downtown Studio
+      - Westside Location
+      - Northside Location
+      - Mobile Service
+      - Virtual Session
+      required: true
+    - id: 9
+      name: preferred_date
+      label: Preferred Date
+      hint: First choice
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: preferred_time
+      label: Preferred Time
+      hint: When to schedule
+      type: select_one
+      options:
+      - Morning - 6am to 9am
+      - Mid-Morning - 9am to 12pm
+      - Afternoon - 12pm to 4pm
+      - Evening - 4pm to 8pm
+      required: true
+    - id: 11
+      name: alternative_date
+      label: Alternative Date
+      hint: Second choice
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: session_type
+      label: Session Type
+      hint: What kind
+      type: select_one
+      options:
+      - One-on-One Session
+      - Partner Stretch
+      - Group Class
+      - Sports-Specific
+      - Recovery Session
+      required: true
+    - id: 13
+      name: session_duration
+      label: Session Duration
+      hint: How long
+      type: select_one
+      options:
+      - 30 Minutes
+      - 45 Minutes
+      - 60 Minutes
+      - 90 Minutes
+      required: true
+    - id: 14
+      name: stretch_specialist
+      label: Preferred Stretch Specialist
+      hint: Who you want
+      type: select_one
+      options:
+      - No Preference
+      - Sarah Johnson
+      - Mike Chen
+      - Lisa Rodriguez
+      - David Kim
+      required: true
+    - id: 15
+      name: primary_goal
+      label: Primary Goal
+      hint: What you want
+      type: select_one
+      options:
+      - Improve Flexibility
+      - Reduce Muscle Tension
+      - Injury Recovery
+      - Pain Relief
+      - Athletic Performance
+      - Stress Relief
+      - General Wellness
+      required: true
+    - id: 16
+      name: problem_areas
+      label: Problem Areas
+      hint: Where you need help
+      type: select_multiple
+      options:
+      - Neck and Shoulders
+      - Upper Back
+      - Lower Back
+      - Hips
+      - Hamstrings
+      - Quads
+      - Calves
+      - Full Body
+      required: true
+    - id: 17
+      name: medical_conditions
+      label: Do You Have Any Medical Conditions
+      hint: Health issues
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: medical_details
+      label: Describe Medical Conditions
+      hint: List conditions
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: current_injuries
+      label: Do You Have Current Injuries
+      hint: Any injuries
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: injury_details
+      label: Describe Injuries
+      hint: What injuries
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: pain_level
+      label: Current Pain Level
+      hint: Rate 1 to 10
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: physician_clearance
+      label: Do You Have Physician Clearance
+      hint: Doctor approval
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Required
+      required: true
+    - id: 23
+      name: previous_stretch_experience
+      label: Have You Done Assisted Stretching Before
+      hint: Prior experience
+      type: select_one
+      options:
+      - Yes - Regularly
+      - Yes - A Few Times
+      - No - First Time
+      required: true
+    - id: 24
+      name: how_heard_about_us
+      label: How Did You Hear About Us
+      hint: Where from
+      type: select_one
+      options:
+      - Online Search
+      - Social Media
+      - Friend Referral
+      - Doctor Recommendation
+      - Advertisement
+      - Other
+      required: true
+    - id: 25
+      name: package_interest
+      label: Interested in Package Deals
+      hint: Multiple sessions
+      type: select_one
+      options:
+      - Yes - Tell Me More
+      - No - Single Session
+      required: true
+    - id: 26
+      name: liability_waiver
+      label: I Sign the Liability Waiver
+      hint: Agreement
+      type: select_one
+      options:
+      - Yes I Agree
+      - 'No'
+      required: true
+    - id: 27
+      name: health_accuracy
+      label: I Confirm Health Information Is Accurate
+      hint: Truthful info
+      type: select_one
+      options:
+      - Yes I Confirm
+      - 'No'
+      required: true
+    - id: 28
+      name: cancellation_policy
+      label: I Understand the Cancellation Policy
+      hint: Read policy
+      type: select_one
+      options:
+      - Yes I Understand
+      - 'No'
+      required: true
+    - id: 29
+      name: marketing_consent
+      label: Consent to Receive Promotional Emails
+      hint: Marketing emails
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 30
+      name: client_signature
+      label: Client Signature
+      hint: Type name to sign
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: signup_date
+      label: Sign Up Date
+      hint: Today date
+      type: date
+      options: []
+      required: true

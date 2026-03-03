@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Engine Performance Assessment
+    pages:
+    - id: 1
+      name: engine_check_results
+      label: Engine Check Results
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: check_date
+      label: Check Date
+      hint: Date of check
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: engine_type
+      label: Engine Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: engine_performance
+      label: Engine Performance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: maintenance_type
+      label: Maintenance Type
+      hint: Type of maintenance
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: maintenance_frequency
+      label: Maintenance Frequency
+      hint: Frequency of maintenance
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: fuel_level
+      label: Fuel Level
+      hint: Check fuel level
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: oil_level
+      label: Oil Level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: coolant_level
+      label: Coolant Level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: transmission_type
+      label: Transmission Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: transmission_condition
+      label: Transmission Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: engine_condition
+      label: Engine Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: fuel_efficiency
+      label: Fuel Efficiency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: engine_failure
+      label: Engine Failure
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: fuel_type
+      label: Fuel Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: vehicle_mileage
+      label: Vehicle Mileage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: fuel_level_2
+      label: Fuel Level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: oil_level_2
+      label: Oil Level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: coolant_level_2
+      label: Coolant Level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: fuel_efficiency_2
+      label: Fuel Efficiency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: engine_failure_2
+      label: Engine Failure
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: vehicle_type_2
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

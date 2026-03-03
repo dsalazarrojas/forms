@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Collections Management Form
+    pages:
+    - id: 1
+      name: collection_period
+      label: Collection Period
+      hint: Start date of collection cycle
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: collection_manager
+      label: Collections Manager
+      hint: Name of person managing collections
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: manager_contact_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: total_accounts_receivable
+      label: Total Accounts Receivable
+      hint: Total outstanding invoices
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: number_of_accounts
+      label: Number of Outstanding Accounts
+      hint: How many customers owe payment
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: total_collected_period
+      label: Total Collected This Period
+      hint: Amount successfully collected
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: collection_rate
+      label: Collection Rate - percent
+      hint: Percentage of targeted amount collected
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: aging_analysis
+      label: Aging Analysis
+      hint: Distribution of outstanding accounts
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: current_0_30_days
+      label: Current to 30 Days Past Due
+      hint: Amount in this aging category
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: current_31_60_days
+      label: 31-60 Days Past Due
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: current_61_90_days
+      label: 61-90 Days Past Due
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: current_over_90_days
+      label: Over 90 Days Past Due
+      hint: High risk accounts
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: collection_attempts_count
+      label: Total Collection Attempts
+      hint: Phone calls, emails, letters combined
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: contact_methods_used
+      label: Contact Methods Used
+      hint: Select all that were used
+      type: select_multiple
+      options:
+      - Phone Calls
+      - Email Reminders
+      - Formal Letters
+      - SMS Notifications
+      - In-person Visits
+      - Legal Notices
+      required: true
+    - id: 15
+      name: promised_payments
+      label: Promised Payments
+      hint: Total amount promised by customers
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: payment_plan_accounts
+      label: Accounts on Payment Plan
+      hint: Number of customers on arrangements
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: accounts_in_dispute
+      label: Accounts in Dispute
+      hint: Number of disputed invoices
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: dispute_details
+      label: Dispute Details
+      hint: Summary of disputed accounts
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: write_off_amount
+      label: Amount Written Off
+      hint: Uncollectible accounts this period
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: write_off_justification
+      label: Write-off Justification
+      hint: Reasons for write-offs
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: legal_action_filed
+      label: Legal Action Filed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Pending
+      required: true
+    - id: 22
+      name: legal_action_count
+      label: Number of Legal Actions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: next_period_forecast
+      label: Forecast for Next Period
+      hint: Expected collection amount
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: manager_notes
+      label: Summary and Notes
+      hint: Overall assessment and recommendations
+      type: text
+      options: []
+      required: false

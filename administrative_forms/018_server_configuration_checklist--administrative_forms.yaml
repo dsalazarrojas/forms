@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Server Configuration Checklist
+    pages:
+    - id: 1
+      name: server_configuration_checklist_first_page
+      label: Server Configuration Checklist
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: server_configuration_checklist_server_type
+      label: server_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: server_configuration_checklist_network_config
+      label: network_config
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: server_configuration_checklist_firewall
+      label: server_firewall
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''option1_value''}'
+      - '{''option2'': ''option2_value''}'
+      required: false
+    - id: 5
+      name: server_configuration_checklist_firewall_rules
+      label: firewall_rules
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''option1_value''}'
+      - '{''option2'': ''option2_value''}'
+      required: false
+    - id: 6
+      name: server_configuration_checklist_database_config
+      label: server_database
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''option1_value''}'
+      - '{''option2'': ''option2_value''}'
+      required: false
+    - id: 7
+      name: server_configuration_checklist_database_user
+      label: server_user
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: server_configuration_checklist_backup
+      label: backup
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''option1_value''}'
+      - '{''option2'': ''option2_value''}'
+      required: false

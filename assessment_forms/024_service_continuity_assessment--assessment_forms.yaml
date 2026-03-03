@@ -1,0 +1,118 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Service Continuity Assessment
+    pages:
+    - id: 1
+      name: intro
+      label: Service Continuity Assessment Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: business_owners
+      label: Business Owners
+      hint: null
+      type: select_one
+      options:
+      - CIO
+      - IT Director
+      - Operations Manager
+      - HR Manager
+      - Finance Manager
+      required: false
+    - id: 4
+      name: continuity_teams
+      label: Continuity Teams
+      hint: null
+      type: select_multiple
+      options:
+      - IT Team
+      - Operations Team
+      - HR Team
+      - Finance Team
+      required: false
+    - id: 5
+      name: continuity_gaps
+      label: Continuity Gaps
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: risk_assessment
+      label: Risk Assessment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: recovery_plan
+      label: Recovery Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: communication_plannning
+      label: Communication Planning
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Text Message
+      - Video Conference
+      - In-person Meeting
+      required: false
+    - id: 9
+      name: training_plan
+      label: Training Plan
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 10
+      name: training_frequency
+      label: Training Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Biannually
+      - Annualy
+      - On-demand
+      required: false
+    - id: 11
+      name: testing_plan
+      label: Testing Plan
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false

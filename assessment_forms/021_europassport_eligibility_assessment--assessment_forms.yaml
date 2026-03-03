@@ -1,0 +1,248 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: EuroPassport Eligibility Assessment
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: nationality
+      label: nationality
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Irish''}'
+      - '{''id'': 2, ''value'': ''British''}'
+      - '{''id'': 3, ''value'': ''French''}'
+      - '{''id'': 4, ''value'': ''German''}'
+      - '{''id'': 5, ''value'': ''Spanish''}'
+      - '{''id'': 6, ''value'': ''Italian''}'
+      - '{''id'': 7, ''value'': ''Portuguese''}'
+      - '{''id'': 8, ''value'': ''Dutch''}'
+      - '{''id'': 9, ''value'': ''Belgian''}'
+      - '{''id'': 10, ''value'': ''Swedish''}'
+      - '{''id'': 11, ''value'': ''Danish''}'
+      - '{''id'': 12, ''value'': ''Norwegian''}'
+      - '{''id'': 13, ''value'': ''Finnish''}'
+      - '{''id'': 14, ''value'': ''Greek''}'
+      - '{''id'': 15, ''value'': ''Cypriot''}'
+      - '{''id'': 16, ''value'': ''Maltese''}'
+      - '{''id'': 17, ''value'': ''Cypriot (Dual)''}'
+      - '{''id'': 18, ''value'': ''British Overseas''}'
+      - '{''id'': 19, ''value'': ''Other''}'
+      - '{''id'': 20, ''value'': ''Other (please specify)''}'
+      required: true
+    - id: 3
+      name: passport_type
+      label: Passport Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Full''}'
+      - '{''id'': 2, ''value'': ''Biometric''}'
+      - '{''id'': 3, ''value'': ''Biometric (with residence permit)''}'
+      - '{''id'': 4, ''value'': ''Other''}'
+      - '{''id'': 5, ''value'': ''Other (please specify)''}'
+      required: true
+    - id: 4
+      name: eu_country
+      label: EU Country of Residence
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Ireland''}'
+      - '{''id'': 2, ''value'': ''United Kingdom''}'
+      - '{''id'': 3, ''value'': ''France''}'
+      - '{''id'': 4, ''value'': ''Germany''}'
+      - '{''id'': 5, ''value'': ''Spain''}'
+      - '{''id'': 6, ''value'': ''Italy''}'
+      - '{''id'': 7, ''value'': ''Portugal''}'
+      - '{''id'': 8, ''value'': ''Netherlands''}'
+      - '{''id'': 9, ''value'': ''Belgium''}'
+      - '{''id'': 10, ''value'': ''Sweden''}'
+      - '{''id'': 11, ''value'': ''Denmark''}'
+      - '{''id'': 12, ''value'': ''Norway''}'
+      - '{''id'': 13, ''value'': ''Finland''}'
+      - '{''id'': 14, ''value'': ''Greece''}'
+      - '{''id'': 15, ''value'': ''Cyprus''}'
+      - '{''id'': 16, ''value'': ''Malta''}'
+      - '{''id'': 17, ''value'': ''United Kingdom''}'
+      - '{''id'': 18, ''value'': ''Other''}'
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: address_1
+      label: Address 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address_2
+      label: Address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: other_info
+      label: Other Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: upload_docs
+      label: Upload Documents
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: review_and_follow_up
+      label: Review and Follow Up
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': True}'
+      - '{''id'': 2, ''value'': False}'
+      - '{''id'': 3, ''value'': ''Not applicable''}'
+      required: true
+    - id: 12
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_time
+      label: Follow Up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_method
+      label: Follow Up Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Phone Call''}'
+      - '{''id'': 2, ''value'': ''Email''}'
+      - '{''id'': 3, ''value'': ''Other''}'
+      - '{''id'': 4, ''value'': ''Other (please specify)''}'
+      required: true
+    - id: 15
+      name: follow_up_notes
+      label: Follow Up Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_remarks
+      label: Follow Up Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_actions
+      label: Follow Up Actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_comments
+      label: Follow Up Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_remarks_2
+      label: Follow Up Remarks 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_actions_2
+      label: Follow Up Actions 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_comments_2
+      label: Follow Up Comments 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_remarks_3
+      label: Follow Up Remarks 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_actions_3
+      label: Follow Up Actions 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_comments_3
+      label: Follow Up Comments 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 26
+      name: follow_up_time
+      label: Follow Up Time
+      hint: null
+      type: time
+      options: []
+      required: false

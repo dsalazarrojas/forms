@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Appointment Request Hairdressers Form
+    pages:
+    - id: 1
+      name: start_section
+      label: Click Start to Begin Your Appointment Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: service_section
+      label: Service Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: desired_date
+      label: Desired Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: desired_time
+      label: Preferred Time Slot
+      hint: null
+      type: select_one
+      options:
+      - 8:30 AM
+      - 9:00 AM
+      - 9:30 AM
+      - 10:00 AM
+      - 10:30 AM
+      - 2:00 PM
+      - 2:30 PM
+      - 3:00 PM
+      - 3:30 PM
+      - 4:00 PM
+      required: true
+    - id: 8
+      name: service_type
+      label: Type of Service
+      hint: null
+      type: select_one
+      options:
+      - Haircut
+      - Hair Color
+      - Highlights
+      - Blowout
+      - Styling
+      - Consultation
+      - Other
+      required: true
+    - id: 9
+      name: current_hair_length
+      label: Current Hair Length
+      hint: null
+      type: select_one
+      options:
+      - Very Short
+      - Short
+      - Medium
+      - Long
+      - Very Long
+      required: false
+    - id: 10
+      name: hair_concern
+      label: Hair Concerns or Goals
+      hint: null
+      type: select_multiple
+      options:
+      - Length Reduction
+      - Color Change
+      - Damage Repair
+      - Volume
+      - Style Change
+      required: false
+    - id: 11
+      name: notes
+      label: Special Notes or Style Ideas
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Emissions Inspection Result Log
+    pages:
+    - id: 1
+      name: vehicle_emissions_inspection_result_log
+      label: Vehicle Emissions Inspection Result Log
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: select_multiple
+      options:
+      - Honda
+      - Toyota
+      - Ford
+      - Nissan
+      - Volkswagen
+      - BMW
+      - Mercedes-Benz
+      - Other
+      required: true
+    - id: 4
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: vehicle_color
+      label: Vehicle Color
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: vehicle_year_miles
+      label: Vehicle Year Miles
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: vehicle_inspection_date
+      label: Vehicle Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: vehicle_inspection_station
+      label: Vehicle Inspection Station
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: vehicle_inspection_results
+      label: Vehicle Inspection Results
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: vehicle_remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_remarks2
+      label: Remarks2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_emissions_test_result1
+      label: Emissions Test Result 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_emissions_test_result2
+      label: Emissions Test Result 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: vehicle_emissions_test_result3
+      label: Emissions Test Result 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: vehicle_emissions_test_result4
+      label: Emissions Test Result 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: vehicle_inspection_by
+      label: Inspection By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: vehicle_inspection_signature
+      label: Vehicle Inspection Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: vehicle_inspection_status
+      label: Vehicle Inspection Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 19
+      name: vehicle_reinspection_reason
+      label: Reinspection Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: vehicle_reinspection_date
+      label: Reinspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: vehicle_retest_date
+      label: Retest Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: vehicle_test_cycle
+      label: Test Cycle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: vehicle_test_cycle2
+      label: Test Cycle 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: vehicle_test_cycle3
+      label: Test Cycle 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: vehicle_test_cycle4
+      label: Test Cycle 4
+      hint: null
+      type: text
+      options: []
+      required: false

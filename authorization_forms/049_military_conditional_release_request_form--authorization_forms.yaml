@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Military Conditional Release Request Form
+    pages:
+    - id: 1
+      name: unit_administrator
+      label: Unit Administrator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: release_time
+      label: Release Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_release
+      label: Reason for Release
+      hint: Provide the reason for the release request
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: supervisor_signature
+      label: Supervisor Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: unit_administrator_signature
+      label: Unit Administrator Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: review_time
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: reviewer_signature
+      label: Reviewer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: approved
+      label: Approved
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      required: false

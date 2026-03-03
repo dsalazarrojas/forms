@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Filing Service Acknowledgment
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: tax_year
+      label: tax_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: service_provider
+      label: service_provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: signature_date
+      label: signature_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: signature_time
+      label: signature_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: acknowledgement_date
+      label: acknowledgement_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: tax_return_due_date
+      label: tax_return_due_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: acknowledgement_method
+      label: acknowledgement_method
+      hint: null
+      type: select_multiple
+      options:
+      - Electronic Acknowledgement
+      - Written Acknowledgement
+      - Phone Call
+      - In-Person Meeting
+      - Mail
+      required: false
+    - id: 9
+      name: acknowledgement_number
+      label: acknowledgement_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: client_phone
+      label: client_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: service_provider_phone
+      label: service_provider_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: acknowledgement_signature
+      label: acknowledgement_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: acknowledgement_email
+      label: acknowledgement_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: file_name
+      label: file_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: file_version
+      label: file_version
+      hint: null
+      type: text
+      options: []
+      required: false

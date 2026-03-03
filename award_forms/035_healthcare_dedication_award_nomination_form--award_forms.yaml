@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Dedication Award Nomination Form
+    pages:
+    - id: 1
+      name: staff_name
+      label: Staff Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: nominator_name
+      label: Nominator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: nominator_title
+      label: Nominator Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: nominator_email
+      label: Nominator Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: staff_email
+      label: Staff Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: staff_phone
+      label: Staff Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: reason_for_nomination
+      label: Reason for Nomination
+      hint: Briefly describe the staff member's dedication and accomplishments.
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: award_category
+      label: Award Category
+      hint: null
+      type: select_one
+      options:
+      - Outstanding Service Award
+      - Outstanding Leadership Award
+      - Exceptional Teamwork Award
+      required: true
+    - id: 9
+      name: date_of_nomination
+      label: Date of Nomination
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: submission_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: nominator_signature
+      label: Nominator Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: nominator_notes
+      label: Nominator Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: submission_signature
+      label: Submission Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: submission_notes
+      label: Submission Notes
+      hint: null
+      type: note
+      options: []
+      required: false

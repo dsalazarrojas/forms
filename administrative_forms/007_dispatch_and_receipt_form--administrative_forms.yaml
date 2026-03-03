@@ -1,0 +1,82 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: dispatch_and_receipt_form
+    pages:
+    - id: 1
+      name: dispatch_details
+      label: Dispatch Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dispatch_status
+      label: Dispatch Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''pending''}'
+      - '{''id'': 2, ''name'': ''shipped''}'
+      - '{''id'': 3, ''name'': ''returned''}'
+      required: false
+    - id: 3
+      name: receipt_details
+      label: Receipt Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: dispatch_date
+      label: Dispatch Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: receipt_date
+      label: Receipt Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: shipping_carrier
+      label: Shipping Carrier
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shipment_number
+      label: Shipment Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: tracking_number
+      label: Tracking Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

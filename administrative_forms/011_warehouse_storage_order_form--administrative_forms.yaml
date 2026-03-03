@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Warehouse Storage Order Form
+    pages:
+    - id: 1
+      name: storage_request
+      label: Request Storage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: item_details
+      label: Item Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: storage_location
+      label: Storage Location
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: storage_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: note
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

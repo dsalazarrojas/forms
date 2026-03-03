@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Branded Water Jug Order Form
+    pages:
+    - id: 1
+      name: team_branded_water_jug_order_form
+      label: Team Branded Water Jug Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_name
+      label: team_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: water_jug_size
+      label: water_jug_size
+      hint: null
+      type: select_one
+      options:
+      - Large
+      - Medium
+      - Small
+      required: false
+    - id: 4
+      name: order_quantity
+      label: order_quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - Water Jugs
+      - Team Logo Water Bottles
+      - Team Water Jugs
+      - Team Water Bottles
+      - Team Water Tumblers
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: output_file
+      label: output_file
+      hint: null
+      type: text
+      options: []
+      required: false

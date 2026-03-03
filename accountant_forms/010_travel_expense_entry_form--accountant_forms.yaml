@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: travel_expense_entry_form
+    pages:
+    - id: 1
+      name: travel_expense_entry_form_1
+      label: business_trips
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: expense_amount
+      label: expense_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: trip_start_date
+      label: trip_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: expense_type
+      label: expense_type
+      hint: null
+      type: select_one
+      options:
+      - Hotel
+      - Food
+      - Transportation
+      required: false
+    - id: 5
+      name: expense_type_other
+      label: other_expense_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: expense_description
+      label: expense_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: expense_date
+      label: expense_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: expense_reimbursed
+      label: expense_reimbursed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: expense_reimbursed_other
+      label: other_expense_reimbursed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: expense_reimbursed_date
+      label: expense_reimbursed_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: travel_expense_entry_form_notes
+      label: travel_expense_entry_form_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 13
+      name: output_file_name
+      label: output_file_name
+      hint: null
+      type: text
+      options: []
+      required: false

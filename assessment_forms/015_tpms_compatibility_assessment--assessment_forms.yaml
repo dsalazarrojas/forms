@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: TPMS Compatibility Assessment
+    pages:
+    - id: 1
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Toyota''}'
+      - '{''value'': ''Honda''}'
+      - '{''value'': ''Ford''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 3
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: engine_size
+      label: Engine Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: engine_type
+      label: Engine Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_tires
+      label: Vehicle Tires
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 18}'
+      - '{''value'': 20}'
+      - '{''value'': 22}'
+      - '{''value'': 24}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 7
+      name: vehicle_tire_size
+      label: Vehicle Tire Size
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: vehicle_wheels
+      label: Vehicle Wheels
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: transmission_type
+      label: Transmission Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Manual''}'
+      - '{''value'': ''Automatic''}'
+      - '{''value'': ''Semi-Automatic''}'
+      - '{''value'': ''Continuous''}'
+      required: false
+    - id: 10
+      name: vehicle_drive_type
+      label: Vehicle Drive Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Rear Wheel Drive''}'
+      - '{''value'': ''Front Wheel Drive''}'
+      - '{''value'': ''All Wheel Drive''}'
+      - '{''value'': ''None''}'
+      required: false
+    - id: 11
+      name: tpms_product
+      label: TPMS Product
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Product A''}'
+      - '{''value'': ''Product B''}'
+      - '{''value'': ''Product C''}'
+      - '{''value'': ''Product D''}'
+      required: false
+    - id: 12
+      name: tpms_fit
+      label: TPMS Fit
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Poor''}'
+      required: false
+    - id: 13
+      name: vehicle_year_installed
+      label: Vehicle Year Installed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: vehicle_model_installed
+      label: Vehicle Model Installed
+      hint: null
+      type: text
+      options: []
+      required: false

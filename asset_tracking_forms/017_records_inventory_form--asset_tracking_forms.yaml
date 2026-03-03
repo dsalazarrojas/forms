@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Records Inventory Form
+    pages:
+    - id: 1
+      name: records_inventory_form
+      label: Records Inventory Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: supervisor
+      label: Supervisor
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Select a Supervisor'', ''value'': ''supervisor1''}'
+      - '{''id'': 2, ''name'': ''Select a Supervisor'', ''value'': ''supervisor2''}'
+      - '{''id'': 3, ''name'': ''Select a Supervisor'', ''value'': ''supervisor3''}'
+      required: false
+    - id: 4
+      name: coordinator
+      label: Coordinator
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Select a Coordinator'', ''value'': ''coordinator1''}'
+      - '{''id'': 2, ''name'': ''Select a Coordinator'', ''value'': ''coordinator2''}'
+      - '{''id'': 3, ''name'': ''Select a Coordinator'', ''value'': ''coordinator3''}'
+      required: false
+    - id: 5
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: inventory_comments
+      label: Inventory Comments
+      hint: null
+      type: text
+      options: []
+      required: false

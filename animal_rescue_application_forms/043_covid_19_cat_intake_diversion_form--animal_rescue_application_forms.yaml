@@ -1,0 +1,333 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Cat Intake Diversion Form
+    pages:
+    - id: 1
+      name: owner_name
+      label: Owner Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For communication
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Street Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: intake_date
+      label: Intake Date
+      hint: Date of surrender request
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: cat_name
+      label: Cat Name
+      hint: Pet name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: cat_age
+      label: Cat Age
+      hint: In years
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: cat_gender
+      label: Cat Gender
+      hint: Male or female
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Unknown
+      required: true
+    - id: 12
+      name: cat_breed
+      label: Cat Breed
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: cat_color
+      label: Cat Color
+      hint: Primary color
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: spayed_neutered
+      label: Spayed or Neutered
+      hint: Surgical status
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 15
+      name: vaccination_status
+      label: Vaccination Status
+      hint: Current on vaccines
+      type: select_one
+      options:
+      - Yes - Current
+      - No - Overdue
+      - Never vaccinated
+      - Unknown
+      required: true
+    - id: 16
+      name: microchipped
+      label: Microchipped
+      hint: ID chip implanted
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 17
+      name: microchip_number
+      label: Microchip Number
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: health_status
+      label: Current Health Status
+      hint: Any health issues
+      type: select_one
+      options:
+      - Healthy
+      - Minor issues
+      - Chronic condition
+      - Serious illness
+      - Unknown
+      required: true
+    - id: 19
+      name: health_details
+      label: Health Details
+      hint: Describe any conditions
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: behavior_temperament
+      label: Behavior and Temperament
+      hint: Personality description
+      type: select_one
+      options:
+      - Friendly and social
+      - Shy but friendly
+      - Independent
+      - Aggressive or fearful
+      - Unknown
+      required: true
+    - id: 21
+      name: good_with_children
+      label: Good with Children
+      hint: If known
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: false
+    - id: 22
+      name: good_with_other_cats
+      label: Good with Other Cats
+      hint: If known
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: false
+    - id: 23
+      name: good_with_dogs
+      label: Good with Dogs
+      hint: If known
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: false
+    - id: 24
+      name: litter_box_trained
+      label: Litter Box Trained
+      hint: House trained
+      type: select_one
+      options:
+      - true
+      - false
+      - Sometimes
+      required: true
+    - id: 25
+      name: indoor_outdoor
+      label: Indoor or Outdoor
+      hint: Where does cat live
+      type: select_one
+      options:
+      - Indoor only
+      - Outdoor only
+      - Both indoor and outdoor
+      required: true
+    - id: 26
+      name: reason_for_surrender
+      label: Reason for Surrender
+      hint: Why are you surrendering
+      type: select_one
+      options:
+      - Housing issues
+      - Financial constraints
+      - Allergies
+      - Behavior problems
+      - Moving
+      - New baby
+      - Death in family
+      - COVID-19 hardship
+      - Other
+      required: true
+    - id: 27
+      name: surrender_details
+      label: Surrender Details
+      hint: Please explain
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: diversion_options
+      label: Diversion Options Discussed
+      hint: Alternatives to surrender
+      type: select_multiple
+      options:
+      - Pet food assistance
+      - Veterinary care assistance
+      - Temporary foster care
+      - Rehoming assistance
+      - Housing resources
+      - Financial aid resources
+      - Owner wishes to proceed
+      required: true
+    - id: 29
+      name: owner_wants_return
+      label: Owner Wants Return
+      hint: If temporary surrender
+      type: select_one
+      options:
+      - Yes - Temporary
+      - No - Permanent surrender
+      - Unsure
+      required: true
+    - id: 30
+      name: surrender_fee
+      label: Surrender Fee
+      hint: Fee payment
+      type: select_one
+      options:
+      - Paid
+      - Waived
+      - Payment plan
+      required: false
+    - id: 31
+      name: medical_records_provided
+      label: Medical Records Provided
+      hint: Vet records
+      type: select_one
+      options:
+      - Yes - Complete
+      - Yes - Partial
+      - No records
+      required: true
+    - id: 32
+      name: supplies_included
+      label: Supplies Included
+      hint: Food carrier etc
+      type: select_multiple
+      options:
+      - Food
+      - Litter
+      - Carrier
+      - Bedding
+      - Toys
+      - None
+      required: false
+    - id: 33
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: owner_signature
+      label: Owner Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: staff_name
+      label: Staff Name
+      hint: Intake coordinator
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: staff_signature
+      label: Staff Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: date_completed
+      label: Date Completed
+      hint: Today date
+      type: date
+      options: []
+      required: true

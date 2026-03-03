@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Income Contribution Assessment
+    pages:
+    - id: 1
+      name: household_income
+      label: Household income
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: household_size
+      label: Household size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: monthly_income
+      label: Monthly income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: employment_status
+      label: Employment status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Self-employed
+      - Unemployed
+      - Pensioner
+      - Student
+      - Disability
+      required: false
+    - id: 5
+      name: annual_income
+      label: Annual income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: monthly_expenses
+      label: Monthly expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: monthly_allowance
+      label: Monthly allowance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: employment_income
+      label: Employment income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: social_benefit
+      label: Social benefit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: other_income
+      label: Other income
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: employment_income_type
+      label: Employment income type
+      hint: null
+      type: select_multiple
+      options:
+      - Wage or salary
+      - Tips
+      - Investments
+      - Rent
+      - Royalties
+      - Other
+      required: false

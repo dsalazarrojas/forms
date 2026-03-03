@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Income Tax Data Form
+    pages:
+    - id: 1
+      name: taxable_income
+      label: taxable_income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: other_income
+      label: other_income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: employment_status
+      label: employment_status
+      hint: null
+      type: select_multiple
+      options:
+      - Employed
+      - Self-Employed
+      - Unemployed
+      required: false
+    - id: 4
+      name: income_source
+      label: income_source
+      hint: null
+      type: select_one
+      options:
+      - Business
+      - Investments
+      - Other
+      required: false
+    - id: 5
+      name: marital_status
+      label: marital_status
+      hint: null
+      type: select_one
+      options:
+      - Married
+      - Single
+      - Other
+      required: false
+    - id: 6
+      name: tax_year
+      label: tax_year
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: filing_status
+      label: filing_status
+      hint: null
+      type: select_multiple
+      options:
+      - Single
+      - Joint
+      required: false
+    - id: 8
+      name: income_verification
+      label: income_verification
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: employment_type
+      label: employment_type
+      hint: null
+      type: select_one
+      options:
+      - W-2
+      - W-4
+      - Self-Employed
+      required: false
+    - id: 10
+      name: other_income_source
+      label: other_income_source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: income_verification_method
+      label: income_verification_method
+      hint: null
+      type: select_one
+      options:
+      - Form 1040
+      - Form 1040A
+      required: false
+    - id: 12
+      name: other_income_verification_method
+      label: other_income_verification_method
+      hint: null
+      type: select_one
+      options:
+      - Form 1040A
+      - Form 1040
+      required: false

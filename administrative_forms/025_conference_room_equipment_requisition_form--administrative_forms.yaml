@@ -1,0 +1,244 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Room Equipment Requisition Form
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Requestor Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: employee_id
+      label: Employee ID
+      hint: Staff number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: room_location
+      label: Room or Location
+      hint: Where equipment needed
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: requisition_date
+      label: Date of Request
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: equipment_needed_date
+      label: Date Equipment Needed
+      hint: When do you need it
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: equipment_return_date
+      label: Date Equipment Will Be Returned
+      hint: Return date
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: event_type
+      label: Event Type
+      hint: Purpose
+      type: select_one
+      options:
+      - Meeting
+      - Presentation
+      - Training
+      - Conference
+      - Video Call
+      - Webinar
+      - Other
+      required: true
+    - id: 11
+      name: expected_attendees
+      label: Expected Number of Attendees
+      hint: Headcount
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: audio_equipment
+      label: Audio Equipment
+      hint: Select needed items
+      type: select_multiple
+      options:
+      - Wireless Microphone
+      - Lapel Microphone
+      - Podium Microphone
+      - Portable Speaker
+      - Sound Mixer
+      - Audio Recorder
+      - None Required
+      required: false
+    - id: 13
+      name: video_equipment
+      label: Video Equipment
+      hint: Select needed items
+      type: select_multiple
+      options:
+      - LCD Projector
+      - Large Screen TV
+      - Projection Screen
+      - Video Camera
+      - Webcam
+      - Video Switcher
+      - None Required
+      required: false
+    - id: 14
+      name: display_equipment
+      label: Display Equipment
+      hint: Select needed items
+      type: select_multiple
+      options:
+      - Whiteboard
+      - Flip Chart
+      - Easel
+      - Monitor Stand
+      - Tablet Display
+      - None Required
+      required: false
+    - id: 15
+      name: computer_equipment
+      label: Computer Equipment
+      hint: Select needed items
+      type: select_multiple
+      options:
+      - Desktop Computer
+      - Laptop Computer
+      - Tablet
+      - Keyboard and Mouse
+      - Docking Station
+      - None Required
+      required: false
+    - id: 16
+      name: connectivity_equipment
+      label: Connectivity Equipment
+      hint: Select needed items
+      type: select_multiple
+      options:
+      - HDMI Cables
+      - VGA Adapters
+      - USB-C Adapters
+      - Extension Cords
+      - Power Strips
+      - WiFi Hotspot
+      - None Required
+      required: false
+    - id: 17
+      name: lighting_equipment
+      label: Lighting Equipment
+      hint: Select needed items
+      type: select_multiple
+      options:
+      - Stage Lighting
+      - Spotlights
+      - Ambient Lighting
+      - Video Lighting
+      - None Required
+      required: false
+    - id: 18
+      name: furniture_needed
+      label: Furniture Needed
+      hint: Additional furniture
+      type: select_multiple
+      options:
+      - Additional Chairs
+      - Additional Tables
+      - Podium
+      - Stage Platform
+      - Room Dividers
+      - None Required
+      required: false
+    - id: 19
+      name: technical_support
+      label: Technical Support Required
+      hint: On-site support
+      type: select_one
+      options:
+      - Yes Full Time Support
+      - Yes Setup Only
+      - Yes During Event
+      - No Support Needed
+      required: true
+    - id: 20
+      name: setup_instructions
+      label: Setup Instructions
+      hint: Special requirements
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: delivery_location
+      label: Delivery Location Details
+      hint: Room number and floor
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: contact_person_onsite
+      label: On-Site Contact Person
+      hint: Who will be there
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: budget_code
+      label: Budget Code or Cost Center
+      hint: For billing
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: supervisor_approval
+      label: Supervisor Name
+      hint: Approving manager
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: special_notes
+      label: Special Notes
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: terms_accepted
+      label: I Accept Equipment Usage Terms
+      hint: Agree to handle with care
+      type: select_one
+      options:
+      - I Accept
+      - I Do Not Accept
+      required: true

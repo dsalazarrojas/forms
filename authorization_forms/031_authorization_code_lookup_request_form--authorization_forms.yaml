@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Authorization Code Lookup Request Form
+    pages:
+    - id: 1
+      name: request_date
+      label: Request Date
+      hint: Date of this lookup request
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: requestor_name
+      label: Requestor Name
+      hint: Full name of person requesting
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requestor_email
+      label: Requestor Email
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requestor_phone
+      label: Requestor Phone
+      hint: Your contact phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: merchant_name
+      label: Merchant Name
+      hint: Name of the merchant
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: merchant_id
+      label: Merchant ID or Account Number
+      hint: Merchant identification
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: transaction_date
+      label: Transaction Date
+      hint: Date of the transaction
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: transaction_amount
+      label: Transaction Amount
+      hint: Dollar amount of transaction
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: cardholder_name
+      label: Cardholder Name
+      hint: Name on the card
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: card_last_four
+      label: Card Last Four Digits
+      hint: Last 4 digits of card
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: card_type
+      label: Card Type
+      hint: Visa, Mastercard, Amex, etc
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - American Express
+      - Discover
+      - Diners Club
+      - Other
+      required: true
+    - id: 12
+      name: authorization_code
+      label: Authorization Code to Look Up
+      hint: The authorization code in question
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: reference_number
+      label: Reference or Trace Number
+      hint: Transaction reference number if known
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: lookup_reason
+      label: Reason for Lookup Request
+      hint: Why are you requesting this
+      type: select_one
+      options:
+      - Transaction Verification
+      - Dispute Resolution
+      - Fraud Investigation
+      - Reconciliation
+      - Customer Service
+      - Record Keeping
+      - Other
+      required: true
+    - id: 15
+      name: lookup_description
+      label: Detailed Description
+      hint: More details about the request
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: issue_status
+      label: Current Status of Issue
+      hint: Is this still unresolved
+      type: select_one
+      options:
+      - Open - Unresolved
+      - Partial Resolution
+      - Escalated
+      - Under Investigation
+      - Other
+      required: true
+    - id: 17
+      name: previous_request
+      label: Previous Lookup Requests Made
+      hint: Have you requested before
+      type: select_one
+      options:
+      - No - First Request
+      - Yes - 1 Previous
+      - Yes - 2-3 Previous
+      - Yes - Multiple Previous
+      required: true
+    - id: 18
+      name: dispute_filed
+      label: Chargeback or Dispute Filed
+      hint: Is there a formal dispute
+      type: select_one
+      options:
+      - No Dispute
+      - Chargeback Filed
+      - Dispute Pending
+      - Appeal in Progress
+      required: true
+    - id: 19
+      name: documentation_attached
+      label: Supporting Documentation
+      hint: What documentation is attached
+      type: select_multiple
+      options:
+      - Receipt or Invoice
+      - Credit Card Statement
+      - Previous Correspondence
+      - Proof of Delivery
+      - Photographs
+      - Other Documents
+      required: false
+    - id: 20
+      name: preferred_resolution
+      label: Preferred Resolution
+      hint: What outcome are you seeking
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contact_preference
+      label: Preferred Contact Method
+      hint: How to reach you
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text Message
+      - Mail
+      - Fax
+      required: true
+    - id: 22
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent is this request
+      type: select_one
+      options:
+      - Routine
+      - Priority
+      - High Priority
+      - Critical - Time Sensitive
+      required: true
+    - id: 23
+      name: additional_information
+      label: Additional Information
+      hint: Any other relevant details
+      type: text
+      options: []
+      required: false

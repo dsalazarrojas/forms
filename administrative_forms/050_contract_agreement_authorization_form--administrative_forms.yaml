@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contract Agreement Authorization Form
+    pages:
+    - id: 1
+      name: contract_identification_header
+      label: -- Contract Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contract_title_official
+      label: Official Contract Title
+      hint: e.g., Master Services Agreement - XYZ Corp
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: second_party_vendor
+      label: Second Party (Vendor/Client)
+      hint: Full legal name of the entity
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contract_value_usd
+      label: Total Contract Value (USD)
+      hint: Estimated total spend or revenue
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: administrative_details_header
+      label: -- Administrative Details --
+      hint: Internal routing and approvals
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: requesting_department
+      label: Requesting Department
+      hint: null
+      type: select_one
+      options:
+      - Sales/Revenue
+      - IT/Technology
+      - Marketing/Comms
+      - HR/Legal
+      - Procurement/Ops
+      required: true
+    - id: 7
+      name: budget_account_code
+      label: Budget/GL Account Code
+      hint: For financial tracking
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contract_duration_months
+      label: Contract Duration (Months)
+      hint: Enter 0 for perpetual/indefinite
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: compliance_review_header
+      label: -- Legal and Compliance Review --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: legal_review_status
+      label: Legal Review Status
+      hint: Has the legal team approved this draft
+      type: select_one
+      options:
+      - Approved - No changes
+      - Approved - With minor modifications
+      - Pending Final Review
+      - Rejected/In Negotiation
+      required: true
+    - id: 11
+      name: risk_assessment_level
+      label: Financial/Operational Risk Level
+      hint: null
+      type: select_one
+      options:
+      - Low - Routine agreement
+      - Medium - Significant commitment
+      - High - Critical/High value contract
+      required: true
+    - id: 12
+      name: primary_terms_summary
+      label: Summary of Key Terms
+      hint: List 3-5 critical deliverables or obligations
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: authorization_header
+      label: -- Final Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: authorizing_officer_name
+      label: Authorizing Officer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: officer_signature_auth
+      label: Digital Signature of Authorizer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: authorization_date
+      label: Date of Authorization
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: effective_commencement_date
+      label: Planned Commencement Date
+      hint: When will the contract officially start
+      type: date
+      options: []
+      required: true

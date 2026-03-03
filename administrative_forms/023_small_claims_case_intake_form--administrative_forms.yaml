@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: small_claims_case_intake_form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: case_details
+      label: Case Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: plaintiff_party_info
+      label: Plaintiff Party Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: defendant_party_info
+      label: Defendant Party Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: case_type
+      label: Case Type
+      hint: null
+      type: select_one
+      options:
+      - Small Claims
+      - Eviction
+      - Other
+      required: false
+    - id: 7
+      name: case_value
+      label: Case Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: case_description
+      label: Case Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: case_court
+      label: Court
+      hint: null
+      type: select_one
+      options:
+      - City Court
+      - County Court
+      - Municipal Court
+      required: false
+    - id: 10
+      name: case_status
+      label: Case Status
+      hint: null
+      type: select_one
+      options:
+      - Filing
+      - Pending
+      - Dismissed
+      required: false
+    - id: 11
+      name: case_filing_fee
+      label: Filing Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: case_filing_date
+      label: Filing Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: case_close_date
+      label: Close Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: case_close_result
+      label: Close Result
+      hint: null
+      type: select_one
+      options:
+      - Win
+      - Lose
+      - Settled
+      required: false
+    - id: 15
+      name: plaintiff_party_name
+      label: Plaintiff Party Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: plaintiff_party_address
+      label: Plaintiff Party Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: defendant_party_name
+      label: Defendant Party Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: defendant_party_address
+      label: Defendant Party Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: attorney
+      label: Attorney
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: case_number
+      label: Case Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: case_type_other
+      label: Other
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

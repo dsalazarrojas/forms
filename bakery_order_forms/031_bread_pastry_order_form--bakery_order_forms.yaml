@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bread and Pastry Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number for order questions
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: order_type
+      label: Order Type
+      hint: Is this for pickup or delivery
+      type: select_one
+      options:
+      - Pickup
+      - Delivery
+      required: true
+    - id: 5
+      name: pickup_date
+      label: Pickup or Delivery Date
+      hint: When do you need your order
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: pickup_time
+      label: Pickup or Delivery Time
+      hint: Preferred time
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: bread_selection
+      label: Bread Selection
+      hint: Select breads you want to order
+      type: select_multiple
+      options:
+      - Sourdough Loaf
+      - Whole Wheat Bread
+      - White Bread
+      - Rye Bread
+      - Baguette
+      - Ciabatta
+      - Focaccia
+      - Multigrain Bread
+      - Brioche
+      - Challah
+      required: true
+    - id: 8
+      name: pastry_selection
+      label: Pastry Selection
+      hint: Select pastries you want to order
+      type: select_multiple
+      options:
+      - Croissant
+      - Pain au Chocolat
+      - Danish
+      - Muffin
+      - Scone
+      - Cinnamon Roll
+      - Eclair
+      - Macaron
+      - Donut
+      - turnover
+      required: true
+    - id: 9
+      name: bread_quantities
+      label: Bread Quantities
+      hint: Specify quantity for each bread type
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: pastry_quantities
+      label: Pastry Quantities
+      hint: Specify quantity for each pastry type
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: special_requests
+      label: Special Requests
+      hint: Any custom requests or modifications
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any allergies or dietary needs
+      type: select_multiple
+      options:
+      - None
+      - Gluten-Free
+      - Dairy-Free
+      - Vegan
+      - Nut Allergy
+      - Egg-Free
+      required: true
+    - id: 13
+      name: delivery_address
+      label: Delivery Address
+      hint: Full delivery address if applicable
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: delivery_instructions
+      label: Delivery Instructions
+      hint: Any special delivery instructions
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Cash on Pickup
+      - PayPal
+      - Apple Pay
+      required: true
+    - id: 16
+      name: order_notes
+      label: Order Notes
+      hint: Any additional notes for your order
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: terms_accepted
+      label: Terms and Conditions
+      hint: Do you accept our terms
+      type: select_one
+      options:
+      - I Accept
+      - I Do Not Accept
+      required: true

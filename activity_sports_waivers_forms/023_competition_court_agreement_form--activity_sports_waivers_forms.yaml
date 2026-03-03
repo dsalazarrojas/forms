@@ -1,0 +1,251 @@
+inputSchema:
+  type: object
+  properties:
+    title: Competition Court Agreement Form
+    pages:
+    - id: 1
+      name: competition_name
+      label: Competition Name
+      hint: Official name of competition
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: competition_date
+      label: Competition Date
+      hint: Date of competition
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: venue_name
+      label: Venue Name
+      hint: Name of competition venue
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: venue_address
+      label: Venue Address
+      hint: Full address of venue
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_name
+      label: Participant Full Name
+      hint: Legal name of participant
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: participant_email
+      label: Participant Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: participant_phone
+      label: Participant Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: team_name
+      label: Team Name
+      hint: Name of team if applicable
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: division
+      label: Competition Division
+      hint: Division or category
+      type: select_one
+      options:
+      - Junior Division
+      - Senior Division
+      - Open Division
+      - Masters Division
+      - Professional Division
+      - Amateur Division
+      required: true
+    - id: 10
+      name: event_category
+      label: Event Category
+      hint: Specific event category
+      type: select_one
+      options:
+      - Individual
+      - Doubles
+      - Team
+      - Mixed
+      required: true
+    - id: 11
+      name: court_assignment
+      label: Court Assignment
+      hint: Assigned court number or name
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: match_schedule
+      label: Match Schedule
+      hint: Scheduled match times
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: rules_acknowledgment
+      label: I have read the competition rules
+      hint: Rules acknowledgment
+      type: select_one
+      options:
+      - Yes I have read them
+      - No I have not read them
+      required: true
+    - id: 14
+      name: rules_agreement
+      label: I agree to follow all rules
+      hint: Rules compliance agreement
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 15
+      name: officials_authority
+      label: I accept officials authority
+      hint: Acceptance of referee decisions
+      type: select_one
+      options:
+      - Yes I accept
+      - No I do not accept
+      required: true
+    - id: 16
+      name: sportsmanship_agreement
+      label: Sportsmanship Agreement
+      hint: I will maintain good sportsmanship
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 17
+      name: equipment_compliance
+      label: Equipment Compliance
+      hint: My equipment meets regulations
+      type: select_one
+      options:
+      - Yes - fully compliant
+      - Yes - with exceptions noted
+      - No - needs review
+      - Not applicable
+      required: true
+    - id: 18
+      name: equipment_notes
+      label: Equipment Notes
+      hint: Any equipment exceptions
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: warm_up_slots
+      label: Warm-up Slot Assigned
+      hint: Warm-up court and time
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: check_in_time
+      label: Required Check-in Time
+      hint: When to report before competition
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: late_policy_understanding
+      label: I understand the late policy
+      hint: Consequences of being late
+      type: select_one
+      options:
+      - Yes I understand
+      - No I need clarification
+      required: true
+    - id: 22
+      name: forfeit_policy_understanding
+      label: I understand the forfeit policy
+      hint: Rules about forfeitures
+      type: select_one
+      options:
+      - Yes I understand
+      - No I need clarification
+      required: true
+    - id: 23
+      name: protest_procedure_understanding
+      label: I understand protest procedures
+      hint: How to file a protest
+      type: select_one
+      options:
+      - Yes I understand
+      - No I need clarification
+      required: true
+    - id: 24
+      name: liability_waiver
+      label: Liability Waiver
+      hint: I waive liability for injuries
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 25
+      name: medical_consent
+      label: Medical Treatment Consent
+      hint: Consent for emergency treatment
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      required: true
+    - id: 26
+      name: photo_consent
+      label: Photo and Video Consent
+      hint: Consent for event photography
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      required: true
+    - id: 27
+      name: results_publication
+      label: Results Publication Consent
+      hint: Consent to publish results
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      required: true
+    - id: 28
+      name: participant_signature
+      label: Participant Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true
+    - id: 30
+      name: witness_name
+      label: Witness Name
+      hint: Name of witness if required
+      type: text
+      options: []
+      required: false

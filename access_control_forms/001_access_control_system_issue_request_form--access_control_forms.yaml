@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Access Control System Issue Request Form
+    pages:
+    - id: 1
+      name: section_reporter_info
+      label: -- Reporter Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: Your company-issued employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Your work email for follow-up communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact number in case of urgent follow-up
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Administration
+      - Engineering
+      - Finance
+      - Human Resources
+      - IT
+      - Operations
+      - Sales
+      - Other
+      required: true
+    - id: 7
+      name: section_issue_details
+      label: -- Issue Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: issue_type
+      label: Type of Access Control Issue
+      hint: Select the category that best describes the problem
+      type: select_one
+      options:
+      - Badge not working
+      - Door lock malfunction
+      - Access point unresponsive
+      - Incorrect access permissions
+      - Lost or stolen badge
+      - System error or alarm
+      - Other
+      required: true
+    - id: 9
+      name: issue_location
+      label: Location of the Issue
+      hint: Specify building, floor, and door or access point number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date_of_issue
+      label: Date the Issue Occurred
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: time_of_issue
+      label: Approximate Time of Issue
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: priority_level
+      label: Priority Level
+      hint: How urgently does this issue need to be resolved
+      type: select_one
+      options:
+      - Low - Inconvenient but has workaround
+      - Medium - Affecting daily work
+      - High - Blocking access to critical area
+      - Emergency - Safety or security risk
+      required: true
+    - id: 13
+      name: description
+      label: Detailed Description of the Issue
+      hint: Provide as much detail as possible including error messages or unusual
+        behavior
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: affected_personnel
+      label: Number of People Affected
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: temporary_workaround
+      label: Is a Temporary Workaround Available
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: false
+    - id: 16
+      name: previous_ticket
+      label: Has This Issue Been Reported Before
+      hint: If yes, provide the previous ticket number if available
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: preferred_contact_method
+      label: Preferred Contact Method for Updates
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - In-person
+      required: false

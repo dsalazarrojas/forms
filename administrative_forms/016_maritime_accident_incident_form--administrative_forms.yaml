@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maritime Accident Incident Form
+    pages:
+    - id: 1
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reporting_party
+      label: Reporting Party
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 3
+      name: incident_location
+      label: Incident Location
+      hint: Enter the exact address or nearest location
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reporting_date
+      label: Reporting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reporting_time
+      label: Reporting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: incident_description
+      label: Incident Description
+      hint: Describe the incident in detail
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_type
+      label: Type of Incident
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      required: false
+    - id: 8
+      name: damage_type
+      label: Damage Type
+      hint: null
+      type: select_one
+      options:
+      - Minor
+      - Major
+      - Catastrophic
+      required: false
+    - id: 9
+      name: damage_description
+      label: Damage Description
+      hint: Describe the damage in detail
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: damage_amount
+      label: Damage Amount
+      hint: Enter the damage amount
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: disaster_evacuation_plan_evaluation_form
+    pages:
+    - id: 1
+      name: emergency_contact_info
+      label: Emergency Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Phone'', ''value'': ''phone''}'
+      - '{''id'': 2, ''label'': ''Email'', ''value'': ''email''}'
+      required: false
+    - id: 3
+      name: incident_info
+      label: Incident Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_info
+      label: Participant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_names
+      label: Participant Names
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_phone_numbers
+      label: Participant Phone Numbers
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Phone'', ''value'': ''phone''}'
+      - Other
+      required: false
+    - id: 7
+      name: evacuation_info
+      label: Evacuation Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: drill_info
+      label: Drill Info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: participant_location
+      label: Participant Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false

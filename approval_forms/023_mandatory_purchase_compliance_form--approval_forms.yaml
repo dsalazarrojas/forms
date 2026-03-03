@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: mandatory_purchase_compliance_form
+    pages:
+    - id: 1
+      name: required_purchases
+      label: Required Purchases
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: purchase_amount
+      label: Purchase Amount
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: purchase_date
+      label: Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: purchase_details
+      label: Purchase Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: approver_name
+      label: Approver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: approver_role
+      label: Approver Role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: acknowledgement
+      label: Acknowledgement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: team
+      label: Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: manager
+      label: Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 16
+      name: submission_note
+      label: Submission Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: form_version
+      label: Form Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: form_submitted_on
+      label: Form Submitted On
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: form_approved_by
+      label: Form Approved By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: form_approved_on
+      label: Form Approved On
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: form_modified_by
+      label: Form Modified By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: form_modified_on
+      label: Form Modified On
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: form_created_by
+      label: Form Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_created_on
+      label: Form Created On
+      hint: null
+      type: text
+      options: []
+      required: false

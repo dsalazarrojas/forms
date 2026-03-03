@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Application Amendment Form
+    pages:
+      - id: 1
+        name: amendment_requester
+        label: Requester name
+        hint: Person requesting the amendment
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: original_application_id
+        label: Original application ID
+        hint: Reference number of original submission
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: amendment_type
+        label: Amendment type
+        hint: What aspect needs updating
+        type: select_one
+        options: [Personal details, Documents, Course selection, Other]
+        required: true
+      - id: 4
+        name: details_of_change
+        label: Details of change requested
+        hint: Describe the requested amendment
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: supporting_documents
+        label: Supporting documents filename
+        hint: Indicate any uploaded file names
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: effective_date
+        label: Effective date
+        hint: Date when amendment should take effect
+        type: date
+        options: []
+        required: false
+      - id: 7
+        name: approval_status
+        label: Approval status
+        hint: For administrative use
+        type: select_one
+        options: [Pending, Approved, Denied]
+        required: true
+      - id: 8
+        name: approver_comments
+        label: Approver comments
+        hint: Notes from reviewer
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: contact_email
+        label: Contact email
+        hint: Email for follow up
+        type: email
+        options: []
+        required: true
+      - id: 10
+        name: final_notes
+        label: Final notes
+        hint: Administrative summary
+        type: note
+        options: []
+        required: false

@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cemetery Mapping Survey
+    pages:
+    - id: 1
+      name: survey_date
+      label: Survey Date
+      hint: Date of survey completion
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: surveyor_name
+      label: Surveyor Name
+      hint: Name of person conducting the survey
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: surveyor_id
+      label: Surveyor ID Number
+      hint: Employee or contractor identification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Department or organization conducting survey
+      type: select_one
+      options:
+      - Cemetery Administration
+      - Grounds Maintenance
+      - Records Management
+      - External Contractor
+      - Municipal Authority
+      - Historical Society
+      required: true
+    - id: 5
+      name: section_surveyed
+      label: Section Surveyed
+      hint: Cemetery section or area being mapped
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: total_plots_in_section
+      label: Total Plots in Section
+      hint: Estimated number of burial plots in this section
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: plots_occupied
+      label: Number of Occupied Plots
+      hint: Count of plots with burials
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: plots_vacant
+      label: Number of Vacant Plots
+      hint: Count of available plots
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: plots_reserved
+      label: Number of Reserved Plots
+      hint: Count of pre-purchased but unused plots
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: condition_assessment
+      label: Overall Section Condition
+      hint: Current state of the surveyed area
+      type: select_one
+      options:
+      - Excellent - Well maintained
+      - Good - Minor maintenance needed
+      - Fair - Moderate maintenance required
+      - Poor - Significant maintenance needed
+      - Critical - Immediate attention required
+      required: true
+    - id: 11
+      name: infrastructure_status
+      label: Infrastructure Status
+      hint: Condition of pathways, signage, and utilities
+      type: select_one
+      options:
+      - All infrastructure functional
+      - Minor repairs needed
+      - Moderate repairs needed
+      - Major repairs required
+      required: true
+    - id: 12
+      name: mapping_method
+      label: Mapping Method Used
+      hint: How was the survey conducted
+      type: select_one
+      options:
+      - GPS mapping
+      - Manual measurement
+      - Aerial photography
+      - Ground penetrating radar
+      - Historical records review
+      - Combination of methods
+      required: true
+    - id: 13
+      name: monuments_documented
+      label: Number of Monuments Documented
+      hint: Count of headstones, markers, or monuments surveyed
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: accessibility_features
+      label: Accessibility Features Present
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Paved pathways
+      - Wheelchair accessible routes
+      - Accessible parking
+      - Seating areas
+      - Shade structures
+      - None present
+      required: true
+    - id: 15
+      name: issues_identified
+      label: Issues Identified
+      hint: Select all issues found during survey
+      type: select_multiple
+      options:
+      - Damaged headstones
+      - Overgrown vegetation
+      - Pathway damage
+      - Drainage problems
+      - Missing or damaged signage
+      - Vandalism
+      - Sinking graves
+      - None identified
+      required: true
+    - id: 16
+      name: gps_coordinates
+      label: GPS Coordinates
+      hint: Center point coordinates of surveyed section
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: survey_notes
+      label: Survey Notes
+      hint: Additional observations or comments
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_required
+      label: Follow-up Required
+      hint: Does this section need additional attention
+      type: select_one
+      options:
+      - No - Survey complete
+      - Yes - Maintenance follow-up
+      - Yes - Records update needed
+      - Yes - Both maintenance and records
+      required: true
+    - id: 19
+      name: next_survey_date
+      label: Recommended Next Survey Date
+      hint: When should this section be re-surveyed
+      type: date
+      options: []
+      required: false

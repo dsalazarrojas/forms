@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book In A Vehicle Service Form
+    pages:
+    - id: 1
+      name: customer_first_name
+      label: First Name
+      hint: Customer first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_last_name
+      label: Last Name
+      hint: Customer last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: We will send confirmation to this email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number for appointment confirmation
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: vehicle_make
+      label: Vehicle Make
+      hint: e.g., Toyota, Ford, Honda
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: vehicle_model
+      label: Vehicle Model
+      hint: e.g., Camry, F-150, Civic
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: vehicle_year
+      label: Vehicle Year
+      hint: Year of manufacture
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: vehicle_registration
+      label: Registration Number
+      hint: License plate number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: mileage
+      label: Current Mileage
+      hint: Current odometer reading
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: service_type
+      label: Service Type
+      hint: What service is needed
+      type: select_multiple
+      options:
+      - Oil Change
+      - Tire Rotation
+      - Brake Inspection
+      - Air Filter
+      - Fluid Top Up
+      - Diagnostic Check
+      - Battery Service
+      - General Maintenance
+      required: true
+    - id: 11
+      name: service_date
+      label: Preferred Service Date
+      hint: When would you like to bring the vehicle
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: service_time
+      label: Preferred Time
+      hint: What time slot works best
+      type: select_one
+      options:
+      - 8:00 AM - 9:00 AM
+      - 9:00 AM - 10:00 AM
+      - 10:00 AM - 11:00 AM
+      - 1:00 PM - 2:00 PM
+      - 2:00 PM - 3:00 PM
+      - 3:00 PM - 4:00 PM
+      required: true
+    - id: 13
+      name: additional_concerns
+      label: Additional Concerns or Issues
+      hint: Any specific issues or concerns with the vehicle
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: warranty_coverage
+      label: Under Warranty
+      hint: Is the vehicle still under manufacturer warranty
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: false

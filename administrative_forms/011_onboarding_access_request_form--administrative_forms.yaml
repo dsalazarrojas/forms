@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: onboarding_access_request_form
+    pages:
+    - id: 1
+      name: onboarding_access_request_form_1
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: onboarding_access_request_form_2
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: onboarding_access_request_form_3
+      label: role
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Manager''}'
+      - '{''id'': 2, ''text'': ''Team Lead''}'
+      - '{''id'': 3, ''text'': ''Employee''}'
+      required: false
+    - id: 4
+      name: onboarding_access_request_form_4
+      label: department
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''text'': ''HR''}'
+      - '{''id'': 2, ''text'': ''Finance''}'
+      - '{''id'': 3, ''text'': ''Marketing''}'
+      - '{''id'': 4, ''text'': ''IT''}'
+      required: false
+    - id: 5
+      name: onboarding_access_request_form_5
+      label: date_of_joining
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: onboarding_access_request_form_6
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: onboarding_access_request_form_7
+      label: manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: onboarding_access_request_form_8
+      label: manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false

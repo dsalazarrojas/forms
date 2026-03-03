@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: AWL NSW Branch Pet Adoption Application Form
+    pages:
+    - id: 1
+      name: section_header_applicant_info
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_full_name
+      label: Your full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: applicant_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: applicant_address
+      label: Residential address
+      hint: Street address, suburb, state and postcode
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of birth
+      hint: Applicants must be 18 years or older
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_header_household
+      label: -- Household Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: dwelling_type
+      label: Type of dwelling
+      hint: null
+      type: select_one
+      options:
+      - House with yard
+      - Townhouse
+      - Apartment or unit
+      - Rural property
+      - Other
+      required: true
+    - id: 9
+      name: own_or_rent
+      label: Do you own or rent your home
+      hint: null
+      type: select_one
+      options:
+      - Own
+      - Rent
+      - Living with family
+      - Other
+      required: true
+    - id: 10
+      name: landlord_permission
+      label: If renting, do you have landlord permission to keep pets
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not applicable
+      required: true
+    - id: 11
+      name: fenced_yard
+      label: Is your yard fully fenced
+      hint: null
+      type: select_one
+      options:
+      - Yes - fully fenced
+      - Partially fenced
+      - Not fenced
+      - No yard
+      required: true
+    - id: 12
+      name: number_of_adults
+      label: Number of adults in the household
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: number_of_children
+      label: Number of children in the household
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: children_ages
+      label: Ages of children if applicable
+      hint: Leave blank if no children
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_header_pet_details
+      label: -- Pet Preferences and Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: pet_type_interest
+      label: What type of pet are you interested in adopting
+      hint: null
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Rabbit
+      - Other small animal
+      required: true
+    - id: 17
+      name: specific_animal_name
+      label: Name or ID of specific animal you are interested in
+      hint: If you have a particular animal in mind
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: current_pets
+      label: Do you currently have any pets
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: current_pets_details
+      label: If yes, please describe your current pets
+      hint: Species, breed, age, desexed status
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: previous_pet_experience
+      label: Describe your previous experience with pets
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: hours_pet_alone
+      label: How many hours per day will the pet be left alone
+      hint: null
+      type: select_one
+      options:
+      - Less than 4 hours
+      - 4 to 6 hours
+      - 6 to 8 hours
+      - More than 8 hours
+      required: true
+    - id: 22
+      name: exercise_plan
+      label: How do you plan to exercise and enrich the pet
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: veterinarian_name
+      label: Name of your preferred veterinarian or clinic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: agreement_acknowledgement
+      label: I understand that AWL NSW reserves the right to approve or decline any
+        adoption application
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand and agree
+      - Other
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional comments or information you would like to share
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auditor Estimate Form
+    pages:
+    - id: 1
+      name: estimate_date
+      label: Estimate Date
+      hint: Date this estimate request is made
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_industry
+      label: Industry Type
+      hint: What industry does your business operate in
+      type: select_one
+      options:
+      - Retail
+      - Manufacturing
+      - Services
+      - Technology
+      - Healthcare
+      - Finance
+      - Non-Profit
+      - Other
+      required: true
+    - id: 4
+      name: annual_revenue
+      label: Approximate Annual Revenue
+      hint: Revenue range in dollars
+      type: select_one
+      options:
+      - Under $500k
+      - $500k - $1M
+      - $1M - $5M
+      - $5M - $10M
+      - $10M - $50M
+      - Over $50M
+      required: true
+    - id: 5
+      name: company_size
+      label: Company Size (Employees)
+      hint: Number of full-time employees
+      type: select_one
+      options:
+      - 1-10
+      - 11-50
+      - 51-100
+      - 101-250
+      - 251-500
+      - Over 500
+      required: true
+    - id: 6
+      name: number_of_locations
+      label: Number of Locations
+      hint: How many office or facility locations
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: audit_type
+      label: Type of Audit Needed
+      hint: What kind of audit services required
+      type: select_one
+      options:
+      - Financial Audit
+      - Operational Audit
+      - Compliance Audit
+      - Tax Audit
+      - Internal Audit
+      - Other
+      required: true
+    - id: 8
+      name: audit_scope
+      label: Audit Scope
+      hint: What areas will be audited
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: fiscal_year_ending
+      label: Fiscal Year Ending Date
+      hint: When does your fiscal year end
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: audit_frequency
+      label: Audit Frequency
+      hint: How often do you need audits
+      type: select_one
+      options:
+      - Annual
+      - Semi-Annual
+      - Quarterly
+      - Monthly
+      - As Needed
+      - Multiple Year Contract
+      required: true
+    - id: 11
+      name: financial_statement_complexity
+      label: Financial Statement Complexity
+      hint: Complexity of your financial operations
+      type: select_one
+      options:
+      - Simple
+      - Moderate
+      - Complex
+      - Very Complex
+      required: true
+    - id: 12
+      name: prior_audit_experience
+      label: Have You Been Audited Before
+      hint: Previous audit history
+      type: select_one
+      options:
+      - Yes - Recently
+      - Yes - Several Years Ago
+      - First Time
+      - Yes - Multiple Years
+      required: true
+    - id: 13
+      name: required_certifications
+      label: Required Auditor Certifications
+      hint: Must auditor have specific credentials
+      type: select_multiple
+      options:
+      - CPA
+      - CIA - Internal Audit
+      - CISA - IT Audit
+      - Professional Licensure
+      - No Specific Requirements
+      required: false
+    - id: 14
+      name: timeline_preference
+      label: Preferred Audit Timeline
+      hint: When should audit be conducted
+      type: select_one
+      options:
+      - Immediate - Within 30 Days
+      - Flexible
+      - Specific Dates
+      - To Be Determined
+      required: true
+    - id: 15
+      name: budget_range
+      label: Budget Range for Audit
+      hint: Estimated budget for audit services
+      type: select_one
+      options:
+      - Under $5k
+      - $5k - $10k
+      - $10k - $25k
+      - $25k - $50k
+      - $50k - $100k
+      - Over $100k
+      - No Budget Limit
+      required: false
+    - id: 16
+      name: additional_services
+      label: Additional Services Needed
+      hint: Beyond standard audit services
+      type: select_multiple
+      options:
+      - Management Letter
+      - Internal Control Review
+      - Fraud Investigation
+      - Tax Recommendations
+      - Systems Review
+      - Training
+      - None
+      required: false
+    - id: 17
+      name: software_systems
+      label: Accounting Software Used
+      hint: What accounting software do you use
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_person_name
+      label: Primary Contact Name
+      hint: Name of contact person
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: contact_person_title
+      label: Contact Person Title
+      hint: Position of contact
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: contact_email
+      label: Contact Email
+      hint: Email for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 21
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: special_requirements
+      label: Special Requirements or Considerations
+      hint: Any unique needs or constraints
+      type: text
+      options: []
+      required: false

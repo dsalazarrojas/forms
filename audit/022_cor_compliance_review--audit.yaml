@@ -1,0 +1,314 @@
+inputSchema:
+  type: object
+  properties:
+    title: COR Compliance Review
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_address
+      label: Company Address
+      hint: Complete street address
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_city
+      label: City
+      hint: City location
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_state
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_postal_code
+      label: Postal Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: industry_type
+      label: Industry Type
+      hint: Primary business activity
+      type: select_one
+      options:
+      - Construction
+      - Manufacturing
+      - Transportation
+      - Healthcare
+      - Retail
+      - Oil and Gas
+      - Mining
+      - Utilities
+      - Other
+      required: true
+    - id: 7
+      name: number_of_employees
+      label: Number of Employees
+      hint: Total workforce
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: review_date
+      label: Review Date
+      hint: Date of assessment
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: reviewer_name
+      label: Reviewer Name
+      hint: Auditor name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: reviewer_qualification
+      label: Reviewer Qualification
+      hint: Certification or role
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_header_1
+      label: -- Health and Safety Program Elements --
+      hint: Rate each element
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: safety_policy
+      label: Written Safety Policy
+      hint: Is there a documented policy
+      type: select_one
+      options:
+      - Fully Implemented
+      - Partially Implemented
+      - Not Implemented
+      - Not Applicable
+      required: true
+    - id: 13
+      name: hazard_identification
+      label: Hazard Identification and Assessment
+      hint: Process for identifying hazards
+      type: select_one
+      options:
+      - Fully Implemented
+      - Partially Implemented
+      - Not Implemented
+      - Not Applicable
+      required: true
+    - id: 14
+      name: hazard_controls
+      label: Hazard Controls
+      hint: Controls in place
+      type: select_one
+      options:
+      - Fully Implemented
+      - Partially Implemented
+      - Not Implemented
+      - Not Applicable
+      required: true
+    - id: 15
+      name: emergency_procedures
+      label: Emergency Response Procedures
+      hint: Emergency plans
+      type: select_one
+      options:
+      - Fully Implemented
+      - Partially Implemented
+      - Not Implemented
+      - Not Applicable
+      required: true
+    - id: 16
+      name: training_program
+      label: Safety Training Program
+      hint: Employee training
+      type: select_one
+      options:
+      - Fully Implemented
+      - Partially Implemented
+      - Not Implemented
+      - Not Applicable
+      required: true
+    - id: 17
+      name: incident_reporting
+      label: Incident Reporting System
+      hint: Reporting procedures
+      type: select_one
+      options:
+      - Fully Implemented
+      - Partially Implemented
+      - Not Implemented
+      - Not Applicable
+      required: true
+    - id: 18
+      name: incident_investigation
+      label: Incident Investigation Process
+      hint: Investigation procedures
+      type: select_one
+      options:
+      - Fully Implemented
+      - Partially Implemented
+      - Not Implemented
+      - Not Applicable
+      required: true
+    - id: 19
+      name: safety_committee
+      label: Safety Committee or Representative
+      hint: Worker participation
+      type: select_one
+      options:
+      - Fully Implemented
+      - Partially Implemented
+      - Not Implemented
+      - Not Applicable
+      required: true
+    - id: 20
+      name: safety_inspections
+      label: Regular Safety Inspections
+      hint: Inspection schedule
+      type: select_one
+      options:
+      - Fully Implemented
+      - Partially Implemented
+      - Not Implemented
+      - Not Applicable
+      required: true
+    - id: 21
+      name: ppe_program
+      label: Personal Protective Equipment Program
+      hint: PPE provision and use
+      type: select_one
+      options:
+      - Fully Implemented
+      - Partially Implemented
+      - Not Implemented
+      - Not Applicable
+      required: true
+    - id: 22
+      name: health_surveillance
+      label: Health Surveillance Program
+      hint: Medical monitoring
+      type: select_one
+      options:
+      - Fully Implemented
+      - Partially Implemented
+      - Not Implemented
+      - Not Applicable
+      required: true
+    - id: 23
+      name: program_evaluation
+      label: Program Evaluation and Review
+      hint: Annual review process
+      type: select_one
+      options:
+      - Fully Implemented
+      - Partially Implemented
+      - Not Implemented
+      - Not Applicable
+      required: true
+    - id: 24
+      name: section_header_2
+      label: -- Compliance Summary --
+      hint: Overall assessment
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: total_elements_reviewed
+      label: Total Elements Reviewed
+      hint: Number of elements assessed
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: elements_compliant
+      label: Elements Fully Compliant
+      hint: Number meeting standards
+      type: number
+      options: []
+      required: true
+    - id: 27
+      name: elements_partial
+      label: Elements Partially Compliant
+      hint: Number needing improvement
+      type: number
+      options: []
+      required: true
+    - id: 28
+      name: elements_non_compliant
+      label: Elements Non-Compliant
+      hint: Number not meeting standards
+      type: number
+      options: []
+      required: true
+    - id: 29
+      name: overall_compliance_rating
+      label: Overall Compliance Rating
+      hint: Summary assessment
+      type: select_one
+      options:
+      - Excellent - 90-100 percent compliant
+      - Good - 75-89 percent compliant
+      - Fair - 50-74 percent compliant
+      - Poor - Below 50 percent compliant
+      required: true
+    - id: 30
+      name: major_gaps
+      label: Major Gaps Identified
+      hint: Key areas needing attention
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: recommendations
+      label: Recommendations
+      hint: Suggested actions
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: corrective_action_deadline
+      label: Corrective Action Deadline
+      hint: When should gaps be addressed
+      type: date
+      options: []
+      required: true
+    - id: 33
+      name: management_review_required
+      label: Management Review Required
+      hint: Does senior management need to review
+      type: select_one
+      options:
+      - Yes - Urgent
+      - Yes - Routine
+      - false
+      required: true
+    - id: 34
+      name: reviewer_signature
+      label: Reviewer Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: management_signature
+      label: Management Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Benefit Enrollment Form
+    pages:
+    - id: 1
+      name: employer_name
+      label: Employer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: employee_benefits
+      label: benefits
+      hint: null
+      type: select_multiple
+      options:
+      - Blue Cross Blue
+      - Blue Cross Gold
+      - Blue Cross Silver
+      - Blue Cross Standard
+      - Health Savings Account
+      - Medishare
+      - Prescription Plan
+      - Voluntary Benefits
+      required: true
+    - id: 4
+      name: benefits_enrollment_date
+      label: benefits_enrollment_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: benefit_enrollment_status
+      label: enrollment_status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: health_insurance_provider
+      label: health_insurance_provider
+      hint: null
+      type: select_one
+      options:
+      - Aetna
+      - Blue Cross
+      - Cigna
+      - Humana
+      required: true
+    - id: 7
+      name: life_insurance_provider
+      label: life_insurance_provider
+      hint: null
+      type: select_one
+      options:
+      - Guardian
+      - MetLife
+      required: false
+    - id: 8
+      name: disability_insurance_provider
+      label: disability_insurance_provider
+      hint: null
+      type: select_one
+      options:
+      - Liberty Mutual
+      - The Hartford
+      required: false
+    - id: 9
+      name: health_savings_account
+      label: health_savings_account
+      hint: null
+      type: select_one
+      options:
+      - Bank of America
+      - Wells Fargo
+      required: false
+    - id: 10
+      name: vision_insurance_provider
+      label: vision_insurance_provider
+      hint: null
+      type: select_one
+      options:
+      - Blue Cross
+      - EyeMedicare
+      - MetLife
+      required: false
+    - id: 11
+      name: dental_insurance_provider
+      label: dental_insurance_provider
+      hint: null
+      type: select_one
+      options:
+      - Blue Cross
+      - Guardian
+      - MetLife
+      required: false
+    - id: 12
+      name: other_benefits_provider
+      label: other_benefits_provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: employee_status
+      label: employee_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 14
+      name: benefits_enrollment_date
+      label: benefits_enrollment_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: benefit_status_update_date
+      label: benefit_status_update_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

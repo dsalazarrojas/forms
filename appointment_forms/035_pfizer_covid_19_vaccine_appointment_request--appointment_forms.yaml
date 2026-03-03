@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pfizer COVID 19 Vaccine Appointment Request
+    pages:
+    - id: 1
+      name: appointment_request
+      label: Request A Pfizer Covid-19 Vaccine Appointment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: appointment_date
+      label: Choose A Date For Your Appointment
+      hint: 'Format: MM/dd/yyyy'
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: appointment_time
+      label: Choose A Time For Your Appointment
+      hint: 'Format: hh:mm a'
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: medical_provider
+      label: Name Of Medical Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_dob
+      label: Patient Date Of Birth
+      hint: 'Format: MM/dd/yyyy'
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: patient_contact_info
+      label: Additional Contact Info For The Patient
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vaccine_type
+      label: Type Of Vaccine
+      hint: null
+      type: select_one
+      options:
+      - Pfizer
+      - Moderna
+      - AstraZeneca
+      required: false
+    - id: 11
+      name: appointment_location
+      label: Location For The Appointment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: appointment_note
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: medical_staff
+      label: Medical Staff
+      hint: null
+      type: select_multiple
+      options:
+      - Doctor
+      - Nurse
+      - Receptionist
+      required: true
+    - id: 14
+      name: patient_medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false

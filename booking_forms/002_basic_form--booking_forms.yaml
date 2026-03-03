@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Basic Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Where we can contact you
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: booking_date
+      label: Preferred Date
+      hint: Select your preferred booking date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: booking_time
+      label: Preferred Time
+      hint: Select your preferred time slot
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: service_type
+      label: Service Type
+      hint: What service are you booking
+      type: select_one
+      options:
+      - Consultation
+      - Standard Service
+      - Premium Service
+      - Follow-up
+      - Other
+      required: true
+    - id: 7
+      name: number_of_guests
+      label: Number of Guests
+      hint: How many people will attend
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: special_requests
+      label: Special Requests
+      hint: Any special requirements or preferences
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: Let us know how you found us
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Friend or Family
+      - Advertisement
+      - Other
+      required: false
+    - id: 10
+      name: terms_accepted
+      label: I Accept Terms and Conditions
+      hint: You must accept to proceed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

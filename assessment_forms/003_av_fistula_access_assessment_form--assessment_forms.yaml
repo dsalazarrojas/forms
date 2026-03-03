@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: AV Fistula Access Assessment Form
+    pages:
+    - id: 1
+      name: section_header_patient_info
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_full_name
+      label: Patient full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_date_of_birth
+      label: Patient date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: medical_record_number
+      label: Medical record number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: assessment_date
+      label: Date of assessment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: assessing_clinician
+      label: Name of assessing clinician
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_header_fistula_assessment
+      label: -- Fistula Access Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: fistula_location
+      label: Location of AV fistula
+      hint: null
+      type: select_one
+      options:
+      - Left forearm (radiocephalic)
+      - Right forearm (radiocephalic)
+      - Left upper arm (brachiocephalic)
+      - Right upper arm (brachiocephalic)
+      - Left upper arm (brachiobasilic)
+      - Right upper arm (brachiobasilic)
+      - Other
+      required: true
+    - id: 9
+      name: fistula_maturity
+      label: Fistula maturity status
+      hint: null
+      type: select_one
+      options:
+      - Mature - ready for cannulation
+      - Developing - not yet mature
+      - Failed - requires revision
+      - Unknown
+      required: true
+    - id: 10
+      name: thrill_present
+      label: Is a thrill present on palpation
+      hint: A continuous vibration felt over the fistula
+      type: select_one
+      options:
+      - Yes - strong
+      - Yes - weak
+      - 'No'
+      required: true
+    - id: 11
+      name: bruit_present
+      label: Is a bruit audible on auscultation
+      hint: A continuous humming sound heard with a stethoscope
+      type: select_one
+      options:
+      - Yes - continuous
+      - Yes - intermittent
+      - 'No'
+      required: true
+    - id: 12
+      name: signs_of_infection
+      label: Are there signs of infection at the access site
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Redness
+      - Swelling
+      - Warmth
+      - Drainage or discharge
+      - Multiple signs present
+      required: true
+    - id: 13
+      name: signs_of_stenosis
+      label: Are there signs of stenosis
+      hint: Narrowing of the blood vessel
+      type: select_one
+      options:
+      - None observed
+      - Prolonged bleeding post-dialysis
+      - Difficulty with cannulation
+      - Elevated venous pressure
+      - Arm swelling
+      required: true
+    - id: 14
+      name: cannulation_technique
+      label: Cannulation technique used
+      hint: null
+      type: select_one
+      options:
+      - Rope ladder
+      - Buttonhole
+      - Area puncture
+      - Not applicable
+      required: true
+    - id: 15
+      name: needle_gauge
+      label: Needle gauge used
+      hint: null
+      type: select_one
+      options:
+      - 15 gauge
+      - 16 gauge
+      - 17 gauge
+      - Other
+      required: false
+    - id: 16
+      name: blood_flow_rate
+      label: Blood flow rate achieved (mL/min)
+      hint: Enter the flow rate in milliliters per minute
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: complications_observed
+      label: Complications observed during access
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Hematoma
+      - Infiltration
+      - Prolonged bleeding
+      - Clotting
+      - Pain at access site
+      required: true
+    - id: 18
+      name: section_header_follow_up
+      label: -- Follow-Up Actions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: referral_needed
+      label: Is a referral to vascular surgery needed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Already referred
+      required: true
+    - id: 20
+      name: next_assessment_date
+      label: Recommended date for next assessment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: additional_notes
+      label: Additional clinical notes
+      hint: Record any other observations or concerns
+      type: text
+      options: []
+      required: false

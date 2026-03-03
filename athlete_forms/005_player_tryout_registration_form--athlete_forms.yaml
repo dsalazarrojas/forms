@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Player Tryout Registration Form
+    pages:
+    - id: 1
+      name: player_info
+      label: Player Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: team
+      label: Team
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Team A''}'
+      - '{''value'': ''Team B''}'
+      - '{''value'': ''Team C''}'
+      required: true
+    - id: 6
+      name: tryout_date
+      label: Tryout Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: tryout_time
+      label: Tryout Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: available_date
+      label: Available Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: available_time
+      label: Available Time
+      hint: null
+      type: time
+      options: []
+      required: false

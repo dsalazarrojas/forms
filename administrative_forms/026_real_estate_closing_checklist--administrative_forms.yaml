@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Closing Checklist
+    pages:
+    - id: 1
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Closed
+      - Contingent
+      - Sold
+      required: false
+    - id: 2
+      name: closing_date
+      label: Closing Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: sale_price
+      label: Sale Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: buyer_agent
+      label: Buyer Agent
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: buyer_name
+      label: Buyer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Single Family
+      - Condo
+      - Townhouse
+      - Duplex
+      required: false
+    - id: 7
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: sale_terms
+      label: Sale Terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: financing_terms
+      label: Financing Terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: buyer_documents
+      label: Buyer Documents
+      hint: null
+      type: select_multiple
+      options:
+      - Document 1
+      - Document 2
+      - Document 3
+      required: false
+    - id: 11
+      name: seller_documents
+      label: Seller Documents
+      hint: null
+      type: select_multiple
+      options:
+      - Document 1
+      - Document 2
+      - Document 3
+      required: false
+    - id: 12
+      name: escrow_funds
+      label: Escrow Funds
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: closing_instructions
+      label: Closing Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: buyer_signature
+      label: Buyer Signature
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 15
+      name: seller_signature
+      label: Seller Signature
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 16
+      name: other_documents
+      label: Other Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: other_documents_notes
+      label: Other Documents Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: buyer_documents_due_date
+      label: Buyer Documents Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: seller_documents_due_date
+      label: Seller Documents Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: closing_fees
+      label: Closing Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: closing_inspector
+      label: Closing Inspector
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 22
+      name: closing_inspector_notes
+      label: Closing Inspector Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: title_insurance
+      label: Title Insurance
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 24
+      name: survey_report
+      label: Survey Report
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 25
+      name: other_survey
+      label: Other Survey
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

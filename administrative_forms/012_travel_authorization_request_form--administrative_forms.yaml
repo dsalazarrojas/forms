@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Authorization Request Form
+    pages:
+    - id: 1
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: travel_start_time
+      label: Travel Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: travel_end_time
+      label: Travel End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: travel_duration
+      label: Travel Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: travel_destination
+      label: Travel Destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: travel_reason
+      label: Travel Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: travel_budget
+      label: Travel Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: travel_currency
+      label: Travel Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      - CNY
+      required: false
+    - id: 10
+      name: travel_currency_other
+      label: Other Travel Currency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitter_id
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jim
+      - Jane
+      required: false
+    - id: 12
+      name: submitter_id_other
+      label: Other Submitter
+      hint: null
+      type: text
+      options: []
+      required: false

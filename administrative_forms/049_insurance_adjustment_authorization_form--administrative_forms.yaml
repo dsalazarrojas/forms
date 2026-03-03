@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance Adjustment Authorization Form
+    pages:
+    - id: 1
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: authorization
+      label: Authorization
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: date_of_service
+      label: Date Of Service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: insurance_policy
+      label: Insurance Policy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: authorized_amount
+      label: Authorized Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_change
+      label: Reason For Change
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: authorization_date
+      label: Authorization Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: authorized_by
+      label: Authorized By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: total_amount
+      label: Total Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: insurance_policy_type
+      label: Insurance Policy Type
+      hint: null
+      type: select_one
+      options:
+      - Life
+      - Health
+      - Disability
+      - Long Term Care
+      - Auto
+      - Home
+      - Renters
+      - Other
+      required: false
+    - id: 12
+      name: policy_id
+      label: Policy ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: policy_status
+      label: Policy Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Expired
+      - Cancelled
+      - Pending
+      required: false
+    - id: 14
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: agent_signature
+      label: Agent Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: policy_type
+      label: Policy Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: policy_status
+      label: Policy Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 19
+      name: authorized_by_title
+      label: Authorized By Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: authorized_by_name
+      label: Authorized By Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: fax_number
+      label: Fax Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false

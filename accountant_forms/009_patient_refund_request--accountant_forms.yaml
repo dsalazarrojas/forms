@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Refund Request
+    pages:
+    - id: 1
+      name: patient_refund_request
+      label: Patient Refund Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_service
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Check
+      - Other
+      required: true
+    - id: 6
+      name: other_payment_method
+      label: Other Payment Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: refund_date
+      label: Refund Date
+      hint: null
+      type: time
+      options: []
+      required: false

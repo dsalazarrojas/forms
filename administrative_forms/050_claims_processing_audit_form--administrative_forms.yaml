@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Claims Processing Audit Form
+    pages:
+    - id: 1
+      name: auditor_name
+      label: Auditor name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department
+      label: Department audited
+      hint: Operations underwriting claims handling
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: audit_date
+      label: Audit date
+      hint: Date of audit activity
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: sample_size
+      label: Sample size reviewed
+      hint: Number of claims reviewed
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: compliance_findings
+      label: Compliance findings summary
+      hint: Note any non compliance
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: process_inefficiencies
+      label: Process inefficiencies identified
+      hint: List bottlenecks and causes
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: corrective_actions
+      label: Corrective actions recommended
+      hint: Suggest owners and timelines
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: risk_assessment
+      label: Risk assessment
+      hint: Low medium high
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 9
+      name: follow_up_required
+      label: Follow up required
+      hint: Indicate if follow up audit needed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: report_date
+      label: Report date
+      hint: Date of report submission
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: travel_authorization_access_form
+    pages:
+    - id: 1
+      name: employee_details
+      label: Employee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_dates
+      label: Travel Dates
+      hint: null
+      type: select_one
+      options:
+      - '2024-01-01'
+      - '2024-01-02'
+      - '2024-01-03'
+      required: false
+    - id: 3
+      name: travel_location
+      label: Travel Location
+      hint: null
+      type: select_multiple
+      options:
+      - New York
+      - Chicago
+      - Los Angeles
+      required: false
+    - id: 4
+      name: travel_purpose
+      label: Travel Purpose
+      hint: null
+      type: select_one
+      options:
+      - Business
+      - Personal
+      required: false
+    - id: 5
+      name: employee_email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: employee_phone
+      label: Employee Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,79 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Lifetime Achievement Nomination Form
+    pages:
+    - id: 1
+      name: award_nomination_form
+      label: Award Nomination Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: nominee
+      label: Nominee
+      hint: null
+      type: select_multiple
+      options:
+      - First name, Last name
+      - Last name first then first name
+      - Last name, First name
+      required: false
+    - id: 5
+      name: title_of_nominee
+      label: Title of Nominee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: nominee_organization
+      label: Nominee Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: award_title
+      label: Award Title
+      hint: Enter a title for the award
+      type: select_one
+      options:
+      - Best in Field
+      - Most Valuable Player
+      - Best Team
+      - Honorary Award
+      required: false
+    - id: 8
+      name: nomination_date
+      label: Nomination Date
+      hint: null
+      type: date
+      options: []
+      required: false

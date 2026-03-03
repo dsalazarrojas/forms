@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthy Recipe Book Request
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: format
+      label: Format
+      hint: null
+      type: select_one
+      options:
+      - 16x6
+      - A4
+      - Letter
+      required: false
+    - id: 6
+      name: format_1
+      label: Format 1
+      hint: null
+      type: select_multiple
+      options:
+      - 16x6
+      - A4
+      required: false
+    - id: 7
+      name: format_2
+      label: Format 2
+      hint: null
+      type: select_multiple
+      options:
+      - 16x6
+      - A4
+      required: false
+    - id: 8
+      name: diet
+      label: Diet
+      hint: null
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Omnivore
+      required: false
+    - id: 9
+      name: format_3
+      label: Format 3
+      hint: null
+      type: select_one
+      options:
+      - 16x6
+      - A4
+      - Letter
+      required: false
+    - id: 10
+      name: format_4
+      label: Format 4
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: no_submission_message
+      label: No Submission
+      hint: null
+      type: text
+      options: []
+      required: false

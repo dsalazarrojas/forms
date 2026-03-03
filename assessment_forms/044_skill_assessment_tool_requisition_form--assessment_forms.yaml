@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skill Assessment Tool Requisition Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: skill_id
+      label: Skill
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Programming''}'
+      - '{''id'': 2, ''label'': ''Data Science''}'
+      - '{''id'': 3, ''label'': ''Writing''}'
+      required: false
+    - id: 6
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: assessment_time
+      label: Assessment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: required_skills
+      label: Required Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: team_id
+      label: Team
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Team A''}'
+      - '{''id'': 2, ''label'': ''Team B''}'
+      - '{''id'': 3, ''label'': ''Team C''}'
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: Tool Assigned
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: tool_version
+      label: Tool Version
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Roof Access Permission Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: access_type
+      label: Access Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Emergency''}'
+      - '{''id'': 2, ''name'': ''Non-emergency''}'
+      required: true
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_access
+      label: Reason for Access
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: access_duration
+      label: Access Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: additional_information
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false

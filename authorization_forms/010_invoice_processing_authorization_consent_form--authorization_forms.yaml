@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: invoice processing authorization consent form
+    pages:
+    - id: 1
+      name: invoice_processing_authorization_consent
+      label: Authorization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_consent
+      label: Client Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Client's Email Address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: note
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

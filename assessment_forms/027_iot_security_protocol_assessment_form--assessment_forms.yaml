@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: IoT Security Protocol Assessment Form
+    pages:
+    - id: 1
+      name: iot_security_protocol_assessment_form
+      label: Security Protocol
+      hint: null
+      type: select_multiple
+      options:
+      - Security Protocols
+      - Other
+      - None
+      required: false
+    - id: 2
+      name: iot_device_name
+      label: Device Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: iot_device_type
+      label: Device Type
+      hint: null
+      type: select_one
+      options:
+      - Smart Home Device
+      - Industrial Automation
+      - Healthcare Device
+      - Other
+      required: false
+    - id: 4
+      name: iot_risk_review
+      label: Risk Review
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: iot_security_assessment
+      label: Security Assessment
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 6
+      name: iot_protocol_version
+      label: Security Protocol Version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: iot_compliance_status
+      label: Compliance Status
+      hint: null
+      type: select_one
+      options:
+      - Compliant
+      - Non-Compliant
+      - Unknown
+      required: false

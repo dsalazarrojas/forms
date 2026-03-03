@@ -1,0 +1,98 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Rider Performance Evaluation
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: rider_info
+      label: rider_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rider_skills
+      label: Rider Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Basic
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 4
+      name: riding_ability
+      label: Riding Ability
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 5
+      name: rider_level
+      label: Rider Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 6
+      name: rider_comments
+      label: Rider Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: instructor_comments
+      label: Instructor Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of last assessment
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: assessment_time
+      label: Assessment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: evaluation_form_completed_by
+      label: Evaluation Form Completed By
+      hint: null
+      type: select_one
+      options:
+      - Trainer 1
+      - Trainer 2
+      - Trainer 3
+      required: false

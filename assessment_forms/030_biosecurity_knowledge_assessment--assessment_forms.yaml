@@ -1,0 +1,340 @@
+inputSchema:
+  type: object
+  properties:
+    title: Biosecurity Knowledge Assessment
+    pages:
+    - id: 1
+      name: participant_information
+      label: Participant Information
+      hint: Enter your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Full Name
+      hint: Your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: Your identification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department or division
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: position
+      label: Position
+      hint: Your job title
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: assessment_date
+      label: Assessment Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: facility_location
+      label: Facility Location
+      hint: Your work location
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: biosecurity_knowledge
+      label: Biosecurity Knowledge Questions
+      hint: Answer all questions to the best of your ability
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: question_1
+      label: Question 1 - What is the primary purpose of biosecurity measures
+      hint: Select the best answer
+      type: select_one
+      options:
+      - To increase productivity
+      - To prevent introduction and spread of pathogens
+      - To reduce costs
+      - To improve employee morale
+      required: true
+    - id: 10
+      name: question_2
+      label: Question 2 - Which of the following is NOT a biosecurity principle
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Isolation
+      - Traffic Control
+      - Sanitation
+      - Open Access
+      required: true
+    - id: 11
+      name: question_3
+      label: Question 3 - Personal protective equipment (PPE) should be
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Optional based on preference
+      - Worn only when supervisors are present
+      - Used according to risk level and protocols
+      - Shared between all workers
+      required: true
+    - id: 12
+      name: question_4
+      label: Question 4 - Hand hygiene should be performed
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Only before eating
+      - Only after using the restroom
+      - Before and after handling materials and after contamination
+      - Once per day
+      required: true
+    - id: 13
+      name: question_5
+      label: Question 5 - What should you do if you notice a biosecurity breach
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Ignore it if it seems minor
+      - Report it immediately to supervisor
+      - Fix it yourself without telling anyone
+      - Wait until end of shift to report
+      required: true
+    - id: 14
+      name: question_6
+      label: Question 6 - Contaminated waste should be
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Disposed of in regular trash
+      - Disposed of according to biohazard protocols
+      - Taken home for disposal
+      - Left for cleaning staff to handle
+      required: true
+    - id: 15
+      name: question_7
+      label: Question 7 - Visitor access to restricted areas should be
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Allowed at any time
+      - Controlled and documented
+      - Prohibited completely
+      - Allowed without supervision
+      required: true
+    - id: 16
+      name: question_8
+      label: Question 8 - Equipment decontamination is important because it
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Makes equipment look clean
+      - Prevents cross-contamination between areas
+      - Is required for warranty
+      - Extends equipment life only
+      required: true
+    - id: 17
+      name: question_9
+      label: Question 9 - Which route is NOT a common pathogen transmission route
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Direct contact
+      - Airborne transmission
+      - Vector-borne transmission
+      - Telepathic transmission
+      required: true
+    - id: 18
+      name: question_10
+      label: Question 10 - Quarantine procedures are used to
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Punish employees
+      - Isolate potentially contaminated materials or personnel
+      - Store excess inventory
+      - Reduce workspace
+      required: true
+    - id: 19
+      name: question_11
+      label: Question 11 - Biological safety cabinets are designed to
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Store biological samples
+      - Protect worker and environment from hazardous materials
+      - Increase work speed
+      - Cool down samples
+      required: true
+    - id: 20
+      name: question_12
+      label: Question 12 - Autoclaving is a method used for
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Cooling samples
+      - Sterilization using high pressure and temperature
+      - Mixing solutions
+      - Growing cultures
+      required: true
+    - id: 21
+      name: question_13
+      label: Question 13 - Signage and labeling in biosecure areas should be
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Hidden from view
+      - Clear visible and up to date
+      - Optional
+      - Written in code only
+      required: true
+    - id: 22
+      name: question_14
+      label: Question 14 - Emergency procedures for biosecurity incidents should be
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Memorized by management only
+      - Documented accessible and practiced regularly
+      - Kept in a locked office
+      - Created after an incident occurs
+      required: true
+    - id: 23
+      name: question_15
+      label: Question 15 - Regular biosecurity training is important because it
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Is required by law only
+      - Keeps staff updated on protocols and best practices
+      - Takes time away from work
+      - Is only needed for new employees
+      required: true
+    - id: 24
+      name: scenario_questions
+      label: Scenario-Based Questions
+      hint: Apply your knowledge to these situations
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: scenario_1
+      label: Scenario 1 - You discover a torn glove after working with biological
+        materials. What do you do
+      hint: Select the best response
+      type: select_one
+      options:
+      - Continue working and change gloves later
+      - Stop work immediately wash hands and report the incident
+      - Put on another glove over the torn one
+      - Only wash hands if they look contaminated
+      required: true
+    - id: 26
+      name: scenario_2
+      label: Scenario 2 - A visitor wants to enter a restricted lab area without proper
+        PPE. What do you do
+      hint: Select the best response
+      type: select_one
+      options:
+      - Let them in quickly
+      - Deny entry and explain PPE requirements
+      - Let them borrow your PPE
+      - Call security immediately
+      required: true
+    - id: 27
+      name: scenario_3
+      label: Scenario 3 - You notice a colleague not following proper decontamination
+        procedures. What do you do
+      hint: Select the best response
+      type: select_one
+      options:
+      - Ignore it - not your responsibility
+      - Politely remind them of proper procedures
+      - Report them to management immediately
+      - Take a photo as evidence
+      required: true
+    - id: 28
+      name: self_assessment
+      label: Self-Assessment
+      hint: Rate your own biosecurity knowledge
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: confidence_level
+      label: Confidence in Biosecurity Knowledge
+      hint: How confident are you in your biosecurity knowledge
+      type: select_one
+      options:
+      - Very Confident
+      - Confident
+      - Somewhat Confident
+      - Not Very Confident
+      - Not Confident At All
+      required: true
+    - id: 30
+      name: additional_training_needed
+      label: Areas Needing Additional Training
+      hint: Select topics you want more training on
+      type: select_multiple
+      options:
+      - None - Feel Fully Trained
+      - PPE Usage
+      - Decontamination Procedures
+      - Emergency Response
+      - Waste Disposal
+      - Documentation Requirements
+      - Pathogen Transmission
+      required: true
+    - id: 31
+      name: assessor_use_only
+      label: For Assessor Use Only
+      hint: Scoring section
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: total_score
+      label: Total Score
+      hint: Number correct
+      type: number
+      options: []
+      required: false
+    - id: 33
+      name: pass_fail_status
+      label: Pass or Fail Status
+      hint: Assessment outcome
+      type: select_one
+      options:
+      - Pass
+      - Fail - Retrain Required
+      - Pending Review
+      required: false
+    - id: 34
+      name: assessor_name
+      label: Assessor Name
+      hint: Name of person grading
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: assessor_comments
+      label: Assessor Comments
+      hint: Additional feedback
+      type: text
+      options: []
+      required: false

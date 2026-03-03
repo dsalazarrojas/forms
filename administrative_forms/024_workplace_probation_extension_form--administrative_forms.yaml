@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Probation Extension Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: extension_date
+      label: Extension Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: reason_for_extension
+      label: Reason For Extension
+      hint: Please enter the reason for the extension.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: new_extension_date
+      label: New Extension Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_multiple
+      options:
+      - Approved
+      - Declined
+      - Pending
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: manager_note
+      label: Manager Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: extension_reason
+      label: Extension Reason
+      hint: Please enter the reason for the extension.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager_approval_status
+      label: Manager Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Declined
+      - Pending
+      required: false
+    - id: 10
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: form_submitted_on
+      label: Form Submitted On
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: manager_submitted_on
+      label: Manager Submitted On
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: notes_manager
+      label: Notes Manager
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: manager_approval_note
+      label: Manager Approval Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: employee_status
+      label: Employee Status
+      hint: Please enter the employee status.
+      type: text
+      options: []
+      required: false

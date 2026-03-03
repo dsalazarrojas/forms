@@ -1,0 +1,153 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Competency Assessment Form
+    pages:
+      - id: 1
+        name: assessment_info_header
+        label: -- Employee Competency Assessment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: employee_name_assessed
+        label: Employee Name
+        hint: Person being assessed
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: assessor_name
+        label: Assessor Name
+        hint: Person conducting the assessment
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: assessment_date_comp
+        label: Date of Assessment
+        hint: Date the evaluation was completed
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: technical_skills_section
+        label: -- Core Technical Competencies --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: technical_knowledge_rating
+        label: Technical Knowledge and Skills
+        hint: Proficiency in job-specific tools and processes
+        type: select_one
+        options:
+          - 1 - Beginner
+          - 2 - Developing
+          - 3 - Proficient
+          - 4 - Advanced
+          - 5 - Expert
+        required: true
+      - id: 7
+        name: quality_of_work_rating
+        label: Quality and Accuracy of Work
+        hint: Attention to detail and error rates
+        type: select_one
+        options:
+          - Exceeds Standards
+          - Meets Standards
+          - Needs Improvement
+          - Unsatisfactory
+        required: true
+      - id: 8
+        name: soft_skills_section
+        label: -- Behavioral Competencies --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: communication_skills_rating
+        label: Communication Skills
+        hint: Verbal, written, and interpersonal interaction
+        type: select_one
+        options:
+          - Excellent
+          - Effective
+          - Developing
+          - Poor
+        required: true
+      - id: 10
+        name: problem_solving_rating
+        label: Problem Solving and Decision Making
+        hint: Ability to analyze situations and find solutions
+        type: select_one
+        options:
+          - Highly Proactive
+          - Capable
+          - Reactive
+          - Struggles to decide
+        required: true
+      - id: 11
+        name: teamwork_collaboration_rating
+        label: Teamwork and Collaboration
+        hint: Working with others towards a common goal
+        type: select_one
+        options:
+          - Exceptional Team Player
+          - Collaborative
+          - Independent Worker
+          - Difficult to work with
+        required: true
+      - id: 12
+        name: growth_and_development_section
+        label: -- Development Plan --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: primary_strengths_noted
+        label: Key Strengths
+        hint: Areas where the employee excels
+        type: text
+        options: []
+        required: true
+      - id: 14
+        name: areas_for_improvement_noted
+        label: Areas for Development
+        hint: Specific skills or behaviors to improve
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: recommended_training_actions
+        label: Recommended Training or Actions
+        hint: e.g., Specific courses, mentoring, or project assignments
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: overall_assessment_score
+        label: Overall Assessment Result
+        hint: Final summary rating
+        type: select_one
+        options:
+          - Exceptional
+          - Successful
+          - Partially Successful
+          - Not Successful
+        required: true

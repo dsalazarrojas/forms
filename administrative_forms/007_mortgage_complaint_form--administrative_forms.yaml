@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mortgage Complaint Form
+    pages:
+    - id: 1
+      name: mortgage_complaint_form
+      label: Mortgage Complaint Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: issue_type
+      label: Issue Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: upload_doc
+      label: Upload Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: upload_proof
+      label: Upload Proof
+      hint: null
+      type: text
+      options: []
+      required: false

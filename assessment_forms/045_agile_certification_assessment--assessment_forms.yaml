@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agile Certification Assessment
+    pages:
+    - id: 1
+      name: candidate_info
+      label: -- Candidate Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: candidate_name
+      label: Candidate name
+      hint: Full name as registered
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: For results and certification
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: assessment_date
+      label: Assessment date
+      hint: Date of assessment
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: knowledge_score
+      label: Knowledge score
+      hint: Written exam score out of 100
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: practical_score
+      label: Practical exercise score
+      hint: Score for practical exercises
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: portfolio_review
+      label: Portfolio review outcome
+      hint: Assessment of submitted portfolio
+      type: select_one
+      options:
+      - Accepted
+      - Needs improvement
+      - Rejected
+      required: true
+    - id: 8
+      name: overall_result
+      label: Overall result
+      hint: Final certification outcome
+      type: select_one
+      options:
+      - Certified
+      - Not certified
+      - Conditional certification
+      required: true
+    - id: 9
+      name: assessor_comments
+      label: Assessor comments
+      hint: Notes and remedial actions
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: certificate_id
+      label: Certificate ID
+      hint: Assigned certificate reference
+      type: text
+      options: []
+      required: false

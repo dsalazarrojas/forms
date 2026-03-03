@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: PPE Hazard Assessment Form
+    pages:
+    - id: 1
+      name: workplace_name
+      label: Workplace Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: hazard_present
+      label: Is hazard present
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: risk_assessment
+      label: Risk Assessment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: personal_protective_equipment
+      label: Personal Protective Equipment Provided
+      hint: null
+      type: select_multiple
+      options:
+      - Hard hat
+      - Safety glasses
+      - Earplugs
+      - Gloves
+      - Harness
+      required: true
+    - id: 6
+      name: ppe_training
+      label: PPE Training
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: supervision
+      label: Supervision
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: training_frequency
+      label: Training Frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: training_hours
+      label: Training Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: last_updated
+      label: Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: last_updated_by
+      label: Last Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_form
+      label: Assigned Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: reviewer_position
+      label: Reviewer Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: reviewer_date_reviewed
+      label: Date Reviewed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: reviewer_time_reviewed
+      label: Time Reviewed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: reviewer_notes
+      label: Reviewer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: employee_position
+      label: Employee Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: employee_phone
+      label: Employee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: employee_email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: employee_work_location
+      label: Employee's Work Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: employee_job_title
+      label: Employee's Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: employee_comments
+      label: Employee Comments
+      hint: null
+      type: text
+      options: []
+      required: false

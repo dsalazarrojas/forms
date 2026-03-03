@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skill Assessment Tool Requisition Form
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: skills
+      label: Select Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Assessment of Business Acumen
+      - Business Process Improvement
+      - Communication and Interpersonal Skills
+      required: false
+    - id: 3
+      name: skill_level
+      label: Select Skill Level
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 4
+      name: assessment_type
+      label: Assessment Type
+      hint: null
+      type: select_multiple
+      options:
+      - Self-Assessment
+      - Manager Assessment
+      - Peer Assessment
+      required: true
+    - id: 5
+      name: date_assessment
+      label: Date Assessment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time_assessment
+      label: Time Assessment
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - ChatJimmy
+      - ChatSammy
+      required: true
+    - id: 11
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: manager_id
+      label: Manager ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: employee_status
+      label: Employee Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 20
+      name: skill_assessment_tool_id
+      label: Skill Assessment Tool ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - ChatJimmy
+      - ChatSammy
+      required: false
+    - id: 22
+      name: created_date
+      label: Created Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - ChatJimmy
+      - ChatSammy
+      required: false
+    - id: 24
+      name: updated_date
+      label: Updated Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: deleted_by
+      label: Deleted By
+      hint: null
+      type: select_one
+      options:
+      - ChatJimmy
+      - ChatSammy
+      required: false

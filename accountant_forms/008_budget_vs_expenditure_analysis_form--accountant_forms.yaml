@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Budget vs Expenditure Analysis Form
+    pages:
+    - id: 1
+      name: analyst_name
+      label: Analyst Name
+      hint: Name of analyst preparing analysis
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department
+      label: Department
+      hint: Department or cost center
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: analysis_date
+      label: Analysis Date
+      hint: Date of analysis
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: analysis_period
+      label: Analysis Period
+      hint: Time period for analysis
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-Annual
+      - Annual
+      - Project Lifecycle
+      - Custom Period
+      required: true
+    - id: 6
+      name: fiscal_year
+      label: Fiscal Year
+      hint: Fiscal year being analyzed
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: project_name
+      label: Project Name
+      hint: Name of project if applicable
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: budget_line_items
+      label: Budget Line Items
+      hint: Number of line items in budget
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: total_budgeted
+      label: Total Budgeted Amount
+      hint: Sum of all budgeted amounts
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: total_expended
+      label: Total Expended Amount
+      hint: Sum of all actual expenditures
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: overall_variance
+      label: Overall Variance
+      hint: Total budget minus total expended
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: utilization_rate
+      label: Budget Utilization Rate
+      hint: Percentage of budget utilized
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: expenditure_categories
+      label: Expenditure Categories Analyzed
+      hint: Select all categories included
+      type: select_multiple
+      options:
+      - Salaries and Wages
+      - Benefits
+      - Supplies and Materials
+      - Equipment
+      - Travel
+      - Training
+      - Consulting Services
+      - Facilities
+      - Technology
+      - Other
+      required: true
+    - id: 14
+      name: largest_variance_category
+      label: Largest Variance Category
+      hint: Category with biggest variance
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: variance_analysis
+      label: Variance Analysis Summary
+      hint: Summary of key variances identified
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: spending_trends
+      label: Spending Trends Observed
+      hint: Notable trends in expenditure
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: budget_adjustments_needed
+      label: Budget Adjustments Needed
+      hint: Are budget adjustments recommended
+      type: select_one
+      options:
+      - Yes - Increase Required
+      - Yes - Decrease Possible
+      - Yes - Reallocation Needed
+      - No - Current Budget Appropriate
+      - Under Review
+      required: true
+    - id: 18
+      name: risk_factors
+      label: Risk Factors Identified
+      hint: Potential financial risks
+      type: select_multiple
+      options:
+      - Overspending Trend
+      - Revenue Shortfall
+      - Cost Escalation
+      - Resource Constraints
+      - Timeline Delays
+      - Scope Creep
+      - Market Volatility
+      - None Identified
+      required: true
+    - id: 19
+      name: recommendations
+      label: Recommendations
+      hint: Actionable recommendations
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: next_review_date
+      label: Next Review Date
+      hint: When should next analysis occur
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: attachments
+      label: Supporting Attachments
+      hint: Are supporting documents attached
+      type: select_one
+      options:
+      - Yes - Included
+      - No - Not Required
+      - To Be Provided
+      required: false

@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Halal Investment Consultation Booking
+    pages:
+    - id: 1
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: interests
+      label: Interests
+      hint: null
+      type: select_multiple
+      options:
+      - Halal Finance
+      - Sukuk Bonds
+      - Islamic Stocks
+      - Islamic Bonds
+      - Islamic Real Estate
+      - Islamic Gold
+      - Islamic Cash
+      - Islamic Commodities
+      required: false
+    - id: 3
+      name: preferred_time
+      label: Preferred Time
+      hint: Select a time slot
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 4
+      name: preferred_time_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: preferred_time_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In Person
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: Enter client contact number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: Enter client email
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: consultant_details
+      label: Consultant Details
+      hint: Enter consultant details
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: client_comments
+      label: Client Comments
+      hint: Client comments
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: consultant_comments
+      label: Consultant Comments
+      hint: Consultant comments
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: false
+    - id: 14
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: status
+      label: Status
+      hint: Form Status
+      type: select_one
+      options:
+      - In Progress
+      - Completed
+      - Cancelled
+      required: false

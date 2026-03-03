@@ -1,0 +1,450 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cash Audit Form
+    pages:
+    - id: 1
+      name: audit_header
+      label: Cash Audit Form
+      hint: Ensure accuracy and accountability in cash handling
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: audit_id
+      label: Audit ID Number
+      hint: Reference number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: audit_date
+      label: Audit Date
+      hint: Date of audit
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: audit_time
+      label: Audit Time
+      hint: Start time
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: location_info
+      label: Location Information
+      hint: Where audit occurs
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: location_name
+      label: Location or Branch Name
+      hint: Facility name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: department
+      label: Department
+      hint: Department name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: register_number
+      label: Register or Till Number
+      hint: Specific register
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: auditor_info
+      label: Auditor Information
+      hint: Who is auditing
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: auditor_name
+      label: Auditor Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: auditor_title
+      label: Auditor Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: witness_name
+      label: Witness Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: cashier_info
+      label: Cashier Information
+      hint: Person responsible
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: cashier_name
+      label: Cashier or Custodian Name
+      hint: Responsible person
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: cashier_id
+      label: Cashier ID Number
+      hint: Employee number
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: shift_time
+      label: Shift Time
+      hint: Work period
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: audit_type
+      label: Type of Audit
+      hint: Audit category
+      type: select_one
+      options:
+      - Scheduled audit
+      - Random audit
+      - Surprise audit
+      - Shift change audit
+      - Incident investigation
+      - Closing audit
+      - Opening audit
+      required: true
+    - id: 18
+      name: cash_count
+      label: Cash Count
+      hint: Physical count
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: bills_100
+      label: $100 Bills Count
+      hint: Number of bills
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: bills_100_total
+      label: $100 Bills Total
+      hint: Total value
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: bills_50
+      label: $50 Bills Count
+      hint: Number of bills
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: bills_50_total
+      label: $50 Bills Total
+      hint: Total value
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: bills_20
+      label: $20 Bills Count
+      hint: Number of bills
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: bills_20_total
+      label: $20 Bills Total
+      hint: Total value
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: bills_10
+      label: $10 Bills Count
+      hint: Number of bills
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: bills_10_total
+      label: $10 Bills Total
+      hint: Total value
+      type: number
+      options: []
+      required: true
+    - id: 27
+      name: bills_5
+      label: $5 Bills Count
+      hint: Number of bills
+      type: number
+      options: []
+      required: true
+    - id: 28
+      name: bills_5_total
+      label: $5 Bills Total
+      hint: Total value
+      type: number
+      options: []
+      required: true
+    - id: 29
+      name: bills_1
+      label: $1 Bills Count
+      hint: Number of bills
+      type: number
+      options: []
+      required: true
+    - id: 30
+      name: bills_1_total
+      label: $1 Bills Total
+      hint: Total value
+      type: number
+      options: []
+      required: true
+    - id: 31
+      name: coins_total
+      label: Total Coin Value
+      hint: All coins
+      type: number
+      options: []
+      required: true
+    - id: 32
+      name: checks_count
+      label: Number of Checks
+      hint: Check count
+      type: number
+      options: []
+      required: false
+    - id: 33
+      name: checks_total
+      label: Total Check Amount
+      hint: Check total
+      type: number
+      options: []
+      required: false
+    - id: 34
+      name: other_cash
+      label: Other Cash Items
+      hint: Additional items
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: other_cash_total
+      label: Other Cash Total
+      hint: Additional total
+      type: number
+      options: []
+      required: false
+    - id: 36
+      name: cash_summary
+      label: Cash Summary
+      hint: Totals
+      type: note
+      options: []
+      required: false
+    - id: 37
+      name: total_cash_counted
+      label: Total Cash Counted
+      hint: Physical total
+      type: number
+      options: []
+      required: true
+    - id: 38
+      name: expected_amount
+      label: Expected Amount per Records
+      hint: System total
+      type: number
+      options: []
+      required: true
+    - id: 39
+      name: variance
+      label: Variance Amount
+      hint: Difference
+      type: number
+      options: []
+      required: true
+    - id: 40
+      name: variance_type
+      label: Variance Type
+      hint: Over or under
+      type: select_one
+      options:
+      - No variance - balanced
+      - Over - cash excess
+      - Under - cash shortage
+      required: true
+    - id: 41
+      name: variance_percentage
+      label: Variance Percentage
+      hint: Percent difference
+      type: number
+      options: []
+      required: false
+    - id: 42
+      name: variance_explanation
+      label: Explanation for Variance
+      hint: If any
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: transactions_review
+      label: Transactions Review
+      hint: Activity check
+      type: note
+      options: []
+      required: false
+    - id: 44
+      name: total_sales
+      label: Total Sales Recorded
+      hint: Sales total
+      type: number
+      options: []
+      required: false
+    - id: 45
+      name: total_refunds
+      label: Total Refunds Processed
+      hint: Refund total
+      type: number
+      options: []
+      required: false
+    - id: 46
+      name: total_voids
+      label: Total Voids Processed
+      hint: Void total
+      type: number
+      options: []
+      required: false
+    - id: 47
+      name: void_count
+      label: Number of Voids
+      hint: Void count
+      type: number
+      options: []
+      required: false
+    - id: 48
+      name: discrepancies
+      label: Discrepancies Found
+      hint: Issues identified
+      type: select_multiple
+      options:
+      - None
+      - Cash shortage
+      - Cash overage
+      - Missing receipts
+      - Unauthorized voids
+      - Unauthorized refunds
+      - Counterfeit bills
+      - Check issues
+      - Documentation errors
+      - Other
+      required: true
+    - id: 49
+      name: discrepancy_details
+      label: Describe Discrepancies
+      hint: Details
+      type: text
+      options: []
+      required: false
+    - id: 50
+      name: compliance_check
+      label: Compliance Check
+      hint: Policy adherence
+      type: note
+      options: []
+      required: false
+    - id: 51
+      name: procedures_followed
+      label: Were Cash Handling Procedures Followed
+      hint: Compliance status
+      type: select_one
+      options:
+      - Yes - fully compliant
+      - Mostly - minor issues
+      - Partially - some issues
+      - No - significant issues
+      required: true
+    - id: 52
+      name: security_measures
+      label: Security Measures in Place
+      hint: Safety protocols
+      type: select_multiple
+      options:
+      - Safe secured
+      - Register locked
+      - Limited access
+      - Surveillance active
+      - Two-person rule
+      - Drop procedures followed
+      - Other
+      required: false
+    - id: 53
+      name: recommendations
+      label: Recommendations
+      hint: Improvements needed
+      type: text
+      options: []
+      required: false
+    - id: 54
+      name: follow_up_required
+      label: Is Follow-Up Required
+      hint: Additional action
+      type: select_one
+      options:
+      - No - audit complete
+      - Yes - minor follow-up
+      - Yes - investigation needed
+      - Yes - retraining required
+      required: true
+    - id: 55
+      name: auditor_signature
+      label: Auditor Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true
+    - id: 56
+      name: cashier_signature
+      label: Cashier Signature Date
+      hint: Acknowledgment
+      type: date
+      options: []
+      required: false
+    - id: 57
+      name: manager_review
+      label: Manager Review
+      hint: Supervisory approval
+      type: select_one
+      options:
+      - Reviewed and approved
+      - Reviewed with comments
+      - Pending review
+      - Escalated
+      required: false
+    - id: 58
+      name: manager_signature_date
+      label: Manager Signature Date
+      hint: Date reviewed
+      type: date
+      options: []
+      required: false

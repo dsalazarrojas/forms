@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Typhoid Vaccination Registration Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vaccination_registrations
+      label: Vaccination Registrations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: appointment_schedule
+      label: Appointment Schedule
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: consent
+      label: Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: Write any additional notes
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: consent_time
+      label: Consent Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: consent_signature
+      label: Signature
+      hint: Sign below to confirm
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: consent_date_verification
+      label: Date of Consent Verification
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: consent_time_verification
+      label: Time of Consent Verification
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: user_consent_status
+      label: User Consent Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 51, ''name'': ''active'', ''label'': ''Active''}'
+      - '{''id'': 52, ''name'': ''inactive'', ''label'': ''Inactive''}'
+      - '{''id'': 53, ''name'': ''pending'', ''label'': ''Pending''}'
+      required: false

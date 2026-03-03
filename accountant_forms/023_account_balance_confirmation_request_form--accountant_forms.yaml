@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Account Balance Confirmation Request Form
+    pages:
+    - id: 1
+      name: section_requestor_info
+      label: -- Requestor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requestor_name
+      label: Requestor Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requestor_title
+      label: Title or Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requestor_company
+      label: Company or Firm Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: requestor_role
+      label: Requestor Role
+      hint: null
+      type: select_one
+      options:
+      - External auditor
+      - Internal auditor
+      - Finance manager
+      - Accountant
+      - Legal representative
+      - Other
+      required: true
+    - id: 8
+      name: section_account_details
+      label: -- Account Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: account_holder_name
+      label: Account Holder Name
+      hint: Individual or business name on the account
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: account_type
+      label: Account Type
+      hint: null
+      type: select_one
+      options:
+      - Checking
+      - Savings
+      - Loan
+      - Line of credit
+      - Investment
+      - Other
+      required: true
+    - id: 12
+      name: financial_institution
+      label: Financial Institution Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: confirmation_date
+      label: Balance Confirmation Date
+      hint: The date as of which the balance should be confirmed
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: section_confirmation_details
+      label: -- Confirmation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: confirmation_purpose
+      label: Purpose of Confirmation
+      hint: null
+      type: select_one
+      options:
+      - Annual audit
+      - Quarterly review
+      - Loan application
+      - Legal proceeding
+      - Internal reconciliation
+      - Other
+      required: true
+    - id: 16
+      name: response_deadline
+      label: Response Deadline
+      hint: Date by which the confirmation is needed
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: preferred_response_method
+      label: Preferred Response Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Mail
+      - Fax
+      - Secure portal upload
+      required: true
+    - id: 18
+      name: mailing_address
+      label: Mailing Address for Response (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: authorization_reference
+      label: Authorization or Engagement Letter Reference
+      hint: Reference number of the authorization letter if applicable
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_instructions
+      label: Additional Instructions or Notes
+      hint: null
+      type: text
+      options: []
+      required: false

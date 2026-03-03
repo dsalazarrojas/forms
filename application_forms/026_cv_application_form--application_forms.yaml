@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: CV Application Form
+    pages:
+    - id: 1
+      name: section_intro
+      label: -- CV Submission Portal --
+      hint: Professional Application Form
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Legal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: linkedin_profile
+      label: LinkedIn Profile URL
+      hint: if available
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: position_header
+      label: -- Application Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: applied_position
+      label: Position Applied For
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: referral_source
+      label: How did you hear about this position
+      hint: null
+      type: select_one
+      options:
+      - Job Board
+      - Company Website
+      - Employee Referral
+      - Social Media
+      - Recruiter
+      required: true
+    - id: 9
+      name: work_experience_years
+      label: Total Years of Work Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: education_header
+      label: -- Education and Skills --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: highest_degree
+      label: Highest Degree Earned
+      hint: null
+      type: select_one
+      options:
+      - Bachelors
+      - Masters
+      - PhD
+      - Associate
+      - High School
+      required: true
+    - id: 12
+      name: primary_skillset
+      label: Primary Skillset or Expertise
+      hint: list your top 3 professional skills
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: software_proficiency
+      label: Software and Tools Proficiency
+      hint: e.g. Excel, Salesforce, Python
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: file_upload_header
+      label: -- Documents and Attachments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: cv_upload_confirmed
+      label: CV/Resume document prepared for submission
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: cover_letter_text
+      label: Cover Letter Summary
+      hint: brief statement on why you are the best fit
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: available_start_date
+      label: Earliest Available Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: applicant_confirmation
+      label: I certify that the information provided is true and accurate
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

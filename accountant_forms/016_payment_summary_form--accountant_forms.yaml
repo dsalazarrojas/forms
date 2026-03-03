@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payment Summary Form
+    pages:
+    - id: 1
+      name: payment_form
+      label: Payment Summary
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: account_holder
+      label: Account Holder
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Bank Transfer''}'
+      - '{''id'': 2, ''label'': ''Check''}'
+      - '{''id'': 3, ''label'': ''Cash''}'
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

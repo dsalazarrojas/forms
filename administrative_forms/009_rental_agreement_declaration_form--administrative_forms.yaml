@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: rental_agreement_declaration_form
+    pages:
+    - id: 1
+      name: rental_agreement_details
+      label: rental_agreement_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rent_frequency
+      label: rent_frequency
+      hint: null
+      type: select_one
+      options:
+      - Rent Weekly
+      - Rent Monthly
+      - Rent Annually
+      required: false
+    - id: 3
+      name: rent_amount
+      label: rent_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: rent_start_date
+      label: rent_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: tenant_details
+      label: tenant_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: tenant_name
+      label: tenant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: tenant_phone
+      label: tenant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: landlord_details
+      label: landlord_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: landlord_name
+      label: landlord_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: landlord_phone
+      label: landlord_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: agreement_terms
+      label: agreement_terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: rent_period
+      label: rent_period
+      hint: null
+      type: select_multiple
+      options:
+      - '30'
+      - '60'
+      - '90'
+      required: false
+    - id: 13
+      name: rent_frequency_period
+      label: rent_frequency_period
+      hint: null
+      type: select_one
+      options:
+      - Month
+      - Months
+      - Months
+      required: false
+    - id: 14
+      name: lease_date
+      label: lease_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: lease_end_date
+      label: lease_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: rent_status
+      label: rent_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Passive
+      required: false
+    - id: 17
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Bank transfer
+      - Cheque
+      required: false

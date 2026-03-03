@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sound Test Window Booking Form
+    pages:
+    - id: 1
+      name: form_info
+      label: form_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sound_tests
+      label: Sound tests
+      hint: What kind of sound test would you like to book?
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''A''}'
+      - '{''id'': 2, ''label'': ''B''}'
+      - '{''id'': 3, ''label'': ''C''}'
+      - '{''id'': 4, ''label'': ''D''}'
+      required: false
+    - id: 3
+      name: time_slots
+      label: time_slots
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''9:00-12:00''}'
+      - '{''id'': 2, ''label'': ''13:00-16:00''}'
+      - '{''id'': 3, ''label'': ''17:00-20:00''}'
+      required: false
+    - id: 4
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: booking_duration
+      label: booking_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: number_of_bookings
+      label: number_of_bookings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: requirements
+      label: Requirements
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false

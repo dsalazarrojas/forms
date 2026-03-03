@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Logo Approval Form
+    pages:
+    - id: 1
+      name: logo_review
+      label: Logo Review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: design_approver
+      label: designer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: approver
+      label: Approver
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: approver_comments
+      label: Approver Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: approval_decision
+      label: Approval Decision
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: logo_approved
+      label: Logo Approved
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: design_approver_phone
+      label: Design Approver Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: interior_detailing_assessment_form
+    pages:
+    - id: 1
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: interior_details
+      label: Interior Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: interior_condition_rating
+      label: Interior Condition Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: interior_condition_score
+      label: Interior Condition Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: date_of_last_detailing
+      label: Date of Last Detailing
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: assigned_detailer
+      label: Assigned Detailer
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''chatjimmy'', ''label'': ''Chat Jimmy''}'
+      - Other
+      required: true
+    - id: 8
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Phone'', ''label'': ''Phone''}'
+      - '{''value'': ''Email'', ''label'': ''Email''}'
+      - '{''value'': ''Text'', ''label'': ''Text''}'
+      required: true
+    - id: 9
+      name: field_9
+      label: Field 9
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

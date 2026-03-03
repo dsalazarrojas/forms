@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Compliance Confirmation Request Form
+    pages:
+    - id: 1
+      name: submitter_info
+      label: Submitter Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address_line_1
+      label: Address Line 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address_line_2
+      label: Address Line 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address_line_3
+      label: Address Line 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: tax_status
+      label: Tax Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: tax_year
+      label: Tax Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: uploaded_documents
+      label: Uploaded Documents
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: submitter_id
+      label: Submitter Id
+      hint: null
+      type: number
+      options: []
+      required: false

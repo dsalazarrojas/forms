@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Agricultural Unit Assessment Form
+    pages:
+    - id: 1
+      name: assessor_name
+      label: Assessor name
+      hint: Name of the person conducting the assessment
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: unit_name
+      label: Unit or farm name
+      hint: Name or identifier of the agricultural unit
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: assessment_date
+      label: Assessment date
+      hint: Date visit was conducted
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: infrastructure_condition
+      label: Infrastructure condition
+      hint: Condition of buildings, irrigation, and storage
+      type: select_one
+      options: [Good, Fair, Poor]
+      required: true
+    - id: 5
+      name: financial_management
+      label: Financial management practices
+      hint: Quality of ledgers and record keeping
+      type: select_one
+      options: [Good, Fair, Poor]
+      required: false
+    - id: 6
+      name: workforce_training
+      label: Workforce training level
+      hint: Staff skills and training adequacy
+      type: select_one
+      options: [Well trained, Some training, No training]
+      required: false
+    - id: 7
+      name: production_capacity
+      label: Production capacity assessment
+      hint: Evaluate current production capability
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: environmental_practices
+      label: Environmental practices
+      hint: Soil and water conservation measures in place
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: recommendations
+      label: Recommendations for improvement
+      hint: Suggested priority actions and investments
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: follow_up_required
+      label: Follow up required
+      hint: Indicate whether a follow up visit is needed
+      type: select_one
+      options: [Yes, No]
+      required: true

@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fall Pond Cleaning Request Form
+    pages:
+    - id: 1
+      name: user_input
+      label: user-input
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: service_requested
+      label: service_requested
+      hint: null
+      type: select_multiple
+      options:
+      - Service 1
+      - Service 2
+      - Service 3
+      required: false
+    - id: 3
+      name: date_scheduled
+      label: date-scheduled
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_scheduled
+      label: time-scheduled
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: pond_description
+      label: pond-description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: service_notes
+      label: service-notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_name
+      label: contact-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: contact-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: service_confirmed
+      label: service-confirmed
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Not confirmed
+      required: false
+    - id: 10
+      name: service_cancelled
+      label: service-cancelled
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Not confirmed
+      required: false
+    - id: 11
+      name: service_rescheduled
+      label: service-rescheduled
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Not confirmed
+      required: false
+    - id: 12
+      name: service_postponed
+      label: service-postponed
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Not confirmed
+      required: false
+    - id: 13
+      name: service_completed
+      label: service-completed
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Not confirmed
+      required: false
+    - id: 14
+      name: pond_cleaners
+      label: pond-cleaner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,92 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Equipment Readiness Checklist
+    pages:
+    - id: 1
+      name: checklist_form
+      label: Checklist Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: checklist_section_one
+      label: Checklist Section One
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': 1}'
+      - '{''label'': False, ''value'': 2}'
+      required: false
+    - id: 3
+      name: checklist_section_two
+      label: Checklist Section Two
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1'', ''value'': 1}'
+      - '{''label'': ''Option 2'', ''value'': 2}'
+      - '{''label'': ''Option 3'', ''value'': 3}'
+      required: false
+    - id: 4
+      name: checklist_section_three
+      label: Checklist Section Three
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: checklist_section_four
+      label: Checklist Section Four
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: equipment_status
+      label: equipment status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Available'', ''value'': 1}'
+      - '{''label'': ''Not Available'', ''value'': 2}'
+      required: false
+    - id: 7
+      name: maintenance_status
+      label: maintenance status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''In Progress'', ''value'': 1}'
+      - '{''label'': ''Completed'', ''value'': 2}'
+      - '{''label'': ''Not Needed'', ''value'': 3}'
+      required: false
+    - id: 8
+      name: last_maintenance_date
+      label: last maintenance date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: last_maintenance_frequency
+      label: last maintenance frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Daily'', ''value'': 1}'
+      - '{''label'': ''Weekly'', ''value'': 2}'
+      - '{''label'': ''Monthly'', ''value'': 3}'
+      required: false

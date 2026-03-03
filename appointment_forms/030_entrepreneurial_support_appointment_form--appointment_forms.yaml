@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: entrepreneurial_support_appointment_form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: Customer Info
+      hint: Please provide your name and email.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: business_details
+      label: Business Details
+      hint: Please provide your business name and type.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: advisor_info
+      label: Advisor Info
+      hint: Please provide advisor name and phone number.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: appointment_date
+      label: Appointment Date
+      hint: Please select an appointment date.
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: appointment_time
+      label: Appointment Time
+      hint: Please select an appointment time.
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: appointment_duration
+      label: Appointment Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: preferred_language
+      label: Preferred Language
+      hint: Please select your preferred language.
+      type: select_one
+      options:
+      - en
+      - es
+      - fr
+      - zh
+      required: false
+    - id: 9
+      name: schedule
+      label: Schedule Appointment
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 10
+      name: confirm
+      label: Confirm Appointment
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: form_footer
+      label: Form Footer
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Pre Interview Checklist
+    pages:
+    - id: 1
+      name: candidate_info
+      label: Candidate Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: salary_range
+      label: Salary Range
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''$30,000-$50,000''}'
+      - '{''value'': ''$50,001-$75,000''}'
+      - '{''value'': ''$75,001-$100,000''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 4
+      name: experience
+      label: Experience
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''1-5 years''}'
+      - '{''value'': ''6-10 years''}'
+      - '{''value'': ''More than 10 years''}'
+      required: false
+    - id: 5
+      name: education
+      label: Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: available_start_date
+      label: Available Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: work_status
+      label: Work Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''Retired''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 8
+      name: notice_period
+      label: Notice Period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Full-time''}'
+      - '{''value'': ''Part-time''}'
+      - '{''value'': ''Contract''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 10
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false

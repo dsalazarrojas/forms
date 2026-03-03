@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Publishing Authoring Tools Requisition Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Publishing Authoring Tools Requisition Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - Approval Forms
+      - Request Forms
+      required: false
+    - id: 3
+      name: software_request
+      label: Software Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 5
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitter_location
+      label: Submitter Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitter_team
+      label: Submitter Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_submission_date
+      label: Form Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: form_submission_time
+      label: Form Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: form_submission_time_zone
+      label: Form Submission Time Zone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - Jotform
+      - Other
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,319 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Classroom Technology Integration Assessment Form
+    pages:
+      - id: 1
+        name: teacher_name
+        label: Teacher Name
+        hint: Full name of the teacher
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: teacher_id
+        label: Teacher ID Number
+        hint: Employee identification number
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email_address
+        label: Email Address
+        hint: School email address
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: grade_level
+        label: Grade Level
+        hint: Which grade levels do you teach
+        type: select_multiple
+        options:
+          - Kindergarten
+          - Grade 1-2
+          - Grade 3-5
+          - Grade 6-8
+          - Grade 9-12
+        required: true
+      - id: 5
+        name: subject_area
+        label: Subject Area
+        hint: Primary subject area taught
+        type: select_one
+        options:
+          - General Education - Self-Contained
+          - Mathematics
+          - Science
+          - English Language Arts
+          - Social Studies
+          - Foreign Language
+          - Art
+          - Music
+          - Physical Education
+          - Special Education
+          - Other
+        required: true
+      - id: 6
+        name: years_teaching
+        label: Years of Teaching Experience
+        hint: How long have you been teaching
+        type: select_one
+        options:
+          - First year teacher
+          - 2-5 years
+          - 6-10 years
+          - 11-15 years
+          - 16-20 years
+          - Over 20 years
+        required: true
+      - id: 7
+        name: section_header_current_use
+        label: -- Current Technology Use --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: devices_available
+        label: Technology Devices Available in Classroom
+        hint: Select all devices you have access to
+        type: select_multiple
+        options:
+          - Desktop Computers
+          - Laptop Computers
+          - Tablets or iPads
+          - Chromebooks
+          - Interactive Whiteboard or Smart Board
+          - Projector
+          - Document Camera
+          - Student Personal Devices (BYOD)
+          - None
+        required: true
+      - id: 9
+        name: device_condition
+        label: Condition of Available Technology
+        hint: How would you rate the condition of your technology
+        type: select_one
+        options:
+          - Excellent - All devices working perfectly
+          - Good - Most devices working well
+          - Fair - Some devices need repair or replacement
+          - Poor - Many devices not functional
+        required: true
+      - id: 10
+        name: technology_usage_frequency
+        label: Frequency of Technology Use in Instruction
+        hint: How often do you use technology for teaching
+        type: select_one
+        options:
+          - Daily - In most lessons
+          - Several times per week
+          - Once per week
+          - Occasionally - A few times per month
+          - Rarely - Almost never
+        required: true
+      - id: 11
+        name: technology_integration_level
+        label: Level of Technology Integration
+        hint: How is technology integrated into your teaching
+        type: select_one
+        options:
+          - Substitution - Technology replaces traditional tools
+          - Augmentation - Technology adds functional improvement
+          - Modification - Technology allows task redesign
+          - Redefinition - Technology creates new tasks previously inconceivable
+          - Not sure
+        required: false
+      - id: 12
+        name: software_applications_used
+        label: Software or Applications Commonly Used
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Learning Management System (Google Classroom, Canvas, etc.)
+          - Productivity Suite (Google Workspace, Microsoft Office)
+          - Educational Games or Apps
+          - Video Conferencing (Zoom, Google Meet)
+          - Assessment Tools (Kahoot, Quizizz, etc.)
+          - Content Creation Tools
+          - Research Databases
+          - None
+        required: true
+      - id: 13
+        name: section_header_skills
+        label: -- Technology Skills and Comfort --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: overall_comfort_level
+        label: Overall Comfort Level with Technology
+        hint: How comfortable are you using technology for instruction
+        type: select_one
+        options:
+          - Very Comfortable - I can troubleshoot most issues
+          - Comfortable - I can use technology independently
+          - Somewhat Comfortable - I need occasional help
+          - Not Comfortable - I need frequent assistance
+        required: true
+      - id: 15
+        name: specific_skills_rating
+        label: Specific Technology Skills Rating
+        hint: Rate your proficiency in these areas
+        type: select_one
+        options:
+          - Advanced - I can teach others
+          - Proficient - I use these skills regularly
+          - Developing - I am learning these skills
+          - Beginner - I need training in these areas
+        required: true
+      - id: 16
+        name: student_device_management
+        label: Student Device Management Comfort
+        hint: How comfortable are you managing student devices
+        type: select_one
+        options:
+          - Very Comfortable
+          - Comfortable
+          - Somewhat Comfortable
+          - Not Comfortable
+          - Not Applicable
+        required: true
+      - id: 17
+        name: section_header_barriers
+        label: -- Barriers and Challenges --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: primary_barriers
+        label: Primary Barriers to Technology Integration
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Insufficient devices or equipment
+          - Unreliable internet connectivity
+          - Lack of technical support
+          - Insufficient training or professional development
+          - Limited planning time
+          - Concerns about student distraction
+          - Curriculum does not align with technology
+          - Budget constraints
+          - No significant barriers
+        required: true
+      - id: 19
+        name: technical_issues_frequency
+        label: Frequency of Technical Issues
+        hint: How often do you experience technical problems
+        type: select_one
+        options:
+          - Daily - Frequent issues
+          - Weekly - Regular issues
+          - Monthly - Occasional issues
+          - Rarely - Infrequent issues
+          - Never - No issues
+        required: true
+      - id: 20
+        name: technical_support_satisfaction
+        label: Satisfaction with Technical Support
+        hint: How satisfied are you with available tech support
+        type: select_one
+        options:
+          - Very Satisfied - Support is quick and effective
+          - Satisfied - Support is generally helpful
+          - Neutral - Support is adequate
+          - Dissatisfied - Support is slow or unhelpful
+          - Very Dissatisfied - No adequate support available
+        required: true
+      - id: 21
+        name: section_header_needs
+        label: -- Professional Development Needs --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: training_topics_interest
+        label: Training Topics of Interest
+        hint: Select all topics you would like training on
+        type: select_multiple
+        options:
+          - Basic device operation and troubleshooting
+          - Educational software and applications
+          - Digital citizenship and online safety
+          - Blended learning strategies
+          - Flipped classroom techniques
+          - Assessment and grading with technology
+          - Differentiation with technology
+          - Coding and computational thinking
+          - Virtual and augmented reality
+          - No additional training needed
+        required: true
+      - id: 23
+        name: preferred_training_format
+        label: Preferred Training Format
+        hint: How would you prefer to receive professional development
+        type: select_one
+        options:
+          - In-person workshops
+          - Online self-paced courses
+          - Live webinars
+          - Peer coaching or mentoring
+          - Conference attendance
+          - Professional learning communities
+        required: true
+      - id: 24
+        name: training_time_preference
+        label: Preferred Training Time
+        hint: When would you prefer to attend training
+        type: select_one
+        options:
+          - During school hours with substitute coverage
+          - After school
+          - During professional development days
+          - Evenings
+          - Weekends
+          - Summer break
+        required: true
+      - id: 25
+        name: section_header_goals
+        label: -- Goals and Recommendations --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 26
+        name: technology_goals
+        label: Your Technology Integration Goals
+        hint: What are your goals for technology use this year
+        type: text
+        options: []
+        required: true
+      - id: 27
+        name: support_needed
+        label: Support Needed to Achieve Goals
+        hint: What support do you need to reach your goals
+        type: text
+        options: []
+        required: true
+      - id: 28
+        name: additional_comments
+        label: Additional Comments or Suggestions
+        hint: Any other feedback about technology integration
+        type: text
+        options: []
+        required: false

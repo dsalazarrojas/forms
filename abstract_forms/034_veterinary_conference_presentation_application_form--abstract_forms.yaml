@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Conference Presentation Application Form
+    pages:
+    - id: 1
+      name: abstract
+      label: Abstract
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: speaker_details
+      label: Speaker Details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option2''}'
+      - '{''label'': ''Option 3'', ''value'': ''option3''}'
+      required: false
+    - id: 3
+      name: session_proposal
+      label: Session Proposal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: speaker_image
+      label: Speaker Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: session_time
+      label: Session Time
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''option1'', ''value'': ''9:00am''}'
+      - '{''label'': ''option2'', ''value'': ''10:00am''}'
+      - '{''label'': ''option3'', ''value'': ''11:00am''}'
+      required: false
+    - id: 6
+      name: speaker_bio
+      label: Speaker Bio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: speaker_phone
+      label: Speaker Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: speaker_email
+      label: Speaker Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: presentation_date
+      label: Presentation Date
+      hint: null
+      type: date
+      options: []
+      required: false

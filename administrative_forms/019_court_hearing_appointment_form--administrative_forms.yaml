@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: court_hearing_appointment_form
+    pages:
+    - id: 1
+      name: case_number
+      label: Case Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: hearing_date
+      label: Hearing Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: hearing_time
+      label: Hearing Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: judge_name
+      label: Judge Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: lawyer_name
+      label: Lawyer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: court_room
+      label: Court Room
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: purpose_hearing
+      label: Purpose of Hearing
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: case_type
+      label: Case Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: court_administrator
+      label: Court Administrator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: court_officer
+      label: Court Officer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: witness
+      label: Witness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: other_parties
+      label: Other Parties
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: hearing_status
+      label: Hearing Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: completed_date
+      label: Completed Date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

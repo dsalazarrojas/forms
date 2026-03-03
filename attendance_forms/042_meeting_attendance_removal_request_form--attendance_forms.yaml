@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Meeting Attendance Removal Request Form
+    pages:
+    - id: 1
+      name: meeting_attendance_removal_request_form_title
+      label: Meeting Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: meeting_attendance_removal_request_form_reason
+      label: Reason
+      hint: Provide a valid reason
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: meeting_attendance_removal_request_form_attendee
+      label: Attendee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: meeting_attendance_removal_request_form_attendee_type
+      label: Attendee Type
+      hint: null
+      type: select_one
+      options:
+      - Team Lead
+      - Manager
+      - Colleague
+      required: false
+    - id: 5
+      name: meeting_attendance_removal_request_form_meeting
+      label: Meeting
+      hint: null
+      type: select_one
+      options:
+      - Scheduled Meeting
+      - Ad-Hoc Meeting
+      required: false
+    - id: 6
+      name: meeting_attendance_removal_request_form_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: meeting_attendance_removal_request_form_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: meeting_attendance_removal_request_form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: meeting_attendance_removal_request_form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: meeting_attendance_removal_request_form_note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: meeting_attendance_removal_request_form_submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

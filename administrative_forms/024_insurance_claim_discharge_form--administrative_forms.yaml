@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance Claim Discharge Form
+    pages:
+    - id: 1
+      name: claim_id
+      label: Claim Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_claim_submitted
+      label: Date Claim Submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: true
+    - id: 5
+      name: reason_for_disposition
+      label: Reason For Disposition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: adjuster_name
+      label: Adjuster Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: adjuster_note
+      label: Adjuster Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: claimant_note
+      label: Claimant Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: date_claim_discharged
+      label: Date Claim Discharged
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: claim_discharge_note
+      label: Claim Discharge Note
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: provider_signature
+      label: Provider Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: claimant_signature
+      label: Claimant Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: adjuster_signature
+      label: Adjuster Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: insurance_company
+      label: Insurance Company
+      hint: null
+      type: select_one
+      options:
+      - UnitedHealthcare
+      - Aetna
+      - Cigna
+      required: true
+    - id: 15
+      name: adjuster_name_other
+      label: Adjuster Name Other
+      hint: null
+      type: text
+      options: []
+      required: false

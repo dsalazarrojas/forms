@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Office Flooding Incident Form
+    pages:
+    - id: 1
+      name: office_flooding_incident_form
+      label: Office Flooding Incident Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Flooded Area
+      - Affected Building
+      - Employee Injuries
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: flooded_area_description
+      label: flooded area description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employee_injuries_description
+      label: employee injuries description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: affected_areas
+      label: affected areas
+      hint: null
+      type: select_multiple
+      options:
+      - Basement
+      - Lower Level
+      - Upper Level
+      required: false
+    - id: 9
+      name: flooded_area
+      label: flooded area
+      hint: null
+      type: select_one
+      options:
+      - Basement
+      - Lower Level
+      - Upper Level
+      required: false
+    - id: 10
+      name: employee_injuries
+      label: employee injuries
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: reporting_person
+      label: reporting person
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: employee_injuries_number
+      label: employee injuries number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: employee_injuries_condition
+      label: employee injuries condition
+      hint: null
+      type: select_multiple
+      options:
+      - Critical
+      - Minor
+      - None
+      required: false
+    - id: 14
+      name: contact_name
+      label: contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: contact_phone
+      label: contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_department
+      label: contact department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_title
+      label: contact title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_extension
+      label: contact extension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_location
+      label: contact location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: incident_image
+      label: incident image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: incident_description
+      label: incident description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: incident_report_date
+      label: incident report date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: incident_report_time
+      label: incident report time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: incident_status
+      label: incident status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

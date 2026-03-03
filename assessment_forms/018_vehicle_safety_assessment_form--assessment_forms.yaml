@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: vehicle_safety_assessment_form
+    pages:
+    - id: 1
+      name: vehicle_details
+      label: Vehicle Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: safety_standards
+      label: Safety Standards
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: condition
+      label: Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_safety_assessment
+      label: Vehicle Safety Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_inspection_results
+      label: Vehicle Inspection Results
+      hint: null
+      type: text
+      options: []
+      required: false

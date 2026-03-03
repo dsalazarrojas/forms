@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gas Turbine Knowledge Assessment
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: turbine_type
+      label: turbine_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''axial'', ''label'': ''Axial''}'
+      - '{''value'': ''radial'', ''label'': ''Radial''}'
+      - '{''value'': ''mixed'', ''label'': ''Mixed''}'
+      required: false
+    - id: 3
+      name: fuel_type
+      label: fuel_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''gas'', ''label'': ''Gas''}'
+      - '{''value'': ''diesel'', ''label'': ''Diesel''}'
+      - '{''value'': ''oil'', ''label'': ''Oil''}'
+      required: false
+    - id: 4
+      name: operating_principle
+      label: operating_principle
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''axial'', ''label'': ''Axial''}'
+      - '{''value'': ''radial'', ''label'': ''Radial''}'
+      - '{''value'': ''mixed'', ''label'': ''Mixed''}'
+      required: false
+    - id: 5
+      name: speed_range
+      label: speed_range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: hours_operation
+      label: hours_operation
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: temperature_range
+      label: temperature_range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false

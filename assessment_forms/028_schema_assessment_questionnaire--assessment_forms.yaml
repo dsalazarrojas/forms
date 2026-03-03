@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: schema_assessment_questionnaire
+    pages:
+    - id: 1
+      name: schema_name
+      label: Schema Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: schema_type
+      label: Schema Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: schema_description
+      label: Schema Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: schema_version
+      label: Schema Version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: data_source
+      label: Data Source
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: data_frequency
+      label: Data Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: data_quality
+      label: Data Quality
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: true
+    - id: 8
+      name: schema_owner
+      label: Schema Owner
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: schema_status
+      label: Schema Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 10
+      name: schema_category
+      label: Schema Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: schema_priority
+      label: Schema Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: schema_comments
+      label: Schema Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: schema_recommendations
+      label: Schema Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: schema_reviewers
+      label: Schema Reviewers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: schema_review_comments
+      label: Schema Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: schema_last_reviewed
+      label: Schema Last Reviewed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: schema_last_reviewed_by
+      label: Schema Last Reviewed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: schema_last_reviewed_at
+      label: Schema Last Reviewed At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: schema_last_reviewed_time
+      label: Schema Last Reviewed Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: schema_last_reviewed_date
+      label: Schema Last Reviewed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: schema_last_reviewed_by_name
+      label: Schema Last Reviewed By Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: schema_next_reviewed_date
+      label: Schema Next Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: schema_next_reviewed_by
+      label: Schema Next Review By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: schema_next_reviewed_at
+      label: Schema Next Reviewed At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: schema_next_reviewed_time
+      label: Schema Next Reviewed Time
+      hint: null
+      type: time
+      options: []
+      required: false

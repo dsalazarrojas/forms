@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Submission Form Template
+    pages:
+    - id: 1
+      name: vehicle_submission_form_template
+      label: vehicle_submission_form_template
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_type
+      label: vehicle_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Car''}'
+      - '{''id'': 2, ''name'': ''Truck''}'
+      - '{''id'': 3, ''name'': ''SUV''}'
+      required: false
+    - id: 3
+      name: make
+      label: vehicle_make
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Toyota''}'
+      - '{''id'': 2, ''name'': ''Ford''}'
+      - '{''id'': 3, ''name'': ''Chevrolet''}'
+      required: false
+    - id: 4
+      name: model
+      label: vehicle_model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: year
+      label: vehicle_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: color
+      label: vehicle_color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: mileage
+      label: vehicle_mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: vin
+      label: vehicle_vin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: license_plate
+      label: license_plate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: transmission
+      label: vehicle_transmission
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Manual''}'
+      - '{''id'': 2, ''name'': ''Automatic''}'
+      - '{''id'': 3, ''name'': ''Semi-Automatic''}'
+      required: false
+    - id: 11
+      name: engine_type
+      label: vehicle_engine_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Gasoline''}'
+      - '{''id'': 2, ''name'': ''Diesel''}'
+      - '{''id'': 3, ''name'': ''Hybrid''}'
+      required: false
+    - id: 12
+      name: interior_color
+      label: vehicle_interior_color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: exterior_color
+      label: vehicle_exterior_color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: body_style
+      label: vehicle_body_style
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Sedan''}'
+      - '{''id'': 2, ''name'': ''Truck''}'
+      - '{''id'': 3, ''name'': ''SUV''}'
+      required: false
+    - id: 15
+      name: engine_size
+      label: vehicle_engine_size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: fuel_type
+      label: vehicle_fuel_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: drive_type
+      label: vehicle_drive_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: transmission_type
+      label: vehicle_transmission_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: vehicle_status
+      label: vehicle_status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: vehicle_condition
+      label: vehicle_condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''New''}'
+      - '{''id'': 2, ''name'': ''Used''}'
+      - '{''id'': 3, ''name'': ''Refurbished''}'
+      required: false
+    - id: 21
+      name: vehicle_location
+      label: vehicle_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: vin_image_url
+      label: vin_image_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: vin_image
+      label: vin_image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: comments
+      label: vehicle_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false

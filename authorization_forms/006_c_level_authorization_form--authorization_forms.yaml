@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: C-Level Authorization Form
+    pages:
+    - id: 1
+      name: executive_summary_section
+      label: -- Executive Authorization Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: authorizing_executive
+      label: Name of Authorizing Executive
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: executive_role
+      label: Executive Role
+      hint: null
+      type: select_one
+      options:
+      - CEO
+      - CFO
+      - COO
+      - CTO
+      - CMO
+      - Other
+      required: true
+    - id: 4
+      name: project_proposal_title
+      label: Project or Decision Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: strategic_alignment
+      label: Level of Strategic Alignment
+      hint: How does this align with company OKRs?
+      type: select_one
+      options:
+      - High Alignment
+      - Moderate Alignment
+      - Low Alignment
+      required: true
+    - id: 6
+      name: budget_impact
+      label: Estimated Financial Impact
+      hint: In USD
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: risk_assessment
+      label: Risk Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Critical
+      required: true
+    - id: 8
+      name: risk_mitigation_plan
+      label: Risk Mitigation Strategy
+      hint: Brief summary of how risks will be managed
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: timeline_approval
+      label: Proposed Implementation Timeline
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: authorization_status
+      label: Authorization Decision
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Approved with Conditions
+      - Denied
+      - Further Review Required
+      required: true
+    - id: 11
+      name: conditional_requirements
+      label: Conditions for Approval
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: authorization_date
+      label: Date of Authorization
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: digital_signature_notice
+      label: Electronic Signature Confirmation
+      hint: By selecting yes, you are providing a digital signature.
+      type: select_one
+      options:
+      - Yes, I authorize this action
+      - Other
+      required: true

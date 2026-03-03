@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Work From Home Approval Form
+    pages:
+    - id: 1
+      name: remote_work_arrangement_request
+      label: Remote Work Arrangement Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: work_frequency
+      label: Work Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Full time
+      - Part time
+      - Variable
+      required: false
+    - id: 7
+      name: work_location
+      label: Work Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: work_status
+      label: Work Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

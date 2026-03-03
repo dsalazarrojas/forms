@@ -1,0 +1,242 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baseball Uniform Order Form Template
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Team Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: team_name
+      label: Team name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: team_contact_person
+      label: Contact person name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_2
+      label: -- Uniform Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: jersey_color
+      label: Jersey color
+      hint: null
+      type: select_one
+      options:
+      - White
+      - Gray
+      - Navy
+      - Black
+      - Red
+      - Blue
+      - Green
+      - Custom
+      required: true
+    - id: 8
+      name: pants_color
+      label: Pants color
+      hint: null
+      type: select_one
+      options:
+      - White
+      - Gray
+      - Navy
+      - Black
+      - Pinstripe
+      - Custom
+      required: true
+    - id: 9
+      name: sock_color
+      label: Sock color preference
+      hint: null
+      type: select_one
+      options:
+      - White
+      - Navy
+      - Black
+      - Gray
+      - Team Colors
+      - Custom
+      required: false
+    - id: 10
+      name: team_logo
+      label: Do you have a team logo file?
+      hint: null
+      type: select_one
+      options:
+      - Yes - File Attached
+      - Yes - Will Provide Later
+      - No - Design Help Needed
+      - Use Standard Logo
+      required: true
+    - id: 11
+      name: logo_placement
+      label: Logo placement on jersey
+      hint: null
+      type: select_one
+      options:
+      - Chest
+      - Sleeve
+      - Back Neck
+      - Full Back
+      - Multiple Locations
+      required: false
+    - id: 12
+      name: section_header_3
+      label: -- Sizing Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: total_quantity
+      label: Total number of uniforms needed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: size_distribution
+      label: Size distribution (provide counts for each size)
+      hint: Extra Small, Small, Medium, Large, Extra Large, XXL
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: player_names
+      label: Include player names on jerseys?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Selected Players Only
+      required: false
+    - id: 16
+      name: player_numbers
+      label: Include player numbers?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Selected Players Only
+      required: true
+    - id: 17
+      name: section_header_4
+      label: -- Customization Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: sleeve_type
+      label: Sleeve type
+      hint: null
+      type: select_one
+      options:
+      - Short Sleeves
+      - Long Sleeves
+      - 3/4 Sleeves
+      - Sleeveless
+      required: true
+    - id: 19
+      name: uniform_style
+      label: Uniform style preference
+      hint: null
+      type: select_one
+      options:
+      - Classic/Traditional
+      - Modern Athletic
+      - Youth Style
+      - Custom Design
+      required: false
+    - id: 20
+      name: additional_embroidery
+      label: Additional embroidery or design elements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_header_5
+      label: -- Delivery and Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: delivery_date
+      label: Requested delivery date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: delivery_address
+      label: Delivery address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: budget_per_uniform
+      label: Approximate budget per uniform
+      hint: null
+      type: select_one
+      options:
+      - Under $30
+      - $30-$50
+      - $50-$75
+      - $75-$100
+      - Over $100
+      required: false
+    - id: 25
+      name: payment_method
+      label: Preferred payment method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Check
+      - Invoice
+      - Bank Transfer
+      - Cash
+      required: false
+    - id: 26
+      name: confirmation
+      label: I confirm this order information is accurate
+      hint: null
+      type: select_one
+      options:
+      - I Confirm
+      - I Need to Review
+      required: true

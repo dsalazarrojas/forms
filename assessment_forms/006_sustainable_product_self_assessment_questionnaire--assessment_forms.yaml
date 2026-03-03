@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: sustainable_product_self_assessment_questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: materials
+      label: materials
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: materials_1
+      label: material_impact
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: materials_2
+      label: material_impact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: manufacturing
+      label: manufacturing
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: packaging
+      label: packaging
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: packaging_1
+      label: packaging_1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: end_of_life
+      label: end_of_life
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

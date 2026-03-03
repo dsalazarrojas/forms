@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Payment Request Form
+    pages:
+    - id: 1
+      name: vendor_details
+      label: Vendor Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendor_payment_info
+      label: Vendor Payment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Option 1''}'
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Term 1''}'
+      - Term 2
+      - Term 3
+      required: false
+    - id: 6
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: request_time
+      label: Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vendor_signature
+      label: Vendor Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: finance_signature
+      label: Finance Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Status 1''}'
+      - Status 2
+      - Status 3
+      required: false

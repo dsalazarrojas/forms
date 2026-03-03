@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flash Booking Request Form
+    pages:
+    - id: 1
+      name: service_request
+      label: Service Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preferred_booking_time
+      label: Preferred Booking Time
+      hint: Select a preferred booking time
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false

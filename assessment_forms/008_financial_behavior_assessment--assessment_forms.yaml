@@ -1,0 +1,242 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Behavior Assessment
+    pages:
+    - id: 1
+      name: budgeting
+      label: Budgeting
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: saving
+      label: Saving
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: confidence
+      label: Confidence
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: financial_goals
+      label: Financial Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: budgeting_strategy
+      label: Budgeting Strategy
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Monthly''}'
+      - '{''label'': ''Quarterly''}'
+      - '{''label'': ''Annual''}'
+      required: true
+    - id: 6
+      name: financial_obligations
+      label: Financial Obligations
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Housing''}'
+      - '{''label'': ''Transportation''}'
+      - '{''label'': ''Food''}'
+      - '{''label'': ''Clothing''}'
+      - '{''label'': ''Medical''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 7
+      name: financial_savings
+      label: Financial Savings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: financial_progress
+      label: Financial Progress
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: financial_confidence
+      label: Financial Confidence
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: financial_support_systems
+      label: Financial Support Systems
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Bank''}'
+      - '{''label'': ''Credit Union''}'
+      - '{''label'': ''Other''}'
+      - '{''label'': ''Mobile App''}'
+      required: false
+    - id: 11
+      name: budgeting_frequency
+      label: How Often
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Monthly''}'
+      - '{''label'': ''Quarterly''}'
+      - '{''label'': ''Annually''}'
+      required: false
+    - id: 12
+      name: financial_support_people
+      label: Financial Support People
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Family''}'
+      - '{''label'': ''Friends''}'
+      - '{''label'': ''Financial Advisor''}'
+      - '{''label'': ''None''}'
+      required: true
+    - id: 13
+      name: financial_education
+      label: Financial Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: financial_resources
+      label: Financial Resources
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Books''}'
+      - '{''label'': ''Online Courses''}'
+      - '{''label'': ''Workshops''}'
+      - '{''label'': ''None''}'
+      required: true
+    - id: 15
+      name: financial_progress_tracking
+      label: Financial Progress Tracking
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: financial_confidence_level
+      label: Confidence Level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Low''}'
+      - '{''label'': ''Moderate''}'
+      required: true
+    - id: 17
+      name: financial_support_channels
+      label: Financial Support Channels
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Bank''}'
+      - '{''label'': ''Credit Union''}'
+      - '{''label'': ''Other''}'
+      - '{''label'': ''Mobile App''}'
+      required: false
+    - id: 18
+      name: financial_support_frequency
+      label: Financial Support Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Monthly''}'
+      - '{''label'': ''Quarterly''}'
+      - '{''label'': ''Annually''}'
+      required: false
+    - id: 19
+      name: financial_support_people_frequency
+      label: Financial Support People Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Monthly''}'
+      - '{''label'': ''Quarterly''}'
+      - '{''label'': ''Annually''}'
+      required: false
+    - id: 20
+      name: financial_roadmap_to_success
+      label: Roadmap to Success
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Short Term''}'
+      - '{''label'': ''Medium Term''}'
+      - '{''label'': ''Long Term''}'
+      required: true
+    - id: 21
+      name: financial_progress_milestones
+      label: Financial Progress Milestones
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Monthly''}'
+      - '{''label'': ''Quarterly''}'
+      - '{''label'': ''Annually''}'
+      required: true
+    - id: 22
+      name: financial_confidence_barometer
+      label: Confidence Barometer
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Low''}'
+      - '{''label'': ''Moderate''}'
+      - '{''label'': ''High''}'
+      required: false
+    - id: 23
+      name: financial_support_systems_frequency
+      label: Financial Support Systems Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Monthly''}'
+      - '{''label'': ''Quarterly''}'
+      - '{''label'': ''Annually''}'
+      required: false
+    - id: 24
+      name: financial_confidence_barometer_level
+      label: Confidence Barometer Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: financial_progress_milestone_date
+      label: Financial Progress Milestone Date
+      hint: null
+      type: date
+      options: []
+      required: false

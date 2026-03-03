@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Management Interview Schedule
+    pages:
+    - id: 1
+      name: project_management_schedule
+      label: Project Management Schedule
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: candidate_name
+      label: Candidates Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: available_dates
+      label: Available Dates
+      hint: Select one or more dates
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: duration
+      label: Duration
+      hint: In hours
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Warehouse Security Key Request Form
+    pages:
+    - id: 1
+      name: user
+      label: user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: purpose
+      label: purpose
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: facility
+      label: facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: manager
+      label: manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: policy_acknowledgement
+      label: policy acknowledgement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: approved_by
+      label: approved by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: approved_on
+      label: approved on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: declined_by
+      label: declined by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: declined_on
+      label: declined on
+      hint: null
+      type: date
+      options: []
+      required: false

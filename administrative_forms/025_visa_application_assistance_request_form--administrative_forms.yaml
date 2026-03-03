@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: visa-application-assistance-request-form
+    pages:
+    - id: 1
+      name: applicant_info
+      label: Applicant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: visa_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - visa
+      - other
+      required: false
+    - id: 3
+      name: visa_submitted_from
+      label: Visa Submitted From
+      hint: null
+      type: select_one
+      options:
+      - us
+      - uk
+      - eu
+      - other
+      required: false
+    - id: 4
+      name: visa_reason
+      label: Visa Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: passport_expiration_date
+      label: Passport Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: passport_expiration_month
+      label: Passport Expiration Month
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: passport_expiration_year
+      label: Passport Expiration Year
+      hint: null
+      type: number
+      options: []
+      required: false

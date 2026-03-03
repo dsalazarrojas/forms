@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Transformation Maturity Survey
+    pages:
+    - id: 1
+      name: assessment_form
+      label: Assessment Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: digital_capabilties
+      label: Digital Capabilities
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 3
+      name: target_group
+      label: Target Group
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 4
+      name: improvement_areas
+      label: Improvement Areas
+      hint: null
+      type: select_multiple
+      options:
+      - option_4
+      - option_5
+      - option_6
+      required: true
+    - id: 5
+      name: data_collection
+      label: Data Collection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: business_leaders
+      label: Business Leaders
+      hint: null
+      type: select_one
+      options:
+      - option_7
+      - option_8
+      - option_9
+      required: true
+    - id: 7
+      name: it_manager
+      label: IT Manager
+      hint: null
+      type: select_one
+      options:
+      - option_10
+      - option_11
+      - option_12
+      required: false
+    - id: 8
+      name: effective_data_collection
+      label: Effective Data Collection
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: digital_transformation_maturity_level
+      label: Digital Transformation Maturity Level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: assessment_form_note
+      label: Assessment Form Note
+      hint: null
+      type: note
+      options: []
+      required: false

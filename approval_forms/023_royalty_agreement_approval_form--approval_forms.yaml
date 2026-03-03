@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Royalty Agreement Approval Form
+    pages:
+    - id: 1
+      name: contract_review
+      label: Contract Review
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: agreement_details
+      label: Agreement Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: approval_status
+      label: Approval Status
+      hint: Select one of the following
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Rejected
+      required: true
+    - id: 4
+      name: date_approved
+      label: Date Approved
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: approver_name
+      label: Approver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: approver_email
+      label: Approver Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: approver_phone
+      label: Approver Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_rejected
+      label: Date Rejected
+      hint: null
+      type: date
+      options: []
+      required: false

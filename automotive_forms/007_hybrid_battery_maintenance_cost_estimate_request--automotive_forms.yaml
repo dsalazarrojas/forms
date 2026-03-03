@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hybrid Battery Maintenance Cost Estimate Request
+    pages:
+    - id: 1
+      name: vehicle_info
+      label: Vehicle Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: battery_type
+      label: Battery Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: maintenance_type
+      label: Maintenance Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Oil change'', ''label'': ''Oil Change''}'
+      - '{''value'': ''Service'', ''label'': ''Service''}'
+      - '{''value'': ''Inspect'', ''label'': ''Inspect''}'
+      - '{''value'': ''Repair'', ''label'': ''Repair''}'
+      required: false
+    - id: 4
+      name: mileage
+      label: Mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: estimated_cost
+      label: Estimated Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: form_version
+      label: Form Version
+      hint: null
+      type: number
+      options: []
+      required: false

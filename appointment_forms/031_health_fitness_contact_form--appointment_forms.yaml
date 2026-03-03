@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: health-fitness-contact-form
+    pages:
+    - id: 1
+      name: health_fitness_contact_form_title
+      label: Contact Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: health_fitness_contact_form_date
+      label: Date of Issue
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: health_fitness_contact_form_date_issue_started
+      label: Date Issue Started
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: health_fitness_contact_form_issue_area
+      label: Problematic Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: health_fitness_contact_form_advisor
+      label: Advisor
+      hint: Choose your advisor
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: health_fitness_contact_form_issue
+      label: Briefly describe your issue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: health_fitness_contact_form_additional_info
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: health_fitness_contact_form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: health_fitness_contact_form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

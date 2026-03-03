@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: RequestyAppointmentBrg
+    pages:
+    - id: 1
+      name: requesty_appointment_brg
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: requesty_appointment_brg_form
+      label: Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: requesty_appointment_brg_request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: requesty_appointment_brg_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: requesty_appointment_brg_start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: requesty_appointment_brg_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: requesty_appointment_brg_end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: requesty_appointment_brg_additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: requesty_appointment_brg_requester
+      label: Requester
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Bob
+      required: false
+    - id: 10
+      name: requesty_appointment_brg_requester_phone
+      label: Requester Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: requesty_appointment_brg_requester_email
+      label: Requester Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: requesty_appointment_brg_requester_additional_info
+      label: Requester Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: requesty_appointment_brg_requester_relationship
+      label: Requester Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

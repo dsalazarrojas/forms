@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Contact Authorization Form
+    pages:
+    - id: 1
+      name: emergency_contact_form
+      label: Emergency Contact Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: relationship_to_owner
+      label: Relationship to Owner
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Primary Contact''}'
+      - '{''value'': ''Secondary Contact''}'
+      required: false
+    - id: 4
+      name: contact_address_line1
+      label: Contact Address 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_address_line2
+      label: Contact Address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_city
+      label: Contact City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_state
+      label: Contact State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_zip
+      label: Contact Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_relationship_type
+      label: Relationship Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Friend''}'
+      - '{''value'': ''Family''}'
+      - '{''value'': ''Colleague''}'
+      required: false
+    - id: 12
+      name: owner_relationship_type
+      label: Owner Relationship Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Friend''}'
+      - '{''value'': ''Family''}'
+      - '{''value'': ''Colleague''}'
+      required: false

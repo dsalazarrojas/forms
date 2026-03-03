@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Therapeutic Massage Appointment Form
+    pages:
+    - id: 1
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: treatment_type
+      label: Treatment Type
+      hint: null
+      type: select_one
+      options:
+      - Massage
+      - Swedish Massage
+      - Deep Tissue Massage
+      - Sports Massage
+      - Aromatherapy
+      - Reflexology
+      required: false
+    - id: 4
+      name: appointment_time_length
+      label: Appointment Time Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: massage_length
+      label: Massage Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: appointment_location
+      label: Appointment Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: client_health_info
+      label: Client Health Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Message
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

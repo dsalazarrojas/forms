@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: payment_and_obligation_review
+    pages:
+    - id: 1
+      name: base_page
+      label: Payment And Obligation Review
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: select_one
+      options:
+      - Payment Method
+      - Invoice Number
+      - Payment Date
+      - Currency
+      - Amount
+      required: false
+    - id: 3
+      name: obligation_details
+      label: Obligation Details
+      hint: null
+      type: select_multiple
+      options:
+      - Obligation Type
+      - Obligation Date
+      - Obligation Amount
+      required: false
+    - id: 4
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: base_page_2
+      label: Base Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Cheque
+      - Eft
+      - Direct Debit
+      required: false
+    - id: 7
+      name: invoice_number
+      label: invoice_number
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 8
+      name: payment_date
+      label: payment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: currency
+      label: currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      required: false
+    - id: 10
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: obligation_type
+      label: obligation_type
+      hint: null
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: false
+    - id: 12
+      name: obligation_date
+      label: obligation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: obligation_amount
+      label: obligation_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: base_page_3
+      label: Base Page 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Not Paid
+      - Pending
+      required: false
+    - id: 16
+      name: confirmation
+      label: confirmation
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Not Confirmed
+      - Pending
+      required: false

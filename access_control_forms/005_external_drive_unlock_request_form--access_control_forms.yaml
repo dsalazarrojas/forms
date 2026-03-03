@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: External Drive Unlock Request Form
+    pages:
+    - id: 1
+      name: external_drive_unlock_request_form
+      label: External Drive Unlock Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Security
+      - IT
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: Briefly describe the external drive unlock request
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: priority
+      label: Urgency
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 5
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Joe
+      required: true
+    - id: 6
+      name: drive_details
+      label: Drive Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_requested
+      label: Date Requested
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: submitter_department
+      label: Submitter Department
+      hint: null
+      type: select_one
+      options:
+      - Sales
+      - Marketing
+      - IT
+      required: false
+    - id: 12
+      name: drive_status
+      label: Drive Status
+      hint: null
+      type: select_multiple
+      options:
+      - Locked
+      - Unlocked
+      - Disabled
+      required: true
+    - id: 13
+      name: notes
+      label: Notes
+      hint: Add any additional details or comments regarding this request
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: route_to
+      label: Route to
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: route_description
+      label: Route Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: comments
+      label: Comments
+      hint: null
+      type: select_multiple
+      options:
+      - Approved
+      - Declined
+      - Rejected
+      required: false
+    - id: 17
+      name: route_to_email
+      label: Route To Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: route_to_phone
+      label: Route To Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: route_to_department
+      label: Route To Department
+      hint: null
+      type: select_one
+      options:
+      - Sales
+      - Marketing
+      - IT
+      required: false
+    - id: 20
+      name: route_to_status
+      label: Route To Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - In Progress
+      - Completed
+      required: false
+    - id: 21
+      name: route_to_comments
+      label: Route To Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: route_to_notes
+      label: Route To Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: submitted_via
+      label: Submitted Via
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Form
+      required: false
+    - id: 24
+      name: external_drive_unlocked
+      label: External Drive Unlocked
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 25
+      name: form_submitted
+      label: Form Submitted
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Quantity Adjustment Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Your company if applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: request_date
+      label: Request Date
+      hint: Date of this request
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: order_number
+      label: Order Number
+      hint: Your order confirmation number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_name
+      label: Event Name
+      hint: Name of your event
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: Date of your event
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: original_guest_count
+      label: Original Guest Count
+      hint: Originally ordered quantity
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: new_guest_count
+      label: New Guest Count
+      hint: Updated quantity needed
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: adjustment_type
+      label: Adjustment Type
+      hint: Are you increasing or decreasing
+      type: select_one
+      options:
+      - Increase Quantity
+      - Decrease Quantity
+      required: true
+    - id: 12
+      name: adjustment_percentage
+      label: Adjustment Percentage
+      hint: Approximate percentage change
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: items_affected
+      label: Items Affected
+      hint: Which menu items need adjustment
+      type: select_multiple
+      options:
+      - Appetizers
+      - Main Course
+      - Side Dishes
+      - Desserts
+      - Beverages
+      - All Items
+      required: true
+    - id: 14
+      name: reason_for_change
+      label: Reason for Change
+      hint: Why is this adjustment needed
+      type: select_one
+      options:
+      - RSVP Changes
+      - Budget Adjustment
+      - Venue Change
+      - Event Format Change
+      - Other
+      required: true
+    - id: 15
+      name: reason_details
+      label: Reason Details
+      hint: Please explain
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: dietary_changes
+      label: Dietary Requirement Changes
+      hint: Any new dietary needs
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: deadline_for_change
+      label: When Do You Need This By
+      hint: Deadline for adjustment
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: price_impact_understood
+      label: Price Impact Understood
+      hint: Do you understand there may be cost changes
+      type: select_one
+      options:
+      - Yes - I Understand
+      - No - Need Information
+      required: true
+    - id: 19
+      name: approval_needed
+      label: Manager Approval Needed
+      hint: Does this require approval
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: false
+    - id: 20
+      name: urgency
+      label: Urgency
+      hint: How urgent is this request
+      type: select_one
+      options:
+      - Not Urgent
+      - Somewhat Urgent
+      - Urgent
+      - Very Urgent
+      required: true
+    - id: 21
+      name: alternative_options
+      label: Alternative Options Acceptable
+      hint: Are substitutions okay if needed
+      type: select_one
+      options:
+      - true
+      - false
+      - Discuss First
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

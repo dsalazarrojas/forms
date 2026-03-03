@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Staff Scheduling Booking Form
+    pages:
+    - id: 1
+      name: event_organizer
+      label: Event Organizer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: staff_name
+      label: Staff Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: staff_email
+      label: Staff Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: staff_phone
+      label: Staff Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shift_duration
+      label: Shift Duration
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: shift_start
+      label: Shift Start
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: shift_end
+      label: Shift End
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - Event Coordinator
+      - Event Manager
+      - Event Assistant
+      required: true
+    - id: 10
+      name: shift_status
+      label: Shift Status
+      hint: null
+      type: select_multiple
+      options:
+      - Available
+      - Busy
+      - Not Available
+      required: true
+    - id: 11
+      name: availability
+      label: Availability
+      hint: null
+      type: select_multiple
+      options:
+      - Available
+      - Unavailable
+      required: true
+    - id: 12
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_multiple
+      options:
+      - Day Event
+      - Night Event
+      - Weekend Event
+      required: true
+    - id: 13
+      name: event_details
+      label: Event Details
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evenings
+      required: true
+    - id: 14
+      name: break_in
+      label: Break In
+      hint: null
+      type: select_multiple
+      options:
+      - 8 AM
+      - 12 PM
+      - 4 PM
+      required: false
+    - id: 15
+      name: break_out
+      label: Break Out
+      hint: null
+      type: select_multiple
+      options:
+      - 1 PM
+      - 5 PM
+      - 7 PM
+      required: false
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: confirm_shift
+      label: Confirm Shift
+      hint: null
+      type: select_multiple
+      options:
+      - Confirm
+      - Decline
+      required: true
+    - id: 19
+      name: confirm_event_details
+      label: Confirm Event Details
+      hint: null
+      type: select_multiple
+      options:
+      - Confirm
+      - Decline
+      required: true
+    - id: 20
+      name: confirm_staff_availability
+      label: Confirm Staff Availability
+      hint: null
+      type: select_multiple
+      options:
+      - Confirm
+      - Decline
+      required: true
+    - id: 21
+      name: confirm_event_type
+      label: Confirm Event Type
+      hint: null
+      type: select_multiple
+      options:
+      - Confirm
+      - Decline
+      required: true
+    - id: 22
+      name: confirm_break
+      label: Confirm Break
+      hint: null
+      type: select_multiple
+      options:
+      - Confirm
+      - Decline
+      required: true
+    - id: 23
+      name: confirm_role
+      label: Confirm Role
+      hint: null
+      type: select_multiple
+      options:
+      - Confirm
+      - Decline
+      required: true
+    - id: 24
+      name: confirm_shift_status
+      label: Confirm Shift Status
+      hint: null
+      type: select_multiple
+      options:
+      - Confirm
+      - Decline
+      required: true
+    - id: 25
+      name: confirm_availability
+      label: Confirm Availability
+      hint: null
+      type: select_multiple
+      options:
+      - Confirm
+      - Decline
+      required: true

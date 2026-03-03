@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cost Of Living Adjustment Update Request Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_date
+      label: Request date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: current_salary
+      label: Current salary
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: new_salary
+      label: New salary
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_adjustment
+      label: Reason for adjustment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Accounting
+      - Marketing
+      - Sales
+      required: true
+    - id: 7
+      name: manager_signature
+      label: Manager's signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: approved_manager_name
+      label: Approved manager name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: approved_manager_date
+      label: Approved date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: text
+      options: []
+      required: false

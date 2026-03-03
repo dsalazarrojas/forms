@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: reverse_osmosis_plant_assessment
+    pages:
+    - id: 1
+      name: ro_plant_summary
+      label: RO Plant Summary
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: water_temperature
+      label: Water Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: osmosis_plant_performance
+      label: Osmosis Plant Performance
+      hint: null
+      type: select_one
+      options:
+      - Plant 1
+      - Plant 2
+      - Plant 3
+      required: true
+    - id: 4
+      name: maintenance_findings
+      label: Maintenance Findings
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: assessment_data
+      label: Assessment Data
+      hint: null
+      type: select_multiple
+      options:
+      - Value 1
+      - Value 2
+      - Value 3
+      required: true
+    - id: 6
+      name: ro_plant_status
+      label: RO Plant Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Operator 1
+      - Operator 2
+      - Operator 3
+      required: true
+    - id: 9
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: operator_signature
+      label: Operator Signature
+      hint: null
+      type: select_one
+      options:
+      - Signature 1
+      - Signature 2
+      - Signature 3
+      required: true
+    - id: 14
+      name: operator_comment
+      label: Operator Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: engineer_signature
+      label: Engineer Signature
+      hint: null
+      type: select_one
+      options:
+      - Signature 1
+      - Signature 2
+      - Signature 3
+      required: false
+    - id: 16
+      name: engineer_comment
+      label: Engineer Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: facility_team_signature
+      label: Facility Team Signature
+      hint: null
+      type: select_one
+      options:
+      - Signature 1
+      - Signature 2
+      - Signature 3
+      required: false
+    - id: 18
+      name: facility_team_comment
+      label: Facility Team Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: ro_plant_equipment
+      label: RO Plant Equipment
+      hint: null
+      type: select_one
+      options:
+      - Equipment 1
+      - Equipment 2
+      - Equipment 3
+      required: true
+    - id: 20
+      name: ro_plant_location
+      label: RO Plant Location
+      hint: null
+      type: select_one
+      options:
+      - Location 1
+      - Location 2
+      - Location 3
+      required: true
+    - id: 21
+      name: ro_plant_description
+      label: RO Plant Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: osmosis_plant_capacity
+      label: Osmosis Plant Capacity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: osmosis_plant_age
+      label: Osmosis Plant Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: osmosis_plant_maintenance_schedule
+      label: Osmosis Plant Maintenance Schedule
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: osmosis_plant_maintenance_type
+      label: Osmosis Plant Maintenance Type
+      hint: null
+      type: select_one
+      options:
+      - Maintenance 1
+      - Maintenance 2
+      - Maintenance 3
+      required: true

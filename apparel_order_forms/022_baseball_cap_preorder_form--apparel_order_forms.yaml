@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baseball Cap Preorder Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: shipping_address
+      label: Shipping Address
+      hint: Complete street address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: shipping_city
+      label: City
+      hint: City for delivery
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: shipping_state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: shipping_zip
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: cap_style
+      label: Cap Style
+      hint: Select the style you want
+      type: select_one
+      options:
+      - Classic fitted
+      - Structured snapback
+      - Unstructured dad hat
+      - Performance flex fit
+      - Trucker style
+      - 5 panel
+      required: true
+    - id: 9
+      name: cap_color
+      label: Cap Color
+      hint: Primary color of cap
+      type: select_one
+      options:
+      - Black
+      - Navy blue
+      - Gray
+      - White
+      - Red
+      - Royal blue
+      - Forest green
+      - Maroon
+      - Custom
+      required: true
+    - id: 10
+      name: brim_color
+      label: Brim Color
+      hint: Color of the brim
+      type: select_one
+      options:
+      - Same as cap
+      - Black
+      - White
+      - Gray
+      - Navy
+      - Custom
+      required: true
+    - id: 11
+      name: logo_placement
+      label: Logo Placement
+      hint: Where should logo appear
+      type: select_one
+      options:
+      - Front center
+      - Front left
+      - Front right
+      - Side panel
+      - Back
+      - Multiple locations
+      required: true
+    - id: 12
+      name: logo_type
+      label: Logo Type
+      hint: What type of logo
+      type: select_one
+      options:
+      - Embroidered
+      - Printed
+      - Patch
+      - 3D puff
+      - None
+      required: true
+    - id: 13
+      name: quantity
+      label: Quantity
+      hint: Number of caps to order
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: size_breakdown
+      label: Size Breakdown
+      hint: How many of each size
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: customization_text
+      label: Customization Text
+      hint: Text to add to cap
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: font_style
+      label: Font Style
+      hint: Preferred font
+      type: select_one
+      options:
+      - Block letters
+      - Script
+      - Athletic
+      - Classic
+      - Modern
+      - No text
+      required: false
+    - id: 17
+      name: thread_color
+      label: Thread Color
+      hint: Color for embroidery
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: logo_file_upload
+      label: Upload Logo File
+      hint: If you have a logo file
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: estimated_delivery
+      label: Expected Delivery Date
+      hint: When do you need caps
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: rush_order
+      label: Rush Order
+      hint: Do you need expedited production
+      type: select_one
+      options:
+      - Yes, rush order
+      - No, standard timeline
+      required: true
+    - id: 21
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - PayPal
+      - Invoice
+      - Purchase order
+      required: true
+    - id: 22
+      name: discount_code
+      label: Discount Code
+      hint: If you have a promo code
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: special_instructions
+      label: Special Instructions
+      hint: Any additional notes
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: We appreciate knowing
+      type: select_one
+      options:
+      - Online search
+      - Social media
+      - Referral
+      - Previous customer
+      - Advertisement
+      - Other
+      required: false

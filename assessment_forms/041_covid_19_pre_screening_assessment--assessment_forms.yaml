@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Pre Screening Assessment
+    pages:
+    - id: 1
+      name: section_subject_info
+      label: -- Subject Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: subject_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: subject_id
+      label: ID Number or Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: section_symptom_assessment
+      label: -- Symptom Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: fever
+      label: Do you have a fever (above 100.4F)?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      - Not checked
+      required: true
+    - id: 10
+      name: cough
+      label: Do you have a cough?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 11
+      name: dyspnea
+      label: Do you have difficulty breathing or shortness of breath?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 12
+      name: sore_throat
+      label: Do you have a sore throat?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 13
+      name: loss_taste_smell
+      label: Do you have loss of taste or smell?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 14
+      name: fatigue
+      label: Do you feel fatigued or have body aches?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 15
+      name: section_exposure_risk
+      label: -- Exposure and Risk Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: diagnosed_covid
+      label: Have you been diagnosed with COVID-19 in the past 14 days?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 17
+      name: close_contact_covid
+      label: Have you been in close contact with someone positive for COVID-19?
+      hint: In the past 14 days
+      type: select_one
+      options:
+      - false
+      - true
+      - Unsure
+      required: true
+    - id: 18
+      name: international_travel
+      label: Have you traveled internationally in the past 14 days?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 19
+      name: section_medical_background
+      label: -- Medical Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: chronic_conditions
+      label: Do you have chronic health conditions?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 21
+      name: immunocompromised
+      label: Are you immunocompromised or on immunosuppressive therapy?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      - Unsure
+      required: true
+    - id: 22
+      name: section_assessment_result
+      label: -- Assessment Result --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: risk_level
+      label: Risk Assessment Level
+      hint: null
+      type: select_one
+      options:
+      - Low risk
+      - Moderate risk
+      - High risk
+      - Critical risk
+      required: true
+    - id: 24
+      name: recommendation
+      label: Recommendation
+      hint: null
+      type: select_one
+      options:
+      - Clear to proceed
+      - Enhanced precautions
+      - Testing recommended
+      - Isolation required
+      - Seek medical evaluation
+      required: true
+    - id: 25
+      name: assessor_name
+      label: Assessor Name
+      hint: null
+      type: text
+      options: []
+      required: false

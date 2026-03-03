@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Attendance Tracking Form
+    pages:
+    - id: 1
+      name: program_information
+      label: -- Program Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: program_name
+      label: Program Name
+      hint: Name of program or course
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: program_code
+      label: Program Code
+      hint: Course or program code
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: instructor_name
+      label: Instructor Name
+      hint: Name of instructor or facilitator
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: session_date
+      label: Session Date
+      hint: Date of the session
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: session_time
+      label: Session Time
+      hint: Start time of session
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: session_location
+      label: Session Location
+      hint: Where the session is held
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: participant_information
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: participant_name
+      label: Participant Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: participant_id
+      label: Participant ID
+      hint: Student or employee ID
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: attendance_tracking
+      label: -- Attendance Tracking --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: check_in_status
+      label: Check-In Status
+      hint: Mark present, absent, or late
+      type: select_one
+      options:
+      - Present
+      - Absent
+      - Late
+      - Excused Absence
+      - Medical Certificate
+      required: true
+    - id: 15
+      name: check_in_time
+      label: Check-In Time
+      hint: Time of arrival
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: check_out_time
+      label: Check-Out Time
+      hint: Time of departure
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: minutes_late
+      label: Minutes Late
+      hint: If late, how many minutes?
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: absence_reason
+      label: Reason for Absence
+      hint: If absent, provide reason
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: participation_notes
+      label: -- Participation Notes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: participation_level
+      label: Participation Level
+      hint: Rate participation intensity
+      type: select_one
+      options:
+      - Full Participation
+      - Active
+      - Moderate
+      - Minimal
+      - Observer
+      required: true
+    - id: 21
+      name: engagement_quality
+      label: Engagement Quality
+      hint: Quality of participation
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Adequate
+      - Fair
+      - Poor
+      required: true
+    - id: 22
+      name: assignment_completion
+      label: Assignment or Task Completion
+      hint: Completed assigned work?
+      type: select_one
+      options:
+      - Completed
+      - Partially Completed
+      - Not Completed
+      - Not Applicable
+      required: false
+    - id: 23
+      name: conduct_behavior
+      label: Conduct and Behavior
+      hint: Rate behavior during session
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Needs Improvement
+      - Poor
+      required: false
+    - id: 24
+      name: instructor_notes
+      label: Instructor Notes
+      hint: Additional observations
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_action
+      label: Follow-Up Action Required
+      hint: Is follow-up needed?
+      type: text
+      options: []
+      required: false

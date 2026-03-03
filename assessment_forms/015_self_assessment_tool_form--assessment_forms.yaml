@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: Self Assessment Tool Form
+    pages:
+    - id: 1
+      name: self_assessment_tool_form_1
+      label: How do you rate your self-awareness
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Strong''}'
+      - '{''value'': 2, ''label'': ''Average''}'
+      - '{''value'': 3, ''label'': ''Weak''}'
+      required: false
+    - id: 2
+      name: self_assessment_tool_form_2
+      label: What are your strengths
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''High''}'
+      - '{''value'': 2, ''label'': ''Medium''}'
+      - '{''value'': 3, ''label'': ''Low''}'
+      required: false
+    - id: 3
+      name: self_assessment_tool_form_3
+      label: What are your weaknesses
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''High''}'
+      - '{''value'': 2, ''label'': ''Medium''}'
+      - '{''value'': 3, ''label'': ''Low''}'
+      required: false
+    - id: 4
+      name: self_assessment_tool_form_4
+      label: What are your values
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''High''}'
+      - '{''value'': 2, ''label'': ''Medium''}'
+      - '{''value'': 3, ''label'': ''Low''}'
+      required: false
+    - id: 5
+      name: self_assessment_tool_form_5
+      label: What are your skills
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''High''}'
+      - '{''value'': 2, ''label'': ''Medium''}'
+      - '{''value'': 3, ''label'': ''Low''}'
+      required: false
+    - id: 6
+      name: self_assessment_tool_form_6
+      label: What are your abilities
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''High''}'
+      - '{''value'': 2, ''label'': ''Medium''}'
+      - '{''value'': 3, ''label'': ''Low''}'
+      required: false
+    - id: 7
+      name: self_assessment_tool_form_7
+      label: How do you rate your self-esteem
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: self_assessment_tool_form_8
+      label: What are your skills
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''High''}'
+      - '{''value'': 2, ''label'': ''Medium''}'
+      - '{''value'': 3, ''label'': ''Low''}'
+      required: false
+    - id: 9
+      name: self_assessment_tool_form_9
+      label: How do you rate your self-awareness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: self_assessment_tool_form_10
+      label: What are your values
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''High''}'
+      - '{''value'': 2, ''label'': ''Medium''}'
+      - '{''value'': 3, ''label'': ''Low''}'
+      required: false
+    - id: 11
+      name: self_assessment_tool_form_11
+      label: What are your abilities
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''High''}'
+      - '{''value'': 2, ''label'': ''Medium''}'
+      - '{''value'': 3, ''label'': ''Low''}'
+      required: false
+    - id: 12
+      name: self_assessment_tool_form_12
+      label: How do you rate your skills
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: self_assessment_tool_form_13
+      label: What are your goals
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''High''}'
+      - '{''value'': 2, ''label'': ''Medium''}'
+      - '{''value'': 3, ''label'': ''Low''}'
+      required: false
+    - id: 14
+      name: self_assessment_tool_form_14
+      label: How do you rate your goals
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: self_assessment_tool_form_15
+      label: What are your motivations
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''High''}'
+      - '{''value'': 2, ''label'': ''Medium''}'
+      - '{''value'': 3, ''label'': ''Low''}'
+      required: false
+    - id: 16
+      name: self_assessment_tool_form_16
+      label: How do you rate your motivations
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: self_assessment_tool_form_17
+      label: What are your priorities
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''High''}'
+      - '{''value'': 2, ''label'': ''Medium''}'
+      - '{''value'': 3, ''label'': ''Low''}'
+      required: false
+    - id: 18
+      name: self_assessment_tool_form_18
+      label: How do you rate your priorities
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: self_assessment_tool_form_19
+      label: What are your interests
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''High''}'
+      - '{''value'': 2, ''label'': ''Medium''}'
+      - '{''value'': 3, ''label'': ''Low''}'
+      required: false
+    - id: 20
+      name: self_assessment_tool_form_20
+      label: How do you rate your interests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: self_assessment_tool_form_21
+      label: What are your values
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''High''}'
+      - '{''value'': 2, ''label'': ''Medium''}'
+      - '{''value'': 3, ''label'': ''Low''}'
+      required: false
+    - id: 22
+      name: self_assessment_tool_form_22
+      label: How do you rate your values
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: self_assessment_tool_form_23
+      label: What are your skills
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''High''}'
+      - '{''value'': 2, ''label'': ''Medium''}'
+      - '{''value'': 3, ''label'': ''Low''}'
+      required: false
+    - id: 24
+      name: self_assessment_tool_form_24
+      label: How do you rate your skills
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: self_assessment_tool_form_25
+      label: What are your goals
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''High''}'
+      - '{''value'': 2, ''label'': ''Medium''}'
+      - '{''value'': 3, ''label'': ''Low''}'
+      required: false

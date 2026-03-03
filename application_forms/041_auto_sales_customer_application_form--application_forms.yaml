@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Sales Customer Application Form
+    pages:
+    - id: 1
+      name: lead_qualification_header
+      label: -- Lead Qualification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: To receive vehicle info and quotes
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: preferred_contact_time
+      label: Preferred Contact Time
+      hint: When is best for us to call?
+      type: select_one
+      options:
+      - Anytime
+      - Morning
+      - Afternoon
+      - Evening
+      required: true
+    - id: 6
+      name: vehicle_interest_header
+      label: -- Vehicle Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: interested_vehicle
+      label: Interested Vehicle Make and Model
+      hint: What kind of car are you looking for?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: condition_preference
+      label: Condition Preference
+      hint: Select your preferred vehicle state
+      type: select_one
+      options:
+      - New
+      - Used
+      - Any
+      required: true
+    - id: 9
+      name: maximum_budget
+      label: Maximum Budget
+      hint: Total amount you are looking to spend
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: trade_in_analysis_header
+      label: -- Trade-In Analysis --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: plan_to_trade_in
+      label: Do you plan to trade in a vehicle?
+      hint: Select yes if you have a car to trade
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: trade_in_desc
+      label: Trade-In Year, Make, and Model
+      hint: Details of your current car
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: trade_in_mileage
+      label: Trade-In Mileage
+      hint: Estimated current mileage
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: financing_header
+      label: -- Financing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: pre_approved
+      label: Pre-approved for a loan?
+      hint: Have you already secured financing?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: credit_score_range
+      label: Credit Score Range
+      hint: Used for preliminary financing estimates
+      type: select_one
+      options:
+      - 300-579
+      - 580-669
+      - 670-739
+      - 740-799
+      - 800-850
+      required: true
+    - id: 17
+      name: sales_notes
+      label: Additional Sales Notes
+      hint: Any other requirements or preferences
+      type: text
+      options: []
+      required: false

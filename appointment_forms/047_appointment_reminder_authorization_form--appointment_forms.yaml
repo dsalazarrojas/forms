@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Appointment Reminder Authorization Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: -- Patient/Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: patient_id
+      label: Patient/Account ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: For SMS reminders
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: For email reminders
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: authorization
+      label: -- Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email_reminders
+      label: May we send you email appointment reminders?
+      hint: null
+      type: select_one
+      options:
+      - Yes, authorize
+      - No, do not send
+      required: true
+    - id: 9
+      name: sms_reminders
+      label: May we send you SMS text message reminders?
+      hint: null
+      type: select_one
+      options:
+      - Yes, authorize
+      - No, do not send
+      required: true
+    - id: 10
+      name: phone_call_reminders
+      label: May we send you phone call reminders?
+      hint: null
+      type: select_one
+      options:
+      - Yes, authorize
+      - No, do not send
+      required: true
+    - id: 11
+      name: reminder_timing
+      label: -- Reminder Timing Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: preferred_timing
+      label: When would you prefer to receive reminders?
+      hint: null
+      type: select_one
+      options:
+      - 24 hours before
+      - 12 hours before
+      - Morning of appointment
+      - 2-3 days before
+      - No preference
+      required: false
+    - id: 13
+      name: quiet_hours
+      label: Do not send reminders during these hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: reminder_frequency
+      label: Reminder Frequency
+      hint: How often to send reminders
+      type: select_one
+      options:
+      - Send once
+      - Send reminders until confirmed
+      - Multiple reminders
+      required: false
+    - id: 15
+      name: appointment_confirmation
+      label: -- Appointment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: appointment_date
+      label: Upcoming Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: provider_name
+      label: Provider or Healthcare Professional
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: consent_statement
+      label: -- Consent Statement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: consent_acknowledgment
+      label: I authorize this organization to send me appointment reminders as indicated
+        above
+      hint: null
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 21
+      name: privacy_acknowledgment
+      label: I acknowledge that my contact information will be used only for appointment
+        reminders and related communications
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true

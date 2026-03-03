@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Room Booking Authorization Form
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Requestor Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: employee_id
+      label: Employee ID
+      hint: Staff identification
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: room_requested
+      label: Room Requested
+      hint: Which room
+      type: select_one
+      options:
+      - Conference Room A
+      - Conference Room B
+      - Conference Room C
+      - Board Room
+      - Training Room
+      - Auditorium
+      - Meeting Room 1
+      - Meeting Room 2
+      required: true
+    - id: 7
+      name: booking_date
+      label: Booking Date
+      hint: Date of event
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: start_time
+      label: Start Time
+      hint: Event start
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: end_time
+      label: End Time
+      hint: Event end
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: setup_time
+      label: Setup Time Required
+      hint: Before event
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: event_type
+      label: Event Type
+      hint: Purpose of booking
+      type: select_one
+      options:
+      - Internal Meeting
+      - Client Presentation
+      - Training Session
+      - Interview
+      - Team Building
+      - Conference Call
+      - Workshop
+      - Other
+      required: true
+    - id: 12
+      name: event_title
+      label: Event Title
+      hint: Name of event
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: expected_attendees
+      label: Expected Number of Attendees
+      hint: Headcount
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: room_setup
+      label: Room Setup Preference
+      hint: Layout style
+      type: select_one
+      options:
+      - Boardroom Style
+      - Theater Style
+      - Classroom Style
+      - U-Shape
+      - Hollow Square
+      - Banquet Rounds
+      - Cocktail
+      - No Preference
+      required: true
+    - id: 15
+      name: equipment_needed
+      label: Equipment Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Projector
+      - Screen
+      - Whiteboard
+      - Flip Chart
+      - Video Conferencing
+      - Teleconference
+      - Microphone
+      - Laptop
+      - WiFi
+      - None
+      required: false
+    - id: 16
+      name: catering_required
+      label: Catering Required
+      hint: Food and beverage
+      type: select_one
+      options:
+      - Yes Full Catering
+      - Yes Refreshments Only
+      - No Not Required
+      required: true
+    - id: 17
+      name: catering_details
+      label: Catering Details
+      hint: Specify requirements
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: special_requirements
+      label: Special Requirements
+      hint: Any additional needs
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: parking_needed
+      label: Parking Required
+      hint: Number of spaces
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: access_requirements
+      label: Access Requirements
+      hint: Security or badge needs
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: budget_code
+      label: Budget Code or Cost Center
+      hint: For billing
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: supervisor_name
+      label: Supervisor Name
+      hint: Approving manager
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: supervisor_email
+      label: Supervisor Email
+      hint: For approval
+      type: email
+      options: []
+      required: true
+    - id: 24
+      name: authorization_status
+      label: Authorization Status
+      hint: Approval confirmation
+      type: select_one
+      options:
+      - Authorized and Approved
+      - Pending Approval
+      - Not Authorized
+      required: true
+    - id: 25
+      name: terms_accepted
+      label: I Accept Room Booking Terms
+      hint: Agree to policies
+      type: select_one
+      options:
+      - I Accept
+      - I Do Not Accept
+      required: true

@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Information Release Authorization Form
+    pages:
+    - id: 1
+      name: user_information
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: release_types
+      label: Types of Information
+      hint: null
+      type: select_one
+      options:
+      - Information about the applicant or employee
+      - Information about the spouse
+      - Information about the dependents
+      required: true
+    - id: 3
+      name: purpose_of_release
+      label: Purpose of Release
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: authorized_party
+      label: Authorized Party
+      hint: null
+      type: select_one
+      options:
+      - Company or Business
+      - Government Agency
+      required: true
+    - id: 5
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: signature_time
+      label: Signature Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false

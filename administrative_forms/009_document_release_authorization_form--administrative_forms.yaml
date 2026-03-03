@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Document Release Authorization Form
+    pages:
+    - id: 1
+      name: document_release_authorization_form
+      label: Document Release Authorization Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: document_type
+      label: Document Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: document_status
+      label: Document Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: release_to
+      label: Release To
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: release_time
+      label: Release Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_release
+      label: Reason for Release
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: authorized_by
+      label: Authorized By
+      hint: null
+      type: text
+      options: []
+      required: false

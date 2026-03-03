@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: level_of_care_assessment_form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_dob
+      label: Patient Dob
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: patient_condition
+      label: Patient Condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: care_level
+      label: Care Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 6
+      name: care_level_options
+      label: Care Level Options
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 7
+      name: rehabilitation_program
+      label: Rehabilitation Program
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: rehabilitation_program_options
+      label: Rehabilitation Program Options
+      hint: null
+      type: select_multiple
+      options:
+      - Occupational Therapy
+      - Speech Therapy
+      - Physical Therapy
+      required: false
+    - id: 9
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: facility_city
+      label: Facility City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: facility_state
+      label: Facility State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: facility_zip
+      label: Facility Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: facility_telephone
+      label: Facility Telephone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: healthcare_provider_name
+      label: Healthcare Provider Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: healthcare_provider_title
+      label: Healthcare Provider Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: healthcare_provider_license
+      label: Healthcare Provider License
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: healthcare_provider_facility
+      label: Healthcare Provider Facility
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: healthcare_provider_telephone
+      label: Healthcare Provider Telephone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: level_of_care
+      label: Level Of Care
+      hint: null
+      type: select_one
+      options:
+      - Skilled
+      - Intermediate
+      - Standard
+      required: true
+    - id: 23
+      name: level_of_care_options
+      label: Level Of Care Options
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 24
+      name: discharge_status
+      label: Discharge Status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: true

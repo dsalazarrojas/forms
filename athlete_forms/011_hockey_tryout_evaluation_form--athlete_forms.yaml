@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hockey Tryout Evaluation Form
+    pages:
+    - id: 1
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: position_played
+      label: Position Played
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: skills
+      label: Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: physical_attributes
+      label: Physical Attributes
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
+    - id: 5
+      name: speed
+      label: Speed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: shot_power
+      label: Shot Power
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: goal_tendency
+      label: Goal Tendency
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: overall
+      label: Overall
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

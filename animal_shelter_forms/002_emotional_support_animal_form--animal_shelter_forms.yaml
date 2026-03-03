@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emotional Support Animal Form
+    pages:
+    - id: 1
+      name: animal_type
+      label: Is this a cat
+      hint: null
+      type: select_one
+      options:
+      - Cat
+      - Dog
+      required: true
+    - id: 2
+      name: animal_name
+      label: Pet name
+      hint: The pet's name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: owner_name
+      label: Owner name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: owner_phone
+      label: Owner phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emotional_disability_diagnosis_date
+      label: Disability diagnosis date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: emotional_disability_diagnosis_provider
+      label: Doctor's name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: landlord_consent
+      label: Landlord consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: additional_info
+      label: Additional information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: owner_signature
+      label: Owner signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: landlord_signature
+      label: Landlord signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

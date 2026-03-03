@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Termination Declaration Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: date_of_termination
+      label: Date Of Termination
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: reason_for_termination
+      label: Reason For Termination
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reason_for_termination
+      label: Reason For Termination
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: last_day_of_work
+      label: Last Day Of Work
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: final_payment_date
+      label: Final Payment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: acknowledgement
+      label: Acknowledgement
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: manager_acknowledgement
+      label: Manager Acknowledgement
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Yes''}'
+      - '{''value'': ''No''}'
+      required: true
+    - id: 10
+      name: comments
+      label: Additional Comments
+      hint: Additional comments about the termination
+      type: note
+      options: []
+      required: false

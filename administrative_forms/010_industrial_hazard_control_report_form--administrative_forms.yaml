@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: industrial_hazard_control_report_form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: hazard_id
+      label: Hazard Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: hazard_level
+      label: Hazard Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: date_identified
+      label: Date Identified
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: date_reported
+      label: Date Reported
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: hazard_type
+      label: Hazard Type
+      hint: null
+      type: select_multiple
+      options:
+      - Fire
+      - Chemical
+      - Physical
+      - Biological
+      - Electrical
+      required: true
+    - id: 9
+      name: hazard_description
+      label: Hazard Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: corrective_action
+      label: Corrective Action
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: prevention_method
+      label: Prevention Method
+      hint: null
+      type: select_one
+      options:
+      - Regular inspections
+      - Safety training
+      - Equipment maintenance
+      - Engineering controls
+      - Other
+      required: true
+    - id: 12
+      name: preventive_measures
+      label: Preventive Measures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: reviewer
+      label: Reviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: approver
+      label: Approver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: approved_date
+      label: Approved Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: completed_date
+      label: Completed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - In progress
+      - Resolved
+      - Duplicate
+      - Closed
+      required: true
+    - id: 21
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - In progress
+      - Resolved
+      - Duplicate
+      - Closed
+      required: false
+    - id: 25
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: text
+      options: []
+      required: false

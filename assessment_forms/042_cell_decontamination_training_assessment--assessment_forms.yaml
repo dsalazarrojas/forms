@@ -1,0 +1,247 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cell Decontamination Training Assessment
+    pages:
+      - id: 1
+        name: section_employee_info
+        label: -- Employee Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: employee_name
+        label: Employee Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: employee_id
+        label: Employee ID Number
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: department_section
+        label: Department or Section
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: assessment_date
+        label: Assessment Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: section_training_attendance
+        label: -- Training Attendance --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: training_session_date
+        label: Training Session Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 8
+        name: trainer_name
+        label: Trainer Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: training_attendance
+        label: Training Attendance
+        hint: null
+        type: select_one
+        options:
+          - Full attendance
+          - Most of session
+          - Partial attendance
+          - Absent
+        required: true
+      - id: 10
+        name: section_knowledge_assessment
+        label: -- Knowledge Assessment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: question_1_purpose
+        label: What is the primary purpose of cell decontamination?
+        hint: null
+        type: select_one
+        options:
+          - To eliminate pathogenic organisms and prevent contamination
+          - To improve cell growth rates
+          - To change cell morphology
+          - To increase cell viability
+          - Unsure
+        required: true
+      - id: 12
+        name: question_2_protocol
+        label: Which of the following is a key step in proper cell decontamination?
+        hint: null
+        type: select_one
+        options:
+          - Complete media replacement and cleaning equipment
+          - Adding antibiotics only
+          - Changing incubator temperature
+          - Transferring cells to new dishes
+          - Unsure
+        required: true
+      - id: 13
+        name: question_3_contamination_types
+        label: Common contaminants in cell cultures include
+        hint: null
+        type: select_multiple
+        options:
+          - Bacteria
+          - Fungi
+          - Mycoplasma
+          - Viruses
+          - Precipitation salts
+        required: true
+      - id: 14
+        name: question_4_prevention
+        label: Which practice helps prevent cell culture contamination?
+        hint: null
+        type: select_one
+        options:
+          - Proper aseptic technique and biosafety hood use
+          - Keeping cultures at room temperature
+          - Sharing equipment without cleaning
+          - Working quickly without safety protocols
+          - Unsure
+        required: true
+      - id: 15
+        name: question_5_detection
+        label: How can contamination be detected?
+        hint: null
+        type: select_one
+        options:
+          - Visual inspection for clarity, color changes, and microscopic observation
+          - By cell count alone
+          - Only through genetic testing
+          - Cultures must be discarded first
+          - Unsure
+        required: true
+      - id: 16
+        name: section_procedure_competency
+        label: -- Procedure Competency --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: equipment_handling
+        label: Confidence with decontamination equipment
+        hint: null
+        type: select_one
+        options:
+          - Very Confident
+          - Confident
+          - Somewhat Confident
+          - Not Confident
+          - No experience
+        required: true
+      - id: 18
+        name: aseptic_technique
+        label: Understanding of aseptic technique
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Adequate
+          - Poor
+          - Needs Improvement
+        required: true
+      - id: 19
+        name: safety_protocol
+        label: Adherence to safety protocols
+        hint: null
+        type: select_one
+        options:
+          - Always follows protocols
+          - Usually follows protocols
+          - Sometimes follows protocols
+          - Rarely follows protocols
+          - Never follows protocols
+        required: true
+      - id: 20
+        name: section_feedback
+        label: -- Training Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: training_quality
+        label: Overall Training Quality
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Fair
+          - Poor
+        required: true
+      - id: 22
+        name: material_clarity
+        label: Were training materials clear and comprehensive?
+        hint: null
+        type: select_one
+        options:
+          - Very Clear
+          - Clear
+          - Somewhat Clear
+          - Unclear
+          - Very Unclear
+        required: false
+      - id: 23
+        name: areas_for_improvement
+        label: Areas Needing Improvement in Training
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: additional_support_needed
+        label: Additional Support or Training Needed
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: certification
+        label: I certify understanding of cell decontamination procedures
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: true

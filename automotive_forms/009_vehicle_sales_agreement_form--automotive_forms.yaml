@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: vehicle-sales-agreement-form
+    pages:
+    - id: 1
+      name: buyer_information
+      label: Buyer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_identification
+      label: Vehicle Identification
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_make_model_year
+      label: Vehicle Make and Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: seller_information
+      label: Seller Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: buyer_agreement
+      label: Buyer Agreement
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: false
+    - id: 7
+      name: vehicle_price
+      label: Vehicle Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_features
+      label: Vehicle Features
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: buyer_signature
+      label: Buyer Signature
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: seller_signature
+      label: Seller Signature
+      hint: null
+      type: time
+      options: []
+      required: false

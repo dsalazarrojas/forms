@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Site Orientation Acknowledgement Form
+    pages:
+    - id: 1
+      name: site_orientation_acknowledgement_form
+      label: Site Orientation Form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: name
+      label: Employee/Contractor/Visitor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: acknowledgement_statement
+      label: Acknowledgement Statement
+      hint: Please acknowledge that you have completed the site orientation.
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: acknowledgement_date
+      label: Acknowledgement Date
+      hint: Date of completion of site orientation.
+      type: date
+      options: []
+      required: true

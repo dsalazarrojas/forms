@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baby Clinic Pre Appointment Questionnaire
+    pages:
+    - id: 1
+      name: section_mother_info
+      label: -- Mother Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: mother_name
+      label: Mother's Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: mother_age
+      label: Mother's Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: mother_email
+      label: Mother's Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: mother_phone
+      label: Mother's Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_baby_info
+      label: -- Baby Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: baby_name
+      label: Baby's Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: baby_date_of_birth
+      label: Baby's Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: baby_age_weeks
+      label: Baby's Age (in weeks)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: baby_gender
+      label: Baby's Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Prefer not to say
+      required: false
+    - id: 11
+      name: birth_weight
+      label: Birth Weight (in pounds/kg)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: birth_height
+      label: Birth Length (in inches/cm)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: current_weight
+      label: Current Weight (in pounds/kg)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: section_feeding
+      label: -- Feeding Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: feeding_method
+      label: Feeding Method
+      hint: null
+      type: select_one
+      options:
+      - Exclusively breastfed
+      - Exclusively formula fed
+      - Mixed - breast and formula
+      - Solids started
+      required: true
+    - id: 16
+      name: feeding_frequency
+      label: Feeding Frequency
+      hint: How many times per day?
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: feeding_concerns
+      label: Any Feeding Concerns?
+      hint: Difficulty latching, allergies, etc.
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_health_history
+      label: -- Health History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: pregnancy_complications
+      label: Pregnancy Complications?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: false
+    - id: 20
+      name: delivery_type
+      label: Type of Delivery
+      hint: null
+      type: select_one
+      options:
+      - Vaginal
+      - Cesarean section
+      - Assisted vaginal
+      - Other
+      required: false
+    - id: 21
+      name: current_symptoms
+      label: Current Symptoms or Concerns
+      hint: Rash, fever, feeding issues, etc.
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: allergies
+      label: Known Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: vaccinations_up_to_date
+      label: Vaccinations Up to Date?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - In progress
+      required: false
+    - id: 24
+      name: family_medical_history
+      label: Family Medical History
+      hint: Significant health conditions in family
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: current_medications
+      label: Current Medications or Supplements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: appointment_reason
+      label: Reason for Appointment
+      hint: Why is baby coming in?
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: additional_concerns
+      label: Additional Concerns
+      hint: Any other questions or concerns?
+      type: text
+      options: []
+      required: false

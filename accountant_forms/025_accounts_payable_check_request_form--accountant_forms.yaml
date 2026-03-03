@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accounts Payable Check Request Form
+    pages:
+    - id: 1
+      name: payment_request_header
+      label: -- Payment request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: Name of person requesting payment
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: vendor_name
+      label: Vendor name
+      hint: Name of vendor or payee
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: vendor_contact
+      label: Vendor contact
+      hint: Phone or email for the vendor
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: invoice_number
+      label: Invoice number
+      hint: Reference number from vendor invoice
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: amount_requested
+      label: Amount requested
+      hint: Total amount to be paid
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: currency
+      label: Currency
+      hint: Currency for payment
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      - Other
+      required: true
+    - id: 8
+      name: payment_method
+      label: Payment method
+      hint: Check, EFT or other payment methods
+      type: select_one
+      options:
+      - Check
+      - Bank transfer
+      - ACH
+      required: true
+    - id: 9
+      name: department_charge
+      label: Department charge
+      hint: Department or cost center to charge
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: accounting_code
+      label: Accounting code
+      hint: Ledger or GL code for the expense
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: approval_signature
+      label: Approval signature
+      hint: Type full name to authorize payment
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: approval_date
+      label: Approval date
+      hint: Date of manager approval
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: notes
+      label: Notes
+      hint: Any special payment instructions
+      type: text
+      options: []
+      required: false

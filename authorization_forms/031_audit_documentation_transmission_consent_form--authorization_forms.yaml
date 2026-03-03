@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audit Documentation Transmission Consent Form
+    pages:
+    - id: 1
+      name: requestor_full_name
+      label: Requestor Full Name
+      hint: Legal name of person requesting transmission
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requestor_email
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requestor_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_name
+      label: Organization Name
+      hint: Name of organization or firm
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: consent_date
+      label: Consent Date
+      hint: Date of this consent request
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: audit_period
+      label: Audit Period
+      hint: Period covered by the audit documentation
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: audit_type
+      label: Audit Type
+      hint: Type of audit conducted
+      type: select_one
+      options:
+      - Financial Audit
+      - Internal Audit
+      - Compliance Audit
+      - IT Audit
+      - Operational Audit
+      - Forensic Audit
+      - Other
+      required: true
+    - id: 8
+      name: documentation_description
+      label: Documentation Description
+      hint: Describe the documentation to be transmitted
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: transmission_purpose
+      label: Transmission Purpose
+      hint: What is the purpose of this transmission?
+      type: select_one
+      options:
+      - Regulatory filing
+      - Client request
+      - Legal proceedings
+      - Internal review
+      - External review
+      - Record keeping
+      - Other
+      required: true
+    - id: 10
+      name: recipient_name
+      label: Recipient Name
+      hint: Name of person receiving documentation
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: recipient_organization
+      label: Recipient Organization
+      hint: Organization of recipient
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: recipient_email
+      label: Recipient Email
+      hint: Email address of recipient
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: recipient_relationship
+      label: Recipient Relationship
+      hint: What is the recipient's relationship to the audit?
+      type: select_one
+      options:
+      - Client representative
+      - Regulatory body
+      - Legal counsel
+      - External auditor
+      - Internal stakeholder
+      - Third party vendor
+      - Other
+      required: true
+    - id: 14
+      name: transmission_method
+      label: Transmission Method
+      hint: How will documentation be transmitted?
+      type: select_one
+      options:
+      - Secure email
+      - Encrypted file transfer
+      - Physical mail
+      - Courier service
+      - Secure portal upload
+      - In-person delivery
+      required: true
+    - id: 15
+      name: data_sensitivity
+      label: Data Sensitivity
+      hint: Classification of data being transmitted
+      type: select_one
+      options:
+      - Public
+      - Internal use only
+      - Confidential
+      - Highly confidential
+      - Restricted
+      required: true
+    - id: 16
+      name: confidentiality_agreement
+      label: Confidentiality Agreement
+      hint: Has recipient agreed to confidentiality terms?
+      type: select_one
+      options:
+      - Yes, signed NDA on file
+      - Yes, agreement attached
+      - No, not required
+      - No, pending
+      required: true
+    - id: 17
+      name: retention_period
+      label: Retention Period
+      hint: How long should recipient retain documentation?
+      type: select_one
+      options:
+      - Return after review
+      - 1 year
+      - 3 years
+      - 5 years
+      - 7 years
+      - Permanent
+      required: true
+    - id: 18
+      name: destruction_requirements
+      label: Destruction Requirements
+      hint: Are there specific destruction requirements?
+      type: select_one
+      options:
+      - Yes, certified destruction required
+      - Yes, standard destruction
+      - No, recipient may retain
+      - Other
+      required: true
+    - id: 19
+      name: authorization_confirmed
+      label: Authorization Confirmed
+      hint: I confirm I am authorized to approve this transmission
+      type: select_one
+      options:
+      - Yes, I am authorized
+      - No, I need approval
+      required: true
+    - id: 20
+      name: requestor_signature
+      label: Requestor Signature
+      hint: Type your full name as electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: signature_date
+      label: Signature Date
+      hint: Date of consent
+      type: date
+      options: []
+      required: true

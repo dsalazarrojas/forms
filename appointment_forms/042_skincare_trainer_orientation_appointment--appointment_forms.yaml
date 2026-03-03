@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skincare Trainer Orientation Appointment
+    pages:
+    - id: 1
+      name: schedule_session
+      label: Schedule Session
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Morning'', ''value'': ''morning''}'
+      - '{''label'': ''Afternoon'', ''value'': ''afternoon''}'
+      - '{''label'': ''Evening'', ''value'': ''evening''}'
+      required: true
+    - id: 2
+      name: trainer_background
+      label: Trainer Background
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: topic_preferences
+      label: Topic Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Skincare'', ''value'': ''skincare''}'
+      - '{''label'': ''Haircare'', ''value'': ''haircare''}'
+      - '{''label'': ''Nailcare'', ''value'': ''nailcare''}'
+      required: true
+    - id: 4
+      name: trainer_name
+      label: Trainer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: trainer_email
+      label: Trainer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: salon_or_academy
+      label: Salon or Academy
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Spa'', ''value'': ''spa''}'
+      - '{''label'': ''Salon'', ''value'': ''salon''}'
+      - '{''label'': ''Academy'', ''value'': ''academy''}'
+      required: true
+    - id: 7
+      name: salon_or_academy_address
+      label: Salon or Academy Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: topic
+      label: Topic
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: duration
+      label: Session Duration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: confirm_session
+      label: Confirm Session
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': ''yes''}'
+      - '{''label'': False, ''value'': ''no''}'
+      required: false

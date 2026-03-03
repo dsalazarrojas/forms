@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: navy_flexible_spending_account_fsa_enrollment
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: benefits_eligibility
+      label: Benefits Eligibility
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: benefits_plan
+      label: Benefits Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: amount_allocated
+      label: Amount Allocated
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: frequency
+      label: Frequency
+      hint: null
+      type: number
+      options: []
+      required: false

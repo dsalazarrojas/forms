@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Class Ticket Booking Form
+    pages:
+    - id: 1
+      name: passenger_information
+      label: -- Passenger Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name as it appears on ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name as it appears on ID
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Business or personal email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: passport_number
+      label: Passport or ID Number
+      hint: Government ID number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: travel_details
+      label: -- Travel Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: departure_date
+      label: Departure Date
+      hint: When do you travel?
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: departure_city
+      label: Departure City
+      hint: Departure city or airport code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: destination_city
+      label: Destination City
+      hint: Arrival city or airport code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: return_date
+      label: Return Date
+      hint: Leave blank for one-way ticket
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: number_of_passengers
+      label: Number of Passengers
+      hint: How many business class seats?
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: class_preference
+      label: Preferred Business Class
+      hint: Type of business class
+      type: select_one
+      options:
+      - First Class
+      - Premium Business Class
+      - Standard Business Class
+      required: true
+    - id: 14
+      name: seat_preference
+      label: Seat Preference
+      hint: Where would you prefer to sit?
+      type: select_one
+      options:
+      - Window Seat
+      - Aisle Seat
+      - Center Seat
+      - No Preference
+      required: false
+    - id: 15
+      name: meal_preferences
+      label: Meal Preferences
+      hint: Select all applicable preferences
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Halal
+      - Kosher
+      - None
+      required: false
+    - id: 16
+      name: baggage_section
+      label: -- Baggage Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: checked_bags
+      label: Number of Checked Bags
+      hint: How many bags will you check?
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: carry_on_bags
+      label: Carry-On Bags
+      hint: Number of carry-on bags
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: special_equipment
+      label: Special Equipment or Needs
+      hint: Wheelchair, sports equipment, etc.
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: special_services
+      label: Additional Services
+      hint: Select any special services
+      type: select_multiple
+      options:
+      - Priority Boarding
+      - Lounge Access
+      - Ground Transportation
+      - Hotel Accommodation
+      - Travel Insurance
+      required: false
+    - id: 21
+      name: billing_section
+      label: -- Billing Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: company_name
+      label: Company Name
+      hint: For business billing
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: billing_address
+      label: Billing Address
+      hint: Complete billing address
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay?
+      type: select_one
+      options:
+      - Corporate Credit Card
+      - Personal Credit Card
+      - Bank Transfer
+      - Company Account
+      required: true

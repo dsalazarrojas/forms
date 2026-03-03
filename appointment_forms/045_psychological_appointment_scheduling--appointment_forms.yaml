@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Psychological Appointment Scheduling
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_visit
+      label: reason for visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: preferred_time
+      label: preferred time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: selected_time
+      label: selected time
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: selected_time_2
+      label: selected time 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: preferred_date
+      label: preferred date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: selected_date
+      label: selected date
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

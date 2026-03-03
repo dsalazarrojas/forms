@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Tour Appointment Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: parent_email
+      label: Parent Contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: tour_date
+      label: Tour Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: tour_start_time
+      label: Tour Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: tour_start_time_end_time
+      label: Tour Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: tour_facilitator
+      label: Tour Facilitator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: tour_facilitator_email
+      label: Tour Facilitator Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: tour_facilitator_phone
+      label: Tour Facilitator Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: school_id
+      label: School ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: appointment_id
+      label: Appointment ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: tour_type
+      label: Tour Type
+      hint: null
+      type: select_one
+      options:
+      - School Tour
+      - Group Tour
+      - Private Tour
+      required: false
+    - id: 14
+      name: student_grade
+      label: Student Grade
+      hint: null
+      type: select_multiple
+      options:
+      - 9th Grade
+      - 10th Grade
+      - 11th Grade
+      - 12th Grade
+      - 6th Grade
+      - 7th Grade
+      - 8th Grade
+      - 5th Grade
+      - 4th Grade
+      - 3rd Grade
+      - 2nd Grade
+      - Kindergarten
+      required: false
+    - id: 15
+      name: student_subject
+      label: Student Subject
+      hint: null
+      type: text
+      options: []
+      required: false

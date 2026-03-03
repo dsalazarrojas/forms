@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: health_check_up_appointment_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: doctor_name
+      label: Doctor's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_of_last_checkup
+      label: Date of Last Checkup
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_of_last_checkup
+      label: Time of Last Checkup
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: preferred_doctor
+      label: Preferred Doctor
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Dr. Smith''}'
+      - Dr. Johnson
+      - Dr. Lee
+      required: false
+    - id: 12
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: select_multiple
+      options:
+      - 9:00 AM
+      - 10:00 AM
+      - 11:00 AM
+      required: false
+    - id: 13
+      name: preferred_date
+      label: Preferred Date
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      required: false
+    - id: 14
+      name: medical_specialty
+      label: Medical Specialty
+      hint: null
+      type: select_one
+      options:
+      - Cardiology
+      - Dermatology
+      - Endocrinology
+      required: false
+    - id: 15
+      name: appointment_type
+      label: Appointment Type
+      hint: null
+      type: select_multiple
+      options:
+      - New Patient
+      - Followup
+      - Emergency
+      required: false
+    - id: 16
+      name: appointment_status
+      label: Appointment Status
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Pending
+      - Cancelled
+      required: false
+    - id: 17
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: assigned_doctor
+      label: Assigned Doctor
+      hint: null
+      type: select_one
+      options:
+      - Dr. Smith
+      - Dr. Johnson
+      - Dr. Lee
+      required: false
+    - id: 19
+      name: confirm_doctor
+      label: Confirm Doctor
+      hint: null
+      type: select_one
+      options:
+      - Dr. Smith
+      - Dr. Johnson
+      - Dr. Lee
+      required: false
+    - id: 20
+      name: confirm_date
+      label: Confirm Date
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      required: false
+    - id: 21
+      name: confirm_time
+      label: Confirm Time
+      hint: null
+      type: select_multiple
+      options:
+      - 9:00 AM
+      - 10:00 AM
+      - 11:00 AM
+      required: false
+    - id: 22
+      name: confirm_status
+      label: Confirm Status
+      hint: null
+      type: select_multiple
+      options:
+      - Confirmed
+      - Pending
+      - Cancelled
+      required: false
+    - id: 23
+      name: confirm_reason
+      label: Confirm Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: confirm_notes
+      label: Confirm Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: confirm_appointment
+      label: Confirm Appointment
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

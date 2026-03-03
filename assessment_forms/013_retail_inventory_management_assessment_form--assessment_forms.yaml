@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Inventory Management Assessment Form
+    pages:
+    - id: 1
+      name: store_info
+      label: store_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: location
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''location1''}'
+      - '{''option'': ''location2''}'
+      - '{''option'': ''location3''}'
+      required: false
+    - id: 3
+      name: inventory
+      label: inventory
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: store_hours
+      label: store_hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: contact
+      label: contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''submit1''}'
+      - '{''option'': ''submit2''}'
+      - '{''option'': ''submit3''}'
+      required: false
+    - id: 10
+      name: store_name
+      label: store_name
+      hint: null
+      type: text
+      options: []
+      required: false

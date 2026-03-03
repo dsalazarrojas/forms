@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Arts And Culture Award Nomination Form
+    pages:
+    - id: 1
+      name: nominator_info_header
+      label: -- Nominator Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: nominator_name
+      label: Nominator Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: nominator_email
+      label: Nominator Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: nominee_info_header
+      label: -- Nominee Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: nominee_name
+      label: Nominee Full Name
+      hint: Individual, Group, or Organization
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: award_category
+      label: Award Category
+      hint: null
+      type: select_one
+      options:
+      - Visual Arts Excellence
+      - Performing Arts Achievement
+      - Literary Arts Contribution
+      - Community Cultural Impact
+      - Emerging Artist Award
+      - Lifetime Achievement in Culture
+      required: true
+    - id: 7
+      name: nomination_reason
+      label: Reason for Nomination
+      hint: Explain why this nominee deserves the award
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: key_achievements
+      label: List 3 to 5 Key Achievements
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: supporting_materials
+      label: Link to Supporting Documentation
+      hint: e.g. Portfolio, Website, News Articles
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: relationship_to_nominee
+      label: Your Relationship to the Nominee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submission_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: validation_check
+      label: I certify that the information provided is accurate
+      hint: null
+      type: select_one
+      options:
+      - I Certify
+      - Other
+      required: true

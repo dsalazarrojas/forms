@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book Inventory Information Record Form
+    pages:
+    - id: 1
+      name: record_date
+      label: Record Date
+      hint: Date of this inventory record
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: library_location
+      label: Library Location
+      hint: Which library branch or location
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: book_title
+      label: Book Title
+      hint: Full title of the book
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: author_name
+      label: Author Name
+      hint: Author or authors of the book
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: isbn_number
+      label: ISBN Number
+      hint: ISBN-10 or ISBN-13
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: call_number
+      label: Library Call Number
+      hint: Dewey Decimal or Library of Congress number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: total_copies
+      label: Total Copies in Inventory
+      hint: How many copies do we have
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: available_copies
+      label: Currently Available Copies
+      hint: How many are available for checkout
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: checked_out_copies
+      label: Checked Out Copies
+      hint: How many are currently borrowed
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: publication_year
+      label: Publication Year
+      hint: Year the book was published
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: edition_info
+      label: Edition Information
+      hint: Edition number or year
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: book_condition
+      label: Average Condition of Copies
+      hint: Overall condition of the inventory
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Needs Replacement
+      required: true
+    - id: 13
+      name: acquisition_cost
+      label: Unit Acquisition Cost
+      hint: Cost per copy when acquired
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: last_updated
+      label: Last Updated By
+      hint: Name of staff member who updated this record
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: inventory_notes
+      label: Additional Notes
+      hint: Any special notes about this inventory
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Damage Assessment Report
+    pages:
+    - id: 1
+      name: damage_assessment_form
+      label: Assessment Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: assessor_name
+      label: Assessor Name
+      hint: Enter the name of the individual or organization conducting the assessment
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: assessor_email
+      label: Assessor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: assessor_phone
+      label: Assessor Phone
+      hint: Enter the phone number of the Assessor
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: damage_type
+      label: Damage Type
+      hint: Select one of the following options
+      type: select_one
+      options:
+      - Physical Damage
+      - Property Damage
+      - Financial Loss
+      required: true
+    - id: 6
+      name: damage_date
+      label: Damage Date
+      hint: Date the damage occurred
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: damage_time
+      label: Damage Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: cause_of_damage
+      label: Cause of Damage
+      hint: Describe the cause of the damage
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: description_of_damage
+      label: Description of Damage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: damage_location
+      label: Damage Location
+      hint: Enter the location of the damage
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: estimated_cost
+      label: Estimated Cost
+      hint: Enter the estimated cost of the damage
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: actual_cost
+      label: Actual Cost
+      hint: Enter the actual cost of the damage
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: recommended_action
+      label: Recommended Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: damage_pictures
+      label: Damage Pictures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: damage_videos
+      label: Damage Videos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: damage_audio
+      label: Damage Audio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: damage_documents
+      label: Damage Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: damage_notes
+      label: Damage Notes
+      hint: Enter any notes about the damage
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: damage_attachments
+      label: Damage Attachments
+      hint: Upload any attachments related to the damage
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: damage_certifications
+      label: Damage Certifications
+      hint: Upload any certifications related to the damage
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: damage_agreements
+      label: Damage Agreements
+      hint: Enter any agreements related to the damage
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: damage_denials
+      label: Damage Denials
+      hint: Enter any denials related to the damage
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: damage_comments
+      label: Damage Comments
+      hint: Enter any comments related to the damage
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: damage_agreed_amount
+      label: Agreed Amount
+      hint: Enter the agreed amount
+      type: number
+      options: []
+      required: false

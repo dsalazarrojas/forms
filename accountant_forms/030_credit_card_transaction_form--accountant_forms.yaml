@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Credit Card Transaction Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: transaction_date
+      label: transaction_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: merchant_id
+      label: merchant_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: transaction_status
+      label: transaction_status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Declined
+      - Processed
+      required: true
+    - id: 6
+      name: card_number
+      label: card_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: transaction_note
+      label: transaction_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: customer_note
+      label: customer_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: merchant_note
+      label: merchant_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Check
+      - Credit Card
+      required: true
+    - id: 11
+      name: payment_term
+      label: payment_term
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Annually
+      - Yearly
+      required: false
+    - id: 12
+      name: transaction_reference
+      label: transaction_reference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: merchant_reference
+      label: merchant_reference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: tax
+      label: tax
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: tip
+      label: tip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: total
+      label: total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: sub_total
+      label: sub_total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: vat
+      label: vat
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: vat_total
+      label: vat_total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: card_type
+      label: card_type
+      hint: null
+      type: select_one
+      options:
+      - Credit
+      - Debit
+      - Prepaid
+      required: false
+    - id: 21
+      name: exp_date
+      label: exp_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: card_cvc
+      label: card_cvc
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: cvv
+      label: cvv
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: cvd
+      label: cvd
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: cvc
+      label: cvc
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: QMS Training Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: requester_email
+      label: Requester E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: team_lead_name
+      label: Team Lead Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: training_topic
+      label: Training Topic
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: training_time
+      label: Training Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: training_duration
+      label: Training Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: training_location
+      label: Training Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: requested_resources
+      label: Requested Resources
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: corporate_sustainability_award_nomination_form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: award_title
+      label: Award Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_type
+      label: Company Type
+      hint: null
+      type: select_one
+      options:
+      - Company A
+      - Company B
+      - Company C
+      required: true
+    - id: 4
+      name: company_size
+      label: Company Size
+      hint: null
+      type: select_one
+      options:
+      - 1-10 employees
+      - 11-50 employees
+      - 51-100 employees
+      - 101-500 employees
+      - 501-1000 employees
+      - 1001-5000 employees
+      - 5001+ employees
+      required: true
+    - id: 5
+      name: sustainability_category
+      label: Sustainability Category
+      hint: null
+      type: select_one
+      options:
+      - Category A
+      - Category B
+      - Category C
+      required: true
+    - id: 6
+      name: sustainability_area
+      label: Sustainability Area
+      hint: null
+      type: select_one
+      options:
+      - Area A
+      - Area B
+      - Area C
+      required: true
+    - id: 7
+      name: nominator_name
+      label: Nominator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: nominator_email
+      label: Nominator Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: nominator_phone
+      label: Nominator Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: nomination_date
+      label: Nomination Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

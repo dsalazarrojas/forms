@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cash Flow Tracking Form
+    pages:
+    - id: 1
+      name: tracking_header_section
+      label: -- Tracking Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: tracking_date
+      label: Tracking Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: accountant_name
+      label: Accountant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: month_year
+      label: Month and Year
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: cash_inflows_section
+      label: -- Cash Inflows --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: sales_cash
+      label: Cash Sales
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: receivables_collected
+      label: Collections from Accounts Receivable
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: loan_received
+      label: Loans or Credit Received
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: owner_investment
+      label: Owner Investment or Capital Contribution
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: other_income
+      label: Other Cash Inflows
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: total_inflows
+      label: Total Cash Inflows
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: cash_outflows_section
+      label: -- Cash Outflows --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: supplies_purchases
+      label: Supplies and Materials Purchased
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: payroll
+      label: Payroll and Wages
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: rent_lease
+      label: Rent or Lease Payments
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: utilities
+      label: Utilities and Operating Costs
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: debt_repayment
+      label: Debt Repayment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: tax_payments
+      label: Tax Payments
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: equipment_purchase
+      label: Equipment or Asset Purchases
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: owner_withdrawal
+      label: Owner Withdrawals or Distributions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: other_outflows
+      label: Other Cash Outflows
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: total_outflows
+      label: Total Cash Outflows
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: net_cash_flow
+      label: Net Cash Flow
+      hint: Inflows minus Outflows
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: tracking_notes
+      label: Notes and Observations
+      hint: Any significant transactions or concerns
+      type: text
+      options: []
+      required: false

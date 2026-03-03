@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: kitchen_style_assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_details
+      label: Project Details
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Option 1''}'
+      - '{''value'': ''Option 2''}'
+      - '{''value'': ''Option 3''}'
+      required: true
+    - id: 3
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: preferred_layouts
+      label: Preferred Layouts
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Option 1''}'
+      - '{''value'': ''Option 2''}'
+      - '{''value'': ''Option 3''}'
+      required: true
+    - id: 5
+      name: preferred_furniture_styles
+      label: Preferred Furniture Styles
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Option 1''}'
+      - '{''value'': ''Option 2''}'
+      - '{''value'': ''Option 3''}'
+      required: true
+    - id: 6
+      name: kitchen_size
+      label: Kitchen Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: expected_project_completion_date
+      label: Expected Project Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: showroom_location
+      label: Showroom Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: showroom_phone
+      label: Showroom Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: showroom_email
+      label: Showroom Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: showroom_website
+      label: Showroom Website
+      hint: null
+      type: text
+      options: []
+      required: false

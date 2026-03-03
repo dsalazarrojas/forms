@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: ประก Rdv Peds Authorization For Medical Treatment
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: authorization_date
+      label: Authorization Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: authorization_type
+      label: Authorization Type
+      hint: null
+      type: select_one
+      options:
+      - Authorization for treatment
+      - Authorization for surgery
+      - Authorization for other procedures
+      required: true
+    - id: 5
+      name: authorization_period
+      label: Authorization Period
+      hint: null
+      type: select_multiple
+      options:
+      - Authorization for 24 hours
+      - Authorization for 72 hours
+      - Authorization for other periods
+      required: true
+    - id: 6
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: medical_facility
+      label: Medical Facility
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

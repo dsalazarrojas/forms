@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cake Pricing Overview
+    pages:
+    - id: 1
+      name: customer_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For pricing estimate
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: inquiry_date
+      label: Inquiry Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: event_date
+      label: Event Date
+      hint: When is your event
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: event_type
+      label: Event Type
+      hint: What occasion
+      type: select_one
+      options:
+      - Birthday
+      - Wedding
+      - Anniversary
+      - Graduation
+      - Baby shower
+      - Bridal shower
+      - Corporate event
+      - Holiday
+      - Other
+      required: true
+    - id: 7
+      name: number_of_guests
+      label: Number of Guests
+      hint: How many will be served
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: cake_type
+      label: Cake Type
+      hint: What type of cake
+      type: select_one
+      options:
+      - Layer cake
+      - Sheet cake
+      - Tiered cake
+      - Cupcakes
+      - Cake pops
+      - Custom sculpted
+      - Not sure
+      required: true
+    - id: 9
+      name: cake_size_preference
+      label: Cake Size Preference
+      hint: Approximate size needed
+      type: select_one
+      options:
+      - Small (up to 20 servings)
+      - Medium (20-50 servings)
+      - Large (50-100 servings)
+      - Extra Large (100+ servings)
+      - Not sure
+      required: false
+    - id: 10
+      name: flavor_preferences
+      label: Flavor Preferences
+      hint: Flavors you are considering
+      type: select_multiple
+      options:
+      - Vanilla
+      - Chocolate
+      - Red Velvet
+      - Lemon
+      - Strawberry
+      - Carrot
+      - Coconut
+      - Marble
+      - Funfetti
+      required: false
+    - id: 11
+      name: design_complexity
+      label: Design Complexity
+      hint: How elaborate should design be
+      type: select_one
+      options:
+      - Simple decoration
+      - Moderate decoration
+      - Elaborate design
+      - Custom sculpted
+      - Not sure
+      required: true
+    - id: 12
+      name: special_features
+      label: Special Features
+      hint: Any special additions
+      type: select_multiple
+      options:
+      - Fresh flowers
+      - Edible images
+      - Fondant decorations
+      - Hand-painted details
+      - Gold or silver leaf
+      - LED lights
+      - Cake topper
+      - None
+      required: false
+    - id: 13
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any special dietary needs
+      type: select_multiple
+      options:
+      - None
+      - Gluten-free
+      - Dairy-free
+      - Vegan
+      - Nut-free
+      - Egg-free
+      - Sugar-free
+      required: false
+    - id: 14
+      name: delivery_needed
+      label: Delivery Needed
+      hint: Do you need delivery
+      type: select_one
+      options:
+      - Yes, delivery required
+      - No, will pickup
+      - Maybe
+      required: true
+    - id: 15
+      name: delivery_address
+      label: Delivery Address
+      hint: If delivery, where to
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: delivery_distance
+      label: Delivery Distance
+      hint: How far from bakery
+      type: select_one
+      options:
+      - Under 5 miles
+      - 5-10 miles
+      - 10-20 miles
+      - Over 20 miles
+      - Not applicable
+      required: false
+    - id: 17
+      name: budget_range
+      label: Budget Range
+      hint: Approximate budget
+      type: select_one
+      options:
+      - Under $100
+      - $100-$250
+      - $250-$500
+      - $500-$750
+      - $750-$1,000
+      - Over $1,000
+      - Flexible
+      required: false
+    - id: 18
+      name: timeline_flexibility
+      label: Timeline Flexibility
+      hint: How flexible is your date
+      type: select_one
+      options:
+      - Not flexible
+      - Somewhat flexible
+      - Very flexible
+      required: false
+    - id: 19
+      name: consultation_preference
+      label: Consultation Preference
+      hint: How would you like to discuss details
+      type: select_one
+      options:
+      - In person
+      - Phone call
+      - Video call
+      - Email only
+      required: false
+    - id: 20
+      name: additional_requests
+      label: Additional Requests
+      hint: Any other questions or notes
+      type: text
+      options: []
+      required: false

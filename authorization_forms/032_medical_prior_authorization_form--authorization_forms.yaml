@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Prior Authorization Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: medical_provider
+      label: Medical Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: procedure
+      label: Procedure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_service
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: medical_group
+      label: Medical Group
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: medical_group_options
+      label: Medical Group Options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: request_time
+      label: Request Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: authorized_by
+      label: Authorized By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: authorized_date
+      label: Authorized Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: medical_department
+      label: Medical Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: doctor_name
+      label: Doctor’s Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: medical_care_provider
+      label: Medical Care Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: procedure_date
+      label: Procedure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: authorization_reason
+      label: Authorization Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: medical_care_type
+      label: Medical Care Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: medical_care_type_options
+      label: Medical Care Type Options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: request_status
+      label: Request Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 22
+      name: request_status_options
+      label: Request Status Options
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 23
+      name: patient_age
+      label: Patient Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: medical_care_level
+      label: Medical Care Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 25
+      name: medical_care_level_options
+      label: Medical Care Level Options
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false

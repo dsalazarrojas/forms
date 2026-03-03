@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Actor Performance Reassessment Request Form
+    pages:
+    - id: 1
+      name: --request_details
+      label: -- Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: Person submitting this request
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: actor_name
+      label: Actor name
+      hint: Full name of actor to reassess
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: role_or_production
+      label: Role or production
+      hint: Which role or production relates to this request
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_reassessment
+      label: Reason for reassessment
+      hint: Provide a brief rationale
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: requested_outcome
+      label: Requested outcome
+      hint: What outcome are you requesting
+      type: select_one
+      options: [Performance notes, Full reassessment, Coaching referral]
+      required: true
+    - id: 7
+      name: supporting_documents
+      label: Supporting documents description
+      hint: List any attachments or evidence submitted
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: urgency
+      label: Urgency level
+      hint: Select how urgent this request is
+      type: select_one
+      options: [Routine, Priority, Immediate]
+      required: true
+    - id: 9
+      name: preferred_contact
+      label: Preferred contact method
+      hint: Best way to reach the requester
+      type: select_one
+      options: [Email, Phone]
+      required: true
+    - id: 10
+      name: additional_notes
+      label: Additional notes
+      hint: Any further context for reviewers
+      type: text
+      options: []
+      required: false

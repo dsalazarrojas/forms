@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Systems Evaluation Checklist
+    pages:
+    - id: 1
+      name: project_managers
+      label: Project Managers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: it_teams
+      label: IT Teams
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: evaluation_date
+      label: Evaluation Date
+      hint: Select a date within 30 days
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: evaluation_time
+      label: Evaluation Time
+      hint: Select a time
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: evaluation_score
+      label: Evaluation Score
+      hint: Select a score between 1 and 10
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: Provide feedback
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: evaluation_score_2
+      label: Evaluation Score 2
+      hint: Select a score between 1 and 10
+      type: number
+      options: []
+      required: false

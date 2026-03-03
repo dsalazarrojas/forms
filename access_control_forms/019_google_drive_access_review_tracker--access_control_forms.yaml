@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Google Drive Access Review Tracker
+    pages:
+    - id: 1
+      name: form_name
+      label: form name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: access_type
+      label: access type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Read/Write'', ''description'': ''Read/Write''}'
+      - '{''id'': 2, ''name'': ''Read Only'', ''description'': ''Read Only''}'
+      - '{''id'': 3, ''name'': ''Deny'', ''description'': ''Deny''}'
+      required: false
+    - id: 3
+      name: request_date
+      label: request date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reviewer_comments
+      label: reviewer comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reviewer_name
+      label: reviewer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reviewer_email
+      label: reviewer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: reviewer_phone
+      label: reviewer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reviewer_organisation
+      label: reviewer organisation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reviewer_title
+      label: reviewer title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: requestor
+      label: requestor
+      hint: null
+      type: text
+      options: []
+      required: false

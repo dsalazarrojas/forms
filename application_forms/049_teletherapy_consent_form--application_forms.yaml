@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: teletherapy_consent_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: email_confirmation
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: therapy_goals
+      label: Therapy Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: informed_consent
+      label: Informed Consent
+      hint: null
+      type: select_one
+      options:
+      - I have read and understand the form
+      - Other
+      required: true
+    - id: 9
+      name: signed
+      label: Signed
+      hint: null
+      type: select_one
+      options:
+      - Yes|No
+      - Other
+      required: true
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

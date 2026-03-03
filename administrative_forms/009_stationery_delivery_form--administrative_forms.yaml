@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stationery Delivery Form
+    pages:
+    - id: 1
+      name: stationery_type
+      label: Stationery Type
+      hint: null
+      type: select_one
+      options:
+      - A4 Paper
+      - Bond Paper
+      - Cards
+      - Envelopes
+      - Notebooks
+      - Pens
+      - Pencils
+      required: false
+    - id: 2
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: delivery_note
+      label: Delivery Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: order_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: stationery_items
+      label: Additional Stationery Items
+      hint: null
+      type: select_multiple
+      options:
+      - Calculator
+      - Calculator battery
+      - Calculator pen holder
+      - Calculator with stylus
+      required: false

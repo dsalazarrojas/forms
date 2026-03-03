@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: mathematics_integral_assessment
+    pages:
+    - id: 1
+      name: mathematics_integral_assessment_1
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: mathematics_integral_assessment_2
+      label: integral_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: mathematics_integral_assessment_3
+      label: assessment_method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: mathematics_integral_assessment_4
+      label: student_grade
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      - D
+      - E
+      required: false
+    - id: 5
+      name: mathematics_integral_assessment_5
+      label: student_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: mathematics_integral_assessment_6
+      label: parent_involvement
+      hint: null
+      type: text
+      options: []
+      required: false

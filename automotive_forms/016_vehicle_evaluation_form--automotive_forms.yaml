@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Evaluation Form
+    pages:
+    - id: 1
+      name: vehicle_name
+      label: Vehicle Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - car
+      - truck
+      - SUV
+      - van
+      - motorcycle
+      required: false
+    - id: 3
+      name: make
+      label: Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: model
+      label: Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: year
+      label: Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: condition
+      label: Condition
+      hint: null
+      type: select_multiple
+      options:
+      - new
+      - used
+      - certified_pre-owned
+      - lease
+      required: false
+    - id: 7
+      name: mileage
+      label: Mileage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: rating
+      label: Rating
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Subway Safety Incident Form
+    pages:
+    - id: 1
+      name: safety_incident
+      label: Safety Incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: cause_of_incident
+      label: Cause of Incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: actions_taken
+      label: Actions Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: actions_planned
+      label: Actions Planned
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: safety_measures_taken
+      label: Safety Measures Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: safety_measures_planned
+      label: Safety Measures Planned
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: safety_measures_results
+      label: Safety Measures Results
+      hint: null
+      type: text
+      options: []
+      required: false

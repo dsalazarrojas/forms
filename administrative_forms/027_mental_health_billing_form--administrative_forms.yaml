@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: mental_health_billing_form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: billing_date
+      label: Billing Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: client_id
+      label: Client ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Client Credit Card
+      - Electronic Funds Transfer
+      - Check
+      - Insurance
+      required: false
+    - id: 5
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Approved
+      - Denied
+      - Refunded
+      required: false
+    - id: 6
+      name: payment_total
+      label: Payment Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_one
+      options:
+      - One-time
+      - Recurring
+      required: false
+    - id: 8
+      name: billing_provider_name
+      label: Billing Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: billing_provider_address
+      label: Billing Provider Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: billing_provider_phone
+      label: Billing Provider Phone
+      hint: null
+      type: text
+      options: []
+      required: false

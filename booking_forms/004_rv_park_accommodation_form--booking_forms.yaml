@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: RV Park Accommodation Form
+    pages:
+    - id: 1
+      name: park_name
+      label: Park Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: arrival_date
+      label: Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: departure_date
+      label: Departure Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: number_guests
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: accommodation_type
+      label: Accommodation Type
+      hint: null
+      type: select_one
+      options:
+      - Motor Home
+      - Trailer
+      - Cabins
+      - RV Park
+      - Tent
+      - Other
+      required: true
+    - id: 8
+      name: accommodation_type_other
+      label: Accommodation Type (Other)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: reservation_start
+      label: Reservation Start
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: reservation_end
+      label: Reservation End
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: reservation_notes
+      label: Reservation Notes
+      hint: null
+      type: note
+      options: []
+      required: false

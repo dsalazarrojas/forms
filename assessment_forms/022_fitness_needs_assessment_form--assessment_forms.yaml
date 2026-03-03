@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Needs Assessment Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: fitness_goal
+      label: fitness goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: weight
+      label: weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: physical_activity_level
+      label: physical activity level
+      hint: null
+      type: select_one
+      options:
+      - sedentary
+      - lightly active
+      - moderately active
+      - highly active
+      required: false
+    - id: 10
+      name: medical_conditions
+      label: medical conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: health_insurance_provider
+      label: health insurance provider
+      hint: null
+      type: text
+      options: []
+      required: false

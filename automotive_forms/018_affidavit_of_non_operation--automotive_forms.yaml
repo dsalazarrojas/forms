@@ -1,0 +1,284 @@
+inputSchema:
+  type: object
+  properties:
+    title: Affidavit Of Non Operation
+    pages:
+    - id: 1
+      name: affiant_information_section
+      label: Affiant Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: affiant_full_name
+      label: Full Name
+      hint: Enter your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: affiant_address
+      label: Address
+      hint: Your current residential or mailing address
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: affiant_city_state_zip
+      label: City, State, ZIP Code
+      hint: City, state, and ZIP code of your address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: affiant_phone
+      label: Phone Number
+      hint: Your primary phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: affiant_email
+      label: Email Address
+      hint: Your email address for communication
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_information_section
+      label: Vehicle Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_year_make_model
+      label: Year, Make, and Model
+      hint: Year, make, and model of the vehicle
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: vehicle_vin
+      label: Vehicle Identification Number (VIN)
+      hint: Complete 17-character VIN of the vehicle
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: vehicle_license_plate
+      label: License Plate Number
+      hint: Current license plate number of the vehicle
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: vehicle_registration_state
+      label: State of Registration
+      hint: State where the vehicle is registered
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Florida
+      - Georgia
+      - Hawaii
+      - Idaho
+      - Illinois
+      - Indiana
+      - Iowa
+      - Kansas
+      - Kentucky
+      - Louisiana
+      - Maine
+      - Maryland
+      - Massachusetts
+      - Michigan
+      - Minnesota
+      - Mississippi
+      - Missouri
+      - Montana
+      - Nebraska
+      - Nevada
+      - New Hampshire
+      - New Jersey
+      - New Mexico
+      - New York
+      - North Carolina
+      - North Dakota
+      - Ohio
+      - Oklahoma
+      - Oregon
+      - Pennsylvania
+      - Rhode Island
+      - South Carolina
+      - South Dakota
+      - Tennessee
+      - Texas
+      - Utah
+      - Vermont
+      - Virginia
+      - Washington
+      - West Virginia
+      - Wisconsin
+      - Wyoming
+      required: true
+    - id: 12
+      name: non_operation_period_section
+      label: Non-Operation Period
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: non_operation_start_date
+      label: Start Date of Non-Operation
+      hint: Date when the vehicle stopped being operated
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: non_operation_end_date
+      label: End Date of Non-Operation
+      hint: Date when the vehicle will resume operation (if known)
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: reason_for_non_operation
+      label: Reason for Non-Operation
+      hint: What is the reason the vehicle is not being operated?
+      type: select_one
+      options:
+      - Mechanical Issues
+      - Storage/Seasonal
+      - Financial Reasons
+      - Replacement Vehicle
+      - Inactive Military Duty
+      - Extended Travel
+      - Insurance Lapse
+      - Registration Expired
+      - Other
+      required: true
+    - id: 16
+      name: reason_details_other
+      label: Details of Reason (Other)
+      hint: If other reason selected, please specify
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: storage_location
+      label: Storage Location
+      hint: Where is the vehicle currently stored?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: insurance_status
+      label: Insurance Status
+      hint: Is the vehicle currently insured?
+      type: select_one
+      options:
+      - true
+      - false
+      - Cancelled
+      - Suspended
+      required: true
+    - id: 19
+      name: registration_status
+      label: Registration Status
+      hint: Is the vehicle's registration current?
+      type: select_one
+      options:
+      - Current
+      - Expired
+      - Suspended
+      - Cancelled
+      required: true
+    - id: 20
+      name: affidavit_statements_section
+      label: Affidavit Statements
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: statement_vehicle_not_operated
+      label: Statement - Vehicle Not Operated
+      hint: I hereby declare that the above described vehicle has not been operated
+        on public roads during the specified period
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: statement_no_claims
+      label: Statement - No Claims
+      hint: I declare that no claims have been made regarding this vehicle during
+        the non-operation period
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: statement_intent_to_resume
+      label: Statement - Intent to Resume Operation
+      hint: I declare my intent to resume operation of this vehicle when the non-operation
+        period ends
+      type: select_one
+      options:
+      - true
+      - false
+      - Uncertain
+      required: false
+    - id: 24
+      name: statement_accuracy_declaration
+      label: Statement - Accuracy Declaration
+      hint: I declare that all information provided in this affidavit is true and
+        accurate to the best of my knowledge
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: notarization_section
+      label: Notarization
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: notarization_required
+      label: Notarization Required
+      hint: Does this affidavit require notarization in your jurisdiction?
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 27
+      name: affiant_signature
+      label: Affiant Signature
+      hint: Electronic signature of the affiant
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: signature_date
+      label: Date of Signature
+      hint: Date when the affidavit is signed
+      type: date
+      options: []
+      required: true

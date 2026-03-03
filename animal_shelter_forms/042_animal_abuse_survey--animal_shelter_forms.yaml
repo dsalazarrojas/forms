@@ -1,0 +1,72 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Animal Abuse Survey
+    pages:
+    - id: 1
+      name: section_report_information
+      label: -- Report Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reporter_name
+      label: Reporter name
+      hint: Optional to remain anonymous
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: For follow up if provided
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: incident_location
+      label: Incident location
+      hint: Where the incident occurred
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: incident_date
+      label: Incident date
+      hint: Date of abuse or neglect
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: animal_description
+      label: Animal description
+      hint: Breed, color, size
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: evidence_available
+      label: Evidence available
+      hint: Photos or witness contact
+      type: select_one
+      options: [Yes, No]
+      required: false
+    - id: 8
+      name: additional_details
+      label: Additional details
+      hint: Describe the situation
+      type: text
+      options: []
+      required: false

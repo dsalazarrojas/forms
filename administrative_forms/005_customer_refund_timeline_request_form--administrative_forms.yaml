@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Refund Timeline Request Form
+    pages:
+    - id: 1
+      name: customer_refund_timeline_request_form
+      label: Submit Request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: request_reason
+      label: Reason for Refund
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_refund_timeline_request_form_details
+      label: Refund Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_refund_request_date
+      label: Refund Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: customer_refund_request_status
+      label: Refund Request Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: customer_refund_request_amount
+      label: Refund Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: customer_refund_request_comments
+      label: Refund Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_refund_request_files
+      label: Refund Supporting Documents
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: customer_refund_request_follow_up
+      label: Follow up
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

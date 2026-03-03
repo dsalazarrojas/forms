@@ -1,0 +1,82 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Book Character Casting Form
+    pages:
+      - id: 1
+        name: audition_header
+        label: -- Audition Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: actor_name
+        label: Actor name
+        hint: Stage or legal name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: contact_email
+        label: Contact email
+        hint: For casting notifications
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: role_interested_in
+        label: Role interested in
+        hint: Character name or description
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: age_range
+        label: Age range
+        hint: Performer age or appearance range
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: headshot_link
+        label: Headshot link
+        hint: URL to headshot or portfolio
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: availability
+        label: Availability
+        hint: Dates and times available for rehearsal and recording
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: experience_notes
+        label: Experience notes
+        hint: Past roles or training
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: audition_location_preference
+        label: Audition location preference
+        hint: In person or virtual preference
+        type: select_one
+        options:
+          - In person
+          - Virtual
+          - Either
+        required: true

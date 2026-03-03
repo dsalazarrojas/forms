@@ -1,0 +1,112 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: job_interview_form
+      label: <string>
+      hint: <string or null>
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: candidate_name
+      label: Candidate Name
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_interview_date
+      label: Job Interview Date
+      hint: 'null'
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: interview_start_time
+      label: Interview Start Time
+      hint: 'null'
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: interviewer_name
+      label: Interviewer Name
+      hint: <string or null>
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: candidate_skills
+      label: Candidate Skills
+      hint: 'null'
+      type: select_multiple
+      options:
+      - Front-end Development
+      - Back-end Development
+      - Full-stack Development
+      - Artificial Intelligence
+      - Machine Learning
+      - Data Science
+      - Cloud Computing
+      - Cyber Security
+      - Data Analytics
+      - Web Development
+      - Mobile Development
+      - Software Development
+      - Database Development
+      - System Administration
+      - Network Administration
+      - Cyber Security
+      - DevOps
+      - Network Development
+      - Artificial Intelligence
+      - Mobile Development
+      - Data Analysis
+      required: false
+    - id: 7
+      name: company
+      label: Company
+      hint: <string or null>
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_type
+      label: Job Type
+      hint: 'null'
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Intern
+      - Contract
+      - Freelance
+      required: true
+    - id: 9
+      name: job_title
+      label: Job Title
+      hint: <string or null>
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: job_summary
+      label: Job Summary
+      hint: <string or null>
+      type: note
+      options: []
+      required: false

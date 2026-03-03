@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Monitoring Access Request Form
+    pages:
+    - id: 1
+      name: requester_info
+      label: Requester Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: monitor_type
+      label: Monitor Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Monitoring System'', ''label'': ''Monitoring System''}'
+      - '{''value'': ''Smart Monitoring System'', ''label'': ''Smart Monitoring System''}'
+      required: false
+    - id: 3
+      name: system_info
+      label: System Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: access_level
+      label: Access Level
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Read-Only'', ''label'': ''Read-Only''}'
+      - '{''value'': ''Read/Write'', ''label'': ''Read/Write''}'
+      required: false
+    - id: 5
+      name: access_reason
+      label: Access Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''One-off'', ''label'': ''One-off''}'
+      - '{''value'': ''Recurring'', ''label'': ''Recurring''}'
+      required: false
+    - id: 8
+      name: frequency_unit
+      label: Frequency Unit
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Days'', ''label'': ''Days''}'
+      - '{''value'': ''Weeks'', ''label'': ''Weeks''}'
+      required: false
+    - id: 9
+      name: frequency_date
+      label: Frequency Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: access_start
+      label: Access Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: access_end
+      label: End of Access
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: null
+      type: note
+      options: []
+      required: false

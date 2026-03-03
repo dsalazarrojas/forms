@@ -1,0 +1,233 @@
+inputSchema:
+  type: object
+  properties:
+    title: Data Analysis Skills Assessment Form
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: What is your experience level with data visualization tools?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''beginner''}'
+      - '{''id'': 2, ''name'': ''intermediate''}'
+      - '{''id'': 3, ''name'': ''advanced''}'
+      required: false
+    - id: 3
+      name: question_2
+      label: How often do you use SQL databases?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''seldom''}'
+      - '{''id'': 2, ''name'': ''occasionally''}'
+      - '{''id'': 3, ''name'': ''often''}'
+      - '{''id'': 4, ''name'': ''always''}'
+      required: false
+    - id: 4
+      name: question_3
+      label: What is your experience with big data analytics?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: question_4
+      label: How many years of experience do you have with Python programming?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: question_5
+      label: What is your experience with machine learning algorithms?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''none''}'
+      - '{''id'': 2, ''name'': ''some''}'
+      - '{''id'': 3, ''name'': ''extensive''}'
+      required: false
+    - id: 7
+      name: question_6
+      label: Have you ever worked with data visualization software?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false
+    - id: 8
+      name: question_7
+      label: What is your experience with statistical modeling techniques?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''basic''}'
+      - '{''id'': 2, ''name'': ''intermediate''}'
+      - '{''id'': 3, ''name'': ''advanced''}'
+      required: false
+    - id: 9
+      name: question_8
+      label: Do you have experience with data mining techniques?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': False}'
+      - '{''id'': 2, ''name'': True}'
+      required: false
+    - id: 10
+      name: question_9
+      label: How do you handle a dataset with missing values?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''omit missing values''}'
+      - '{''id'': 2, ''name'': ''replace with mean''}'
+      - '{''id'': 3, ''name'': ''ignore''}'
+      required: false
+    - id: 11
+      name: question_10
+      label: What is your experience with cloud-based data platforms?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''none''}'
+      - '{''id'': 2, ''name'': ''some''}'
+      - '{''id'': 3, ''name'': ''extensive''}'
+      required: false
+    - id: 12
+      name: question_11
+      label: How much time do you have available to dedicate to learning more about
+        data analysis?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: question_12
+      label: Do you work with data in a team environment?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false
+    - id: 14
+      name: question_13
+      label: Have you had experience with working with data in an Excel environment?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false
+    - id: 15
+      name: question_14
+      label: What is your experience with data quality control?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''basic''}'
+      - '{''id'': 2, ''name'': ''intermediate''}'
+      - '{''id'': 3, ''name'': ''advanced''}'
+      required: false
+    - id: 16
+      name: question_15
+      label: How much time do you spend learning new data analysis techniques?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: question_16
+      label: Do you prefer working with structured or unstructured data?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''structured''}'
+      - '{''id'': 2, ''name'': ''unstructured''}'
+      required: false
+    - id: 18
+      name: question_17
+      label: Have you ever worked with data visualization tools like Tableau, Power
+        BI, or Domo?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': False}'
+      - '{''id'': 2, ''name'': True}'
+      required: false
+    - id: 19
+      name: question_18
+      label: Do you have any experience with SQL Server database management?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': False}'
+      - '{''id'': 2, ''name'': True}'
+      required: false
+    - id: 20
+      name: question_19
+      label: What is your experience with database modeling?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''none''}'
+      - '{''id'': 2, ''name'': ''some''}'
+      - '{''id'': 3, ''name'': ''extensive''}'
+      required: false
+    - id: 21
+      name: question_20
+      label: Do you have any experience with data warehousing?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': False}'
+      - '{''id'': 2, ''name'': True}'
+      required: false
+    - id: 22
+      name: question_21
+      label: What is your experience with data quality control?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''basic''}'
+      - '{''id'': 2, ''name'': ''intermediate''}'
+      - '{''id'': 3, ''name'': ''advanced''}'
+      required: false
+    - id: 23
+      name: question_22
+      label: Do you have experience with data visualization tools like Qlik or SAS?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': False}'
+      - '{''id'': 2, ''name'': True}'
+      required: false
+    - id: 24
+      name: question_23
+      label: What is your experience with data modeling?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''none''}'
+      - '{''id'': 2, ''name'': ''some''}'
+      - '{''id'': 3, ''name'': ''extensive''}'
+      required: false
+    - id: 25
+      name: question_24
+      label: Do you have experience with data governance?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': False}'
+      - '{''id'': 2, ''name'': True}'
+      required: false

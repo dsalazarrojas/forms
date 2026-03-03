@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dangerous Goods Management COVID-19 Risk Assessment
+    pages:
+    - id: 1
+      name: arrival_arrival
+      label: arrival
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: arrival_date
+      label: arrival_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: arrival_time
+      label: arrival_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: goods_description
+      label: goods_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: goods_weight
+      label: goods_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: dangerous_goods
+      label: dangerous_goods
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: risk_assessment
+      label: risk_assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: special_equipment
+      label: special_equipment
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: staff_information
+      label: staff_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false

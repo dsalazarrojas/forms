@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book Award Application Form
+    pages:
+    - id: 1
+      name: author_info
+      label: -- Author and Book Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: author_name
+      label: Author name
+      hint: Full name of author
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: For notification
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: book_title
+      label: Book title
+      hint: Exact book title
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: genre
+      label: Genre
+      hint: Select primary genre
+      type: select_one
+      options:
+      - Fiction
+      - Non fiction
+      - Poetry
+      - Children
+      - Young adult
+      required: true
+    - id: 6
+      name: publication_year
+      label: Publication year
+      hint: Year published
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: brief_synopsis
+      label: Brief synopsis
+      hint: Short description of the book
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: previous_awards
+      label: Previous awards
+      hint: List any prior recognitions
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: declaration
+      label: Declaration of originality
+      hint: Confirm the work is original
+      type: select_one
+      options:
+      - I confirm
+      - I do not confirm
+      required: true

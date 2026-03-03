@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: security_access_control_form
+    pages:
+    - id: 1
+      name: access_request
+      label: Access Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - Request
+      - Approval
+      - Deny
+      required: false
+    - id: 3
+      name: access_level
+      label: Access Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: requestor
+      label: Requestor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: Please provide a detailed description of the access request
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: form_id
+      label: Form ID
+      hint: Unique identifier for this form instance
+      type: number
+      options: []
+      required: false

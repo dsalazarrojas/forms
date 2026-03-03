@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transportation Incident Form
+    pages:
+    - id: 1
+      name: transportation_incident_form_page_1
+      label: Transportation Incident
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: incident_cause
+      label: Incident Cause
+      hint: null
+      type: select_one
+      options:
+      - First option
+      - Second option
+      - Third option
+      required: true
+    - id: 8
+      name: incident_outcome
+      label: Incident Outcome
+      hint: null
+      type: select_multiple
+      options:
+      - First
+      - Second
+      - Third
+      required: true
+    - id: 9
+      name: incident_reported_by
+      label: Incident Reported By
+      hint: null
+      type: select_one
+      options:
+      - First option
+      - Second option
+      - Third option
+      required: true
+    - id: 10
+      name: incident_reporter_contact
+      label: Incident Reporter Contact
+      hint: null
+      type: select_multiple
+      options:
+      - First
+      - Second
+      - Third
+      required: true
+    - id: 11
+      name: incident_reporter_email
+      label: Incident Reporter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: incident_reporter_phone
+      label: Incident Reporter Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: incident_reporter_job_title
+      label: Incident Reporter Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: incident_reported_by_department
+      label: Incident Reported By Department
+      hint: null
+      type: select_one
+      options:
+      - First
+      - Second
+      - Third
+      required: true
+    - id: 15
+      name: incident_reported_by_team
+      label: Incident Reported By Team
+      hint: null
+      type: select_multiple
+      options:
+      - First
+      - Second
+      - Third
+      required: true
+    - id: 16
+      name: incident_resolution
+      label: Incident Resolution
+      hint: null
+      type: select_one
+      options:
+      - First
+      - Second
+      - Third
+      required: true
+    - id: 17
+      name: incident_resolution_notes
+      label: Incident Resolution Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: incident_reviewed_by
+      label: Incident Reviewed By
+      hint: null
+      type: select_multiple
+      options:
+      - First
+      - Second
+      - Third
+      required: true
+    - id: 19
+      name: incident_reviewed_by_department
+      label: Incident Reviewed By Department
+      hint: null
+      type: select_one
+      options:
+      - First
+      - Second
+      - Third
+      required: true
+    - id: 20
+      name: incident_reviewed_by_comments
+      label: Incident Reviewed By Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: incident_reviewer
+      label: Incident Reviewer
+      hint: null
+      type: select_one
+      options:
+      - First
+      - Second
+      - Third
+      required: true
+    - id: 22
+      name: incident_reviewer_comments
+      label: Incident Reviewer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: incident_review_date
+      label: Incident Review Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: incident_reviewer_department
+      label: Incident Reviewer Department
+      hint: null
+      type: select_one
+      options:
+      - First
+      - Second
+      - Third
+      required: true
+    - id: 25
+      name: incident_reviewer_job_title
+      label: Incident Reviewer Job Title
+      hint: null
+      type: text
+      options: []
+      required: true

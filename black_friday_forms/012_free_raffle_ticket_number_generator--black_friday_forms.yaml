@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Free Raffle Ticket Number Generator
+    pages:
+    - id: 1
+      name: ticket_number
+      label: Ticket Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: draw_date
+      label: Draw Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: draw_time
+      label: Draw Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: winning_tickets
+      label: Winning Tickets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: raffle_id
+      label: Raffle ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: total_tickets
+      label: Total Tickets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: winning_number
+      label: Winning Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: ticket_numbers
+      label: Ticket Numbers
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      - '13'
+      - '14'
+      - '15'
+      - '16'
+      - '17'
+      - '18'
+      - '19'
+      - '20'
+      required: false
+    - id: 9
+      name: generate_tickets
+      label: Generate Tickets
+      hint: null
+      type: select_multiple
+      options:
+      - '20'
+      - '40'
+      - '60'
+      - '80'
+      - '100'
+      required: false
+    - id: 10
+      name: raffle_id
+      label: Raffle ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: draw_time
+      label: Draw Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: draw_date
+      label: Draw Date
+      hint: null
+      type: date
+      options: []
+      required: false

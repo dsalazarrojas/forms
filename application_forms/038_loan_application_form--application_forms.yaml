@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Loan Application Form
+    pages:
+    - id: 1
+      name: loan_application_form
+      label: Loan Application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: interest_rate
+      label: Interest Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: term_length
+      label: Term Length
+      hint: null
+      type: select_one
+      options:
+      - '6'
+      - '12'
+      - '24'
+      required: true
+    - id: 5
+      name: monthly_payment
+      label: Monthly Payment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: loan_term_type
+      label: Loan Term Type
+      hint: null
+      type: select_multiple
+      options:
+      - Fixed
+      - Variable
+      - Adjustable
+      required: true
+    - id: 7
+      name: interest_rate_type
+      label: Interest Rate Type
+      hint: null
+      type: select_one
+      options:
+      - Fixed
+      - Floating
+      required: false
+    - id: 8
+      name: loan_amount_range
+      label: Loan Amount Range
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 9
+      name: credit_score
+      label: Credit Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: loan_status
+      label: Loan Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: applicant_email
+      label: Applicant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: loan_officer
+      label: Loan Officer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: applicant_name
+      label: Applicant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: coapplicant_name
+      label: Co-Applicant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: coapplicant_relationship
+      label: Co-Applicant Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: coapplicant_income
+      label: Co-Applicant Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: coapplicant_employment_status
+      label: Co-Applicant Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Unemployed
+      required: false
+    - id: 23
+      name: coapplicant_employment_years
+      label: Co-Applicant Employment Years
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: coapplicant_employment_income
+      label: Co-Applicant Employment Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: coapplicant_employment_address
+      label: Co-Applicant Employment Address
+      hint: null
+      type: text
+      options: []
+      required: false

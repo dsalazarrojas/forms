@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chapter Self Assessment Form Undergraduate Chapter
+    pages:
+    - id: 1
+      name: section_undergraduate_basics
+      label: -- Undergraduate Chapter Basics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: undergraduate_chapter_full_name
+      label: Undergraduate Chapter Full Name
+      hint: Enter the formal name as registered with the national organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: college_university_affiliation
+      label: College or University Affiliation
+      hint: Name of the institution where the chapter is located
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: chapter_region_undergraduate
+      label: Chapter Region
+      hint: Select the region assigned to your chapter
+      type: select_one
+      options:
+      - North Atlantic
+      - Mid-Atlantic
+      - South Atlantic
+      - Great Lakes
+      - South Eastern
+      - South Central
+      - Central
+      - Mid-Western
+      - Far Western
+      - International
+      required: true
+    - id: 5
+      name: chapter_basileus_president_name
+      label: Current Chapter Basileus (President)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: graduate_advisor_name_contact
+      label: Graduate Advisor Name
+      hint: Name of the graduate advisor supervising the chapter
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_academic_excellence
+      label: -- Academic Excellence --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: cumulative_chapter_gpa_score
+      label: Cumulative Chapter GPA Score
+      hint: Enter the combined GPA of all chapter members
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: academic_support_programs_implemented
+      label: Academic Support Programs Implemented
+      hint: Does the chapter have formal study sessions or academic workshops?
+      type: select_one
+      options:
+      - Yes - Formal Programs
+      - Yes - Informal Sessions
+      - No - No Formal Programs
+      required: true
+    - id: 10
+      name: recognition_of_academic_achievement
+      label: Recognition of Academic Achievement
+      hint: Does the chapter recognize high-performing members?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: section_chapter_governance
+      label: -- Chapter Governance and Operations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: university_compliance_rating
+      label: University Compliance and Standing
+      hint: Rate the chapter's standing with the host university
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: timeliness_of_financial_dues_payments
+      label: Timeliness of Financial Dues Payments
+      hint: Are all member and chapter dues paid on time?
+      type: select_one
+      options:
+      - Always on Time
+      - Mostly on Time
+      - Often Delayed
+      required: true
+    - id: 14
+      name: chapter_meeting_attendance_rate
+      label: Average Chapter Meeting Attendance Rate
+      hint: Percentage of members typically attending
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: section_community_involvement
+      label: -- Community and Campus Involvement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: campus_leadership_roles_held_by_members
+      label: Campus Leadership Roles Held by Members
+      hint: List major roles in student government or other organizations
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: chapter_service_project_impact_rating
+      label: Service Project Impact Rating
+      hint: Rate the effectiveness of campus service projects
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: collaboration_with_other_organizations
+      label: Collaboration with Other Organizations
+      hint: How often does the chapter co-sponsor events?
+      type: select_one
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      - Never
+      required: true
+    - id: 19
+      name: section_undergraduate_confirmation
+      label: -- Undergraduate Assessment Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: accuracy_confirmation_undergraduate
+      label: Confirmation of Undergraduate Assessment
+      hint: I confirm that this assessment accurately reflects the chapter's status
+      type: select_one
+      options:
+      - I Confirm and Submit
+      - Other
+      required: true
+    - id: 21
+      name: date_of_undergraduate_assessment_log
+      label: Date of Completion
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: additional_undergraduate_comments
+      label: Additional Assessment Comments
+      hint: Any other relevant information or context
+      type: text
+      options: []
+      required: false

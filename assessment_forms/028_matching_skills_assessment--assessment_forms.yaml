@@ -1,0 +1,50 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: matching_skills_assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: skills_assessment
+      label: Skills Assessment
+      hint: Select all skills that apply
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''skill_1''}'
+      - '{''id'': 2, ''label'': ''skill_2''}'
+      - '{''id'': 3, ''label'': ''skill_3''}'
+      required: false
+    - id: 3
+      name: match_roles
+      label: Match Roles
+      hint: Select roles you are matched with
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''role_1''}'
+      - '{''id'': 2, ''label'': ''role_2''}'
+      - '{''id'': 3, ''label'': ''role_3''}'
+      required: false
+    - id: 4
+      name: additional_information
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false

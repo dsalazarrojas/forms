@@ -1,0 +1,100 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Ethics Survey
+    pages:
+    - id: 1
+      name: respondent_role
+      label: Your Role in Accounting
+      hint: Select your primary role in the accounting profession
+      type: select_one
+      options: ["CPA", "Accountant", "Auditor", "Finance Manager", "Student", "Educator", "Other"]
+      required: true
+    - id: 2
+      name: years_experience
+      label: Years of Experience in Accounting
+      hint: How many years of professional experience do you have
+      type: select_one
+      options: ["Less than 1 year", "1-3 years", "4-7 years", "8-15 years", "More than 15 years"]
+      required: true
+    - id: 3
+      name: workplace_environment
+      label: Type of Organization You Work For
+      hint: Select the type of organization where you primarily work
+      type: select_one
+      options: ["Public accounting firm", "Private corporation", "Non-profit organization", "Government agency", "Academic institution", "Consulting firm"]
+      required: true
+    - id: 4
+      name: ethics_training_received
+      label: Have you received formal ethics training in the past 2 years
+      hint: Formal training on professional ethics and conduct
+      type: select_one
+      options: ["Yes, comprehensive training", "Yes, basic training", "No, but I am familiar with codes", "No, and unfamiliar with codes"]
+      required: true
+    - id: 5
+      name: ethical_dilemma_frequency
+      label: How often do you encounter ethical dilemmas in your work
+      hint: Situations where professional ethics may be challenged
+      type: select_one
+      options: ["Daily", "Weekly", "Monthly", "Rarely", "Never"]
+      required: true
+    - id: 6
+      name: pressure_sources
+      label: Sources of Pressure That Could Compromise Ethics
+      hint: Select all sources of pressure you have experienced
+      type: select_multiple
+      options: ["Client demands", "Management expectations", "Time constraints", "Revenue targets", "Job security concerns", "Competitive pressures", "None of the above"]
+      required: false
+    - id: 7
+      name: reporting_unethical_behavior
+      label: How comfortable are you reporting unethical behavior
+      hint: Your comfort level with reporting ethical violations
+      type: select_one
+      options: ["Very comfortable", "Somewhat comfortable", "Neutral", "Somewhat uncomfortable", "Very uncomfortable"]
+      required: true
+    - id: 8
+      name: ethics_resources_importance
+      label: Importance of Ethics Resources
+      hint: How important are formal ethics resources to your work
+      type: select_one
+      options: ["Extremely important", "Very important", "Moderately important", "Slightly important", "Not important"]
+      required: true
+    - id: 9
+      name: continuing_education_ethics
+      label: Do you think ethics education should be mandatory continuing education
+      hint: Professional development requirement for maintaining certification
+      type: select_one
+      options: ["Strongly agree", "Agree", "Neutral", "Disagree", "Strongly disagree"]
+      required: true
+    - id: 10
+      name: technology_impact_on_ethics
+      label: Impact of Technology on Ethical Standards
+      hint: How technology affects ethical considerations in accounting
+      type: select_one
+      options: ["Technology raises new ethical challenges", "Technology makes ethical compliance easier", "Technology has minimal impact", "Technology creates more opportunities for fraud", "Not sure"]
+      required: true
+    - id: 11
+      name: biggest_ethics_challenge
+      label: Biggest Ethics Challenge in Accounting Today
+      hint: What do you see as the most significant ethical challenge
+      type: select_one
+      options: ["Pressure to meet earnings targets", "Conflicts of interest", "Client confidentiality", "Fraud detection", "Independence requirements", "Digital privacy concerns"]
+      required: true
+    - id: 12
+      name: suggestions_for_improvement
+      label: Suggestions for Improving Ethical Standards
+      hint: Any ideas for strengthening ethical practices in accounting
+      type: text
+      options: []
+      required: false

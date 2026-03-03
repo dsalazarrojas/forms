@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Currency Exchange Limit Increase Request
+    pages:
+    - id: 1
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: currency_details
+      label: Currency Details
+      hint: Select the currencies you wish to increase limit for.
+      type: select_multiple
+      options:
+      - '{''value'': ''AUD''}'
+      - '{''value'': ''CAD''}'
+      - '{''value'': ''EUR''}'
+      - '{''value'': ''USD''}'
+      - '{''value'': ''GBP''}'
+      required: false
+    - id: 3
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: reason
+      label: Reason
+      hint: Provide a clear and concise reason for the limit increase request.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: current_limit
+      label: Current Limit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: new_limit
+      label: New Limit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Pending''}'
+      - '{''value'': ''Approved''}'
+      - '{''value'': ''Rejected''}'
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false

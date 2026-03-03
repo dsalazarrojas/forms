@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fuels And Emissions Assessment
+    pages:
+    - id: 1
+      name: fuel_consumption
+      label: Fuel Consumption
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: fuel_type
+      label: Fuel Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: emissions_rating
+      label: Emissions Rating
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 4
+      name: co2_emissions
+      label: CO2 Emissions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: co2_emissions_per_unit
+      label: CO2 Emissions per Unit
+      hint: null
+      type: number
+      options: []
+      required: false

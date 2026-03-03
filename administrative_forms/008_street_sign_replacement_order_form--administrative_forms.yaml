@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Street Sign Replacement Order Form
+    pages:
+    - id: 1
+      name: home_address
+      label: Home Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: street_name
+      label: Street Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: street_type
+      label: Street Type
+      hint: null
+      type: select_multiple
+      options:
+      - street_type
+      - house_number
+      required: false
+    - id: 4
+      name: reason_for_replacement
+      label: Reason for Replacement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Assigned to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_user
+      label: Assigned to
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 9
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_ids
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false

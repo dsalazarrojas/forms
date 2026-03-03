@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cross Border Tax Declaration Form
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_details
+      label: Business Details
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''option1'', ''label'': ''Option 1''}'
+      - '{''name'': ''option2'', ''label'': ''Option 2''}'
+      - '{''name'': ''option3'', ''label'': ''Option 3''}'
+      required: true
+    - id: 3
+      name: tax_info
+      label: Tax Info
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: tax_date
+      label: Tax Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: tax_status
+      label: Tax Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''option4'', ''label'': ''Option 4''}'
+      - '{''name'': ''option5'', ''label'': ''Option 5''}'
+      - '{''name'': ''option6'', ''label'': ''Option 6''}'
+      required: true
+    - id: 6
+      name: tax_period
+      label: Tax Period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: tax_year
+      label: Tax Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: tax_amount
+      label: Tax Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: tax_rate
+      label: Tax Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: cancel_button
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false

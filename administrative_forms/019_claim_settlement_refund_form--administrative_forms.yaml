@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Claim Settlement Refund Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Full Name
+      hint: Person requesting the refund
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Email Address
+      hint: For refund correspondence
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requester_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company or Organization
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_id
+      label: Customer ID or Account Number
+      hint: If you have one
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: original_transaction_id
+      label: Original Transaction ID
+      hint: Reference or order number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: transaction_date
+      label: Original Transaction Date
+      hint: When was the payment made
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: transaction_amount
+      label: Original Transaction Amount
+      hint: In dollars
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: refund_amount
+      label: Refund Amount Requested
+      hint: In dollars
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: refund_type
+      label: Type of Refund
+      hint: Select the refund category
+      type: select_one
+      options:
+      - Full refund
+      - Partial refund
+      - Overpayment refund
+      - Duplicate payment refund
+      - Cancelled service refund
+      - Returned item refund
+      - Other
+      required: true
+    - id: 11
+      name: refund_reason
+      label: Reason for Refund Request
+      hint: Select the primary reason
+      type: select_one
+      options:
+      - Service not received
+      - Product not as described
+      - Product damaged or defective
+      - Order cancelled
+      - Overpayment made
+      - Duplicate charge
+      - Billing error
+      - Dissatisfaction with service
+      - Other
+      required: true
+    - id: 12
+      name: refund_details
+      label: Detailed Explanation
+      hint: Describe the situation
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: supporting_documents
+      label: Do You Have Supporting Documents
+      hint: Receipts, photos, correspondence
+      type: select_one
+      options:
+      - Yes, will attach
+      - Yes, already submitted
+      - No documents available
+      required: true
+    - id: 14
+      name: preferred_refund_method
+      label: Preferred Refund Method
+      hint: How should you receive the refund
+      type: select_one
+      options:
+      - Original payment method
+      - Direct deposit
+      - Check by mail
+      - Store credit
+      - Account credit
+      required: true
+    - id: 15
+      name: bank_name
+      label: Bank Name
+      hint: For direct deposit
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: account_type
+      label: Account Type
+      hint: For direct deposit
+      type: select_one
+      options:
+      - Checking
+      - Savings
+      - Not applicable
+      required: false
+    - id: 17
+      name: routing_number
+      label: Bank Routing Number
+      hint: 9-digit routing number
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: account_number
+      label: Bank Account Number
+      hint: Your account number
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: mailing_address
+      label: Mailing Address
+      hint: For check refunds
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: urgency_level
+      label: Urgency Level
+      hint: How soon do you need the refund
+      type: select_one
+      options:
+      - Standard processing
+      - Urgent - financial hardship
+      - Urgent - business critical
+      - No rush
+      required: true
+    - id: 21
+      name: previous_contact
+      label: Have You Contacted Us Before About This
+      hint: Regarding this refund
+      type: select_one
+      options:
+      - Yes, multiple times
+      - Yes, once
+      - No, this is my first contact
+      required: true
+    - id: 22
+      name: previous_contact_date
+      label: Date of Previous Contact
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: resolution_expectation
+      label: Expected Resolution Timeframe
+      hint: When do you expect resolution
+      type: select_one
+      options:
+      - Within 5 business days
+      - Within 10 business days
+      - Within 30 business days
+      - Flexible
+      required: true
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

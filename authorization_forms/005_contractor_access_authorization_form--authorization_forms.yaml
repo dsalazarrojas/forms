@@ -1,0 +1,248 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contractor Access Authorization Form
+    pages:
+    - id: 1
+      name: contractor_name
+      label: Contractor Full Name
+      hint: Legal name as it appears on ID
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contractor_email
+      label: Contractor Email
+      hint: Primary email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contractor_phone
+      label: Contractor Phone
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Contracting Company Name
+      hint: Name of contractor company or agency
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_access_details
+      label: -- Access Authorization Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: access_type
+      label: Type of Access Required
+      hint: What level of access is needed
+      type: select_one
+      options:
+      - Building Access Only
+      - Network Access Only
+      - Building and Network Access
+      - Restricted Area Access
+      - Executive Area Access
+      - Data Center Access
+      required: true
+    - id: 7
+      name: access_locations
+      label: Locations Requiring Access
+      hint: Select all applicable locations
+      type: select_multiple
+      options:
+      - Main Office Building
+      - Warehouse Facility
+      - Research Lab
+      - Data Center
+      - Remote Office
+      - Parking Structure
+      required: true
+    - id: 8
+      name: access_start_date
+      label: Access Start Date
+      hint: When should access begin
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: access_end_date
+      label: Access End Date
+      hint: When should access expire
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: access_hours
+      label: Authorized Access Hours
+      hint: Time periods when access is allowed
+      type: select_one
+      options:
+      - 24 Hours
+      - Business Hours Only
+      - Extended Hours
+      - Custom Schedule
+      required: true
+    - id: 11
+      name: section_system_access
+      label: -- System Access --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: network_access_required
+      label: Network Access Required
+      hint: Does contractor need network access
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: systems_list
+      label: Systems to Access
+      hint: Select all systems contractor needs
+      type: select_multiple
+      options:
+      - Email System
+      - Project Management Tool
+      - Document Repository
+      - Time Tracking System
+      - Customer Database
+      - Financial System
+      - HR Portal
+      required: false
+    - id: 14
+      name: data_classification_level
+      label: Data Classification Level
+      hint: Highest level of data access needed
+      type: select_one
+      options:
+      - Public
+      - Internal
+      - Confidential
+      - Restricted
+      required: true
+    - id: 15
+      name: section_authorization
+      label: -- Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: requesting_manager
+      label: Requesting Manager Name
+      hint: Name of manager requesting access
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: manager_email
+      label: Requesting Manager Email
+      hint: Email of requesting manager
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: department
+      label: Department
+      hint: Department contractor will work with
+      type: select_one
+      options:
+      - IT
+      - Operations
+      - Facilities
+      - Finance
+      - Human Resources
+      - Legal
+      - Marketing
+      - Sales
+      - Other
+      required: true
+    - id: 19
+      name: business_justification
+      label: Business Justification
+      hint: Reason for access authorization
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: project_name
+      label: Project Name
+      hint: Name of project contractor is working on
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_security
+      label: -- Security Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: background_check_status
+      label: Background Check Status
+      hint: Has background check been completed
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Required
+      - Pending
+      required: true
+    - id: 23
+      name: nda_signed
+      label: NDA Signed
+      hint: Has non-disclosure agreement been signed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: security_training_completed
+      label: Security Training Completed
+      hint: Has required security training been completed
+      type: select_one
+      options:
+      - true
+      - false
+      - Scheduled
+      required: true
+    - id: 25
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: special_requirements
+      label: Special Requirements or Restrictions
+      hint: Any special conditions or limitations
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

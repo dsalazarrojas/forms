@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: job_placement_appointment_form
+    pages:
+    - id: 1
+      name: job_placement_form
+      label: job_placement_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_seeker_name
+      label: job_seeker_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_type
+      label: job_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: work_location
+      label: work_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_placement_agency
+      label: job_placement_agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: availability
+      label: availability
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: preferred_date_time
+      label: preferred_date_time
+      hint: null
+      type: date
+      options: []
+      required: false

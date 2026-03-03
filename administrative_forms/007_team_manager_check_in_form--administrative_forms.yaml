@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: team_manager_check_in_form
+    pages:
+    - id: 1
+      name: team_manager_check_in_form_page_1
+      label: team_update
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: team_update_date
+      label: update_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: team_update_time
+      label: update_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: team_update_note
+      label: update_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: team_manager_check_in_form_page_2
+      label: team_check_in
+      hint: null
+      type: select_one
+      options:
+      - Team Lead
+      - Team Member
+      - Team Admin
+      required: false
+    - id: 6
+      name: team_check_in_note
+      label: check_in_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: team_manager_check_in_form_page_3
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: team_feedback_note
+      label: feedback_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: team_manager_check_in_form_page_4
+      label: team_check_in
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: team_member_name
+      label: team_member_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: team_manager_check_in_form_page_5
+      label: team_status
+      hint: null
+      type: select_one
+      options:
+      - On Track
+      - Behind
+      - Unknown
+      required: true
+    - id: 12
+      name: team_manager_check_in_form_page_6
+      label: team_status_note
+      hint: null
+      type: note
+      options: []
+      required: false

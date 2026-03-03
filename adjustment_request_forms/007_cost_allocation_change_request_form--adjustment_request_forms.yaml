@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cost Allocation Change Request Form
+    pages:
+    - id: 1
+      name: cost_allocation_change_request_form
+      label: Cost Allocation Change Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_id
+      label: Project ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: change_type
+      label: Change Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Type 1''}'
+      - '{''id'': 2, ''label'': ''Type 2''}'
+      - '{''id'': 3, ''label'': ''Type 3''}'
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: new_value
+      label: New Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: impact_on_cost
+      label: Impact on Cost
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: medication_abstract_form
+    pages:
+    - id: 1
+      name: shipment_details
+      label: shipment_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: purchase_info
+      label: purchase_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medication_details
+      label: medication_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shipment_date
+      label: shipment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: shipment_time
+      label: shipment_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: medication_price
+      label: medication_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: shipping_cost
+      label: shipping_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: delivery_status
+      label: delivery_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: medication_id
+      label: medication_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: purchase_date
+      label: purchase_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

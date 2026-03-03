@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clairvoyant Training Program Application
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Full name
+      hint: Enter your legal full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_email
+      label: Email address
+      hint: Provide a contact email for communications
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone number
+      hint: Include country code if applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of birth
+      hint: For eligibility screening
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: current_city
+      label: Current city of residence
+      hint: City and state or region
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: years_experience
+      label: Years of relevant experience
+      hint: Number of years practicing mediumship or related fields
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: training_background
+      label: Previous training or certifications
+      hint: List any formal training programs or certifications
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: areas_of_interest
+      label: Areas of interest in the program
+      hint: Select the areas you are most interested in
+      type: select_multiple
+      options:
+      - Intuitive development
+      - Energy healing
+      - Ethical practice and boundaries
+      - Business development
+      - Psychic research methods
+      required: true
+    - id: 9
+      name: availability_commitment
+      label: Weekly time commitment available
+      hint: Approximate hours per week available for coursework
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: motivation_statement
+      label: Motivation for joining the cohort
+      hint: Briefly describe your goals and expectations
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: reference_contact
+      label: Professional reference contact
+      hint: Name and relationship of a reference or mentor
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: agree_terms
+      label: Agreement to program terms and code of conduct
+      hint: Confirm you will follow program guidelines
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true

@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: AI Speech Evaluation Form
+    pages:
+    - id: 1
+      name: speech_details_section
+      label: '--- Speech Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: speaker_name
+      label: Speaker Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: speech_topic
+      label: Speech Topic / Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: evaluation_date
+      label: Date of Evaluation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: vocal_performance_section
+      label: '--- Vocal Performance ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: pronunciation_score
+      label: Pronunciation & Enunciation
+      hint: Accuracy and clarity of speech sounds.
+      type: select_one
+      options:
+      - 5 - Excellent (No errors)
+      - 4 - Good (Few minor errors)
+      - 3 - Average (Understandable but accented)
+      - 2 - Fair (Difficult to understand at times)
+      - 1 - Poor (Inaudible/Inaccurate)
+      required: true
+    - id: 7
+      name: pacing_fluency
+      label: Pacing & Fluency
+      hint: Rate of speech and flow.
+      type: select_one
+      options:
+      - Too Fast
+      - Steady & Natural (Good)
+      - Too Slow / Hesitant
+      - Inconsistent
+      required: true
+    - id: 8
+      name: tone_intonation
+      label: Tone & Intonation
+      hint: Variation in pitch and emotional expression.
+      type: select_one
+      options:
+      - Expressive & Dynamic
+      - Professional & Balanced
+      - Somewhat Monotone
+      - Overly Critical/Inappropriate
+      required: true
+    - id: 9
+      name: volume_projection
+      label: Volume & Projection
+      hint: null
+      type: select_one
+      options:
+      - Strong & Clear
+      - Adequate
+      - Weak / Hard to hear
+      required: true
+    - id: 10
+      name: content_structure_section
+      label: '--- Content & Structure ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: message_clarity
+      label: Clarity of Message
+      hint: How well was the main point conveyed?
+      type: select_one
+      options:
+      - Highly Clear
+      - Clear
+      - Mostly Clear
+      - Neutral / Ambiguous
+      - Confusing
+      required: true
+    - id: 12
+      name: logical_flow
+      label: Logical Flow & Organization
+      hint: (1 = Disorganized, 5 = Perfectly Structured)
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 13
+      name: vocabulary_usage
+      label: Use of Language & Vocabulary
+      hint: Choice of words and grammatical accuracy.
+      type: select_one
+      options:
+      - Advanced & Sophisticated
+      - Professional & Precise
+      - Appropriate / Standard
+      - Basic / Repetitive
+      - Poor / Inaccurate
+      required: true
+    - id: 14
+      name: overall_impact_section
+      label: '--- Overall Impact ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: audience_engagement
+      label: Audience Engagement & Persuasiveness
+      hint: Ability to hold attention and convince.
+      type: select_one
+      options:
+      - 5 - Very Engaging
+      - 4 - Engaging
+      - 3 - Average
+      - 2 - Lacks Impact
+      - 1 - Unengaging
+      required: true
+    - id: 16
+      name: areas_of_strength
+      label: Areas of Strength
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - Confidence & Presence
+      - Subject Knowledge
+      - Vocal Clarity
+      - Strong Opening/Closing
+      - Logical Structure
+      - Effective Examples
+      required: false
+    - id: 17
+      name: improvement_areas
+      label: Areas for Improvement
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - Filler Words (um, ah, like)
+      - Speech Speed
+      - Eye Contact / Body Language
+      - Lack of Conclusion
+      - Monotone Delivery
+      - Complex Language
+      required: false
+    - id: 18
+      name: summary_grade_section
+      label: '--- Summary & Grade ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: overall_score
+      label: Overall Score (0-100)
+      hint: Numerical assessment of the speech.
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: final_recommendations
+      label: Final Feedback & Recommendations
+      hint: Provide specific steps for the speaker to improve.
+      type: text
+      options: []
+      required: true

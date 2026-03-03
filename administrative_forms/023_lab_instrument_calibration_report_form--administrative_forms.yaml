@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lab Instrument Calibration Report Form
+    pages:
+    - id: 1
+      name: instrument_id
+      label: Instrument Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: instrument_name
+      label: Instrument Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: serial_number
+      label: Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: calibration_status
+      label: Calibration Status
+      hint: null
+      type: select_one
+      options:
+      - Calibrated
+      - Not Calibrated
+      - Maintenance Required
+      required: false
+    - id: 5
+      name: calibration_date
+      label: Calibration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: user_id
+      label: User Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: calibration_notes
+      label: Calibration Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_user_id
+      label: Assigned User Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: instrument_model
+      label: Instrument Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: instrument_manufacturer
+      label: Instrument Manufacturer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: instrument_calibrated
+      label: Instrument Calibrated
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 13
+      name: instrument_location
+      label: Instrument Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: instrument_condition
+      label: Instrument Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: instrument_last_calibrated_by
+      label: Instrument Last Calibrated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: instrument_last_calibrated_date
+      label: Instrument Last Calibrated Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: instrument_next_calibration_due_date
+      label: Instrument Next Calibration Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: instrument_next_calibration_location
+      label: Instrument Next Calibration Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: instrument_next_calibration_by
+      label: Instrument Next Calibration By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: instrument_last_calibrated_by
+      label: Instrument Last Calibrated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: instrument_last_calibrated_location
+      label: Instrument Last Calibrated Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: instrument_last_calibrated_by
+      label: Instrument Last Calibrated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: instrument_status
+      label: Instrument Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Decommissioned
+      required: false
+    - id: 25
+      name: instrument_type
+      label: Instrument Type
+      hint: null
+      type: text
+      options: []
+      required: false

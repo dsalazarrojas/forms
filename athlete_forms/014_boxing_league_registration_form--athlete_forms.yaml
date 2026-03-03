@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boxing League Registration Form
+    pages:
+    - id: 1
+      name: section_header_personal
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: For weight class classification
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Other
+      required: true
+    - id: 6
+      name: email
+      label: Email Address
+      hint: Primary contact
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_header_boxing
+      label: -- Boxing Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: experience_level
+      label: Boxing Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Professional
+      - Amateur champion
+      required: true
+    - id: 10
+      name: years_experience
+      label: Years of Boxing Experience
+      hint: Total years active
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: current_weight
+      label: Current Weight
+      hint: Weight in pounds
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: weight_class
+      label: Preferred Weight Class
+      hint: Select appropriate division
+      type: select_one
+      options:
+      - Heavyweight (over 201 lbs)
+      - Light Heavyweight (176-201 lbs)
+      - Middleweight (160-175 lbs)
+      - Welterweight (147-159 lbs)
+      - Lightweight (140-146 lbs)
+      - Featherweight (126-139 lbs)
+      - Bantamweight (118-125 lbs)
+      - Flyweight (112-117 lbs)
+      required: true
+    - id: 13
+      name: fighting_style
+      label: Fighting Style
+      hint: Primary boxing technique
+      type: select_one
+      options:
+      - Aggressive
+      - Technical
+      - Defensive
+      - Counter-puncher
+      - Balanced
+      required: false
+    - id: 14
+      name: section_header_health
+      label: -- Health and Clearance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: medical_clearance
+      label: Medical Clearance for Competition
+      hint: Physician approval status
+      type: select_one
+      options:
+      - Yes, cleared
+      - No clearance obtained
+      - Pending approval
+      required: true
+    - id: 16
+      name: injuries_list
+      label: Recent Injuries or Health Concerns
+      hint: Any issues affecting competition
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_header_gym
+      label: -- Gym and Coach Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: gym_name
+      label: Home Gym or Boxing Club
+      hint: Current training location
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: coach_name
+      label: Primary Coach Name
+      hint: Coach overseeing training
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_header_agreement
+      label: -- Agreement and Waiver --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: waiver_acceptance
+      label: I accept boxing league terms and waiver
+      hint: Acknowledge risks and rules
+      type: select_one
+      options:
+      - I fully accept
+      - I do not accept
+      required: true

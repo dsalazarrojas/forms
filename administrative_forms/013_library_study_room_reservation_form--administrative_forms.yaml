@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: library_study_room_reservation_form
+    pages:
+    - id: 1
+      name: study_room_reservation_form
+      label: prophets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: study_room
+      label: study_room
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Room 1''}'
+      - '{''value'': 2, ''label'': ''Room 2''}'
+      - '{''value'': 3, ''label'': ''Room 3''}'
+      required: false
+    - id: 6
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: room_booking_duration
+      label: room_booking_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

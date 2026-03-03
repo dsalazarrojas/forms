@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payment Request Form
+    pages:
+    - id: 1
+      name: payment_request_form_fields
+      label: Payment Request Form Fields
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_type
+      label: payment_type
+      hint: null
+      type: select_one
+      options:
+      - cash
+      - check
+      - bank_transfer
+      required: false
+    - id: 3
+      name: debt_date
+      label: debt_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - cash
+      - check
+      - bank_transfer
+      required: false
+    - id: 6
+      name: account_number
+      label: account_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payee_information
+      label: payee_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

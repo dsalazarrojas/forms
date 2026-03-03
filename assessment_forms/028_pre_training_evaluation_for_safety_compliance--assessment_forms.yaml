@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: pre-training-evaluation-for-safety-compliance
+    pages:
+    - id: 1
+      name: intro_page
+      label: intro-page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: training_date
+      label: training-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: safety_topic
+      label: safety-topic
+      hint: null
+      type: select_multiple
+      options:
+      - Safety
+      - Security
+      - Compliance
+      required: false
+    - id: 4
+      name: training_status
+      label: training-status
+      hint: null
+      type: select_one
+      options:
+      - Not Started
+      - Completed
+      - In Progress
+      - Scheduled
+      required: false
+    - id: 5
+      name: training_duration
+      label: training-duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: training_hours
+      label: training-hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: employee_name
+      label: employee-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_review_status
+      label: manager-review-status
+      hint: null
+      type: select_multiple
+      options:
+      - Completed
+      - Not Started
+      - In Progress
+      required: false
+    - id: 9
+      name: notes_for_manager
+      label: notes-for-manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: manager_notes
+      label: manager-notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: completed_date
+      label: completed-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: training_locations
+      label: training-locations
+      hint: null
+      type: select_multiple
+      options:
+      - Office
+      - Onsite
+      - Offsite
+      - Online
+      required: false
+    - id: 13
+      name: training_locations_additional
+      label: training-locations-additional
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: training_locations_geo_coordinates
+      label: training-locations-geo-coordinates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: location_verified
+      label: location-verified
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 16
+      name: training_completion_status
+      label: training-completion-status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Not Started
+      - In Progress
+      - Scheduled
+      required: false
+    - id: 17
+      name: training_completion_date
+      label: training-completion-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: manager_completion_status
+      label: manager-completion-status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Not Started
+      - In Progress
+      - Scheduled
+      required: false
+    - id: 19
+      name: manager_completion_date
+      label: manager-completion-date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,142 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Access Control Unit Setup Form
+    pages:
+    - id: 1
+      name: installer_name
+      label: Installer Name
+      hint: Full name of the technician performing the installation
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: installer_company
+      label: Installer Company
+      hint: Company name of the installing party
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: installation_date
+      label: Installation Date
+      hint: Date of the unit installation
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: installation_time
+      label: Installation Time
+      hint: Time when installation was completed
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: unit_model
+      label: Unit Model
+      hint: Model number of the access control unit
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: unit_serial_number
+      label: Unit Serial Number
+      hint: Serial number of the access control unit
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: installation_location
+      label: Installation Location
+      hint: Building, floor, and specific location of the unit
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: access_point_type
+      label: Access Point Type
+      hint: Type of access point being controlled
+      type: select_one
+      options: ["Main Entrance", "Side Door", "Gate", "Elevator", "Stairwell", "Parking Garage", "Secure Room", "Other"]
+      required: true
+    - id: 9
+      name: power_source
+      label: Power Source
+      hint: How is the unit powered?
+      type: select_one
+      options: ["Hardwired", "Battery Operated", "PoE", "Solar Powered", "Hybrid"]
+      required: true
+    - id: 10
+      name: connectivity_type
+      label: Connectivity Type
+      hint: How does the unit connect to the network?
+      type: select_one
+      options: ["Ethernet", "WiFi", "Cellular", "Bluetooth", "Zigbee", "None - Standalone"]
+      required: true
+    - id: 11
+      name: access_methods_supported
+      label: Supported Access Methods
+      hint: What methods of access does this unit support?
+      type: select_multiple
+      options: ["Card Reader", "Biometric Scanner", "Keypad", "Mobile App", "PIN Code", "Fob", "Proximity Reader"]
+      required: true
+    - id: 12
+      name: firmware_version
+      label: Firmware Version
+      hint: Current firmware version installed on the unit
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: network_configuration
+      label: Network Configuration
+      hint: IP address, subnet, gateway, etc.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: default_access_permissions
+      label: Default Access Permissions
+      hint: What access permissions are granted by default?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: integration_requirements
+      label: Integration Requirements
+      hint: Does this unit need to integrate with other systems?
+      type: select_one
+      options: ["No Integration", "HR System", "Time Tracking", "Visitor Management", "Alarm System", "Video Surveillance"]
+      required: true
+    - id: 16
+      name: maintenance_schedule
+      label: Maintenance Schedule
+      hint: Recommended maintenance schedule for this unit
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: supervisor_approval
+      label: Supervisor Approval
+      hint: Name of approving supervisor
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information about the installation
+      type: text
+      options: []
+      required: false

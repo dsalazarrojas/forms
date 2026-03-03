@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Rescue Training Absence Form
+    pages:
+    - id: 1
+      name: volunteer_name
+      label: Volunteer Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: volunteer_id
+      label: Volunteer ID Number
+      hint: If assigned
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: training_program
+      label: Training Program Name
+      hint: Which training are you missing
+      type: select_one
+      options:
+      - New Volunteer Orientation
+      - Animal Handling Basics
+      - Dog Walking Training
+      - Cat Care Training
+      - Foster Care Training
+      - Adoption Counseling
+      - Medical Care Training
+      - Transport Training
+      - Other
+      required: true
+    - id: 6
+      name: scheduled_date
+      label: Scheduled Training Date
+      hint: Date of session you will miss
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: scheduled_time
+      label: Scheduled Training Time
+      hint: Time of session
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: absence_reason
+      label: Reason for Absence
+      hint: Select primary reason
+      type: select_one
+      options:
+      - Illness
+      - Family Emergency
+      - Work Conflict
+      - Personal Appointment
+      - Vacation
+      - Transportation Issue
+      - Childcare Issue
+      - Other
+      required: true
+    - id: 9
+      name: reason_details
+      label: Additional Details
+      hint: Optional explanation
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: absence_type
+      label: Type of Absence
+      hint: null
+      type: select_one
+      options:
+      - Full Session
+      - Partial - Will Arrive Late
+      - Partial - Will Leave Early
+      required: true
+    - id: 11
+      name: make_up_request
+      label: Would You Like to Schedule a Make-up Session
+      hint: null
+      type: select_one
+      options:
+      - Yes Please
+      - No I Will Wait for Next Session
+      - I Will Arrange Independently
+      required: true
+    - id: 12
+      name: preferred_makeup_date
+      label: Preferred Make-up Date
+      hint: If requesting make-up session
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: next_available_session
+      label: Are You Aware of the Next Available Session
+      hint: null
+      type: select_one
+      options:
+      - Yes I Know the Date
+      - No Please Inform Me
+      required: true
+    - id: 14
+      name: materials_needed
+      label: Do You Need Training Materials Sent to You
+      hint: null
+      type: select_one
+      options:
+      - Yes Please Send Materials
+      - No I Will Review Later
+      - I Have Access to Materials
+      required: true
+    - id: 15
+      name: supervisor_notified
+      label: Have You Notified Your Supervisor
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: true
+    - id: 16
+      name: impact_on_others
+      label: Will Your Absence Impact Other Volunteers or Activities
+      hint: null
+      type: select_one
+      options:
+      - Yes - Please Explain
+      - false
+      - Unsure
+      required: true
+    - id: 17
+      name: impact_details
+      label: Impact Details
+      hint: If yes explain
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: return_date
+      label: Expected Return Date
+      hint: When will you be available again
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: additional_training
+      label: Are You Interested in Additional Training Opportunities
+      hint: null
+      type: select_one
+      options:
+      - Yes Please Send Information
+      - Not at This Time
+      required: false
+    - id: 20
+      name: comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

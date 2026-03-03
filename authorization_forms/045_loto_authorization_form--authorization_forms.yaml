@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: LOTO Authorization Form
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: facility_info
+      label: facility_information
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: requestor_info
+      label: requestor_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: equipment_info
+      label: equipment_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: tagout_data
+      label: tagout_data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: lockout_info
+      label: lockout_info
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      - '{''option3'': ''Option 3''}'
+      required: false
+    - id: 7
+      name: lockout_reason
+      label: lockout_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: lockout_date
+      label: lockout_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: lockout_time
+      label: lockout_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: tagout_date
+      label: tagout_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: tagout_time
+      label: tagout_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: maintenance_type
+      label: maintenance_type
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      - '{''option3'': ''Option 3''}'
+      required: false
+    - id: 13
+      name: approval_date
+      label: approval_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: approval_time
+      label: approval_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: facility_comments
+      label: facility_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: requestor_comments
+      label: requestor_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: maintenance_comments
+      label: maintenance_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: equipment_status
+      label: equipment_status
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      - '{''option3'': ''Option 3''}'
+      required: false

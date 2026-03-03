@@ -1,0 +1,100 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Report Generation Request Form
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Requestor Name
+      hint: Full name of the person requesting the report
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requestor_department
+      label: Requestor Department
+      hint: Department of the person requesting the report
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requestor_email
+      label: Requestor Email
+      hint: Email address for communication regarding the report
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: report_type
+      label: Type of Report Requested
+      hint: Select the type of accounting report needed
+      type: select_one
+      options: ["Balance Sheet", "Income Statement", "Cash Flow Statement", "Trial Balance", "Profit & Loss Statement", "Aging Report", "Budget vs Actual", "Other Financial Report"]
+      required: true
+    - id: 5
+      name: reporting_period
+      label: Reporting Period
+      hint: Time period the report should cover
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: report_format
+      label: Preferred Report Format
+      hint: How would you like to receive the report
+      type: select_one
+      options: ["PDF", "Excel Spreadsheet", "Word Document", "Online View", "Printed Copy", "Other"]
+      required: true
+    - id: 7
+      name: report_recipients
+      label: Report Recipients
+      hint: Who else should receive a copy of this report
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: urgency_level
+      label: Urgency Level
+      hint: How soon do you need this report
+      type: select_one
+      options: ["Standard - Within 5 business days", "Priority - Within 3 business days", "Urgent - Within 24 hours", "Immediate - Same day"]
+      required: true
+    - id: 9
+      name: specific_requirements
+      label: Specific Requirements or Customizations
+      hint: Any special formatting or data requirements for the report
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comparison_periods
+      label: Comparison Periods Needed
+      hint: Do you need comparisons to previous periods
+      type: select_one
+      options: ["No comparison needed", "Prior month", "Prior quarter", "Prior year", "Custom comparison"]
+      required: false
+    - id: 11
+      name: report_delivery_method
+      label: Report Delivery Method
+      hint: How should the report be delivered
+      type: select_one
+      options: ["Email", "Shared drive", "Portal access", "Print and deliver", "Pick up in person"]
+      required: true
+    - id: 12
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Any other information about the report request
+      type: text
+      options: []
+      required: false

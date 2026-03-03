@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Detailing Quotation Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: Please provide your contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Where should we send the quote
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Best number to reach you
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: vehicle_info
+      label: Vehicle Information
+      hint: Tell us about your vehicle
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_type
+      label: Vehicle Type
+      hint: What type of vehicle do you have
+      type: select_one
+      options:
+      - Sedan
+      - SUV
+      - Truck
+      - Coupe
+      - Convertible
+      - Van
+      - Motorcycle
+      - Other
+      required: true
+    - id: 8
+      name: vehicle_year
+      label: Vehicle Year
+      hint: Year of manufacture
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: vehicle_make
+      label: Vehicle Make
+      hint: Manufacturer name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: vehicle_model
+      label: Vehicle Model
+      hint: Model name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: vehicle_color
+      label: Vehicle Color
+      hint: Primary exterior color
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_condition
+      label: Current Vehicle Condition
+      hint: How would you describe the condition
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Dirty
+      required: true
+    - id: 13
+      name: service_packages
+      label: Service Packages
+      hint: Which detailing package interests you
+      type: select_one
+      options:
+      - Basic Wash and Vacuum
+      - Standard Interior and Exterior
+      - Premium Full Detail
+      - Deluxe Paint Correction
+      - Ceramic Coating Package
+      - Custom Package
+      required: true
+    - id: 14
+      name: interior_services
+      label: Interior Services
+      hint: Select desired interior services
+      type: select_multiple
+      options:
+      - Vacuum and Dusting
+      - Leather Cleaning
+      - Carpet Shampoo
+      - Seat Stain Removal
+      - Odor Treatment
+      - Dashboard Conditioning
+      - Window Cleaning
+      required: false
+    - id: 15
+      name: exterior_services
+      label: Exterior Services
+      hint: Select desired exterior services
+      type: select_multiple
+      options:
+      - Hand Wash
+      - Clay Bar Treatment
+      - Wax Application
+      - Polish and Buff
+      - Scratch Removal
+      - Tire Dressing
+      - Engine Bay Cleaning
+      required: false
+    - id: 16
+      name: add_ons
+      label: Add-On Services
+      hint: Additional services available
+      type: select_multiple
+      options:
+      - Headlight Restoration
+      - Pet Hair Removal
+      - Child Seat Cleaning
+      - Trunk Organization
+      - Paint Protection Film
+      - Undercarriage Wash
+      required: false
+    - id: 17
+      name: service_location
+      label: Service Location Preference
+      hint: Where should the detailing take place
+      type: select_one
+      options:
+      - At Our Shop
+      - Mobile Service at Home
+      - Mobile Service at Work
+      - Other Location
+      required: true
+    - id: 18
+      name: preferred_date
+      label: Preferred Service Date
+      hint: When would you like the service
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: preferred_time
+      label: Preferred Time
+      hint: What time works best
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: special_requests
+      label: Special Requests or Concerns
+      hint: Any specific areas of concern or requests
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: How did you find our services
+      type: select_one
+      options:
+      - Google Search
+      - Social Media
+      - Friend or Family
+      - Previous Customer
+      - Advertisement
+      - Other
+      required: false

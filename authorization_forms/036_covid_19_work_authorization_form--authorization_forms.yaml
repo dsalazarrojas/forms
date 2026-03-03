@@ -1,0 +1,221 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Work Authorization Form
+    pages:
+    - id: 1
+      name: work_auth_employee_header
+      label: -- Employee Information --
+      hint: Please provide your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: work_auth_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: work_auth_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: work_auth_employee_id
+      Label: Employee ID
+      hint: Your employee number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: work_auth_date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: work_auth_email
+      Label: Email Address
+      hint: Your work email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: work_auth_phone
+      label: Phone Number
+      hint: Your phone number
+      type: phone
+      options: []
+      required: true
+    - id: 8
+      name: work_auth_department_header
+      Label: -- Department Information --
+      hint: Your employment details
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: work_auth_department
+      label: Department or Division
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: work_auth_position_title
+      Label: Position or Job Title
+      hint: Your job title
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: work_auth_manager_name
+      label: Direct Manager Name
+      hint: Your supervisor's name
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: work_auth_employment_type
+      Label: Employment Type
+      hint: Your employment status
+      type: select_one
+      options:
+        - Full-Time
+        - Part-Time
+        - Contract
+        - Temporary
+      required: true
+    - id: 13
+      name: work_auth_covid_authorization_header
+      label: -- COVID-19 Work Authorization --
+      hint: Your authorization status
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: work_auth_vaccination_status
+      Label: COVID-19 Vaccination Status
+      hint: Your vaccination status
+      type: select_one
+      options:
+        - Fully vaccinated and boosted
+        - Fully vaccinated, not boosted
+        - Partially vaccinated
+        - Not vaccinated
+      required: true
+    - id: 15
+      name: work_auth_eligible_to_work
+      label: I Am Eligible to Work On-Site
+      hint: You meet all work requirements
+      type: select_one
+      options:
+        - Yes, eligible
+        - No, not eligible
+        - Conditional eligibility
+      required: true
+    - id: 16
+      name: work_auth_health_status_header
+      Label: -- Health and Safety Certification --
+      hint: Your health status certification
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: work_auth_no_symptoms
+      label: I Have No COVID-19 Symptoms
+      hint: No fever, cough, or symptoms
+      type: select_one
+      options:
+        - No symptoms
+        - Have symptoms
+        - Unsure
+      required: true
+    - id: 18
+      name: work_auth_no_exposure
+      Label: I Have Not Been Exposed to COVID-19
+      hint: No exposure to positive cases
+      type: select_one
+      options:
+        - No exposure
+        - Possible exposure
+        - Confirmed exposure
+      required: true
+    - id: 19
+      name: work_auth_no_quarantine_order
+      label: I Am Not Under a Quarantine Order
+      hint: No public health order to quarantine
+      type: select_one
+      options:
+        - Not under order
+        - Under quarantine order
+        - Unsure
+      required: true
+    - id: 20
+      name: work_auth_mask_agreement
+      Label: I Agree to Follow Mask and Safety Policies
+      hint: Agreement to workplace safety rules
+      type: select_one
+      options:
+        - I agree
+        - I do not agree
+      required: true
+    - id: 21
+      name: work_auth_remote_or_on_site_header
+      label: -- Work Arrangement --
+      hint: Your work location authorization
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: work_auth_work_location
+      Label: Authorized Work Location
+      hint: Where you are authorized to work
+      type: select_one
+      options:
+        - On-site only
+        - Remote only
+        - Hybrid arrangement
+        - Flexible arrangement
+      required: true
+    - id: 23
+      name: work_auth_signature_date
+      label: Date of Authorization
+      hint: Date you are providing this authorization
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: work_auth_acknowledgment
+      Label: I Certify That All Information is Accurate
+      hint: I confirm all information is truthful
+      type: select_one
+      options:
+        - I certify as accurate
+        - Information needs correction
+      required: true
+    - id: 25
+      name: work_auth_authorization_confirmation
+      label: I Have Read and Understand This Authorization Form
+      hint: Full understanding of terms
+      type: select_one
+      options:
+        - I have read and understand
+        - I need clarification
+      required: true

@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Approval Form
+    pages:
+    - id: 1
+      name: budget_requests
+      label: Budget requests
+      hint: null
+      type: select_multiple
+      options:
+      - Expense A
+      - Expense B
+      - Expense C
+      required: true
+    - id: 2
+      name: expense_reimbursements
+      label: Expense reimbursements
+      hint: Select date
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: funding_allocations
+      label: Funding allocations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: financial_amount
+      label: Financial Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: hospice_care_records_release_form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: healthcare_provider_name
+      label: Healthcare Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: healthcare_provider_signature
+      label: Healthcare Provider Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: reason_for_release
+      label: Reason for Release
+      hint: null
+      type: select_multiple
+      options:
+      - Choice 1
+      - '2'
+      - '3'
+      required: false
+    - id: 10
+      name: release_to
+      label: Release To
+      hint: Please select the individual or entity authorized to receive the records.
+      type: select_one
+      options:
+      - Self/Attorney-in-Fact
+      - Authorized Family Member
+      - Authorized Healthcare Provider
+      required: false
+    - id: 11
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: authorization_to_access
+      label: Authorization to Access
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: authorization_expiration_date
+      label: Authorization Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: reason_for_rejection
+      label: Reason for Rejection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: authorized_party
+      label: Authorized Party
+      hint: null
+      type: select_one
+      options:
+      - Self/Attorney-in-Fact
+      - Authorized Family Member
+      - Authorized Healthcare Provider
+      required: false
+    - id: 18
+      name: authorization_date
+      label: Authorization Date
+      hint: null
+      type: date
+      options: []
+      required: false

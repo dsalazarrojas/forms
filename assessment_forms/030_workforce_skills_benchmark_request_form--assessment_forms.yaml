@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: workforce_skills_benchmark_request_form
+    pages:
+    - id: 1
+      name: scope
+      label: Scope
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: competencies
+      label: Competencies
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: assessment_needs
+      label: Assessment Needs
+      hint: null
+      type: text
+      options: []
+      required: false

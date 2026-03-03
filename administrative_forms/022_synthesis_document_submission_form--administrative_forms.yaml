@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Synthesis Document Submission Form
+    pages:
+    - id: 1
+      name: submitter
+      label: submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: submitter_email
+      label: submitter email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: submitter_phone
+      label: submitter phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: collaborator_name
+      label: collaborator name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: collaborator_email
+      label: collaborator email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: collaborator_phone
+      label: collaborator phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: synthesis_document
+      label: synthesis document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: synthesis_document_type
+      label: synthesis document type
+      hint: null
+      type: select_one
+      options:
+      - option 1
+      - option 2
+      - option 3
+      - option 4
+      required: false
+    - id: 9
+      name: submission_date
+      label: submission date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: submission_time
+      label: submission time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: submitter_notes
+      label: submitter notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: synthesis_document_url
+      label: synthesis document url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: synthesis_document_url_title
+      label: synthesis document url title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: synthesis_document_url_description
+      label: synthesis document url description
+      hint: null
+      type: text
+      options: []
+      required: false

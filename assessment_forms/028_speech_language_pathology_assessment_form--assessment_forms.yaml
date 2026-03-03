@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Speech Language Pathology Assessment Form
+    pages:
+    - id: 1
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: history
+      label: History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: speech_language_evaluations
+      label: Speech & Language Evaluations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: client_consent_status
+      label: Client Consent Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Signed''}'
+      - '{''label'': ''Not Signed''}'
+      required: true
+    - id: 7
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: evaluator_name
+      label: Evaluator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: client_birthdate
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: client_contact
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false

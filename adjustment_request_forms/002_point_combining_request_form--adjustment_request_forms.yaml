@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Point Combining Request Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Customer Name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Customer Email
+      hint: Customer Email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Customer Phone
+      hint: Customer Phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_points
+      label: customer-points
+      hint: Customer Points
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: points_to_transfer
+      label: points-to-transfer
+      hint: Points to Transfer
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: transfer_type
+      label: transfer-type
+      hint: Transfer Type
+      type: select_one
+      options:
+      - Points Transfer
+      - Points Merge
+      - Points Redemption
+      - Points Expiration
+      required: true
+    - id: 7
+      name: account_id
+      label: account-id
+      hint: Account ID
+      type: select_multiple
+      options:
+      - Account 1
+      - Account 2
+      - Account 3
+      - Account 4
+      required: false
+    - id: 8
+      name: reason_for_request
+      label: reason-for-request
+      hint: Reason for Request
+      type: select_one
+      options:
+      - Test
+      - Test 1
+      - Test 2
+      - Test 3
+      required: true
+    - id: 9
+      name: transfer_date
+      label: transfer-date
+      hint: Transfer Date
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: transfer_time
+      label: transfer-time
+      hint: Transfer Time
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: points_earned
+      label: points-earned
+      hint: Points Earned
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: points_issued
+      label: points-issued
+      hint: Points Issued
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: status
+      label: status
+      hint: Status
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Rejected
+      - In Progress
+      required: true
+    - id: 14
+      name: assigned_to
+      label: assigned-to
+      hint: Assigned to
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: true
+    - id: 15
+      name: notes
+      label: notes
+      hint: Notes
+      type: text
+      options: []
+      required: false

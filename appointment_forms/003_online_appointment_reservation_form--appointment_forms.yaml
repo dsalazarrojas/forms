@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Appointment Reservation Form
+    pages:
+    - id: 1
+      name: service_business_name
+      label: Service Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_date
+      label: Service Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: service_time
+      label: Service Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: service_duration
+      label: Service Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: service_time_slot
+      label: Service Time Slot
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 9
+      name: service_date
+      label: Service Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: confirm_service
+      label: Confirm Service
+      hint: null
+      type: text
+      options: []
+      required: false

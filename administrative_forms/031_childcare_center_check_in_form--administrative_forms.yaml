@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Childcare Center Check In Form
+    pages:
+    - id: 1
+      name: check_in_date
+      label: Check-In Date
+      hint: Date of check-in
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: check_in_time
+      label: Check-In Time
+      hint: Time of arrival
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: child_first_name
+      label: Child First Name
+      hint: Legal first name of the child
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: child_last_name
+      label: Child Last Name
+      hint: Legal last name of the child
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: child_age
+      label: Child Age
+      hint: Current age of the child in years
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: child_room_or_class
+      label: Child Room or Class
+      hint: Assigned room or class name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: parent_guardian_first_name
+      label: Parent or Guardian First Name
+      hint: Legal first name of parent or guardian dropping off
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: parent_guardian_last_name
+      label: Parent or Guardian Last Name
+      hint: Legal last name of parent or guardian dropping off
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Phone number for contact during the day
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: relationship_to_child
+      label: Relationship to Child
+      hint: Your relationship to the child
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Guardian
+      - Grandparent
+      - Other relative
+      - Authorized caregiver
+      - Other
+      required: true
+    - id: 11
+      name: child_mood_at_dropoff
+      label: Child Mood at Drop-Off
+      hint: How is the child feeling this morning?
+      type: select_one
+      options:
+      - Happy and excited
+      - Calm and relaxed
+      - Tired or sleepy
+      - Anxious or clingy
+      - Upset or crying
+      - Irritable
+      - Other
+      required: true
+    - id: 12
+      name: child_health_status
+      label: Child Health Status
+      hint: Is the child feeling well today?
+      type: select_one
+      options:
+      - Feeling well
+      - Minor symptoms (runny nose, mild cough)
+      - Not feeling well
+      - Recovering from illness
+      - Other concerns noted
+      required: true
+    - id: 13
+      name: symptoms_present
+      label: Symptoms Present
+      hint: List any symptoms the child may have
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: fever_in_last_24_hours
+      label: Fever in Last 24 Hours
+      hint: Has the child had a fever in the last 24 hours?
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 15
+      name: medications_brought
+      label: Medications Brought
+      hint: Are you bringing any medications for the child?
+      type: select_one
+      options:
+      - Yes, prescription medication
+      - Yes, over-the-counter medication
+      - Yes, both types
+      - No medications
+      required: true
+    - id: 16
+      name: medication_details
+      label: Medication Details
+      hint: List medication names and dosages
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: special_instructions
+      label: Special Instructions for Today
+      hint: Any special instructions for staff today?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: nap_time_needs
+      label: Nap Time Needs
+      hint: Any special nap time instructions?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: feeding_instructions
+      label: Feeding Instructions
+      hint: Any special feeding instructions?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: items_brought
+      label: Items Brought from Home
+      hint: List any items brought (blanket, toy, etc.)
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: expected_pickup_time
+      label: Expected Pickup Time
+      hint: When do you expect to pick up the child?
+      type: time
+      options: []
+      required: true
+    - id: 22
+      name: authorized_pickup_person
+      label: Authorized Pickup Person Today
+      hint: Who will be picking up the child today?
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: emergency_contact_available
+      label: Emergency Contact Available
+      hint: Is your emergency contact available today?
+      type: select_one
+      options:
+      - Yes, same as usual
+      - Yes, different contact today
+      - false
+      required: true
+    - id: 24
+      name: additional_notes
+      label: Additional Notes
+      hint: Any additional information for staff
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: parent_guardian_signature
+      label: Parent or Guardian Signature
+      hint: Type your full name as your electronic signature
+      type: text
+      options: []
+      required: true

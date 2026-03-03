@@ -1,0 +1,169 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 2021 Silver Series West Season Pass Open Schooling Reservation Form
+    pages:
+    - id: 1
+      name: all_required_fields
+      label: All required fields are marked with *
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reservation_information
+      label: '--- Reservation Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: full_name
+      label: Full name *
+      hint: Enter your legal full name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email address *
+      hint: We'll use this to confirm your reservation
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone number
+      hint: Optional. Provide a number for updates
+      type: phone
+      options: []
+      required: false
+    - id: 6
+      name: student_id
+      label: Student ID
+      hint: Optional. Your school ID
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: grade_level
+      label: Grade/Year level *
+      hint: E.g., 9, 10, 11, 12 or Freshman, Sophomore, etc.
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: school_name
+      label: School or institution name
+      hint: Optional. Name of your school
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: subject_area
+      label: Subject area *
+      hint: Select the main subject area for the reservation
+      type: select_one
+      options:
+      - Mathematics
+      - Science
+      - Language Arts
+      - Social Studies
+      - Arts
+      - Physical Education
+      - Technology
+      - Other
+      required: true
+    - id: 10
+      name: learning_style
+      label: Preferred learning style *
+      hint: Choose the learning style that suits you best
+      type: select_one
+      options:
+      - Visual
+      - Auditory
+      - Reading/Writing
+      - Hands-on/Kinesthetic
+      required: true
+    - id: 11
+      name: hours_studied
+      label: Average study hours per week
+      hint: Approximate average hours you study per week
+      type: integer
+      options: []
+      required: false
+    - id: 12
+      name: preferred_start_date
+      label: Preferred start date *
+      hint: Preferred start date for the session
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: preferred_start_time
+      label: Preferred start time
+      hint: Preferred start time (optional)
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: satisfaction
+      label: How satisfied are you with the reservation process? *
+      hint: Rate your satisfaction with the reservation process
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 15
+      name: challenges
+      label: Main challenges faced (select all)
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Time management
+      - Difficult material
+      - Lack of resources
+      - Motivation
+      - Technology issues
+      - Large class sizes
+      required: false
+    - id: 16
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Any additional notes or requests
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: unique_submission_id
+      label: Unique submission code *
+      hint: Enter the unique code provided to you
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: thank_you_note
+      label: Thank you for your reservation!
+      hint: null
+      type: note
+      options: []
+      required: false

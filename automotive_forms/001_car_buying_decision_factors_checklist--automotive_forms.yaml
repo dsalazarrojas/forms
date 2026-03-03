@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Buying Decision Factors Checklist
+    pages:
+    - id: 1
+      name: personal_info_header
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For follow-up purposes
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: vehicle_header
+      label: -- Vehicle Priorities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_type
+      label: Preferred Vehicle Type
+      hint: Select the type of vehicle you are looking for
+      type: select_one
+      options:
+      - Sedan
+      - SUV
+      - Truck
+      - Coupe
+      - Hatchback
+      - Electric/Hybrid
+      required: true
+    - id: 6
+      name: budget_range
+      label: Budget Range
+      hint: Select your maximum budget
+      type: select_one
+      options:
+      - Under $20,000
+      - $20,000 - $35,000
+      - $35,000 - $50,000
+      - $50,000 - $75,000
+      - Above $75,000
+      required: true
+    - id: 7
+      name: primary_use
+      label: Primary Use for Vehicle
+      hint: How will you use this car most often?
+      type: select_one
+      options:
+      - Daily Commute
+      - Family Use
+      - Off-Road/Adventure
+      - Business/Work
+      - Weekend/Leisure
+      required: true
+    - id: 8
+      name: importance_factors
+      label: Most Important Decision Factors
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fuel Efficiency
+      - Safety Ratings
+      - Performance/Power
+      - Interior Comfort
+      - Technology Features
+      - Resale Value
+      - Reliability
+      required: true
+    - id: 9
+      name: safety_features_importance
+      label: Safety Features Importance
+      hint: On a scale of 1 to 5, how important are safety features?
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: technology_priorities
+      label: Key Technology Features Needed
+      hint: Select features you must have
+      type: select_multiple
+      options:
+      - Apple CarPlay / Android Auto
+      - Blind Spot Monitoring
+      - Adaptive Cruise Control
+      - Backup Camera
+      - Premium Sound System
+      - Navigation System
+      required: false
+    - id: 11
+      name: seating_capacity
+      label: Required Seating Capacity
+      hint: How many passengers do you typically carry?
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: cargo_space_needs
+      label: Cargo Space Importance
+      hint: Select your cargo space requirements
+      type: select_one
+      options:
+      - Minimal (Small trunk is fine)
+      - Standard (Grocery shopping)
+      - Substantial (Sports gear/luggage)
+      - Maximum (Large equipment)
+      required: true
+    - id: 13
+      name: trade_in_intent
+      label: Do you plan to trade in a vehicle?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: true
+    - id: 14
+      name: financing_preference
+      label: Preferred Financing Option
+      hint: How do you intend to pay for the vehicle?
+      type: select_one
+      options:
+      - Cash
+      - Loan/Financing
+      - Leasing
+      required: true
+    - id: 15
+      name: additional_comments
+      label: Any additional requirements or comments?
+      hint: Please share any specific needs not mentioned above
+      type: text
+      options: []
+      required: false

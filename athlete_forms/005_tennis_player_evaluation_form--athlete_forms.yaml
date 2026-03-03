@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tennis Player Evaluation Form
+    pages:
+    - id: 1
+      name: overall_performance
+      label: overall_performance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: game_manners
+      label: game_manners
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: serve_and_volley
+      label: serve_and_volley
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: net_game
+      label: net_game
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: forehand
+      label: forehand
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: backhand
+      label: backhand
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: volleys
+      label: volleys
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: drop_shots
+      label: drop_shots
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: smash
+      label: smash
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: volleys_returned
+      label: volleys_returned
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: overall_score
+      label: overall_score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: player_manner
+      label: player_manner
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 13
+      name: player_manner_hints
+      label: player_manner_hints
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: player_manner_comments
+      label: player_manner_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,107 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Teledentistry Consent Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: consent_type
+      label: What kind of care are you seeking?
+      hint: null
+      type: select_one
+      options:
+      - Telehealth
+      - Phone
+      - In-Person
+      required: false
+    - id: 4
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: consent_time
+      label: Consent Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: consent_note
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: consent_signed
+      label: Was this form signed?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: consent_date_signed
+      label: Date signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: consent_time_signed
+      label: Time signed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: submitted
+      label: Form submitted?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

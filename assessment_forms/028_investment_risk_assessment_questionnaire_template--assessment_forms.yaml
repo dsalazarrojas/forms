@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Investment Risk Assessment Questionnaire Template
+    pages:
+    - id: 1
+      name: risk_tolerance
+      label: Risk Tolerance
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 2
+      name: investment_experience
+      label: investment_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: financial_goals
+      label: financial_goals
+      hint: null
+      type: select_multiple
+      options:
+      - Financial independence
+      - Comfortable retirement
+      - Financial security
+      - Wealth accumulation
+      required: false
+    - id: 4
+      name: time_horizon
+      label: time_horizon
+      hint: null
+      type: select_one
+      options:
+      - Short term
+      - Medium term
+      - Long term
+      required: false
+    - id: 5
+      name: income_source
+      label: income_source
+      hint: null
+      type: select_one
+      options:
+      - Salary
+      - Investments
+      - Business
+      - Other
+      required: false
+    - id: 6
+      name: asset_base
+      label: asset_base
+      hint: null
+      type: select_one
+      options:
+      - Stocks
+      - Bonds
+      - Real estate
+      - Other
+      required: false
+    - id: 7
+      name: risk_perception
+      label: risk_perception
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: financial_history
+      label: financial_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: family_status
+      label: family_status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      required: false
+    - id: 10
+      name: children_status
+      label: children_status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      required: false

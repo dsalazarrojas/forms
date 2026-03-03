@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: file_size_assessment_form
+    pages:
+    - id: 1
+      name: file_size
+      label: File Size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: file_type
+      label: File Type
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''pdf''}'
+      - docx
+      - csv
+      - excel
+      - txt
+      required: false
+    - id: 3
+      name: file_format
+      label: File Format
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''pdf''}'
+      - docx
+      - csv
+      - excel
+      - txt
+      required: false
+    - id: 4
+      name: uploaded_file_size
+      label: Uploaded File Size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: file_size_in_bytes
+      label: File Size in Bytes
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: file_size_in_kb
+      label: File Size in KB
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: file_size_in_mb
+      label: File Size in MB
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: file_size_in_gb
+      label: File Size in GB
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: file_size_in_mb_total
+      label: Total Size in MB
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: file_name
+      label: File Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: uploaded_at
+      label: Uploaded At
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: upload_by
+      label: Upload By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: uploaded_from
+      label: Uploaded From
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: uploaded_by_user
+      label: Uploaded By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: upload_date
+      label: Upload Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: uploaded
+      label: Uploaded
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: file_size_in_mb_uploaded
+      label: File Size in MB Uploaded
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: file_size_in_bytes_uploaded
+      label: File Size in Bytes Uploaded
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: file_size_in_kb_uploaded
+      label: File Size in KB Uploaded
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: file_size_in_gb_uploaded
+      label: File Size in GB Uploaded
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: uploaded_file
+      label: Uploaded File
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 23
+      name: file_type_uploaded
+      label: File Type Uploaded
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''pdf''}'
+      - docx
+      - csv
+      - excel
+      - txt
+      required: false
+    - id: 24
+      name: file_format_uploaded
+      label: File Format Uploaded
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''pdf''}'
+      - docx
+      - csv
+      - excel
+      - txt
+      required: false
+    - id: 25
+      name: upload_status
+      label: Upload Status
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''pending''}'
+      - success
+      - failure
+      required: true

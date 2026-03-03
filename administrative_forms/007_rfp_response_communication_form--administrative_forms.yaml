@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: RFP Response Communication Form
+    pages:
+    - id: 1
+      name: main_page
+      label: main-page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: project-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rfp_name
+      label: rfp-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_status
+      label: project-status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Closed
+      - Cancelled
+      - Pending
+      required: false
+    - id: 5
+      name: rfp_response
+      label: rfp-response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rfp_file_upload
+      label: rfp-file-upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: stakeholder_name
+      label: stakeholder-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: stakeholder_email
+      label: stakeholder-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: stakeholder_phone
+      label: stakeholder-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: stakeholder_comments
+      label: stakeholder-comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: stakeholder_notes
+      label: stakeholder-notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: rfp_comments
+      label: rfp-comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: stakeholder_signature
+      label: stakeholder-signature
+      hint: null
+      type: text
+      options: []
+      required: false

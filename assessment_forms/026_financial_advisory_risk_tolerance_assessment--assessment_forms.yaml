@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Advisory Risk Tolerance Assessment
+    pages:
+    - id: 1
+      name: risk_tolerance
+      label: financial_risk_tolerance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: investment_horizon
+      label: investment_horizon
+      hint: null
+      type: select_one
+      options:
+      - Less than 5 years
+      - 5-10 years
+      - 10-15 years
+      - More than 15 years
+      required: false
+    - id: 3
+      name: risk_level
+      label: risk_level
+      hint: null
+      type: select_one
+      options:
+      - Conservative
+      - Moderate
+      - Aggressive
+      required: false
+    - id: 4
+      name: investment_return
+      label: investment_return
+      hint: null
+      type: select_one
+      options:
+      - Income
+      - Capital preservation
+      - Growth
+      required: false
+    - id: 5
+      name: tax_status
+      label: tax_status
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Joint
+      - Trust
+      required: false
+    - id: 6
+      name: investment_assets
+      label: investment_assets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: risk_awareness
+      label: risk_awareness
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 8
+      name: investment_experience
+      label: investment_experience
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false

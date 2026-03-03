@@ -1,0 +1,251 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Room Reservation Form
+    pages:
+    - id: 1
+      name: reservist_name
+      label: Reservist Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization
+      hint: Company or department
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: room_selection
+      label: Room Selection
+      hint: Choose your room
+      type: select_one
+      options:
+      - Executive Board Room
+      - Conference Room A
+      - Conference Room B
+      - Conference Room C
+      - Training Room
+      - Seminar Hall
+      - Meeting Room 1
+      - Meeting Room 2
+      required: true
+    - id: 6
+      name: reservation_date
+      label: Reservation Date
+      hint: Date of event
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: start_time
+      label: Start Time
+      hint: Event begins
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: end_time
+      label: End Time
+      hint: Event ends
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: buffer_time
+      label: Buffer Time Needed
+      hint: Before and after
+      type: select_one
+      options:
+      - No Buffer Needed
+      - 15 Minutes Before
+      - 30 Minutes Before
+      - 15 Minutes After
+      - 30 Minutes After
+      - Both Before and After
+      required: false
+    - id: 10
+      name: event_name
+      label: Event Name
+      hint: Title of event
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: event_description
+      label: Event Description
+      hint: Brief description
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: event_organizer
+      label: Event Organizer
+      hint: Who is organizing
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: attendee_count
+      label: Expected Attendee Count
+      hint: Number of people
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: external_guests
+      label: Will External Guests Attend
+      hint: Outside visitors
+      type: select_one
+      options:
+      - Yes External Guests
+      - No Internal Only
+      required: true
+    - id: 15
+      name: guest_count
+      label: Number of External Guests
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: setup_style
+      label: Setup Style
+      hint: Room arrangement
+      type: select_one
+      options:
+      - Boardroom Style
+      - Theater Style
+      - Classroom Style
+      - U-Shape
+      - Hollow Square
+      - Banquet Style
+      - Cocktail Reception
+      - Custom
+      required: true
+    - id: 17
+      name: setup_notes
+      label: Setup Notes
+      hint: Special arrangements
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: av_requirements
+      label: AV Requirements
+      hint: Equipment needed
+      type: select_multiple
+      options:
+      - LCD Projector
+      - Projection Screen
+      - Wireless Microphone
+      - Podium Microphone
+      - Sound System
+      - Video Conferencing
+      - Recording Equipment
+      - Laptop Connection
+      - Whiteboard
+      - Flip Chart
+      - None Required
+      required: false
+    - id: 19
+      name: catering_selection
+      label: Catering Selection
+      hint: Food and beverage
+      type: select_one
+      options:
+      - No Catering
+      - Coffee Break
+      - Continental Breakfast
+      - Working Lunch
+      - Full Service Dinner
+      - Cocktail Reception
+      required: true
+    - id: 20
+      name: menu_preferences
+      label: Menu Preferences
+      hint: Dietary needs
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: signage_required
+      label: Signage Required
+      hint: Directional signs
+      type: select_one
+      options:
+      - Yes Please Provide
+      - No Not Needed
+      required: false
+    - id: 22
+      name: signage_details
+      label: Signage Details
+      hint: What should signs say
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: parking_arrangements
+      label: Parking Arrangements
+      hint: Visitor parking
+      type: select_one
+      options:
+      - Yes Reserved Parking Needed
+      - No General Parking
+      - Valet Required
+      required: false
+    - id: 24
+      name: security_requirements
+      label: Security Requirements
+      hint: Special security
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: budget_information
+      label: Budget Code or Account
+      hint: For billing
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: special_requests
+      label: Special Requests
+      hint: Any other needs
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: cancellation_policy
+      label: I Understand Cancellation Policy
+      hint: Acknowledge policy
+      type: select_one
+      options:
+      - I Understand
+      - Need More Information
+      required: true
+    - id: 28
+      name: reservation_confirmation
+      label: I Confirm This Reservation Request
+      hint: Verify request
+      type: select_one
+      options:
+      - I Confirm
+      - Need Changes
+      required: true

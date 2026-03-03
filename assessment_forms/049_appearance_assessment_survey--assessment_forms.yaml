@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Appearance Assessment Survey
+    pages:
+    - id: 1
+      name: section_client_info
+      label: -- Client Information --
+      hint: Collect basic client details for appearance assessment
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client name
+      hint: Optional for anonymous feedback
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: assessment_date
+      label: Assessment date
+      hint: Date of evaluation
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: appearance_concern
+      label: Main appearance concern
+      hint: Select primary area of concern
+      type: select_one
+      options:
+      - Skin texture
+      - Facial symmetry
+      - Hair loss
+      - Body contour
+      - Other
+      required: true
+    - id: 5
+      name: severity_rating
+      label: Severity rating 1 to 10
+      hint: 1 minimal concern and 10 severe concern
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: previous_treatments
+      label: Previous treatments or procedures
+      hint: List any related past interventions
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: desired_outcome
+      label: Desired outcome
+      hint: Brief description of expected results
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consent_for_photos
+      label: Consent for before and after photos
+      hint: Only for clinical records and treatment planning
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      required: false

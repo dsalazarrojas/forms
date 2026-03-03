@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telemedicine Appointment Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_visit
+      label: Reason For Visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_history
+      label: Medical History
+      hint: Please describe your medical history in 100 words.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: appointment_type
+      label: Appointment Type
+      hint: Select one or multiple appointment types.
+      type: select_one
+      options:
+      - Consultation
+      - Check-up
+      - Follow-up
+      - New Patient
+      - Pre-consultation
+      required: false
+    - id: 13
+      name: appointment_status
+      label: Appointment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Scheduled
+      - Rescheduled
+      - Cancelled
+      required: false
+    - id: 14
+      name: calendar
+      label: Calendar
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: calendar_date
+      label: Calendar Date
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: calendar_time
+      label: Calendar Time
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: telemedicine_provider
+      label: Telemedicine Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

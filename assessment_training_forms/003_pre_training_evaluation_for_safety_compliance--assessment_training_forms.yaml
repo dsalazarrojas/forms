@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pre-Training Evaluation For Safety Compliance
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: training_program
+      label: Training Program
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Safety''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 3
+      name: training_program_other
+      label: If Other, please specify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: training_location
+      label: Training Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''In-person''}'
+      - '{''value'': ''Online''}'
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: training_hours
+      label: Training Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: training_hours_others
+      label: If other, please specify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: trainer
+      label: Trainer
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Jim''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 9
+      name: trainer_other
+      label: If Other, please specify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: trainees
+      label: Trainees
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1}'
+      - '{''value'': ''2-5''}'
+      - '{''value'': ''5+''}'
+      - '{''value'': ''Unknown''}'
+      required: false
+    - id: 11
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: training_duration
+      label: Training Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: training_outcome
+      label: Training Outcome
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Satisfied''}'
+      - '{''value'': ''Not Satisfied''}'
+      - '{''value'': ''No Opinion''}'
+      required: false
+    - id: 14
+      name: evaluation
+      label: Evaluation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Satisfied''}'
+      - '{''value'': ''Not Satisfied''}'
+      - '{''value'': ''No Opinion''}'
+      required: false
+    - id: 15
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: evaluation_duration
+      label: Evaluation Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: safety_equipment
+      label: Safety Equipment Used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: comments_others
+      label: If comments are not complete, please specify
+      hint: null
+      type: text
+      options: []
+      required: false

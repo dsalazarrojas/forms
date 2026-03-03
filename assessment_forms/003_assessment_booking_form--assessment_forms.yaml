@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Assessment Booking Form
+    pages:
+    - id: 1
+      name: applicant_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email
+      label: Email Address
+      hint: Primary email contact
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: applicant_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: applicant_date_of_birth
+      label: Date of Birth
+      hint: Your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: applicant_address
+      label: Residential Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: applicant_city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: applicant_state
+      label: State/Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: applicant_zip
+      label: ZIP/Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: assessment_type
+      label: Type of Assessment
+      hint: What type of assessment do you need?
+      type: select_one
+      options:
+      - Academic Assessment
+      - Skills Assessment
+      - Health Assessment
+      - Career Assessment
+      - Aptitude Test
+      - Other
+      required: true
+    - id: 11
+      name: assessment_level
+      label: Assessment Level
+      hint: What level of assessment?
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Professional
+      required: true
+    - id: 12
+      name: preferred_date_1
+      label: First Preferred Assessment Date
+      hint: Your first choice date
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: preferred_date_2
+      label: Second Preferred Assessment Date
+      hint: Backup date option
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: preferred_time
+      label: Preferred Assessment Time
+      hint: What time works best?
+      type: select_one
+      options:
+      - 9:00 AM
+      - 10:00 AM
+      - 11:00 AM
+      - 2:00 PM
+      - 3:00 PM
+      - 4:00 PM
+      required: true
+    - id: 15
+      name: assessment_location
+      label: Assessment Location Preference
+      hint: Where do you prefer to take the assessment?
+      type: select_one
+      options:
+      - On-site
+      - Online
+      - At Testing Center
+      - No Preference
+      required: true
+    - id: 16
+      name: special_accommodations
+      label: Special Accommodations Needed
+      hint: Any accessibility needs or special requirements
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: document_review
+      label: I have reviewed the assessment documents
+      hint: Confirmation checkbox
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: payment_method
+      label: Preferred Payment Method
+      hint: How would you like to pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Check
+      - Online Payment
+      required: true
+    - id: 19
+      name: confirmation_email
+      label: Send confirmation to this email
+      hint: Confirmation details will be sent here
+      type: email
+      options: []
+      required: true
+    - id: 20
+      name: additional_notes
+      label: Additional Notes or Questions
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false

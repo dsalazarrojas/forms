@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Deed Records Release Form
+    pages:
+    - id: 1
+      name: property_owner
+      label: Property Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: property_description
+      label: Property Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: property_value
+      label: Property Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: reason_for_removal
+      label: Reason for Removal
+      hint: null
+      type: select_multiple
+      options:
+      - Reason 1
+      - Reason 2
+      - Reason 3
+      required: false
+    - id: 10
+      name: signature_date
+      label: Signature Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false

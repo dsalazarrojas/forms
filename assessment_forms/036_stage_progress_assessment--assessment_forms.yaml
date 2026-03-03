@@ -1,0 +1,38 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stage Progress Assessment
+    pages:
+    - id: 1
+      name: stage_progress_assessment_1
+      label: Initial Assessment
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: stage_progress_assessment_2
+      label: Follow-up Assessment
+      hint: null
+      type: select_one
+      options:
+      - Very Low
+      - Low
+      - Moderate
+      - High
+      - Very High
+      required: true
+    - id: 3
+      name: participant_progress
+      label: Participant Progress
+      hint: Please rate the participant's progress.
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: Provide any additional feedback you have for this participant.
+      type: text
+      options: []
+      required: true

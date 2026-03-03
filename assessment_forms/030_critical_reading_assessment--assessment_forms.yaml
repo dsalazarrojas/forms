@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Critical Reading Assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_information
+      label: Student Information
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: reading_passage
+      label: Reading Passage
+      hint: Please select a reading passage
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: comprehension_questions
+      label: Comprehension Questions
+      hint: Please answer the following questions
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: analytical_questions
+      label: Analytical Questions
+      hint: Please answer the following questions
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: reading_comprehension
+      label: Reading Comprehension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: analytical_skills
+      label: Analytical Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: student_grade
+      label: Student Grade
+      hint: Please select a grade
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

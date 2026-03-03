@@ -1,0 +1,221 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Clinic Service Assessment
+    pages:
+    - id: 1
+      name: assessor_section
+      label: -- Assessor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: physician_name
+      label: Physician Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: clinic_name
+      label: Clinic Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: patient_section
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: mrn
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: visit_type
+      label: Type of Visit
+      hint: null
+      type: select_one
+      options:
+      - New patient
+      - Follow-up
+      - Routine check-up
+      - Urgent care
+      - Preventive care
+      required: true
+    - id: 9
+      name: service_section
+      label: -- Service Excellence --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: access_to_care
+      label: Access to care was easy
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 11
+      name: wait_time
+      label: Wait time was acceptable
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 12
+      name: care_quality
+      label: Quality of care received
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 13
+      name: communication_section
+      label: -- Communication and Engagement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: communication_quality
+      label: Physician communicated clearly
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 15
+      name: patient_involvement
+      label: Patient was involved in decision-making
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 16
+      name: questions_answered
+      label: Questions were answered thoroughly
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 17
+      name: professionalism_section
+      label: -- Professionalism and Respect --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: professionalism
+      label: Physician was professional and respectful
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 19
+      name: cultural_sensitivity
+      label: Physician demonstrated cultural sensitivity
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 20
+      name: overall_section
+      label: -- Overall Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: overall_satisfaction
+      label: Overall service satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very Poor
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 22
+      name: improvement_areas
+      label: Areas for improvement
+      hint: Optional
+      type: text
+      options: []
+      required: false

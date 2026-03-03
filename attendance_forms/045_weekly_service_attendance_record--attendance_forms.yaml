@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weekly Service Attendance Record
+    pages:
+    - id: 1
+      name: weekly_service_attendance_record_form
+      label: Attendance Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: attendees_count
+      label: Attendees Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: attendees_list
+      label: Attendees List
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: service_leaders
+      label: Service Leaders
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: service_leaders_notes
+      label: Service Leaders Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 12
+      name: follow_up_notes
+      label: Follow Up Notes
+      hint: null
+      type: note
+      options: []
+      required: false

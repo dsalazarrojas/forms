@@ -1,0 +1,59 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Tax Professional Communication Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: communication_quality
+      label: How would you rate the communication quality of our team?
+      hint: null
+      type: select_one
+      options:
+      - 1 - Very poor
+      - 2 - Poor
+      - 3 - Neutral
+      - 4 - Good
+      - 5 - Excellent
+      required: false
+    - id: 3
+      name: responsiveness
+      label: How responsive are we to your phone calls and emails?
+      hint: null
+      type: select_one
+      options:
+      - 1 - Very unresponsive
+      - 2 - Somewhat unresponsive
+      - 3 - Neutral
+      - 4 - Somewhat responsive
+      - 5 - Very responsive
+      required: false
+    - id: 4
+      name: clarity
+      label: How clear is the information provided to you?
+      hint: null
+      type: select_one
+      options:
+      - 1 - Very unclear
+      - 2 - Somewhat unclear
+      - 3 - Neutral
+      - 4 - Somewhat clear
+      - 5 - Very clear
+      required: false

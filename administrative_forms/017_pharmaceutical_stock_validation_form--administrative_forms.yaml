@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: pharmaceutical_stock_validation_form
+    pages:
+    - id: 1
+      name: form_header
+      label: form_header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: stock_type
+      label: stock_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: product_info
+      label: product_info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: stock_status
+      label: stock_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: expiration_date
+      label: expiration_date
+      hint: null
+      type: date
+      options: []
+      required: false

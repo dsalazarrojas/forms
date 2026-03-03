@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sentence Clarity Evaluation Questionnaire
+    pages:
+    - id: 1
+      name: sentence_clarity
+      label: Is the sentence clear?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: audience
+      label: Which audience
+      hint: null
+      type: select_one
+      options:
+      - General Public
+      - Academic
+      - Academic and General Public
+      required: false
+    - id: 3
+      name: score
+      label: How clear?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: sentence
+      label: The sentence
+      hint: null
+      type: text
+      options: []
+      required: false

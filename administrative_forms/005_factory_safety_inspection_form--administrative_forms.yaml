@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: factory_safety_inspection_form
+    pages:
+    - id: 1
+      name: section_1
+      label: Factory Safety Inspection Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: section_2
+      label: General
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: section_3
+      label: Safety Equipment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: section_4
+      label: Personal Protective Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: section_5
+      label: Factory Safety Inspection Form
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: section_6
+      label: Factory Safety Inspection Form
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: section_7
+      label: Factory Inspection Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_8
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false

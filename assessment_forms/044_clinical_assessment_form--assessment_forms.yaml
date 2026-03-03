@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clinical Assessment Form
+    pages:
+    - id: 1
+      name: patient_section
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: mrn
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: provider_name
+      label: Healthcare Provider Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: chief_complaint_section
+      label: -- Chief Complaint --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: chief_complaint
+      label: Chief Complaint
+      hint: Reason for visit
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: duration
+      label: Duration of symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: severity
+      label: Symptom severity
+      hint: null
+      type: select_one
+      options:
+      - Mild
+      - Moderate
+      - Severe
+      - Severe and life-threatening
+      required: true
+    - id: 11
+      name: history_section
+      label: -- History of Present Illness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: symptom_progression
+      label: How symptoms have progressed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: triggering_factors
+      label: Triggering or exacerbating factors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: relieving_factors
+      label: Relieving factors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: associated_symptoms
+      label: Associated symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: vital_section
+      label: -- Vital Signs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: temperature
+      label: Temperature (Fahrenheit)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: blood_pressure
+      label: Blood Pressure
+      hint: Format - systolic/diastolic
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: heart_rate
+      label: Heart Rate (bpm)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: respiratory_rate
+      label: Respiratory Rate (breaths/min)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: physical_section
+      label: -- Physical Examination --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: general_appearance
+      label: General appearance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: examination_findings
+      label: Examination findings
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: abnormal_findings
+      label: Abnormal findings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assessment_impression
+      label: Assessment and Impression
+      hint: null
+      type: text
+      options: []
+      required: true

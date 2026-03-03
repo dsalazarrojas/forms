@@ -1,0 +1,88 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Demerit Warning Form
+    pages:
+    - id: 1
+      name: warning_type
+      label: Warning Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''1''}'
+      - '{''value'': ''2''}'
+      - '{''value'': ''3''}'
+      required: false
+    - id: 2
+      name: date_of_incident
+      label: Date of Incident
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: Please provide a detailed description of the incident.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: warning_given_by
+      label: Warning Given By
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''1''}'
+      - '{''value'': ''2''}'
+      - '{''value'': ''3''}'
+      required: false
+    - id: 5
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''1''}'
+      - '{''value'': ''2''}'
+      - '{''value'': ''3''}'
+      required: false
+    - id: 6
+      name: witness_statement
+      label: Witness Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: consequence_statement
+      label: Consequence Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_signature
+      label: Student Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: teacher_signature
+      label: Teacher Signature
+      hint: null
+      type: text
+      options: []
+      required: false

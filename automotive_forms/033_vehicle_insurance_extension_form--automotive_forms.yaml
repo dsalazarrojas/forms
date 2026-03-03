@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: vehicle-insurance-extension-form
+    pages:
+    - id: 1
+      name: vehicle_insurance_extension_form
+      label: Vehicle Insurance Extension Form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: vehicle_insurance_vehicle_identification
+      label: Vehicle Identification
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: policy_coverage_period
+      label: policy-coverage-period
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: new_coverage_start_date
+      label: new-coverage-start-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: policy_start_date
+      label: policy-start-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: policy_end_date
+      label: policy-end-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: new_policy_coverage
+      label: new-policy-coverage
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 8
+      name: coverage_type
+      label: coverage-type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 9
+      name: vehicle_insurance_policy_number
+      label: vehicle-insurance-policy-number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: insurance_agents_name
+      label: insurance-agents-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_identification_document
+      label: vehicle-identification-document
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_make
+      label: vehicle-make
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: vehicle_model
+      label: vehicle-model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: vehicle_year_of_manufacture
+      label: vehicle-year-of-manufacture
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: vehicle_ownership_status
+      label: vehicle-ownership-status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 16
+      name: vehicle_ownership_duration
+      label: vehicle-ownership-duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: vehicle_usage_status
+      label: vehicle-usage-status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

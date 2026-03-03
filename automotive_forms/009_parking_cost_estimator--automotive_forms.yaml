@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parking Cost Estimator
+    pages:
+    - id: 1
+      name: parking_start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 2
+      name: parking_end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: vehicle_type
+      label: vehicle_type
+      hint: null
+      type: select_one
+      options:
+      - Car
+      - Motorcycle
+      - Truck
+      - Van
+      - Bus
+      - Bicycle
+      required: true
+    - id: 4
+      name: parking_location
+      label: parking_location
+      hint: null
+      type: select_multiple
+      options:
+      - Downtown
+      - Near-neighborhood
+      - Airport
+      - Train station
+      - Hotel
+      - Other
+      required: true
+    - id: 5
+      name: hours_parked
+      label: hours_parked
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: hourly_rate
+      label: hourly_rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: total_cost
+      label: total_cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: estimated_cost
+      label: estimated_cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: parking_fees
+      label: parking_fees
+      hint: null
+      type: select_one
+      options:
+      - Free
+      - $0-$5
+      - $6-$10
+      - $11-$15
+      - $16-$20
+      - $21 or more
+      required: true
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true

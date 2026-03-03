@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Test Blueprint Creation Form
+    pages:
+    - id: 1
+      name: test_blueprint_creation_form
+      label: Test Blueprints
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: assessment_name
+      label: Assessment Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: assessment_description
+      label: Assessment Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assessment_category
+      label: Assessment Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: assessment_level
+      label: Assessment Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 6
+      name: training_area
+      label: Training Area
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: training_level
+      label: Training Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 8
+      name: assessment_type
+      label: Assessment Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: assessment_objectives
+      label: Assessment Objectives
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assessment_criteria
+      label: Assessment Criteria
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assessment_evidence
+      label: Assessment Evidence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assessment_review_status
+      label: Assessment Review Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: review_status_options
+      label: Review Status Options
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Not Started
+      - Under Review
+      - Completed
+      required: false
+    - id: 14
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: assessment_due_date
+      label: Assessment Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: assessment_start_date
+      label: Assessment Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: assessment_end_date
+      label: Assessment End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: assessment_start_time
+      label: Assessment Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: assessment_end_time
+      label: Assessment End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: created_by_name
+      label: Created By Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: created_by_email
+      label: Created By Email
+      hint: null
+      type: email
+      options: []
+      required: false

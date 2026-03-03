@@ -1,0 +1,149 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 45 Days Challenge Registration Form
+    pages:
+    - id: 1
+      name: section_header_registration
+      label: "--- Participant Registration ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant full name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email address
+      hint: Used for schedules and updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone number
+      hint: Include country code if applicable
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: Used for age-based classes
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: Person to contact in an emergency
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact_phone
+      label: Emergency contact phone
+      hint: Best number to reach them
+      type: phone
+      options: []
+      required: true
+    - id: 8
+      name: fitness_level
+      label: Current fitness level
+      hint: Helps match workouts and intensity
+      type: select_one
+      options:
+        - Beginner
+        - Intermediate
+        - Advanced
+      required: true
+    - id: 9
+      name: fitness_goals
+      label: Primary goals (select all that apply)
+      hint: Choose up to three goals
+      type: select_multiple
+      options:
+        - Weight loss
+        - Strength building
+        - Endurance / cardio
+        - Flexibility / mobility
+        - Habit formation
+      required: true
+    - id: 10
+      name: preferred_session_time
+      label: Preferred session time
+      hint: Local time preference
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: challenge_start_date
+      label: Desired challenge start date
+      hint: Weekend starts are common
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: payment_amount
+      label: Registration payment amount (USD)
+      hint: Enter total or negotiated fee
+      type: decimal
+      options: []
+      required: true
+    - id: 13
+      name: medical_conditions
+      label: Any medical conditions or limitations
+      hint: Leave blank if none; be specific
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: trainer_preference
+      label: Preferred trainer or coach
+      hint: Enter name or leave blank for assignment
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: waiver_agreement
+      label: Do you accept the participant waiver and terms?
+      hint: Must accept to participate
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: true
+    - id: 16
+      name: promo_code
+      label: Promotional code (optional)
+      hint: Enter code if you have one
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_comments
+      label: Anything else we should know?
+      hint: Goals, constraints, accessibility needs
+      type: text
+      options: []
+      required: false

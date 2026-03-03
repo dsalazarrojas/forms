@@ -1,0 +1,106 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Course Module Request Form
+    pages:
+    - id: 1
+      name: course_module_request_form_1
+      label: Curriculum Proposal
+      hint: Provide a brief description of the proposed module
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: module_name
+      label: Module Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: module_description
+      label: Module Description
+      hint: Please provide a detailed description of the module
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: module_type
+      label: Module Type
+      hint: null
+      type: select_one
+      options:
+      - Lecture
+      - Workshop
+      - Lab
+      required: true
+    - id: 6
+      name: start_date
+      label: Start Date
+      hint: DD/MM/YY
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: End Date
+      hint: DD/MM/YY
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: module_status
+      label: Module Status
+      hint: Draft
+      type: select_multiple
+      options:
+      - Draft
+      - Approved
+      - Rejected
+      required: true
+    - id: 9
+      name: module_status_reason
+      label: Module Status Reason
+      hint: Please select a reason
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitter_department
+      label: Submitter Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter_email
+      label: Submitter Email
+      hint: Submitter's Email
+      type: email
+      options: []
+      required: false

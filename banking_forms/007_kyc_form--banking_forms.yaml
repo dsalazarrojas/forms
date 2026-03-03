@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: kyc_form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: account_number
+      label: account_number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: account_type
+      label: account_type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 4
+      name: address
+      label: street_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: signature
+      label: customer_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: id_number
+      label: customer_id_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: nationality
+      label: customer_nationality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: document_number
+      label: customer_document_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_id_type
+      label: id_type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 13
+      name: customer_since
+      label: customer_since
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: account_since
+      label: account_since
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: customer_since
+      label: customer_since
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Onboarding Approval Request Form
+    pages:
+    - id: 1
+      name: company_information
+      label: Company Information
+      hint: Enter company details
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: Enter address details
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vendor_type
+      label: Vendor Type
+      hint: null
+      type: select_one
+      options:
+      - Retail
+      - Wholesale
+      - E-commerce
+      required: false
+    - id: 8
+      name: tax_id
+      label: Tax ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: bank_account
+      label: Bank Account
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: routing_number
+      label: Routing Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: account_holder
+      label: Account Holder
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: bank_address
+      label: Bank Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: bank_phone
+      label: Bank Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: account_manager
+      label: Account Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: account_manager_phone
+      label: Account Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: vendor_status
+      label: Vendor Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Active
+      - Inactive
+      required: false
+    - id: 18
+      name: vendor_notes
+      label: Vendor Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: approval_requester
+      label: Approval Requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: date_approved
+      label: Date Approved
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: time_approved
+      label: Time Approved
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submit_button
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

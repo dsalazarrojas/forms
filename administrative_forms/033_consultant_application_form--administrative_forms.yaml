@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consultant Application Form
+    pages:
+    - id: 1
+      name: section_applicant_details
+      label: -- Applicant Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: For application follow up
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: areas_of_expertise
+      label: Areas of expertise
+      hint: Core consulting skills and domains
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: years_experience
+      label: Years experience
+      hint: Total years in consulting
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: portfolio_link
+      label: Portfolio link
+      hint: Link to work samples or resume
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: availability
+      label: Availability
+      hint: Typical hours or start date availability
+      type: text
+      options: []
+      required: false

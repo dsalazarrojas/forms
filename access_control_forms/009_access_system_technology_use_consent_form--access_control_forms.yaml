@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Access System Technology Use Consent Form
+    pages:
+    - id: 1
+      name: user_full_name
+      label: User Full Name
+      hint: Your legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: user_id
+      label: User ID
+      hint: Your unique user identifier
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Your department or division
+      type: select_one
+      options:
+      - IT
+      - HR
+      - Finance
+      - Operations
+      - Marketing
+      - Sales
+      - Legal
+      - Security
+      - Other
+      required: true
+    - id: 4
+      name: position_title
+      label: Position Title
+      hint: Your job title
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Your work email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Your contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: system_access_requested
+      label: System Access Requested
+      hint: Which system(s) are you requesting access to?
+      type: select_multiple
+      options:
+      - Database Server
+      - Application Server
+      - Network Infrastructure
+      - Cloud Services
+      - File Server
+      - Email System
+      - Security Systems
+      - HR Portal
+      - Financial System
+      - CRM
+      - Project Management Tool
+      - Code Repository
+      required: true
+    - id: 8
+      name: access_level_requested
+      label: Access Level Requested
+      hint: What level of access do you need?
+      type: select_one
+      options:
+      - Read Only
+      - Standard User
+      - Power User
+      - Administrator
+      - Super User
+      - Root Access
+      required: true
+    - id: 9
+      name: data_classification_access
+      label: Data Classification Access
+      hint: What classification of data will you access?
+      type: select_multiple
+      options:
+      - Public
+      - Internal
+      - Confidential
+      - Highly Confidential
+      - Restricted
+      - PII
+      - PHI
+      - Financial Data
+      required: true
+    - id: 10
+      name: purpose_of_access
+      label: Purpose of Access
+      hint: Why do you need this access?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: duration_of_access
+      label: Duration of Access
+      hint: How long do you need this access?
+      type: select_one
+      options:
+      - Permanent
+      - Temporary - Less than 1 week
+      - Temporary - 1-4 weeks
+      - Temporary - 1-3 months
+      - Temporary - 3-12 months
+      - Temporary - More than 1 year
+      required: true
+    - id: 12
+      name: data_usage_consent
+      label: Data Usage Consent
+      hint: Do you agree to use the accessed data only for authorized business purposes?
+      type: select_one
+      options:
+      - Yes, I agree
+      - 'No'
+      required: true
+    - id: 13
+      name: security_policy_acknowledgment
+      label: Security Policy Acknowledgment
+      hint: Do you acknowledge that you have read and will comply with the organization's
+        security policies?
+      type: select_one
+      options:
+      - Yes, I acknowledge
+      - 'No'
+      required: true
+    - id: 14
+      name: data_privacy_acknowledgment
+      label: Data Privacy Acknowledgment
+      hint: Do you understand your responsibilities regarding data privacy and protection?
+      type: select_one
+      options:
+      - Yes, I understand
+      - 'No'
+      required: true
+    - id: 15
+      name: incident_reporting_agreement
+      label: Incident Reporting Agreement
+      hint: Do you agree to report any security incidents or suspicious activities
+        immediately?
+      type: select_one
+      options:
+      - Yes, I agree
+      - 'No'
+      required: true
+    - id: 16
+      name: access_monitoring_consent
+      label: Access Monitoring Consent
+      hint: Do you consent to having your access and activities monitored for security
+        purposes?
+      type: select_one
+      options:
+      - Yes, I consent
+      - 'No'
+      required: true
+    - id: 17
+      name: termination_procedure_acknowledgment
+      label: Termination Procedure Acknowledgment
+      hint: Do you understand that your access will be revoked upon termination of
+        employment or role change?
+      type: select_one
+      options:
+      - Yes, I understand
+      - 'No'
+      required: true
+    - id: 18
+      name: signature
+      label: Electronic Signature
+      hint: Type your full name to sign this consent form
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true

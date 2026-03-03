@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: trail_visitor_check_in_form
+    pages:
+    - id: 1
+      name: trailhead_name
+      label: Trailhead Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: trailhead_group
+      label: Trailhead Group
+      hint: null
+      type: select_one
+      options:
+      - Park Rangers
+      - Park Management
+      - Trail Maintenance
+      required: false
+    - id: 5
+      name: visit_start_time
+      label: Visit Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: visit_duration
+      label: Visit Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: visit_date
+      label: Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: trail_type
+      label: Trail Type
+      hint: null
+      type: select_multiple
+      options:
+      - Hiking
+      - Biking
+      - Horseback riding
+      - Other
+      required: false
+    - id: 9
+      name: trailhead_comments
+      label: Trailhead Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: visitor_comments
+      label: Visitor Comments
+      hint: null
+      type: text
+      options: []
+      required: false

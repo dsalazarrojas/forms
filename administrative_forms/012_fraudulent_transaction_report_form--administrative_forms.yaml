@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fraudulent Transaction Report Form
+    pages:
+    - id: 1
+      name: transaction_date
+      label: Transaction Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: transaction_amount
+      label: transaction_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: suspicious_activities
+      label: Suspicous Activities
+      hint: null
+      type: select_one
+      options:
+      - Transactional
+      - Non-Transactional
+      - Other
+      required: false
+    - id: 5
+      name: investigation_officer
+      label: Investigation Officer
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Joe
+      required: false
+    - id: 6
+      name: suspicious_ip
+      label: Suspicious IP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: transaction_type
+      label: Transaction Type
+      hint: null
+      type: select_one
+      options:
+      - Credit
+      - Debit
+      - Transfer
+      - Other
+      required: false
+    - id: 8
+      name: suspicious_location
+      label: Suspicous Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: transaction_time
+      label: Transaction Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: reported_by
+      label: Reported By
+      hint: null
+      type: select_one
+      options:
+      - Jimmy
+      - Jane
+      - John
+      required: false
+    - id: 14
+      name: reported_on
+      label: Reported On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: ip_address
+      label: IP Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: suspect_name
+      label: Suspect Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: suspect_address
+      label: Suspect Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: suspect_country
+      label: Suspect Country
+      hint: null
+      type: select_one
+      options:
+      - United States
+      - Mexico
+      - Canada
+      required: false
+    - id: 19
+      name: suspect_city
+      label: Suspect City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: suspect_zip
+      label: Suspect Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: suspect_state
+      label: Suspect State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: suspect_phone
+      label: Suspect Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: ip_geolocation
+      label: IP Geolocation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: suspect_email
+      label: Suspect Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: suspect_browser
+      label: Suspect Browser
+      hint: null
+      type: text
+      options: []
+      required: false

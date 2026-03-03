@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quarantine Pet Food Assistance Form
+    pages:
+    - id: 1
+      name: pet_food_form
+      label: pet_food_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_type
+      label: pet_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: pet_breed
+      label: pet_breed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false

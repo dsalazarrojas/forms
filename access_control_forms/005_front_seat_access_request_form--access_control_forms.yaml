@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Front Seat Access Request Form
+    pages:
+    - id: 1
+      name: front_seat_request_page
+      label: Front Seat Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person_name
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person_email
+      label: contact_person_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_person_phone
+      label: contact_person_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: school_event_name
+      label: school_event
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_date_time
+      label: event_date_time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: event_type
+      label: event_type
+      hint: null
+      type: select_one
+      options:
+      - Tour
+      - School
+      - Event
+      required: true
+    - id: 8
+      name: front_seat_type
+      label: front_seat_type
+      hint: null
+      type: select_multiple
+      options:
+      - Front Seat
+      - Rear Seat
+      - No Preference
+      - Other
+      required: true
+    - id: 9
+      name: front_seat_request_message
+      label: front_seat_request_message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submission_comments
+      label: submission_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: submitter_role
+      label: submitter_role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: school_abbreviation
+      label: school_abbreviation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: submitter_phone
+      label: submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: submitter_comments
+      label: submitter_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitter_agree
+      label: submitter_agree
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      required: true
+    - id: 20
+      name: submitter_agree_reason
+      label: submitter_agree_reason
+      hint: null
+      type: text
+      options: []
+      required: false

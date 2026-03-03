@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ceramic Coating Warranty Registration
+    pages:
+    - id: 1
+      name: registration_date
+      label: Registration Date
+      hint: Date of warranty registration
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: owner_name
+      label: Vehicle Owner Name
+      hint: Full legal name of vehicle owner
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: owner_email
+      label: Email Address
+      hint: Email for warranty communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: owner_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: owner_address
+      label: Mailing Address
+      hint: Full address for warranty documents
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: vehicle_year
+      label: Vehicle Year
+      hint: Year of vehicle
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: vehicle_make
+      label: Vehicle Make
+      hint: Manufacturer of vehicle
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: vehicle_model
+      label: Vehicle Model
+      hint: Model of vehicle
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: vehicle_color
+      label: Vehicle Color
+      hint: Primary exterior color
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: vehicle_vin
+      label: Vehicle VIN
+      hint: 17-digit Vehicle Identification Number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: vehicle_mileage
+      label: Current Mileage
+      hint: Odometer reading at time of coating
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: installer_name
+      label: Installer Company Name
+      hint: Name of installation facility
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: installer_location
+      label: Installer Location
+      hint: City and state of installation
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: installation_date
+      label: Installation Date
+      hint: Date ceramic coating was applied
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: coating_product
+      label: Coating Product Name
+      hint: Specific ceramic coating product used
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: coating_package
+      label: Coating Package Level
+      hint: Tier or level of coating applied
+      type: select_one
+      options:
+      - Entry level coating
+      - Standard coating
+      - Premium coating
+      - Professional grade
+      - Elite maximum protection
+      required: true
+    - id: 17
+      name: warranty_duration
+      label: Warranty Duration
+      hint: Length of warranty coverage
+      type: select_one
+      options:
+      - 1 year
+      - 2 years
+      - 3 years
+      - 5 years
+      - 7 years
+      - Lifetime
+      required: true
+    - id: 18
+      name: proof_of_installation
+      label: Proof of Installation Uploaded
+      hint: Has installer provided documentation
+      type: select_one
+      options:
+      - Yes - Certificate provided
+      - Yes - Invoice provided
+      - Yes - Both certificate and invoice
+      - No - Pending
+      required: true
+    - id: 19
+      name: additional_services
+      label: Additional Services Performed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Paint correction
+      - Clay bar treatment
+      - Machine polishing
+      - Wheel coating
+      - Glass coating
+      - Interior protection
+      - Engine bay coating
+      required: false
+    - id: 20
+      name: maintenance_plan
+      label: Maintenance Plan Enrolled
+      hint: Are you enrolled in a maintenance program
+      type: select_one
+      options:
+      - Yes - Annual maintenance
+      - Yes - Bi-annual maintenance
+      - No - Not enrolled
+      - Interested - Contact me
+      required: false
+    - id: 21
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: Source of referral
+      type: select_one
+      options:
+      - Internet search
+      - Social media
+      - Friend or family referral
+      - Dealer recommendation
+      - Previous customer
+      - Advertisement
+      - Other
+      required: false
+    - id: 22
+      name: terms_acceptance
+      label: Terms and Conditions Acceptance
+      hint: I have read and accept the warranty terms
+      type: select_one
+      options:
+      - Yes - I accept
+      - No - I do not accept
+      required: true
+    - id: 23
+      name: marketing_consent
+      label: Marketing Communications Consent
+      hint: I agree to receive product updates and maintenance reminders
+      type: select_one
+      options:
+      - Yes - I consent
+      - No - Do not contact me
+      required: true

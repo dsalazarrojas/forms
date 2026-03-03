@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physical Access Security Request Form
+    pages:
+    - id: 1
+      name: facility_access_request
+      label: Facility Access Request
+      hint: Please enter the facility access request details here
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: access_dates
+      label: Access Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: access_time
+      label: Access Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: employee_name
+      label: Employee Name
+      hint: Please enter the employee name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: employee_job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: facility_location
+      label: Facility Location
+      hint: Please enter the facility location
+      type: select_one
+      options:
+      - '{''option'': ''North Location''}'
+      - '{''option'': ''South Location''}'
+      - '{''option'': ''East Location''}'
+      required: false
+    - id: 7
+      name: approval_requester
+      label: Approval Requester
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Manager''}'
+      - '{''option'': ''Supervisor''}'
+      - '{''option'': ''HR Representative''}'
+      required: false
+    - id: 8
+      name: approval_approver
+      label: Approval Approver
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Manager''}'
+      - '{''option'': ''Supervisor''}'
+      - '{''option'': ''HR Representative''}'
+      required: false
+    - id: 9
+      name: access_duration
+      label: Access Duration
+      hint: Please enter the access duration
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: reason_for_access
+      label: Reason for Access
+      hint: null
+      type: text
+      options: []
+      required: false

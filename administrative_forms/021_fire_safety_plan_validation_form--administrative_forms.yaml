@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: fire_safety_plan_validation_form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: fire_safety_plan
+      label: fire_safety_plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: emergency_contact
+      label: emergency_contact
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: false
+    - id: 4
+      name: emergency_contact_information
+      label: emergency_contact_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: fire_safety_plan_implementation
+      label: fire_safety_plan_implementation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: review_and_update
+      label: review_and_update
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: submission_review
+      label: submission_review
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: false
+    - id: 8
+      name: submit_and_review
+      label: submit_and_review
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: submit_and_review_date
+      label: submit_and_review_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: submit_and_review_time
+      label: submit_and_review_time
+      hint: null
+      type: time
+      options: []
+      required: false

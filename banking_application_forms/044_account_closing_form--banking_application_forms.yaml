@@ -1,0 +1,155 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Account Closing Form
+    pages:
+    - id: 1
+      name: account_holder_name
+      label: Account Holder Name
+      hint: Your full legal name as it appears on the account
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: account_holder_ssn
+      label: Account Holder SSN
+      hint: Your Social Security Number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: account_number
+      label: Account Number
+      hint: The account number you wish to close
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: account_type
+      label: Account Type
+      hint: Type of account you wish to close
+      type: select_one
+      options: ["Checking Account", "Savings Account", "Money Market Account", "Certificate of Deposit", "Credit Card Account", "Loan Account", "Other"]
+      required: true
+    - id: 5
+      name: branch_location
+      label: Branch Location
+      hint: Which branch handles your account (if applicable)
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: closing_reason
+      label: Closing Reason
+      hint: Why are you closing this account?
+      type: select_one
+      options: ["Moving to another bank", "Consolidating accounts", "No longer needed", "Poor service", "High fees", "Fraud concerns", "Other"]
+      required: true
+    - id: 7
+      name: final_balance_handling
+      label: Final Balance Handling
+      hint: How would you like to receive the remaining balance?
+      type: select_one
+      options: ["Check by mail", "Direct deposit to another account", "Cash at branch", "Wire transfer", "Other arrangement"]
+      required: true
+    - id: 8
+      name: destination_account_number
+      label: Destination Account Number
+      hint: If transferring balance, provide the destination account number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: destination_bank_name
+      label: Destination Bank Name
+      hint: If transferring balance, provide the destination bank name
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: automatic_payments_cancel
+      label: Automatic Payments Cancel
+      hint: Do you want to cancel all automatic payments and deposits?
+      type: select_one
+      options: ["Yes, cancel all", "No, I will redirect them myself", "Only specific ones (please specify)"]
+      required: true
+    - id: 11
+      name: debit_card_handling
+      label: Debit Card Handling
+      hint: How should your debit card be handled?
+      type: select_one
+      options: ["Cancel immediately", "Keep active until balance transferred", "Return by mail", "Destroy at branch"]
+      required: true
+    - id: 12
+      name: checkbooks_handling
+      label: Checkbooks Handling
+      hint: How should unused checks be handled?
+      type: select_one
+      options: ["Cancel and destroy", "Allow to clear before closing", "Return to me", "Other"]
+      required: true
+    - id: 13
+      name: pending_transactions
+      label: Pending Transactions
+      hint: Are there any pending transactions on this account?
+      type: select_one
+      options: ["Yes", "No", "Unsure"]
+      required: true
+    - id: 14
+      name: pending_transactions_details
+      label: Pending Transactions Details
+      hint: If yes, please provide details about pending transactions
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: overdraft_protection
+      label: Overdraft Protection
+      hint: Is this account linked to overdraft protection?
+      type: select_one
+      options: ["Yes", "No", "Unsure"]
+      required: true
+    - id: 16
+      name: overdraft_protection_handling
+      hint: How should overdraft protection be handled?
+      type: select_one
+      options: ["Transfer to another account", "Cancel protection", "Other arrangement"]
+      required: true
+    - id: 17
+      name: final_statement_preference
+      label: Final Statement Preference
+      hint: How would you like to receive your final statement?
+      type: select_one
+      options: ["Paper statement by mail", "Electronic statement", "No statement needed", "View online only"]
+      required: true
+    - id: 18
+      name: contact_preference
+      label: Contact Preference
+      hint: How would you prefer to be contacted regarding this closure?
+      type: select_one
+      options: ["Email", "Phone", "Mail", "Text message"]
+      required: true
+    - id: 19
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information about your account closure
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: electronic_signature
+      label: Electronic Signature
+      hint: Type your full name to sign this form electronically
+      type: text
+      options: []
+      required: true

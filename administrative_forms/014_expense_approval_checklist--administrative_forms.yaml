@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Expense Approval Checklist
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: expense_date
+      label: Expense Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: expense_amount
+      label: Expense Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: expense_category
+      label: Expense Category
+      hint: null
+      type: select_one
+      options:
+      - Options 1
+      - Options 2
+      - Options 3
+      required: false
+    - id: 5
+      name: expense_reason
+      label: Expense Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: expense_approver
+      label: Expense Approver
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 8
+      name: expense_status
+      label: Expense Status
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 9
+      name: expense_note
+      label: Expense Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: expense_email
+      label: Expense Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: expense_phone
+      label: Expense Phone
+      hint: null
+      type: text
+      options: []
+      required: false

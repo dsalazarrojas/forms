@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Attendance Verification Form
+    pages:
+    - id: 1
+      name: verification_header
+      label: Attendance Verification
+      hint: Verify your conference attendance
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: verification_date
+      label: Verification Date
+      hint: Date of verification
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: attendee_info
+      label: Attendee Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: full_name
+      label: Full Name
+      hint: As registered
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: organization
+      label: Organization
+      hint: Company or institution
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: conference_info
+      label: Conference Information
+      hint: Event details
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: conference_name
+      label: Conference Name
+      hint: Event name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: conference_dates
+      label: Conference Dates
+      hint: When held
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: conference_location
+      label: Conference Location
+      hint: Where held
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: registration_number
+      label: Registration Number
+      hint: Your ID
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: attendance_details
+      label: Attendance Details
+      hint: Verify participation
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: days_attended
+      label: Days Attended
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Day 1 Full Day
+      - Day 1 Half Day
+      - Day 2 Full Day
+      - Day 2 Half Day
+      - Day 3 Full Day
+      - Day 3 Half Day
+      required: true
+    - id: 16
+      name: sessions_attended
+      label: Number of Sessions
+      hint: Approximate count
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: keynote_attended
+      label: Keynote Sessions Attended
+      hint: Which keynotes
+      type: select_multiple
+      options:
+      - Opening Keynote
+      - Day 2 Keynote
+      - Closing Keynote
+      - None
+      required: false
+    - id: 18
+      name: verification_purpose
+      label: Verification Purpose
+      hint: Why do you need verification
+      type: select_one
+      options:
+      - Continuing Education Credits
+      - Employer Requirement
+      - Professional Certification
+      - Academic Credit
+      - Personal Records
+      - Visa Requirements
+      required: true
+    - id: 19
+      name: credits_needed
+      label: Credits or Hours Needed
+      hint: Number to verify
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: certificate_delivery
+      label: Certificate Delivery
+      hint: How to receive
+      type: select_one
+      options:
+      - Email PDF
+      - Postal Mail
+      - Pick Up On Site
+      required: true
+    - id: 21
+      name: mailing_address
+      label: Mailing Address
+      hint: For postal delivery
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: employer_verification
+      label: Employer Verification Required
+      hint: Does employer need confirmation
+      type: select_one
+      options:
+      - Yes Send to Employer
+      - No Personal Only
+      required: false
+    - id: 23
+      name: employer_email
+      label: Employer Email
+      hint: HR or supervisor email
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: additional_requirements
+      label: Additional Requirements
+      hint: Special verification needs
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: declaration
+      label: Declaration
+      hint: Confirm accuracy
+      type: select_one
+      options:
+      - I Certify Attendance is Accurate
+      - I Do Not Certify
+      required: true

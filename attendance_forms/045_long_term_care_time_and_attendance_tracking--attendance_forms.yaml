@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Long Term Care Time And Attendance Tracking
+    pages:
+    - id: 1
+      name: home_care_agency
+      label: Home Care Agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: caregiver_name
+      label: Caregiver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shift_start_date
+      label: Shift Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: shift_start_time
+      label: Shift Start Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shift_end_time
+      label: Shift End Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shift_duration
+      label: Shift Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: service_details
+      label: Service Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: time_attended
+      label: Time Attended
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: hours_worked
+      label: Hours Worked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: pay_period
+      label: Pay Period
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Week 1''}'
+      - '{''option2'': ''Week 2''}'
+      - '{''option3'': ''Week 3''}'
+      - '{''option4'': ''Week 4''}'
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: caregiver_email
+      label: Caregiver Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: caregiver_phone
+      label: Caregiver Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: shift_notes
+      label: Shift Notes
+      hint: null
+      type: text
+      options: []
+      required: false

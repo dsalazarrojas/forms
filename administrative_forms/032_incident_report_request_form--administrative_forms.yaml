@@ -1,0 +1,91 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: incident_report_request_form
+    pages:
+    - id: 1
+      name: incident_type
+      label: What type of incident
+      hint: null
+      type: select_one
+      options:
+      - Incident
+      - Accident
+      required: true
+    - id: 2
+      name: incident_date
+      label: What date did it occur
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: incident_location
+      label: Where did it occur
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: involved_party
+      label: Who was involved
+      hint: null
+      type: select_multiple
+      options:
+      - Involved
+      - Witness
+      - Reporter
+      required: true
+    - id: 5
+      name: incident_description
+      label: Incident description
+      hint: Please be specific
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: actions_taken
+      label: Actions taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: safety_measures
+      label: Safety measures taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_reporter
+      label: Incident reporter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: incident_reported
+      label: Incident reported
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: incident_updated
+      label: Incident updated
+      hint: null
+      type: date
+      options: []
+      required: false

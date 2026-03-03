@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: service_cancellation_refund_form
+    pages:
+    - id: 1
+      name: service_cancellation_refund_form_page
+      label: Service Cancellation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_cancellation
+      label: Why are you cancelling
+      hint: Please select one of the reasons below
+      type: select_one
+      options:
+      - '{''option1'': ''Cancelled due to unsatisfactory service''}'
+      - '{''option2'': ''Cancelled due to unsatisfactory product''}'
+      - '{''option3'': ''Cancelled due to other reason''}'
+      required: false
+    - id: 3
+      name: reason_for_cancellation_reason
+      label: Reason for cancellation
+      hint: Please enter the reason
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_start_date
+      label: Service start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: amount_refunded
+      label: Amount refunded
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: refund_method
+      label: Refund method
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Refund to account''}'
+      - '{''option2'': ''Refund to wallet''}'
+      - '{''option3'': ''Refund to original payment method''}'
+      required: false
+    - id: 7
+      name: customer_email
+      label: Customer's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: customer_phone
+      label: Customer's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_note
+      label: Customer's note
+      hint: null
+      type: note
+      options: []
+      required: false

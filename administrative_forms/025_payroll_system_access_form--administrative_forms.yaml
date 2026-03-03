@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payroll System Access Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: system_access_type
+      label: System Access Type
+      hint: null
+      type: select_one
+      options:
+      - HR
+      - Payroll
+      - Accounting
+      required: true
+    - id: 4
+      name: access_level
+      label: Access Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_function
+      label: Job Function
+      hint: null
+      type: text
+      options: []
+      required: false

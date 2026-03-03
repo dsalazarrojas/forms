@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: internship_records_release_form
+    pages:
+    - id: 1
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: student_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: release_consent
+      label: release_consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 4
+      name: release_date
+      label: release_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: organization_name
+      label: organization_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_identifier
+      label: student_identifier
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: organization_identifier
+      label: organization_identifier
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_identifier
+      label: contact_identifier
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: record_type
+      label: record_type
+      hint: null
+      type: select_one
+      options:
+      - Academic
+      - Internship
+      - Other
+      required: false
+    - id: 14
+      name: record_details
+      label: record_details
+      hint: null
+      type: select_multiple
+      options:
+      - Academic
+      - Internship
+      - Other
+      required: false
+    - id: 15
+      name: reason_for_release
+      label: reason_for_release
+      hint: null
+      type: select_one
+      options:
+      - Academic
+      - Employment
+      - Other
+      - Unknown
+      required: false

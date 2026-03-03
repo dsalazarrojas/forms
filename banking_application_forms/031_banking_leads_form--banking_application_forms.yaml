@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Banking Leads Form
+    pages:
+    - id: 1
+      name: lead_full_name
+      label: Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: lead_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: lead_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: lead_address
+      label: Mailing Address
+      hint: Street, city, state, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: interest_type
+      label: Product Interest
+      hint: What are you interested in
+      type: select_multiple
+      options:
+      - Checking Account
+      - Savings Account
+      - Credit Card
+      - Personal Loan
+      - Auto Loan
+      - Mortgage
+      - Investment Services
+      - Business Banking
+      - Wealth Management
+      required: true
+    - id: 7
+      name: employment_status
+      label: Employment Status
+      hint: Current employment
+      type: select_one
+      options:
+      - Employed Full-Time
+      - Employed Part-Time
+      - Self-Employed
+      - Unemployed
+      - Retired
+      - Student
+      required: true
+    - id: 8
+      name: employer_name
+      label: Employer Name
+      hint: Company name
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: annual_income
+      label: Annual Income
+      hint: Gross yearly income
+      type: select_one
+      options:
+      - Under $25000
+      - $25000-$49999
+      - $50000-$74999
+      - $75000-$99999
+      - $100000-$149999
+      - $150000-$199999
+      - $200000 or more
+      required: true
+    - id: 10
+      name: current_bank
+      label: Current Bank
+      hint: Where do you bank now
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reason_for_switch
+      label: Reason for Switching
+      hint: Why are you looking
+      type: select_one
+      options:
+      - Better Rates
+      - Better Service
+      - Lower Fees
+      - Convenience
+      - Relocation
+      - Dissatisfaction
+      - Other
+      required: false
+    - id: 12
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we reach you
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      - Mail
+      required: true
+    - id: 13
+      name: best_time_to_contact
+      label: Best Time to Contact
+      hint: When are you available
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Weekend
+      - Anytime
+      required: false
+    - id: 14
+      name: timeline
+      label: Decision Timeline
+      hint: When do you plan to decide
+      type: select_one
+      options:
+      - Immediately
+      - Within 1 week
+      - Within 1 month
+      - Within 3 months
+      - Just researching
+      required: true
+    - id: 15
+      name: existing_relationship
+      label: Existing Relationship
+      hint: Do you bank with us already
+      type: select_one
+      options:
+      - Yes, current customer
+      - No, new customer
+      - Former customer
+      required: true
+    - id: 16
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: Marketing source
+      type: select_one
+      options:
+      - Online Search
+      - Social Media
+      - Advertisement
+      - Friend or Family
+      - Current Customer
+      - Other
+      required: false
+    - id: 17
+      name: additional_services
+      label: Additional Services Interest
+      hint: Other services you might want
+      type: select_multiple
+      options:
+      - Online Banking
+      - Mobile Banking
+      - Bill Pay
+      - Remote Deposit
+      - Wire Transfers
+      - Safe Deposit Box
+      - Notary Services
+      required: false
+    - id: 18
+      name: special_requests
+      label: Special Requests
+      hint: Any specific requirements
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: consent_to_contact
+      label: Consent to Contact
+      hint: May we contact you
+      type: select_one
+      options:
+      - Yes, contact me
+      - No, not now
+      required: true
+    - id: 20
+      name: privacy_policy_acceptance
+      label: Privacy Policy Acceptance
+      hint: Do you agree to our policy
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true
+    - id: 21
+      name: submission_date
+      label: Submission Date
+      hint: Date of this form
+      type: date
+      options: []
+      required: true

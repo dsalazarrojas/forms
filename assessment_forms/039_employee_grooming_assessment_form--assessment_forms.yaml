@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Grooming Assessment Form
+    pages:
+    - id: 1
+      name: employee_grooming_assessment_form
+      label: employee_grooming_assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_joining
+      label: date_of_joining
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: overall_grooming_standard
+      label: overall_grooming_standard
+      hint: null
+      type: select_one
+      options:
+      - Well groomed
+      - Below average
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: hair_length
+      label: hair_length
+      hint: null
+      type: select_multiple
+      options:
+      - Short
+      - Medium
+      - Long
+      required: false
+    - id: 9
+      name: hair_color
+      label: hair_color
+      hint: null
+      type: select_one
+      options:
+      - Brown
+      - Blonde
+      - Grey
+      - Red
+      required: false
+    - id: 10
+      name: facial_hair
+      label: facial_hair
+      hint: null
+      type: select_one
+      options:
+      - Shaved
+      - Light
+      - Medium
+      - Dark
+      required: false
+    - id: 11
+      name: mustache
+      label: mustache
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - Trimmed
+      - Full
+      required: false
+    - id: 12
+      name: eye_brows
+      label: eye_brows
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - Trimmed
+      - Full
+      required: false
+    - id: 13
+      name: beard
+      label: beard
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - Trimmed
+      - Full
+      required: false
+    - id: 14
+      name: ear_lobes
+      label: ear_lobes
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 15
+      name: nose_shape
+      label: nose_shape
+      hint: null
+      type: select_one
+      options:
+      - Straight
+      - Slightly curved
+      - Hooked
+      required: false
+    - id: 16
+      name: overall_impression
+      label: overall_impression
+      hint: null
+      type: select_multiple
+      options:
+      - Professional
+      - Unprofessional
+      required: false
+    - id: 17
+      name: feedback
+      label: feedback
+      hint: Provide any other feedback
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: employee_signature
+      label: employee_signature
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: false
+    - id: 20
+      name: date_of_assessment
+      label: date_of_assessment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: assessed_by
+      label: assessed_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: assessment_type
+      label: assessment_type
+      hint: null
+      type: select_one
+      options:
+      - Grooming
+      - Dress
+      - Overall appearance
+      required: false

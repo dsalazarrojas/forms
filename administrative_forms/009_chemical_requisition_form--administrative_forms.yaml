@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chemical Requisition Form
+    pages:
+    - id: 1
+      name: requisition_intro
+      label: -- Chemical Requisition Form --
+      hint: Submit chemical requests for inventory management
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requisition_number
+      label: Requisition number
+      hint: Auto-generated or leave blank
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: requisition_date
+      label: Date of requisition
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: requester_name
+      label: Requester name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: requester_department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Laboratory
+      - Research
+      - Quality Control
+      - Production
+      - Maintenance
+      - Other
+      required: true
+    - id: 6
+      name: requester_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: requester_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: chemical_name
+      label: Chemical name
+      hint: Use IUPAC or common name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: cas_number
+      label: CAS number
+      hint: Chemical Abstracts Service number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: chemical_grade
+      label: Chemical grade
+      hint: null
+      type: select_one
+      options:
+      - Reagent grade
+      - Analytical grade
+      - Technical grade
+      - Pharmaceutical grade
+      - USP
+      - Other
+      required: true
+    - id: 11
+      name: concentration
+      label: Concentration or purity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: quantity_needed
+      label: Quantity needed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: unit_of_measurement
+      label: Unit of measurement
+      hint: null
+      type: select_one
+      options:
+      - Grams
+      - Kilograms
+      - Milliliters
+      - Liters
+      - Ounces
+      - Pounds
+      - Other
+      required: true
+    - id: 14
+      name: intended_use
+      label: Intended use of chemical
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: safety_data_sheet
+      label: Safety Data Sheet (SDS) required?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Already have SDS
+      required: true
+    - id: 16
+      name: hazard_classification
+      label: Known hazard classification
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Corrosive
+      - Toxic
+      - Flammable
+      - Oxidizer
+      - Irritant
+      - Sensitizer
+      - Carcinogen
+      - Mutagenic
+      - Non-hazardous
+      required: false
+    - id: 17
+      name: storage_requirements
+      label: Special storage requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: supplier_preference
+      label: Preferred supplier
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: budget_code
+      label: Budget or cost center code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: approval_manager
+      label: Manager or supervisor for approval
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: urgency_level
+      label: Urgency level
+      hint: null
+      type: select_one
+      options:
+      - Routine
+      - Standard
+      - Urgent
+      - Emergency
+      required: true
+    - id: 22
+      name: delivery_date_needed
+      label: Needed by date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: additional_notes
+      label: Additional notes or special requests
+      hint: null
+      type: text
+      options: []
+      required: false

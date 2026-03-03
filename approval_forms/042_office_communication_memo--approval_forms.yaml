@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Office Communication Memo
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: department_id
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: memo_subject
+      label: Memo Subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: memo_details
+      label: Memo Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: to_employees
+      label: To Employees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: from_employee
+      label: From Employee
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: date_sent
+      label: Date Sent
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: date_received
+      label: Date Received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Low'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Medium'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''High'', ''value'': 3}'
+      required: false

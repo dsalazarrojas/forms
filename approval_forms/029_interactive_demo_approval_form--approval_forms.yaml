@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: interactive_demo_approval_form
+    pages:
+    - id: 1
+      name: demo_request
+      label: Demo Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      required: false
+    - id: 8
+      name: demo_date
+      label: Demo Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: demo_time
+      label: Demo Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: demo_location
+      label: Demo Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: demo_duration
+      label: Demo Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

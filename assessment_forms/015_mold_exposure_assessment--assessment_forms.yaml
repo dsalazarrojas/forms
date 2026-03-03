@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mold Exposure Assessment
+    pages:
+    - id: 1
+      name: property_details
+      label: Property Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_details
+      label: Property Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: occupant_concerns
+      label: Occupant Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: property_details
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Apartment''}'
+      - '{''id'': 2, ''label'': ''House''}'
+      - '{''id'': 3, ''label'': ''Office''}'
+      required: false
+    - id: 5
+      name: occupant_details
+      label: Occupant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: occupant_details
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: occupant_details
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: occupant_details
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: property_details
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Apartment''}'
+      - '{''id'': 2, ''label'': ''House''}'
+      - '{''id'': 3, ''label'': ''Office''}'
+      required: false
+    - id: 10
+      name: property_details
+      label: Property Age
+      hint: null
+      type: number
+      options: []
+      required: false

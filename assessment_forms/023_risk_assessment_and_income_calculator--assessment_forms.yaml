@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: risk_assessment_and_income_calculator
+    pages:
+    - id: 1
+      name: basic_info
+      label: Basic Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: risk_factors
+      label: What Are Your Risk Factors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: income_info
+      label: Income Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: risk_score
+      label: Risk Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 6
+      name: risk_level_label
+      label: Select A Risk Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 7
+      name: income_level
+      label: Income Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 8
+      name: risk_factors_1
+      label: What Is Your Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: risk_factors_2
+      label: Do You Have Any Credit History
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: risk_factors_3
+      label: Have You Had Any Foreclosure
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: risk_factors_4
+      label: Have You Had Any Bankruptcy
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: risk_factors_5
+      label: Do You Have Any Outstanding Tax Debts
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: risk_factors_6
+      label: Do You Have Any Outstanding Tax Debts
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: risk_factors_7
+      label: Do You Have Any Outstanding Collections
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: risk_factors_8
+      label: Do You Have Any Outstanding Judgments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: risk_score_value
+      label: Risk Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: income_score_value
+      label: Income Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: risk_factors_9
+      label: Do You Have Any Other Outstanding Debt
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: risk_factors_10
+      label: Have You Had Any Other Outstanding Debt
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: risk_factors_11
+      label: Do You Have Any Other Financial Obligations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: risk_factors_12
+      label: Do You Have Any Other Financial Obligation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: income
+      label: Income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: assets
+      label: Assets
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: credit_score
+      label: Credit Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: true

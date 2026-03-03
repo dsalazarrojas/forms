@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: AI Reading Comprehension Quiz
+    pages:
+    - id: 1
+      name: quiz_info_header
+      label: '--- Reading Comprehension Assessment ---'
+      hint: Please read the passage carefully before answering the questions.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: class_section
+      label: Class / Section
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reading_passage_note
+      label: 'Reading Passage: The Evolution of Neural Networks'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: passage_text
+      label: Text to Read
+      hint: Artificial Neural Networks (ANNs) were originally inspired by the biological
+        structure of the human brain. Early models, like the Perceptron in the 1950s,
+        were limited to simple linear classifications. It wasn't until the development
+        of backpropagation in the 1980s that multi-layer networks became computationally
+        viable. Today, deep learning architectures with billions of parameters, known
+        as Transformers, drive modern language models. These models don't 'understand'
+        text in a human sense; rather, they predict the most statistically likely
+        next token based on vast amounts of training data. While powerful, they remain
+        susceptible to 'hallucinations'—generating facts that sound plausible but
+        are entirely incorrect.
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: q1_main_idea
+      label: 'Question 1: What is the primary focus of the passage?'
+      hint: null
+      type: select_one
+      options:
+      - label: The biological functioning of the human brain.
+        value: brain_bio
+      - label: The historical development and nature of artificial neural networks.
+        value: correct_main
+      - label: The risks of using AI in the 1950s.
+        value: history_risk
+      - label: How to program a Transformer model.
+        value: programming
+      required: true
+    - id: 7
+      name: q2_backpropagation_role
+      label: 'Question 2: According to the text, why was backpropagation important?'
+      hint: null
+      type: select_one
+      options:
+      - label: It allowed for the first linear classifications.
+        value: linear
+      - label: It made multi-layer networks computationally viable.
+        value: correct_backprop
+      - label: It eliminated all AI hallucinations.
+        value: no_hallucinate
+      - label: It was the biological inspiration for the Perceptron.
+        value: bio_inspire
+      required: true
+    - id: 8
+      name: q3_vocabulary
+      label: 'Question 3: In the context of the passage, what does the term ''hallucinations''
+        refer to?'
+      hint: null
+      type: select_one
+      options:
+      - label: A biological malfunction in the human brain.
+        value: bio_malfunction
+      - label: An AI generating plausible-sounding but incorrect information.
+        value: correct_hallucinate
+      - label: The speed at which a Transformer predicts tokens.
+        value: speed
+      - label: A limitation of the 1950s Perceptron model.
+        value: perceptron_limit
+      required: true
+    - id: 9
+      name: q4_inference
+      label: 'Question 4: Based on the text, what can be inferred about modern language
+        models?'
+      hint: null
+      type: select_one
+      options:
+      - label: They possess a human-like understanding of language.
+        value: human_understand
+      - label: They rely on statistical probability rather than true comprehension.
+        value: correct_inference
+      - label: They are simpler than the models of the 1980s.
+        value: simple
+      required: true
+    - id: 10
+      name: q5_summary
+      label: 'Question 5: Summarize the difference between the 1950s models and modern
+        Transformers in your own words.'
+      hint: Provide 1-2 sentences.
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: q6_token_prediction
+      label: 'Question 6: According to the text, how do modern models generate text?'
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: time_spent_reading
+      label: How many minutes did you spend reading the passage?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: difficulty_rating
+      label: Rate the difficulty of this passage
+      hint: 1 = Very Easy, 5 = Very Difficult
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: feedback_comments
+      label: Any comments or questions about the quiz?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: date_of_quiz
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

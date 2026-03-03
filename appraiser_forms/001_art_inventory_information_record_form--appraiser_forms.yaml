@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Inventory Information Record Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Basic Item Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: item_title
+      label: Title or Name of Artwork
+      hint: Enter the formal title of the piece
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: artist_name
+      label: Artist Name
+      hint: Full name of the artist or creator
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: artist_birth_year
+      label: Artist Birth Year
+      hint: Approximate year if exact date unknown
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: creation_date
+      label: Date of Creation
+      hint: Year or date range
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_header_2
+      label: -- Item Description --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: item_type
+      label: Type of Artwork
+      hint: Select the category of artwork
+      type: select_one
+      options:
+      - Painting
+      - Sculpture
+      - Drawing
+      - Photograph
+      - Print
+      - Mixed Media
+      - Other
+      required: true
+    - id: 8
+      name: medium
+      label: Medium or Materials
+      hint: What materials were used (oil, acrylic, bronze, etc.)
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: dimensions_height
+      label: Height (inches)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: dimensions_width
+      label: Width (inches)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: dimensions_depth
+      label: Depth (inches)
+      hint: For three-dimensional pieces
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: section_header_3
+      label: -- Condition & Provenance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: condition
+      label: Current Condition
+      hint: Assess the overall condition of the piece
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Requires Restoration
+      required: true
+    - id: 14
+      name: condition_notes
+      label: Condition Details
+      hint: Note any damage, repairs, or special considerations
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: provenance
+      label: Provenance and Ownership History
+      hint: Document previous owners or exhibition history
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_header_4
+      label: -- Valuation & Storage --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: estimated_value
+      label: Estimated Value
+      hint: Professional appraisal or market estimate
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: insurance_status
+      label: Insurance Status
+      hint: Is this piece insured?
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending
+      required: false
+    - id: 19
+      name: storage_location
+      label: Storage or Display Location
+      hint: Where is the artwork currently stored?
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: section_header_5
+      label: -- Documentation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: has_certificate
+      label: Certificate of Authenticity
+      hint: Does this piece have authentication documentation?
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: false
+    - id: 22
+      name: photos_available
+      label: Photographs Available
+      hint: Are high-quality images documented?
+      type: select_one
+      options:
+      - true
+      - false
+      - In Progress
+      required: false
+    - id: 23
+      name: record_date
+      label: Date of This Record
+      hint: When was this inventory entry created?
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: recorded_by
+      label: Recorded By
+      hint: Name of person creating this inventory record
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other relevant information about this artwork
+      type: text
+      options: []
+      required: false

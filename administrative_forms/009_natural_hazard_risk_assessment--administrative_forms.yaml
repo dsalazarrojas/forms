@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: natural_hazard_risk_assessment
+    pages:
+    - id: 1
+      name: natural_hazard_risk_assessment_form
+      label: natural_hazard_risk_assessment_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: natural_hazard_risk_type
+      label: natural_hazard_risk_type
+      hint: null
+      type: select_multiple
+      options:
+      - flood
+      - earthquake
+      - wildfire
+      required: false
+    - id: 3
+      name: hazard_impact_scale
+      label: hazard_impact_scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: impact_frequency
+      label: hazard_impact_frequency
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 5
+      name: natural_hazard_risk_area
+      label: natural_hazard_risk_area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: natural_hazard_risk_area_other
+      label: natural_hazard_risk_area_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: natural_hazard_risk_area_other_description
+      label: natural_hazard_risk_area_other_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: natural_hazard_risk_area_other_location
+      label: natural_hazard_risk_area_other_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: natural_hazard_risk_area_other_frequency
+      label: natural_hazard_risk_area_other_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: natural_hazard_risk_area_other_impact
+      label: natural_hazard_risk_area_other_impact
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: natural_hazard_risk_area_other_impact_scale
+      label: natural_hazard_risk_area_other_impact_scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: natural_hazard_risk_notes
+      label: natural_hazard_risk_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: natural_hazard_risk_notes_other
+      label: natural_hazard_risk_notes_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: natural_hazard_risk_type_other
+      label: natural_hazard_risk_type_other
+      hint: null
+      type: text
+      options: []
+      required: false

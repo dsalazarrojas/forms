@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pod Start Checklist
+    pages:
+    - id: 1
+      name: team_lead_contact
+      label: Team Lead Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_goals
+      label: Project Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_duration
+      label: Project Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: responsible_team_members
+      label: Responsible Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: task_description
+      label: Task Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: task_duedate
+      label: Task Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: task_status
+      label: Task Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: task_notes
+      label: Task Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: task_tags
+      label: Task Tags
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: task_label
+      label: Task Label
+      hint: null
+      type: text
+      options: []
+      required: false

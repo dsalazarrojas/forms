@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bakes by Nilo Custom Cake Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_phone
+      label: Contact phone
+      hint: For order confirmations
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: Optional for receipts
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: cake_size
+      label: Cake size
+      hint: Select the cake size
+      type: select_one
+      options:
+      - 6 inch
+      - 8 inch
+      - 10 inch
+      - Sheet
+      required: true
+    - id: 5
+      name: cake_flavor
+      label: Cake flavor
+      hint: Choose one primary flavor
+      type: select_one
+      options:
+      - Vanilla
+      - Chocolate
+      - Red velvet
+      - Lemon
+      - Carrot
+      required: true
+    - id: 6
+      name: dietary_requirements
+      label: Dietary requirements
+      hint: Allergies or special diets
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: decoration_details
+      label: Decoration details
+      hint: Text to include and description of design
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: pickup_date
+      label: Pickup date
+      hint: Date the cake will be collected
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: pickup_time
+      label: Preferred pickup time
+      hint: Time window for collection
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: additional_instructions
+      label: Additional instructions
+      hint: Any other order notes
+      type: text
+      options: []
+      required: false

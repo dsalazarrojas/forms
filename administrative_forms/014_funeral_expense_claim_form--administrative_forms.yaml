@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Funeral Expense Claim Form
+    pages:
+    - id: 1
+      name: user_information
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: claimant_info
+      label: Claimant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: claim_info
+      label: Claim Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: funeral_expenses
+      label: Funeral Expenses
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_one
+      options:
+      - Claimed
+      - Pending
+      - Rejected
+      required: false
+    - id: 6
+      name: claim_amount
+      label: Claim Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: upload_document
+      label: Upload Document
+      hint: null
+      type: text
+      options: []
+      required: false

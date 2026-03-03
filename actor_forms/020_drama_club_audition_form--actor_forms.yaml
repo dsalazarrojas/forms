@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: drama_club_audition_form
+    pages:
+    - id: 1
+      name: name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: performance_experience
+      label: Performance Experience
+      hint: null
+      type: select_one
+      options:
+      - High School Drama
+      - Community Theater
+      - College/University Theater
+      - Professional Theater Company
+      required: false
+    - id: 6
+      name: availability_date
+      label: Availability Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: availability_time
+      label: Availability Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: drama_type
+      label: Drama Type
+      hint: null
+      type: select_multiple
+      options:
+      - Drama
+      - Comedy
+      - Musical
+      required: false
+    - id: 9
+      name: conflict_date
+      label: Conflict Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: conflict_time
+      label: Conflict Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - johndoe
+      - janedoe
+      - other
+      required: false
+    - id: 13
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false

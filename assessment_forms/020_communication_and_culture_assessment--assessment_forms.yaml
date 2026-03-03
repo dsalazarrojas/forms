@@ -1,0 +1,287 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Communication And Culture Assessment
+    pages:
+      - id: 1
+        name: assessment_introduction
+        label: Assessment Introduction
+        hint: Help us improve our workplace communication and culture
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: employee_name
+        label: Employee Name
+        hint: Your full name - optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: employee_id
+        label: Employee ID
+        hint: Your employee identification number
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: department
+        label: Department
+        hint: Which department do you work in
+        type: select_one
+        options:
+          - Executive
+          - Sales
+          - Marketing
+          - Engineering
+          - Product
+          - Human Resources
+          - Finance
+          - Operations
+          - Customer Support
+          - Other
+        required: true
+      - id: 5
+        name: tenure
+        label: Tenure
+        hint: How long have you been with the company
+        type: select_one
+        options:
+          - Less than 6 months
+          - 6 months - 1 year
+          - 1-2 years
+          - 2-5 years
+          - 5+ years
+        required: true
+      - id: 6
+        name: location
+        label: Location
+        hint: Where do you primarily work
+        type: select_one
+        options:
+          - Office - Full Time
+          - Remote - Full Time
+          - Hybrid
+          - Multiple Locations
+        required: true
+      - id: 7
+        name: communication_effectiveness
+        label: Communication Effectiveness
+        hint: How would you rate overall communication effectiveness
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - Very Poor
+        required: true
+      - id: 8
+        name: information_flow
+        label: Information Flow
+        hint: How well does information flow through the organization
+        type: select_one
+        options:
+          - Very Well
+          - Well
+          - Adequately
+          - Poorly
+          - Very Poorly
+        required: true
+      - id: 9
+        name: leadership_communication
+        label: Leadership Communication
+        hint: How effective is communication from leadership
+        type: select_one
+        options:
+          - Very Effective
+          - Effective
+          - Neutral
+          - Ineffective
+          - Very Ineffective
+        required: true
+      - id: 10
+        name: team_communication
+        label: Team Communication
+        hint: How would you rate communication within your team
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - Very Poor
+        required: true
+      - id: 11
+        name: cross_department_communication
+        label: Cross-Department Communication
+        hint: How well do departments communicate with each other
+        type: select_one
+        options:
+          - Very Well
+          - Well
+          - Adequately
+          - Poorly
+          - Very Poorly
+        required: true
+      - id: 12
+        name: feedback_culture
+        label: Feedback Culture
+        hint: How comfortable are you giving feedback
+        type: select_one
+        options:
+          - Very Comfortable
+          - Comfortable
+          - Neutral
+          - Uncomfortable
+          - Very Uncomfortable
+        required: true
+      - id: 13
+        name: feedback_reception
+        label: Feedback Reception
+        hint: How well is feedback received and acted upon
+        type: select_one
+        options:
+          - Very Well
+          - Well
+          - Adequately
+          - Poorly
+          - Very Poorly
+        required: true
+      - id: 14
+        name: meeting_effectiveness
+        label: Meeting Effectiveness
+        hint: How effective are meetings in your organization
+        type: select_one
+        options:
+          - Very Effective
+          - Effective
+          - Neutral
+          - Ineffective
+          - Very Ineffective
+        required: true
+      - id: 15
+        name: communication_tools
+        label: Communication Tools
+        hint: Are the current communication tools adequate
+        type: select_one
+        options:
+          - Yes - More Than Adequate
+          - Yes - Adequate
+          - Neutral
+          - No - Inadequate
+          - No - Very Inadequate
+        required: true
+      - id: 16
+        name: culture_belonging
+        label: Culture - Belonging
+        hint: Do you feel you belong in this organization
+        type: select_one
+        options:
+          - Strongly Agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly Disagree
+        required: true
+      - id: 17
+        name: culture_values
+        label: Culture - Values
+        hint: Do company values align with your personal values
+        type: select_one
+        options:
+          - Strongly Agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly Disagree
+        required: true
+      - id: 18
+        name: culture_inclusion
+        label: Culture - Inclusion
+        hint: Do you feel included in decision-making processes
+        type: select_one
+        options:
+          - Strongly Agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly Disagree
+        required: true
+      - id: 19
+        name: culture_recognition
+        label: Culture - Recognition
+        hint: Do you feel your contributions are recognized
+        type: select_one
+        options:
+          - Strongly Agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly Disagree
+        required: true
+      - id: 20
+        name: improvement_areas
+        label: Areas for Improvement
+        hint: What areas need the most improvement
+        type: select_multiple
+        options:
+          - Leadership Communication
+          - Team Communication
+          - Cross-Department Collaboration
+          - Meeting Efficiency
+          - Feedback Processes
+          - Communication Tools
+          - Company Culture
+          - Work-Life Balance
+          - Recognition Programs
+          - Professional Development
+        required: true
+      - id: 21
+        name: biggest_challenge
+        label: Biggest Challenge
+        hint: What is the biggest communication challenge you face
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: culture_strength
+        label: Culture Strength
+        hint: What is the greatest strength of our culture
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: suggestions
+        label: Suggestions
+        hint: What suggestions do you have for improvement
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: willing_to_participate
+        label: Willing to Participate
+        hint: Would you participate in follow-up discussions
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: false
+      - id: 25
+        name: assessment_date
+        label: Assessment Date
+        hint: Date you completed this assessment
+        type: date
+        options: []
+        required: true

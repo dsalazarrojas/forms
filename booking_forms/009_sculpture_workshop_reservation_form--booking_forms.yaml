@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sculpture Workshop Reservation Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: workshop_date
+      label: Workshop Date
+      hint: null
+      type: select_one
+      options:
+      - '2022-11-01'
+      - '2022-11-02'
+      - '2022-11-03'
+      required: false
+    - id: 4
+      name: workshop_start_time
+      label: Start Time
+      hint: null
+      type: select_one
+      options:
+      - 09:00
+      - '600'
+      - '660'
+      required: false
+    - id: 5
+      name: workshop_end_time
+      label: End Time
+      hint: null
+      type: select_one
+      options:
+      - '720'
+      - '780'
+      - '840'
+      required: false
+    - id: 6
+      name: workshop_duration
+      label: Duration
+      hint: null
+      type: select_one
+      options:
+      - '60'
+      - '90'
+      - '120'
+      required: false
+    - id: 7
+      name: participant_count
+      label: Participant Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: participant_info
+      label: Participant Info
+      hint: null
+      type: select_multiple
+      options:
+      - Participant 1
+      - Participant 2
+      - Participant 3
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email_confirmation
+      label: Email Confirmation
+      hint: null
+      type: email
+      options: []
+      required: true

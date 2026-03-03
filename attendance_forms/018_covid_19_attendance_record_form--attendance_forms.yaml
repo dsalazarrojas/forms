@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Covid 19 Attendance Record Form
+    pages:
+    - id: 1
+      name: scheduled_appointments
+      label: Scheduled Appointments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_practice
+      label: Medical Practice
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patient_dosage_form
+      label: Patient Dosage Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: appointment_status
+      label: Appointment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Scheduled
+      - Attended
+      - Missed
+      - Rescheduled
+      - Cancelled
+      required: true
+    - id: 6
+      name: reason_missed
+      label: Reason Missed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_practice_staff
+      label: Medical Practice Staff
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: medical_practice_address
+      label: Medical Practice Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: patient_dob
+      label: Patient DOB
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: medical_practice_phone
+      label: Medical Practice Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: reason_attended
+      label: Reason Attended
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_practice_fax
+      label: Medical Practice Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: medical_practice_contact_person
+      label: Medical Practice Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_practice_contact_person_phone
+      label: Medical Practice Contact Person Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: patient_attendance_status
+      label: Patient Attendance Status
+      hint: null
+      type: select_one
+      options:
+      - Present
+      - Absent
+      - Tardy
+      - Early Departure
+      required: true
+    - id: 21
+      name: patient_medical_practice_id
+      label: Patient Medical Practice ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: appointment_number
+      label: Appointment Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: appointment_number_prefix
+      label: Appointment Number Prefix
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: medical_practice_id
+      label: Medical Practice ID
+      hint: null
+      type: text
+      options: []
+      required: false

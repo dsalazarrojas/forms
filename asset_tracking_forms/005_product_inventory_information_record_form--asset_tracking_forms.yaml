@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: product_inventory_information_record_form
+    pages:
+    - id: 1
+      name: product_inventory_form
+      label: Product Inventory Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_info_form
+      label: Product Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_location_form
+      label: Product Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: product_description_form
+      label: Product Description
+      hint: Briefly describe the product
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: product_quantity_form
+      label: Product Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: product_price_form
+      label: Product Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: product_date_form
+      label: Product Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: product_supplier_form
+      label: Product Supplier
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: product_status_form
+      label: Product Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: product_notes_form
+      label: Product Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: contact_email_form
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: contact_phone_form
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

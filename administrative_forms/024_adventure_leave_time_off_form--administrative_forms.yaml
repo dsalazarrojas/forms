@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adventure Leave Time Off Form
+    pages:
+    - id: 1
+      name: employee_information_section
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_full_name
+      label: Employee Full Name
+      hint: Your legal full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: Your employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: The department you work in
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: supervisor_name
+      label: Supervisor Name
+      hint: Name of your direct supervisor
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: leave_request_section
+      label: -- Leave Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: leave_type
+      label: Leave Type
+      hint: What type of leave are you requesting
+      type: select_one
+      options:
+      - Annual Leave
+      - Personal Leave
+      - Sabbatical
+      - Other
+      required: true
+    - id: 8
+      name: adventure_activity_type
+      label: Adventure Activity Type
+      hint: What type of adventure activity will you be participating in
+      type: select_one
+      options:
+      - Hiking/Trekking
+      - Climbing/Mountaineering
+      - Water Sports
+      - Adventure Racing
+      - Wildlife Expedition
+      - Other
+      required: true
+    - id: 9
+      name: leave_start_date
+      label: Leave Start Date
+      hint: Date when your leave will begin
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: leave_end_date
+      label: Leave End Date
+      hint: Date when your leave will end
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: total_days_requested
+      label: Total Days Requested
+      hint: Total number of days for your leave
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: destination_location
+      label: Destination Location
+      hint: Where will you be traveling for your adventure
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: emergency_contact_section
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number of your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relationship to your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: work_coverage_section
+      label: -- Work Coverage --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: coverage_arrangements
+      label: Coverage Arrangements
+      hint: Who will cover your responsibilities during your absence
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: urgent_contact_method
+      label: Urgent Contact Method
+      hint: How should we reach you in case of an emergency at work
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: approval_acknowledgment
+      label: Approval Acknowledgment
+      hint: I understand that this leave request is subject to approval
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

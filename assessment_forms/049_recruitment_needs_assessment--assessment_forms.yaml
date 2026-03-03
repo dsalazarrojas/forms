@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recruitment Needs Assessment
+    pages:
+    - id: 1
+      name: role_requirements
+      label: Role Requirements
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: budget_requirements
+      label: Budget Requirements
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: timelines
+      label: Timelines
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: budgeted_requirements
+      label: Budgeted Requirements
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: assessments
+      label: Assessments
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: hiring_managers
+      label: Hiring Managers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: recruiter
+      label: Recruiter
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: recruitment_needs
+      label: Recruitment Needs
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: contact_info
+      label: Contact Info
+      hint: Contact info will be used to send follow up messages
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: form_submit
+      label: Form Submit
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: recruitment_department
+      label: Recruitment Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: job_opening
+      label: Job Opening
+      hint: Job opening description
+      type: note
+      options: []
+      required: true
+    - id: 13
+      name: recruiter_phone
+      label: Recruiter Phone
+      hint: Please provide a valid phone number
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: contact_email
+      label: Contact Email
+      hint: Please provide a valid email address
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: recruitment_manager
+      label: Recruitment Manager
+      hint: Please select a recruitment manager
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: recruitment_needs_assessment_form
+      label: Recruitment Needs Assessment Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: form_submission_date
+      label: Form Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: form_submission_time
+      label: Form Submission Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: form_submission_status
+      label: Form Submission Status
+      hint: Please select a submission status
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 21
+      name: form_submitting
+      label: Form Submitting
+      hint: Submit form
+      type: note
+      options: []
+      required: true
+    - id: 22
+      name: recruiters
+      label: Recruiters
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: recruitment_needs
+      label: Recruitment Needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: recruitment_needs_status
+      label: Recruitment Needs Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 25
+      name: recruitment_needs_form
+      label: Recruitment Needs Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adventure Sports Liability Waiver
+    pages:
+    - id: 1
+      name: participant_information_section
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_full_name
+      label: Participant Full Name
+      hint: Legal full name of the participant
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Participant's date of birth
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: Current residential address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: Valid email for communication
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: activity_information_section
+      label: -- Activity Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: activity_name
+      label: Activity Name
+      hint: Name of the adventure sport activity
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: activity_date
+      label: Activity Date
+      hint: Date when the activity will take place
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: activity_location
+      label: Activity Location
+      hint: Location where the activity will occur
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: risk_acknowledgment_section
+      label: -- Risk Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: inherent_risks_acknowledged
+      label: Inherent Risks Acknowledged
+      hint: Do you acknowledge that adventure sports have inherent risks
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: injury_assumption
+      label: Injury Assumption
+      hint: Do you understand that injuries can occur during this activity
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: death_risk_acknowledgment
+      label: Death Risk Acknowledgment
+      hint: Do you acknowledge the possibility of death during this activity
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: equipment_use_acknowledgment
+      label: Equipment Use Acknowledgment
+      hint: Do you agree to use provided equipment properly
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: waiver_of_liability_section
+      label: -- Waiver of Liability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: liability_release
+      label: Liability Release
+      hint: Do you release the operator from liability for injuries
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: indemnification_agreement
+      label: Indemnification Agreement
+      hint: Do you agree to indemnify the operator against claims
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: photography_consent
+      label: Photography Consent
+      hint: Do you consent to being photographed during the activity
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Only with permission
+      required: false
+    - id: 20
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing this waiver
+      type: date
+      options: []
+      required: true

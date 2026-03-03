@@ -1,0 +1,130 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: identity_verification_authorization_form
+    pages:
+    - id: 1
+      name: form_title
+      label: Identity Verification Authorization Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Administrative Forms''}'
+      - '{''id'': 2, ''name'': ''Other Form''}'
+      required: true
+    - id: 3
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: form_title
+      label: Identity Verification Authorization Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: verify_by
+      label: Verify By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Self-Verification''}'
+      - '{''id'': 2, ''name'': ''Third-Party Verification''}'
+      required: true
+    - id: 6
+      name: verify_date
+      label: Verify Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: verify_time
+      label: Verify Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: verify_method
+      label: Verify Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Face-to-Face''}'
+      - '{''id'': 2, ''name'': ''Online''}'
+      - '{''id'': 3, ''name'': ''Phone''}'
+      required: true
+    - id: 9
+      name: verify_location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Office Location''}'
+      - '{''id'': 2, ''name'': ''Home''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      required: true
+    - id: 10
+      name: verify_method_details
+      label: Verify Method Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: verification_result
+      label: Verification Result
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Verified''}'
+      - '{''id'': 2, ''name'': ''Not Verified''}'
+      - '{''id'': 3, ''name'': ''Pending''}'
+      required: true
+    - id: 12
+      name: verification_status
+      label: Verification Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Complete''}'
+      - '{''id'': 2, ''name'': ''Incomplete''}'
+      - '{''id'': 3, ''name'': ''Unknown''}'
+      required: true
+    - id: 13
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false

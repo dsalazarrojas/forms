@@ -1,0 +1,256 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recurring Credit Card Authorization Form
+    pages:
+    - id: 1
+      name: credit_card_number
+      label: Card Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: expiration_month
+      label: Month
+      hint: null
+      type: select_one
+      options:
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
+      required: true
+    - id: 4
+      name: expiration_year
+      label: Year
+      hint: null
+      type: select_one
+      options:
+      - '2015'
+      - '2016'
+      - '2017'
+      - '2018'
+      - '2019'
+      - '2010'
+      - '2011'
+      - '2012'
+      - '2013'
+      - '2014'
+      - '2016'
+      - '2017'
+      - '2018'
+      - '2019'
+      required: true
+    - id: 5
+      name: cvv
+      label: cvv
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: start_month
+      label: Start Month
+      hint: null
+      type: select_one
+      options:
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
+      required: true
+    - id: 9
+      name: start_year
+      label: Start Year
+      hint: null
+      type: select_one
+      options:
+      - '2015'
+      - '2016'
+      - '2017'
+      - '2018'
+      - '2019'
+      - '2020'
+      - '2021'
+      - '2022'
+      required: true
+    - id: 10
+      name: cvv
+      label: CVV
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: card_holder_name
+      label: Card Holder Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: authorization_amount
+      label: Authorization Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      - One-time
+      required: true
+    - id: 14
+      name: authorization_type
+      label: Authorization Type
+      hint: null
+      type: select_multiple
+      options:
+      - Recurring Payment
+      - One-time Payment
+      required: true
+    - id: 15
+      name: payment_type
+      label: Payment Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: stripe_publishable_key
+      label: Stripe Publishable Key
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: cvc
+      label: CVC
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: card_expiration_month
+      label: Expiration Month
+      hint: null
+      type: select_one
+      options:
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
+      required: true
+    - id: 20
+      name: card_expiration_year
+      label: Expiration Year
+      hint: null
+      type: select_one
+      options:
+      - '2015'
+      - '2016'
+      - '2017'
+      - '2018'
+      - '2019'
+      - '2020'
+      - '2021'
+      - '2022'
+      required: true
+    - id: 21
+      name: card_holder_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: card_holder_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: card_holder_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: card_holder_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false

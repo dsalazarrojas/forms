@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Monthly Grant Timesheet
+    pages:
+    - id: 1
+      name: project_name
+      label: Grant Project
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: hours_worked
+      label: Total Hours
+      hint: Hours worked on the grant project
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: expenses
+      label: expenses
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: activities
+      label: Grant Activities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false

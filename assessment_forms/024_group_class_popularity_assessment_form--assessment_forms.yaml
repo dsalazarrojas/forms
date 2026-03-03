@@ -1,0 +1,246 @@
+inputSchema:
+  type: object
+  properties:
+    title: Group Class Popularity Assessment Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: user_type
+      label: User Type
+      hint: null
+      type: select_one
+      options:
+      - Member
+      - Non Member
+      - Staff
+      required: false
+    - id: 5
+      name: fitness_class_frequency
+      label: Class Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: false
+    - id: 6
+      name: preferred_time_of_day
+      label: Preferred Time of Day
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 7
+      name: preferred_day_of_week
+      label: Preferred Day of Week
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 8
+      name: preferred_duration
+      label: Preferred Duration
+      hint: null
+      type: select_one
+      options:
+      - 30min
+      - 45min
+      - 60min
+      - 90min
+      required: false
+    - id: 9
+      name: class_demand
+      label: Class Demand
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 10
+      name: class_suggested
+      label: Class Suggested
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: class_revenue
+      label: Class Revenue
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: class_capacity
+      label: Class Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: member_satisfaction
+      label: Member Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 14
+      name: staff_satisfaction
+      label: Staff Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 15
+      name: class_time_of_day
+      label: Class Time of Day
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 16
+      name: class_day_of_week
+      label: Class Day of Week
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 17
+      name: class_duration
+      label: Class Duration
+      hint: null
+      type: select_one
+      options:
+      - '30'
+      - '45'
+      - '60'
+      - '90'
+      required: false
+    - id: 18
+      name: class_frequency
+      label: Class Frequency
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      required: false
+    - id: 19
+      name: class_revenue
+      label: Class Revenue
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: class_capacity
+      label: Class Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: member_satisfaction
+      label: Member Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 22
+      name: staff_satisfaction
+      label: Staff Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 23
+      name: member_preferences
+      label: Member Preferences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: staff_preferences
+      label: Staff Preferences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

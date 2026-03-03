@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Incident Action Plan Form
+    pages:
+    - id: 1
+      name: incident_action_plan_form
+      label: Incident Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Administrative Forms
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_incident_began
+      label: Date Incident Began
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_incident_started
+      label: Time Incident Started
+      hint: "HH:MM:SS"
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: location_incident_occurred
+      label: Location Incident Occurred
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_number
+      label: Incident Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_title
+      label: Incident Title
+      hint: null
+      type: text
+      options: []
+      required: false

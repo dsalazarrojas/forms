@@ -1,0 +1,236 @@
+inputSchema:
+  type: object
+  properties:
+    title: High Intensity Functional Training Registration
+    pages:
+    - id: 1
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: participant_age
+      label: Participant Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: program_start_date
+      label: Program Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: program_end_date
+      label: Program End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: participant_level
+      label: Participant Level
+      hint: null
+      type: select_one
+      options:
+      - Novice
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 10
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_relationship
+      label: Relationship to Participant
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Spouse
+      - Sibling
+      - Friend
+      - Other
+      required: true
+    - id: 13
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_one
+      options:
+      - Strength Training
+      - Cardiovascular Training
+      - Flexibility Training
+      - Balance and Flexibility
+      - Strength Training
+      - Other
+      required: true
+    - id: 15
+      name: program_level
+      label: Program Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 16
+      name: training_frequency
+      label: Training Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 17
+      name: workout_duration
+      label: Workout Duration
+      hint: null
+      type: select_multiple
+      options:
+      - '30'
+      - '45'
+      - '60'
+      - '90'
+      - '120'
+      required: false
+    - id: 18
+      name: training_time
+      label: Training Time
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 19
+      name: training_days
+      label: Training Days
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 20
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - High Blood Pressure
+      - Diabetes
+      - Epilepsy
+      - Pregnancy
+      - Allergies
+      - Other
+      required: false
+    - id: 21
+      name: injuries
+      label: Injuries
+      hint: null
+      type: select_multiple
+      options:
+      - Back Injuries
+      - Knee Injuries
+      - Hip Injuries
+      - Other
+      required: false
+    - id: 22
+      name: medical_devices
+      label: Medical Devices
+      hint: null
+      type: select_multiple
+      options:
+      - Walker
+      - Wheelchair
+      - Hearing Device
+      - Vision Device
+      - Other
+      required: false
+    - id: 23
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - Medication 1
+      - Medication 2
+      - Medication 3
+      - Other
+      required: false
+    - id: 24
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: emergency_contact_relationship_note
+      label: Emergency Contact Relationship Note
+      hint: null
+      type: note
+      options: []
+      required: false

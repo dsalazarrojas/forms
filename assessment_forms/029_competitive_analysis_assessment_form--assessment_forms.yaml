@@ -1,0 +1,293 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Competitive Analysis Assessment Form
+    pages:
+      - id: 1
+        name: assessment_date
+        label: Assessment Date
+        hint: Date of analysis
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: analyst_name
+        label: Analyst Name
+        hint: Person conducting analysis
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: analyst_department
+        label: Department
+        hint: Your department
+        type: select_one
+        options:
+          - Strategy
+          - Marketing
+          - Sales
+          - Product
+          - Business Development
+          - Executive
+          - Other
+        required: true
+      - id: 4
+        name: company_name
+        label: Your Company Name
+        hint: Your organization
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: industry
+        label: Industry
+        hint: Your industry sector
+        type: select_one
+        options:
+          - Technology
+          - Healthcare
+          - Finance
+          - Manufacturing
+          - Retail
+          - Services
+          - Education
+          - Other
+        required: true
+      - id: 6
+        name: competitor_name
+        label: Competitor Name
+        hint: Primary competitor being analyzed
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: competitor_size
+        label: Competitor Size
+        hint: Company size
+        type: select_one
+        options:
+          - Startup - under 50 employees
+          - Small - 50 to 200 employees
+          - Medium - 200 to 1000 employees
+          - Large - 1000 to 5000 employees
+          - Enterprise - over 5000 employees
+        required: true
+      - id: 8
+        name: market_position
+        label: Competitor Market Position
+        hint: Their market standing
+        type: select_one
+        options:
+          - Market leader
+          - Strong challenger
+          - Follower
+          - Niche player
+          - New entrant
+        required: true
+      - id: 9
+        name: product_comparison
+        label: Product or Service Comparison
+        hint: How do offerings compare
+        type: select_one
+        options:
+          - Superior to ours
+          - Comparable to ours
+          - Inferior to ours
+          - Different focus
+          - Not comparable
+        required: true
+      - id: 10
+        name: pricing_comparison
+        label: Pricing Comparison
+        hint: How does their pricing compare
+        type: select_one
+        options:
+          - Significantly higher
+          - Slightly higher
+          - Comparable
+          - Slightly lower
+          - Significantly lower
+        required: true
+      - id: 11
+        name: quality_perception
+        label: Quality Perception
+        hint: Market perception of their quality
+        type: select_one
+        options:
+          - Premium - highest quality
+          - High quality
+          - Average quality
+          - Below average
+          - Low quality
+        required: true
+      - id: 12
+        name: brand_strength
+        label: Brand Strength
+        hint: Their brand power
+        type: select_one
+        options:
+          - Very strong - well recognized
+          - Strong
+          - Moderate
+          - Weak
+          - Very weak - unknown
+        required: true
+      - id: 13
+        name: market_share
+        label: Estimated Market Share
+        hint: Their market share percentage
+        type: select_one
+        options:
+          - Over 50 percent
+          - 25 to 50 percent
+          - 10 to 25 percent
+          - 5 to 10 percent
+          - Under 5 percent
+        required: true
+      - id: 14
+        name: growth_trajectory
+        label: Growth Trajectory
+        hint: Are they growing
+        type: select_one
+        options:
+          - Rapidly growing
+          - Steadily growing
+          - Stable
+          - Declining
+          - Rapidly declining
+        required: true
+      - id: 15
+        name: marketing_effectiveness
+        label: Marketing Effectiveness
+        hint: How effective is their marketing
+        type: select_one
+        options:
+          - Very effective
+          - Effective
+          - Moderate
+          - Ineffective
+          - Very ineffective
+        required: true
+      - id: 16
+        name: sales_strength
+        label: Sales Team Strength
+        hint: Their sales capability
+        type: select_one
+        options:
+          - Very strong
+          - Strong
+          - Moderate
+          - Weak
+          - Very weak
+        required: true
+      - id: 17
+        name: customer_service
+        label: Customer Service Quality
+        hint: Their service quality
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below average
+          - Poor
+        required: true
+      - id: 18
+        name: innovation_capability
+        label: Innovation Capability
+        hint: Their ability to innovate
+        type: select_one
+        options:
+          - Industry leader
+          - Strong innovator
+          - Follower
+          - Limited innovation
+          - No innovation
+        required: true
+      - id: 19
+        name: technology_advantage
+        label: Technology Advantage
+        hint: Their tech capabilities
+        type: select_one
+        options:
+          - Significant advantage
+          - Slight advantage
+          - Parity
+          - Slight disadvantage
+          - Significant disadvantage
+        required: true
+      - id: 20
+        name: distribution_strength
+        label: Distribution Strength
+        hint: Their distribution network
+        type: select_one
+        options:
+          - Very strong
+          - Strong
+          - Moderate
+          - Weak
+          - Very weak
+        required: true
+      - id: 21
+        name: financial_stability
+        label: Financial Stability
+        hint: Their financial health
+        type: select_one
+        options:
+          - Very strong
+          - Strong
+          - Stable
+          - Weak
+          - Very weak
+        required: true
+      - id: 22
+        name: competitive_threat
+        label: Overall Competitive Threat
+        hint: Level of threat they pose
+        type: select_one
+        options:
+          - Critical threat
+          - High threat
+          - Moderate threat
+          - Low threat
+          - Minimal threat
+        required: true
+      - id: 23
+        name: key_strengths
+        label: Competitor Key Strengths
+        hint: What are they good at
+        type: text
+        options: []
+        required: true
+      - id: 24
+        name: key_weaknesses
+        label: Competitor Key Weaknesses
+        hint: Where are they vulnerable
+        type: text
+        options: []
+        required: true
+      - id: 25
+        name: strategic_recommendations
+        label: Strategic Recommendations
+        hint: How should we respond
+        type: text
+        options: []
+        required: true
+      - id: 26
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other observations
+        type: text
+        options: []
+        required: false

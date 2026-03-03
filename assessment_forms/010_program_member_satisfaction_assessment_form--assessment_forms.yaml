@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Program Member Satisfaction Assessment Form
+    pages:
+    - id: 1
+      name: program_member_satisfaction_form_program_member_satisfaction_form_1
+      label: Program feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_member_satisfaction_form_program_member_satisfaction_2
+      label: What services do you have used?
+      hint: null
+      type: select_multiple
+      options:
+      - Service 1
+      - Service 2
+      - Service 3
+      required: false
+    - id: 3
+      name: program_member_satisfaction_form_program_member_satisfaction_3
+      label: What was your satisfaction with these services?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: program_member_satisfaction_form_program_member_satisfaction_4
+      label: How likely are you to recommend these services?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: program_member_satisfaction_form_program_member_satisfaction_5
+      label: How often do you use these services?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 6
+      name: program_member_satisfaction_form_program_member_satisfaction_6
+      label: How would you rate your satisfaction with the overall quality of these
+        services?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: program_member_satisfaction_form_program_member_satisfaction_7
+      label: How likely are you to recommend us to others?
+      hint: null
+      type: select_one
+      options:
+      - Not likely
+      - Somewhat likely
+      - Very likely
+      - Extremely Likely
+      required: false
+    - id: 8
+      name: program_member_satisfaction_form_program_member_satisfaction_8
+      label: Do you have any suggestions or comments?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: program_member_satisfaction_form_program_member_satisfaction_9
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: program_member_satisfaction_form_program_member_satisfaction_10
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

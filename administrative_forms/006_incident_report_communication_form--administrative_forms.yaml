@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: incident_report_communication_form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: incident_description
+      label: Incident Description
+      hint: Please describe the incident
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_location
+      label: Incident Location
+      hint: The location where the incident occurred
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: incident_status
+      label: Incident Status
+      hint: Select the incident status
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Pending
+      required: false
+    - id: 6
+      name: incident_reporter
+      label: Incident Reporter
+      hint: The person reporting the incident
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_affected_party
+      label: Incident Affected Party
+      hint: The party affected by the incident
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_investigated_by
+      label: Incident Investigated By
+      hint: The person investigating the incident
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_notes
+      label: Incident Notes
+      hint: Additional incident notes
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: incident_email
+      label: Incident Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: incident_phone
+      label: Incident Phone
+      hint: null
+      type: text
+      options: []
+      required: false

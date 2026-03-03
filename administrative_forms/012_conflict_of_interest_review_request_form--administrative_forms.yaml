@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conflict Of Interest Review Request Form
+    pages:
+    - id: 1
+      name: request_date
+      label: Request Date
+      hint: Date of this review request
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: requester_name
+      label: Requester Name
+      hint: Full name of person requesting review
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requester_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: employee_id
+      label: Employee ID
+      hint: Employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: Your department or division
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: position_title
+      label: Position Title
+      hint: Your job title
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: manager_name
+      label: Manager Name
+      hint: Name of your direct supervisor
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: request_type
+      label: Type of Review Request
+      hint: What type of conflict review is needed
+      type: select_one
+      options:
+      - Self Disclosure
+      - Manager Referral
+      - HR Referral
+      - Compliance Review
+      - Annual Declaration Follow-Up
+      - Other
+      required: true
+    - id: 10
+      name: conflict_category
+      label: Category of Potential Conflict
+      hint: Select the primary category
+      type: select_one
+      options:
+      - Outside Employment
+      - Financial Interest
+      - Family Relationship
+      - Board Membership
+      - Vendor Relationship
+      - Client Relationship
+      - Gift or Favor
+      - Other
+      required: true
+    - id: 11
+      name: conflict_description
+      label: Detailed Description of Situation
+      hint: Provide full details of the potential conflict
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: parties_involved
+      label: Parties Involved
+      hint: Names and organizations of all parties
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: relationship_nature
+      label: Nature of Relationship
+      hint: Describe your relationship to the situation
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: financial_interest_value
+      label: Approximate Value of Financial Interest
+      hint: If applicable provide estimated value
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: when_conflict_arose
+      label: When Did This Conflict Arise
+      hint: Date or time period when situation began
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: ongoing_or_one_time
+      label: Is This an Ongoing or One-Time Situation
+      hint: Duration of the potential conflict
+      type: select_one
+      options:
+      - Ongoing
+      - One-Time Event
+      - Temporary - Less than 6 Months
+      - Temporary - 6 to 12 Months
+      required: true
+    - id: 17
+      name: affects_job_duties
+      label: Does This Affect Your Job Duties
+      hint: Will this impact your work responsibilities
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 18
+      name: how_affects_duties
+      label: How Does This Affect Your Duties
+      hint: Describe the impact on your work
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: prior_disclosure
+      label: Have You Previously Disclosed This
+      hint: Has this been disclosed before
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: prior_disclosure_details
+      label: Prior Disclosure Details
+      hint: When and to whom was it disclosed
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: supporting_documents
+      label: Supporting Documents Available
+      hint: Do you have documents to support this disclosure
+      type: select_one
+      options:
+      - Yes - Will Attach
+      - false
+      required: true
+    - id: 22
+      name: document_list
+      label: List of Supporting Documents
+      hint: Describe documents you will provide
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: suggested_resolution
+      label: Suggested Resolution or Mitigation
+      hint: Any ideas you have for managing this conflict
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: urgency_level
+      label: Urgency Level
+      hint: How quickly is review needed
+      type: select_one
+      options:
+      - Routine - Within 30 Days
+      - Moderate - Within 14 Days
+      - Urgent - Within 7 Days
+      - Critical - Immediate Review Needed
+      required: true
+    - id: 25
+      name: additional_information
+      label: Additional Information
+      hint: Any other relevant details
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: requester_signature
+      label: Requester Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: review_status
+      label: Review Status
+      hint: For administrative use
+      type: select_one
+      options:
+      - Submitted
+      - Under Review
+      - Additional Information Requested
+      - Approved - No Conflict
+      - Approved - With Mitigation
+      - Conflict Identified - Action Required
+      required: false

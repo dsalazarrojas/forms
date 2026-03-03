@@ -1,0 +1,90 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Letter Writing Guide
+    pages:
+    - id: 1
+      name: intro_form
+      label: Intro form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: purpose_form
+      label: Purpose
+      hint: null
+      type: select_one
+      options:
+      - Personal letter
+      - Business letter
+      required: false
+    - id: 3
+      name: recipient_form
+      label: Recipient
+      hint: Recipient name, address, or department
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_form
+      label: Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: salutation_form
+      label: Salutation
+      hint: Mr, Mrs, Ms or Dr. (or none)
+      type: select_one
+      options:
+      - Mr, Mrs, Dr
+      - Ms
+      required: false
+    - id: 6
+      name: sign_off_form
+      label: Sign Off
+      hint: Sincerely or All the Best etc.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: cc_form
+      label: Cc form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: attachment_form
+      label: Attachment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: file_uploader
+      label: File uploader
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: attachment_file
+      label: Attachment file
+      hint: null
+      type: text
+      options: []
+      required: false

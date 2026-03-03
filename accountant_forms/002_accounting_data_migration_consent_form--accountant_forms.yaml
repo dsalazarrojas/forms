@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Data Migration Consent Form
+    pages:
+    - id: 1
+      name: client_company_name
+      label: Client Company Name
+      hint: Legal name of the company whose data will be migrated
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: authorized_representative_name
+      label: Authorized Representative Name
+      hint: Full name of the person authorizing the data migration
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: representative_title
+      label: Representative Title
+      hint: Job title of the person authorizing the migration
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email Address
+      hint: Email for communication regarding the migration
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone Number
+      hint: Phone number for migration-related inquiries
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: current_system_name
+      label: Current Accounting System
+      hint: Name of the accounting software currently in use
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: target_system_name
+      label: Target Accounting System
+      hint: Name of the accounting software to migrate to
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: data_types_to_migrate
+      label: Data Types to Migrate
+      hint: Select all types of data to be transferred
+      type: select_multiple
+      options:
+      - Chart of Accounts
+      - Customer Records
+      - Vendor Records
+      - Transaction History
+      - Financial Reports
+      - Bank Reconciliations
+      - Inventory Data
+      - Employee Information
+      required: true
+    - id: 9
+      name: migration_date_preference
+      label: Preferred Migration Date
+      hint: Date when you would like the migration to occur
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: backup_verification
+      label: Backup Verification
+      hint: Confirm that current system data has been backed up
+      type: select_one
+      options:
+      - Yes, data is backed up
+      - No, data is not backed up
+      - Not sure
+      required: true
+    - id: 11
+      name: consent_agreement
+      label: Consent Agreement
+      hint: Do you authorize the transfer of your accounting data as described
+      type: select_one
+      options:
+      - Yes, I authorize the data migration
+      - No, I do not authorize the data migration
+      required: true
+    - id: 12
+      name: additional_requirements
+      label: Additional Requirements or Restrictions
+      hint: Any special requirements or restrictions for the data migration
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: signature_date
+      label: Signature Date
+      hint: Date of authorization
+      type: date
+      options: []
+      required: true

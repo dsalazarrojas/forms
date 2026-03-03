@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Treasury Fee Waiver Request Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: department
+      label: user_department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: reason_for_request
+      label: reason_for_fee_waiver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: amount
+      label: amount_fee_waivered
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: date_of_request
+      label: date_of_request
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitted_by_title
+      label: submitted_by_title
+      hint: null
+      type: text
+      options: []
+      required: false

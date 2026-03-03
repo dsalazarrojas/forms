@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: material_return_form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: item_description
+      label: Item Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: item_quantity
+      label: Item Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_return
+      label: Reason For Return
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: item_condition
+      label: Item Condition
+      hint: null
+      type: select_one
+      options:
+      - Damaged
+      - Defective
+      - Not Needed
+      required: false
+    - id: 7
+      name: item_value
+      label: Item Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: customer_note
+      label: Customer Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: date_received
+      label: Date Received
+      hint: null
+      type: date
+      options: []
+      required: false

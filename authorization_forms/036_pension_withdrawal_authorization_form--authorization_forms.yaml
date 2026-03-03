@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pension Withdrawal Authorization Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: account_info
+      label: Account Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reason_details
+      label: Reason Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: withdrawal_date
+      label: Withdrawal Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: withdrawal_amount
+      label: Withdrawal Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: reason_for_withdrawal
+      label: Reason for Withdrawal
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 11
+      name: authorization
+      label: Authorization
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false

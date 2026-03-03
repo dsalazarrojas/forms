@@ -1,0 +1,281 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Travel Authorization Form
+    pages:
+    - id: 1
+      name: authorization_date
+      label: Authorization Date
+      hint: Date of travel authorization
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: parent_guardian_first_name
+      label: Parent or Guardian First Name
+      hint: Legal first name of parent or guardian authorizing travel
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: parent_guardian_last_name
+      label: Parent or Guardian Last Name
+      hint: Legal last name of parent or guardian authorizing travel
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Primary email address for contact
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Primary phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: parent_guardian_address
+      label: Parent or Guardian Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: parent_guardian_id_type
+      label: Parent or Guardian ID Type
+      hint: Type of identification provided
+      type: select_one
+      options:
+      - Driver license
+      - Passport
+      - State ID
+      - Military ID
+      - Other government ID
+      required: true
+    - id: 8
+      name: parent_guardian_id_number
+      label: Parent or Guardian ID Number
+      hint: Identification number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: child_first_name
+      label: Child First Name
+      hint: Legal first name of the child
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: child_last_name
+      label: Child Last Name
+      hint: Legal last name of the child
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: child_date_of_birth
+      label: Child Date of Birth
+      hint: Please provide the child's birth date
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: child_passport_number
+      label: Child Passport Number
+      hint: Passport number if traveling internationally
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: child_passport_expiry
+      label: Child Passport Expiry Date
+      hint: Passport expiration date if applicable
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: accompanying_adult_first_name
+      label: Accompanying Adult First Name
+      hint: Legal first name of adult supervising travel
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: accompanying_adult_last_name
+      label: Accompanying Adult Last Name
+      hint: Legal last name of adult supervising travel
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: accompanying_adult_relationship
+      label: Accompanying Adult Relationship
+      hint: Relationship of accompanying adult to the child
+      type: select_one
+      options:
+      - Parent
+      - Guardian
+      - Grandparent
+      - Aunt or Uncle
+      - Family friend
+      - Teacher or chaperone
+      - Other
+      required: true
+    - id: 17
+      name: accompanying_adult_phone
+      label: Accompanying Adult Phone
+      hint: Phone number for accompanying adult
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: accompanying_adult_email
+      label: Accompanying Adult Email
+      hint: Email address for accompanying adult
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: travel_destination_city
+      label: Travel Destination City
+      hint: City of destination
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: travel_destination_state_or_country
+      label: Travel Destination State or Country
+      hint: State or country of destination
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: travel_departure_date
+      label: Travel Departure Date
+      hint: Date of departure
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: travel_return_date
+      label: Travel Return Date
+      hint: Date of return
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: travel_purpose
+      label: Travel Purpose
+      hint: Purpose of the travel
+      type: select_one
+      options:
+      - Vacation or leisure
+      - Family visit
+      - Educational trip
+      - Sports competition
+      - Performance or event
+      - Medical treatment
+      - Other
+      required: true
+    - id: 24
+      name: travel_method
+      label: Travel Method
+      hint: How will the child be traveling?
+      type: select_one
+      options:
+      - Airplane
+      - Car
+      - Bus
+      - Train
+      - Cruise ship
+      - Multiple methods
+      required: true
+    - id: 25
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: medical_insurance_provider
+      label: Medical Insurance Provider
+      hint: Name of medical insurance provider
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: medical_insurance_policy_number
+      label: Medical Insurance Policy Number
+      hint: Policy or member number
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: child_medical_conditions
+      label: Child Medical Conditions
+      hint: List any medical conditions or allergies
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: child_current_medications
+      label: Child Current Medications
+      hint: List any current medications
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: medical_treatment_authorization
+      label: Medical Treatment Authorization
+      hint: Do you authorize emergency medical treatment during travel?
+      type: select_one
+      options:
+      - Yes, I authorize
+      - Yes, with limitations
+      - No, contact me first
+      required: true
+    - id: 32
+      name: additional_authorizations
+      label: Additional Authorizations
+      hint: Any additional authorizations or restrictions
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: parent_guardian_signature
+      label: Parent or Guardian Signature
+      hint: Type your full name as your electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: signature_date
+      label: Signature Date
+      hint: Date of electronic signature
+      type: date
+      options: []
+      required: true
+    - id: 35
+      name: notary_required
+      label: Notary Required
+      hint: Is notarization required for this authorization?
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true

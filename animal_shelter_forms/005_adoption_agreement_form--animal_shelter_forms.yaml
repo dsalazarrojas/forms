@@ -1,0 +1,99 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Adoption Agreement Form
+    pages:
+    - id: 1
+      name: agreement_header
+      label: -- Adoption Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: adopter_name
+      label: Adopter full name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: adopter_contact
+      label: Contact phone or email
+      hint: Provide best contact method
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: pet_name
+      label: Pet name
+      hint: Name of the adopted animal
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: adoption_date
+      label: Adoption date
+      hint: Date of transfer
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: terms_and_conditions
+      label: Agreement terms acknowledged
+      hint: Confirm you understand the care responsibilities
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 7
+      name: return_policy_understanding
+      label: Return policy understanding
+      hint: Acknowledge shelter return policy
+      type: select_one
+      options:
+      - I understand
+      - I do not understand
+      required: true
+    - id: 8
+      name: vaccination_record_received
+      label: Vaccination record received
+      hint: Shelter will provide records if available
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: false
+    - id: 9
+      name: emergency_contact
+      label: Emergency contact
+      hint: Name and phone number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: signature
+      label: Adopter signature name
+      hint: Type full name as electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: signature_date
+      label: Signature date
+      hint: Date of agreement
+      type: date
+      options: []
+      required: true

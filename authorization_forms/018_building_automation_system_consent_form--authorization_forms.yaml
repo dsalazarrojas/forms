@@ -1,0 +1,289 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Automation System Consent Form
+    pages:
+    - id: 1
+      name: introduction
+      label: -- Building Automation System Authorization --
+      hint: Consent to implement and operate building automation systems
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: property_owner
+      label: Property owner or authorized representative
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: property_address
+      label: Property address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: owner_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: owner_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: authorization_scope
+      label: -- Authorization Scope --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: system_type
+      label: Building automation system type
+      hint: null
+      type: select_multiple
+      options:
+      - HVAC control
+      - Lighting control
+      - Energy management
+      - Access control
+      - Security monitoring
+      - Fire detection
+      - Water management
+      - Elevator systems
+      - Integrated BMS
+      required: true
+    - id: 8
+      name: system_scope
+      label: Scope of automation implementation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: affected_areas
+      label: Areas affected by automation
+      hint: Specific floors, zones, or departments
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: implementation_details
+      label: -- Implementation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: contractor_name
+      label: Contractor or vendor name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contractor_contact
+      label: Contractor contact information
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: project_start
+      label: Project start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: project_completion
+      label: Expected completion date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: installation_timeline
+      label: -- Installation and Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: installation_impact
+      label: Expected impact on building operations
+      hint: null
+      type: select_one
+      options:
+      - Minimal disruption - Off-hours work
+      - Moderate disruption - Limited hours
+      - Significant disruption - Full shutdown
+      - Phased approach
+      required: true
+    - id: 17
+      name: occupant_notification
+      label: Occupants notified of installation
+      hint: null
+      type: select_one
+      options:
+      - Yes, notified in advance
+      - Will notify before work
+      - Not required
+      required: true
+    - id: 18
+      name: system_testing
+      label: System testing and commissioning
+      hint: null
+      type: select_one
+      options:
+      - Yes, included in scope
+      - Yes, separate agreement
+      - Not included
+      required: true
+    - id: 19
+      name: monitoring_consent
+      label: -- Monitoring and Data Collection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: remote_monitoring
+      label: Remote monitoring authorization
+      hint: null
+      type: select_one
+      options:
+      - Yes, authorized
+      - Yes, with restrictions
+      - false
+      required: true
+    - id: 21
+      name: data_collection
+      label: Data collection and logging
+      hint: null
+      type: select_one
+      options:
+      - Yes, full data collection
+      - Yes, limited data
+      - No data collection
+      required: true
+    - id: 22
+      name: data_sharing
+      label: Third-party data sharing
+      hint: null
+      type: select_one
+      options:
+      - Prohibited
+      - Authorized with notification
+      - Authorized
+      required: true
+    - id: 23
+      name: occupant_privacy
+      label: Occupant privacy protections
+      hint: null
+      type: select_one
+      options:
+      - Full privacy protections
+      - Standard protections
+      - No specific protections
+      required: false
+    - id: 24
+      name: maintenance_support
+      label: -- Maintenance and Support --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: support_plan
+      label: Support and maintenance plan
+      hint: null
+      type: select_one
+      options:
+      - 24/7 emergency support
+      - Business hours support
+      - Scheduled maintenance
+      - As-needed basis
+      required: true
+    - id: 26
+      name: training_provided
+      label: Staff training provided
+      hint: null
+      type: select_one
+      options:
+      - Yes, comprehensive training
+      - Yes, basic training
+      - Documentation only
+      - No training
+      required: true
+    - id: 27
+      name: emergency_override
+      label: Manual override capabilities available
+      hint: null
+      type: select_one
+      options:
+      - Yes, full manual control
+      - Yes, emergency only
+      - false
+      required: true
+    - id: 28
+      name: liability_section
+      label: -- Liability and Warranty --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: liability_coverage
+      label: Contractor has liability insurance
+      hint: null
+      type: select_one
+      options:
+      - Yes, proof on file
+      - Yes, needs verification
+      - false
+      required: true
+    - id: 30
+      name: warranty_terms
+      label: Warranty coverage period
+      hint: null
+      type: select_one
+      options:
+      - 1 year
+      - 2 years
+      - 3 years
+      - Other
+      required: true
+    - id: 31
+      name: consent_acknowledgment
+      label: -- Consent and Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: authorization_confirmed
+      label: I authorize implementation of the building automation system
+      hint: null
+      type: select_one
+      options:
+      - Yes, I authorize
+      - No, I do not authorize
+      required: true
+    - id: 33
+      name: terms_agreed
+      label: I acknowledge and agree to all terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true

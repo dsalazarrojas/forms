@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hairdressing Consultation Form
+    pages:
+    - id: 1
+      name: personal_info
+      label: Personal Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: hair_service_type
+      label: Hair Service Type
+      hint: null
+      type: select_multiple
+      options:
+      - Hair Cut
+      - Hair Coloring
+      - Hair Treatment
+      required: false
+    - id: 5
+      name: client_preferences
+      label: Client Preferences
+      hint: null
+      type: select_one
+      options:
+      - Wash and Style
+      - Cut and Style
+      - Wash and Cut
+      required: false
+    - id: 6
+      name: hair_condition
+      label: Hair Condition
+      hint: null
+      type: select_one
+      options:
+      - Dry
+      - Curly
+      - Oily
+      - Greasy
+      required: false
+    - id: 7
+      name: client_history
+      label: Client History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: stylist_name
+      label: Stylist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: service_cost
+      label: Service Cost
+      hint: null
+      type: number
+      options: []
+      required: false

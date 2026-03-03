@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: TCM Safety Quiz
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: birth_date
+      label: birth date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: safety_knowledge
+      label: safety knowledge
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: safety_concerns
+      label: safety concerns
+      hint: null
+      type: select_multiple
+      options:
+      - Physical
+      - Energetic
+      - Emotional
+      - Other
+      required: false
+    - id: 8
+      name: quiz_start_time
+      label: quiz start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: submit_date
+      label: submit date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: submit_time
+      label: submit time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: submit_location
+      label: submit location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: safety_quiz_results
+      label: safety quiz results
+      hint: null
+      type: select_multiple
+      options:
+      - Passed
+      - Failed
+      - Needs Improvement
+      required: false
+    - id: 13
+      name: follow_up_question
+      label: follow up question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_plan
+      label: follow up plan
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: follow_up_date
+      label: follow up date
+      hint: null
+      type: date
+      options: []
+      required: false

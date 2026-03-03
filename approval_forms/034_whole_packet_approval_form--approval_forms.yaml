@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Whole Packet Approval Form
+    pages:
+    - id: 1
+      name: whole_packet_approval_form
+      label: Whole Packet Approval Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: team_members
+      label: Team Members
+      hint: Select all team members who will review this packet
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: packet_review
+      label: Packet Review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: approval_decision
+      label: Approval Decision
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: review_time
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: false

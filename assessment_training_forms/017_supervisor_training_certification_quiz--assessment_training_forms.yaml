@@ -1,0 +1,32 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supervisor Training Certification Quiz
+    pages:
+    - id: 1
+      name: supervisor_training_certification_quiz
+      label: Quiz
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: confirm_completion
+      label: Confirm Completion
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: assess_readiness
+      label: Assess Readiness
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

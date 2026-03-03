@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Risk Assessment Officer Information Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Please provide your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Finance
+      - Operations
+      - IT
+      - Admin
+      required: false
+    - id: 6
+      name: reporting_line
+      label: Reporting Line
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: reporting_manager
+      label: Reporting Manager
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      - Other
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: Please provide a valid contact email
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: onboarding_date
+      label: Onboarding Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: certification
+      label: Certification
+      hint: null
+      type: select_multiple
+      options:
+      - Series 1
+      - Series 2
+      - Series 3
+      - Series 4
+      - Series 5
+      required: false
+    - id: 12
+      name: certification_date
+      label: Certification Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: certification_status
+      label: Certification Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 14
+      name: risk_assessment_officer_notes
+      label: Risk Assessment Officer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: onboarding_comments
+      label: Onboarding Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: risk_assessment_officer_comments
+      label: Risk Assessment Officer Comments
+      hint: null
+      type: select_multiple
+      options:
+      - Comment 1
+      - Comment 2
+      - Comment 3
+      required: false
+    - id: 17
+      name: other
+      label: Other
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: risk_assessment_officer_other
+      label: Other
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: risk_assessment_officer_agreed
+      label: Risk Assessment Officer Agreed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Applicable
+      required: false
+    - id: 20
+      name: risk_assessment_officer_comments
+      label: Risk Assessment Officer Comments
+      hint: null
+      type: select_multiple
+      options:
+      - Comment 1
+      - Comment 2
+      - Comment 3
+      required: false
+    - id: 21
+      name: risk_assessment_officer_agreed_comments
+      label: Risk Assessment Officer Comments
+      hint: null
+      type: select_multiple
+      options:
+      - Comment 1
+      - Comment 2
+      - Comment 3
+      required: false
+    - id: 22
+      name: onboarding_agreed
+      label: Onboarding Agreed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Applicable
+      required: false
+    - id: 23
+      name: onboarding_agreed_comments
+      label: Onboarding Agreed Comments
+      hint: null
+      type: select_multiple
+      options:
+      - Comment 1
+      - Comment 2
+      - Comment 3
+      required: false
+    - id: 24
+      name: risk_assessment_officer_agreement
+      label: Risk Assessment Officer Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - Agreed
+      - Not Agreed
+      - Not Applicable
+      required: false
+    - id: 25
+      name: risk_assessment_officer_agreement_comments
+      label: Risk Assessment Officer Agreement Comments
+      hint: null
+      type: select_multiple
+      options:
+      - Comment 1
+      - Comment 2
+      - Comment 3
+      required: false

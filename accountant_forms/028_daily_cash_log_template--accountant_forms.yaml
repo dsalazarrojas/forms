@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Cash Log Template
+    pages:
+    - id: 1
+      name: daily_cash_log
+      label: Daily Cash Log
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: cash_in
+      label: Cash In
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: cash_out
+      label: Cash Out
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: description
+      label: Description
+      hint: Briefly describe the transaction
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: cash_in_total
+      label: Cash In Total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: cash_out_total
+      label: Cash Out Total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: user_notes
+      label: User Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: form_completion_status
+      label: Form Completion Status
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - Incomplete
+      - Needs Review
+      required: true
+    - id: 11
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Document Retrieval Agreement
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: document_type
+      label: document_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Type A''}'
+      - '{''id'': 2, ''label'': ''Type B''}'
+      - '{''id'': 3, ''label'': ''Type C''}'
+      required: true
+    - id: 3
+      name: document_id
+      label: document_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: request_reason
+      label: Request Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: organization_contact
+      label: Organization Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: document_retained
+      label: Document Retained
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: document_return
+      label: Document Return
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Return to Sender''}'
+      - '{''id'': 2, ''label'': ''Return to Sender''}'
+      required: true
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: document_retrieval_fee
+      label: Document Retrieval Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: agreement_signed
+      label: Agreement Signed
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true

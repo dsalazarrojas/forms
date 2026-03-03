@@ -1,0 +1,484 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automotive Customer Service Representative Application Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Automotive Customer Service Representative Application
+      hint: Apply for the CSR position
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: personal_info
+      label: Personal Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: middle_name
+      label: Middle Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street Address
+      hint: Your address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: State
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Florida
+      - Georgia
+      - Other
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: 5-digit ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: eligible_to_work
+      label: Eligible to Work in US
+      hint: Are you eligible
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: position_info
+      label: Position Information
+      hint: About the role
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: position_applied
+      label: Position Applied For
+      hint: Which position
+      type: select_one
+      options:
+      - Customer Service Representative
+      - Senior CSR
+      - Service Advisor
+      - Parts CSR
+      - Phone Representative
+      required: true
+    - id: 16
+      name: available_start_date
+      label: Available Start Date
+      hint: When can you start
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: employment_type
+      label: Employment Type Desired
+      hint: Full or part time
+      type: select_one
+      options:
+      - Full-Time
+      - Part-Time
+      - Either
+      required: true
+    - id: 18
+      name: shift_preference
+      label: Shift Preference
+      hint: Which shift
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Weekend
+      - Any Shift
+      required: false
+    - id: 19
+      name: salary_expectations
+      label: Salary Expectations
+      hint: Expected range
+      type: select_one
+      options:
+      - $30000-$40000
+      - $40000-$50000
+      - $50000-$60000
+      - $60000-$70000
+      - Over $70000
+      - Negotiable
+      required: false
+    - id: 20
+      name: education
+      label: Education
+      hint: Your education
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: high_school
+      label: High School Diploma or GED
+      hint: Do you have one
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: college
+      label: College Education
+      hint: Highest level
+      type: select_one
+      options:
+      - None
+      - Some College
+      - Associate Degree
+      - Bachelor Degree
+      - Graduate Degree
+      required: false
+    - id: 23
+      name: degree_field
+      label: Degree Field
+      hint: What did you study
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: school_name
+      label: School Name
+      hint: Where
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: experience
+      label: Work Experience
+      hint: Your history
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: customer_service_experience
+      label: Customer Service Experience
+      hint: How many years
+      type: select_one
+      options:
+      - None
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - Over 5 years
+      required: true
+    - id: 27
+      name: automotive_experience
+      label: Automotive Industry Experience
+      hint: How many years
+      type: select_one
+      options:
+      - None
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - Over 5 years
+      required: true
+    - id: 28
+      name: previous_employer_1
+      label: Most Recent Employer
+      hint: Company name
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: previous_title_1
+      label: Previous Title
+      hint: Your title
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: previous_dates_1
+      label: Dates of Employment
+      hint: From to
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: previous_responsibilities
+      label: Key Responsibilities
+      hint: What you did
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: reason_for_leaving
+      label: Reason for Leaving
+      hint: Why left
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: skills
+      label: Skills
+      hint: Your abilities
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: computer_skills
+      label: Computer Skills
+      hint: What software
+      type: select_multiple
+      options:
+      - Microsoft Office
+      - Google Workspace
+      - CRM Software
+      - Database Management
+      - Email Systems
+      - Chat Systems
+      - Other
+      required: false
+    - id: 35
+      name: phone_skills
+      label: Phone System Experience
+      hint: Have you used
+      type: select_one
+      options:
+      - Yes Extensive
+      - Yes Basic
+      - false
+      required: false
+    - id: 36
+      name: multitasking
+      label: Multitasking Ability
+      hint: Can you handle multiple
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 37
+      name: communication_skills
+      label: Communication Skills
+      hint: Self rating
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 38
+      name: languages
+      label: Languages Spoken
+      hint: What languages
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - German
+      - Chinese
+      - Vietnamese
+      - Korean
+      - Other
+      required: false
+    - id: 39
+      name: certifications
+      label: Relevant Certifications
+      hint: Any certifications
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: scenario_questions
+      label: Scenario Questions
+      hint: How would you handle
+      type: note
+      options: []
+      required: false
+    - id: 41
+      name: difficult_customer
+      label: How Would You Handle an Angry Customer
+      hint: Brief explanation
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: multiple_tasks
+      label: How Do You Prioritize Multiple Tasks
+      hint: Brief explanation
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: why_this_company
+      label: Why Do You Want to Work Here
+      hint: Your motivation
+      type: text
+      options: []
+      required: false
+    - id: 44
+      name: strengths
+      label: What Are Your Strengths
+      hint: List strengths
+      type: text
+      options: []
+      required: false
+    - id: 45
+      name: weaknesses
+      label: What Areas Are You Working to Improve
+      hint: Be honest
+      type: text
+      options: []
+      required: false
+    - id: 46
+      name: references
+      label: References
+      hint: Provide references
+      type: note
+      options: []
+      required: false
+    - id: 47
+      name: reference_1
+      label: Reference 1
+      hint: Name and contact
+      type: text
+      options: []
+      required: false
+    - id: 48
+      name: reference_2
+      label: Reference 2
+      hint: Name and contact
+      type: text
+      options: []
+      required: false
+    - id: 49
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else
+      type: text
+      options: []
+      required: false
+    - id: 50
+      name: how_heard
+      label: How Did You Hear About This Position
+      hint: How did you find us
+      type: select_one
+      options:
+      - Company Website
+      - Job Board
+      - Social Media
+      - Referral
+      - Newspaper
+      - Other
+      required: false
+    - id: 51
+      name: referral_name
+      label: Referral Name
+      hint: Who referred you
+      type: text
+      options: []
+      required: false
+    - id: 52
+      name: background_check
+      label: Background Check Consent
+      hint: Do you consent
+      type: select_one
+      options:
+      - Yes I Consent
+      - No I Do Not Consent
+      required: true
+    - id: 53
+      name: drug_screen
+      label: Drug Screen Consent
+      hint: Do you consent
+      type: select_one
+      options:
+      - Yes I Consent
+      - No I Do Not Consent
+      required: true
+    - id: 54
+      name: accuracy_statement
+      label: Accuracy Statement
+      hint: Information is true
+      type: select_one
+      options:
+      - I Certify
+      - I Do Not Certify
+      required: true
+    - id: 55
+      name: applicant_signature
+      label: Applicant Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 56
+      name: application_date
+      label: Application Date
+      hint: Today date
+      type: date
+      options: []
+      required: true

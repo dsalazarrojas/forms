@@ -1,0 +1,118 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: System Access Approval Form
+    pages:
+    - id: 1
+      name: user_info
+      label: user_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: system_info
+      label: system_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_status
+      label: form_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''pending''}'
+      - '{''value'': ''approved''}'
+      - '{''value'': ''denied''}'
+      - '{''value'': ''expired''}'
+      required: false
+    - id: 4
+      name: approval_date
+      label: approval_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: second_page
+      label: system_access
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: third_page
+      label: approval_process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submitted_by
+      label: submitted_by
+      hint: Submitted By
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: submitted_date
+      label: submitted_date
+      hint: Submitted Date
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: modified_by
+      label: modified_by
+      hint: Modified By
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: modified_date
+      label: modified_date
+      hint: Modified Date
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: form_version
+      label: form_version
+      hint: Form Version
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: last_updated_by
+      label: last_updated_by
+      hint: Last Updated By
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: last_updated_date
+      label: last_updated_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: created_by
+      label: created_by
+      hint: Created By
+      type: text
+      options: []
+      required: false

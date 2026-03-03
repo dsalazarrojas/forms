@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: Farming Cooperative Monthly Meeting Attendance
+    pages:
+    - id: 1
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: member_attendance
+      label: Member Attendance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: member_name
+      label: Member Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: member_position
+      label: Member Position
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: attendance_status
+      label: Attendance Status
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false

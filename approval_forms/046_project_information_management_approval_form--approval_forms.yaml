@@ -1,0 +1,104 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: project-information-management-approval-form
+    pages:
+    - id: 1
+      name: project_title
+      label: Project Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Approval Forms
+      - Other Forms
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: Briefly describe the project
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjimmy
+      - Other
+      required: true
+    - id: 5
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: project_status
+      label: Project Status
+      hint: Select the current status of the project
+      type: select_one
+      options:
+      - Active
+      - Not Started
+      - In Progress
+      - Inactive
+      required: true
+    - id: 8
+      name: project_information
+      label: Project Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: Add additional project notes if necessary
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      required: true
+    - id: 11
+      name: approved_at
+      label: Approved At
+      hint: null
+      type: date
+      options: []
+      required: false

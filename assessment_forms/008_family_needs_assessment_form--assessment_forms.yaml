@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Needs Assessment Form
+    pages:
+    - id: 1
+      name: parent_name
+      label: Enter Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: children_names
+      label: Enter Children Names
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: in_counseling_service
+      label: In Counseling Service
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 4
+      name: requests_from_service_provider
+      label: Enter Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: parent_contact_info
+      label: Parent Contact Info
+      hint: Enter Parent Contact Info
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: children_contact_info
+      label: Children Contact Info
+      hint: Enter Children Contact Info
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: children_count
+      label: Enter Children Count
+      hint: Enter Number
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: service_provider_notes
+      label: Service Provider Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: family_needs_assessment
+      label: Family Needs Assessment
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 10
+      name: family_needs_assessment_frequency
+      label: Family Needs Assessment Frequency
+      hint: null
+      type: select_one
+      options:
+      - Often
+      - Occasionally
+      - Rarely
+      required: false
+    - id: 11
+      name: family_needs_assessment_date
+      label: Family Needs Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: family_needs_assessment_time
+      label: Family Needs Assessment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: family_needs_assessment_location
+      label: Family Needs Assessment Location
+      hint: null
+      type: text
+      options: []
+      required: false

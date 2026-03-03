@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Training Attendance Form
+    pages:
+    - id: 1
+      name: training_attendance_form_section
+      label: Training Attendance Form Section
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: employee
+      label: employee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: training_program
+      label: training_program
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: session
+      label: session
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: attended
+      label: attended
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: employee_id
+      label: employee id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: training_id
+      label: training id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: session_id
+      label: session id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: attended_id
+      label: attended id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: created_by
+      label: created by
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: updated_by
+      label: updated by
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: created_at
+      label: created at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: updated_at
+      label: updated at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: form_id
+      label: form id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: user_id
+      label: user id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: user_group
+      label: user group
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: user_group_id
+      label: user group id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 22
+      name: updated_at
+      label: updated at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: deleted_at
+      label: deleted at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: assigned_to
+      label: assigned to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: assigned_to_id
+      label: assigned to id
+      hint: null
+      type: number
+      options: []
+      required: false

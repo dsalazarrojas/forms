@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Discipline Policy Acknowledgment
+    pages:
+    - id: 1
+      name: employee_discipline_policy_acknowledgment_form
+      label: employee_discipline_policy_acknowledgment_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: output_file
+      label: output_file
+      hint: null
+      type: text
+      options: []
+      required: false

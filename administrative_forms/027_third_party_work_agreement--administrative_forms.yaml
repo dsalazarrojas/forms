@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: third_party_work_agreement
+    pages:
+    - id: 1
+      name: agreement_type
+      label: Select Work Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 2
+      name: service_description
+      label: Describe Services
+      hint: Briefly describe the services being provided
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: terms_and_conditions
+      label: Accept Terms and Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 4
+      name: payment_terms
+      label: Payment Terms
+      hint: Specify payment details
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: Enter start date
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: Enter end date
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: false

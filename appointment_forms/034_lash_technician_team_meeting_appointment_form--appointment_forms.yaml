@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: lash_technician_team_meeting_appointment_form
+    pages:
+    - id: 1
+      name: meeting_details
+      label: Meeting Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: meeting_details_2
+      label: Additional Meeting Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: meeting_attendees
+      label: Meeting Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''John''}'
+      - '{''id'': 2, ''label'': ''Jane''}'
+      - '{''id'': 3, ''label'': ''Joe''}'
+      - '{''id'': 4, ''label'': ''Jill''}'
+      - '{''id'': 5, ''label'': ''Bob''}'
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: meeting_notes
+      label: Meeting Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: meeting_outcome
+      label: Meeting Outcome
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Successful''}'
+      - '{''id'': 2, ''label'': ''Unsuccessful''}'
+      - '{''id'': 3, ''label'': ''Pending''}'
+      required: true
+    - id: 7
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''chatjimmy''}'
+      - Other
+      required: true
+    - id: 8
+      name: assigned_user_id
+      label: Assigned User ID
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: assigned_user_name
+      label: Assigned User Name
+      hint: null
+      type: text
+      options: []
+      required: false

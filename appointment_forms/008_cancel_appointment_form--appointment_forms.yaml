@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cancel Appointment Form
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: As it appears on the original appointment
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For confirmation of cancellation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: appointment_details_section
+      label: -- Appointment Details --
+      hint: Information about your current booking
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: appointment_date
+      label: Appointment Date
+      hint: The date you currently have scheduled
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: appointment_time
+      label: Original Appointment Time
+      hint: Approximate time of the booking
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: service_department
+      label: Service or Department
+      hint: Which area was your appointment with
+      type: select_one
+      options:
+      - General Inquiry
+      - Technical Support
+      - Medical Consultation
+      - Sales
+      - HR/Recruitment
+      - Other
+      required: true
+    - id: 8
+      name: reason_section
+      label: -- Reason for Cancellation --
+      hint: We appreciate your feedback
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: primary_reason
+      label: Primary Reason
+      hint: Choose the most accurate reason
+      type: select_one
+      options:
+      - Scheduling Conflict
+      - Health Reasons
+      - No Longer Required
+      - Emergency
+      - Travel Issues
+      - Other
+      required: true
+    - id: 10
+      name: detailed_reason
+      label: Detailed Reason
+      hint: Briefly explain if you chose Other
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: rescheduling_section
+      label: -- Rescheduling --
+      hint: Let us know your future plans
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: reschedule_interest
+      label: Would you like to reschedule
+      hint: Choose your preference for a future booking
+      type: select_one
+      options:
+      - Yes, please contact me
+      - Yes, I will call later
+      - No, cancel permanently
+      required: true
+    - id: 13
+      name: preferred_new_date
+      label: Preferred New Date
+      hint: If you would like to reschedule
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: preferred_time_range
+      label: Preferred New Time Range
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 15
+      name: policy_confirmation
+      label: Confirmation of Cancellation Policy
+      hint: Review the terms regarding fees or rebooking
+      type: select_one
+      options:
+      - I understand the cancellation policy
+      - I have questions about the policy
+      required: true
+    - id: 16
+      name: signature_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

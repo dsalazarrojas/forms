@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workshop Knowledge Assessment Form
+    pages:
+    - id: 1
+      name: workshop_knowledge_assessment_form_1
+      label: how_would_you_rate_your_knowledge_on_the_topic
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: workshop_knowledge_assessment_form_2
+      label: do_you_feel_more_confident_about_the_topic
+      hint: null
+      type: select_one
+      options:
+      - Very Confident
+      - Somewhat Confident
+      - Somewhat Uncertain
+      - Uncertain
+      - Not At All Confident
+      required: false
+    - id: 3
+      name: workshop_knowledge_assessment_form_3
+      label: did_you_feel_the_workshop_was_engaging
+      hint: null
+      type: select_multiple
+      options:
+      - Very Engaging
+      - Somewhat Engaging
+      - Neither Engaging Nor Disengaging
+      - Somewhat Disengaging
+      - Disengaging
+      required: false
+    - id: 4
+      name: workshop_knowledge_assessment_form_4
+      label: how_long_was_the_workshop_too_long
+      hint: null
+      type: select_one
+      options:
+      - Not At All Too Long
+      - Somewhat Too Long
+      - Just Right
+      - A Bit Too Long
+      - Too Long
+      required: false
+    - id: 5
+      name: workshop_knowledge_assessment_form_5
+      label: do_you_recommend_this_workshop
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: workshop_knowledge_assessment_form_6
+      label: what_did_you_find_most_helpful
+      hint: null
+      type: select_multiple
+      options:
+      - Content
+      - Format
+      - Trainer
+      - Facilities
+      - Other
+      required: true
+    - id: 7
+      name: workshop_knowledge_assessment_form_7
+      label: what_did_you_find_most_difficult
+      hint: null
+      type: select_multiple
+      options:
+      - Content
+      - Format
+      - Trainer
+      - Facilities
+      - Other
+      required: true
+    - id: 8
+      name: workshop_knowledge_assessment_form_8
+      label: do_you_have_any_other_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: workshop_knowledge_assessment_form_9
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: workshop_knowledge_assessment_form_10
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

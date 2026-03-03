@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Space Boundary Assessment
+    pages:
+    - id: 1
+      name: personal_space_boundary_assessment
+      label: Personal Space Boundary Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: comfort_level
+      label: How do you feel about your personal space?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: boundary_preferences
+      label: What are your boundary preferences?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: workplace_norms
+      label: How do you like your workplace or classroom norms?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: classroom_norms
+      label: How do you like your classroom or workspace norms?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: intake_process
+      label: What is your intake process for training or workshops?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''In-person''}'
+      - '{''label'': ''Virtual''}'
+      - '{''label'': ''Both''}'
+      required: false
+    - id: 7
+      name: training_frequency
+      label: How often do you like your training or workshops?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Rarely''}'
+      - '{''label'': ''Occasionally''}'
+      - '{''label'': ''Frequently''}'
+      - '{''label'': ''Always''}'
+      required: false
+    - id: 8
+      name: educator_intake
+      label: What information do you like educators to know about you during intake?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Nothing''}'
+      - '{''label'': ''Some things''}'
+      - '{''label'': ''Everything''}'
+      required: false

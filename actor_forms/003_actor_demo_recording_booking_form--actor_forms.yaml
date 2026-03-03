@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Actor Demo Recording Booking Form
+    pages:
+    - id: 1
+      name: --booking_information
+      label: -- Booking Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: actor_full_name
+      label: Actor full name
+      hint: Use professional name for credits
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: For booking confirmation and files
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: preferred_date_time
+      label: Preferred date and time
+      hint: Provide at least two options
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: recording_type
+      label: Recording type
+      hint: Choose the demo format you need
+      type: select_one
+      options:
+      - Voiceover demo
+      - On camera monologue
+      - Scene compilation
+      required: true
+    - id: 6
+      name: session_length_minutes
+      label: Session length minutes
+      hint: Typical options are 30 60 or 90
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: materials_to_bring
+      label: Materials to bring
+      hint: Scripts, wardrobe, or props
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: special_instructions
+      label: Special instructions for engineer
+      hint: Technical notes or creative direction
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment method
+      hint: How will the session be paid
+      type: select_one
+      options:
+      - Credit card
+      - Invoice
+      - Cash on session
+      required: true
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: Any other information
+      type: note
+      options: []
+      required: false

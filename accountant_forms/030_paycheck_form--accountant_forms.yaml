@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: paycheck form
+    pages:
+    - id: 1
+      name: paycheck_form_employee
+      label: Paycheck Form Employee
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: paycheck_form_employer
+      label: Paycheck Form Employer
+      hint: null
+      type: select_one
+      options:
+      - ABC Company
+      - DEF Company
+      - GHI Company
+      required: false
+    - id: 3
+      name: paycheck_form_salary
+      label: Paycheck Form Salary
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: paycheck_form_tax
+      label: Paycheck Form Tax
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: paycheck_form_date
+      label: Paycheck Form Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: paycheck_form_time
+      label: Paycheck Form Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: paycheck_form_note
+      label: Paycheck Form Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: paycheck_form_email
+      label: Paycheck Form Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: paycheck_form_phone
+      label: Paycheck Form Phone
+      hint: null
+      type: text
+      options: []
+      required: false

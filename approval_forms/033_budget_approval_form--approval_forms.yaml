@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Budget Approval Form
+    pages:
+    - id: 1
+      name: budget_code
+      label: Budget Code or Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: submitter_name
+      label: Submitted By
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: fiscal_year
+      label: Fiscal Year
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: budget_amount
+      label: Budget Amount Requested
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: item_description
+      label: Item or Expense Description
+      hint: What is being requested
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: justification
+      label: Justification for Request
+      hint: Explain the need and impact
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: department_head_name
+      label: Department Head Name
+      hint: Manager approving this request
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: department_head_approval
+      label: Department Head Approval
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Conditional Approval
+      required: true
+    - id: 12
+      name: finance_director_name
+      label: Finance Director Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: finance_director_approval
+      label: Finance Director Approval
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Conditional Approval
+      required: true
+    - id: 14
+      name: final_budget_amount
+      label: Final Approved Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: conditions_or_notes
+      label: Conditions or Special Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: approval_status
+      label: Final Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Fully Approved
+      - Rejected
+      - Partially Approved
+      - Pending Executive Review
+      required: true
+    - id: 17
+      name: authorized_signature_date
+      label: Authorization Date
+      hint: null
+      type: date
+      options: []
+      required: true

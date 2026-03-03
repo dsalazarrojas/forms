@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Class Access Request Form
+    pages:
+    - id: 1
+      name: online_class_access_request_form_page_1
+      label: What is your name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: course_code
+      label: Course code
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: course_name
+      label: Course name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: course_description
+      label: Course description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: learner_name
+      label: Learner name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: learner_email
+      label: Learner email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: school_name
+      label: School name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: school_email
+      label: School email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: teacher_name
+      label: Teacher name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: teacher_email
+      label: Teacher email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: course_level
+      label: Course level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 12
+      name: course_prerequisites
+      label: Course prerequisites
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: approval_method
+      label: Approval method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: approval_date
+      label: Approval date
+      hint: null
+      type: date
+      options: []
+      required: false

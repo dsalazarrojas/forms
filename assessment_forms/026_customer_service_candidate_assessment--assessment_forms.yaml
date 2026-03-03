@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Service Candidate Assessment
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: role_applicant
+      label: Role
+      hint: Select one or more
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: work_experience
+      label: How long have you worked in a support role?
+      hint: null
+      type: select_multiple
+      options:
+      - Less than 1 year
+      - 1-2 years
+      - 2-5 years
+      - More than 5 years
+      required: true
+    - id: 8
+      name: previous_work_experience
+      label: What was your previous role in support?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: education
+      label: What is your highest level of education?
+      hint: null
+      type: select_one
+      options:
+      - High school
+      - Some college
+      - Bachelor's degree
+      - Postgraduate degree
+      required: true
+    - id: 10
+      name: language
+      label: What is your language proficiency level?
+      hint: null
+      type: select_multiple
+      options:
+      - Basic
+      - Intermediate
+      - Advanced
+      - Fluent
+      required: true
+    - id: 11
+      name: work_type
+      label: What type of work do you do?
+      hint: null
+      type: select_multiple
+      options:
+      - Customer Service
+      - Sales
+      - Marketing
+      - Operations
+      required: false
+    - id: 12
+      name: work_environment
+      label: What type of environment do you prefer?
+      hint: null
+      type: select_one
+      options:
+      - Fast-paced
+      - Collaborative
+      - Autonomous
+      - Flexible
+      required: false
+    - id: 13
+      name: job_satisfaction
+      label: How satisfied are you with your current job?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Not very satisfied
+      - Not satisfied
+      required: false
+    - id: 14
+      name: job_satisfaction_why
+      label: Why are you not very satisfied with your current job?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: job_satisfaction_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: job_satisfaction_2
+      label: How satisfied are you with your current manager?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Not very satisfied
+      - Not satisfied
+      required: false
+    - id: 17
+      name: job_satisfaction_3
+      label: Why are you not very satisfied with your current manager?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: job_satisfaction_4
+      label: How many hours do you work per week?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: previous_manager_experience
+      label: What was your experience with your previous manager?
+      hint: null
+      type: text
+      options: []
+      required: false

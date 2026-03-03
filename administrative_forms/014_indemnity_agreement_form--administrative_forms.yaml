@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Indemnity Agreement Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: agreement_date
+      label: Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: contract_term
+      label: Contract Term
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: liability_limit
+      label: Liability Limit
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: true
+    - id: 6
+      name: payment_terms_other
+      label: Other payment terms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Other Option 1''}'
+      - '{''label'': ''Other Option 2''}'
+      required: false
+    - id: 7
+      name: payment_terms_other_description
+      label: Description of Other Payment Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: responsible_party
+      label: Responsible Party
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      required: true
+    - id: 10
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: agreement_version
+      label: Agreement Version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: agreement_status
+      label: Agreement Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Pending''}'
+      - '{''label'': ''Draft''}'
+      required: true
+    - id: 14
+      name: agreement_status_date
+      label: Agreement Status Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: indemnity_agreement
+      label: Indemnity Agreement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: indemnity_agreement_version
+      label: Indemnity Agreement Version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: contract_type
+      label: Contract Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      required: true
+    - id: 18
+      name: contract_status
+      label: Contract Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      required: true
+    - id: 19
+      name: contract_effective_date
+      label: Contract Effective Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: contract_end_date
+      label: Contract End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: contract_duration
+      label: Contract Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: renewal_term
+      label: Renewal Term
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: contract_status_date
+      label: Contract Status Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: contract_term_duration
+      label: Contract Term Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: contract_notes
+      label: Contract Notes
+      hint: null
+      type: note
+      options: []
+      required: false

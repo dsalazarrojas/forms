@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Actor Coaching Session Booking Form
+    pages:
+    - id: 1
+      name: --personal_information
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your legal or professional name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: For session confirmations and materials
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Optional phone for scheduling updates
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preferred_coach
+      label: Preferred coach
+      hint: Leave blank to accept any available coach
+      type: select_one
+      options:
+      - Alex Morgan
+      - Jamie Lee
+      - Taylor Cruz
+      required: false
+    - id: 6
+      name: session_type
+      label: Session type
+      hint: Choose the session format you prefer
+      type: select_one
+      options:
+      - One on one
+      - Group workshop
+      - Online coaching
+      required: true
+    - id: 7
+      name: preferred_dates
+      label: Preferred dates
+      hint: Provide 2 to 3 date options
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: goals_and_focus_areas
+      label: Goals and focus areas
+      hint: Briefly describe what you want to achieve in the session
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: experience_level
+      label: Acting experience level
+      hint: Select the option that best describes your experience
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Professional
+      required: true
+    - id: 10
+      name: special_requirements
+      label: Special requirements or accessibility needs
+      hint: e g mobility, hearing, or scheduling needs
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: additional_notes
+      label: Additional notes
+      hint: Any other information for the coach
+      type: note
+      options: []
+      required: false

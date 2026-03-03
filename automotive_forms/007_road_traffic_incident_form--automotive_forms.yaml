@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Road Traffic Incident Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_color
+      label: Vehicle Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_license_plate
+      label: Vehicle License Plate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_injuries
+      label: Number of Injuries
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: incident_deaths
+      label: Number of Deaths
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: incident_involvement_type
+      label: Involvement Type
+      hint: null
+      type: select_one
+      options:
+      - Vehicle Collision
+      - Pedestrian Collision
+      - Animal Collision
+      - Fire
+      - Natural Causes
+      - Vehicle Theft
+      - Hit and Run
+      - Other
+      required: false
+    - id: 13
+      name: incident_vehicle_damage
+      label: Vehicle Damage
+      hint: null
+      type: select_multiple
+      options:
+      - Front
+      - Rear
+      - Side
+      - Rear of vehicle
+      - Front of vehicle
+      - Other
+      required: false
+    - id: 14
+      name: incident_reported_by
+      label: Reported By
+      hint: null
+      type: select_one
+      options:
+      - Driver
+      - Passenger
+      - Pedestrian
+      - Other
+      required: false
+    - id: 15
+      name: incident_witnesses
+      label: Witnesses
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: incident_weather
+      label: Weather
+      hint: null
+      type: select_one
+      options:
+      - Clear
+      - Rain
+      - Cloudy
+      - Fog
+      - Snow
+      - Thunderstorms
+      required: false
+    - id: 17
+      name: incident_night
+      label: Night
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: incident_sunlight
+      label: Sunlight
+      hint: null
+      type: select_one
+      options:
+      - Full Sunlight
+      - Partial Sunlight
+      - Twilight
+      - Darkness
+      - Darkness with Streetlights
+      required: false
+    - id: 19
+      name: incident_street_lighting
+      label: Street Lighting
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Unavailable
+      required: false
+    - id: 20
+      name: vehicle_license_holder
+      label: Vehicle License Holder
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: vehicle_license_holder_phone
+      label: Vehicle License Holder Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: vehicle_license_holder_insurance
+      label: Vehicle License Holder Insurance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: vehicle_license_holder_address
+      label: Vehicle License Holder Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: witness_name
+      label: Witness Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: witness_phone
+      label: Witness Phone
+      hint: null
+      type: text
+      options: []
+      required: false

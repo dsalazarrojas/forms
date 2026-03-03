@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Labor Rights Compliance Declaration Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employment_start_date
+      label: Employment start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: employment_end_date
+      label: Employment end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: hours_worked
+      label: Hours worked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: rate_of_pay
+      label: Rate of pay
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: labor_practices
+      label: Labor practices
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 8
+      name: labor_practices_other
+      label: Other labor practices (if any)
+      hint: null
+      type: text
+      options: []
+      required: false

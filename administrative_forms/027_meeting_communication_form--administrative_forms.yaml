@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Meeting Communication Form
+    pages:
+    - id: 1
+      name: meeting_agenda
+      label: Meeting Agenda
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_feedback
+      label: Participant Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: follow_up_actions
+      label: Follow Up Actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_names
+      label: Participant Names
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: participant_emails
+      label: Participant Emails
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_phones
+      label: Participant Phones
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: meeting_notes
+      label: Meeting Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: meeting_start_time
+      label: Meeting Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: meeting_end_time
+      label: Meeting End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false

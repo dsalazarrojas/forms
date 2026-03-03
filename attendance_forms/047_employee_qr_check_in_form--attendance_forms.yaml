@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee QR Check In Form
+    pages:
+    - id: 1
+      name: employee_qr_check_in_form_page
+      label: Check In
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shift_start_time
+      label: Shift Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: shift_end_time
+      label: Shift End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: employee_name
+      label: Name
+      hint: Employee Name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department_id
+      label: Department Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: job_role
+      label: Job Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: qr_code
+      label: QR Code
+      hint: null
+      type: select_one
+      options:
+      - A001
+      - A002
+      - B001
+      - B002
+      - C001
+      - C002
+      - D001
+      - D002
+      required: false
+    - id: 9
+      name: check_in_time
+      label: Check In Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: check_in_device
+      label: Check In Device
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: shift_duration
+      label: Shift Duration
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: false
+    - id: 12
+      name: break_time
+      label: Break Time
+      hint: Break Time
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: break_status
+      label: Break Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 14
+      name: work_status
+      label: Work Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: shift_notes
+      label: Shift Notes
+      hint: Notes for this shift
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: check_in_device_status
+      label: Check In Device Status
+      hint: Check In Device Status
+      type: text
+      options: []
+      required: false

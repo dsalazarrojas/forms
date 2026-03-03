@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clinician Portal Access Request Form
+    pages:
+    - id: 1
+      name: clinician_name
+      label: Full Name
+      hint: Your legal name as it appears in credentials
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Work email or primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: clinician_title
+      label: Professional Title
+      hint: Physician, Nurse Practitioner, etc.
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_credentials
+      label: -- Professional Credentials --
+      hint: Verification information
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: license_number
+      label: Medical License Number
+      hint: State license number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: license_state
+      label: State of Licensure
+      hint: null
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Florida
+      - Georgia
+      required: true
+    - id: 8
+      name: department
+      label: Department or Specialty
+      hint: Primary area of practice
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_access
+      label: -- Portal Access Requirements --
+      hint: Specify your access needs
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: access_level
+      label: Requested Access Level
+      hint: null
+      type: select_one
+      options:
+      - Basic Read-Only
+      - Standard Clinical Access
+      - Administrative Access
+      - Research Access
+      - Custom
+      required: true
+    - id: 11
+      name: portal_modules
+      label: Select the modules you need access to
+      hint: null
+      type: select_multiple
+      options:
+      - Patient Records
+      - Appointment Scheduling
+      - Test Results
+      - Medications
+      - Treatment Plans
+      - Analytics Reports
+      - Billing Information
+      required: true
+    - id: 12
+      name: patient_populations
+      label: Will you be accessing pediatric patient records
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Both pediatric and adult
+      required: true
+    - id: 13
+      name: section_organization
+      label: -- Organization Information --
+      hint: Your affiliated healthcare organization
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: organization_name
+      label: Healthcare Organization Name
+      hint: Clinic, hospital, or practice name
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: organization_id
+      label: Organization ID
+      hint: Facility code or identifier
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: supervisor_name
+      label: Direct Supervisor Name
+      hint: Name of your manager or department head
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: supervisor_email
+      label: Supervisor Email
+      hint: Contact for approval verification
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: section_purpose
+      label: -- Purpose and Justification --
+      hint: Explain your access requirements
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: purpose
+      label: Primary purpose for portal access
+      hint: Patient care, research, administrative, etc.
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: training_completion
+      label: Have you completed required portal training
+      hint: null
+      type: select_one
+      options:
+      - Yes, completed
+      - In progress
+      - Will complete before start date
+      - false
+      required: true
+    - id: 21
+      name: start_date
+      label: Requested Start Date for Access
+      hint: When do you need portal access
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: section_security
+      label: -- Security Agreement --
+      hint: Acknowledge security and privacy policies
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: hipaa_agreement
+      label: I acknowledge HIPAA compliance requirements
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true
+    - id: 24
+      name: security_policy
+      label: I have reviewed the security and privacy policies
+      hint: null
+      type: select_one
+      options:
+      - Yes, reviewed
+      - false
+      required: true
+    - id: 25
+      name: additional_notes
+      label: Additional information or special requirements
+      hint: null
+      type: text
+      options: []
+      required: false

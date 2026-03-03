@@ -1,0 +1,289 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Shelter Discharge Form
+    pages:
+    - id: 1
+      name: discharge_date
+      label: Discharge Date
+      hint: Date animal is leaving shelter
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: staff_name
+      label: Staff Member Processing Discharge
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: animal_id
+      label: Animal ID Number
+      hint: Shelter identifier
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: animal_name
+      label: Animal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: species
+      label: Species
+      hint: null
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Rabbit
+      - Bird
+      - Small Mammal
+      - Reptile
+      - Livestock
+      - Other
+      required: true
+    - id: 6
+      name: breed
+      label: Breed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: age
+      label: Age
+      hint: At time of discharge
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: sex
+      label: Sex
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 9
+      name: discharge_type
+      label: Type of Discharge
+      hint: null
+      type: select_one
+      options:
+      - Adoption
+      - Transfer to Another Shelter
+      - Return to Owner
+      - Foster Placement
+      - Rescue Group Transfer
+      - Deceased
+      - Other
+      required: true
+    - id: 10
+      name: adopter_name
+      label: Adopter or Recipient Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: adopter_email
+      label: Adopter Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: adopter_phone
+      label: Adopter Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: adopter_address
+      label: Adopter Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: adopter_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: adopter_state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: adopter_zip
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: adoption_fee
+      label: Adoption Fee Paid
+      hint: Amount in dollars
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - Debit Card
+      - Check
+      - Online Payment
+      - Waived
+      - Not Applicable
+      required: false
+    - id: 19
+      name: medical_records_provided
+      label: Were Medical Records Provided
+      hint: null
+      type: select_one
+      options:
+      - Yes - Complete Records
+      - Yes - Partial Records
+      - No - Will Follow
+      - Not Applicable
+      required: true
+    - id: 20
+      name: vaccination_status
+      label: Vaccination Status at Discharge
+      hint: null
+      type: select_one
+      options:
+      - Up to Date
+      - Due Soon
+      - Overdue
+      - Not Applicable
+      required: true
+    - id: 21
+      name: spay_neuter_status
+      label: Spay or Neuter Status
+      hint: null
+      type: select_one
+      options:
+      - Altered Before Discharge
+      - Scheduled for Later
+      - Not Required - Too Young
+      - Medical Exception
+      - Not Applicable
+      required: true
+    - id: 22
+      name: microchip_number
+      label: Microchip Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: microchip_registered
+      label: Is Microchip Registered to New Owner
+      hint: null
+      type: select_one
+      options:
+      - Yes - Completed
+      - Pending - Instructions Given
+      - Not Yet Done
+      - Not Applicable
+      required: false
+    - id: 24
+      name: medications_sent
+      label: Were Medications Sent Home
+      hint: null
+      type: select_one
+      options:
+      - Yes - With Instructions
+      - Yes - No Instructions
+      - No Medications Needed
+      required: true
+    - id: 25
+      name: medication_details
+      label: Medication Details
+      hint: List medications and dosages
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: behavioral_notes
+      label: Behavioral Notes Provided
+      hint: Important information for new owner
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: follow_up_scheduled
+      label: Is Follow-up Scheduled
+      hint: null
+      type: select_one
+      options:
+      - Yes - Date Set
+      - Yes - To Be Arranged
+      - No Follow-up Needed
+      required: true
+    - id: 28
+      name: follow_up_date
+      label: Follow-up Date
+      hint: If scheduled
+      type: date
+      options: []
+      required: false
+    - id: 29
+      name: post_adoption_support
+      label: Post-Adoption Support Information Provided
+      hint: null
+      type: select_one
+      options:
+      - Yes - Complete Package
+      - Yes - Basic Information
+      - false
+      required: true
+    - id: 30
+      name: return_policy_explained
+      label: Was Return Policy Explained
+      hint: null
+      type: select_one
+      options:
+      - Yes - Understood
+      - Yes - Written Copy Provided
+      - false
+      required: true
+    - id: 31
+      name: adopter_signature
+      label: Adopter Electronic Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: staff_signature
+      label: Staff Electronic Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other discharge information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Standing Order Mandate Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Standing Order Mandate Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: account_number
+      label: Account Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: account_type
+      label: Account Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: bank_name
+      label: Bank Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: mandate_amount
+      label: Mandate Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: mandate_frequency
+      label: Mandate Frequency
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: mandate_start_date
+      label: Mandate Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: mandate_end_date
+      label: Mandate End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: bank_account_holder
+      label: Bank Account Holder
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: mandate_type
+      label: Mandate Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: standing_order_details
+      label: Standing Order Details
+      hint: null
+      type: text
+      options: []
+      required: false

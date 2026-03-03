@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Demo Counter Booking Form
+    pages:
+    - id: 1
+      name: product_demo_counter_booking_form
+      label: Select Product Counter
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Product 1''}'
+      - '{''id'': 2, ''name'': ''Product 2''}'
+      - '{''id'': 3, ''name'': ''Product 3''}'
+      required: false
+    - id: 2
+      name: product_demo_counter_booking_form_1
+      label: Select Location
+      hint: Select a location
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Location 1''}'
+      - '{''id'': 2, ''name'': ''Location 2''}'
+      - '{''id'': 3, ''name'': ''Location 3''}'
+      required: false
+    - id: 3
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_email
+      label: Customer Email
+      hint: Customer Email Address
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: customer_phone
+      label: Customer Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: demo_date
+      label: Demo Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: demo_time
+      label: Demo Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: customer_note
+      label: Customer Note
+      hint: Additional Notes
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Sales''}'
+      - '{''id'': 2, ''name'': ''Marketing''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      required: false
+    - id: 10
+      name: product_preference
+      label: Product Preference
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2''}'
+      - '{''id'': 3, ''name'': ''Option 3''}'
+      required: false
+    - id: 11
+      name: product_preference_1
+      label: Preference 1
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2''}'
+      - '{''id'': 3, ''name'': ''Option 3''}'
+      required: false

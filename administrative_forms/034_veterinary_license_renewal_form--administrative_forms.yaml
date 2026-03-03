@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary License Renewal Form
+    pages:
+    - id: 1
+      name: license_number
+      label: License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: license_expiration_date
+      label: License Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: veterinary_technician_name
+      label: Veterinary Technician Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: veterinarian_name
+      label: Veterinarian Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: veterinary_license_type
+      label: Veterinary License Type
+      hint: null
+      type: select_one
+      options:
+      - Type 1
+      - Type 2
+      - Type 3
+      required: true
+    - id: 6
+      name: renewal_application_date
+      label: Renewal Application Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: veterinarian_sign_date
+      label: Veterinarian Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: veterinarian_signature
+      label: Veterinarian Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: practice_name
+      label: Practice Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: practice_address
+      label: Practice Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: fax
+      label: Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: county
+      label: County
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: practice_npi
+      label: Practice NPI
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: practice_address_line_2
+      label: Practice Address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: practice_license_number
+      label: Practice License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: practice_license_expiration_date
+      label: Practice License Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: license_renewal_fee
+      label: License Renewal Fee
+      hint: Fee is due upon submission of this form.
+      type: number
+      options: []
+      required: false

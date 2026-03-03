@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Level Agreement Approval Form
+    pages:
+    - id: 1
+      name: service_level_agreement_approval_form
+      label: Service Level Agreement Approval Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: agreement_text
+      label: agreement_text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_level_agreement_number
+      label: service_level_agreement_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_signed
+      label: date_signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: date_approved
+      label: date_approved
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: approved_by
+      label: approved_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: approved_by_label
+      label: approved_by
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: approver_signature
+      label: approver_signature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

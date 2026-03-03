@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: Authorization To Use The AAPG LACR Certificate Template For Chapter Events
+    pages:
+    - id: 1
+      name: authorization_date
+      label: Authorization Date
+      hint: Date of this authorization request
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: chapter_name
+      label: Chapter Name
+      hint: AAPG chapter name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: chapter_location
+      label: Chapter Location
+      hint: Geographic location of chapter
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: chapter_president_name
+      label: Chapter President Name
+      hint: Name of chapter leadership
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: chapter_president_email
+      label: Chapter President Email
+      hint: Email contact
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: chapter_president_phone
+      label: Chapter President Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_title
+      label: Event Title
+      hint: Name of the chapter event
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: When is the event scheduled
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: event_location
+      label: Event Location
+      hint: Where will the event take place
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: event_type
+      label: Event Type
+      hint: What type of chapter event
+      type: select_one
+      options:
+      - Educational Seminar
+      - Technical Workshop
+      - Professional Development
+      - Conference
+      - Annual Meeting
+      - Training Session
+      - Other
+      required: true
+    - id: 11
+      name: expected_attendance
+      label: Expected Attendance
+      hint: Approximate number of attendees
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: certificate_use_purpose
+      label: Purpose of Certificate Use
+      hint: How will certificates be used
+      type: select_one
+      options:
+      - Participant Recognition
+      - CEU Documentation
+      - Continuing Education Credits
+      - Attendance Certification
+      - Achievement Recognition
+      - Other
+      required: true
+    - id: 13
+      name: certificate_design
+      label: Certificate Design Customization
+      hint: Will chapter customize design
+      type: select_one
+      options:
+      - Use Standard Template Only
+      - Minor Customization - Logo/Name
+      - Moderate Customization
+      - Significant Modifications
+      - Different Template Needed
+      required: true
+    - id: 14
+      name: ceu_credits
+      label: Continuing Education Unit Credits
+      hint: How many CEU credits offered
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: certificate_recipients
+      label: Who Will Receive Certificates
+      hint: Categories of recipients
+      type: select_multiple
+      options:
+      - All Attendees
+      - Paid Participants Only
+      - Certificate Fee Participants
+      - Speakers/Presenters
+      - Volunteer Organizers
+      - Other Specified Group
+      required: true
+    - id: 16
+      name: distribution_method
+      label: Certificate Distribution Method
+      hint: How will certificates be delivered
+      type: select_one
+      options:
+      - Printed at Event
+      - Digital - Email
+      - Digital - Download Portal
+      - Mailed After Event
+      - Multiple Methods
+      required: true
+    - id: 17
+      name: digital_verification
+      label: Digital Verification Needed
+      hint: Need verification capability for digital certs
+      type: select_one
+      options:
+      - Yes - Digital Verification Required
+      - No - Standard Digital Certificate
+      - Maybe - Depending on System
+      required: false
+    - id: 18
+      name: aapg_branding
+      label: AAPG Branding Requirements
+      hint: What AAPG elements must appear
+      type: select_multiple
+      options:
+      - AAPG Logo
+      - AAPG Name
+      - LACR Chapter Logo
+      - LACR Chapter Name
+      - Disclaimer/Legal Language
+      - All Standard Elements
+      required: true
+    - id: 19
+      name: compliance_agreement
+      label: Agree to AAPG Template Compliance
+      hint: Will follow AAPG guidelines
+      type: select_one
+      options:
+      - Yes - Fully Comply
+      - Yes - With Some Modifications
+      - Conditional Compliance
+      - Need Clarification
+      required: true
+    - id: 20
+      name: quality_assurance
+      label: Quality Assurance Needed
+      hint: Will AAPG review certificates before use
+      type: select_one
+      options:
+      - Yes - AAPG Review Requested
+      - Yes - Suggested Review
+      - No - Self-Manage
+      - Unsure
+      required: true
+    - id: 21
+      name: document_storage
+      label: Certificate Records Storage
+      hint: Where will records be kept
+      type: select_one
+      options:
+      - Chapter Maintains Records
+      - AAPG Central Database
+      - Digital Archive System
+      - Distributed - Individual Files
+      required: true
+    - id: 22
+      name: record_retention
+      label: Record Retention Period
+      hint: How long to keep records
+      type: select_one
+      options:
+      - 1 Year
+      - 3 Years
+      - 5 Years
+      - 7 Years
+      - Indefinitely
+      required: false
+    - id: 23
+      name: authorization_confirmation
+      label: Authorization to Use Certificate Template
+      hint: Do you authorize template use
+      type: select_one
+      options:
+      - Yes - Authorize
+      - No - Not Authorized
+      - Conditional - Pending Approval
+      required: true
+    - id: 24
+      name: additional_notes
+      label: Additional Notes or Requirements
+      hint: Any special requests or conditions
+      type: text
+      options: []
+      required: false

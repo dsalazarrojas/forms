@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Labor Cost Reconciliation Request Form
+    pages:
+    - id: 1
+      name: project_title
+      label: Project Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_code
+      label: Project Code
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: labor_code
+      label: Labor Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_range
+      label: Date Range
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: discrepancy_desc
+      label: Discrepancy Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: discrepancy_amount
+      label: Discrepancy Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: discrepancy_percent
+      label: Discrepancy Percent
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: discrepancy_reason
+      label: Discrepancy Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: submitter
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - Finance
+      - Project Team
+      - Manager
+      required: false
+    - id: 13
+      name: approver
+      label: Approver
+      hint: null
+      type: select_one
+      options:
+      - Finance
+      - Project Manager
+      required: true
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: project_leader
+      label: Project Leader
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: finance_contact
+      label: Finance Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: project_contact
+      label: Project Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: review_date
+      label: Review Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: select_multiple
+      options:
+      - Finance
+      - Project Manager
+      required: false
+    - id: 22
+      name: rejected_by
+      label: Rejected By
+      hint: null
+      type: select_multiple
+      options:
+      - Finance
+      - Project Manager
+      required: false
+    - id: 23
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 25
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: true

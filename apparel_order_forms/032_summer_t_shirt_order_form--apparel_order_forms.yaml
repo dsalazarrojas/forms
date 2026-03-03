@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer T Shirt Order Form
+    pages:
+    - id: 1
+      name: order_form
+      label: Order Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: tshirt_selection
+      label: Select T Shirt
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: quantity
+      label: quantity
+      hint: How many T shirts would you like?
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: size
+      label: size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipping_address_1
+      label: Line 1
+      hint: Enter your street
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: shipping_address_2
+      label: Line 2
+      hint: Enter your apartment or suite
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: shipping_city
+      label: City
+      hint: Enter your city
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: shipping_province
+      label: Province/State
+      hint: Enter your province or state
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: shipping_postal_code
+      label: ZIP/Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: shipping_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: credit_card
+      label: Credit Card Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: credit_card_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: credit_card_number
+      label: Number
+      hint: Enter credit card number
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: credit_card_expiration
+      label: Expiration
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: credit_card_security_code
+      label: Security Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: order_total
+      label: Order Total
+      hint: Order total
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: order_notes
+      label: Order Notes
+      hint: Any other notes about the order
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: billing_email
+      label: Email
+      hint: Your email address for updates
+      type: email
+      options: []
+      required: true
+    - id: 21
+      name: billing_phone
+      label: Phone
+      hint: Your phone number for updates
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: shipping_email
+      label: Email
+      hint: Your shipping address email
+      type: email
+      options: []
+      required: true
+    - id: 23
+      name: shipping_phone
+      label: Phone
+      hint: Your shipping address phone number
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: billing_name
+      label: Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: order_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

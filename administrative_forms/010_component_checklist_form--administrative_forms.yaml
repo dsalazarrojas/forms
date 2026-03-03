@@ -1,0 +1,79 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Component Checklist Form
+    pages:
+      - id: 1
+        name: section_checklist_header
+        label: -- Checklist --
+        hint: Use this checklist to verify components
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: checklist_date
+        label: Checklist date
+        hint: Date of inspection
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: inspector_name
+        label: Inspector name
+        hint: Person conducting the check
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: component_id
+        label: Component id
+        hint: Identifier or serial number
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: physical_condition
+        label: Physical condition
+        hint: State condition of component
+        type: select_one
+        options: [Good, Fair, Poor]
+        required: true
+      - id: 6
+        name: functional_test
+        label: Functional test result
+        hint: Outcome of functional testing
+        type: select_one
+        options: [Pass, Fail, Not tested]
+        required: true
+      - id: 7
+        name: maintenance_required
+        label: Maintenance required
+        hint: Any maintenance actions needed
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: next_inspection_date
+        label: Next inspection date
+        hint: Recommended next check date
+        type: date
+        options: []
+        required: false
+      - id: 9
+        name: inspector_comments
+        label: Inspector comments
+        hint: Additional notes or observations
+        type: text
+        options: []
+        required: false

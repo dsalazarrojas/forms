@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contract Approval Form
+    pages:
+    - id: 1
+      name: submitter_name
+      label: Submitter Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: submitter_title
+      label: Submitter Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: submission_date
+      label: Submission Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: contract_title
+      label: Contract Title
+      hint: Name of contract
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contract_type
+      label: Contract Type
+      hint: Category of contract
+      type: select_one
+      options:
+      - Service Agreement
+      - Vendor Contract
+      - Employment Agreement
+      - Lease
+      - Purchase Order
+      - Partnership Agreement
+      - Licensing Agreement
+      - Consulting Agreement
+      - Other
+      required: true
+    - id: 7
+      name: contract_description
+      label: Contract Description
+      hint: Brief summary
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: vendor_or_contractor
+      label: Vendor or Contractor
+      hint: Other party name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contract_value
+      label: Contract Value
+      hint: Total amount
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: contract_term
+      label: Contract Term
+      hint: Duration
+      type: select_one
+      options:
+      - One-time
+      - Less than 1 year
+      - 1-2 years
+      - 2-5 years
+      - 5+ years
+      - Ongoing
+      required: true
+    - id: 11
+      name: start_date
+      label: Start Date
+      hint: Effective date
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: end_date
+      label: End Date
+      hint: Expiration date
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: budget_approved
+      label: Budget Approved
+      hint: Is budget allocated?
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending
+      required: true
+    - id: 14
+      name: budget_code
+      label: Budget Code
+      hint: Cost center
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: legal_review_status
+      label: Legal Review Status
+      hint: Has legal reviewed?
+      type: select_one
+      options:
+      - Completed
+      - In progress
+      - Not started
+      - Not required
+      required: true
+    - id: 16
+      name: compliance_review
+      label: Compliance Review
+      hint: Compliance status
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Not required
+      required: true
+    - id: 17
+      name: risk_level
+      label: Risk Level
+      hint: Assessed risk
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Critical
+      required: true
+    - id: 18
+      name: approvals_required
+      label: Approvals Required
+      hint: Who needs to approve?
+      type: select_multiple
+      options:
+      - Department manager
+      - Director
+      - Vice president
+      - CFO
+      - CEO
+      - Legal counsel
+      - Board
+      required: true
+    - id: 19
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent is this?
+      type: select_one
+      options:
+      - Routine
+      - Standard
+      - Urgent
+      - Critical
+      required: true
+    - id: 20
+      name: special_conditions
+      label: Special Conditions
+      hint: Any unique terms?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: attachments_list
+      label: Attachments List
+      hint: Documents included
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: approving_authority
+      label: Approving Authority
+      hint: Final approver name
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: approval_status
+      label: Approval Status
+      hint: Current status
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending review
+      - Requires revision
+      required: true
+    - id: 24
+      name: approval_date
+      label: Approval Date
+      hint: Date of decision
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

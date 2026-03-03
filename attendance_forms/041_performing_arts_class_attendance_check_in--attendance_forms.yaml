@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: performing-arts-class-attendance-check-in
+    pages:
+    - id: 1
+      name: performing_arts_class_attendance_check_in_session
+      label: Performing arts class
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: session_date
+      label: Session date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: session_time
+      label: Session time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: student_name
+      label: Student name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: student_email
+      label: Student email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: student_phone
+      label: Student phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: student_attended
+      label: Student attended
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: student_note
+      label: Student note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: instructor_name
+      label: Instructor name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: instructor_email
+      label: Instructor email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: instructor_phone
+      label: Instructor phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: instructor_note
+      label: Instructor note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: session_notes
+      label: Session notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: student_parent_name
+      label: Parent name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: student_parent_email
+      label: Parent email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: student_parent_phone
+      label: Parent phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: session_attended
+      label: Session attended
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: session_status
+      label: Session status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 19
+      name: session_status_option
+      label: Session status option
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 20
+      name: student_status
+      label: Student status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 21
+      name: student_status_option
+      label: Student status option
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 22
+      name: music_session
+      label: Music session
+      hint: null
+      type: select_one
+      options:
+      - Piano
+      - Vocal
+      - Jazz
+      required: true
+    - id: 23
+      name: dance_session
+      label: Dance session
+      hint: null
+      type: select_one
+      options:
+      - Ballet
+      - Jazz
+      - Tap
+      required: true
+    - id: 24
+      name: theater_session
+      label: Theater session
+      hint: null
+      type: select_one
+      options:
+      - Play
+      - Musical
+      required: true
+    - id: 25
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Instructor
+      required: true

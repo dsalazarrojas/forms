@@ -1,0 +1,419 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Loan Payment Protection Insurance Enrollment
+    pages:
+    - id: 1
+      name: introduction
+      label: Payment Protection Insurance Enrollment
+      hint: Please complete this form to enroll in payment protection insurance
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: borrower_info
+      label: Borrower Information
+      hint: Primary borrower details
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: ssn
+      label: Social Security Number
+      hint: XXX-XX-XXXX
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email Address
+      hint: Primary email address
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: address
+      label: Street Address
+      hint: Your current address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: state
+      label: State
+      hint: State of residence
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Florida
+      - Georgia
+      - Other
+      required: true
+    - id: 12
+      name: zip_code
+      label: ZIP Code
+      hint: 5-digit ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: co_applicant_info
+      label: Co-Applicant Information
+      hint: Optional co-applicant details
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: co_applicant_first
+      label: Co-Applicant First Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: co_applicant_last
+      label: Co-Applicant Last Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: co_applicant_dob
+      label: Co-Applicant Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: co_applicant_ssn
+      label: Co-Applicant SSN
+      hint: XXX-XX-XXXX
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: loan_info
+      label: Loan Information
+      hint: Details about your auto loan
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: loan_number
+      label: Loan Account Number
+      hint: Your loan account number
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: loan_amount
+      label: Original Loan Amount
+      hint: Total loan amount
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: loan_term
+      label: Loan Term
+      hint: Number of months
+      type: select_one
+      options:
+      - 36 months
+      - 48 months
+      - 60 months
+      - 72 months
+      - 84 months
+      required: true
+    - id: 22
+      name: monthly_payment
+      label: Monthly Payment Amount
+      hint: Your monthly payment
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: vehicle_info
+      label: Vehicle Information
+      hint: Details about the financed vehicle
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: vehicle_year
+      label: Vehicle Year
+      hint: Year of vehicle
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: vehicle_make
+      label: Vehicle Make
+      hint: Manufacturer
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: vehicle_model
+      label: Vehicle Model
+      hint: Model name
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: vin
+      label: VIN
+      hint: Vehicle Identification Number
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: coverage_selection
+      label: Coverage Selection
+      hint: Choose your coverage options
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: unemployment_coverage
+      label: Unemployment Coverage
+      hint: Covers payments if you lose your job
+      type: select_one
+      options:
+      - Yes I Want This
+      - No I Decline
+      required: true
+    - id: 30
+      name: disability_coverage
+      label: Disability Coverage
+      hint: Covers payments if you become disabled
+      type: select_one
+      options:
+      - Yes I Want This
+      - No I Decline
+      required: true
+    - id: 31
+      name: life_coverage
+      label: Life Coverage
+      hint: Pays off loan in case of death
+      type: select_one
+      options:
+      - Yes I Want This
+      - No I Decline
+      required: true
+    - id: 32
+      name: critical_illness_coverage
+      label: Critical Illness Coverage
+      hint: Covers payments during critical illness
+      type: select_one
+      options:
+      - Yes I Want This
+      - No I Decline
+      required: true
+    - id: 33
+      name: coverage_amount
+      label: Coverage Amount Selection
+      hint: How much coverage do you want
+      type: select_one
+      options:
+      - Full Loan Balance
+      - 12 Months of Payments
+      - 24 Months of Payments
+      - 36 Months of Payments
+      required: false
+    - id: 34
+      name: beneficiary_info
+      label: Beneficiary Information
+      hint: Who should receive benefits
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: beneficiary_name
+      label: Primary Beneficiary Name
+      hint: Full name
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: beneficiary_relationship
+      label: Beneficiary Relationship
+      hint: How are they related to you
+      type: select_one
+      options:
+      - Spouse
+      - Child
+      - Parent
+      - Sibling
+      - Other
+      required: false
+    - id: 37
+      name: premium_info
+      label: Premium Information
+      hint: Cost of coverage
+      type: note
+      options: []
+      required: false
+    - id: 38
+      name: premium_payment
+      label: Premium Payment Method
+      hint: How will you pay the premium
+      type: select_one
+      options:
+      - Monthly with Loan Payment
+      - Single Upfront Payment
+      - Financed into Loan
+      required: true
+    - id: 39
+      name: monthly_premium
+      label: Estimated Monthly Premium
+      hint: Based on coverage selected
+      type: number
+      options: []
+      required: false
+    - id: 40
+      name: eligibility
+      label: Eligibility Questions
+      hint: Answer to determine eligibility
+      type: note
+      options: []
+      required: false
+    - id: 41
+      name: currently_employed
+      label: Are You Currently Employed
+      hint: Employment status
+      type: select_one
+      options:
+      - Yes Full-Time
+      - Yes Part-Time
+      - false
+      - Self-Employed
+      required: true
+    - id: 42
+      name: pre_existing_conditions
+      label: Pre-Existing Medical Conditions
+      hint: Any current medical conditions
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 43
+      name: conditions_description
+      label: Conditions Description
+      hint: Please describe
+      type: text
+      options: []
+      required: false
+    - id: 44
+      name: acknowledgments
+      label: Acknowledgments and Disclosures
+      hint: Please read carefully
+      type: note
+      options: []
+      required: false
+    - id: 45
+      name: received_disclosure
+      label: Received Insurance Disclosure
+      hint: Did you receive the disclosure document
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 46
+      name: understand_terms
+      label: Understand Terms and Conditions
+      hint: Do you understand the terms
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 47
+      name: voluntary_purchase
+      label: Voluntary Purchase Acknowledgment
+      hint: This insurance is optional
+      type: select_one
+      options:
+      - Yes I Understand
+      - false
+      required: true
+    - id: 48
+      name: cancellation_policy
+      label: Cancellation Policy Acknowledgment
+      hint: You may cancel at any time
+      type: select_one
+      options:
+      - Yes I Understand
+      - false
+      required: true
+    - id: 49
+      name: borrower_signature
+      label: Borrower Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 50
+      name: borrower_signature_date
+      label: Borrower Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true
+    - id: 51
+      name: co_applicant_signature
+      label: Co-Applicant Signature
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 52
+      name: co_applicant_signature_date
+      label: Co-Applicant Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: false

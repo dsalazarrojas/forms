@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Safety Hazard Identification Quiz
+    pages:
+    - id: 1
+      name: safety_hazard_identification_quiz_1
+      label: What is the most common type of accident?
+      hint: null
+      type: select_one
+      options:
+      - Slips and trips
+      - Trips
+      - Falls
+      - Crises
+      - Hazard
+      - Other
+      required: false
+    - id: 2
+      name: safety_hazard_identification_quiz_2
+      label: How many years since last accident?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: safety_hazard_identification_quiz_3
+      label: What is the most common cause of accidents?
+      hint: null
+      type: select_multiple
+      options:
+      - Human error
+      - Equipment failure
+      - Environmental factors
+      - Other
+      required: false
+    - id: 4
+      name: safety_hazard_identification_quiz_4
+      label: Has an accident occurred?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: safety_hazard_identification_quiz_5
+      label: Which of the following is not included in the accident investigation
+        report?
+      hint: null
+      type: select_multiple
+      options:
+      - Date and time of incident
+      - Location of incident
+      - Injuries sustained
+      - Other
+      required: false
+    - id: 6
+      name: safety_hazard_identification_quiz_6
+      label: Which of the following is included in the accident investigation report?
+      hint: null
+      type: select_multiple
+      options:
+      - Injuries sustained
+      - Type of equipment involved
+      - Location of incident
+      - Other
+      required: false
+    - id: 7
+      name: safety_hazard_identification_quiz_7
+      label: What type of equipment was involved in the accident?
+      hint: null
+      type: select_multiple
+      options:
+      - Tools and equipment
+      - Furniture
+      - Structures
+      - Other
+      required: false
+    - id: 8
+      name: safety_hazard_identification_quiz_8
+      label: How many accidents occurred?
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - 2-5
+      - 6 or more
+      required: false
+    - id: 9
+      name: safety_hazard_identification_quiz_9
+      label: Is the accident report completed?
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Not completed
+      required: false
+    - id: 10
+      name: safety_hazard_identification_quiz_10
+      label: Is the accident investigation report completed?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: safety_hazard_identification_quiz_11
+      label: Has the report been reviewed?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: safety_hazard_identification_quiz_12
+      label: What type of report was completed?
+      hint: null
+      type: select_multiple
+      options:
+      - Accident report
+      - Incident report
+      - Injury report
+      - Other
+      required: false
+    - id: 13
+      name: safety_hazard_identification_quiz_13
+      label: Has the report been submitted?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: safety_hazard_identification_quiz_14
+      label: How many times has it been reviewed?
+      hint: null
+      type: select_one
+      options:
+      - Once
+      - Multiple times
+      required: false

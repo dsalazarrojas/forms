@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legal Consultation Booking Form
+    pages:
+    - id: 1
+      name: user_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: consultation_date
+      label: Consultation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: consultation_time
+      label: Consultation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: consultation_subject
+      label: Consultation Subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: legal_expertise
+      label: Legal Expertise
+      hint: null
+      type: select_one
+      options:
+      - Family Law
+      - Commercial Law
+      - Labor Law
+      required: false
+    - id: 8
+      name: legal_expertise_other
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: booking_confirmation
+      label: Booking Confirmation
+      hint: null
+      type: select_one
+      options:
+      - Yes, send a confirmation email to the client
+      - Yes, send a confirmation call to the client
+      - No, do not send a confirmation
+      required: false
+    - id: 10
+      name: confirmation_method
+      label: Confirmation Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - No Confirmation
+      required: false
+    - id: 11
+      name: appointment_duration
+      label: Appointment Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: confirmation_date
+      label: Confirmation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: confirmation_time
+      label: Confirmation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: confirmation_status
+      label: Confirmation Status
+      hint: null
+      type: select_one
+      options:
+      - Awaiting Client Response
+      - Awaiting Legal Expert
+      - Completed
+      required: false
+    - id: 16
+      name: followup_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: followup_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: followup_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - No Follow-up
+      - Awaiting Client Response
+      - Completed
+      required: false
+    - id: 19
+      name: followup_method
+      label: Follow-up Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - No Follow-up
+      required: false
+    - id: 20
+      name: followup_frequency
+      label: Follow-up Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: followup_notes
+      label: Follow-up Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: notes_for_legal_expert
+      label: Notes for Legal Expert
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: legal_expert_name
+      label: Legal Expert Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: user_confirmation
+      label: User Confirmation
+      hint: null
+      type: select_one
+      options:
+      - Yes, confirmed
+      - No, not confirmed
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

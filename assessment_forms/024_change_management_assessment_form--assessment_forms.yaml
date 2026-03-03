@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Change Management Assessment Form
+    pages:
+    - id: 1
+      name: assessment_date
+      label: Assessment Date
+      hint: Date conducting assessment
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: organization_name
+      label: Organization Name
+      hint: Your organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: assessed_by
+      label: Assessment Conducted By
+      hint: Name of assessor
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: change_initiative
+      label: Change Initiative Being Assessed
+      hint: Description of the change
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: change_type
+      label: Type of Change
+      hint: Category of change
+      type: select_one
+      options:
+      - Organizational Restructuring
+      - Technology Implementation
+      - Process Improvement
+      - Merger or Acquisition
+      - Cultural Change
+      - Strategic Pivot
+      required: true
+    - id: 6
+      name: organizational_readiness
+      label: Organizational Readiness for Change
+      hint: How ready is the organization
+      type: select_one
+      options:
+      - Very Ready
+      - Ready
+      - Somewhat Ready
+      - Not Ready
+      - Highly Resistant
+      required: true
+    - id: 7
+      name: leadership_commitment
+      label: Leadership Commitment Level
+      hint: Executive support for change
+      type: select_one
+      options:
+      - Fully Committed
+      - Mostly Committed
+      - Neutral
+      - Hesitant
+      - Opposed
+      required: true
+    - id: 8
+      name: employee_buy_in
+      label: Employee Buy-in and Support
+      hint: Employee acceptance of change
+      type: select_one
+      options:
+      - Strong Support
+      - Moderate Support
+      - Mixed Reactions
+      - Resistance
+      - Strong Resistance
+      required: true
+    - id: 9
+      name: resource_availability
+      label: Resource Availability
+      hint: Budget, time, people for change
+      type: select_one
+      options:
+      - Fully Adequate
+      - Mostly Adequate
+      - Somewhat Adequate
+      - Inadequate
+      - Critical Shortage
+      required: true
+    - id: 10
+      name: communication_plan
+      label: Change Communication Plan
+      hint: Is a communication plan in place
+      type: select_one
+      options:
+      - Comprehensive Plan
+      - Partial Plan
+      - Minimal Plan
+      - No Plan
+      - Not Started
+      required: false
+    - id: 11
+      name: resistance_management_plan
+      label: Resistance Management Plan
+      hint: Strategy for managing resistance
+      type: select_one
+      options:
+      - Well Developed
+      - Partially Developed
+      - Underdeveloped
+      - No Plan
+      required: false
+    - id: 12
+      name: training_readiness
+      label: Training and Support Readiness
+      hint: Training provided for change
+      type: select_one
+      options:
+      - Comprehensive
+      - Adequate
+      - Partial
+      - Minimal
+      - None
+      required: true
+    - id: 13
+      name: key_risks
+      label: Key Risks Identified
+      hint: Main risks to change success
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: risk_mitigation
+      label: Risk Mitigation Strategies
+      hint: How risks will be managed
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: success_metrics
+      label: Success Metrics Defined
+      hint: How will success be measured
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: timeline_feasibility
+      label: Timeline Feasibility
+      hint: Is proposed timeline realistic
+      type: select_one
+      options:
+      - Very Feasible
+      - Feasible
+      - Challenging
+      - Unrealistic
+      - Not Determined
+      required: false
+    - id: 17
+      name: stakeholder_alignment
+      label: Stakeholder Alignment
+      hint: Agreement among stakeholders
+      type: select_one
+      options:
+      - Highly Aligned
+      - Mostly Aligned
+      - Partially Aligned
+      - Misaligned
+      - Not Aligned
+      required: false
+    - id: 18
+      name: organizational_capacity
+      label: Organizational Capacity for Change
+      hint: Ability to absorb change
+      type: select_one
+      options:
+      - High Capacity
+      - Moderate Capacity
+      - Limited Capacity
+      - Overwhelmed
+      - Insufficient Capacity
+      required: true
+    - id: 19
+      name: overall_readiness_score
+      label: Overall Change Readiness Score
+      hint: Rate readiness 1-10
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: assessment_recommendations
+      label: Recommendations for Success
+      hint: Actions to improve readiness
+      type: text
+      options: []
+      required: false

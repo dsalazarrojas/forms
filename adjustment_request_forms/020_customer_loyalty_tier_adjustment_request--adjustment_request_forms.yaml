@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Loyalty Tier Adjustment Request
+    pages:
+    - id: 1
+      name: customer_loyalty_tier_adjustment_request
+      label: Customer Loyalty Tier Adjustment Request
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: customer_loyalty_tier_id
+      label: customer_loyalty_tier_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: customer_id
+      label: customer_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_change
+      label: date_of_change
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: change_request_details
+      label: change_request_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: submitter_name
+      label: submitter_name
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: submitter_phone
+      label: submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: submitter_notes
+      label: submitter_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: customer_loyalty_tier_id
+      label: customer_loyalty_tier_id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: customer_loyalty_tier
+      label: customer_loyalty_tier
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: adjustment_reason
+      label: adjustment_reason
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: adjustment_request_status
+      label: adjustment_request_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

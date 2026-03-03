@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: monthly_appointment_scheduling_form
+    pages:
+    - id: 1
+      name: schedule_date
+      label: Schedule Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: select_time
+      label: Select Time
+      hint: null
+      type: select_one
+      options:
+      - 08:00
+      - '600'
+      - '720'
+      - '840'
+      - '960'
+      - '1080'
+      - '1200'
+      required: false
+    - id: 3
+      name: schedule_note
+      label: Additional Note
+      hint: Optional additional note for your appointment
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: email_contact
+      label: Contact Email
+      hint: Enter email to receive confirmation of your appointment
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Optional phone number to reach you
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: confirm_date
+      label: Confirm Schedule Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: confirm_time
+      label: Confirm Time
+      hint: null
+      type: select_one
+      options:
+      - 08:00
+      - '600'
+      - '720'
+      - '840'
+      - '960'
+      - '1080'
+      - '1200'
+      required: false
+    - id: 8
+      name: confirm_note
+      label: Confirm Additional Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: confirm_phone
+      label: Confirm Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

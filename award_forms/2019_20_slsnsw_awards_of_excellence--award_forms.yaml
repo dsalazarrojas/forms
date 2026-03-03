@@ -1,0 +1,193 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 2019/20 SLSNSW Awards Of Excellence
+    pages:
+    - id: 1
+      name: section_header_nomination
+      label: '--- Nomination Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: nominee_full_name
+      label: Nominee full name
+      hint: As appears on official records
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: nominee_club
+      label: Nominee club or branch
+      hint: e.g., Bondi SLSC
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: nominee_role
+      label: Nominee primary role
+      hint: e.g., Lifesaver, Coach, Volunteer
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: award_category
+      label: Award category nominated for
+      hint: Select one category
+      type: select_one
+      options:
+      - Volunteer of the Year
+      - Lifesaver of the Year
+      - Coach of the Year
+      - Young Volunteer Award
+      - Team Award
+      - Innovation Award
+      - Community Impact Award
+      required: true
+    - id: 6
+      name: nomination_date
+      label: Date of nomination
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: nominator_name
+      label: Nominator full name
+      hint: Person submitting this nomination
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: nominator_email
+      label: Nominator email address
+      hint: We'll contact you for verification
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: nominator_phone
+      label: Nominator phone number
+      hint: Optional — include country code if outside Australia
+      type: phone
+      options: []
+      required: false
+    - id: 10
+      name: eligibility_confirmation
+      label: Does the nominee meet eligibility criteria?
+      hint: Confirm eligibility before submitting
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: nomination_statement
+      label: Nomination statement
+      hint: Describe why the nominee deserves this award (200-500 words)
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: achievements_summary
+      label: Key achievements and impact
+      hint: Concise bullet points or short paragraphs highlighting achievements
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: attributes_matched
+      label: Attributes demonstrated by nominee (select all that apply)
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Leadership
+      - Community Impact
+      - Skill Excellence
+      - Innovation
+      - Longevity of Service
+      - Teamwork
+      required: false
+    - id: 14
+      name: supporting_evidence_instructions
+      label: Supporting evidence
+      hint: Attach certificates, photos or references via the awards portal or include
+        links below
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: supporting_evidence_link
+      label: Link to supporting evidence (if hosted online)
+      hint: Provide a URL or cloud share link, leave blank if uploading via portal
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: referee_name
+      label: Referee name (optional)
+      hint: Optional referee for verification
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: referee_email
+      label: Referee email
+      hint: Optional — useful for follow-up verification
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: referee_phone
+      label: Referee phone number
+      hint: Optional
+      type: phone
+      options: []
+      required: false
+    - id: 19
+      name: overall_rating
+      label: Overall recommendation rating (1-10)
+      hint: 1 = lowest, 10 = highest
+      type: integer
+      options: []
+      required: true
+    - id: 20
+      name: publicity_consent
+      label: Nominee publicity consent
+      hint: Indicate whether the nominee consents to public recognition if shortlisted
+      type: select_one
+      options:
+      - Public
+      - Private
+      - Case-by-case
+      required: true
+    - id: 21
+      name: conflicts_of_interest
+      label: Any known conflicts of interest?
+      hint: Leave blank if none
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Any other information the awards committee should consider
+      type: text
+      options: []
+      required: false

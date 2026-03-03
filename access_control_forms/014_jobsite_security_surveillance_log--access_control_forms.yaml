@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: jobsite-security-surveillance-log
+    pages:
+    - id: 1
+      name: patrol_activity
+      label: Patrol Activity
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: incident_report
+      label: Incident Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: officer_remarks
+      label: Officer Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shift_notes
+      label: Shift Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incident_photos
+      label: Incident Photos
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: incident_report
+      label: Incident Report
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''No Incident''}'
+      - '{''value'': ''Incident Reported''}'
+      - '{''value'': ''Incident Under Investigation''}'
+      - '{''value'': ''Incident Closed''}'
+      required: true
+    - id: 8
+      name: incident_incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: security_vehicles_present
+      label: Security Vehicles Present
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Police Vehicle''}'
+      - '{''value'': ''Fire Truck''}'
+      - '{''value'': ''Ambulance''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 12
+      name: security_personnel_present
+      label: Security Personnel Present
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Officer A''}'
+      - '{''value'': ''Officer B''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 13
+      name: incident_investigation_status
+      label: Incident Investigation Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Not Started''}'
+      - '{''value'': ''In Progress''}'
+      - '{''value'': ''Closed''}'
+      required: true
+    - id: 14
+      name: notes_on_investigation
+      label: Notes on Investigation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: investigation_duration
+      label: Investigation Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: incident_resolution_status
+      label: Incident Resolution Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Not Resolved''}'
+      - '{''value'': ''Resolved''}'
+      required: true
+    - id: 17
+      name: notes_on_resolution
+      label: Notes on Resolution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: shift_duration
+      label: Shift Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: start_date_and_time
+      label: Start Date and Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: finish_date_and_time
+      label: Finish Date and Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: officer_safety_briefing
+      label: Officer Safety Briefing
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: officer_briefing_notes
+      label: Officer Briefing Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: incident_safety_plan
+      label: Incident Safety Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: weather_conditions
+      label: Weather Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_remarks
+      label: Additional Remarks
+      hint: null
+      type: text
+      options: []
+      required: false

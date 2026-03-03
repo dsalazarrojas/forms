@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facility Features Assessment
+    pages:
+    - id: 1
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: building_name
+      label: Building Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: floor_area
+      label: Floor Area
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: building_type
+      label: Building Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Residential'', ''value'': ''Residential''}'
+      - '{''id'': 2, ''name'': ''Commercial'', ''value'': ''Commercial''}'
+      - '{''id'': 3, ''name'': ''Industrial'', ''value'': ''Industrial''}'
+      required: false
+    - id: 5
+      name: facility_features
+      label: Facility Features
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Parking Lot'', ''value'': ''Parking Lot''}'
+      - '{''id'': 2, ''name'': ''Restroom'', ''value'': ''Restroom''}'
+      - '{''id'': 3, ''name'': ''Elevator'', ''value'': ''Elevator''}'
+      - '{''id'': 4, ''name'': ''Security System'', ''value'': ''Security System''}'
+      required: false
+    - id: 6
+      name: total_floors
+      label: Total Floors
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: building_age
+      label: Building Age
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: building_materials
+      label: Building Materials
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Brick'', ''value'': ''Brick''}'
+      - '{''id'': 2, ''name'': ''Concrete'', ''value'': ''Concrete''}'
+      - '{''id'': 3, ''name'': ''Steel'', ''value'': ''Steel''}'
+      - '{''id'': 4, ''name'': ''Glass'', ''value'': ''Glass''}'
+      required: false
+    - id: 9
+      name: electrical_systems
+      label: Electrical Systems
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Circuit Breaker'', ''value'': ''Circuit Breaker''}'
+      - '{''id'': 2, ''name'': ''Generator'', ''value'': ''Generator''}'
+      - '{''id'': 3, ''name'': ''Solar Panel'', ''value'': ''Solar Panel''}'
+      required: false
+    - id: 10
+      name: plumbing_systems
+      label: Plumbing Systems
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Water Heater'', ''value'': ''Water Heater''}'
+      - '{''id'': 2, ''name'': ''Fire Hydrant'', ''value'': ''Fire Hydrant''}'
+      - '{''id'': 3, ''name'': ''Sump Pump'', ''value'': ''Sump Pump''}'
+      required: false
+    - id: 11
+      name: heating_and_cooling
+      label: Heating and Cooling
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Central A/C'', ''value'': ''Central A/C''}'
+      - '{''id'': 2, ''name'': ''Radiant Heat'', ''value'': ''Radiant Heat''}'
+      - '{''id'': 3, ''name'': ''Heat Pump'', ''value'': ''Heat Pump''}'
+      required: false
+    - id: 12
+      name: safety_systems
+      label: Safety Systems
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Fire Alarm'', ''value'': ''Fire Alarm''}'
+      - '{''id'': 2, ''name'': ''Fire Suppression'', ''value'': ''Fire Suppression''}'
+      - '{''id'': 3, ''name'': ''Security Camera'', ''value'': ''Security Camera''}'
+      required: false
+    - id: 13
+      name: fire_safety_procedures
+      label: Fire Safety Procedures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: evacuation_plans
+      label: Evacuation Plans
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Fire Drill'', ''value'': ''Fire Drill''}'
+      - '{''id'': 2, ''name'': ''Emergency Exit'', ''value'': ''Emergency Exit''}'
+      - '{''id'': 3, ''name'': ''Evacuation Route'', ''value'': ''Evacuation Route''}'
+      required: false
+    - id: 15
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: contact_fax
+      label: Contact Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: building_owner
+      label: Building Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: building_manager
+      label: Building Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: emergency_contact_person
+      label: Emergency Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: building_supervisor
+      label: Building Supervisor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: facility_inspector
+      label: Facility Inspector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

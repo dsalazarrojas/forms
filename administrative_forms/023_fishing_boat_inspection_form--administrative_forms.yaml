@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fishing Boat Inspection Form
+    pages:
+    - id: 1
+      name: boat_details
+      label: Boat Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: safety_equipment
+      label: Safety Equipment
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Life jackets''}'
+      - '{''label'': ''Flares''}'
+      - '{''label'': ''First aid kit''}'
+      - '{''label'': ''Fire extinguisher''}'
+      required: false
+    - id: 3
+      name: engine_details
+      label: Engine Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: safety_inspection
+      label: Safety Inspection
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Propeller''}'
+      - '{''label'': ''Hull''}'
+      - '{''label'': ''Steering''}'
+      required: false
+    - id: 5
+      name: emergency_equipment
+      label: Emergency Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: navigation_equipment
+      label: Navigation Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: radio_equipment
+      label: Radio Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: inspection_result
+      label: Inspection Result
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Passed''}'
+      - '{''label'': ''Failed''}'
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email_input
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone_input
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: name_input
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: address_input
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false

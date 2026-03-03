@@ -1,0 +1,269 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Interior Assessment Survey
+    pages:
+    - id: 1
+      name: vehicle_info
+      label: Vehicle Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: interior_condition
+      label: Interior Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent'', ''value'': ''Excellent''}'
+      - '{''label'': ''Fair'', ''value'': ''Fair''}'
+      - '{''label'': ''Poor'', ''value'': ''Poor''}'
+      required: true
+    - id: 3
+      name: wear_tear
+      label: Wear and Tear
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None'', ''value'': ''None''}'
+      - '{''label'': ''Light'', ''value'': ''Light''}'
+      - '{''label'': ''Moderate'', ''value'': ''Moderate''}'
+      - '{''label'': ''Severe'', ''value'': ''Severe''}'
+      required: true
+    - id: 4
+      name: damage
+      label: Damage
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: odors
+      label: Odors
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: stains
+      label: Stains
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: wear_on_leathers
+      label: Wear on Leathers
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None'', ''value'': ''None''}'
+      - '{''label'': ''Light'', ''value'': ''Light''}'
+      - '{''label'': ''Moderate'', ''value'': ''Moderate''}'
+      - '{''label'': ''Severe'', ''value'': ''Severe''}'
+      required: true
+    - id: 8
+      name: wear_on_upholstries
+      label: Wear on Upholstries
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None'', ''value'': ''None''}'
+      - '{''label'': ''Light'', ''value'': ''Light''}'
+      - '{''label'': ''Moderate'', ''value'': ''Moderate''}'
+      - '{''label'': ''Severe'', ''value'': ''Severe''}'
+      required: true
+    - id: 9
+      name: wear_on_plastics
+      label: Wear on Plastics
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None'', ''value'': ''None''}'
+      - '{''label'': ''Light'', ''value'': ''Light''}'
+      - '{''label'': ''Moderate'', ''value'': ''Moderate''}'
+      - '{''label'': ''Severe'', ''value'': ''Severe''}'
+      required: true
+    - id: 10
+      name: wear_on_flooring
+      label: Wear on Flooring
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None'', ''value'': ''None''}'
+      - '{''label'': ''Light'', ''value'': ''Light''}'
+      - '{''label'': ''Moderate'', ''value'': ''Moderate''}'
+      - '{''label'': ''Severe'', ''value'': ''Severe''}'
+      required: true
+    - id: 11
+      name: wear_on_headliner
+      label: Wear on Headliner
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None'', ''value'': ''None''}'
+      - '{''label'': ''Light'', ''value'': ''Light''}'
+      - '{''label'': ''Moderate'', ''value'': ''Moderate''}'
+      - '{''label'': ''Severe'', ''value'': ''Severe''}'
+      required: true
+    - id: 12
+      name: wear_on_steering_wheel
+      label: Wear on Steering Wheel
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None'', ''value'': ''None''}'
+      - '{''label'': ''Light'', ''value'': ''Light''}'
+      - '{''label'': ''Moderate'', ''value'': ''Moderate''}'
+      - '{''label'': ''Severe'', ''value'': ''Severe''}'
+      required: true
+    - id: 13
+      name: cleanliness
+      label: Cleanliness
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: odor_level
+      label: Odor Level
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: photo_urls
+      label: Photos
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: vehicle_id
+      label: Vehicle ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Newer than 10'', ''value'': ''Newer than 10''}'
+      - '{''label'': ''10-20'', ''value'': ''10-20''}'
+      - '{''label'': ''21-30'', ''value'': ''21-30''}'
+      - '{''label'': ''31-40'', ''value'': ''31-40''}'
+      - '{''label'': ''Older than 40'', ''value'': ''Older than 40''}'
+      required: true
+    - id: 19
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: vehicle_color
+      label: Vehicle Color
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Black'', ''value'': ''Black''}'
+      - '{''label'': ''Blue'', ''value'': ''Blue''}'
+      - '{''label'': ''White'', ''value'': ''White''}'
+      - '{''label'': ''Red'', ''value'': ''Red''}'
+      required: true
+    - id: 22
+      name: vehicle_year_made
+      label: Vehicle Year Made
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: mileage
+      label: Mileage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 26
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 27
+      name: submission_by
+      label: Submission By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: form_version
+      label: Form Version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: submission_type
+      label: Submission Type
+      hint: null
+      type: text
+      options: []
+      required: true

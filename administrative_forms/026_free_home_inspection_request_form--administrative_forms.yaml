@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Free Home Inspection Request Form
+    pages:
+    - id: 1
+      name: home_inspection_form
+      label: Home Inspection Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: preferred_date
+      label: Preferred Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_day
+      label: Time of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: inspection_type
+      label: Inspection Type
+      hint: null
+      type: select_one
+      options:
+      - Home Inspection
+      - Maintenance Inspection
+      - Other
+      required: false
+    - id: 6
+      name: additional_details
+      label: Additional Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false

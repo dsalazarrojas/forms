@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: lease_manager_information_form
+    pages:
+    - id: 1
+      name: tenant_information
+      label: tenant information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: contact information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: lease_term
+      label: lease term
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: rental_unit
+      label: rental unit
+      hint: null
+      type: select_one
+      options:
+      - studio
+      - one bedroom
+      - two bedroom
+      required: false
+    - id: 5
+      name: lease_status
+      label: lease status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: tenant_id
+      label: tenant id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: minimalist_lease
+      label: minimalist lease
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: lease_start_date
+      label: lease start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: lease_end_date
+      label: lease end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: property_name
+      label: property name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: fax
+      label: fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: cell
+      label: cell
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: lease_start_time
+      label: lease start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: lease_end_time
+      label: lease end time
+      hint: null
+      type: time
+      options: []
+      required: false

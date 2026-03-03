@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dealership Maintenance Service Feedback Poll
+    pages:
+    - id: 1
+      name: form_title
+      label: Dealership Maintenance Service Feedback Poll
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dealership_name
+      label: dealership_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_type
+      label: service_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Service Visit'', ''value'': ''Service Visit''}'
+      - '{''id'': 2, ''label'': ''Oil Change'', ''value'': ''Oil Change''}'
+      - '{''id'': 3, ''label'': ''Tire Change'', ''value'': ''Tire Change''}'
+      required: false
+    - id: 4
+      name: rating_service
+      label: rating_service
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rating_staff
+      label: rating_staff
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: comments_staff
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: service_advisor
+      label: service_advisor
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''John'', ''value'': ''John''}'
+      - '{''id'': 2, ''label'': ''Jane'', ''value'': ''Jane''}'
+      required: false
+    - id: 9
+      name: date_of_visit
+      label: date_of_visit
+      hint: Date of visit (MM/DD/YYYY)
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_of_visit
+      label: time_of_visit
+      hint: Time of visit
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: form_title
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: dealership_phone
+      label: dealership_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: service_advisor_phone
+      label: service_advisor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: service_advisor_email
+      label: service_advisor_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_comments
+      label: follow_up_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_call
+      label: follow_up_call
+      hint: Call or email
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_date
+      label: follow_up_date
+      hint: Date
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_time
+      label: follow_up_time
+      hint: Time
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_method
+      label: follow_up_method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Call'', ''value'': ''Call''}'
+      - '{''id'': 2, ''label'': ''Email'', ''value'': ''Email''}'
+      - '{''id'': 3, ''label'': ''Message'', ''value'': ''Message''}'
+      required: false
+    - id: 21
+      name: follow_up_message
+      label: follow_up_message
+      hint: null
+      type: text
+      options: []
+      required: false

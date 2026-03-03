@@ -1,0 +1,238 @@
+inputSchema:
+  type: object
+  properties:
+    title: Knowledge Assessment On Safety Practices
+    pages:
+    - id: 1
+      name: first_page
+      label: What type of equipment do you use on the job?
+      hint: null
+      type: select_one
+      options:
+      - Hard hat
+      - Safety glasses
+      - Safety boots
+      required: true
+    - id: 2
+      name: job_type
+      label: Job type
+      hint: null
+      type: select_one
+      options:
+      - Production
+      - Maintenance
+      - Office
+      required: true
+    - id: 3
+      name: first_aids
+      label: First aid kit available on site
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: safety_equipment
+      label: Safety equipment available
+      hint: null
+      type: select_multiple
+      options:
+      - Hard hat
+      - Safety glasses
+      - Safety harness
+      required: true
+    - id: 5
+      name: training_hours
+      label: How many hours of safety training have you had?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: training_topics
+      label: Safety training topics covered
+      hint: null
+      type: select_multiple
+      options:
+      - Hazardous Materials
+      - Confined spaces
+      - Fire suppression systems
+      required: true
+    - id: 7
+      name: safety_conferences
+      label: Have you attended any safety conferences or workshops?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: years_of_experience
+      label: Years of experience in current job
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: safety_equipment_used
+      label: What safety equipment have you used?
+      hint: null
+      type: select_multiple
+      options:
+      - Hard hat
+      - Safety glasses
+      - Safety harness
+      required: true
+    - id: 10
+      name: first_aid_certification
+      label: First aid certification
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: safety_equipment_providers
+      label: Safety equipment providers
+      hint: null
+      type: select_multiple
+      options:
+      - ABC Safety
+      - Miller
+      - Deere
+      required: true
+    - id: 12
+      name: emergency_contact
+      label: Emergency contact
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: first_aids_supplied
+      label: First aids supplied on site
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: safety_training_hours
+      label: Total hours of safety training received in past 6 months
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: safety_equipment_inspection
+      label: Safety equipment inspection record kept
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: emergency_equipment
+      label: What emergency equipment do you have on hand?
+      hint: null
+      type: select_multiple
+      options:
+      - First aid kit
+      - Fire extinguisher
+      - Emergency phone
+      required: true
+    - id: 17
+      name: training_providers
+      label: Safety training providers
+      hint: null
+      type: select_multiple
+      options:
+      - OSHA
+      - Local
+      - Manufacturer
+      required: true
+    - id: 18
+      name: first_aids_location
+      label: Where are first aids located on site?
+      hint: null
+      type: select_multiple
+      options:
+      - Near entrance
+      - Near exit
+      - Central area
+      required: true
+    - id: 19
+      name: safety_training_topics
+      label: Safety training topics
+      hint: null
+      type: select_multiple
+      options:
+      - Hazardous Materials
+      - Confined spaces
+      - Fire suppression systems
+      required: true
+    - id: 20
+      name: safety_equipment_location
+      label: Where safety equipment is stored
+      hint: null
+      type: select_multiple
+      options:
+      - Near entrance
+      - Near exit
+      - Central area
+      required: true
+    - id: 21
+      name: safety_training_location
+      label: Where safety training is conducted
+      hint: null
+      type: select_multiple
+      options:
+      - Near entrance
+      - Near exit
+      - Central area
+      required: true
+    - id: 22
+      name: safety_equipment_maintenance
+      label: When is regular safety equipment maintenance performed?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 23
+      name: hazard_reporting
+      label: How often do you report hazards on site?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 24
+      name: first_aids_replenishment
+      label: How often do you replenish first aid kits?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 25
+      name: first_aids_inspection
+      label: How often are first aid kits inspected?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true

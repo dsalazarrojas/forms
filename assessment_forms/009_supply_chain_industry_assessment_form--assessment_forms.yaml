@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: supply_chain_industry_assessment_form
+    pages:
+    - id: 1
+      name: supply_chain_industry_assessment
+      label: supply_chain_industry_assessment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_name
+      label: business_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: industry_sector
+      label: supply_chain_industry_sector
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: assessment_date
+      label: assessment_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: industry_type
+      label: industry_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: company_description
+      label: company_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: company_size
+      label: company_size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: assessment_comments
+      label: assessment_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

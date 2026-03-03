@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Movement Notification Form
+    pages:
+    - id: 1
+      name: employee_movement
+      label: employee_movement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: manager_id
+      label: manager_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_movement
+      label: reason_for_movement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: new_manager_id
+      label: new_manager_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: effective_date
+      label: effective_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: separation_date
+      label: separation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_separation
+      label: reason_for_separation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: employee_status
+      label: employee_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: employee_movement_details
+      label: employee_movement_details
+      hint: null
+      type: text
+      options: []
+      required: false

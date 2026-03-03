@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Health Assessment Form
+    pages:
+    - id: 1
+      name: section_patient_info
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: child_name
+      label: Child Full Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_dob
+      label: Date of Birth
+      hint: To verify age
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: child_gender
+      label: Gender
+      hint: Optional field
+      type: select_one
+      options:
+      - label: Male
+        value: male
+      - label: Female
+        value: female
+      - label: Other
+        value: other
+      required: false
+    - id: 5
+      name: section_medical_history
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: previous_illnesses
+      label: Previous Illnesses or Conditions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - label: Asthma or Respiratory
+        value: asthma
+      - label: Diabetes or Endocrine
+        value: diabetes
+      - label: Seizures or Neurological
+        value: seizures
+      - label: Frequent Ear Infections
+        value: ear
+      required: false
+    - id: 7
+      name: recent_surgeries
+      label: Any surgeries in the last year?
+      hint: Include minor procedures
+      type: select_one
+      options:
+      - label: true
+        value: true
+      - label: false
+        value: false
+      required: true
+    - id: 8
+      name: immunizations_current
+      label: Are immunizations up to date?
+      hint: According to CDC schedule
+      type: select_one
+      options:
+      - label: true
+        value: true
+      - label: false
+        value: false
+      required: true
+    - id: 9
+      name: section_current_concerns
+      label: -- Current Health Concerns --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: health_concerns_desc
+      label: Describe any current health concerns
+      hint: Brief summary for provider
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: pain_level
+      label: Current Pain Level
+      hint: Scale of 1 to 10
+      type: select_one
+      options:
+      - label: 1 - Minimal to No Pain
+        value: '1'
+      - label: 5 - Moderate Pain
+        value: '5'
+      - label: 10 - Severe Pain
+        value: '10'
+      required: true
+    - id: 12
+      name: section_lifestyle
+      label: -- Lifestyle and Wellness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: sleep_hours
+      label: Hours of sleep per night
+      hint: Average for typical week
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: appetite_level
+      label: Current Appetite Level
+      hint: Compared to normal
+      type: select_one
+      options:
+      - label: High Appetite
+        value: high
+      - label: Normal Appetite
+        value: normal
+      - label: Low Appetite
+        value: low
+      required: true
+    - id: 15
+      name: section_physician_details
+      label: -- Physician Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: pediatrician_name
+      label: Pediatrician Name
+      hint: Primary doctor name
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: doctor_phone
+      label: Doctor Phone Number
+      hint: Office contact number
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: today_date
+      label: Today Date
+      hint: Date of assessment
+      type: date
+      options: []
+      required: true

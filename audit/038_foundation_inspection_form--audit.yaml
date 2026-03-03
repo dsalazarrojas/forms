@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Foundation Inspection Form
+    pages:
+    - id: 1
+      name: inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: property_owner
+      label: property_owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_address
+      label: property_address
+      hint: Please describe your property's address
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: inspection_type
+      label: inspection_type
+      hint: What type of inspection would you like to request?
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 5
+      name: specific_issue
+      label: specific_issue
+      hint: Please describe the specific issue you are requesting for inspection
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_user
+      label: assigned_user
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 10
+      name: form_submission_notes
+      label: form_submission_notes
+      hint: null
+      type: note
+      options: []
+      required: false

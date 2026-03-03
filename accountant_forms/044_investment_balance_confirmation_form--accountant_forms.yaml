@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Investment Balance Confirmation Form
+    pages:
+    - id: 1
+      name: investment_balance_confirmation_form
+      label: investment_balance_confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: account_number
+      label: account_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: balance_confirmation_date
+      label: balance_confirmation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: total_investment
+      label: total_investment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: client_confirmation
+      label: client_confirmation
+      hint: null
+      type: select_one
+      options:
+      - Client confirmed
+      - Client not confirmed
+      - Client unable to confirm
+      required: false
+    - id: 7
+      name: accountant_confirmation
+      label: accountant_confirmation
+      hint: null
+      type: select_one
+      options:
+      - Accountant confirmed
+      - Accountant not confirmed
+      - Unable to confirm
+      required: false
+    - id: 8
+      name: third_party_confirmation
+      label: third_party_confirmation
+      hint: null
+      type: select_one
+      options:
+      - Third-party confirmed
+      - Third-party not confirmed
+      - Unable to confirm
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email_sent_to
+      label: email_sent_to
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: uploaded_documents
+      label: uploaded_documents
+      hint: null
+      type: select_multiple
+      options:
+      - Document 1
+      - Document 2
+      - Document 3
+      required: false

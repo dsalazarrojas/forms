@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Interruption Incident Form
+    pages:
+    - id: 1
+      name: interruption_details
+      label: Incident details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: affected_services
+      label: Affected services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: start_time
+      label: Start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: end_time
+      label: End time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: services_impacted
+      label: Services impacted
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: impact_level
+      label: Impact level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 9
+      name: resolution_time
+      label: Resolution time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: root_cause
+      label: Root cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: action
+      label: Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

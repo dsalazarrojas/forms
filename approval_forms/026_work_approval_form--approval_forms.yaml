@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: work_approval_form
+    pages:
+    - id: 1
+      name: work_activity
+      label: Work Activity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: approver
+      label: Approver
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: work_details
+      label: Work Details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: expected_completion_date
+      label: Expected Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: actual_completion_date
+      label: Actual Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Graduate Career Readiness Assessment
+    pages:
+    - id: 1
+      name: intro
+      label: This is a form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: What is your name?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_status
+      label: What is your current job status?
+      hint: null
+      type: select_multiple
+      options:
+      - High School
+      - Working
+      - Looking for a job
+      - Other
+      required: true
+    - id: 6
+      name: career_goals
+      label: What are your career goals?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: career_fields
+      label: What career fields or industries interest you?
+      hint: null
+      type: select_multiple
+      options:
+      - Arts and Design
+      - Engineering
+      - Healthcare
+      - Technology
+      - Other
+      required: true
+    - id: 8
+      name: support_needed
+      label: Is there anything else the student might need support with?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: career_services
+      label: What career services would the student like to receive?
+      hint: null
+      type: select_multiple
+      options:
+      - Resume and CV development
+      - Interview preparation
+      - Networking events
+      - Other
+      required: true
+    - id: 10
+      name: graduate_programs
+      label: Is the student considering graduate school?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true

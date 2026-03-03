@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Data Center Security Inspection Form
+    pages:
+    - id: 1
+      name: security_checklist
+      label: security_checklist
+      hint: null
+      type: select_multiple
+      options:
+      - Security Locks
+      - Fire Alarms
+      - Video Cameras
+      required: false
+    - id: 2
+      name: findings
+      label: findings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: follow_ups
+      label: follow_ups
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 4
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: security_checklist
+      label: security_checklist_2
+      hint: null
+      type: select_multiple
+      options:
+      - Fire Extinguisher
+      - Fire Extinguisher
+      - Fire Extinguisher
+      required: false
+    - id: 8
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false

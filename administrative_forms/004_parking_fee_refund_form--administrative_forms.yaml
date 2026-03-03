@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: parking_fee_refund_form
+    pages:
+    - id: 1
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parking_info
+      label: parking_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: refund_request
+      label: refund_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: confirm
+      label: confirm_refund
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: confirm_refund_date
+      label: confirm_refund_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: refund_amount
+      label: refund_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: refund_method
+      label: refund_method
+      hint: null
+      type: select_one
+      options:
+      - bank_transfer
+      - check
+      - credit_card
+      required: false
+    - id: 8
+      name: refund_address
+      label: refund_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit_refund
+      label: submit_refund
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: upload_document
+      label: upload_document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: upload_additional_document
+      label: upload_additional_document
+      hint: null
+      type: text
+      options: []
+      required: false

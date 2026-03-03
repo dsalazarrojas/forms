@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lunch Menu Pre Order Form
+    pages:
+    - id: 1
+      name: pre_order_form
+      label: Pre Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: food_items
+      label: Food Items
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''item1''}'
+      - '{''id'': 2, ''name'': ''item2''}'
+      required: false
+    - id: 3
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_order
+      label: Date Of Order
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_order
+      label: Time Of Order
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''John Doe''}'
+      - '{''id'': 2, ''name'': ''Jane Doe''}'
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: confirm
+      label: Confirm
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_submitted
+      label: Form Submitted
+      hint: null
+      type: text
+      options: []
+      required: false

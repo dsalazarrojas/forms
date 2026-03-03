@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bookkeeping Client Intake Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: Legal name of your business
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_name
+      label: Contact Person Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email Address
+      hint: Business or personal email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_structure
+      label: Business Structure
+      hint: Type of business entity
+      type: select_one
+      options:
+      - Sole proprietorship
+      - Partnership
+      - LLC
+      - Corporation
+      - S-Corp
+      - Non-profit
+      - Other
+      required: true
+    - id: 6
+      name: years_in_business
+      label: Years in Business
+      hint: How long has the business operated
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: monthly_transaction_volume
+      label: Monthly Transaction Volume
+      hint: Approximate number of transactions
+      type: select_one
+      options:
+      - Under 50
+      - 50-100
+      - 100-250
+      - 250-500
+      - 500+
+      required: true
+    - id: 8
+      name: current_accounting_method
+      label: Current Accounting Method
+      hint: How do you currently track finances
+      type: select_one
+      options:
+      - Manual/spreadsheets
+      - Accounting software
+      - Professional bookkeeper
+      - CPA/accountant
+      - No system
+      required: true
+    - id: 9
+      name: accounting_software
+      label: Accounting Software Used
+      hint: Current software if any
+      type: select_one
+      options:
+      - QuickBooks
+      - Xero
+      - FreshBooks
+      - Wave
+      - Other
+      - None
+      required: false
+    - id: 10
+      name: financial_challenges
+      label: Current Financial Challenges
+      hint: What problems are you facing
+      type: select_multiple
+      options:
+      - Disorganized records
+      - Cash flow issues
+      - Tax compliance
+      - Budget planning
+      - Financial reporting
+      - Payroll management
+      - Inventory tracking
+      required: true
+    - id: 11
+      name: specific_needs
+      label: Specific Bookkeeping Needs
+      hint: What services do you need
+      type: select_multiple
+      options:
+      - General bookkeeping
+      - Payroll processing
+      - Tax preparation
+      - Financial statements
+      - Accounts reconciliation
+      - Invoice management
+      - Expense tracking
+      required: true
+    - id: 12
+      name: budget_range
+      label: Monthly Budget Range
+      hint: What can you allocate
+      type: select_one
+      options:
+      - Under $500
+      - $500 - $1,000
+      - $1,000 - $2,500
+      - $2,500 - $5,000
+      - $5,000+
+      required: false
+    - id: 13
+      name: employees_count
+      label: Number of Employees
+      hint: How many people work for you
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: tax_deadline
+      label: Next Tax Deadline
+      hint: When is your next tax filing due
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: additional_notes
+      label: Additional Information
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false

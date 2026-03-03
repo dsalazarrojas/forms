@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Toll Fee Claim Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: toll_amount
+      label: Toll Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: claim_date
+      label: Claim Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false
+    - id: 7
+      name: claim_remarks
+      label: Claim Remarks
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - ChatJ
+      - ChatJimmy
+      required: false
+    - id: 9
+      name: form_submitted
+      label: Form Submitted
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cheque
+      - EFT
+      - Bank Transfer
+      required: false
+    - id: 13
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: claim_id
+      label: Claim ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: claim_reference
+      label: Claim Reference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: claim_note
+      label: Claim Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: customer_id
+      label: Customer ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: payment_id
+      label: Payment ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: claim_amount
+      label: Claim Amount
+      hint: null
+      type: number
+      options: []
+      required: false

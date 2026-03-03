@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: herbal_archetype_assessment
+    pages:
+    - id: 1
+      name: intro_page
+      label: Intro Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: questions_page
+      label: Questions Page
+      hint: Please answer the following questions to assess your current health and
+        wellness state.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: health_status_page
+      label: Health Status
+      hint: Choose your current health status.
+      type: select_multiple
+      options:
+      - Excellent
+      - Fair
+      - Poor
+      required: false
+    - id: 4
+      name: energy_level_page
+      label: Energy Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: sleep_quality_page
+      label: Sleep Quality
+      hint: How many hours of sleep do you get per night?
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: diet_page
+      label: Diet
+      hint: null
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Non-Vegetarian
+      - Vegan
+      - Flexitarian
+      required: false
+    - id: 7
+      name: stress_level_page
+      label: Stress Level
+      hint: Choose your current stress level.
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 8
+      name: exercise_frequency_page
+      label: Exercise Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: mindfulness_practices_page
+      label: Mindfulness Practices
+      hint: How often do you practice mindfulness?
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 10
+      name: self_care_routine_page
+      label: Self-Care Routine
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

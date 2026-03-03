@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: volvo_maintenance_program_registration
+    pages:
+    - id: 1
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_multiple
+      options:
+      - Volvo
+      - SUV
+      - Car
+      - Truck
+      required: false
+    - id: 2
+      name: vin
+      label: VIN
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: year
+      label: Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: service_center
+      label: Service Center
+      hint: null
+      type: select_one
+      options:
+      - Service Center 1
+      - Service Center 2
+      - Service Center 3
+      required: false

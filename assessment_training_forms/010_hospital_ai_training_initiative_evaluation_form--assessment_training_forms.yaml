@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospital AI Training Initiative Evaluation Form
+    pages:
+    - id: 1
+      name: evaluation_form
+      label: Evaluation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: evaluation_form_page_2
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: evaluation_form_page_3
+      label: Additional Comments 2
+      hint: Please provide additional comments about this form
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rating_scale
+      label: Rating
+      hint: Rating
+      type: select_one
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Poor''}'
+      required: false

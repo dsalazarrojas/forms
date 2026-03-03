@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supply Chain Efficiency Award Nomination Form
+    pages:
+    - id: 1
+      name: supply_chain_efficiency_award_nomination
+      label: Supply Chain Efficiency Award Nomination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: nominating_team
+      label: Nominating Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: team_lead_email
+      label: Team Lead Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: team_lead_phone
+      label: Team Lead Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: nominators
+      label: Nominators
+      hint: null
+      type: select_multiple
+      options:
+      - Team Lead
+      - Other
+      required: false
+    - id: 7
+      name: award_category
+      label: Award Category
+      hint: null
+      type: select_one
+      options:
+      - Supply Chain Efficiency
+      - Operational Excellence
+      - Other
+      required: false
+    - id: 8
+      name: nomination_description
+      label: Nomination Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: false

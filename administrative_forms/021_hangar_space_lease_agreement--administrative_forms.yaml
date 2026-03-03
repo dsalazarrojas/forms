@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: hangar_space_lease_agreement
+    pages:
+    - id: 1
+      name: lessee_info
+      label: lessee_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: space_details
+      label: space_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rental_terms
+      label: rental_terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rental_fees
+      label: rental_fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: lessee_signature
+      label: lessee_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: landlord_signature
+      label: landlord_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: date_signed
+      label: date_signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: space_type
+      label: space_type
+      hint: null
+      type: select_one
+      options:
+      - Hangar
+      - T-hangar
+      - Parking
+      - Ramp
+      - Office
+      required: false

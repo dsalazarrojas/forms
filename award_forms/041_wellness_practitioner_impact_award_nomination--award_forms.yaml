@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wellness Practitioner Impact Award Nomination
+    pages:
+    - id: 1
+      name: nomination_title
+      label: Nomination Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: nominee_name
+      label: nominee_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: nominee_email
+      label: nominee_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: practitioner_type
+      label: practitioner_type
+      hint: null
+      type: select_one
+      options:
+      - Practitioner (Wellness Program)
+      - Practitioner (Non-Profit or Community Organization)
+      - Practitioner (Private Practice)
+      - Practitioner (Academia)
+      required: false
+    - id: 5
+      name: practitioner_location
+      label: practitioner_location
+      hint: null
+      type: select_one
+      options:
+      - New York, NY
+      - Los Angeles, CA
+      - Chicago, IL
+      - San Francisco, CA
+      required: false
+    - id: 6
+      name: nomination_date
+      label: Nomination Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: nominator
+      label: Nominator
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: nominator_email
+      label: Nominator Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: nominator_phone
+      label: Nominator Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: nominator_organization
+      label: Nominator Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: nominator_title
+      label: Nominator Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: nominator_address
+      label: Nominator Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: nominator_city
+      label: Nominator City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: nominator_state
+      label: Nominator State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: nominator_zip
+      label: Nominator Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: nominator_country
+      label: Nominator Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: practitioner_achievements
+      label: Practitioner Achievements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: practitioner_services
+      label: Practitioner Services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: practitioner_certifications
+      label: Practitioner Certifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: nomination_comments
+      label: Nomination Comments
+      hint: null
+      type: text
+      options: []
+      required: true

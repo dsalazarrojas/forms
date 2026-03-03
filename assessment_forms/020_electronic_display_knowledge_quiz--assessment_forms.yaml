@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Electronic Display Knowledge Quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_one
+      label: question_one
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: question_one_answer_one
+      label: question_one_answer_one
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: question_two
+      label: question_two
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: question_two_answer
+      label: question_two_answer
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: question_three
+      label: question_three
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,156 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Access Management Lifecycle Checklist
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: Full name of the employee
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Unique identifier for the employee
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Employee's department
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: position_title
+      label: Position Title
+      hint: Job title of the employee
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: manager_name
+      label: Manager Name
+      hint: Name of the employee's direct manager
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: request_date
+      label: Request Date
+      hint: Date the access request was submitted
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: request_type
+      label: Request Type
+      hint: Type of access management request
+      type: select_one
+      options: ["New Hire Access", "Role Change", "Temporary Access", "Access Extension", "Access Revocation", "Access Upgrade", "Access Downgrade"]
+      required: true
+    - id: 8
+      name: requested_systems
+      label: Requested Systems
+      hint: Systems or resources for which access is requested
+      type: select_multiple
+      options: ["Email System", "File Server", "Database", "VPN Access", "HR Portal", "Financial System", "CRM", "Project Management Tool", "Code Repository", "Network Access", "Physical Access", "Other"]
+      required: true
+    - id: 9
+      name: approval_status
+      label: Manager Approval Status
+      hint: Has the manager approved this request?
+      type: select_one
+      options: ["Approved", "Pending", "Rejected", "Conditional Approval"]
+      required: true
+    - id: 10
+      name: approval_date
+      label: Approval Date
+      hint: Date of approval
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: provisioning_date
+      label: Provisioning Date
+      hint: Date when access was provisioned
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: provisioning_by
+      label: Provisioned By
+      hint: Name of the person who provisioned the access
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: access_tested
+      label: Access Tested
+      hint: Has the access been tested and confirmed working?
+      type: select_one
+      options: ["Yes", "No", "In Progress"]
+      required: false
+    - id: 14
+      name: test_date
+      label: Test Date
+      hint: Date when access was tested
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: access_expiration_date
+      label: Access Expiration Date
+      hint: When does temporary access expire?
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: reminder_sent
+      label: Reminder Sent
+      hint: Was a reminder sent before expiration?
+      type: select_one
+      options: ["Yes", "No", "N/A"]
+      required: false
+    - id: 17
+      name: deprovisioning_date
+      label: Deprovisioning Date
+      hint: Date when access was removed
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: deprovisioned_by
+      label: Deprovisioned By
+      hint: Name of the person who removed the access
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: audit_completed
+      label: Audit Completed
+      hint: Has the access lifecycle been audited?
+      type: select_one
+      options: ["Yes", "No", "Scheduled"]
+      required: false
+    - id: 20
+      name: notes
+      label: Additional Notes
+      hint: Any additional information about the access lifecycle
+      type: text
+      options: []
+      required: false

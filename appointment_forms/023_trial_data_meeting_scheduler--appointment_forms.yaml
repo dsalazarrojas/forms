@@ -1,0 +1,115 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Trial Data Meeting Scheduler
+    pages:
+    - id: 1
+      name: user
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: username
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: meeting_date
+      label: meeting_date
+      hint: Select the day you are available for the meeting
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: meeting_time
+      label: meeting_time
+      hint: Select the time you are available for the meeting
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: availability
+      label: meeting_duration
+      hint: How long will you be available for the meeting?
+      type: select_one
+      options:
+      - '30'
+      - '60'
+      - '120'
+      required: true
+    - id: 6
+      name: preferred_meeting_time
+      label: preferred_meeting_time
+      hint: Select the time of day you would like to have the meeting
+      type: select_multiple
+      options:
+      - 9:00 AM
+      - 10:00 AM
+      - 11:00 AM
+      - 12:00 PM
+      - 1:00 PM
+      - 2:00 PM
+      - 3:00 PM
+      - 4:00 PM
+      - 5:00 PM
+      required: true
+    - id: 7
+      name: discussion_topics
+      label: discussion_topics
+      hint: What topics would you like to discuss during the meeting?
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: preferred_meeting_date
+      label: preferred_meeting_date
+      hint: Select a preferred date for the meeting
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: meeting_location
+      label: meeting_location
+      hint: Select the location of the meeting
+      type: select_one
+      options:
+      - New York
+      - Chicago
+      - Los Angeles
+      required: true
+    - id: 10
+      name: discussion_topic
+      label: discussion_topics
+      hint: What topics would you like to discuss during the meeting?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: availability
+      label: availability
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: preferred_time
+      label: preferred_time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,175 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agricultural Innovation Recognition Survey
+    pages:
+    - id: 1
+      name: nominee_name
+      label: Nominee Name
+      hint: Full name of the person being nominated
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: nominee_organization
+      label: Nominee Organization
+      hint: Farm, company, or institution name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: nominator_name
+      label: Nominator Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: nominator_email
+      label: Nominator Email
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: innovation_title
+      label: Innovation Title
+      hint: Name of the innovation being nominated
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: innovation_category
+      label: Innovation Category
+      hint: Select the primary category
+      type: select_one
+      options:
+      - Sustainable Farming Practices
+      - Technology Integration
+      - Crop Development
+      - Equipment Innovation
+      - Water Conservation
+      - Soil Health Improvement
+      - Pest Management
+      - Post-Harvest Solutions
+      required: true
+    - id: 7
+      name: innovation_description
+      label: Innovation Description
+      hint: Describe the innovation in detail
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: implementation_date
+      label: Implementation Date
+      hint: When was this innovation implemented
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: farm_size_affected
+      label: Farm Size Affected (acres)
+      hint: Acreage where innovation is used
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: impact_areas
+      label: Impact Areas
+      hint: Select all areas of impact
+      type: select_multiple
+      options:
+      - Increased Yield
+      - Cost Reduction
+      - Labor Efficiency
+      - Environmental Sustainability
+      - Resource Conservation
+      - Product Quality
+      - Profitability
+      - Worker Safety
+      required: true
+    - id: 11
+      name: quantifiable_results
+      label: Quantifiable Results
+      hint: Provide measurable outcomes
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: sustainability_impact
+      label: Sustainability Impact
+      hint: How does this innovation improve sustainability
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: scalability
+      label: Scalability
+      hint: Can this innovation be scaled to other farms
+      type: select_one
+      options:
+      - Highly scalable
+      - Moderately scalable
+      - Limited scalability
+      - Site-specific only
+      required: true
+    - id: 14
+      name: cost_effectiveness
+      label: Cost Effectiveness
+      hint: Rate the cost effectiveness
+      type: select_one
+      options:
+      - Very cost effective
+      - Cost effective
+      - Neutral
+      - Expensive
+      - Very expensive
+      required: true
+    - id: 15
+      name: adoption_barriers
+      label: Adoption Barriers
+      hint: What barriers exist for wider adoption
+      type: select_multiple
+      options:
+      - High initial cost
+      - Technical complexity
+      - Lack of knowledge
+      - Equipment requirements
+      - Regulatory issues
+      - None
+      required: false
+    - id: 16
+      name: supporting_documentation
+      label: Supporting Documentation Available
+      hint: Do you have documentation to support this nomination
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: previous_recognition
+      label: Previous Recognition
+      hint: Has this innovation received prior awards
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 18
+      name: contact_permission
+      label: Contact Permission
+      hint: Can we contact the nominee directly
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

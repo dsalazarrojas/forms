@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Checking Account Reconciliation Form
+    pages:
+    - id: 1
+      name: section_recon_header
+      label: -- Statement Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: financial_institution_name
+      label: Financial Institution Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reconciliation_statement_date
+      label: Bank Statement Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: checking_account_reference
+      label: Account Name / Reference
+      hint: e.g. Main Operating Account
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_bank_balance
+      label: -- Step 1 - Bank Statement Balance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: statement_ending_balance
+      label: Ending Balance shown on Statement ($)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: total_outstanding_deposits
+      label: Total Outstanding Deposits ($)
+      hint: Deposits not yet shown on statement
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: total_outstanding_checks
+      label: Total Outstanding Checks / Withdrawals ($)
+      hint: Checks written but not yet cleared
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: adjusted_bank_balance_calc
+      label: Adjusted Bank Balance ($)
+      hint: (Ending Balance + Deposits - Checks)
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: section_book_balance
+      label: -- Step 2 - Book Balance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: ledger_book_balance
+      label: Current General Ledger / Book Balance ($)
+      hint: As of statement date
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: unrecorded_bank_fees
+      label: Unrecorded Bank Fees / Interest ($)
+      hint: Fees on statement but not in books
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: adjusted_book_balance_calc
+      label: Adjusted Book Balance ($)
+      hint: (Book Balance - Fees + Interest)
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: section_reconciliation
+      label: -- Step 3 - Final Reconciliation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: reconciliation_difference_amount
+      label: Difference Amount ($)
+      hint: Should be 0-00
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: reconciliation_status_select
+      label: Reconciliation Status
+      hint: null
+      type: select_one
+      options:
+      - Fully Reconciled (Balanced)
+      - Unbalanced (Discrepancy)
+      - Pending Investigation
+      required: true
+    - id: 17
+      name: discrepancy_notes_area
+      label: Explanation of Discrepancies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: reconciled_by_full_name
+      label: Reconciled By (Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: review_approval_date
+      label: Date of Review
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: reviewer_signature_ack
+      label: Reviewer Acknowledgment
+      hint: null
+      type: select_one
+      options:
+      - Reviewed and Approved
+      - Other
+      required: true

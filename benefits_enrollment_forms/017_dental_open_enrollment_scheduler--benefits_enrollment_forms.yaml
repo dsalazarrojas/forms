@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dental Open Enrollment Scheduler
+    pages:
+    - id: 1
+      name: employer_info
+      label: Employer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_info
+      label: Employee Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: meeting_request
+      label: Meeting Request
+      hint: Select your meeting request type
+      type: select_one
+      options:
+      - Broker/Agent
+      - Employee
+      - Employer
+      required: false
+    - id: 4
+      name: employee_dob
+      label: Employee Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: meeting_time
+      label: Meeting Time
+      hint: Select the time of the meeting
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: meeting_duration
+      label: Meeting Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: meeting_location
+      label: Meeting Location
+      hint: Select the location of the meeting
+      type: select_one
+      options:
+      - Office
+      - Home
+      - Clinic
+      required: false
+    - id: 9
+      name: meeting_details
+      label: Meeting Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_info
+      label: Follow Up Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_contact
+      label: Follow Up Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_message
+      label: Follow Up Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_contact
+      label: Assigned Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: assigned_time
+      label: Assigned Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: assigned_duration
+      label: Assigned Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: assigned_location
+      label: Assigned Location
+      hint: Select the location of the assigned meeting
+      type: select_one
+      options:
+      - Office
+      - Home
+      - Clinic
+      required: false
+    - id: 18
+      name: assigned_details
+      label: Assigned Meeting Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_status
+      label: Follow Up Status
+      hint: Select the follow up status of the meeting
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Rescheduled
+      required: false
+    - id: 20
+      name: follow_up_note
+      label: Follow Up Note
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beverage Inventory Assessment
+    pages:
+    - id: 1
+      name: section_header_location
+      label: -- Location Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: location_name
+      label: Location or Business Name
+      hint: Name of bar, restaurant, or establishment
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: manager_name
+      label: Manager or Supervisor Name
+      hint: Person conducting the inventory
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: manager_contact
+      label: Contact Email
+      hint: For inventory follow-up
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: assessment_date
+      label: Inventory Assessment Date
+      hint: When is this assessment being conducted?
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: assessment_time
+      label: Assessment Time
+      hint: Time of inventory count
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: section_header_spirits
+      label: -- Spirits & Liquor Stock --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: vodka_bottles
+      label: Vodka - Number of Bottles in Stock
+      hint: Count of full and partial bottles
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: gin_bottles
+      label: Gin - Number of Bottles in Stock
+      hint: Count of full and partial bottles
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: rum_bottles
+      label: Rum - Number of Bottles in Stock
+      hint: Count of full and partial bottles
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: whiskey_bottles
+      label: Whiskey - Number of Bottles in Stock
+      hint: Count of full and partial bottles
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: tequila_bottles
+      label: Tequila - Number of Bottles in Stock
+      hint: Count of full and partial bottles
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: section_header_wine
+      label: -- Wine & Beer Stock --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: red_wine_bottles
+      label: Red Wine - Number of Bottles in Stock
+      hint: Count of all red wine varieties
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: white_wine_bottles
+      label: White Wine - Number of Bottles in Stock
+      hint: Count of all white wine varieties
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: beer_cases
+      label: Beer - Number of Cases/Units in Stock
+      hint: Count by case or sixpack
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: section_header_mixers
+      label: -- Mixers & Non-Alcoholic Beverages --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: soda_inventory
+      label: Soda & Soft Drinks - Stock Level
+      hint: Estimate percentage of capacity or count units
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: juice_inventory
+      label: Juices - Stock Level
+      hint: Estimate percentage of capacity or count units
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: water_inventory
+      label: Bottled Water - Units in Stock
+      hint: Count of bottles or cases
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: energy_drink_inventory
+      label: Energy Drinks - Units in Stock
+      hint: Count of bottles or cans
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: section_header_supplies
+      label: -- Bar Supplies & Equipment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: ice_supply
+      label: Ice Supply Status
+      hint: Estimated quantity or percentage full
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: glassware_status
+      label: Glassware Condition
+      hint: Any damaged or missing items?
+      type: select_one
+      options:
+      - Fully stocked and good condition
+      - Well stocked, minor wear
+      - Adequate but some items missing
+      - Low stock
+      - Critical - major shortage
+      required: false
+    - id: 25
+      name: section_header_concerns
+      label: -- Inventory Concerns & Notes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: expiration_items
+      label: Items Approaching Expiration
+      hint: List any items nearing expiration date
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: damaged_items
+      label: Damaged or Unusable Items
+      hint: Describe any items that need to be discarded
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: reorder_needed
+      label: Items That Need Reordering
+      hint: List products running low
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: additional_notes
+      label: Additional Notes or Observations
+      hint: Any other inventory concerns?
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,278 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Access Security Assessment Form
+    pages:
+    - id: 1
+      name: assessment_header
+      label: -- Security Assessment Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: assessment_date
+      label: Assessment date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: assessor_name
+      label: Assessor name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: assessor_title
+      label: Assessor title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: building_info
+      label: Building name and address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: building_type
+      label: Building type
+      hint: null
+      type: select_one
+      options:
+      - Office building
+      - Residential
+      - Medical facility
+      - Educational institution
+      - Government building
+      - Industrial
+      - Mixed-use
+      - Other
+      required: true
+    - id: 7
+      name: perimeter_assessment
+      label: -- Perimeter Security Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: fence_condition
+      label: Fence condition and integrity
+      hint: null
+      type: select_one
+      options:
+      - Excellent - Intact and secure
+      - Good - Minor wear
+      - Fair - Noticeable damage
+      - Poor - Multiple breaches
+      - No fence present
+      required: true
+    - id: 9
+      name: gate_security
+      label: Gate security and operation
+      hint: null
+      type: select_one
+      options:
+      - Fully functional
+      - Mostly functional
+      - Partially functional
+      - Not functional
+      - No gates
+      required: true
+    - id: 10
+      name: lighting_perimeter
+      label: Perimeter lighting
+      hint: null
+      type: select_one
+      options:
+      - Adequate throughout
+      - Adequate in most areas
+      - Inadequate in some areas
+      - Poor coverage
+      - None present
+      required: true
+    - id: 11
+      name: entry_points
+      label: Number of monitored entry points
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: entry_control
+      label: Entry point access control
+      hint: null
+      type: select_one
+      options:
+      - Controlled at all entry points
+      - Controlled at main entrance only
+      - Partially controlled
+      - Minimal control
+      - No control measures
+      required: true
+    - id: 13
+      name: access_system_assessment
+      label: -- Access Control System Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: system_type
+      label: Primary access control system type
+      hint: null
+      type: select_one
+      options:
+      - Keycard/badge
+      - Biometric
+      - Code/PIN
+      - Manual (keys/locks)
+      - Multi-factor
+      - Combination of systems
+      - None
+      required: true
+    - id: 15
+      name: system_age
+      label: System age
+      hint: null
+      type: select_one
+      options:
+      - Less than 2 years old
+      - 2-5 years old
+      - 5-10 years old
+      - More than 10 years old
+      - Unknown
+      required: true
+    - id: 16
+      name: system_maintenance
+      label: System maintenance status
+      hint: null
+      type: select_one
+      options:
+      - Current with maintenance plan
+      - Current but no formal plan
+      - Overdue for maintenance
+      - Not maintained
+      - Unknown
+      required: true
+    - id: 17
+      name: credential_management
+      label: Credential management procedures
+      hint: null
+      type: select_one
+      options:
+      - Well-established and documented
+      - Established but informal
+      - Basic procedures only
+      - Minimal procedures
+      - None in place
+      required: true
+    - id: 18
+      name: visitor_management
+      label: -- Visitor and Contractor Management --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: visitor_protocol
+      label: Visitor check-in protocol
+      hint: null
+      type: select_one
+      options:
+      - Formal process with badges
+      - Sign-in required
+      - Verbal verification
+      - Ad hoc / no formal process
+      required: true
+    - id: 20
+      name: contractor_access
+      label: Contractor access procedures
+      hint: null
+      type: select_one
+      options:
+      - Formal vetting and monitoring
+      - Logged and monitored
+      - Minimal documentation
+      - Ad hoc
+      - Not managed
+      required: true
+    - id: 21
+      name: surveillance_assessment
+      label: -- Surveillance and Monitoring --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: cctv_coverage
+      label: CCTV coverage
+      hint: null
+      type: select_one
+      options:
+      - Comprehensive coverage
+      - Good coverage of main areas
+      - Partial coverage
+      - Limited coverage
+      - No cameras
+      required: true
+    - id: 23
+      name: recording_system
+      label: Recording system status
+      hint: null
+      type: select_one
+      options:
+      - Operational and backed up
+      - Operational but limited backup
+      - Non-functional
+      - No recording capability
+      required: true
+    - id: 24
+      name: access_logs
+      label: Access logs maintained
+      hint: null
+      type: select_one
+      options:
+      - Yes, comprehensive logging
+      - Yes, partial logging
+      - Minimal logging
+      - No logging
+      required: true
+    - id: 25
+      name: overall_rating
+      label: -- Overall Assessment Rating --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: security_rating
+      label: Overall security rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent - Comprehensive controls
+      - Good - Most areas covered
+      - Fair - Basic controls present
+      - Poor - Significant gaps
+      - Critical - Major vulnerabilities
+      required: true
+    - id: 27
+      name: vulnerabilities
+      label: Identified vulnerabilities
+      hint: List key security weaknesses
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: recommendations
+      label: Recommendations for improvement
+      hint: Priority actions needed
+      type: text
+      options: []
+      required: true

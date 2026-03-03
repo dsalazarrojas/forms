@@ -1,0 +1,192 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 12 Week Appointment Checklist
+    pages:
+    - id: 1
+      name: section_header_client_info
+      label: '--- Client Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client name
+      hint: Full name of the client
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_id
+      label: Client ID number
+      hint: Unique identifier for the client
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: appointment_date
+      label: Appointment date
+      hint: Date of the current appointment
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: appointment_time
+      label: Appointment time
+      hint: Start time of the appointment
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: week_number
+      label: Week number in program
+      hint: Which week of the 12-week program
+      type: integer
+      options: []
+      required: true
+    - id: 7
+      name: section_header_progress
+      label: '--- Progress Assessment ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: goal_achievement
+      label: Goals achieved this week
+      hint: Rate achievement of planned goals
+      type: select_one
+      options:
+      - Exceeded expectations
+      - Fully met goals
+      - Partially met goals
+      - Did not meet goals
+      - No goals set
+      required: true
+    - id: 9
+      name: motivation_level
+      label: Motivation level (1-10)
+      hint: 1 = very low, 10 = very high
+      type: integer
+      options: []
+      required: true
+    - id: 10
+      name: challenges_faced
+      label: Challenges faced this week (select all)
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Time constraints
+      - Lack of resources
+      - Low energy
+      - External stressors
+      - Motivation issues
+      - Physical limitations
+      - Social factors
+      required: false
+    - id: 11
+      name: physical_metrics
+      label: Physical metrics change
+      hint: Weight, measurements, etc.
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_header_interventions
+      label: '--- Interventions & Support ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: interventions_applied
+      label: Interventions applied
+      hint: Techniques or strategies used
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: education_provided
+      label: Education topics covered
+      hint: Topics discussed with the client
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: homework_assigned
+      label: Homework or tasks assigned
+      hint: Activities for the next week
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: support_needed
+      label: Additional support needed
+      hint: Resources or referrals required
+      type: select_one
+      options:
+      - None needed
+      - Nutritionist consultation
+      - Mental health support
+      - Specialist referral
+      - Equipment adjustment
+      - Family involvement
+      required: false
+    - id: 17
+      name: section_header_followup
+      label: '--- Follow-up Planning ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: next_appointment_date
+      label: Next appointment date
+      hint: Scheduled date for next visit
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: next_appointment_time
+      label: Next appointment time
+      hint: Scheduled time for next visit
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: priority_goals_next_week
+      label: Priority goals for next week
+      hint: Key objectives for upcoming week
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: client_satisfaction
+      label: Client satisfaction rating (1-10)
+      hint: 10 = extremely satisfied
+      type: integer
+      options: []
+      required: true
+    - id: 22
+      name: additional_notes
+      label: Additional notes or observations
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

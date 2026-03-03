@@ -1,0 +1,93 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Certificate Release Authorization Form
+    pages:
+      - id: 1
+        name: section_authorization
+        label: -- Release Authorization --
+        hint: Use this form to authorize release of certificates securely
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: requester_name
+        label: requester name
+        hint: full name of person requesting release
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: requester_email
+        label: requester email
+        hint: contact email for release confirmation
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: certificate_holder_name
+        label: certificate holder name
+        hint: name on the certificate to be released
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: certificate_id
+        label: certificate id
+        hint: id or reference number if available
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: release_to
+        label: release to
+        hint: name of recipient or organization receiving the certificate
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: relationship_to_holder
+        label: relationship to holder
+        hint: relationship of requester to certificate holder
+        type: select_one
+        options:
+          - Self
+          - Employer
+          - Authorized Representative
+          - Other
+        required: true
+      - id: 8
+        name: id_verification
+        label: id verification provided
+        hint: type of ID provided for verification
+        type: select_one
+        options:
+          - Government ID
+          - Employee ID
+          - Not provided
+        required: true
+      - id: 9
+        name: consent_signature
+        label: consent signature name
+        hint: typed name constitutes consent
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: additional_instructions
+        label: additional instructions
+        hint: any special handling or delivery notes
+        type: text
+        options: []
+        required: false

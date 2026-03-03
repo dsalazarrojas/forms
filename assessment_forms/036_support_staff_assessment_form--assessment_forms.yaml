@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Support Staff Assessment Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: employee name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: role
+      label: role
+      hint: null
+      type: select_one
+      options:
+      - Support Staff
+      - Other
+      required: false
+    - id: 4
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_hired
+      label: date_hired
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: manager_name
+      label: manager name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manager_phone
+      label: manager phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_email
+      label: manager email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: performance_issues
+      label: Performance Issues
+      hint: null
+      type: select_multiple
+      options:
+      - Poor Communication
+      - Lack of Initiative
+      - Inflexibility
+      required: false
+    - id: 10
+      name: training_needed
+      label: Training Needed
+      hint: null
+      type: select_multiple
+      options:
+      - Communication Skills
+      - Time Management
+      - Problem Solving
+      required: false
+    - id: 11
+      name: action_planned
+      label: action planned
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: next_steps
+      label: next steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: review_date
+      label: review date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: reviewed_by
+      label: reviewed by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: review_completed
+      label: review completed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: performance_meeting
+      label: performance meeting
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: performance_meeting_employees_attending
+      label: performance meeting employees attending
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: performance_meeting_outcome
+      label: performance meeting outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: performance_meeting_notes
+      label: performance meeting notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_actions
+      label: follow up actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: next_action
+      label: next action
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In Person
+      required: false
+    - id: 23
+      name: next_action_date
+      label: next action date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: next_action_due
+      label: next action due
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: next_action_completed
+      label: next action completed
+      hint: null
+      type: text
+      options: []
+      required: false

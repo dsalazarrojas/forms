@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Desktop Access License Request Form
+    pages:
+    - id: 1
+      name: submitting_user
+      label: Submitting User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: submitter_department
+      label: submitter_department
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''IT''}'
+      - '{''value'': ''Engineering''}'
+      - '{''value'': ''Finance''}'
+      - '{''value'': ''Sales''}'
+      - '{''value'': ''Marketing''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 3
+      name: submitter_job_title
+      label: submitter_job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: submitter_location
+      label: submitter_location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Remote''}'
+      - '{''value'': ''On-site''}'
+      - '{''value'': ''Other''}'
+      - '{''value'': ''Hybrid''}'
+      required: false
+    - id: 5
+      name: submitter_date
+      label: submitter_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: approver
+      label: Approver
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''IT''}'
+      - '{''value'': ''Manager''}'
+      - '{''value'': ''Director''}'
+      - '{''value'': ''CTO''}'
+      required: false
+    - id: 7
+      name: approver_department
+      label: approver_department
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''IT''}'
+      - '{''value'': ''Engineering''}'
+      - '{''value'': ''Finance''}'
+      - '{''value'': ''Sales''}'
+      - '{''value'': ''Marketing''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 8
+      name: approver_location
+      label: approver_location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Remote''}'
+      - '{''value'': ''On-site''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 9
+      name: submitter_note
+      label: Submitter Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: approver_note
+      label: Approver Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: approval_date
+      label: approval_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: submitter_phone
+      label: submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: approver_email
+      label: Approver Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: supporting_document
+      label: supporting_document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: supporting_document2
+      label: supporting_document2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: approver_phone
+      label: Approver Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitter_job_title
+      label: submitter_job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitter_department
+      label: submitter_department
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''IT''}'
+      - '{''value'': ''Engineering''}'
+      - '{''value'': ''Finance''}'
+      - '{''value'': ''Sales''}'
+      - '{''value'': ''Marketing''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 20
+      name: submitter_location
+      label: submitter_location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Remote''}'
+      - '{''value'': ''On-site''}'
+      - '{''value'': ''Hybrid''}'
+      required: false
+    - id: 21
+      name: approver_job_title
+      label: approver_job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: approver_department
+      label: approver_department
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''IT''}'
+      - '{''value'': ''Engineering''}'
+      - '{''value'': ''Finance''}'
+      - '{''value'': ''Sales''}'
+      - '{''value'': ''Marketing''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 23
+      name: approver_location
+      label: approver_location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Remote''}'
+      - '{''value'': ''On-site''}'
+      - '{''value'': ''Hybrid''}'
+      required: false
+    - id: 24
+      name: supporting_document3
+      label: supporting_document3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: approver_comment
+      label: Approver Comment
+      hint: null
+      type: text
+      options: []
+      required: false

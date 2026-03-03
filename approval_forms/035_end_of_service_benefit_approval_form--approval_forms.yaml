@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: End Of Service Benefit Approval Form
+    pages:
+    - id: 1
+      name: employee_details
+      label: employee_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: benefit_selection
+      label: select_benefit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: benefit_details
+      label: benefit_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: approval_date
+      label: approval_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: approver_details
+      label: approver_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: approval_status
+      label: approval_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: reason_for_rejection
+      label: reason_for_rejection
+      hint: null
+      type: text
+      options: []
+      required: false

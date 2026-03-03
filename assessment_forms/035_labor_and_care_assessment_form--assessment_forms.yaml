@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Labor And Care Assessment Form
+    pages:
+    - id: 1
+      name: main_section
+      label: Main Section
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: labor_and_care_assessment
+      label: Labor and Care Assessment
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 3
+      name: labor_and_care_observations
+      label: Labor and Care Observations
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: supervisor_comments
+      label: Supervisor Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submit_to
+      label: Submit To
+      hint: null
+      type: select_one
+      options:
+      - optionA
+      - optionB
+      required: false
+    - id: 7
+      name: date_observed
+      label: Date Observed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time_observed
+      label: Time Observed
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: submitter
+      label: Submitter
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: supervisor_email
+      label: Supervisor Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: supervisor_phone
+      label: Supervisor Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: laborer_name
+      label: Laborer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: laborer_email
+      label: Laborer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: laborer_phone
+      label: Laborer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: laborer_supervisor
+      label: Laborer Supervisor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: laborer_supervisor_email
+      label: Laborer Supervisor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: laborer_supervisor_phone
+      label: Laborer Supervisor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: laborer_supervisor_name
+      label: Laborer Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: care_team_name
+      label: Care Team Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: care_team_supervisor
+      label: Care Team Supervisor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_department
+      label: Submitter Department
+      hint: null
+      type: text
+      options: []
+      required: true

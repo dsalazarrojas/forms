@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nature Award Nomination Form
+    pages:
+    - id: 1
+      name: submission_details
+      label: Submission Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: submission_images
+      label: submission_images
+      hint: null
+      type: select_multiple
+      options:
+      - Image 1
+      - Image 2
+      - Image 3
+      - Image 4
+      - Image 5
+      required: false
+    - id: 3
+      name: photographer_name
+      label: photographer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: photographer_email
+      label: photographer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: photographer_phone
+      label: photographer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: entry_title
+      label: entry_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: entry_description
+      label: entry_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: entry_image_url
+      label: entry_image_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: entry_image_title
+      label: entry_image_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: entry_image_description
+      label: entry_image_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: entry_image_credit
+      label: entry_image_credit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: entry_image_url_alt
+      label: entry_image_url_alt
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: entry_date
+      label: entry_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: entry_time
+      label: entry_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: submission_status
+      label: submission_status
+      hint: null
+      type: select_one
+      options:
+      - Awaiting review
+      - Under review
+      - Rejected
+      required: false
+    - id: 16
+      name: submission_category
+      label: submission_category
+      hint: null
+      type: select_multiple
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: false
+    - id: 17
+      name: submission_tags
+      label: submission_tags
+      hint: null
+      type: select_multiple
+      options:
+      - Tag 1
+      - Tag 2
+      - Tag 3
+      required: false
+    - id: 18
+      name: submission_notes
+      label: submission_notes
+      hint: null
+      type: text
+      options: []
+      required: false

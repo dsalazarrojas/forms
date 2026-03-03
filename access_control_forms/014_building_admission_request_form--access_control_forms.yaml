@@ -1,0 +1,258 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Admission Request Form
+    pages:
+    - id: 1
+      name: visitor_info
+      label: -- Visitor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: visitor_name
+      label: Visitor name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: visitor_company
+      label: Company or organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: visitor_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: visitor_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: identification_type
+      label: Identification type
+      hint: null
+      type: select_one
+      options:
+      - Driver license
+      - Passport
+      - Corporate ID
+      - Government ID
+      - Other
+      required: true
+    - id: 7
+      name: identification_number
+      label: Identification number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: visit_details
+      label: -- Visit Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: visit_purpose
+      label: Purpose of visit
+      hint: null
+      type: select_one
+      options:
+      - Business meeting
+      - Delivery
+      - Maintenance
+      - Sales presentation
+      - Interview
+      - Consultation
+      - Other
+      required: true
+    - id: 10
+      name: purpose_description
+      label: Detailed description of visit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: host_name
+      label: Host or contact person
+      hint: Name of person being visited
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: host_department
+      label: Host department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: host_email
+      label: Host email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: visit_date
+      label: Date of visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: start_time
+      label: Start time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: end_time
+      label: Expected end time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: access_details
+      label: -- Access Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: building_location
+      label: Building location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: floor_or_room
+      label: Floor or room number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: access_areas
+      label: Access areas required
+      hint: null
+      type: select_multiple
+      options:
+      - Main entrance
+      - Specific floor
+      - Conference room
+      - Lab area
+      - Parking
+      - Common areas
+      - Restricted area
+      required: true
+    - id: 21
+      name: additional_visitors
+      label: Additional visitors expected
+      hint: null
+      type: select_one
+      options:
+      - Yes, number - enter below
+      - false
+      required: false
+    - id: 22
+      name: additional_count
+      label: Number of additional visitors
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: additional_names
+      label: Names of additional visitors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: security_section
+      label: -- Security and Compliance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: background_check
+      label: Background check on file
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not required
+      required: false
+    - id: 26
+      name: nda_agreement
+      label: NDA or confidentiality agreement
+      hint: null
+      type: select_one
+      options:
+      - Already signed
+      - Need to sign
+      - Not required
+      required: false
+    - id: 27
+      name: safety_training
+      label: Completed safety training
+      hint: null
+      type: select_one
+      options:
+      - true
+      - No, will complete on-site
+      - Not required
+      required: false
+    - id: 28
+      name: special_requirements
+      label: Special requirements or accommodations
+      hint: Dietary, accessibility, etc.
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: approval_section
+      label: -- Approval Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: pre_approval
+      label: Does host pre-approve this visit?
+      hint: null
+      type: select_one
+      options:
+      - Yes, pre-approved
+      - Yes, will confirm
+      - false
+      - Pending confirmation
+      required: false
+    - id: 31
+      name: visitor_acknowledge
+      label: I acknowledge building rules and security procedures
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true

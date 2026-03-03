@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Black Friday Order Form Template
+    pages:
+    - id: 1
+      name: special_order_header
+      label: -- Black Friday Special Order Form --
+      hint: Get the best deals of the year!
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: Order confirmation will be sent here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: shipping_header
+      label: -- Shipping Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: shipping_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: shipping_zip
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: products_header
+      label: -- Your Order --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: selected_products
+      label: Select Products to Order
+      hint: Sale prices already applied
+      type: select_multiple
+      options:
+      - Wireless Headphones - 40% Off
+      - Smart Watch - 30% Off
+      - Laptop Pro - 25% Off
+      - Portable Speaker - 50% Off
+      required: true
+    - id: 11
+      name: items_quantity
+      label: Quantity of Items
+      hint: Total number of items
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: coupon_code
+      label: Discount Coupon Code
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: payment_header
+      label: -- Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: payment_choice
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Apple Pay
+      - Google Pay
+      required: true
+    - id: 15
+      name: thank_you_note
+      label: Thank you for your Black Friday purchase!
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ayurveda Nutrition Assessment Form
+    pages:
+    - id: 1
+      name: section_patient_basics
+      label: -- Patient Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name_nutri
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_dob_nutri
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_email_nutri
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: section_physical_metrics
+      label: -- Physical Metrics --
+      hint: Providing current body measurements
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: height_nutri
+      label: Height
+      hint: e.g. 175 cm
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: weight_nutri
+      label: Current Weight
+      hint: e.g. 70 kg
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: health_concern_nutri
+      label: Primary Health Concern
+      hint: What is your main reason for seeking a nutrition assessment?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: dominant_dosha_nutri
+      label: Dominant Dosha (Prakriti)
+      hint: If known from previous assessment
+      type: select_one
+      options:
+      - Vata
+      - Pitta
+      - Kapha
+      - Bi-Doshic (Vata-Pitta)
+      - Bi-Doshic (Pitta-Kapha)
+      - Bi-Doshic (Vata-Kapha)
+      - Tridoshic (V-P-K)
+      - Unknown
+      required: true
+    - id: 10
+      name: section_lifestyle_nutrition
+      label: -- Lifestyle and Nutrition Habits --
+      hint: Help us understand your current routine
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: digestion_quality_nutri
+      label: Quality of Digestion (Agni)
+      hint: Choose the most accurate description
+      type: select_one
+      options:
+      - Tikshnagni (Sharp/Intense)
+      - Vishamagni (Irregular/Variable)
+      - Mandagni (Slow/Sluggish)
+      - Samagni (Balanced/Normal)
+      required: true
+    - id: 12
+      name: breakfast_habit
+      label: Typical Breakfast
+      hint: Describe what you eat and at what time
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: lunch_habit
+      label: Typical Lunch
+      hint: Describe what you eat and at what time
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: dinner_habit
+      label: Typical Dinner
+      hint: Describe what you eat and at what time
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: snacks_cravings
+      label: Snacks and Frequent Cravings
+      hint: What do you reach for between meals?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: energy_level_rating
+      label: Average Energy Level
+      hint: Rate from 1 (Low) to 5 (High)
+      type: select_one
+      options:
+      - 1 - Consistently Fatigued
+      - 2 - Low Energy
+      - 3 - Moderate
+      - 4 - Good
+      - 5 - Highly Energized
+      required: true
+    - id: 17
+      name: sleep_quality_rating
+      label: Sleep Quality Rating
+      hint: Rate from 1 (Poor) to 5 (Excellent)
+      type: select_one
+      options:
+      - 1 - Poor/Restless
+      - 2 - Fair
+      - 3 - Average
+      - 4 - Good
+      - 5 - Excellent
+      required: true
+    - id: 18
+      name: exercise_habits_nutri
+      label: Exercise and Activity Habits
+      hint: null
+      type: select_one
+      options:
+      - Sedentary (Minimal Activity)
+      - Moderate (1-3 times per week)
+      - Active (Daily or Intense)
+      required: true
+    - id: 19
+      name: section_clinical_notes
+      label: -- Clinical and Assessment Notes --
+      hint: Internal use for practitioner recommendations
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: medications_supplements
+      label: Current Medications or Supplements
+      hint: List all being taken
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: diet_plan_recommendation
+      label: Recommended Ayurvedic Diet Plan
+      hint: To be filled out by the practitioner
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: practitioner_signature_nutri
+      label: Practitioner Digital Signature
+      hint: null
+      type: text
+      options: []
+      required: true

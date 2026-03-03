@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Staff Application Form
+    pages:
+    - id: 1
+      name: staff_applicant_contact_header
+      label: -- Camp Staff Applicant Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_full_name_staff
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email_staff
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: applicant_phone_staff
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: applicant_address_staff
+      label: Current Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: staff_experience_header
+      label: -- Background and Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: position_applied_for_staff
+      label: Preferred Position - Role
+      hint: null
+      type: select_one
+      options:
+      - Senior Counselor (18+)
+      - Junior Counselor (16-17)
+      - Activity Specialist (Music, Arts, Sports)
+      - Waterfront / Lifeguard
+      - Camp Nurse / Medical Staff
+      - Kitchen / Maintenance Staff
+      required: true
+    - id: 8
+      name: education_level_staff
+      label: Highest Education Level Completed
+      hint: null
+      type: select_one
+      options:
+      - Some High School
+      - High School Diploma - GED
+      - Some College
+      - Associate Degree
+      - Bachelor Degree
+      - Graduate Degree
+      required: true
+    - id: 9
+      name: work_history_summary_staff
+      label: Previous Work or Volunteer History
+      hint: Please list relevant roles and responsibilities
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: experience_with_children_staff
+      label: Experience Working with Children
+      hint: Describe your previous experience in a supervisory role with youth
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: staff_certifications_held
+      label: Current Certifications Held
+      hint: null
+      type: select_multiple
+      options:
+      - First Aid / CPR
+      - Lifeguarding (Red Cross/YMCA)
+      - Wilderness First Responder
+      - Food Handlers Permit
+      - CDL / Bus Driver License
+      - None of the above
+      required: false
+    - id: 12
+      name: why_work_here_staff
+      label: Why are you interested in working at our camp?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: seasonal_availability_staff
+      label: Seasonal Availability
+      hint: Which sessions are you available to work?
+      type: select_multiple
+      options:
+      - Staff Training (Required)
+      - Session 1 (June)
+      - Session 2 (July)
+      - Session 3 (August)
+      required: true
+    - id: 14
+      name: professional_references_staff
+      label: Professional References (Name and Contact)
+      hint: List at least two people not related to you
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: staff_app_signature_digital
+      label: Applicant Electronic Signature
+      hint: I certify that all information is true and accurate
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: staff_app_date_submitted
+      label: Date of Application
+      hint: null
+      type: date
+      options: []
+      required: true

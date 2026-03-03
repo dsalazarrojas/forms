@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Account Modification Request Form
+    pages:
+    - id: 1
+      name: section_account_holder
+      label: -- Account Holder Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: account_holder_name
+      label: Account Holder Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: account_number
+      label: Account Number or ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address on File
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number on File
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_modification_details
+      label: -- Modification Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: modification_type
+      label: Type of Modification Requested
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Update personal information (name, address)
+      - Change email address
+      - Change phone number
+      - Update billing information
+      - Change account plan or tier
+      - Add or remove authorized users
+      - Update security settings
+      - Other
+      required: true
+    - id: 8
+      name: current_value
+      label: Current Information (what is changing)
+      hint: Provide the current value of the field being modified
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: new_value
+      label: New Information (what it should be changed to)
+      hint: Provide the updated value
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: reason_for_change
+      label: Reason for Modification
+      hint: null
+      type: select_one
+      options:
+      - Change in personal circumstances
+      - Correction of error
+      - Business restructuring
+      - Service upgrade or downgrade
+      - Security concern
+      - Other
+      required: true
+    - id: 11
+      name: effective_date
+      label: Requested Effective Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: section_verification
+      label: -- Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: identity_verified
+      label: Has Identity Been Verified
+      hint: null
+      type: select_one
+      options:
+      - true
+      - No - Verification pending
+      required: true
+    - id: 14
+      name: verification_method
+      label: Verification Method Used
+      hint: null
+      type: select_one
+      options:
+      - Government-issued ID
+      - Security questions
+      - Two-factor authentication
+      - In-person verification
+      - Not yet verified
+      required: true
+    - id: 15
+      name: additional_notes
+      label: Additional Notes or Instructions
+      hint: null
+      type: text
+      options: []
+      required: false

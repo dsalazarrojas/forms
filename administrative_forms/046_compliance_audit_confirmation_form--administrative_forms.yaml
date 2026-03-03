@@ -1,0 +1,276 @@
+inputSchema:
+  type: object
+  properties:
+    title: Compliance Audit Confirmation Form
+    pages:
+    - id: 1
+      name: audit_date
+      label: Audit Date
+      hint: Date of audit
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: auditor_name
+      label: Auditor Name
+      hint: Name of auditor
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: auditor_credentials
+      label: Auditor Credentials
+      hint: Qualifications and certifications
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: audit_firm
+      label: Audit Firm
+      hint: Name of audit organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Organization being audited
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_address
+      label: Company Address
+      hint: Location of audit
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: audit_type
+      label: Audit Type
+      hint: What type of audit
+      type: select_one
+      options:
+      - Initial certification audit
+      - Surveillance audit
+      - Recertification audit
+      - Internal audit
+      - External audit
+      - Special audit
+      required: true
+    - id: 8
+      name: audit_scope
+      label: Audit Scope
+      hint: What is being audited
+      type: select_one
+      options:
+      - Full organization
+      - Specific department
+      - Specific location
+      - Specific process
+      - Multiple locations
+      required: true
+    - id: 9
+      name: audit_standard
+      label: Audit Standard
+      hint: Which standard
+      type: select_one
+      options:
+      - ISO 9001
+      - ISO 14001
+      - ISO 27001
+      - ISO 45001
+      - SOC 2
+      - HIPAA
+      - GDPR
+      - Other
+      required: true
+    - id: 10
+      name: audit_duration
+      label: Expected Duration
+      hint: How long will audit take
+      type: select_one
+      options:
+      - 1 day
+      - 2 to 3 days
+      - 4 to 5 days
+      - 1 to 2 weeks
+      - Over 2 weeks
+      required: true
+    - id: 11
+      name: primary_contact
+      label: Primary Contact
+      hint: Main contact person
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: primary_contact_email
+      label: Primary Contact Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: primary_contact_phone
+      label: Primary Contact Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: departments_involved
+      label: Departments Involved
+      hint: Which departments will be audited
+      type: select_multiple
+      options:
+      - Executive management
+      - Human Resources
+      - Operations
+      - IT
+      - Finance
+      - Quality Assurance
+      - Customer Service
+      - Sales
+      - Other
+      required: true
+    - id: 15
+      name: documentation_ready
+      label: Is Documentation Ready
+      hint: Are required documents prepared
+      type: select_one
+      options:
+      - Yes - all ready
+      - Mostly - minor gaps
+      - Partially - working on it
+      - No - need more time
+      required: true
+    - id: 16
+      name: previous_audits
+      label: Previous Audits
+      hint: Have you been audited before
+      type: select_one
+      options:
+      - Yes - no findings
+      - Yes - minor findings
+      - Yes - major findings
+      - No - first audit
+      required: true
+    - id: 17
+      name: previous_findings_status
+      label: Status of Previous Findings
+      hint: If applicable
+      type: select_one
+      options:
+      - All closed
+      - Most closed
+      - Some closed
+      - None closed
+      - Not applicable
+      required: false
+    - id: 18
+      name: areas_of_concern
+      label: Areas of Concern
+      hint: Any known issues
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: special_requirements
+      label: Special Requirements
+      hint: Any accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: access_requirements
+      label: Access Requirements
+      hint: Security clearance or badges needed
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: equipment_needed
+      label: Equipment Needed
+      hint: What will auditor need
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: meeting_rooms_required
+      label: Meeting Rooms Required
+      hint: Space for audit activities
+      type: select_one
+      options:
+      - Yes - 1 room
+      - Yes - 2 to 3 rooms
+      - Yes - 4 or more
+      - No - not needed
+      required: true
+    - id: 23
+      name: opening_meeting_date
+      label: Opening Meeting Date
+      hint: When does audit begin
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: opening_meeting_time
+      label: Opening Meeting Time
+      hint: Start time
+      type: time
+      options: []
+      required: true
+    - id: 25
+      name: closing_meeting_date
+      label: Closing Meeting Date
+      hint: When does audit end
+      type: date
+      options: []
+      required: true
+    - id: 26
+      name: closing_meeting_time
+      label: Closing Meeting Time
+      hint: End time
+      type: time
+      options: []
+      required: true
+    - id: 27
+      name: confirmation_status
+      label: Confirmation Status
+      hint: Audit confirmation
+      type: select_one
+      options:
+      - Confirmed - proceed as scheduled
+      - Confirmed - with modifications
+      - Pending - need changes
+      - Cancelled - reschedule needed
+      required: true
+    - id: 28
+      name: modifications_needed
+      label: Modifications Needed
+      hint: Any changes required
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: company_representative
+      label: Company Representative
+      hint: Who confirms for company
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: representative_signature
+      label: Representative Signature
+      hint: Type name as signature
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: signature_date
+      label: Signature Date
+      hint: Date of confirmation
+      type: date
+      options: []
+      required: true

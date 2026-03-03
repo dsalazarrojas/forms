@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: first_meeting_date_selection
+    pages:
+    - id: 1
+      name: first_meeting_date
+      label: First Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: time_of_day
+      label: Time of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: service_provider
+      label: Service Provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: service_provider_name
+      label: Select a Service Provider
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: appointment_duration
+      label: Appointment Duration
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Class Attendance Form
+    pages:
+    - id: 1
+      name: virtual_class_attendance_form
+      label: Virtual Class
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: attendance_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: attendance_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: attendance_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Present
+      - Absent
+      - Late
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

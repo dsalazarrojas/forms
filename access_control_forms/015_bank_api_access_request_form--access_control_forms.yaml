@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bank API Access Request Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: Your organization name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_address
+      label: Company Address
+      hint: Full business address
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_website
+      label: Company Website
+      hint: URL of your website
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_registration_number
+      label: Company Registration Number
+      hint: Business registration or tax ID
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_full_name
+      label: Contact Full Name
+      hint: Primary contact person
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_title
+      label: Contact Title
+      hint: Job title or position
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: Business email address
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: Direct phone number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: api_access_type
+      label: API Access Type
+      hint: What level of access do you need
+      type: select_one
+      options:
+      - Read-Only Access
+      - Transaction Access
+      - Payment Initiation
+      - Full API Access
+      - Sandbox Testing Only
+      required: true
+    - id: 10
+      name: api_endpoints_needed
+      label: API Endpoints Needed
+      hint: Which specific APIs do you require
+      type: select_multiple
+      options:
+      - Account Information
+      - Transaction History
+      - Balance Inquiry
+      - Payment Processing
+      - Fund Transfer
+      - Direct Debit
+      - Standing Orders
+      - Card Services
+      - Foreign Exchange
+      - Loan Services
+      required: true
+    - id: 11
+      name: use_case_description
+      label: Use Case Description
+      hint: How will you use the API
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: expected_transaction_volume
+      label: Expected Transaction Volume
+      hint: Estimated API calls per day
+      type: select_one
+      options:
+      - Under 100
+      - 100-1000
+      - 1000-10000
+      - 10000-100000
+      - Over 100000
+      required: true
+    - id: 13
+      name: integration_timeline
+      label: Integration Timeline
+      hint: When do you plan to go live
+      type: select_one
+      options:
+      - Within 1 month
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - Planning phase
+      required: true
+    - id: 14
+      name: technical_contact_name
+      label: Technical Contact Name
+      hint: Developer or technical lead
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: technical_contact_email
+      label: Technical Contact Email
+      hint: Developer email
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: development_environment
+      label: Development Environment
+      hint: What platform will you integrate with
+      type: select_one
+      options:
+      - Web Application
+      - Mobile App iOS
+      - Mobile App Android
+      - Desktop Software
+      - Enterprise System
+      - Other
+      required: true
+    - id: 17
+      name: security_certifications
+      label: Security Certifications
+      hint: Does your company have security certifications
+      type: select_multiple
+      options:
+      - ISO 27001
+      - SOC 2
+      - PCI DSS
+      - GDPR Compliant
+      - HIPAA Compliant
+      - None
+      required: false
+    - id: 18
+      name: data_handling_policy
+      label: Data Handling Policy
+      hint: URL to your privacy policy
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: compliance_acknowledgment
+      label: Compliance Acknowledgment
+      hint: Do you agree to comply with regulations
+      type: select_one
+      options:
+      - Yes, fully compliant
+      - Working toward compliance
+      - Need guidance
+      required: true
+    - id: 20
+      name: testing_requirements
+      label: Testing Requirements
+      hint: Do you need sandbox access
+      type: select_one
+      options:
+      - Yes, sandbox required
+      - No, ready for production
+      - Both
+      required: true
+    - id: 21
+      name: support_level_needed
+      label: Support Level Needed
+      hint: Level of technical support
+      type: select_one
+      options:
+      - Standard Support
+      - Priority Support
+      - Dedicated Account Manager
+      - Self-Service Only
+      required: true
+    - id: 22
+      name: previous_banking_partner
+      label: Previous Banking API Partner
+      hint: Have you used banking APIs before
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: terms_acceptance
+      label: Terms and Conditions Acceptance
+      hint: Do you agree to the terms
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true
+    - id: 25
+      name: submission_date
+      label: Submission Date
+      hint: Date of this request
+      type: date
+      options: []
+      required: true

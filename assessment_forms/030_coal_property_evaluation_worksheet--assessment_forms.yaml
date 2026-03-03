@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coal Property Evaluation Worksheet
+    pages:
+    - id: 1
+      name: section_property_info
+      label: -- Property Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: property_id
+      label: Property ID
+      hint: Unique identifier for this property
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: property_name
+      label: Property Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: property_location
+      label: Property Location
+      hint: County, state, coordinates
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: property_acreage
+      label: Property Acreage
+      hint: Total acres
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: evaluator_name
+      label: Evaluator Name
+      hint: Person conducting evaluation
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_coal_seam
+      label: -- Coal Seam Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: coal_seam_name
+      label: Coal Seam Name
+      hint: Primary seam present
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: seam_thickness
+      label: Coal Seam Thickness
+      hint: In feet
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: seam_depth
+      label: Average Depth of Seam
+      hint: In feet below surface
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: coal_quality_assessment
+      label: Coal Quality Assessment
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 13
+      name: section_geological
+      label: -- Geological Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: overburden_thickness
+      label: Overburden Thickness
+      hint: In feet
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: ground_stability
+      label: Ground Stability Assessment
+      hint: null
+      type: select_one
+      options:
+      - Very stable
+      - Stable
+      - Moderate concerns
+      - Significant concerns
+      - Unstable
+      required: true
+    - id: 16
+      name: water_conditions
+      label: Water Conditions
+      hint: Presence of water issues
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_accessibility
+      label: -- Access and Infrastructure --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: road_access
+      label: Road Access Assessment
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - None
+      required: true
+    - id: 19
+      name: utility_proximity
+      label: Proximity to Utilities
+      hint: Distance to power, water, etc.
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: environmental_constraints
+      label: Environmental Constraints
+      hint: Wetlands, protected areas, etc.
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_reserves
+      label: -- Reserve Estimation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: estimated_reserves
+      label: Estimated Coal Reserves
+      hint: In tons
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: recovery_percentage
+      label: Estimated Recovery Percentage
+      hint: Percentage that can be extracted
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: section_financial
+      label: -- Financial Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: estimated_value
+      label: Estimated Property Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: development_cost_estimate
+      label: Development Cost Estimate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: section_recommendation
+      label: -- Overall Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: development_potential
+      label: Development Potential
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Limited
+      - Not viable
+      required: true
+    - id: 29
+      name: evaluator_notes
+      label: Evaluator Notes and Recommendations
+      hint: Detailed assessment comments
+      type: text
+      options: []
+      required: true

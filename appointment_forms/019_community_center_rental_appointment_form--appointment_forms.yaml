@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Center Rental Appointment Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester name
+      hint: Person requesting rental
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization_name
+      label: Organization name if applicable
+      hint: Leave blank if private event
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_date
+      label: Event date
+      hint: Date of rental
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: start_time
+      label: Start time
+      hint: Event start time
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: end_time
+      label: End time
+      hint: Event end time
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: expected_attendance
+      label: Expected attendance
+      hint: Approximate number of attendees
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: facility_required
+      label: Facility required
+      hint: Choose the space needed
+      type: select_one
+      options:
+      - Main hall
+      - Meeting room A
+      - Meeting room B
+      - Outdoor space
+      required: true
+    - id: 8
+      name: special_equipment
+      label: Special equipment needed
+      hint: AV tables chairs staging
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact phone number
+      hint: Phone for day of event
+      type: text
+      options: []
+      required: true

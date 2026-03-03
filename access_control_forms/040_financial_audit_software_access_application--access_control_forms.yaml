@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Audit Software Access Application
+    pages:
+    - id: 1
+      name: financial_audit_software_access_application_form
+      label: Financial Audit Software Access Application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: requester_details
+      label: Requester Details
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Internal'', ''value'': ''internal''}'
+      - '{''label'': ''External'', ''value'': ''external''}'
+      required: false
+    - id: 3
+      name: access_levels
+      label: Access Levels
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: approve
+      label: Approve
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Approve'', ''value'': ''approve''}'
+      - '{''label'': ''Decline'', ''value'': ''decline''}'
+      required: false
+    - id: 5
+      name: approve_date
+      label: Approve Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: approve_time
+      label: Approve Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: remarks
+      label: Remarks
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Approve'', ''value'': ''approve''}'
+      - '{''label'': ''Decline'', ''value'': ''decline''}'
+      required: false

@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Statement Form
+    pages:
+    - id: 1
+      name: financial_statement_form
+      label: Financial Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Accountant Forms
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: Describe your financial report
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: submit_button
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Print
+      - Email
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: print_report
+      label: Print Report
+      hint: null
+      type: select_one
+      options:
+      - Print
+      - Email
+      required: false

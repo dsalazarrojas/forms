@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Psychosocial Assessment Form
+    pages:
+    - id: 1
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: mental_status
+      label: Mental Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: mood
+      label: Mood
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: anxiety_level
+      label: Anxiety Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: depression_level
+      label: Depression Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: social_skills
+      label: Social Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: family_history
+      label: Family History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_conditions_other
+      label: Other Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: treatment_goal
+      label: Treatment Goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: social_support
+      label: Social Support
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: family_dynamics
+      label: Family Dynamics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: mental_status_notes
+      label: Mental Status Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: mental_status_frequency
+      label: Mental Status Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: mental_status_impact
+      label: Mental Status Impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: mental_status_prevalence
+      label: Mental Status Prevalence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: assessment_by_doctor
+      label: Assessment By
+      hint: null
+      type: select_one
+      options:
+      - Doctor
+      - Nurse Practitioner
+      - Social Worker
+      required: false
+    - id: 21
+      name: patient_consent
+      label: Patient Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: patient_informed
+      label: Patient Informed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 23
+      name: doctor_signature
+      label: Doctor Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: false

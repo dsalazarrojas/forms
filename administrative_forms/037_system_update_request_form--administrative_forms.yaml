@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: system_update_request_form
+    pages:
+    - id: 1
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''IT Department'', ''value'': 1}'
+      - '{''label'': ''HR'', ''value'': 2}'
+      - '{''label'': ''Admin'', ''value'': 3}'
+      required: true
+    - id: 4
+      name: update_type
+      label: Update Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Software'', ''value'': 1}'
+      - '{''label'': ''Hardware'', ''value'': 2}'
+      - '{''label'': ''Network'', ''value'': 3}'
+      required: true
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: software_version
+      label: Software Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: hardware_type
+      label: Hardware Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: update_date
+      label: Update Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Pending Review'', ''value'': 1}'
+      - '{''label'': ''Approved'', ''value'': 2}'
+      - '{''label'': ''Denied'', ''value'': 3}'
+      required: true
+    - id: 10
+      name: priority
+      label: Priority
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Low'', ''value'': 1}'
+      - '{''label'': ''Medium'', ''value'': 2}'
+      - '{''label'': ''High'', ''value'': 3}'
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true

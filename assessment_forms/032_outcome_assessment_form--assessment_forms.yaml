@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: outcome_assessment_form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: outcome_assessment
+      label: outcome assessment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: program_name
+      label: program name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: outcome_assessment_form_outcome_effectiveness
+      label: outcome effectiveness
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very effective''}'
+      - '{''label'': ''Somewhat effective''}'
+      - '{''label'': ''Not very effective''}'
+      - '{''label'': ''Not at all effective''}'
+      required: false
+    - id: 7
+      name: outcome_assessment_form_outcome_achievements
+      label: outcome achievements
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 8
+      name: outcome_assessment_form_outcome_achievements_other
+      label: other (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: outcome_assessment_form_outcome_impact
+      label: outcome impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: outcome_assessment_form_outcome_benefits
+      label: outcome benefits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: outcome_assessment_form_outcome_adverse_effects
+      label: outcome adverse effects
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: outcome_assessment_form_outcome_recommendations
+      label: outcome recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: outcome_assessment_form_outcome_sustainability
+      label: outcome sustainability
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Sustained''}'
+      - '{''label'': ''Not sustained''}'
+      required: false
+    - id: 14
+      name: outcome_assessment_form_outcome_sustainability_other
+      label: other (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: outcome_assessment_form_outcome_further_actions
+      label: outcome further actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: outcome_assessment_form_outcome_next_steps
+      label: outcome next steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: outcome_assessment_form_outcome_notes
+      label: outcome notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: outcome_assessment_form_outcome_additional_info
+      label: outcome additional info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: outcome_assessment_form_outcome_additional_info_other
+      label: other (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: outcome_assessment_form_outcome_assessment_rating
+      label: outcome assessment rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: outcome_assessment_form_outcome_impact_rating
+      label: outcome impact rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: outcome_assessment_form_outcome_effectiveness_rating
+      label: outcome effectiveness rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: outcome_assessment_form_outcome_achievment
+      label: outcome achievment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: outcome_assessment_form_outcome_beneficial_rating
+      label: outcome beneficial rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: outcome_assessment_form_outcome_adverse_effects_rating
+      label: outcome adverse effects rating
+      hint: null
+      type: number
+      options: []
+      required: false

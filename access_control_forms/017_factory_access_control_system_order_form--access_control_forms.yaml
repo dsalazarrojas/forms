@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Factory Access Control System Order Form
+    pages:
+    - id: 1
+      name: factory_access_control_system_form
+      label: factory_access_control_system_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: install_request
+      label: install_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: install_date
+      label: install_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: install_time
+      label: install_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: centralize_data
+      label: centralize_data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: facility_teams
+      label: facility_teams
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: security_teams
+      label: security_teams
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: facility_name
+      label: facility_name
+      hint: null
+      type: text
+      options: []
+      required: false

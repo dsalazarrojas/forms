@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Web Issue Permission Form
+    pages:
+    - id: 1
+      name: issue_summary
+      label: Issue Summary
+      hint: Briefly describe the issue
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: issue_description
+      label: Issue Description
+      hint: Provide more details about the issue
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: supervisor_approval
+      label: Supervisor Approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: it_staff
+      label: IT Staff
+      hint: Select all relevant staff members
+      type: select_multiple
+      options:
+      - IT Support
+      - Web Developers
+      - System Administrators
+      required: false
+    - id: 5
+      name: date_time
+      label: Date and Time
+      hint: When was the issue reported?
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: email_notification
+      label: Email Notification
+      hint: null
+      type: email
+      options: []
+      required: false

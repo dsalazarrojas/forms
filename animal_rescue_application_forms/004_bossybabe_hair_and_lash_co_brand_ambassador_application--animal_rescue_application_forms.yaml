@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: BossyBabe Brand Ambassador Application
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact email
+      hint: Best email for contact
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone number
+      hint: Mobile or primary phone
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: social_handles
+      label: Social media handles
+      hint: List primary platforms and usernames
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: experience_summary
+      label: Experience summary
+      hint: Brief summary of relevant experience
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: why_interested
+      label: Why interested
+      hint: Explain why you want to represent the brand
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: availability
+      label: Availability
+      hint: Typical hours and time zone
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: portfolio_links
+      label: Portfolio links
+      hint: Links to work samples or press
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: terms_agreement
+      label: Terms agreement
+      hint: Confirm acceptance of ambassador terms
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: Any other information to share
+      type: text
+      options: []
+      required: false

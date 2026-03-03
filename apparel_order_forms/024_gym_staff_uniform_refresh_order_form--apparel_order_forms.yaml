@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Staff Uniform Refresh Order Form
+    pages:
+    - id: 1
+      name: gym_staff_uniform_refresh_order_form_1
+      label: uniform_reorder_requests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: staff_name
+      label: staff_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: staff_size
+      label: staff_size
+      hint: 'null'
+      type: select_one
+      options:
+      - small
+      - medium
+      - large
+      required: false
+    - id: 4
+      name: quantity
+      label: quantity_requested
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: delivery_type
+      label: delivery_type
+      hint: null
+      type: select_one
+      options:
+      - delivery
+      - pickup
+      required: false
+    - id: 6
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: pickup_date
+      label: pickup_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: staff_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: staff_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: gym_name
+      label: gym_name
+      hint: null
+      type: text
+      options: []
+      required: false

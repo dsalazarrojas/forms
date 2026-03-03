@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Time Clock Check In/Check Out Log
+    pages:
+    - id: 1
+      name: check_in_time
+      label: Check In Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: shift_duration
+      label: Shift Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: check_out_time
+      label: Check Out Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: check_in_date
+      label: Check In Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: supervisor
+      label: Supervisor
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Manager 1''}'
+      - '{''value'': ''Manager 2''}'
+      - '{''value'': ''Manager 3''}'
+      required: false
+    - id: 8
+      name: shift_date
+      label: Shift Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: check_out_date
+      label: Check Out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: check_in_user
+      label: Check In User
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''John Doe''}'
+      - '{''value'': ''Jane Doe''}'
+      - '{''value'': ''Jim Doe''}'
+      required: false

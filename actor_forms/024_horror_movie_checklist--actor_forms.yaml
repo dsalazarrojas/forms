@@ -1,0 +1,116 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: horror-movie-checklist
+    pages:
+    - id: 1
+      name: title
+      label: Movie Title
+      hint: Title of the horror movie
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: watched
+      label: Watched
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: watched_when
+      label: When
+      hint: 'null'
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: watched_at
+      label: At
+      hint: Time of last viewing
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: watched_at_time
+      label: Time
+      hint: Time of last viewing
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: watched_by
+      label: Watched By
+      hint: 'null'
+      type: select_multiple
+      options:
+      - Me
+      - Family
+      - Friend
+      - Group
+      required: false
+    - id: 8
+      name: watched_with
+      label: Watched With
+      hint: 'null'
+      type: select_multiple
+      options:
+      - Alone
+      - Friend
+      - Family
+      - Group
+      required: false
+    - id: 9
+      name: watched_again
+      label: Watched Again
+      hint: 'null'
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: watched_when_again
+      label: When Again
+      hint: 'null'
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: watched_at_again
+      label: At
+      hint: Time of last re-watch
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: watched_by_again
+      label: Watched By
+      hint: 'null'
+      type: select_multiple
+      options:
+      - Me
+      - Family
+      - Friend
+      - Group
+      required: false

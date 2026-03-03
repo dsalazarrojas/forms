@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Race Track Incident Form
+    pages:
+    - id: 1
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: event_id
+      label: Event Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: incident_narrative
+      label: Incident Narrative
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: vehicle_involved_parties
+      label: Vehicle Involved Parties
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: race_official_involved
+      label: Race Official Involved
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: medical_treatment
+      label: Medical Treatment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: injury_type
+      label: Injury Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: incident_reported_by
+      label: Incident Reported By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: incident_reported_by_phone
+      label: Incident Reported By Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_reported_by_email
+      label: Incident Reported By Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: race_track_name
+      label: Race Track Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: incident_reported_by_name
+      label: Incident Reported By Name
+      hint: null
+      type: text
+      options: []
+      required: false

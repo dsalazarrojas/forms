@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Acceptance Report Submission Form
+    pages:
+    - id: 1
+      name: section_project_id
+      label: -- Project Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: Project Name
+      hint: Full official title
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_code
+      label: Internal Project Code
+      hint: e.g. PRJ-2026-001
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: project_manager
+      label: Project Manager Name
+      hint: Person responsible for the report
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_report_details
+      label: -- Report Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: phase_of_project
+      label: Project Phase being Reported
+      hint: Select current phase
+      type: select_one
+      options:
+      - Initiation
+      - Planning
+      - Execution
+      - Quality Control
+      - Completion
+      required: true
+    - id: 7
+      name: reporting_period_end
+      label: Reporting Period End Date
+      hint: End of the period covered
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: key_milestones_achieved
+      label: Summary of Key Milestones Achieved
+      hint: List 3-5 major successes
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_stakeholder
+      label: -- Stakeholder Acceptance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: stakeholder_status
+      label: Has the primary stakeholder reviewed the deliverables?
+      hint: Status of external review
+      type: select_one
+      options:
+      - Reviewed and Accepted
+      - Reviewed with Comments
+      - Not Yet Reviewed
+      required: true
+    - id: 11
+      name: accepted_deliverables
+      label: Select deliverables accepted in this phase
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Documentation
+      - Software Modules
+      - Physical Prototype
+      - Strategy Report
+      - Training Materials
+      required: true
+    - id: 12
+      name: outstanding_issues
+      label: List any outstanding issues or risks
+      hint: Briefly describe unresolved items
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_approvals
+      label: -- Approvals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: formal_approval_request
+      label: I formally request approval for this acceptance report
+      hint: Submission confirmation
+      type: select_one
+      options:
+      - Yes - Request Approval
+      - Other
+      required: true
+    - id: 15
+      name: approving_officer_name
+      label: Name of Approving Officer
+      hint: Person who will sign off
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: submission_date
+      label: Date of Submission
+      hint: Current date
+      type: date
+      options: []
+      required: true

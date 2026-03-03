@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contractor Attendance and Sick Leave Policy Form
+    pages:
+    - id: 1
+      name: contractor_name
+      label: Contractor Full Name
+      hint: Legal name of the contractor
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contractor_id
+      label: Contractor ID Number
+      hint: Employee or contractor identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Primary email for communication
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Department or project assignment
+      type: select_one
+      options:
+      - Construction
+      - IT Services
+      - Facilities
+      - Maintenance
+      - Consulting
+      - Other
+      required: true
+    - id: 6
+      name: project_name
+      label: Project Name
+      hint: Name of current project assignment
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_attendance_record
+      label: -- Attendance Record --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: reporting_period_start
+      label: Reporting Period Start Date
+      hint: Start date for this attendance report
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: reporting_period_end
+      label: Reporting Period End Date
+      hint: End date for this attendance report
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: total_scheduled_days
+      label: Total Scheduled Work Days
+      hint: Number of days scheduled to work
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: days_worked
+      label: Days Actually Worked
+      hint: Number of days actually worked
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: absences
+      label: Number of Absences
+      hint: Total number of absences
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: section_leave_details
+      label: -- Leave Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: sick_leave_taken
+      label: Sick Leave Days Taken
+      hint: Number of sick leave days used
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: sick_leave_reason
+      label: Reason for Sick Leave
+      hint: General reason if comfortable sharing
+      type: select_one
+      options:
+      - Personal Illness
+      - Medical Appointment
+      - Family Care
+      - Mental Health
+      - Prefer not to say
+      required: false
+    - id: 16
+      name: personal_leave_taken
+      label: Personal Leave Days Taken
+      hint: Number of personal leave days used
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: unpaid_leave_taken
+      label: Unpaid Leave Days Taken
+      hint: Number of unpaid leave days used
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: section_policy_acknowledgement
+      label: -- Policy Acknowledgement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: policy_reviewed
+      label: I have reviewed the attendance policy
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: understand_requirements
+      label: I understand the attendance requirements
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: notification_procedure
+      label: I understand the procedure for reporting absences
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: documentation_required
+      label: I understand when documentation is required
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: section_supervisor
+      label: -- Supervisor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: supervisor_name
+      label: Supervisor Name
+      hint: Name of reporting supervisor
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: supervisor_email
+      label: Supervisor Email
+      hint: Email of reporting supervisor
+      type: email
+      options: []
+      required: true
+    - id: 26
+      name: submission_date
+      label: Submission Date
+      hint: Date this form is submitted
+      type: date
+      options: []
+      required: true
+    - id: 27
+      name: additional_notes
+      label: Additional Notes
+      hint: Any特殊情况 or explanations
+      type: text
+      options: []
+      required: false

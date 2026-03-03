@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing Release Authorization Form
+    pages:
+    - id: 1
+      name: marketing_release_authorization_form
+      label: marketing_release_authorization_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: signature
+      label: signature
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 2, ''label'': ''Do not let <assigned_tool> use my data''}'
+      - Other
+      required: false
+    - id: 3
+      name: consent_term
+      label: consent_term
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

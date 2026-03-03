@@ -1,0 +1,38 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Wait Time Assessment
+    pages:
+    - id: 1
+      name: patient_wait_time_form_1
+      label: wait-time-experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction_level
+      label: satisfaction-level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very High''}'
+      - '{''label'': ''High''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Low''}'
+      - '{''label'': ''Very Low''}'
+      required: false
+    - id: 3
+      name: waiting_time_schedule
+      label: waiting-time-schedule
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: waiting_experience
+      label: waiting-experience
+      hint: null
+      type: text
+      options: []
+      required: false

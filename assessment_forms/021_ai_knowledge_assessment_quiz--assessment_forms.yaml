@@ -1,0 +1,175 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Knowledge Assessment Quiz
+    pages:
+    - id: 1
+      name: participant_info_header
+      label: --- Participant Information ---
+      hint: Please enter your details before starting the assessment.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: department_team
+      label: Department / Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: quiz_section_1_header
+      label: "--- Section 1: Core AI Concepts ---"
+      hint: Fundamental principles of Artificial Intelligence and Machine Learning.
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: q1_ml_definition
+      label: "Question 1: Which of the following best defines Machine Learning?"
+      hint: Choose the most accurate description.
+      type: select_one
+      options:
+      - label: Hard-coding every possible outcome into a program.
+        value: wrong_1
+      - label: A subset of AI that allows systems to learn from data without being explicitly programmed for every task.
+        value: correct
+      - label: The physical construction of robotic hardware.
+        value: wrong_2
+      - label: Simple automation based on 'if-then' statements only.
+        value: wrong_3
+      required: true
+    - id: 7
+      name: q2_supervised_unsupervised
+      label: "Question 2: Briefly explain the main difference between Supervised and Unsupervised learning."
+      hint: Focus on the role of labeled data.
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: q3_neural_network_types
+      label: "Question 3: Which of the following are types of Neural Network architectures? (Select all that apply)"
+      hint: null
+      type: select_multiple
+      options:
+      - label: CNN (Convolutional Neural Network)
+        value: cnn
+      - label: RNN (Recurrent Neural Network)
+        value: rnn
+      - label: Decision Trees
+        value: decision_trees
+      - label: Transformer
+        value: transformer
+      - label: Linear Regression
+        value: linear_reg
+      required: true
+    - id: 9
+      name: q4_overfitting
+      label: "Question 4: What happens when an AI model is 'Overfitting'?"
+      hint: null
+      type: select_one
+      options:
+      - label: The model is too simple to capture the underlying patterns.
+        value: underfitting
+      - label: The model performs well on training data but poorly on new, unseen data.
+        value: overfitting
+      - label: The model has reached perfect accuracy on all datasets.
+        value: perfect
+      required: true
+    - id: 10
+      name: quiz_section_2_header
+      label: "--- Section 2: Modern Applications & Ethics ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: q5_llm_meaning
+      label: "Question 5: What does 'LLM' stand for in the context of AI?"
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: q6_generative_ai_models
+      label: "Question 6: Which of these are examples of Generative AI models or platforms? (Select all that apply)"
+      hint: null
+      type: select_multiple
+      options:
+      - label: GPT-4
+        value: gpt4
+      - label: Claude
+        value: claude
+      - label: Midjourney
+        value: midjourney
+      - label: SQL Server
+        value: sql
+      - label: Stable Diffusion
+        value: stable_diff
+      required: true
+    - id: 13
+      name: q7_ai_bias_sources
+      label: "Question 7: What is a primary source of 'Bias' in AI systems?"
+      hint: null
+      type: select_one
+      options:
+      - label: Flawed or unrepresentative training data.
+        value: correct
+      - label: The computer's hardware being too old.
+        value: hardware
+      - label: Too many programmers working on the code.
+        value: staff
+      required: true
+    - id: 14
+      name: self_assessment_header
+      label: --- Self-Reflection ---
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: self_rating_confidence
+      label: On a scale of 1-10, how confident do you feel in your overall AI knowledge?
+      hint: 1 = Not confident, 10 = Expert
+      type: integer
+      options: []
+      required: true
+    - id: 16
+      name: quiz_feedback
+      label: Feedback on this assessment
+      hint: Was it too easy, too hard, or just right?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: completion_date
+      label: Date of Completion
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: In Person Class Participation Waiver
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact_name
+      label: emergency contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_phone
+      label: emergency contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_relationship
+      label: emergency contact relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Mother
+      - Father
+      - Mother or Father
+      - Mother or Father or Stepparent
+      - Mother or Father or Step Parent
+      - Mother or Father or Parent
+      - Mother or Father or Grandparent
+      - Mother or Father or Other
+      required: false
+    - id: 8
+      name: emergency_contact_address
+      label: emergency contact address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_condition
+      label: medical condition
+      hint: null
+      type: select_one
+      options:
+      - Diabetes
+      - Epilepsy
+      - Allergy
+      - Asthma
+      - Heart Condition
+      - Other
+      required: false
+    - id: 10
+      name: medical_condition_details
+      label: medical condition details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: allergies
+      label: allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: medical_condition_allergy
+      label: allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: medical_condition_medication
+      label: medical condition medication
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: medical_condition_medication_other
+      label: medical condition medication other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_condition_medication_frequency
+      label: medical condition medication frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_condition_medication_dosage
+      label: medical condition medication dosage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_condition_medication_side_effects
+      label: medical condition medication side effects
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_condition_medication_last_administered
+      label: medical condition medication last administered
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_permission
+      label: emergency contact permission
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: instructor_consent
+      label: instructor consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: instructor_signature
+      label: instructor signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: participant_signature
+      label: participant signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: instructor_name
+      label: instructor name
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Live In Caregiver Accommodation Form
+    pages:
+    - id: 1
+      name: family_member
+      label: Family Member
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: caregiver_name
+      label: Caregiver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: accommodation_start_date
+      label: Accommodation Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: accommodation_end_date
+      label: Accommodation End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: accommodation_type
+      label: Accommodation Type
+      hint: null
+      type: select_multiple
+      options:
+      - Home Visit
+      - Live In
+      - Other
+      required: false
+    - id: 7
+      name: accommodation_details
+      label: Accommodation Details
+      hint: Describe the accommodation needs of the family member
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: care_hours
+      label: Care Hours
+      hint: How many hours per week will the caregiver provide care for?
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: accommodation_status
+      label: Accommodation Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: false
+    - id: 10
+      name: accommodation_notes
+      label: Accommodation Notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,88 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: escalator_incident_form
+    pages:
+    - id: 1
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reported_by
+      label: Reported By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - completed
+      - in_progress
+      required: true
+    - id: 5
+      name: reported_on
+      label: Reported On
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: incident_reported
+      label: Incident Reported
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - mechanical
+      - electrical
+      - software
+      required: true
+    - id: 8
+      name: escalator_model
+      label: Escalator Model
+      hint: null
+      type: select_multiple
+      options:
+      - a
+      - b
+      - c
+      required: true
+    - id: 9
+      name: incident_number
+      label: Incident Number
+      hint: null
+      type: text
+      options: []
+      required: true

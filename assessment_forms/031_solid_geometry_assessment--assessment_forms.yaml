@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Solid Geometry Assessment
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: geometry_concept
+      label: Geometry Concept
+      hint: null
+      type: select_one
+      options:
+      - 1. 3D Shape Classification
+      - 2. 3D Coordinate Systems
+      - 3. 3D Graphs and Charts
+      - 4. 3D Projection
+      - 5. 3D Vector and Rotation
+      required: false
+    - id: 7
+      name: tutor_name
+      label: Tutor's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assessment_comments
+      label: Assessment Comments
+      hint: Please provide any comments or feedback about the student's responses.
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: student_answer_1
+      label: Which is the largest sphere with the smallest surface area?
+      hint: null
+      type: select_multiple
+      options:
+      - A
+      - B
+      - C
+      - D
+      - E
+      required: false
+    - id: 12
+      name: student_answer_2
+      label: What is the correct volume for the sphere with a radius of 5 cm?
+      hint: null
+      type: select_multiple
+      options:
+      - A
+      - B
+      - C
+      - D
+      - E
+      required: false
+    - id: 13
+      name: student_answer_3
+      label: What is the correct volume for the sphere with a radius of 7 cm?
+      hint: null
+      type: select_multiple
+      options:
+      - A
+      - B
+      - C
+      - D
+      - E
+      required: false
+    - id: 14
+      name: student_answer_4
+      label: What is the correct volume for the sphere with a radius of 8 cm?
+      hint: null
+      type: select_multiple
+      options:
+      - A
+      - B
+      - C
+      - D
+      - E
+      required: false
+    - id: 15
+      name: tutor_answer_1
+      label: Tutor's Answer 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: tutor_answer_2
+      label: Tutor's Answer 2
+      hint: null
+      type: text
+      options: []
+      required: false

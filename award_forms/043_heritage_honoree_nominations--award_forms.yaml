@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: heritage_honoree_nominations
+    pages:
+    - id: 1
+      name: community_nominations
+      label: Community Nominations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name_of_honoree
+      label: Name of Honoree
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: nomination_title
+      label: Nomination Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: category_of_honoree
+      label: Category of Honoree
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 5
+      name: nominator_name
+      label: Nominator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: nominator_organization
+      label: Nominator Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: nominator_email
+      label: Nominator Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: nominator_phone
+      label: Nominator Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: nomination_details
+      label: Nomination Details
+      hint: null
+      type: note
+      options: []
+      required: false

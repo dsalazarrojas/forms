@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Refugee Status Assessment Survey
+    pages:
+    - id: 1
+      name: refugee_status_assessment
+      label: refugeeStatusAssessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_arrival
+      label: dateArrival
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Male''}'
+      - '{''id'': 2, ''label'': ''Female''}'
+      - '{''id'': 3, ''label'': ''Non-Binary''}'
+      required: false
+    - id: 5
+      name: country_of_origin
+      label: countryOfOrigin
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Country 1''}'
+      - '{''id'': 2, ''label'': ''Country 2''}'
+      - '{''id'': 3, ''label'': ''Country 3''}'
+      required: false
+    - id: 6
+      name: contact_number
+      label: contactNumber
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: safety_concerns
+      label: safetyConcerns
+      hint: null
+      type: note
+      options: []
+      required: false

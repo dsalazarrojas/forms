@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Club Event Authorization Form
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: Official name of the event
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: event_time_start
+      label: Event Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: event_time_end
+      label: Event End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: event_location
+      label: Event Location
+      hint: Building, room number, or venue
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: expected_attendance
+      label: Expected Number of Attendees
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: event_organizer
+      label: Primary Event Organizer
+      hint: Name of person organizing
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: organizer_email
+      label: Organizer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: organizer_phone
+      label: Organizer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: club_name
+      label: Club Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: event_type
+      label: Type of Event
+      hint: Select the event category
+      type: select_one
+      options:
+      - Meeting
+      - Social Gathering
+      - Workshop
+      - Competition
+      - Fundraiser
+      - Conference
+      - Other
+      required: true
+    - id: 12
+      name: food_beverages
+      label: Will Food or Beverages Be Served
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: alcohol_served
+      label: Will Alcohol Be Served
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: outdoor_event
+      label: Is This an Outdoor Event
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: safety_plan
+      label: Safety Plan Description
+      hint: Describe safety measures
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: insurance_required
+      label: Insurance Coverage Confirmation
+      hint: null
+      type: select_one
+      options:
+      - Yes, Coverage in Place
+      - No, Coverage Needed
+      - Not Sure
+      required: true
+    - id: 17
+      name: approval_needed
+      label: Approval Status
+      hint: Is approval from higher authority needed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

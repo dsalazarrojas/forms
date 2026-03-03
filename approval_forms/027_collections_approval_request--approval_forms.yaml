@@ -1,0 +1,317 @@
+inputSchema:
+  type: object
+  properties:
+    title: Collections Approval Request
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Email Address
+      hint: Work email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requester_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: request_date
+      label: Request Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: customer_name
+      label: Customer Name
+      hint: Debtor name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: customer_id
+      label: Customer ID Number
+      hint: Account identifier
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: customer_address
+      label: Customer Address
+      hint: Last known address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: customer_phone
+      label: Customer Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_email
+      label: Customer Email
+      hint: Email address
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: account_type
+      label: Account Type
+      hint: Type of debt
+      type: select_one
+      options:
+      - Credit Card
+      - Personal Loan
+      - Business Loan
+      - Medical Bill
+      - Utility Bill
+      - Lease Agreement
+      - Invoice
+      - Other
+      required: true
+    - id: 12
+      name: original_creditor
+      label: Original Creditor
+      hint: Who was owed
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: account_opened_date
+      label: Account Opened Date
+      hint: When account started
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: last_payment_date
+      label: Last Payment Date
+      hint: Most recent payment
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: original_balance
+      label: Original Balance
+      hint: Initial amount
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: current_balance
+      label: Current Balance Due
+      hint: Total owed now
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: principal_amount
+      label: Principal Amount
+      hint: Base debt amount
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: interest_amount
+      label: Interest Amount
+      hint: Accrued interest
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: fees_amount
+      label: Fees and Penalties
+      hint: Additional charges
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: days_past_due
+      label: Days Past Due
+      hint: How overdue
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: delinquency_status
+      label: Delinquency Status
+      hint: Current status
+      type: select_one
+      options:
+      - 30-59 Days Past Due
+      - 60-89 Days Past Due
+      - 90-119 Days Past Due
+      - 120-150 Days Past Due
+      - Over 150 Days Past Due
+      - Charged Off
+      required: true
+    - id: 22
+      name: previous_collection_attempts
+      label: Previous Collection Attempts
+      hint: What has been done
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: last_contact_date
+      label: Last Contact Date
+      hint: Most recent contact
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: last_contact_method
+      label: Last Contact Method
+      hint: How you contacted
+      type: select_one
+      options:
+      - Phone Call
+      - Email
+      - Letter
+      - Text Message
+      - In Person
+      - No Contact
+      required: true
+    - id: 25
+      name: payment_promises
+      label: Payment Promises Made
+      hint: Did customer promise to pay
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: disputes
+      label: Any Disputes
+      hint: Does customer dispute debt
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: dispute_details
+      label: Dispute Details
+      hint: Describe if applicable
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: proposed_action
+      label: Proposed Collection Action
+      hint: What do you want to do
+      type: select_one
+      options:
+      - Send Demand Letter
+      - Initiate Phone Campaign
+      - Offer Settlement
+      - Payment Plan
+      - External Collection Agency
+      - Legal Action
+      - Write Off
+      required: true
+    - id: 29
+      name: settlement_amount
+      label: Proposed Settlement Amount
+      hint: If offering settlement
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: payment_plan_terms
+      label: Proposed Payment Plan Terms
+      hint: If payment plan
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: legal_action_recommended
+      label: Legal Action Recommended
+      hint: By legal team
+      type: select_one
+      options:
+      - true
+      - false
+      - Under Review
+      required: false
+    - id: 32
+      name: statute_of_limitations
+      label: Statute of Limitations Status
+      hint: Is it still enforceable
+      type: select_one
+      options:
+      - Within Statute
+      - Approaching Expiry
+      - Expired
+      - Unknown
+      required: true
+    - id: 33
+      name: supporting_documents
+      label: Supporting Documents Attached
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Original Contract
+      - Account Statements
+      - Correspondence Records
+      - Payment History
+      - Demand Letters
+      - Credit Report
+      - Other
+      required: true
+    - id: 34
+      name: justification
+      label: Justification for Action
+      hint: Why this action is needed
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: approval_level_needed
+      label: Approval Level Needed
+      hint: Who needs to approve
+      type: select_one
+      options:
+      - Supervisor
+      - Manager
+      - Director
+      - VP Finance
+      - CFO
+      - Legal
+      required: true
+    - id: 36
+      name: urgency
+      label: Urgency Level
+      hint: How urgent
+      type: select_one
+      options:
+      - Routine
+      - Priority
+      - Urgent
+      - Critical
+      required: true
+    - id: 37
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

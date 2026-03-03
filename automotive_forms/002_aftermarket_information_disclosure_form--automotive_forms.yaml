@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aftermarket Information Disclosure Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: Enter the name of your company or business
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person_name
+      label: Contact Person Name
+      hint: Full name of the person to contact regarding this disclosure
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: Business email address for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone Number
+      hint: Business phone number for follow-up
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: disclosure_purpose_header
+      label: -- Purpose of Information Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: request_purpose
+      label: Purpose of Request
+      hint: Briefly describe why you need this aftermarket information
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: product_category
+      label: Product Category
+      hint: Select the category of aftermarket products you're interested in
+      type: select_one
+      options:
+      - Performance Parts
+      - Interior Accessories
+      - Exterior Modifications
+      - Electronics
+      - Maintenance Items
+      - Other
+      required: true
+    - id: 8
+      name: vehicle_make_model
+      label: Vehicle Make and Model
+      hint: Specify the make and model of vehicles this information applies to
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: product_usage_type
+      label: Intended Product Usage
+      hint: How do you plan to use the disclosed information?
+      type: select_multiple
+      options:
+      - Product Development
+      - Marketing Research
+      - Competitive Analysis
+      - Quality Improvement
+      - Regulatory Compliance
+      required: false
+    - id: 10
+      name: estimated_annual_volume
+      label: Estimated Annual Volume
+      hint: Approximate quantity of products you expect to purchase annually
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: compliance_acknowledgment
+      label: Compliance Acknowledgment
+      hint: Do you acknowledge that you will comply with all applicable laws and regulations
+        regarding the use of this information?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: information_confidentiality_agreement
+      label: Information Confidentiality Agreement
+      hint: Will you maintain the confidentiality of any proprietary information shared?
+      type: select_one
+      options:
+      - Agree
+      - Do Not Agree
+      required: true
+    - id: 13
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information you'd like to share about your request
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: authorized_signature
+      label: Authorized Signature
+      hint: Digital signature of the authorized representative
+      type: text
+      options: []
+      required: false

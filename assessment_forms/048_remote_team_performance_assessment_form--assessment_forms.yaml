@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Team Performance Assessment Form
+    pages:
+    - id: 1
+      name: remote_team_performance_assessment_form
+      label: Remote Team Performance Assessment Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: performance_metrics
+      label: Performance Metrics
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: development_check_ins
+      label: Development Check-ins
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: project_retrospectives
+      label: Project Retrospectives
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: quarterly_reviews
+      label: Quarterly Reviews
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: communication_channels
+      label: Communication Channels
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: collaboration_tools
+      label: Collaboration Tools
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: time_zone
+      label: Time Zone
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: remote_performance_assessment_form
+      label: Remote Performance Assessment Form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

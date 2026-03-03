@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dog Bio Update Form
+    pages:
+    - id: 1
+      name: dog_name
+      label: Dog Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dog_breed
+      label: dog Breed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: dog_age
+      label: dog Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: dog_size
+      label: dog Size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: bio_update_date
+      label: Bio Update Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: bio_update_frequency
+      label: Bio Update Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skincare New Customer Consultation Form
+    pages:
+    - id: 1
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: allergies
+      label: allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: skin_type
+      label: skin_type
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Sensitive
+      - Dry
+      - Combination
+      - Oily
+      - Acne-prone
+      - Rosacea-prone
+      - Aging
+      - Hyper-pigmentation
+      required: true
+    - id: 8
+      name: skin_color
+      label: skin_color
+      hint: null
+      type: select_multiple
+      options:
+      - Light
+      - Medium
+      - Dark
+      - Very_Dark
+      - Combination
+      required: true
+    - id: 9
+      name: face_shape
+      label: face_shape
+      hint: null
+      type: select_one
+      options:
+      - Oval
+      - Round
+      - Square
+      - Heart
+      - Triangular
+      required: true
+    - id: 10
+      name: skin_texture
+      label: skin_texture
+      hint: null
+      type: select_multiple
+      options:
+      - Fine
+      - Medium
+      - Coarse
+      - Normal
+      - Combination
+      required: true
+    - id: 11
+      name: skin_problems
+      label: skin_problems
+      hint: null
+      type: select_multiple
+      options:
+      - Blackheads
+      - Redness
+      - Oiliness
+      - Dryness
+      - Flakiness
+      - Tightness
+      - Roughness
+      required: true
+    - id: 12
+      name: skincare_objective
+      label: skincare_objective
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: skincare_products
+      label: skincare_products
+      hint: null
+      type: select_multiple
+      options:
+      - Anti-aging
+      - Brightening
+      - Hydrating
+      - Exfoliating
+      - Moisturizing
+      - Acne treatment
+      - Hyper-pigmentation treatment
+      - Rosacea treatment
+      - Sensitive skin treatment
+      - Sun protection
+      - Wrinkle treatment
+      - Acne spot treatment
+      - Skin whitening
+      - Skin rejuvenation
+      - Skin tightening
+      required: true
+    - id: 14
+      name: schedule
+      label: schedule
+      hint: null
+      type: select_one
+      options:
+      - 15 minutes
+      - 30 minutes
+      - 60 minutes
+      required: true
+    - id: 15
+      name: consent
+      label: consent
+      hint: null
+      type: select_multiple
+      options:
+      - I agree to the treatment terms and conditions.
+      - I agree to the privacy policy.
+      - I agree to the consent.
+      required: true
+    - id: 16
+      name: consent_date
+      label: consent_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

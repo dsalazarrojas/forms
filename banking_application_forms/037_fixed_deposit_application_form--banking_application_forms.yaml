@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fixed Deposit Application Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: fixed_deposit_amount
+      label: Fixed Deposit Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: loan_term
+      label: Loan Term
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 5, ''name'': ''loan_term_1'', ''label'': ''6 months''}'
+      - '{''id'': 6, ''name'': ''loan_term_2'', ''label'': ''12 months''}'
+      - '{''id'': 7, ''name'': ''loan_term_3'', ''label'': ''24 months''}'
+      required: true
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: fixed_deposit_status
+      label: Fixed Deposit Status
+      hint: null
+      type: text
+      options: []
+      required: false

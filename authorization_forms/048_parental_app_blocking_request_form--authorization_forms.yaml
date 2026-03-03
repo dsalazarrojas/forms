@@ -1,0 +1,119 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Parental App Blocking Request Form
+    pages:
+    - id: 1
+      name: app_block_request_form
+      label: App Block Request
+      hint: None
+      type: select_one
+      options:
+      - Apple
+      - Android
+      - None
+      required: true
+    - id: 2
+      name: block_reason
+      label: Block Reason
+      hint: null
+      type: select_multiple
+      options:
+      - Inappropriate content
+      - Excessive screen time
+      - Violates app terms
+      required: true
+    - id: 3
+      name: child_first_name
+      label: Child First Name
+      hint: None
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: child_last_name
+      label: Child Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: parent_email
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: device_type
+      label: Device Type
+      hint: null
+      type: select_one
+      options:
+      - iOS
+      - Android
+      - Windows
+      required: false
+    - id: 8
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: app_name
+      label: App Name
+      hint: null
+      type: select_multiple
+      options:
+      - Fortnite
+      - Minecraft
+      - None
+      required: true
+    - id: 10
+      name: block_until
+      label: Block Until
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: app_version
+      label: App Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: user_agreement
+      label: User Agreement
+      hint: null
+      type: text
+      options: []
+      required: true

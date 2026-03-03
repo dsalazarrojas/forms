@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daycare Attendance Form
+    pages:
+    - id: 1
+      name: user_input_1
+      label: fill-out-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: user_input_2
+      label: enter-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: user_input_3
+      label: name-of-attended-child
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: user_input_4
+      label: name-of-staff-present
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: user_input_5
+      label: number-of-children-attended
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: user_input_6
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: user_input_7
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: user_input_8
+      label: email-of-staff
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: user_input_9
+      label: phone-of-staff
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: user_input_10
+      label: name-of-daycare
+      hint: null
+      type: text
+      options: []
+      required: false

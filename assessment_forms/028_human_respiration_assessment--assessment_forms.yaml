@@ -1,0 +1,101 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Human Respiration Assessment
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: symptoms
+      label: Select Respiratory Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - Dyspnea
+      - Cough
+      - Wheezing
+      - Chest pain
+      - Shortness of breath
+      - Wheezing
+      - Chest tightness
+      - Coughing up blood
+      required: true
+    - id: 3
+      name: risk_factors
+      label: Select Risk Factors
+      hint: null
+      type: select_multiple
+      options:
+      - Family history of respiratory disease
+      - Environmental exposure
+      - Smoking or vaping
+      - Other
+      required: true
+    - id: 4
+      name: date_became_symptomatic
+      label: Date Symptoms Became Symptomatic
+      hint: Enter date in YYYY-MM-DD format
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: doctor_info
+      label: Doctor Information
+      hint: Enter name and specialty of your doctor
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medication
+      label: Are you taking any medication?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Other
+      required: false
+    - id: 8
+      name: medication_name
+      label: What is the name of your medication?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: doctor_specialty
+      label: Doctor Specialty
+      hint: null
+      type: text
+      options: []
+      required: false

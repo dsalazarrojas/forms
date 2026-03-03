@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Key Issuance Log
+    pages:
+    - id: 1
+      name: form_title
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: key_issue_date
+      label: key_issue_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: key_return_date
+      label: key_return_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: employee_signature
+      label: employee_signature
+      hint: null
+      type: select_multiple
+      options:
+      - '[''Manager'', ''Security Guard'', ''Janitor'', ''Custodian'']'
+      - '[''Maintenance Crew'']'
+      - Other
+      required: false
+    - id: 9
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: manager_email
+      label: manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: manager_contact_number
+      label: manager_contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: manager_employee_id
+      label: manager_employee_id
+      hint: null
+      type: number
+      options: []
+      required: false

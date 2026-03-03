@@ -1,0 +1,249 @@
+inputSchema:
+  type: object
+  properties:
+    title: Asset Inventory Verification Form
+    pages:
+    - id: 1
+      name: verification_date
+      label: Verification Date
+      hint: Date of verification
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: verifier_name
+      label: Verifier Name
+      hint: Who is verifying
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: verifier_id
+      label: Verifier ID
+      hint: Employee number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: location_verified
+      label: Location Verified
+      hint: Where verification done
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Which department
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: verification_type
+      label: Verification Type
+      hint: Type of check
+      type: select_one
+      options:
+      - Full Inventory Count
+      - Spot Check
+      - Cycle Count
+      - Annual Audit
+      - Random Verification
+      - Transfer Verification
+      required: true
+    - id: 7
+      name: asset_id
+      label: Asset ID
+      hint: Asset tag number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: asset_description
+      label: Asset Description
+      hint: What is the asset
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: asset_category
+      label: Asset Category
+      hint: Type of asset
+      type: select_one
+      options:
+      - IT Equipment
+      - Office Furniture
+      - Vehicles
+      - Machinery
+      - Tools
+      - Electronics
+      - Other
+      required: true
+    - id: 10
+      name: recorded_quantity
+      label: Recorded Quantity
+      hint: What system shows
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: actual_quantity
+      label: Actual Quantity
+      hint: What was counted
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: variance
+      label: Variance
+      hint: Difference count
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: asset_found
+      label: Was Asset Found
+      hint: Verification result
+      type: select_one
+      options:
+      - Yes - In Expected Location
+      - Yes - Different Location
+      - No - Missing
+      - No - Disposed
+      - No - Transferred
+      required: true
+    - id: 14
+      name: actual_location
+      label: Actual Location
+      hint: Where found
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: condition_verified
+      label: Condition Verified
+      hint: Current state
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Damaged
+      - Not Accessible
+      required: true
+    - id: 16
+      name: serial_number_match
+      label: Does Serial Number Match
+      hint: Verification check
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Applicable
+      required: true
+    - id: 17
+      name: asset_tag_intact
+      label: Is Asset Tag Intact
+      hint: Tag condition
+      type: select_one
+      options:
+      - Yes - Clear and Readable
+      - Yes - Damaged but Readable
+      - No - Missing
+      - No - Illegible
+      required: true
+    - id: 18
+      name: custodian_confirmed
+      label: Custodian Confirmed
+      hint: Who has it
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: discrepancies_noted
+      label: Are There Discrepancies
+      hint: Any issues
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: discrepancy_description
+      label: Discrepancy Description
+      hint: Describe issues
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: photos_taken
+      label: Number of Photos Taken
+      hint: Documentation
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: action_required
+      label: Is Action Required
+      hint: Follow-up needed
+      type: select_one
+      options:
+      - Yes - Update Records
+      - Yes - Locate Asset
+      - Yes - Repair Needed
+      - Yes - Replace Tag
+      - 'No'
+      required: true
+    - id: 23
+      name: action_description
+      label: Action Description
+      hint: What needs done
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: priority_level
+      label: Priority Level
+      hint: How urgent
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Critical
+      required: true
+    - id: 25
+      name: supervisor_review
+      label: Supervisor Review Required
+      hint: Needs manager look
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 26
+      name: verification_status
+      label: Verification Status
+      hint: Final status
+      type: select_one
+      options:
+      - Verified
+      - Verified with Notes
+      - Discrepancy Found
+      - Pending Resolution
+      required: true
+    - id: 27
+      name: verifier_signature
+      label: Verifier Signature
+      hint: Type name to sign
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: supervisor_signature
+      label: Supervisor Signature
+      hint: If required
+      type: text
+      options: []
+      required: false

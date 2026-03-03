@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Illuminati Join Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: nickname
+      label: Nickname
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: discord_tag
+      label: Discord Tag
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: discord_id
+      label: Discord ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: reason_joining_illuminati
+      label: Reason for Joining Illuminati
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: role_in_illuminati
+      label: Role in Illuminati
+      hint: null
+      type: select_one
+      options:
+      - Illuminati Member
+      - Discord Moderator
+      - Streamer
+      - Gamer
+      - Other (please specify)
+      required: true
+    - id: 10
+      name: other_role_in_illuminati
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: agree_terms
+      label: Agree to Terms
+      hint: null
+      type: select_multiple
+      options:
+      - I have read, understand, and agree to the terms of service.
+      - I have read, understand, and agree to the terms of service.
+      required: true

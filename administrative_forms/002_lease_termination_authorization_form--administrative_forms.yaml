@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lease Termination Authorization Form
+    pages:
+    - id: 1
+      name: tenant
+      label: tenant
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: landlord
+      label: landlord
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_termination
+      label: termination_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reason_termination
+      label: reason_for_termination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: notice_period
+      label: notice_period
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: property_type
+      label: property_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: rent_amount
+      label: rent_amount
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: last_payment
+      label: last_payment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notice_period_start
+      label: start_date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notice_period_end
+      label: end_date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false

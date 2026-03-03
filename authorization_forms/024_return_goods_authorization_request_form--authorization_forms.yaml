@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Return Goods Authorization Request Form
+    pages:
+    - id: 1
+      name: return_goods_authorization_request_form
+      label: Return Authorization Request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: customer_id
+      label: Customer Id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reason_for_return
+      label: Reason for Return
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: return_items
+      label: Return Items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: signature_required
+      label: Signature Required
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: retailer_name
+      label: Retailer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: product_id
+      label: Product Id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: serial_number
+      label: Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: reason_for_return_product
+      label: Reason for Return Product
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

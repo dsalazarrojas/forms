@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Transport Quote Request
+    pages:
+    - id: 1
+      name: vehicle_transport_quote_request
+      label: Vehicle Transport Quote Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_type
+      label: vehicle_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''car''}'
+      - '{''id'': 2, ''name'': ''truck''}'
+      - '{''id'': 3, ''name'': ''van''}'
+      required: false
+    - id: 3
+      name: origin_state
+      label: origin_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: origin_city
+      label: origin_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: destination_state
+      label: destination_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: destination_city
+      label: destination_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: ship_date
+      label: ship_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: ship_time
+      label: ship_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false

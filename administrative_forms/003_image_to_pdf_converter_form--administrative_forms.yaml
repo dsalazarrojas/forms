@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: image_to_pdf_converter_form
+    pages:
+    - id: 1
+      name: upload_image
+      label: upload_image
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: select_format
+      label: select_format
+      hint: null
+      type: select_one
+      options:
+      - PDF
+      - JPEG
+      - PNG
+      required: true
+    - id: 3
+      name: upload_file
+      label: upload_file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: select_orientation
+      label: select_orientation
+      hint: null
+      type: select_multiple
+      options:
+      - Landscape
+      - Portrait
+      required: false
+    - id: 5
+      name: upload_size
+      label: upload_size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: upload_scale
+      label: upload_scale
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: select_color_mode
+      label: select_color_mode
+      hint: null
+      type: select_one
+      options:
+      - Color
+      - Grayscale
+      required: true
+    - id: 8
+      name: upload_quality
+      label: upload_quality
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: upload_dpi
+      label: upload_dpi
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: upload_resolution
+      label: upload_resolution
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: upload_margin
+      label: upload_margin
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: upload_orientation
+      label: upload_orientation
+      hint: null
+      type: select_multiple
+      options:
+      - Landscape
+      - Portrait
+      required: false
+    - id: 13
+      name: upload_color_mode
+      label: upload_color_mode
+      hint: null
+      type: select_one
+      options:
+      - Color
+      - Grayscale
+      required: true
+    - id: 14
+      name: upload_quality_mode
+      label: upload_quality_mode
+      hint: null
+      type: select_one
+      options:
+      - Auto
+      - Best
+      required: true
+    - id: 15
+      name: upload_dpi_mode
+      label: upload_dpi_mode
+      hint: null
+      type: select_one
+      options:
+      - Auto
+      - '300'
+      required: true
+    - id: 16
+      name: upload_scale_mode
+      label: upload_scale_mode
+      hint: null
+      type: select_one
+      options:
+      - Fit
+      - '100'
+      required: true
+    - id: 17
+      name: upload_margin_mode
+      label: upload_margin_mode
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - Fit
+      required: true
+    - id: 18
+      name: upload_orientation_mode
+      label: upload_orientation_mode
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Auto
+      required: true
+    - id: 19
+      name: upload_color_mode_mode
+      label: upload_color_mode_mode
+      hint: null
+      type: select_one
+      options:
+      - Color
+      - Grayscale
+      required: true
+    - id: 20
+      name: upload_quality_mode
+      label: upload_quality_mode
+      hint: null
+      type: select_one
+      options:
+      - Auto
+      - Best
+      required: true
+    - id: 21
+      name: upload_dpi_mode_mode
+      label: upload_dpi_mode_mode
+      hint: null
+      type: select_one
+      options:
+      - Auto
+      - '300'
+      required: true
+    - id: 22
+      name: upload_scale_mode_mode
+      label: upload_scale_mode_mode
+      hint: null
+      type: select_one
+      options:
+      - Fit
+      - '100'
+      required: true
+    - id: 23
+      name: upload_margin_mode_mode
+      label: upload_margin_mode_mode
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - Fit
+      required: true
+    - id: 24
+      name: upload_orientation_mode_mode
+      label: upload_orientation_mode_mode
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Auto
+      required: true
+    - id: 25
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: true

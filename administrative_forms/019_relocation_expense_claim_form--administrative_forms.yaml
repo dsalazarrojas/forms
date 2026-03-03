@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Relocation Expense Claim Form
+    pages:
+    - id: 1
+      name: employee_info
+      label: Employee Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: expense_date
+      label: Expense Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: expense_type
+      label: Expense Type
+      hint: null
+      type: select_one
+      options:
+      - Relocation Expenses
+      - Home Office
+      - Other Expenses
+      required: false
+    - id: 4
+      name: expense_amount
+      label: Expense Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: expense_description
+      label: Expense Description
+      hint: Please describe the expense
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: expense_receipts
+      label: Expense Receipts
+      hint: Please attach receipts for your expenses
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: expense_date_in
+      label: Expense Date (in)
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: expense_type_in
+      label: Expense Type (in)
+      hint: null
+      type: select_one
+      options:
+      - Relocation Expenses
+      - Home Office
+      - Other Expenses
+      required: false
+    - id: 9
+      name: expense_amount_in
+      label: Expense Amount (in)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: expense_description_in
+      label: Expense Description (in)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: expense_receipts_in
+      label: Expense Receipts (in)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: submitted_by_in
+      label: Submitted By (in)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitted_date_in
+      label: Submitted Date (in)
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: submitted_time_in
+      label: Submitted Time (in)
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: employee_info_in
+      label: Employee Information (in)
+      hint: null
+      type: text
+      options: []
+      required: false

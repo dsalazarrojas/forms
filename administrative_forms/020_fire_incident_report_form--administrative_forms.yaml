@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: fire_incident_report_form
+    pages:
+    - id: 1
+      name: fire_incident_date
+      label: Fire Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: fire_incident_time
+      label: Fire Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: number_of_persons_involved
+      label: Number of Persons Involved
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: number_of_firefighters_involved
+      label: Number of Firefighters Involved
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: number_of_civilians_involved
+      label: Number of Civilians Involved
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: number_of_injuries
+      label: Number of Injuries
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: number_of_fatalities
+      label: Number of Fatalities
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: cause_of_incident
+      label: Cause of Incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: fire_type
+      label: Fire Type
+      hint: null
+      type: select_one
+      options:
+      - fire_type_option_1
+      - fire_type_option_2
+      - fire_type_option_3
+      required: false
+    - id: 12
+      name: fire_extinguish_method
+      label: Fire Extinguish Method
+      hint: null
+      type: select_multiple
+      options:
+      - fire_extinguish_method_option_1
+      - fire_extinguish_method_option_2
+      - fire_extinguish_method_option_3
+      required: false
+    - id: 13
+      name: incident_disposition
+      label: Incident Disposition
+      hint: null
+      type: select_one
+      options:
+      - incident_disposition_option_1
+      - incident_disposition_option_2
+      - incident_disposition_option_3
+      required: false

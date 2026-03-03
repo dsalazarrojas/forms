@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dog Training Evaluation Form
+    pages:
+    - id: 1
+      name: dog_training_form
+      label: dog_training_form
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: training_needs
+      label: training_needs
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Basic Training'', ''value'': ''basic_training''}'
+      - '{''id'': 2, ''label'': ''Intermediate Training'', ''value'': ''intermediate_training''}'
+      - '{''id'': 3, ''label'': ''Advanced Training'', ''value'': ''advanced_training''}'
+      required: false
+    - id: 3
+      name: behavior_assessment
+      label: behavior_assessment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: behavior_rating
+      label: behavior_rating
+      hint: null
+      type: number
+      options: []
+      required: false

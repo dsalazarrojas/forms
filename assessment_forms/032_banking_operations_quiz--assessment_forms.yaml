@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: Banking Operations Quiz
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - Operations
+      - Customer Service
+      - Teller
+      - Management
+      - IT
+      - Compliance
+      - Other
+      required: true
+    - id: 4
+      name: quiz_date
+      label: Quiz Date
+      hint: Date of quiz
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: question_1
+      label: Question 1 - What is the primary purpose of bank reconciliation
+      hint: Select the best answer
+      type: select_one
+      options:
+      - To increase profits
+      - To verify account accuracy
+      - To process loans
+      - To market services
+      required: true
+    - id: 6
+      name: question_2
+      label: Question 2 - What does ACH stand for
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Automated Clearing House
+      - Account Cash Handler
+      - Advanced Credit Hub
+      - Automated Check System
+      required: true
+    - id: 7
+      name: question_3
+      label: Question 3 - What is the maximum time allowed to respond to a customer
+        complaint under Regulation E
+      hint: Select the best answer
+      type: select_one
+      options:
+      - 5 business days
+      - 10 business days
+      - 30 calendar days
+      - 60 calendar days
+      required: true
+    - id: 8
+      name: question_4
+      label: Question 4 - What is a stop payment order
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Closing an account
+      - Request to not process a check
+      - Freezing all transactions
+      - Stopping interest payments
+      required: true
+    - id: 9
+      name: question_5
+      label: Question 5 - What does CIP stand for in banking compliance
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Customer Information Program
+      - Customer Identification Program
+      - Credit Investigation Process
+      - Cash Integrity Protocol
+      required: true
+    - id: 10
+      name: question_6
+      label: Question 6 - Which form is used to report suspicious activities
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Form 1099
+      - SAR - Suspicious Activity Report
+      - Form W-2
+      - CTR only
+      required: true
+    - id: 11
+      name: question_7
+      label: Question 7 - What is the purpose of dual control in banking operations
+      hint: Select the best answer
+      type: select_one
+      options:
+      - To speed up processes
+      - To reduce staffing costs
+      - To prevent fraud and errors
+      - To improve customer service
+      required: true
+    - id: 12
+      name: question_8
+      label: Question 8 - What is an escheatment
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Account closure
+      - Transfer of dormant funds to state
+      - Interest calculation
+      - Fee assessment
+      required: true
+    - id: 13
+      name: question_9
+      label: Question 9 - What does BSA stand for
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Banking Standards Act
+      - Bank Security Agreement
+      - Bank Secrecy Act
+      - Business Savings Account
+      required: true
+    - id: 14
+      name: question_10
+      label: Question 10 - What is the threshold for filing a CTR
+      hint: Select the best answer
+      type: select_one
+      options:
+      - $1000
+      - $5000
+      - $10000
+      - $50000
+      required: true
+    - id: 15
+      name: question_11
+      label: Question 11 - What is the purpose of a trial balance
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Customer satisfaction
+      - Verify debits equal credits
+      - Calculate interest
+      - Process transactions
+      required: true
+    - id: 16
+      name: question_12
+      label: Question 12 - What does OFAC stand for
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Office of Foreign Assets Control
+      - Organization for Financial Account Compliance
+      - Overseas Financial Activities Committee
+      - Office of Federal Account Certification
+      required: true
+    - id: 17
+      name: question_13
+      label: Question 13 - Which of these are acceptable forms of ID under CIP
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Drivers License
+      - Passport
+      - State ID
+      - Social Security Card
+      required: true
+    - id: 18
+      name: question_14
+      label: Question 14 - What is the typical settlement time for wire transfers
+      hint: Select the best answer
+      type: select_one
+      options:
+      - 3-5 business days
+      - Same day or next day
+      - 1 week
+      - 2 weeks
+      required: true
+    - id: 19
+      name: question_15
+      label: Question 15 - What is the primary risk in cash handling operations
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Customer dissatisfaction
+      - Theft and shortage
+      - Slow processing
+      - Equipment failure
+      required: true
+    - id: 20
+      name: years_experience
+      label: Years of Banking Experience
+      hint: How long have you worked in banking
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: confidence_level
+      label: Confidence Level
+      hint: How confident do you feel
+      type: select_one
+      options:
+      - Very Confident
+      - Confident
+      - Somewhat Confident
+      - Not Confident
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Any feedback
+      type: text
+      options: []
+      required: false

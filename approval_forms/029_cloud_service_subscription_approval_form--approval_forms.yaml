@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cloud Service Subscription Approval Form
+    pages:
+    - id: 1
+      name: section_requester
+      label: -- Requester Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requester_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: manager_approval
+      label: Manager Name - Approval
+      hint: Direct supervisor approval required
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: section_service
+      label: -- Service Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: service_name
+      label: Cloud Service Name
+      hint: Name of service being requested
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: service_category
+      label: Service Category
+      hint: null
+      type: select_one
+      options:
+      - Collaboration tools
+      - Project management
+      - Data analytics
+      - Development tools
+      - Productivity apps
+      - Security
+      - Storage
+      - Other
+      required: true
+    - id: 11
+      name: service_provider
+      label: Service Provider
+      hint: Vendor or company offering service
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: subscription_plan
+      label: Subscription Plan
+      hint: Free, basic, professional, enterprise, etc
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_details
+      label: -- Subscription Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: number_of_users
+      label: Number of Users - Seats
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: subscription_duration
+      label: Subscription Duration
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-annually
+      - Annually
+      - Multi-year
+      required: true
+    - id: 16
+      name: monthly_cost
+      label: Monthly Cost - USD
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: annual_cost
+      label: Annual Cost - USD
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: section_justification
+      label: -- Business Justification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: business_purpose
+      label: Business Purpose and Justification
+      hint: Why is this service needed?
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: expected_benefit
+      label: Expected Benefits or ROI
+      hint: Productivity gains, cost savings, etc
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: section_approval
+      label: -- Approval Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: true
+    - id: 23
+      name: approver_name
+      label: Approver Name
+      hint: If already approved or rejected
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: approval_comments
+      label: Approval Comments
+      hint: Any notes from approver
+      type: text
+      options: []
+      required: false

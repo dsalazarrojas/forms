@@ -1,0 +1,343 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Surrender Form
+    pages:
+    - id: 1
+      name: owner_name
+      label: Owner Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: owner_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: owner_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: owner_address
+      label: Street Address
+      hint: Current address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: owner_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: owner_state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: owner_zip
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: surrender_date
+      label: Requested Surrender Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: animal_name
+      label: Animal Name
+      hint: Name of pet
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: animal_species
+      label: Species
+      hint: null
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Rabbit
+      - Bird
+      - Small Mammal
+      - Reptile
+      - Other
+      required: true
+    - id: 11
+      name: animal_breed
+      label: Breed
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: animal_age
+      label: Age
+      hint: In years
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: animal_sex
+      label: Sex
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 14
+      name: animal_color
+      label: Color and Markings
+      hint: Physical description
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: animal_weight
+      label: Weight
+      hint: In pounds
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: microchip_status
+      label: Is Your Pet Microchipped
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 17
+      name: microchip_number
+      label: Microchip Number
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: spay_neuter_status
+      label: Is Your Pet Spayed or Neutered
+      hint: null
+      type: select_one
+      options:
+      - Yes - Altered
+      - No - Not Altered
+      - Scheduled
+      required: true
+    - id: 19
+      name: surrender_reason
+      label: Reason for Surrender
+      hint: Select primary reason
+      type: select_one
+      options:
+      - Moving
+      - Landlord Issues
+      - Financial Hardship
+      - Allergies
+      - Behavior Issues
+      - Health Issues - Owner
+      - Health Issues - Pet
+      - New Baby
+      - Relationship Change
+      - No Time
+      - Pet Too Young or Old
+      - Other
+      required: true
+    - id: 20
+      name: surrender_details
+      label: Please Explain Your Situation
+      hint: Provide more context
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: behavior_issues
+      label: Are There Any Behavior Issues
+      hint: null
+      type: select_one
+      options:
+      - Yes - Minor
+      - Yes - Significant
+      - No Known Issues
+      required: true
+    - id: 22
+      name: behavior_details
+      label: Behavior Details
+      hint: Describe any issues
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medical_conditions
+      label: Are There Any Medical Conditions
+      hint: null
+      type: select_one
+      options:
+      - Yes - Chronic
+      - Yes - Temporary
+      - No Known Conditions
+      required: true
+    - id: 24
+      name: medical_details
+      label: Medical Details
+      hint: Describe conditions and treatments
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: veterinarian_name
+      label: Veterinarian Name
+      hint: Current or previous vet
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: vet_clinic
+      label: Veterinary Clinic
+      hint: Clinic name
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: vet_phone
+      label: Veterinarian Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Up to Date
+      - Partially Vaccinated
+      - Not Vaccinated
+      - Unknown
+      required: true
+    - id: 29
+      name: daily_routine
+      label: Describe Daily Routine
+      hint: Feeding exercise schedule
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: diet_info
+      label: Diet Information
+      hint: Food type and feeding schedule
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: likes_dislikes
+      label: What Does Your Pet Love or Dislike
+      hint: Preferences and quirks
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: good_with
+      label: Your Pet Is Good With
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Children
+      - Dogs
+      - Cats
+      - Small Animals
+      - Strangers
+      - None of the Above
+      required: false
+    - id: 33
+      name: ownership_duration
+      label: How Long Have You Owned This Pet
+      hint: In years or months
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: previous_surrenders
+      label: Has This Pet Been Surrendered Before
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 35
+      name: rehome_attempted
+      label: Have You Attempted to Rehome
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 36
+      name: surrender_fee
+      label: Surrender Fee
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 37
+      name: ownership_transfer
+      label: I Transfer Full Ownership to the Shelter
+      hint: I understand I cannot reclaim this pet
+      type: select_one
+      options:
+      - Yes I Transfer Ownership
+      - No I Do Not Agree
+      required: true
+    - id: 38
+      name: information_accuracy
+      label: I Certify All Information Is Accurate
+      hint: null
+      type: select_one
+      options:
+      - Yes I Certify
+      - false
+      required: true
+    - id: 39
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: owner_signature
+      label: Owner Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 41
+      name: surrender_date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true

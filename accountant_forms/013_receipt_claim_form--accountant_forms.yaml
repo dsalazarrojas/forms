@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Receipt Claim Form
+    pages:
+    - id: 1
+      name: receipt_claim_form
+      label: receipt_claim_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_expenses
+      label: Business Expenses
+      hint: null
+      type: select_multiple
+      options:
+      - Business Expense 1
+      - Business Expense 2
+      - Business Expense 3
+      required: false
+    - id: 3
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Jim
+      required: false
+    - id: 5
+      name: receipt_image
+      label: Receipt Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: total_amount
+      label: Total Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: reimbursed_amount
+      label: Reimbursed Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: remaining_amount
+      label: Remaining Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false
+    - id: 12
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Jim
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: claim_date
+      label: Claim Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: receipt_description
+      label: Receipt Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: claimant_name
+      label: Claimant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: claimant_email
+      label: Claimant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: claimant_phone
+      label: Claimant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Jim
+      required: false
+    - id: 22
+      name: claimant_address
+      label: Claimant Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: claimant_status
+      label: Claimant Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 24
+      name: claimant_type
+      label: Claimant Type
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Company
+      required: false
+    - id: 25
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Jim
+      required: false

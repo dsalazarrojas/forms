@@ -1,0 +1,239 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telemetry Technician Assessment
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: experience_years
+      label: Years of Experience
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-2 years
+      - 2-5 years
+      - 5-10 years
+      - More than 10 years
+      required: true
+    - id: 6
+      name: skills
+      label: Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Communication skills
+      - Leadership skills
+      - Team management skills
+      - Analytical skills
+      - Problem-solving skills
+      - Adaptability
+      - Time management skills
+      required: false
+    - id: 7
+      name: readiness
+      label: Shift Readiness
+      hint: null
+      type: select_one
+      options:
+      - Highly Ready
+      - Somewhat Ready
+      - Not Ready
+      required: true
+    - id: 8
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: work_history
+      label: Work History
+      hint: null
+      type: select_multiple
+      options:
+      - Full time
+      - Part time
+      - Contractor
+      - Freelancer
+      - Volunteer
+      - Intern
+      - Other
+      required: false
+    - id: 11
+      name: work_location
+      label: Work Location
+      hint: null
+      type: select_one
+      options:
+      - Hospital
+      - Clinic
+      - Lab
+      - Remote
+      required: true
+    - id: 12
+      name: education_background
+      label: Education Background
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - College
+      - University
+      - Diploma
+      - Certification
+      - Other
+      required: true
+    - id: 13
+      name: medical_license
+      label: Medical License
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Not Required
+      required: false
+    - id: 14
+      name: certification
+      label: Certification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: certification_issuer
+      label: Issuer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: license_number
+      label: License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: license_state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - AL
+      - AK
+      - AZ
+      - AR
+      - CA
+      - CO
+      - CT
+      - DC
+      - DE
+      - FL
+      required: true
+    - id: 18
+      name: certification_issuer_state
+      label: Issuer State
+      hint: null
+      type: select_one
+      options:
+      - US
+      - Non US
+      required: true
+    - id: 19
+      name: certification_number
+      label: Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: work_experience_2
+      label: Other Work Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_technical
+      label: Medical Technical Skills
+      hint: null
+      type: select_multiple
+      options:
+      - ECG interpretation
+      - Cardiovascular monitoring
+      - Pacing
+      - Central line insertion
+      - Phlebophlebitis
+      - Other
+      required: false
+    - id: 22
+      name: work_experience_3
+      label: Other Work Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medical_technical_2
+      label: Medical Technical Skills 2
+      hint: null
+      type: select_multiple
+      options:
+      - Basic Life Support
+      - Advanced Life Support
+      - Medical Gas
+      - Other
+      required: false
+    - id: 24
+      name: emergency_contact_2
+      label: Secondary Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: medical_technical_3
+      label: Medical Technical Skills 3
+      hint: null
+      type: select_multiple
+      options:
+      - Pulmonary Arterial Line insertion
+      - Other
+      required: false

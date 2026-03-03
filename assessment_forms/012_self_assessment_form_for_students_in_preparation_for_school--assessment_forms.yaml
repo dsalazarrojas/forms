@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Self Assessment Form For Students In Preparation For School
+    pages:
+    - id: 1
+      name: student
+      label: student
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: temperature
+      label: body_temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: symptoms
+      label: symptoms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: school_id
+      label: school_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

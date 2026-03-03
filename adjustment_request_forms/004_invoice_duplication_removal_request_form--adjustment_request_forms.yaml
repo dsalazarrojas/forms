@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Invoice Duplication Removal Request Form
+    pages:
+    - id: 1
+      name: base_info
+      label: Base Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: invoice_info
+      label: Invoice Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: duplicate_invoices
+      label: Duplicate Invoices
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: base_info_details
+      label: Base Info Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: invoice_details
+      label: Invoice Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: duplicate_info
+      label: Duplicate Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: request_info
+      label: Request Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: Notes about the request
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: base_info_submit
+      label: Base Info Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: request_submit
+      label: Request Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

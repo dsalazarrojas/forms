@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: vehicle_entry_and_exit_log
+    pages:
+    - id: 1
+      name: entry_date
+      label: Entry Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_license_number
+      label: Vehicle License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: entry_time
+      label: Entry Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: exit_date
+      label: Exit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: exit_time
+      label: Exit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: driver_name
+      label: Driver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_number
+      label: Vehicle Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: false

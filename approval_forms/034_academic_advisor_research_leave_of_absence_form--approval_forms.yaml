@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Advisor Research Leave Of Absence Form
+    pages:
+    - id: 1
+      name: section_header_advisor_info
+      label: -- Advisor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: advisor_name
+      label: Full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: advisor_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: current_position
+      label: Current position or title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: years_of_service
+      label: Years of service at the institution
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: section_header_leave_details
+      label: -- Leave Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: leave_start_date
+      label: Requested leave start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: leave_end_date
+      label: Requested leave end date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: leave_type
+      label: Type of research leave
+      hint: null
+      type: select_one
+      options:
+      - Sabbatical
+      - Research fellowship
+      - Visiting researcher position
+      - Grant-funded research leave
+      - Other
+      required: true
+    - id: 12
+      name: section_header_research_plan
+      label: -- Research Plan --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: research_title
+      label: Title of research project
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: research_description
+      label: Description of research objectives and activities
+      hint: Include goals, methodology, and expected outcomes
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: research_location
+      label: Where will the research be conducted
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: funding_source
+      label: Funding source for the research
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_header_coverage
+      label: -- Advising Coverage Plan --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: current_caseload
+      label: Number of students currently in your advising caseload
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: coverage_plan
+      label: Proposed plan for advising coverage during your absence
+      hint: Name of substitute advisor or redistribution plan
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: section_header_approvals
+      label: -- Approvals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: department_chair_approval
+      label: Department chair or head approval status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Denied
+      required: false
+    - id: 22
+      name: dean_approval
+      label: Dean approval status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Denied
+      required: false
+    - id: 23
+      name: additional_notes
+      label: Additional notes or comments
+      hint: null
+      type: text
+      options: []
+      required: false

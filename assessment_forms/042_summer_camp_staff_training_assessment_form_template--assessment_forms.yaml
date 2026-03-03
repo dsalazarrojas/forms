@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer Camp Staff Training Assessment Form Template
+    pages:
+    - id: 1
+      name: staff_training_form
+      label: Staff Training Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: assessment_scale
+      label: Assessment Scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: training_topics
+      label: Topics Covered
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: training_hours
+      label: Training Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: evaluation_questions
+      label: Evaluation Questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: evaluation_scale
+      label: Evaluation Scale
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: feedback_comments
+      label: Feedback Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: evaluation_notes
+      label: Evaluation Notes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: training_topics_scale
+      label: Topics Covered Scale
+      hint: null
+      type: number
+      options: []
+      required: false

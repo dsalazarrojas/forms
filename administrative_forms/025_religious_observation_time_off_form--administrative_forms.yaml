@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Religious Observation Time Off Form
+    pages:
+    - id: 1
+      name: form_start
+      label: Religious Observation Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: religion
+      label: Choose a Religion
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reason
+      label: Reason for Time Off
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: time_off
+      label: Time Off
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: form_end
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Port Access Authorization Form
+    pages:
+    - id: 1
+      name: grantee_type
+      label: Grantee Type
+      hint: null
+      type: select_one
+      options:
+      - Authorized Person
+      - Authorized Organization
+      - Authorized Government Agency
+      - Other
+      required: false
+    - id: 2
+      name: grantee_title
+      label: Grantee Title
+      hint: null
+      type: select_one
+      options:
+      - Mr.
+      - Mrs.
+      - Ms.
+      - Other
+      required: false
+    - id: 3
+      name: grantee_name
+      label: Grantee Name
+      hint: First and Last Name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: grantee_email
+      label: Grantee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: grantee_phone
+      label: Grantee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: grantee_address
+      label: Grantee Address
+      hint: First and Last Name
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: facility_id
+      label: Facility ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: access_type
+      label: Access Type
+      hint: null
+      type: select_one
+      options:
+      - Access Granted
+      - Access Denied
+      required: false
+    - id: 9
+      name: access_start_date
+      label: Access Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: access_end_date
+      label: Access End Date
+      hint: null
+      type: date
+      options: []
+      required: false

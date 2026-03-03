@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: vehicle_inspection_appointment_form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: available_time
+      label: Available Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: service_provider
+      label: Service Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: appointment_details
+      label: Appointment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_inspection
+      label: Vehicle Inspection
+      hint: null
+      type: select_multiple
+      options:
+      - Vehicle Inspection
+      - Service
+      - Repair
+      required: false
+    - id: 7
+      name: vehicle_inspection_type
+      label: Vehicle Inspection Type
+      hint: null
+      type: select_one
+      options:
+      - Full Inspection
+      - Quick Inspection
+      - Express Inspection
+      required: false
+    - id: 8
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: vin
+      label: VIN
+      hint: null
+      type: text
+      options: []
+      required: false

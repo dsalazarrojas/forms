@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Material Hardness Assessment
+    pages:
+    - id: 1
+      name: material_hardness_assessment_form
+      label: Material Hardness Assessment Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: test_method
+      label: Test Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Rockwell''}'
+      - '{''id'': 2, ''name'': ''Brinell''}'
+      - '{''id'': 3, ''name'': ''Shore''}'
+      required: false
+    - id: 3
+      name: test_value
+      label: Test Value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: observation
+      label: Observation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Extracellular Matrix Assessment Form
+    pages:
+    - id: 1
+      name: extracellular_matrix_assessment_form_1
+      label: What is the primary goal of this assessment?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: extracellular_matrix_assessment_form_2
+      label: What are the key performance indicators for this assessment?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Invasive Species'', ''name'': ''invasive_species''}'
+      - '{''id'': 2, ''label'': ''Biodiversity'', ''name'': ''biodiversity''}'
+      - '{''id'': 3, ''label'': ''Ecosystem Health'', ''name'': ''ecosystem_health''}'
+      required: false
+    - id: 3
+      name: extracellular_matrix_assessment_form_3
+      label: What is the assessment location?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: extracellular_matrix_assessment_form_4
+      label: What is the assessment date?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: extracellular_matrix_assessment_form_5
+      label: What is the assessment time?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: extracellular_matrix_assessment_form_6
+      label: What is the contact information?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: extracellular_matrix_assessment_form_7
+      label: What is the email information?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: extracellular_matrix_assessment_form_8
+      label: What is the note?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: extracellular_matrix_assessment_form_9
+      label: What is the assessment status?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active'', ''name'': ''active''}'
+      - '{''id'': 2, ''label'': ''Passive'', ''name'': ''passive''}'
+      required: false
+    - id: 10
+      name: extracellular_matrix_assessment_form_10
+      label: Who is the assessor?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''User'', ''name'': ''user''}'
+      - '{''id'': 2, ''label'': ''Admin'', ''name'': ''admin''}'
+      required: false
+    - id: 11
+      name: extracellular_matrix_assessment_form_11
+      label: What is the assessment frequency?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: extracellular_matrix_assessment_form_12
+      label: What is the next action?
+      hint: null
+      type: text
+      options: []
+      required: false

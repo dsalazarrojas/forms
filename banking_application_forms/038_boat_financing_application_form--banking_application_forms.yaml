@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boat Financing Application Form
+    pages:
+    - id: 1
+      name: applicant_header
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: Contact for loan updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: loan_amount_requested
+      label: Loan amount requested
+      hint: Numeric value
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: down_payment_amount
+      label: Down payment amount
+      hint: Numeric value
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: vessel_make_model
+      label: Vessel make and model
+      hint: Manufacturer and model
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: vessel_year
+      label: Vessel year
+      hint: Year of manufacture
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: employment_status
+      label: Employment status
+      hint: Employment or self employed
+      type: select_one
+      options:
+      - Employed
+      - Self employed
+      - Unemployed
+      - Retired
+      required: true
+    - id: 10
+      name: annual_income
+      label: Annual income
+      hint: Gross annual income decimal
+      type: number
+      options: []
+      required: true

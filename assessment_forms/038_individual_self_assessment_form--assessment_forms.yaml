@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Individual Self Assessment Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: First name of the person filling out the form
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Email address of the person filling out the form
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: Department name
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: years_of_service
+      label: Years of Service
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: performance_rating_1
+      label: Performance Rating 1
+      hint: Select rating 1
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 9
+      name: performance_rating_2
+      label: Performance Rating 2
+      hint: Select rating 2
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 10
+      name: performance_rating_3
+      label: Performance Rating 3
+      hint: Select rating 3
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 11
+      name: date
+      label: Date
+      hint: Date of evaluation
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time
+      label: Time
+      hint: Time of evaluation
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

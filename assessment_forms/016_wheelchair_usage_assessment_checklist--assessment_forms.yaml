@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wheelchair Usage Assessment Checklist
+    pages:
+    - id: 1
+      name: patient_details
+      label: Patient Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: mobility_level
+      label: Mobility Level
+      hint: null
+      type: select_one
+      options:
+      - Wheelchair User
+      - Non-Wheelchair User
+      required: false
+    - id: 3
+      name: wheelchair_usage
+      label: Wheelchair Usage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: user_capacities
+      label: User Capacities
+      hint: null
+      type: select_multiple
+      options:
+      - Wheelchair User
+      - Independent
+      - Needs Assistance
+      - Has Difficulty
+      - Has Limitations
+      - Has a Medical Condition
+      required: false
+    - id: 5
+      name: support_needs
+      label: Support Needs
+      hint: null
+      type: select_multiple
+      options:
+      - Needs Assistance
+      - Has Difficulty
+      - No Support Needed
+      required: false
+    - id: 6
+      name: equipment_needs
+      label: Equipment Needs
+      hint: null
+      type: select_multiple
+      options:
+      - Manual Wheelchair
+      - Power Wheelchair
+      - Tilt Wheelchair
+      - Other
+      required: false
+    - id: 7
+      name: safety_concerns
+      label: Safety Concerns
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: other_notes
+      label: Other Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: patient_goals
+      label: Patient Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_comments
+      label: Patient Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: healthcare_provider_comments
+      label: Health Care Provider Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: healthcare_provider_recommendations
+      label: Health Care Provider Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_plan
+      label: Follow-Up Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_date
+      label: Follow-Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_time
+      label: Follow-Up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_duration
+      label: Follow-Up Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_frequency
+      label: Follow-Up Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - As Needed
+      required: false
+    - id: 18
+      name: follow_up_notes
+      label: Follow-Up Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_contact
+      label: Follow-Up Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: patient_informed
+      label: Patient Informed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: patient_informed_by
+      label: Informed By
+      hint: null
+      type: select_one
+      options:
+      - Nurse
+      - Doctor
+      - Physical Therapist
+      - Occupational Therapist
+      required: false
+    - id: 22
+      name: follow_up_method
+      label: Follow-Up Method
+      hint: null
+      type: select_multiple
+      options:
+      - Phone Call
+      - Email
+      - In-Person
+      - Video Call
+      - Message
+      required: false
+    - id: 23
+      name: follow_up_location
+      label: Follow-Up Location
+      hint: null
+      type: select_multiple
+      options:
+      - Clinic/Office
+      - Home
+      - In Person
+      - Other
+      required: false
+    - id: 24
+      name: patient_status
+      label: Patient Status
+      hint: null
+      type: select_one
+      options:
+      - Active/Engaged
+      - Lost to Follow-Up
+      - Unable to Follow-Up
+      - Discharged/No Longer Needing Service
+      required: false
+    - id: 25
+      name: assigned_provider
+      label: Assigned Provider
+      hint: null
+      type: select_one
+      options:
+      - Primary Care Provider
+      - Specialist
+      - Therapist
+      - Other
+      required: false

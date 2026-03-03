@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dog Temperament Questionnaire Form
+    pages:
+    - id: 1
+      name: dog_health
+      label: dog_health
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: socialization
+      label: socialization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: behavioral_issues
+      label: behavioral_issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: training_level
+      label: training_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: vaccination_status
+      label: vaccination_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''vaccinated''}'
+      - '{''id'': 2, ''name'': ''not_vaccinated''}'
+      - '{''id'': 3, ''name'': ''unknown''}'
+      required: false
+    - id: 6
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: behavioral_issues_2
+      label: behavioral_issues_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_condition_2
+      label: medical_condition_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: shelter_id
+      label: shelter_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: rescue_group_id
+      label: rescue_group_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitted_by_name
+      label: submitted_by_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: shelter_email
+      label: shelter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: submitted_date
+      label: submitted_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: dog_weight
+      label: dog_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: dog_age
+      label: dog_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: dog_breed
+      label: dog_breed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: dog_color
+      label: dog_color
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Onboarding Checklist Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Client Onboarding Checklist
+      hint: Complete all items below to finalize client onboarding
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_company_name
+      label: Client Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: primary_contact_name
+      label: Primary Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: primary_contact_email
+      label: Primary Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: primary_contact_phone
+      label: Primary Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contract_signed
+      label: Contract Signed and Returned
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: true
+    - id: 7
+      name: contract_date
+      label: Contract Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: initial_payment_received
+      label: Initial Payment Received
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending
+      required: true
+    - id: 9
+      name: payment_method
+      label: Payment Method on File
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Check
+      - PayPal
+      - Other
+      required: false
+    - id: 10
+      name: nda_executed
+      label: NDA Executed
+      hint: Non-disclosure agreement signed
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Required
+      required: true
+    - id: 11
+      name: client_portal_access_granted
+      label: Client Portal Access Granted
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending
+      required: true
+    - id: 12
+      name: portal_credentials_sent
+      label: Portal Credentials Sent to Client
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: kickoff_meeting_scheduled
+      label: Kickoff Meeting Scheduled
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Required
+      required: true
+    - id: 14
+      name: kickoff_meeting_date
+      label: Kickoff Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: project_requirements_collected
+      label: Project Requirements Documented
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - In Progress
+      required: true
+    - id: 16
+      name: brand_assets_received
+      label: Brand Assets Received
+      hint: Logos style guides etc.
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: false
+    - id: 17
+      name: stakeholder_contacts_collected
+      label: All Stakeholder Contacts Collected
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Partial
+      required: true
+    - id: 18
+      name: internal_team_briefed
+      label: Internal Team Briefed on Client
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Scheduled
+      required: true
+    - id: 19
+      name: communication_preferences
+      label: Client Communication Preferences
+      hint: How does the client prefer to communicate
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Video Call
+      - Slack or Teams
+      - No Preference
+      required: true
+    - id: 20
+      name: reporting_frequency
+      label: Preferred Reporting Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Quarterly
+      required: true
+    - id: 21
+      name: special_requirements
+      label: Special Requirements or Accommodations
+      hint: Any accessibility needs or special considerations
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: onboarding_specialist
+      label: Assigned Onboarding Specialist
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: onboarding_completion_date
+      label: Expected Onboarding Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

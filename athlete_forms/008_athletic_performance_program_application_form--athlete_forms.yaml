@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athletic Performance Program Application Form
+    pages:
+    - id: 1
+      name: applicant_information
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: athletic_background
+      label: -- Athletic Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: primary_sport
+      label: Primary Sport
+      hint: What is your main sport?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: current_team
+      label: Current Team/Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: years_competing
+      label: Years of Competition Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: current_skill_level
+      label: Current Skill Level
+      hint: Assess your current performance level
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Elite
+      - Professional
+      required: true
+    - id: 12
+      name: certifications_titles
+      label: Certifications or Titles
+      hint: List any athletic certifications or titles won
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: competition_goals
+      label: -- Performance Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: primary_goals
+      label: Primary Performance Goals
+      hint: What do you want to achieve in this program?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: specific_improvements
+      label: Specific Areas for Improvement
+      hint: Which aspects of your game need development?
+      type: select_multiple
+      options:
+      - Speed
+      - Strength
+      - Endurance
+      - Technique
+      - Mental Game
+      - Injury Prevention
+      - Other
+      required: true
+    - id: 16
+      name: time_commitment
+      label: Available Time for Training
+      hint: How many hours per week can you commit?
+      type: select_one
+      options:
+      - 5-10 hours
+      - 10-15 hours
+      - 15-20 hours
+      - 20+ hours
+      required: true
+    - id: 17
+      name: availability
+      label: Available Training Days
+      hint: Which days can you train?
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 18
+      name: preferred_training_time
+      label: Preferred Training Time
+      hint: null
+      type: select_one
+      options:
+      - Early Morning
+      - Mid-Morning
+      - Afternoon
+      - Evening
+      - Flexible
+      required: true
+    - id: 19
+      name: current_coaching
+      label: Currently Work with a Coach?
+      hint: Are you currently under coaching supervision?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: coach_name
+      label: Current Coach Name
+      hint: If yes, provide coach name
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: health_information
+      label: -- Health Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Any relevant health conditions?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: past_injuries
+      label: Past Injuries
+      hint: Describe any previous injuries
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: fitness_baseline
+      label: Current Fitness Level
+      hint: Rate your current overall fitness
+      type: select_one
+      options:
+      - Poor
+      - Below Average
+      - Average
+      - Above Average
+      - Excellent
+      required: true
+    - id: 25
+      name: motivation_statement
+      label: Why do you want to join this program?
+      hint: Share your motivation and goals
+      type: text
+      options: []
+      required: true

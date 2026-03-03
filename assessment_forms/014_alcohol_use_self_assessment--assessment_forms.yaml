@@ -1,0 +1,319 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alcohol Use Self Assessment
+    pages:
+    - id: 1
+      name: assessment_id
+      label: Assessment ID
+      hint: Unique identifier
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of this assessment
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: age
+      label: Age
+      hint: Your current age
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: Select your gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 5
+      name: relationship_status
+      label: Relationship Status
+      hint: Current relationship status
+      type: select_one
+      options:
+      - Single
+      - In a relationship
+      - Married
+      - Divorced
+      - Widowed
+      required: false
+    - id: 6
+      name: employment_status
+      label: Employment Status
+      hint: Current employment
+      type: select_one
+      options:
+      - Employed full-time
+      - Employed part-time
+      - Self-employed
+      - Unemployed
+      - Student
+      - Retired
+      required: false
+    - id: 7
+      name: question_1
+      label: Have you felt you should cut down on drinking?
+      hint: In the past year
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Often
+      - Always
+      required: true
+    - id: 8
+      name: question_2
+      label: Have people annoyed you by criticizing drinking?
+      hint: In the past year
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Often
+      - Always
+      required: true
+    - id: 9
+      name: question_3
+      label: Have you felt bad or guilty about drinking?
+      hint: In the past year
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Often
+      - Always
+      required: true
+    - id: 10
+      name: question_4
+      label: Have you had a drink first morning to steady nerves?
+      hint: Eye-opener drink in the past year
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Often
+      - Always
+      required: true
+    - id: 11
+      name: drinks_per_week
+      label: Average Drinks Per Week
+      hint: Typical weekly consumption
+      type: select_one
+      options:
+      - 0 drinks
+      - 1-5 drinks
+      - 6-10 drinks
+      - 11-15 drinks
+      - 16-25 drinks
+      - 26-40 drinks
+      - Over 40 drinks
+      required: true
+    - id: 12
+      name: max_drinks_single_day
+      label: Maximum Drinks in One Day
+      hint: Highest number in past month
+      type: select_one
+      options:
+      - 0-2 drinks
+      - 3-4 drinks
+      - 5-6 drinks
+      - 7-9 drinks
+      - 10-14 drinks
+      - 15 or more drinks
+      required: true
+    - id: 13
+      name: drinking_frequency
+      label: Drinking Frequency
+      hint: How often do you drink?
+      type: select_one
+      options:
+      - Never
+      - Monthly or less
+      - 2-4 times per month
+      - 2-3 times per week
+      - 4 or more times per week
+      required: true
+    - id: 14
+      name: inability_to_stop
+      label: Unable to Stop Once Started
+      hint: How often does this happen?
+      type: select_one
+      options:
+      - Never
+      - Less than monthly
+      - Monthly
+      - Weekly
+      - Daily or almost daily
+      required: true
+    - id: 15
+      name: failed_expectations
+      label: Failed to Meet Expectations
+      hint: Due to drinking in past year
+      type: select_one
+      options:
+      - Never
+      - Less than monthly
+      - Monthly
+      - Weekly
+      - Daily or almost daily
+      required: true
+    - id: 16
+      name: morning_drinking
+      label: Needed Morning Drink
+      hint: To get going in past year
+      type: select_one
+      options:
+      - Never
+      - Less than monthly
+      - Monthly
+      - Weekly
+      - Daily or almost daily
+      required: true
+    - id: 17
+      name: guilt_after_drinking
+      label: Felt Guilt After Drinking
+      hint: In the past year
+      type: select_one
+      options:
+      - Never
+      - Less than monthly
+      - Monthly
+      - Weekly
+      - Daily or almost daily
+      required: true
+    - id: 18
+      name: memory_blackouts
+      label: Memory Blackouts
+      hint: Unable to remember night before
+      type: select_one
+      options:
+      - Never
+      - Less than monthly
+      - Monthly
+      - Weekly
+      - Daily or almost daily
+      required: true
+    - id: 19
+      name: injury_while_drinking
+      label: Injured While or After Drinking
+      hint: In the past year
+      type: select_one
+      options:
+      - false
+      - Yes, once
+      - Yes, more than once
+      required: true
+    - id: 20
+      name: concerned_by_others
+      label: Others Concerned About Drinking
+      hint: Has anyone expressed concern?
+      type: select_one
+      options:
+      - false
+      - Yes, family member
+      - Yes, friend
+      - Yes, coworker
+      - Yes, healthcare provider
+      - Yes, multiple people
+      required: false
+    - id: 21
+      name: withdrawal_symptoms
+      label: Withdrawal Symptoms When Not Drinking
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Anxiety
+      - Shakiness/Tremors
+      - Sweating
+      - Nausea
+      - Insomnia
+      - Headache
+      - Irritability
+      required: false
+    - id: 22
+      name: tolerance_level
+      label: Tolerance Level
+      hint: Need more alcohol for same effect
+      type: select_one
+      options:
+      - No increased tolerance
+      - Slight increase
+      - Moderate increase
+      - Significant increase
+      required: true
+    - id: 23
+      name: impact_on_relationships
+      label: Impact on Relationships
+      hint: Has drinking affected relationships?
+      type: select_one
+      options:
+      - No impact
+      - Minor impact
+      - Moderate impact
+      - Significant impact
+      - Severe impact
+      required: true
+    - id: 24
+      name: impact_on_work
+      label: Impact on Work or School
+      hint: Has drinking affected performance?
+      type: select_one
+      options:
+      - No impact
+      - Minor impact
+      - Moderate impact
+      - Significant impact
+      - Severe impact
+      required: true
+    - id: 25
+      name: readiness_to_change
+      label: Readiness to Change
+      hint: How ready are you to make changes?
+      type: select_one
+      options:
+      - Not considering change
+      - Thinking about change
+      - Planning to change
+      - Ready to take action
+      - Already making changes
+      required: true
+    - id: 26
+      name: support_system
+      label: Support System Available
+      hint: Do you have support for change?
+      type: select_one
+      options:
+      - Strong support
+      - Some support
+      - Limited support
+      - No support
+      required: false
+    - id: 27
+      name: previous_attempts
+      label: Previous Attempts to Cut Down
+      hint: Have you tried before?
+      type: select_one
+      options:
+      - Never tried
+      - 1-2 attempts
+      - 3-5 attempts
+      - More than 5 attempts
+      required: false
+    - id: 28
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else you want to share
+      type: text
+      options: []
+      required: false

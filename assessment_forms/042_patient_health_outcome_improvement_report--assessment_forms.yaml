@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Health Outcome Improvement Report
+    pages:
+    - id: 1
+      name: patient_health_outcome_improvement_report
+      label: Patient Health Outcome Improvement Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_progress
+      label: Patient Progress
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_goals
+      label: Patient Goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: current_status
+      label: Current Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: outcome_measures
+      label: Outcome Measures
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: assessment_frequency
+      label: Assessment Frequency
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: last_assessment_date
+      label: Last Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: care_team_members
+      label: Care Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false

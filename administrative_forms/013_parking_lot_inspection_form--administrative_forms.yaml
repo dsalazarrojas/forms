@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parking Lot Inspection Form
+    pages:
+    - id: 1
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: lot_number
+      label: Lot Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: lot_location
+      label: Lot Location
+      hint: null
+      type: select_one
+      options:
+      - Park A
+      - Park B
+      - Park C
+      required: false
+    - id: 4
+      name: lot_condition
+      label: Lot Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: lot_status
+      label: Lot Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Restricted
+      required: false
+    - id: 6
+      name: lot_inspector
+      label: Lot Inspector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: lot_comments
+      label: Lot Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: lot_parking_capacity
+      label: Lot Parking Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: lot_parking_spaces
+      label: Lot Parking Spaces
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: lot_parking_spaces_available
+      label: Lot Parking Spaces Available
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: lot_spaces_reserved
+      label: Lot Spaces Reserved
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: lot_spaces_available
+      label: Lot Spaces Available
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: lot_spaces_reserved_percent
+      label: Lot Spaces Reserved
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: lot_spaces_available_percent
+      label: Lot Spaces Available
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: lot_spaces_utilization
+      label: Lot Spaces Utilization
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: lot_parking_capacity_percent
+      label: Lot Parking Capacity Percent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: lot_parking_spaces_percent
+      label: Lot Parking Spaces Percent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: lot_status_comments
+      label: Lot Status Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: lot_status_notes
+      label: Lot Status Notes
+      hint: null
+      type: note
+      options: []
+      required: false

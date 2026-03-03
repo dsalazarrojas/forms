@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Return Exchange Authorization Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: order_number
+      label: Order Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: reason_for_return
+      label: reason_for_return
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: product_details
+      label: product details
+      hint: null
+      type: select_multiple
+      options:
+      - Item A
+      - Item B
+      - Item C
+      required: false
+    - id: 5
+      name: authorized_by
+      label: Authorized By
+      hint: null
+      type: select_one
+      options:
+      - Samantha
+      - John
+      - Jane
+      required: false
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

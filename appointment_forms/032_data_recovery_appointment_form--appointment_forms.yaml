@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Data Recovery Appointment Form
+    pages:
+    - id: 1
+      name: appointment_date
+      label: Appointment Date
+      hint: The date of the appointment
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: Client full name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Client email
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: Client phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: services
+      label: Services
+      hint: null
+      type: select_multiple
+      options:
+      - Data Recovery Services
+      - Data Destruction Services
+      - Data Backup Services
+      required: false
+    - id: 6
+      name: technician
+      label: Technician
+      hint: The technician assigned to the client
+      type: select_one
+      options:
+      - John Doe
+      - Jane Smith
+      - Jim Brown
+      required: false
+    - id: 7
+      name: booking_time
+      label: Booking Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: status
+      label: Status
+      hint: null
+      type: note
+      options: []
+      required: false

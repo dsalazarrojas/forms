@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: WorkplaceBullyingComplaintForm
+    pages:
+    - id: 1
+      name: bullying_incident
+      label: Bullying Incident Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reporter_details
+      label: Reporter Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: bully_name
+      label: Bullies Name
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Select an option''}'
+      - '{''id'': 2, ''label'': ''Another option''}'
+      required: false
+    - id: 4
+      name: bullying_description
+      label: Description
+      hint: Briefly describe the bullying incident
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: date_of_incident
+      label: Date of Incident
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_incident
+      label: Time of Incident
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: workplace_bullying_complaint_form
+      label: Workplace Bullying Complaint Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: bullying_type
+      label: Bullying Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Verbal Abuse''}'
+      - '{''id'': 2, ''label'': ''Physical Assault''}'
+      - '{''id'': 3, ''label'': ''Sexual Harassment''}'
+      - '{''id'': 4, ''label'': ''Other (please specify)''}'
+      required: false
+    - id: 9
+      name: witness_information
+      label: Witness Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reporting_employee
+      label: Reporting Employee
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Reporting Employee 1''}'
+      - '{''id'': 2, ''label'': ''Reporting Employee 2''}'
+      required: false
+    - id: 11
+      name: reporting_manager
+      label: Reporting Manager
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Reporting Manager 1''}'
+      - '{''id'': 2, ''label'': ''Reporting Manager 2''}'
+      required: false
+    - id: 12
+      name: reporting_location
+      label: Reporting Location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Reporting Location 1''}'
+      - '{''id'': 2, ''label'': ''Reporting Location 2''}'
+      required: false
+    - id: 13
+      name: reporting_date
+      label: Reporting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: reporting_time
+      label: Reporting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: reporting_manager_name
+      label: Reporting Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: reporting_manager_phone
+      label: Reporting Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: reporting_manager_email
+      label: Reporting Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: reporting_manager_location
+      label: Reporting Manager Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: bullying_complaint_form_submitter
+      label: Bullying Complaint Form Submitter
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Reporting Employee 1''}'
+      - '{''id'': 2, ''label'': ''Reporting Employee 2''}'
+      required: false
+    - id: 20
+      name: bullying_complaint_form_review_status
+      label: Bullying Complaint Form Review Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''In Progress''}'
+      - '{''id'': 2, ''label'': ''Reviewed''}'
+      - '{''id'': 3, ''label'': ''Closed''}'
+      required: false
+    - id: 21
+      name: bullying_complaint_form_comments
+      label: Bullying Complaint Form Comments
+      hint: Please add any comments about this incident
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: bullying_incident_reported_date
+      label: Date of Reported Incident
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: bullying_complaint_form_submitting_status
+      label: Workplace Bullying Complaint Form Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''In Progress''}'
+      - '{''id'': 2, ''label'': ''Submitted''}'
+      - '{''id'': 3, ''label'': ''Closed''}'
+      required: false
+    - id: 24
+      name: bullying_incident_id
+      label: Incident ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''In Progress''}'
+      - '{''id'': 2, ''label'': ''Submitted''}'
+      - '{''id'': 3, ''label'': ''Closed''}'
+      required: false

@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lennar Appointment Request
+    pages:
+    - id: 1
+      name: new_appointment_request
+      label: New Appointment Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: appointment_duration
+      label: Appointment Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Dentist
+      - Physician
+      - Nurse
+      required: false
+    - id: 10
+      name: category_other
+      label: Other
+      hint: null
+      type: select_multiple
+      options:
+      - Dentist
+      - Physician
+      - Nurse
+      - Other
+      required: false

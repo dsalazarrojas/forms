@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Time Clock Adjustment Request
+    pages:
+    - id: 1
+      name: employee_details
+      label: employee_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_occurrence
+      label: Date Of Occurrence
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_period
+      label: Time Period
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: adjustment_details
+      label: Adjustment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: adjustment_reason
+      label: Adjustment Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: time_clock_adjustment_request_form_id
+      label: Time Clock Adjustment Request Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_completion_date
+      label: Form Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: created_at
+      label: Created At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: user_id
+      label: User ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: user_phone
+      label: User Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: manager_id
+      label: Manager ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: team
+      label: Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

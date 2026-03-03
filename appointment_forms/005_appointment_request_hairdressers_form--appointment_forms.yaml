@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Appointment Request Hairdressers Form
+    pages:
+    - id: 1
+      name: client_information
+      label: Client Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: appointment_preferences
+      label: Appointment Preferences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: appointment_date
+      label: Preferred Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: appointment_time
+      label: Preferred Time
+      hint: null
+      type: select_one
+      options:
+      - 9:00 AM
+      - 10:00 AM
+      - 11:00 AM
+      - 1:00 PM
+      - 2:00 PM
+      - 3:00 PM
+      - 4:00 PM
+      - 5:00 PM
+      required: true
+    - id: 8
+      name: hairstyle_service
+      label: Service Requested
+      hint: null
+      type: select_one
+      options:
+      - Haircut
+      - Color
+      - Highlights
+      - Styling
+      - Perm
+      - Extensions
+      - Other
+      required: true
+    - id: 9
+      name: stylist_preference
+      label: Stylist Preference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: hair_type
+      label: Hair Type
+      hint: null
+      type: select_one
+      options:
+      - Straight
+      - Wavy
+      - Curly
+      - Coily
+      required: false
+    - id: 11
+      name: style_inspiration
+      label: Do you have a style image or description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: special_requests
+      label: Special Requests or Allergies
+      hint: null
+      type: text
+      options: []
+      required: false

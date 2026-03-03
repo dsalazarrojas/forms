@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nirsevimab Eligibility And Approval Request Form
+    pages:
+    - id: 1
+      name: nirsevimab_eligibility
+      label: nirsevimab_eligibility
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: date_of_last_exam
+      label: date_of_last_exam
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: patient_address
+      label: patient_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_phone_number
+      label: patient_phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_email
+      label: patient_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: rsv_symptoms
+      label: rsv_symptoms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_id
+      label: patient_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: healthcare_provider
+      label: healthcare_provider
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Provider 1''}'
+      - '{''value'': ''Provider 2''}'
+      - '{''value'': ''Provider 3''}'
+      required: false
+    - id: 12
+      name: provider_contact_number
+      label: provider_contact_number
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Provider 1''}'
+      - '{''value'': ''Provider 2''}'
+      - '{''value'': ''Provider 3''}'
+      required: false
+    - id: 13
+      name: rsv_vaccine_type
+      label: rsv_vaccine_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Vaccine A''}'
+      - '{''value'': ''Vaccine B''}'
+      - '{''value'': ''Vaccine C''}'
+      required: false
+    - id: 14
+      name: rsv_dose_number
+      label: rsv_dose_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: rsv_last_administered_date
+      label: rsv_last_administered_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: doctor_name
+      label: doctor_name
+      hint: null
+      type: text
+      options: []
+      required: false

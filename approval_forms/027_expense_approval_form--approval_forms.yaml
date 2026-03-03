@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Expense Approval Form
+    pages:
+    - id: 1
+      name: user
+      label: Employee
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''John''}'
+      - '{''id'': 2, ''name'': ''Jane''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      required: true
+    - id: 2
+      name: date
+      label: Expense Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Food''}'
+      - '{''id'': 2, ''name'': ''Travel''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      required: false
+    - id: 4
+      name: amount
+      label: Expense Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: approver
+      label: Approver
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''John''}'
+      - '{''id'': 2, ''name'': ''Jane''}'
+      - '{''id'': 3, ''name'': ''Manager''}'
+      required: true
+    - id: 7
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: attachment
+      label: Attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Attendance Scorecard Form
+    pages:
+    - id: 1
+      name: participant_identification
+      label: -- Participant Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_id
+      label: Participant ID
+      hint: Employee or member ID
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department_team
+      label: Department or Team
+      hint: Organizational unit
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: manager_supervisor
+      label: Manager or Supervisor
+      hint: Reporting manager name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: evaluation_period
+      label: -- Evaluation Period --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: review_start_date
+      label: Review Period Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: review_end_date
+      label: Review Period End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: scorecard_date
+      label: Scorecard Date
+      hint: When scorecard was completed
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: attendance_metrics
+      label: -- Attendance Metrics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: total_working_days
+      label: Total Working Days
+      hint: Days the facility was open
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: days_present
+      label: Days Present
+      hint: Days attended
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: days_absent
+      label: Days Absent
+      hint: Days missed
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: days_late
+      label: Days Late
+      hint: Days arrived late
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: excused_absences
+      label: Excused Absences
+      hint: Approved absences
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: performance_scores
+      label: -- Performance Scores --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: attendance_score
+      label: Attendance Score
+      hint: Rate overall attendance (1-100)
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: punctuality_score
+      label: Punctuality Score
+      hint: Rate punctuality (1-100)
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: reliability_score
+      label: Reliability Score
+      hint: Rate reliability (1-100)
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: engagement_score
+      label: Engagement Score
+      hint: Rate engagement (1-100)
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: comments_observations
+      label: -- Comments and Observations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: strengths
+      label: Attendance Strengths
+      hint: What they do well
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: What needs to improve
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: overall_assessment
+      label: Overall Assessment
+      hint: Summary assessment
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: recommended_actions
+      label: Recommended Actions
+      hint: Next steps or interventions
+      type: text
+      options: []
+      required: false

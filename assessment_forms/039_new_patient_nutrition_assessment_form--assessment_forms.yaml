@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: new_patient_nutrition_assessment_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_zone
+      label: Time zone
+      hint: null
+      type: select_multiple
+      options:
+      - America/Indianapolis
+      - Pacific/UTC-8
+      - Pacific/UTC-7
+      required: false
+    - id: 6
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 7
+      name: height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: blood_pressure
+      label: Blood Pressure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: medication
+      label: Medication
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: medical_history
+      label: Medical history
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - Penicillin
+      - Ibuprofen
+      - Erythromycin
+      required: false
+    - id: 13
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_phone
+      label: Emergency contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: additional_notes
+      label: Additional notes
+      hint: null
+      type: note
+      options: []
+      required: false

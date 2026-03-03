@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Harassment Reporting Monitoring Form
+    pages:
+    - id: 1
+      name: incident_details
+      label: Incident Details
+      hint: Please provide information about the incident
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reporting_officer
+      label: Reporting Officer
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''John Doe''}'
+      - '{''value'': ''Jane Doe''}'
+      - '{''value'': ''Jane Smith''}'
+      required: false
+    - id: 3
+      name: reporting_date
+      label: Reporting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: witness_list
+      label: Witness List
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Witness 1''}'
+      - '{''value'': ''Witness 2''}'
+      - '{''value'': ''Witness 3''}'
+      required: false
+    - id: 6
+      name: incident_type
+      label: Incident Type
+      hint: Please choose the type of harassment incident
+      type: select_one
+      options:
+      - '{''value'': ''Bullying''}'
+      - '{''value'': ''Harassment''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 7
+      name: perpetrator_list
+      label: Perpetrator List
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Perpetrator 1''}'
+      - '{''value'': ''Perpetrator 2''}'
+      - '{''value'': ''Perpetrator 3''}'
+      required: false
+    - id: 8
+      name: resolution
+      label: Resolution
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Open''}'
+      - '{''value'': ''Closed''}'
+      - '{''value'': ''Pending''}'
+      required: false
+    - id: 9
+      name: follow_up_actions
+      label: Follow Up Actions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Follow Up 1''}'
+      - '{''value'': ''Follow Up 2''}'
+      - '{''value'': ''Follow Up 3''}'
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: reporting_date_time
+      label: Reporting Time
+      hint: null
+      type: time
+      options: []
+      required: false

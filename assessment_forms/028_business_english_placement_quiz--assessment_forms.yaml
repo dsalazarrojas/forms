@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business English Placement Quiz
+    pages:
+    - id: 1
+      name: participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Business email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company
+      label: Company Name
+      hint: Your organization
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: english_background
+      label: English Language Background
+      hint: Is English your native language?
+      type: select_one
+      options:
+      - Yes, Native Speaker
+      - No, Learned as Second Language
+      - Bilingual
+      required: true
+    - id: 7
+      name: years_speaking
+      label: Years Speaking Business English
+      hint: How many years of experience?
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: grammar_section
+      label: -- Grammar Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: grammar_question_1
+      label: Select the Correct Sentence
+      hint: Question 1
+      type: select_one
+      options:
+      - She have completed the project
+      - She has completed the project
+      - She has complete the project
+      - She haves completed the project
+      required: true
+    - id: 10
+      name: grammar_question_2
+      label: Complete the Sentence - If I Had Time, I ... Go to the Conference
+      hint: Question 2
+      type: select_one
+      options:
+      - would go
+      - will go
+      - would have gone
+      - go
+      required: true
+    - id: 11
+      name: grammar_question_3
+      label: Choose the Best Option
+      hint: Question 3
+      type: select_one
+      options:
+      - The report must be submitted before Friday
+      - The report must be submit before Friday
+      - The report must submitting before Friday
+      - The report must to submit before Friday
+      required: true
+    - id: 12
+      name: vocabulary_section
+      label: -- Vocabulary Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: vocab_question_1
+      label: What Does Synergy Mean in Business
+      hint: Question 1
+      type: select_one
+      options:
+      - The interaction between parts that creates a better result
+      - Money earned by a company
+      - A type of meeting
+      - A training program
+      required: true
+    - id: 14
+      name: vocab_question_2
+      label: What Does Proactive Mean
+      hint: Question 2
+      type: select_one
+      options:
+      - Waiting for something to happen
+      - Taking action in advance
+      - Reacting to problems
+      - Being inactive
+      required: true
+    - id: 15
+      name: listening_section
+      label: -- Listening Comprehension --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: listening_question_1
+      label: In a Business Meeting, What Does A Stakeholder Do
+      hint: Question 1
+      type: select_one
+      options:
+      - Has an interest in the company
+      - Counts the money
+      - Cleans the office
+      - Organizes events
+      required: true
+    - id: 17
+      name: speaking_assessment
+      label: -- Speaking Confidence --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: speaking_confidence
+      label: My Confidence Presenting in Business English
+      hint: How confident are you?
+      type: select_one
+      options:
+      - Very Low
+      - Low
+      - Moderate
+      - High
+      - Very High
+      required: true
+    - id: 19
+      name: presentation_experience
+      label: Presentation Experience
+      hint: Have you given business presentations in English?
+      type: select_one
+      options:
+      - No Experience
+      - Limited Experience
+      - Moderate Experience
+      - Extensive Experience
+      required: true
+    - id: 20
+      name: learning_goals
+      label: -- Learning Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: improvement_areas
+      label: Areas for Improvement
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Grammar
+      - Vocabulary
+      - Speaking Fluency
+      - Listening Comprehension
+      - Presentation Skills
+      - Written Communication
+      - Accent Reduction
+      required: true

@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Garage Door Opener Installation Survey
+    pages:
+    - id: 1
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: door_type
+      label: Door Type
+      hint: null
+      type: select_one
+      options:
+      - Roller
+      - Swing
+      - Slide
+      - Panel
+      - Sectional
+      - Other
+      required: false
+    - id: 3
+      name: feature_preferences
+      label: Feature Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Opener type
+      - Remote control
+      - Safety features
+      - Battery backup
+      - Other
+      required: false
+    - id: 4
+      name: preferred_installation_time
+      label: Preferred Installation Time
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Weekend
+      - Flexible
+      required: true
+    - id: 5
+      name: installation_notes
+      label: Installation Notes
+      hint: Please provide additional notes about the installation.
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Email and Phone
+      required: false
+    - id: 7
+      name: installer_notes
+      label: Installer Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: service_company
+      label: Service Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: door_type_description
+      label: Door Type Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: garage_details
+      label: Garage Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: job_details
+      label: Job Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - Payment on installation
+      - Payment plan
+      - Other
+      required: false
+    - id: 14
+      name: payment_terms_details
+      label: Payment Terms Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit card
+      - Bank transfer
+      - Other
+      required: false
+    - id: 16
+      name: additional_notes
+      label: Additional Notes
+      hint: Please provide any additional notes or comments.
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: install_date
+      label: Install Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: install_time
+      label: Install Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 22
+      name: installation_status
+      label: Installation Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Ongoing
+      - Scheduled
+      - Canceled
+      required: false
+    - id: 23
+      name: installation_comments
+      label: Installation Comments
+      hint: Please provide any comments about the installation.
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: service_company_address
+      label: Service Company Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: service_company_phone
+      label: Service Company Phone
+      hint: null
+      type: text
+      options: []
+      required: true

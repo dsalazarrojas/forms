@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nail Salon Interior Design Appointment
+    pages:
+    - id: 1
+      name: salon_details
+      label: Salon Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: style_goals
+      label: Style Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: designer_notes
+      label: Designer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: salon_contact
+      label: Salon Contact
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: designer_availability
+      label: Designer Availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: design_consultation
+      label: Design Consultation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: confirmation
+      label: Confirmation
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 8
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false

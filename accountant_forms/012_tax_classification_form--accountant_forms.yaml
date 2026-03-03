@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Classification Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendor_info
+      label: Vendor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contractor_info
+      label: Contractor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_info
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vendor_tax_status
+      label: Vendor Tax Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: contractor_tax_status
+      label: Contractor Tax Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: vendor_ein
+      label: Vendor EIN
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: vendor_ssn
+      label: Vendor SSN
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: contractor_ein
+      label: Contractor EIN
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: contractor_ssn
+      label: Contractor SSN
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: vendor_tax_exempt
+      label: Vendor Tax Exempt
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: contractor_tax_exempt
+      label: Contractor Tax Exempt
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: vendor_tax_id
+      label: Vendor Tax ID
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: contractor_tax_id
+      label: Contractor Tax ID
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: vendor_tax_status_2
+      label: Vendor Tax Status 2
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 16
+      name: contractor_tax_status_2
+      label: Contractor Tax Status 2
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 17
+      name: vendor_payment_method
+      label: Vendor Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: contractor_payment_method
+      label: Contractor Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: vendor_irs
+      label: Vendor IRS
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: contractor_irs
+      label: Contractor IRS
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: vendor_state
+      label: Vendor State
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: contractor_state
+      label: Contractor State
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: vendor_zip
+      label: Vendor Zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: contractor_zip
+      label: Contractor Zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

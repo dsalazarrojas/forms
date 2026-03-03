@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hero T Shirt Order Form
+    pages:
+    - id: 1
+      name: first_page
+      label: order_form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: t_shirt_designs
+      label: T-Shirt Designs
+      hint: null
+      type: select_one
+      options:
+      - Apple
+      - Cherry
+      - Orange
+      required: false
+    - id: 5
+      name: t_shirt_sizes
+      label: T-Shirt Sizes
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 6
+      name: t_shirt_colors
+      label: T-Shirt Colors
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Yellow
+      required: false
+    - id: 7
+      name: order_details
+      label: Order Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: customer_phone_number
+      label: Customer Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: t_shirt_quantity
+      label: T-Shirt Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - Cash On Delivery (COD)
+      - Pay Online
+      - Pay Offline
+      required: false
+    - id: 13
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Bank Transfer
+      - Card Swipe
+      - Cash
+      required: false
+    - id: 14
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - New Order
+      - In Progress
+      - Complete
+      required: false
+    - id: 15
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: order_number
+      label: Order Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: created_by_id
+      label: Created By ID
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: updated_by_id
+      label: Updated By ID
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: t_shirts
+      label: T Shirts
+      hint: null
+      type: text
+      options: []
+      required: false

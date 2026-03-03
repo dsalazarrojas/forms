@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Homemade Mask Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shipping_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipping_zip
+      label: Zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: shipping_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: order_quantity
+      label: Order Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: order_type
+      label: Order Type
+      hint: null
+      type: select_one
+      options:
+      - Custom
+      - Custom Plus
+      - Standard
+      required: false
+    - id: 12
+      name: order_color
+      label: Order Color
+      hint: null
+      type: select_multiple
+      options:
+      - Black
+      - Red
+      - Blue
+      - Green
+      - Yellow
+      required: true
+    - id: 13
+      name: order_message
+      label: Order Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: order_payment_type
+      label: Order Payment Type
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      required: true
+    - id: 15
+      name: order_shipping_method
+      label: Order Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - Standard
+      - Expedited
+      - Overnight
+      required: true
+    - id: 16
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: custom_fields
+      label: Custom Fields
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: form_submission_id
+      label: Form Submission ID
+      hint: null
+      type: text
+      options: []
+      required: false

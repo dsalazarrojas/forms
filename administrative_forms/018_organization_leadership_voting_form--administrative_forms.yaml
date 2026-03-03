@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: organization_leadership_voting_form
+    pages:
+    - id: 1
+      name: leadership_position
+      label: Leadership Position
+      hint: null
+      type: select_one
+      options:
+      - CEO
+      - Vice President
+      - Manager
+      - Director
+      - Officer
+      required: true
+    - id: 2
+      name: candidate
+      label: Candidate
+      hint: Enter candidate name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: vote_weight
+      label: Vote Weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: comments
+      label: Comments
+      hint: Add any additional comments
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: Enter submitted by name
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: submitted_note
+      label: Submitted Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitted_email
+      label: Submitted Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: submitted_phone
+      label: Submitted Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: created_by
+      label: Created By
+      hint: Enter created by name
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: created_date
+      label: Created Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: created_time
+      label: Created Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: created_note
+      label: Created Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: created_email
+      label: Created Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: created_phone
+      label: Created Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: updated_by
+      label: Updated By
+      hint: Enter updated by name
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: updated_date
+      label: Updated Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: updated_time
+      label: Updated Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: updated_note
+      label: Updated Note
+      hint: null
+      type: text
+      options: []
+      required: false

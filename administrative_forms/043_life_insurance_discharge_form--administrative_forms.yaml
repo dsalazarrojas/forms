@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Life Insurance Discharge Form
+    pages:
+    - id: 1
+      name: beneficiary_name
+      label: Beneficiary Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: relationship_to_policyholder
+      label: Relationship To Policyholder
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: claim_date
+      label: Claim Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: policy_number
+      label: Policy Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_discharge
+      label: Reason For Discharge
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 6
+      name: amount_disbursed
+      label: Amount Disbursed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: policy_type
+      label: Policy Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 11
+      name: policy_status
+      label: Policy Status
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 12
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: policyholder_signature
+      label: Policyholder Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: beneficiary_signature
+      label: Beneficiary Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: authorized_officer_signature
+      label: Authorized Officer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: witness_signature
+      label: Witness Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: authorized_officer_name
+      label: Authorized Officer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: witness_name
+      label: Witness Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: policyholder_address
+      label: Policyholder Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: beneficiary_address
+      label: Beneficiary Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: witness_address
+      label: Witness Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: contact_relationship
+      label: Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: policyholder_dob
+      label: Policyholder DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: witness_dob
+      label: Witness DOB
+      hint: null
+      type: date
+      options: []
+      required: false

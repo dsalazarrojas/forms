@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supply Chain Audit Intake Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: audit_date
+      label: Audit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: auditor_name
+      label: Auditor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: business_type
+      label: Business Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: true
+    - id: 8
+      name: industry
+      label: Industry
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: uploaded_docs
+      label: Upload Docs
+      hint: null
+      type: select_multiple
+      options:
+      - doc1
+      - doc2
+      - doc3
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: signature
+      label: Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: certification_date
+      label: Certification Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: certified_by
+      label: Certified By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: certified_date_format
+      label: Certified Date Format
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 17
+      name: upload_file
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: upload_video
+      label: Upload Video
+      hint: null
+      type: select_multiple
+      options:
+      - video1
+      - video2
+      required: false
+    - id: 19
+      name: uploaded_images
+      label: Upload Images
+      hint: null
+      type: select_multiple
+      options:
+      - image1
+      - image2
+      required: false
+    - id: 20
+      name: uploaded_documents
+      label: Upload Documents
+      hint: null
+      type: select_multiple
+      options:
+      - document1
+      - document2
+      required: false
+    - id: 21
+      name: upload_audio
+      label: Upload Audio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: upload_pdfs
+      label: Upload PDFs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: comments_section
+      label: Comments Section
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: uploaded_excel_file
+      label: Upload Excel File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: uploaded_word_file
+      label: Upload Word File
+      hint: null
+      type: text
+      options: []
+      required: false

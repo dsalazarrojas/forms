@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agriculture Vocabulary Quiz
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant name
+      hint: Optional for anonymous quiz
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: Definition of irrigation
+      hint: Select the best match
+      type: select_one
+      options:
+      - Application of water to crops
+      - Chemical treatment
+      - Harvesting technique
+      - Pest control method
+      required: true
+    - id: 3
+      name: question_2
+      label: Meaning of crop rotation
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Alternating crops by season
+      - Continuous monoculture
+      - Only fallowing land
+      - A type of pesticide
+      required: true
+    - id: 4
+      name: question_3
+      label: What is a buffer strip
+      hint: Choose the correct description
+      type: select_one
+      options:
+      - Vegetated area protecting water bodies
+      - Storage facility
+      - A type of fertilizer
+      - Harvest equipment
+      required: true
+    - id: 5
+      name: question_4
+      label: Purpose of cover crops
+      hint: Select the main purpose
+      type: select_one
+      options:
+      - Prevent erosion and improve soil
+      - Increase pesticide use
+      - Reduce labor
+      - Increase monoculture
+      required: true
+    - id: 6
+      name: question_5
+      label: Identify integrated pest management
+      hint: Best definition
+      type: select_one
+      options:
+      - Combining techniques to manage pests
+      - Only chemical spraying
+      - Ignoring pests
+      - Harvesting early
+      required: true
+    - id: 7
+      name: score
+      label: Score estimate
+      hint: Optional self reported score
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: feedback
+      label: Feedback on quiz
+      hint: Any comments about the quiz content
+      type: text
+      options: []
+      required: false

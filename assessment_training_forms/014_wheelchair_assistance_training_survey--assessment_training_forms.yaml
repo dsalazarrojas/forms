@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wheelchair_Assistance_Training_Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: confidence_level
+      label: Confidence Level
+      hint: How confident do you feel about using the wheelchair assistance tools?
+      type: select_one
+      options:
+      - '{''label'': ''Very High''}'
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 3
+      name: training_quality
+      label: Training Quality
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 4
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: How satisfied are you with the training session?
+      type: select_one
+      options:
+      - '{''label'': ''Very Satisfied''}'
+      - '{''label'': ''Satisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Dissatisfied''}'
+      - '{''label'': ''Very Dissatisfied''}'
+      required: false
+    - id: 5
+      name: future_sessions
+      label: Future Sessions
+      hint: How many more sessions would you like to attend in the next six months?
+      type: select_multiple
+      options:
+      - '{''label'': 1}'
+      - '{''label'': 2}'
+      - '{''label'': 3}'
+      - '{''label'': 4}'
+      - '{''label'': ''5 or more''}'
+      required: false
+    - id: 6
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

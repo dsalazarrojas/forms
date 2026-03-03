@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Operational Readiness Assessment Template
+    pages:
+    - id: 1
+      name: operational_readiness_assessment
+      label: Operational Readiness Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organization_performance
+      label: Organization Performance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: operational_capabilities
+      label: Operational Capabilities
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: management_structure
+      label: Management Structure
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: communication
+      label: Communication
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: risk_assessment
+      label: Risk Assessment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: operational_readiness_rating
+      label: Operational Readiness Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 8
+      name: overall_performance_rating
+      label: Overall Performance Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 9
+      name: recommendation
+      label: Recommendation
+      hint: null
+      type: text
+      options: []
+      required: false

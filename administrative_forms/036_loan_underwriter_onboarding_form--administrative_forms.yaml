@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: loan_underwriter_onboarding_form
+    pages:
+    - id: 1
+      name: new_loan_underwriter_form
+      label: New Loan Underwriter Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: loan_underwriting_qualifications
+      label: Loan Underwriting Qualifications
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: years_of_experience
+      label: Years of Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: certification
+      label: Certification
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: underwriting_training
+      label: Underwriting Training
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: onboarding_status
+      label: Onboarding Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: onboarding_completed
+      label: Onboarding Completed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

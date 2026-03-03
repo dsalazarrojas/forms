@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Equipment Inventory Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: equipment_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: manufacturer
+      label: Manufacturer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: model
+      label: Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: year_of_manufacture
+      label: Year of Manufacture
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: serial_number
+      label: Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: purchase_price
+      label: Purchase Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: current_location
+      label: Current Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: purchase_date
+      label: Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false

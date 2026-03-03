@@ -1,0 +1,89 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community Integration Leave Form
+    pages:
+      - id: 1
+        name: leave_request_header
+        label: -- Leave Request --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: employee_name
+        label: Employee name
+        hint: Full legal name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: employee_id
+        label: Employee ID
+        hint: Internal identifier if applicable
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: department
+        label: Department or team
+        hint: Team or department name
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: leave_start_date
+        label: Leave start date
+        hint: First day of leave
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: leave_end_date
+        label: Leave end date
+        hint: Last day of leave
+        type: date
+        options: []
+        required: true
+      - id: 7
+        name: leave_reason
+        label: Reason for leave
+        hint: Brief justification or description
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: contact_during_leave
+        label: Contact method during leave
+        hint: Email or phone if available
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: manager_approval
+        label: Manager approval
+        hint: Manager to provide approval status
+        type: select_one
+        options:
+          - Approved
+          - Denied
+          - Pending
+        required: true
+      - id: 10
+        name: supporting_documents
+        label: Supporting documents provided
+        hint: List documents submitted with request
+        type: text
+        options: []
+        required: false

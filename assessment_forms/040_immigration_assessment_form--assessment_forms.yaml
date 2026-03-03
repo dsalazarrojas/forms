@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Immigration Assessment Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: assessment_details
+      label: Assessment Details
+      hint: null
+      type: select_multiple
+      options:
+      - First Name
+      - Last Name
+      - Country
+      - Date of Birth
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: immigration_status
+      label: Immigration Status
+      hint: null
+      type: select_one
+      options:
+      - Refugee
+      - Permanent Resident
+      - Temporary Resident
+      required: false
+    - id: 5
+      name: assessment_notes
+      label: Assessment Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: country_of_residence
+      label: Country of Residence
+      hint: null
+      type: select_one
+      options:
+      - Australia
+      - Canada
+      - New Zealand
+      - United Kingdom
+      - United States
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false

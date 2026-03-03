@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Verification Appointment Scheduler
+    pages:
+    - id: 1
+      name: schedule_meeting
+      label: Schedule Meeting
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: select_manager
+      label: Select Manager
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Manager 1'', ''value'': ''1''}'
+      - '{''name'': ''Manager 2'', ''value'': ''2''}'
+      - '{''name'': ''Manager 3'', ''value'': ''3''}'
+      required: false
+    - id: 3
+      name: select_employees
+      label: Select Employees
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Employee 1'', ''value'': ''1''}'
+      - '{''name'': ''Employee 2'', ''value'': ''2''}'
+      - '{''name'': ''Employee 3'', ''value'': ''3''}'
+      required: false
+    - id: 4
+      name: schedule_time
+      label: Schedule Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: schedule_duration
+      label: Schedule Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: verification_message
+      label: Verification Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: verification_date
+      label: Verification Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: verification_time
+      label: Verification Time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Measurement Conversion Quiz
+    pages:
+    - id: 1
+      name: user_input_1
+      label: What is your name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: unit_to_convert
+      label: unit to convert
+      hint: null
+      type: select_one
+      options:
+      - inches
+      - feet
+      - yards
+      - centimeters
+      - meters
+      - millimeters
+      - kilograms
+      - grams
+      required: false
+    - id: 3
+      name: value_to_convert
+      label: value to convert
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: converted_value
+      label: converted value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: units_to_choose
+      label: units to choose
+      hint: null
+      type: select_multiple
+      options:
+      - inches
+      - feet
+      - yards
+      - centimeters
+      - meters
+      - millimeters
+      - kilograms
+      - grams
+      required: false
+    - id: 6
+      name: result
+      label: result
+      hint: null
+      type: note
+      options: []
+      required: false

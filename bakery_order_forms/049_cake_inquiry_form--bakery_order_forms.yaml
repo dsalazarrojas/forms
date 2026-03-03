@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cake Inquiry Form
+    pages:
+    - id: 1
+      name: inquirer_name
+      label: Inquirer name
+      hint: For response
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact email
+      hint: For follow up
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: event_date
+      label: Event date
+      hint: Date cake is needed
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: cake_style
+      label: Cake style
+      hint: Design or theme requested
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: servings_required
+      label: Servings required
+      hint: Number of people to serve
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: budget
+      label: Budget
+      hint: Approximate budget for cake
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact phone
+      hint: Optional phone for faster response
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_details
+      label: Additional details
+      hint: Any reference images or notes
+      type: text
+      options: []
+      required: false

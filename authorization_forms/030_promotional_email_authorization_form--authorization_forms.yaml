@@ -1,0 +1,238 @@
+inputSchema:
+  type: object
+  properties:
+    title: promotional_email_authorization_form
+    pages:
+    - id: 1
+      name: business_details
+      label: Business Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email_preferences
+      label: Email Preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''receive_automated_emails''}'
+      - '{''value'': ''receive_newsletter''}'
+      - '{''value'': ''receive_both''}'
+      - '{''value'': ''no_emails''}'
+      - '{''value'': ''do_not_share''}'
+      required: true
+    - id: 3
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: confirm_email_repeat
+      label: Confirm Email (Repeat)
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_zone
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''est''}'
+      - '{''value'': ''pst''}'
+      - '{''value'': ''cdt''}'
+      - '{''value'': ''edt''}'
+      - '{''value'': ''cdt''}'
+      - '{''value'': ''cet''}'
+      - '{''value'': ''gmt''}'
+      required: false
+    - id: 8
+      name: marketing_outreach
+      label: Marketing Outreach
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''receive_newsletter''}'
+      - '{''value'': ''receive_automated_emails''}'
+      - '{''value'': ''do_not_share''}'
+      required: false
+    - id: 9
+      name: do_not_share
+      label: Do Not Share
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 10
+      name: marketing_preferences
+      label: Marketing Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''receive_newsletter''}'
+      - '{''value'': ''receive_automated_emails''}'
+      required: false
+    - id: 11
+      name: do_not_contact
+      label: Do Not Contact
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 12
+      name: do_not_share_outside
+      label: Do Not Share Outside
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 13
+      name: do_share_outside
+      label: Do Share Outside
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 14
+      name: marketing_outreach
+      label: Marketing Outreach
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''receive_newsletter''}'
+      - '{''value'': ''receive_automated_emails''}'
+      - '{''value'': ''do_not_share''}'
+      required: false
+    - id: 15
+      name: do_not_share_outside
+      label: Do Not Share Outside
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 16
+      name: marketing_outreach_repeat
+      label: Marketing Outreach (Repeat)
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''receive_newsletter''}'
+      - '{''value'': ''receive_automated_emails''}'
+      - '{''value'': ''do_not_share''}'
+      required: false
+    - id: 17
+      name: do_not_share_outside_repeat
+      label: Do Not Share Outside (Repeat)
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 18
+      name: time_of_year
+      label: Time of Year
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: timezone
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''est''}'
+      - '{''value'': ''pst''}'
+      - '{''value'': ''cdt''}'
+      - '{''value'': ''edt''}'
+      - '{''value'': ''cdt''}'
+      - '{''value'': ''cet''}'
+      - '{''value'': ''gmt''}'
+      required: false
+    - id: 20
+      name: marketing_preferences_repeat
+      label: Marketing Preferences (Repeat)
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''receive_newsletter''}'
+      - '{''value'': ''receive_automated_emails''}'
+      required: false
+    - id: 21
+      name: do_not_share_outside_repeat_repeat
+      label: Do Not Share Outside (Repeat)
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 22
+      name: time_of_year_repeat
+      label: Time of Year (Repeat)
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: timezone_repeat
+      label: Time Zone (Repeat)
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''est''}'
+      - '{''value'': ''pst''}'
+      - '{''value'': ''cdt''}'
+      - '{''value'': ''edt''}'
+      - '{''value'': ''cdt''}'
+      - '{''value'': ''cet''}'
+      - '{''value'': ''gmt''}'
+      required: false
+    - id: 24
+      name: marketing_outreach_repeat_repeat
+      label: Marketing Outreach (Repeat)
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''receive_newsletter''}'
+      - '{''value'': ''receive_automated_emails''}'
+      - '{''value'': ''do_not_share''}'
+      required: false
+    - id: 25
+      name: do_share_outside_repeat_repeat
+      label: Do Share Outside (Repeat)
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false

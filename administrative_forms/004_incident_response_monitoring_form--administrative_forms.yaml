@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Incident Response Monitoring Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_name
+      label: Incident Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_category
+      label: Incident Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Category 1''}'
+      - '{''id'': 2, ''name'': ''Category 2''}'
+      required: true
+    - id: 8
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Status 1''}'
+      - '{''id'': 2, ''name'': ''Status 2''}'
+      - '{''id'': 3, ''name'': ''Status 3''}'
+      required: true
+    - id: 9
+      name: incident_priority
+      label: Incident Priority
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Priority 1''}'
+      - '{''id'': 2, ''name'': ''Priority 2''}'
+      - '{''id'': 3, ''name'': ''Priority 3''}'
+      required: false
+    - id: 10
+      name: response_team
+      label: Response Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: incident_notes
+      label: Incident Notes
+      hint: Additional notes on the incident
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: tree species knowledge assessment
+    pages:
+    - id: 1
+      name: tree_species_quiz
+      label: Tree Species Quiz
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: reflection
+      label: Reflection
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: quiz_score
+      label: Quiz Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: assessment_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_taken
+      label: Time Taken
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: score_interpretation
+      label: Score Interpretation
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 8
+      name: score_rationale
+      label: Score Rationale
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: festival_t_shirt_pre_order_form
+    pages:
+    - id: 1
+      name: festival_t_shirt_pre_order_form_1
+      label: event_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_details_2
+      label: event_details_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: organization
+      label: organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: delivery_address
+      label: delivery_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: delivery_instructions
+      label: delivery_instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Stripe
+      - PayPal
+      - Cash
+      required: false
+    - id: 10
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: payment_currency
+      label: payment_currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      required: false
+    - id: 12
+      name: festival_t_shirt_size
+      label: festival_t_shirt_size
+      hint: null
+      type: select_multiple
+      options:
+      - S
+      - M
+      - L
+      - XL
+      required: false
+    - id: 13
+      name: festival_t_shirt_color
+      label: festival_t_shirt_color
+      hint: null
+      type: select_one
+      options:
+      - red
+      - blue
+      - green
+      required: false
+    - id: 14
+      name: t_shirt_design
+      label: t_shirt_design
+      hint: null
+      type: select_multiple
+      options:
+      - plain
+      - design
+      - logo
+      required: false
+    - id: 15
+      name: special_instructions
+      label: special_instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: event_start_time
+      label: event_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: event_location
+      label: event_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: event_details_3
+      label: event_details_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: t_shirt_design_2
+      label: t_shirt_design_2
+      hint: null
+      type: select_multiple
+      options:
+      - design
+      - logo
+      - print
+      required: false
+    - id: 21
+      name: order_t_shirt
+      label: order_t_shirt
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: order_t_shirt_size
+      label: order_t_shirt_size
+      hint: null
+      type: select_one
+      options:
+      - small
+      - medium
+      - large
+      required: false
+    - id: 23
+      name: order_t_shirt_color
+      label: order_t_shirt_color
+      hint: null
+      type: select_one
+      options:
+      - red
+      - blue
+      - green
+      required: false
+    - id: 24
+      name: order_t_shirt_type
+      label: order_t_shirt_type
+      hint: null
+      type: select_one
+      options:
+      - adult
+      - youth
+      required: false
+    - id: 25
+      name: order_t_shirt_design
+      label: order_t_shirt_design
+      hint: null
+      type: select_one
+      options:
+      - plain
+      - design
+      - logo
+      required: false

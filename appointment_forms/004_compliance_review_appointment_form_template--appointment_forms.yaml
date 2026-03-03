@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Compliance Review Appointment Form Template
+    pages:
+    - id: 1
+      name: requester_full_name
+      label: Requester Full Name
+      hint: Enter your complete name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Your employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Select your department
+      type: select_one
+      options:
+      - Human Resources
+      - Finance
+      - Operations
+      - Legal
+      - Information Technology
+      - Sales
+      - Marketing
+      - Research and Development
+      - Executive
+      - Other
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Your work email for confirmation
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: review_type
+      label: Review Type
+      hint: Select the type of compliance review needed
+      type: select_one
+      options:
+      - Annual Compliance Review
+      - New Employee Compliance Review
+      - Incident Response Review
+      - Policy Exception Review
+      - Regulatory Compliance Review
+      - Ethics Review
+      - Risk Assessment Review
+      - Other
+      required: true
+    - id: 7
+      name: preferred_appointment_date
+      label: Preferred Appointment Date
+      hint: Select your preferred date for the review
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: preferred_appointment_time
+      label: Preferred Appointment Time
+      hint: Select your preferred time
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: alternative_date
+      label: Alternative Date
+      hint: Second choice date if preferred is unavailable
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: appointment_location
+      label: Appointment Location Preference
+      hint: Where would you like the review to take place
+      type: select_one
+      options:
+      - In Person - Main Office
+      - In Person - Branch Office
+      - Video Conference
+      - Phone Call
+      - Hybrid
+      required: true
+    - id: 11
+      name: review_scope
+      label: Review Scope
+      hint: Describe the scope or focus of the compliance review
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent is this review request
+      type: select_one
+      options:
+      - Routine - Standard Timeline
+      - Priority - Within 5 Business Days
+      - Urgent - Within 48 Hours
+      - Critical - Immediate Attention
+      required: true
+    - id: 13
+      name: supporting_documents
+      label: Supporting Documents Required
+      hint: Will you need to submit supporting documents
+      type: select_one
+      options:
+      - Yes, I will upload documents
+      - No documents needed
+      - Unsure
+      required: false
+    - id: 14
+      name: previous_reviews
+      label: Previous Compliance Reviews
+      hint: Have you had a compliance review in the past 12 months
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: special_accommodations
+      label: Special Accommodations Needed
+      hint: Any accommodations required for the appointment
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: manager_notification
+      label: Notify Your Manager
+      hint: Should your manager be notified of this appointment
+      type: select_one
+      options:
+      - Yes, notify my manager
+      - No, keep confidential
+      required: true
+    - id: 17
+      name: additional_information
+      label: Additional Information
+      hint: Any other details to help us prepare for your review
+      type: text
+      options: []
+      required: false

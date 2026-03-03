@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Booking Appointment Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: checkin_date
+      label: Checkin
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: checkin_time
+      label: Checkin Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: checkout_date
+      label: Checkout
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: checkout_time
+      label: Checkout Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: room_type
+      label: Room Type
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Double
+      - Suite
+      required: false
+    - id: 10
+      name: room_quantity
+      label: Room Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: arrival_flight_number
+      label: Arrival Flight Number
+      hint: null
+      type: text
+      options: []
+      required: false

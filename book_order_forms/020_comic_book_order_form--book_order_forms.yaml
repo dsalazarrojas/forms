@@ -1,0 +1,256 @@
+inputSchema:
+  type: object
+  properties:
+    title: Comic Book Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Full name for order processing
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number for order inquiries
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_address
+      label: Shipping Address
+      hint: Complete mailing address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_header_new_releases
+      label: -- New Releases --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: marvel_new_release
+      label: Marvel New Release
+      hint: Select latest Marvel title
+      type: select_one
+      options:
+      - Not Interested
+      - Spider-Man Latest
+      - Avengers Latest
+      - X-Men Latest
+      - Batman Latest
+      - Superman Latest
+      required: true
+    - id: 7
+      name: dc_new_release
+      label: DC New Release
+      hint: Select latest DC title
+      type: select_one
+      options:
+      - Not Interested
+      - Batman Latest
+      - Superman Latest
+      - Wonder Woman Latest
+      - Justice League Latest
+      - Flash Latest
+      required: true
+    - id: 8
+      name: image_new_release
+      label: Image Comics New Release
+      hint: Select latest Image title
+      type: select_one
+      options:
+      - Not Interested
+      - Spawn Latest
+      - Walking Dead Latest
+      - Saga Latest
+      - Invincible Latest
+      required: true
+    - id: 9
+      name: section_header_popular_series
+      label: -- Popular Series --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: spider_man_issues
+      label: Spider-Man Issues
+      hint: Number of issues
+      type: select_one
+      options:
+      - 0
+      - 1-3
+      - 4-6
+      - 7-10
+      - Complete Run
+      required: true
+    - id: 11
+      name: batman_issues
+      label: Batman Issues
+      hint: Number of issues
+      type: select_one
+      options:
+      - 0
+      - 1-3
+      - 4-6
+      - 7-10
+      - Complete Run
+      required: true
+    - id: 12
+      name: x_men_issues
+      label: X-Men Issues
+      hint: Number of issues
+      type: select_one
+      options:
+      - 0
+      - 1-3
+      - 4-6
+      - 7-10
+      - Complete Run
+      required: true
+    - id: 13
+      name: avengers_issues
+      label: Avengers Issues
+      hint: Number of issues
+      type: select_one
+      options:
+      - 0
+      - 1-3
+      - 4-6
+      - 7-10
+      - Complete Run
+      required: true
+    - id: 14
+      name: section_header_graphic_novels
+      label: -- Graphic Novels --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: graphic_novel_selection
+      label: Graphic Novel Selection
+      hint: Select graphic novels
+      type: select_multiple
+      options:
+      - Watchmen
+      - Dark Knight Returns
+      - Maus
+      - Sandman Vol 1
+      - V for Vendetta
+      - Persepolis
+      - Saga Book 1
+      - None
+      required: true
+    - id: 16
+      name: manga_selection
+      label: Manga Selection
+      hint: Select manga volumes
+      type: select_multiple
+      options:
+      - One Piece
+      - Naruto
+      - Attack on Titan
+      - My Hero Academia
+      - Demon Slayer
+      - Dragon Ball
+      - Death Note
+      - None
+      required: true
+    - id: 17
+      name: section_header_subscriptions
+      label: -- Subscription Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: subscription_plan
+      label: Subscription Plan
+      hint: Monthly comic subscription
+      type: select_one
+      options:
+      - No Subscription
+      - Basic (3 comics/month)
+      - Standard (5 comics/month)
+      - Premium (10 comics/month)
+      - Unlimited Digital
+      required: true
+    - id: 19
+      name: section_header_payment
+      label: -- Payment and Shipping --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Apple Pay
+      - Google Pay
+      required: true
+    - id: 21
+      name: shipping_method
+      label: Shipping Method
+      hint: Delivery preference
+      type: select_one
+      options:
+      - Standard Shipping
+      - Express Shipping
+      - Overnight Shipping
+      - Store Pickup
+      required: true
+    - id: 22
+      name: bag_and_board
+      label: Bag and Board Service
+      hint: Protective covering for comics
+      type: select_one
+      options:
+      - Yes Please
+      - No Thanks
+      required: true
+    - id: 23
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special requests
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: subtotal
+      label: Subtotal
+      hint: Order subtotal
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: shipping_cost
+      label: Shipping Cost
+      hint: Shipping fee
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: total_amount
+      label: Total Amount
+      hint: Final order total
+      type: number
+      options: []
+      required: true

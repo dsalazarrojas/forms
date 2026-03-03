@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: it_system_access_offboarding_form
+    pages:
+    - id: 1
+      name: employee_information
+      label: Employee Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: manager_approvals
+      label: Manager Approvals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: deactivation_date
+      label: Deactivation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_departure
+      label: Reason For Departure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: system_access_deactivated
+      label: System Access Deactivated
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''IT System Access''}'
+      - '{''label'': ''Network Access''}'
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Phone''}'
+      required: true
+    - id: 6
+      name: additional_information
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: manager_title
+      label: Manager Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: it_administrators
+      label: IT Administrators
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: system_access
+      label: System Access
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_termination_process_checklist
+    pages:
+    - id: 1
+      name: employee_termination_request
+      label: Employee Termination Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_termination
+      label: reason_for_termination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: effective_date
+      label: Effective Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: termination_process_status
+      label: Termination Process Status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - in_progress
+      - completed
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: supervisor_email
+      label: Supervisor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: termination_type
+      label: Termination Type
+      hint: null
+      type: select_one
+      options:
+      - voluntary
+      - involuntary
+      required: false
+    - id: 12
+      name: reason_for_voluntary_termination
+      label: Reason for Voluntary Termination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: reason_for_involuntary_termination
+      label: Reason for Involuntary Termination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: reason_for_involuntary_termination_other
+      label: Other Reason for Involuntary Termination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: reason_for_involuntary_termination_other_hints
+      label: Other Reason for Involuntary Termination Hint
+      hint: null
+      type: text
+      options: []
+      required: false

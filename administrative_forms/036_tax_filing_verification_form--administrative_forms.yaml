@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: tax_filing_verification_form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: tax_year
+      label: tax_year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: tax_return_status
+      label: tax_return_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''pending''}'
+      - '{''value'': ''submitted''}'
+      - '{''value'': ''received''}'
+      - '{''value'': ''rejected''}'
+      required: false
+    - id: 5
+      name: client_address
+      label: client_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: tax_return_documents
+      label: tax_return_documents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: client_phone
+      label: client_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: client_email
+      label: client_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: tax_submission_date
+      label: tax_submission_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: tax_return_amount
+      label: tax_return_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: tax_return_filing_fee
+      label: tax_return_filing_fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: tax_return_filing_date
+      label: tax_return_filing_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: tax_submission_status
+      label: tax_submission_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''pending''}'
+      - '{''value'': ''submitted''}'
+      - '{''value'': ''received''}'
+      - '{''value'': ''rejected''}'
+      required: false
+    - id: 14
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: additional_documents
+      label: additional_documents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: tax_return_documents
+      label: tax_return_documents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

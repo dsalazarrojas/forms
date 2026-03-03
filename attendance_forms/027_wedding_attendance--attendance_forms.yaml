@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Attendance
+    pages:
+    - id: 1
+      name: wedding_guest_count
+      label: Number of guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: will_attend
+      label: Will attend
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_of_attendance
+      label: Time of attendance
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: will_arrive_late
+      label: Will arrive late
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: will_arrive_early
+      label: Will arrive early
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: arrival_time
+      label: Arrival time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: arrival_time_of_day
+      label: Arrival time of day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: arrival_date
+      label: Arrival date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: arrival_time_range
+      label: Arrival time range
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: will_leave_late
+      label: Will leave late
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: will_leave_early
+      label: Will leave early
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 19
+      name: estimated_leave_time
+      label: Estimated leave time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: estimated_leave_time_of_day
+      label: Estimated leave time of day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: estimated_leave_date
+      label: Estimated leave date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: estimated_leave_time_range
+      label: Estimated leave time range
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: will_send_gift
+      label: Will send gift
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: gift_details
+      label: Gift details
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contract Agreement Authorization Form
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Requestor Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requestor_title
+      label: Requestor Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: request_date
+      label: Request Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: contract_type
+      label: Contract Type
+      hint: Type of agreement
+      type: select_one
+      options:
+      - Service Agreement
+      - Vendor Contract
+      - Employment Contract
+      - Lease Agreement
+      - Purchase Agreement
+      - Partnership Agreement
+      - Licensing Agreement
+      - Non-Disclosure Agreement
+      - Other
+      required: true
+    - id: 6
+      name: contract_title
+      label: Contract Title
+      hint: Name of contract
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contract_description
+      label: Contract Description
+      hint: Brief description
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: counterparty_name
+      label: Counterparty Name
+      hint: Other party name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: counterparty_type
+      label: Counterparty Type
+      hint: What type of entity?
+      type: select_one
+      options:
+      - Corporation
+      - LLC
+      - Partnership
+      - Individual
+      - Government entity
+      - Non-profit
+      - Other
+      required: true
+    - id: 10
+      name: contract_value
+      label: Contract Value
+      hint: Total dollar amount
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: contract_duration
+      label: Contract Duration
+      hint: Length of agreement
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-2 years
+      - 2-5 years
+      - 5-10 years
+      - 10+ years
+      - Ongoing
+      required: true
+    - id: 12
+      name: start_date
+      label: Start Date
+      hint: When does it begin?
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: end_date
+      label: End Date
+      hint: When does it end?
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: authorization_level_required
+      label: Authorization Level Required
+      hint: Who needs to approve?
+      type: select_one
+      options:
+      - Department manager
+      - Director
+      - Vice president
+      - C-level executive
+      - Board approval
+      - Legal review
+      required: true
+    - id: 15
+      name: budget_code
+      label: Budget Code
+      hint: Cost center or account
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: funding_source
+      label: Funding Source
+      hint: Where is funding from?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: legal_review_required
+      label: Legal Review Required
+      hint: Has legal reviewed?
+      type: select_one
+      options:
+      - Yes, completed
+      - In progress
+      - Not yet
+      - Not required
+      required: true
+    - id: 18
+      name: risk_assessment
+      label: Risk Assessment
+      hint: Risk level
+      type: select_one
+      options:
+      - Low risk
+      - Medium risk
+      - High risk
+      - Critical risk
+      required: true
+    - id: 19
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: Any special terms?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: attachments
+      label: Attachments
+      hint: List attached documents
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: authorizing_manager
+      label: Authorizing Manager
+      hint: Manager name
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: manager_signature
+      label: Manager Signature
+      hint: Type name as signature
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: authorization_date
+      label: Authorization Date
+      hint: Date of approval
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

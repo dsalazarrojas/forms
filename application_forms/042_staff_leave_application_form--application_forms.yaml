@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Staff Leave Application Form
+    pages:
+    - id: 1
+      name: staff_leave_application_form_1
+      label: Leave Application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: leave_start_date
+      label: Leave Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: leave_end_date
+      label: Leave End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: leave_duration
+      label: Leave Duration
+      hint: Enter the number of days you will be away
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: leave_reason
+      label: Leave Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: employee_id
+      label: Employee ID
+      hint: Your employee ID
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: leave_status
+      label: Leave Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      - On Leave
+      required: true
+    - id: 8
+      name: leave_type
+      label: Leave Type
+      hint: Sick Leave/Vacation Leave
+      type: select_multiple
+      options:
+      - Sick Leave
+      - Vacation Leave
+      - Emergency Leave
+      - Other
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: file_upload_1
+      label: File Upload 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: file_upload_2
+      label: File Upload 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: file_upload_3
+      label: File Upload 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: back
+      label: Back
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: next
+      label: Next
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: previous
+      label: Previous
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: page_1
+      label: Page 1
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,30 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Safety Awareness Program Discharge Form
+    pages:
+    - id: 1
+      name: program_discharge
+      label: fire_safety_awareness_program_discharge
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: participant_acknowledgment
+      label: participant_acknowledgment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: safety_protocols_understood
+      label: safety_protocols_understood
+      hint: null
+      type: select_multiple
+      options:
+      - Fire Safety Procedures
+      - Evacuation Routes
+      - Fire Extinguisher Locations
+      - Emergency Contact Information
+      required: false

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: FIA Suitability Assessment Form
+    pages:
+    - id: 1
+      name: risk_tolerance
+      label: risk_tolerance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: time_horizon
+      label: time_horizon
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: goals
+      label: goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: financial_goals
+      label: financial_goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: investment
+      label: investment_goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: investment_return
+      label: investment_return
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: risk_tolerances
+      label: risk_tolerances
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: time_horizons
+      label: time_horizons
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

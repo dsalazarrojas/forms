@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: CCTV Disclosure and Access Log
+    pages:
+    - id: 1
+      name: log_intro_section
+      label: -- Security Footage Access and Disclosure Record --
+      hint: Ensures compliance with privacy regulations and organizational policy.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requestor_full_name
+      label: Name of Person Requesting Access
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requestor_org_dept
+      label: Organization or Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: request_date_time
+      label: Date and Time of Request
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: purpose_of_access_disclosure
+      label: Purpose of Access/Disclosure
+      hint: e.g., Incident investigation, police request, audit
+      type: select_one
+      options:
+      - Crime Investigation
+      - Internal Discipline
+      - Insurance Claim
+      - Maintenance Check
+      - Regulatory Request
+      - Other
+      required: true
+    - id: 6
+      name: footage_date_range
+      label: Date and Time Range of Footage Requested
+      hint: Be as specific as possible.
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: camera_locations_requested
+      label: Camera Locations or IDs
+      hint: e.g., Entrance A, North Parking Lot
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: authorization_status_cctv
+      label: Access Authorization Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending Senior Review
+      required: true
+    - id: 9
+      name: authorizing_official_name
+      label: Authorizing Official Name
+      hint: Person who approved or denied access.
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: reason_for_decision
+      label: Justification for Decision
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: access_method_cctv
+      label: Method of Access provided
+      hint: null
+      type: select_one
+      options:
+      - On-site View Only
+      - Digital Export (Encrypted)
+      - Physical Media (USB/DVD)
+      - No Access Provided
+      required: true
+    - id: 12
+      name: data_protection_agreement
+      label: I agree to handle this data in accordance with privacy laws
+      hint: By selecting yes, you are digitally signing this agreement.
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 13
+      name: log_entry_timestamp
+      label: Log Entry Date and Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: incident_reference_number
+      label: Related Incident Number (if any)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: internal_audit_check
+      label: Log Verified by Data Protection Officer
+      hint: Internal use only
+      type: select_one
+      options:
+      - Verified
+      - Pending
+      required: false

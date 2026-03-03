@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Discord Staff Application Form
+    pages:
+    - id: 1
+      name: server_type
+      label: What type of server are you applying for?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: server_name
+      label: Server Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: role_applying_for
+      label: What role are you applying for?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: experience_level
+      label: What level of experience do you have with Discord?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: availability
+      label: What is your availability for Discord?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: availability_details
+      label: Availability Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: discord_name
+      label: Discord Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: discord_tag
+      label: Discord Tag
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: why_discord
+      label: Why do you want to join Discord?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: why_discord_details
+      label: Why do you want to join Discord Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: references
+      label: References
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

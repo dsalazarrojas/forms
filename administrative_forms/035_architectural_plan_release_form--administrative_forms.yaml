@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Architectural Plan Release Form
+    pages:
+    - id: 1
+      name: section_project_info
+      label: -- Project Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_number
+      label: Project Number or ID
+      hint: Reference code
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: project_address
+      label: Project Address
+      hint: Location of the project
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_owner
+      label: Project Owner or Developer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_architectural_firm
+      label: -- Architectural Firm Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: firm_name
+      label: Architecture Firm Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: firm_address
+      label: Firm Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: principal_architect
+      label: Principal Architect Name
+      hint: Responsible party
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_plan_details
+      label: -- Plan Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: plan_description
+      label: Description of Plans Being Released
+      hint: What documents are being released?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: plan_phase
+      label: Plan Phase
+      hint: null
+      type: select_one
+      options:
+      - Schematic design
+      - Design development
+      - Construction documents
+      - Bid documents
+      - As-built documents
+      - Other
+      required: true
+    - id: 13
+      name: drawing_count
+      label: Number of Drawings in Set
+      hint: Total drawing sheets
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: section_approvals
+      label: -- Required Approvals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: design_approval
+      label: Design is approved for release
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: owner_approval
+      label: Owner or Client approval received
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - In process
+      required: true
+    - id: 17
+      name: authority_approval
+      label: Building Authority approvals obtained
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not required
+      required: false
+    - id: 18
+      name: section_distribution
+      label: -- Distribution Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: authorized_recipients
+      label: Authorized Recipients
+      hint: Who will receive these plans?
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: distribution_method
+      label: Distribution Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Physical copies
+      - Portal access
+      - Online repository
+      - Other
+      required: false
+    - id: 21
+      name: release_date
+      label: Date of Release Authorization
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: authorized_signatory
+      label: Authorized Signatory Name and Title
+      hint: Person authorizing release
+      type: text
+      options: []
+      required: true

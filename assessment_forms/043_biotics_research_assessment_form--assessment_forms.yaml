@@ -1,0 +1,507 @@
+inputSchema:
+  type: object
+  properties:
+    title: Biotics Research Assessment Form
+    pages:
+    - id: 1
+      name: participant_information
+      label: Participant Information
+      hint: Enter your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Full Name
+      hint: Your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: Your gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Prefer Not to Say
+      - Other
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: assessment_date
+      label: Assessment Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: health_history
+      label: Health History
+      hint: Your health background
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: current_health_status
+      label: Current Health Status
+      hint: How would you rate your overall health
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 10
+      name: existing_conditions
+      label: Existing Health Conditions
+      hint: List any current health conditions
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: family_medical_history
+      label: Family Medical History
+      hint: Relevant family health history
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: current_medications
+      label: Current Medications
+      hint: List all medications and supplements
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: medication_count
+      label: Number of Daily Medications
+      hint: How many medications do you take daily
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: allergies
+      label: Allergies
+      hint: List any known allergies
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: lifestyle_factors
+      label: Lifestyle Factors
+      hint: Questions about your lifestyle
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: diet_type
+      label: Diet Type
+      hint: What best describes your diet
+      type: select_one
+      options:
+      - Omnivore
+      - Vegetarian
+      - Vegan
+      - Pescatarian
+      - Keto
+      - Paleo
+      - Mediterranean
+      - Other
+      required: true
+    - id: 17
+      name: servings_of_fruits_vegetables
+      label: Daily Servings of Fruits and Vegetables
+      hint: Average per day
+      type: select_one
+      options:
+      - 0-1 servings
+      - 2-3 servings
+      - 4-5 servings
+      - 6-7 servings
+      - 8+ servings
+      required: true
+    - id: 18
+      name: water_intake
+      label: Daily Water Intake
+      hint: Glasses per day
+      type: select_one
+      options:
+      - Less than 4 glasses
+      - 4-6 glasses
+      - 7-8 glasses
+      - 9-10 glasses
+      - More than 10 glasses
+      required: true
+    - id: 19
+      name: exercise_frequency
+      label: Exercise Frequency
+      hint: How often do you exercise
+      type: select_one
+      options:
+      - Never
+      - 1-2 times per week
+      - 3-4 times per week
+      - 5-6 times per week
+      - Daily
+      required: true
+    - id: 20
+      name: exercise_type
+      label: Type of Exercise
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Cardio
+      - Strength Training
+      - Yoga
+      - Pilates
+      - Sports
+      - Walking
+      - Swimming
+      - Other
+      required: false
+    - id: 21
+      name: sleep_hours
+      label: Average Hours of Sleep
+      hint: Per night
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: sleep_quality
+      label: Sleep Quality
+      hint: Rate your sleep quality
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: true
+    - id: 23
+      name: stress_level
+      label: Current Stress Level
+      hint: Rate your stress
+      type: select_one
+      options:
+      - Very Low
+      - Low
+      - Moderate
+      - High
+      - Very High
+      required: true
+    - id: 24
+      name: stress_management
+      label: Stress Management Techniques
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Meditation
+      - Exercise
+      - Deep Breathing
+      - Therapy
+      - Hobbies
+      - Social Support
+      - None
+      required: false
+    - id: 25
+      name: substance_use
+      label: Substance Use
+      hint: Questions about substance use
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: alcohol_consumption
+      label: Alcohol Consumption
+      hint: How often do you drink alcohol
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Occasionally
+      - Regularly
+      - Daily
+      required: true
+    - id: 27
+      name: tobacco_use
+      label: Tobacco Use
+      hint: Do you use tobacco
+      type: select_one
+      options:
+      - Never
+      - Former User
+      - Current User
+      required: true
+    - id: 28
+      name: caffeine_intake
+      label: Daily Caffeine Intake
+      hint: Cups of coffee or equivalent
+      type: select_one
+      options:
+      - None
+      - 1-2 cups
+      - 3-4 cups
+      - 5-6 cups
+      - More than 6 cups
+      required: true
+    - id: 29
+      name: supplement_use
+      label: Supplement Use
+      hint: Do you take supplements
+      type: select_one
+      options:
+      - Yes - Multiple Daily
+      - Yes - One or Two
+      - Occasionally
+      - false
+      required: true
+    - id: 30
+      name: supplements_taken
+      label: Supplements Taken
+      hint: List all supplements
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: digestive_health
+      label: Digestive Health
+      hint: Questions about digestion
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: digestive_issues
+      label: Digestive Issues
+      hint: Do you experience digestive problems
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Occasionally
+      - Frequently
+      - Daily
+      required: true
+    - id: 33
+      name: digestive_symptoms
+      label: Digestive Symptoms
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Bloating
+      - Gas
+      - Constipation
+      - Diarrhea
+      - Heartburn
+      - Nausea
+      - None
+      required: false
+    - id: 34
+      name: probiotic_use
+      label: Probiotic Use
+      hint: Do you take probiotics
+      type: select_one
+      options:
+      - Yes - Daily
+      - Yes - Occasionally
+      - false
+      required: true
+    - id: 35
+      name: energy_levels
+      label: Energy Levels
+      hint: Rate your typical energy
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Moderate
+      - Low
+      - Very Low
+      required: true
+    - id: 36
+      name: energy_patterns
+      label: Energy Patterns
+      hint: When do you feel most energetic
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Consistent Throughout Day
+      - Fluctuating
+      required: true
+    - id: 37
+      name: mental_health
+      label: Mental Health
+      hint: Questions about mental wellbeing
+      type: note
+      options: []
+      required: false
+    - id: 38
+      name: mood_rating
+      label: Typical Mood Rating
+      hint: Rate your typical mood
+      type: select_one
+      options:
+      - Very Positive
+      - Positive
+      - Neutral
+      - Negative
+      - Very Negative
+      required: true
+    - id: 39
+      name: anxiety_level
+      label: Anxiety Level
+      hint: Rate your anxiety
+      type: select_one
+      options:
+      - None
+      - Mild
+      - Moderate
+      - Severe
+      required: true
+    - id: 40
+      name: depression_level
+      label: Depression Level
+      hint: Rate feelings of depression
+      type: select_one
+      options:
+      - None
+      - Mild
+      - Moderate
+      - Severe
+      required: true
+    - id: 41
+      name: mental_health_support
+      label: Mental Health Support
+      hint: Do you receive mental health support
+      type: select_one
+      options:
+      - Yes - Regular Therapy
+      - Yes - Occasional Counseling
+      - Yes - Medication
+      - No - Not Currently
+      required: false
+    - id: 42
+      name: research_goals
+      label: Research Goals
+      hint: What are your health goals
+      type: note
+      options: []
+      required: false
+    - id: 43
+      name: primary_health_goal
+      label: Primary Health Goal
+      hint: What do you want to improve
+      type: select_one
+      options:
+      - Weight Management
+      - Energy Levels
+      - Digestive Health
+      - Mental Clarity
+      - Physical Fitness
+      - Stress Reduction
+      - Better Sleep
+      - Overall Wellness
+      required: true
+    - id: 44
+      name: motivation_level
+      label: Motivation Level
+      hint: How motivated are you to make changes
+      type: select_one
+      options:
+      - Very Motivated
+      - Motivated
+      - Somewhat Motivated
+      - Not Very Motivated
+      - Not Motivated
+      required: true
+    - id: 45
+      name: previous_health_programs
+      label: Previous Health Programs
+      hint: Have you participated in health programs before
+      type: select_one
+      options:
+      - Yes - Multiple
+      - Yes - One or Two
+      - No - First Time
+      required: true
+    - id: 46
+      name: assessment_summary
+      label: Assessment Summary
+      hint: For researcher use
+      type: note
+      options: []
+      required: false
+    - id: 47
+      name: risk_factors
+      label: Identified Risk Factors
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Poor Diet
+      - Sedentary Lifestyle
+      - High Stress
+      - Poor Sleep
+      - Substance Use
+      - Existing Conditions
+      - Family History
+      - None Identified
+      required: false
+    - id: 48
+      name: recommendations
+      label: Recommendations
+      hint: Suggested interventions
+      type: text
+      options: []
+      required: false
+    - id: 49
+      name: follow_up_required
+      label: Follow-up Required
+      hint: Is follow-up needed
+      type: select_one
+      options:
+      - Yes - Routine Follow-up
+      - Yes - Priority Follow-up
+      - No - Standard Care
+      required: false
+    - id: 50
+      name: researcher_name
+      label: Researcher Name
+      hint: Name of assessing researcher
+      type: text
+      options: []
+      required: false
+    - id: 51
+      name: researcher_signature
+      label: Researcher Signature
+      hint: Confirmation
+      type: select_one
+      options:
+      - Assessment Completed
+      - Reviewed and Approved
+      required: false

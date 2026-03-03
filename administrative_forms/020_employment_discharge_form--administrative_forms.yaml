@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employment Discharge Form
+    pages:
+    - id: 1
+      name: main_page
+      label: main-page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_information
+      label: employee-information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: termination_details
+      label: termination-details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: discharge_date
+      label: discharge-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_discharge
+      label: reason-for-discharge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reason_select
+      label: reason-for-discharge-select
+      hint: null
+      type: select_one
+      options:
+      - Disability
+      - Retirement
+      - Resignation
+      - Other
+      required: false
+    - id: 7
+      name: termination_method
+      label: termination-method
+      hint: null
+      type: select_one
+      options:
+      - Voluntary
+      - Involuntary
+      required: false
+    - id: 8
+      name: termination_date
+      label: termination-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: last_working_day
+      label: last-working-day
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: last_day
+      label: last-day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: reason_for_discharge_select_optional
+      label: reason-for-discharge-select
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: reason_optional
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: manager_acknowledgement
+      label: manager-acknowledgement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: termination_status
+      label: termination-status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Terminated
+      - Retired
+      required: false
+    - id: 15
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: employee_signature
+      label: employee-signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: manager_signature
+      label: manager-signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: date_signed
+      label: date-signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: manager_acknowledgement_optional
+      label: manager-acknowledgement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: termination_status_optional
+      label: termination-status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 21
+      name: notes_optional
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: employee_signature_optional
+      label: employee-signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: date_signed_optional
+      label: date-signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: manager_signature_optional
+      label: manager-signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: date_signed_optional_2
+      label: date-signed
+      hint: null
+      type: date
+      options: []
+      required: false

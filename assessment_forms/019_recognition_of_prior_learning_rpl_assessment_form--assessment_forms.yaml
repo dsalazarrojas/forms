@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recognition Of Prior Learning (RPL) Assessment Form
+    pages:
+    - id: 1
+      name: rpl_form
+      label: rpl_applications
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: rpl_application_id
+      label: application_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: rpl_application_date
+      label: application_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: training_provider
+      label: training_provider
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: false
+    - id: 5
+      name: assessors_name
+      label: assessors_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: assessors_name_other
+      label: other_assessors_name
+      hint: null
+      type: text
+      options: []
+      required: false

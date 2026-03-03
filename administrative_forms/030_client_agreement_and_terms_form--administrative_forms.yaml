@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Agreement And Terms Form
+    pages:
+    - id: 1
+      name: agreement_intro
+      label: -- Client Service Agreement --
+      hint: Please review the following terms and conditions carefully.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_legal_name
+      label: Client Legal Name (Individual or Entity)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: authorized_representative
+      label: Authorized Representative Name
+      hint: If client is a business entity
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: business_address
+      label: Business/Primary Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_for_notices
+      label: Email for Official Notices
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: scope_of_services_header
+      label: -- Scope of Services --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: services_description
+      label: Description of Services to be Provided
+      hint: Briefly summarize the agreed-upon services
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: agreement_term
+      label: Term of Agreement
+      hint: e.g. 12 months, ongoing, project-based
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: payment_terms_header
+      label: -- Payment and Fees --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: fee_structure
+      label: Agreed Fee Structure
+      hint: e.g. Fixed Price, Hourly Rate, Monthly Retainer
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: payment_due_date
+      label: Payment Due Terms
+      hint: null
+      type: select_one
+      options:
+      - Upon Receipt
+      - Net 15
+      - Net 30
+      - Monthly in Advance
+      required: true
+    - id: 13
+      name: legal_terms_header
+      label: -- Terms and Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: termination_clause_ack
+      label: I acknowledge the 30-day written notice requirement for termination
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 15
+      name: liability_limitation_ack
+      label: I have read and agree to the limitation of liability clause
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 16
+      name: confidentiality_clause_ack
+      label: I agree to the mutual confidentiality and non-disclosure terms
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 17
+      name: jurisdiction_ack
+      label: I agree that this agreement is governed by the laws of this state
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 18
+      name: electronic_signature
+      label: Digital Signature (Type Full Legal Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: signature_date
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: attachment_confirmation
+      label: Have you attached the full detailed terms document?
+      hint: null
+      type: select_one
+      options:
+      - Yes, attached via upload
+      - Not required for this service
+      required: false
+    - id: 21
+      name: agreement_footer
+      label: -- Thank you for choosing our services --
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Economy Class Ticket Booking Form
+    pages:
+    - id: 1
+      name: flight_number
+      label: flight_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: passenger_type
+      label: passenger_type
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Adult''}'
+      - '{''text'': ''Child''}'
+      - '{''text'': ''Infant''}'
+      required: false
+    - id: 3
+      name: travel_date
+      label: travel_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: travel_time
+      label: travel_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: passenger_name
+      label: passenger_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: passenger_email
+      label: passenger_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: passenger_phone
+      label: passenger_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Pay via Card''}'
+      - '{''text'': ''Pay via Bank''}'
+      required: false
+    - id: 9
+      name: confirm_booking
+      label: confirm_booking
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': True}'
+      - '{''text'': False}'
+      required: false

@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Third Party Risk Assessment Survey
+    pages:
+    - id: 1
+      name: third_party_risk_assessment_survey
+      label: Third Party Risk Assessment Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendor_name
+      label: Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: risk_rating
+      label: Risk Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: risk_factors
+      label: Risk Factors
+      hint: null
+      type: select_multiple
+      options:
+      - Vendor's business practices
+      - Vendor's financial stability
+      - Vendor's management structure
+      - Vendor's IT systems
+      - Vendor's data security
+      - Vendor's compliance
+      - Other
+      required: false
+    - id: 5
+      name: risk_factors_other
+      label: If Other, please specify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_person_name
+      label: Contact Person Name
+      hint: The person who can best answer this question
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_person_email
+      label: Contact Person Email
+      hint: Vendor's email address
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_person_phone
+      label: Contact Person Phone
+      hint: Vendor's phone number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_person_job_title
+      label: Contact Person Job Title
+      hint: Vendor's job title
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vendor_address
+      label: Vendor's Address
+      hint: null
+      type: text
+      options: []
+      required: false

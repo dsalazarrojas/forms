@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: FMEA Training Quiz
+    pages:
+    - id: 1
+      name: session_number
+      label: Session Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: trainer_id
+      label: Trainer ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: trainer_name
+      label: Trainer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: trainer_rating
+      label: Trainer Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 7
+      name: learner_id
+      label: Learner ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: learner_name
+      label: Learner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: learner_attendance
+      label: Learner Attendance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: question
+      label: Question
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: answer
+      label: Answer
+      hint: null
+      type: text
+      options: []
+      required: true

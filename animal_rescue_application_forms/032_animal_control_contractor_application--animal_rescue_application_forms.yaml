@@ -1,0 +1,278 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Control Contractor Application
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Contact Person Full Name
+      hint: Primary contact
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Business name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Business email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_address
+      label: Business Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: application_intro
+      label: Animal Control Contractor Application
+      hint: Apply to become an approved animal control contractor
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: business_type
+      label: Type of Business Entity
+      hint: Business structure
+      type: select_one
+      options:
+      - Sole proprietorship
+      - Partnership
+      - LLC
+      - Corporation
+      - Non-profit
+      - Other
+      required: true
+    - id: 8
+      name: years_in_business
+      label: Years in Business
+      hint: How long operating
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 4-7 years
+      - 8-15 years
+      - More than 15 years
+      required: true
+    - id: 9
+      name: business_license
+      label: Business License Number
+      hint: License ID
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: license_state
+      label: State of Issuance
+      hint: License state
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: insurance_info
+      label: Insurance Information
+      hint: Coverage details
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: liability_insurance
+      label: Do You Have Liability Insurance
+      hint: Coverage status
+      type: select_one
+      options:
+      - Yes - current policy
+      - No - will obtain
+      required: true
+    - id: 13
+      name: insurance_carrier
+      label: Insurance Carrier Name
+      hint: Company name
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: policy_number
+      label: Policy Number
+      hint: Policy ID
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: coverage_amount
+      label: Coverage Amount
+      hint: Policy limits
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: services_offered
+      label: Services You Offer
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Animal capture and removal
+      - Wildlife management
+      - Pet rescue
+      - Animal transport
+      - Shelter services
+      - Foster care
+      - Veterinary services
+      - Humane euthanasia
+      - Education programs
+      - Other
+      required: true
+    - id: 17
+      name: service_area
+      label: Geographic Service Area
+      hint: Where you operate
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: availability
+      label: Availability
+      hint: When can you respond
+      type: select_one
+      options:
+      - 24/7
+      - Business hours only
+      - Extended hours
+      - On-call basis
+      - Contract-specific
+      required: true
+    - id: 19
+      name: response_time
+      label: Typical Response Time
+      hint: How fast can you respond
+      type: select_one
+      options:
+      - Within 1 hour
+      - 1-2 hours
+      - 2-4 hours
+      - Same day
+      - Next day
+      required: true
+    - id: 20
+      name: staff_count
+      label: Number of Trained Staff
+      hint: Team size
+      type: select_one
+      options:
+      - 1-5
+      - 6-10
+      - 11-20
+      - More than 20
+      required: true
+    - id: 21
+      name: certifications
+      label: Staff Certifications
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Animal Control Officer certification
+      - Wildlife rehabilitation
+      - Veterinary technician
+      - Humane handling
+      - Chemical restraint
+      - First aid - animal
+      - CPR - animal
+      - None
+      required: false
+    - id: 22
+      name: equipment
+      label: Equipment Available
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Capture poles
+      - Live traps
+      - Transport vehicles
+      - Cages and carriers
+      - Protective gear
+      - Sedation equipment
+      - Radio communication
+      - GPS tracking
+      required: false
+    - id: 23
+      name: experience_government
+      label: Have You Worked with Government Agencies Before
+      hint: Previous contracts
+      type: select_one
+      options:
+      - Yes - multiple contracts
+      - Yes - one or two
+      - No - first time
+      required: true
+    - id: 24
+      name: contract_examples
+      label: Describe Previous Relevant Contracts
+      hint: Experience details
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: references
+      label: Professional References
+      hint: Names and contact info
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: pricing_structure
+      label: Do You Have a Standard Pricing Structure
+      hint: Pricing
+      type: select_one
+      options:
+      - Yes - fixed rates
+      - Yes - hourly rates
+      - Custom per contract
+      - Will provide upon request
+      required: true
+    - id: 27
+      name: background_check
+      label: Are You Willing to Undergo Background Checks
+      hint: Screening
+      type: select_one
+      options:
+      - Yes - for all staff
+      - Yes - for key personnel
+      - false
+      required: true
+    - id: 28
+      name: additional_info
+      label: Additional Information
+      hint: Anything else
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: applicant_signature
+      label: Applicant Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: signature_date
+      label: Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

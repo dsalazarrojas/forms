@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Important Information Acknowledgment Form
+    pages:
+    - id: 1
+      name: acknowledgment_date
+      label: acknowledgment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: acknowledgment_time
+      label: acknowledgment_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: acknowledgment_information
+      label: acknowledgment_information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: acknowledgment_acknowledgment
+      label: acknowledgment_acknowledgment
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: acknowledgment_acknowledgment_reason
+      label: acknowledgment_acknowledgment_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 9
+      name: contact_position
+      label: contact_position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: acknowledgment_message
+      label: acknowledgment_message
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 11
+      name: contact_address
+      label: contact_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_city
+      label: contact_city
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 13
+      name: contact_state
+      label: contact_state
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 14
+      name: contact_zip
+      label: contact_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_country
+      label: contact_country
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 16
+      name: form_version
+      label: form_version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: form_revision
+      label: form_revision
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: form_version_history
+      label: form_version_history
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 19
+      name: contact_company
+      label: contact_company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_job_title
+      label: contact_job_title
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 21
+      name: contact_department
+      label: contact_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contact_job_function
+      label: contact_job_function
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 23
+      name: contact_work_email
+      label: contact_work_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: contact_work_phone
+      label: contact_work_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: contact_ext_phone
+      label: contact_ext_phone
+      hint: null
+      type: text
+      options: []
+      required: false

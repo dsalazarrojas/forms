@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: rescue_animal_adoption_application_form
+    pages:
+    - id: 1
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_type
+      label: contact_type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 3
+      name: contact_number
+      label: contact_number
+      hint: Enter your phone number
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: address
+      hint: Enter your address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: email
+      hint: Enter your email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: name
+      label: name
+      hint: Enter your name
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: pet_name
+      label: pet_name
+      hint: Enter your pet name
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: pet_type
+      label: pet_type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 9
+      name: pet_age
+      label: pet_age
+      hint: Enter your pet age
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: message
+      label: message
+      hint: Enter your message
+      type: note
+      options: []
+      required: false

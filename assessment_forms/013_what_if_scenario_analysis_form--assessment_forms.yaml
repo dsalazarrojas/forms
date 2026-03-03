@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: what_if_scenario_analysis_form
+    pages:
+    - id: 1
+      name: planning_scenarios
+      label: Planning Scenarios
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: compare_impacts
+      label: Compare Impacts
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: risk_factors
+      label: Risk Factors
+      hint: List of risk factors for this scenario
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 4
+      name: mitigation_steps
+      label: Mitigation Steps
+      hint: List of steps to mitigate the risk
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: scenario_name
+      label: Scenario Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: scenario_type
+      label: Scenario Type
+      hint: null
+      type: select_one
+      options:
+      - Type 1
+      - Type 2
+      - Type 3
+      required: false
+    - id: 7
+      name: scenario_description
+      label: Scenario Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: impact
+      label: Impact
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: time_frame
+      label: Time Frame
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: date_time
+      label: Date Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: scenario_location
+      label: Scenario Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: team_members
+      label: Team Members
+      hint: List of team members involved
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: W9 Form
+    pages:
+    - id: 1
+      name: w9_form_input
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: state
+      label: state
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 7
+      name: zip
+      label: zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: w9_date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false

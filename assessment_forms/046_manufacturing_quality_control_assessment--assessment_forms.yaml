@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manufacturing Quality Control Assessment
+    pages:
+    - id: 1
+      name: production_line_id
+      label: Production Line ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: inspector_id
+      label: Inspector ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: date_of_inspection
+      label: Date of Inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_inspection
+      label: Time of Inspection
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: shift_leader_id
+      label: Shift Leader ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: production_line
+      label: Production Line
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: equipment_id
+      label: Equipment ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: inspection_results
+      label: Inspection Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: issues_identified
+      label: Issues Identified
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: quality_control_checklist_completed
+      label: Quality Control Checklist Completed
+      hint: null
+      type: select_one
+      options:
+      - Checklist Completed
+      - Checklist Not Completed
+      - Partially Completed
+      required: false
+    - id: 12
+      name: quality_control_checklist_partially_completed
+      label: Quality Control Checklist Partially Completed
+      hint: null
+      type: select_multiple
+      options:
+      - Checklist 1
+      - Checklist 2
+      - Checklist 3
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: issues_resolved
+      label: Issues Resolved
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: issues_remaining
+      label: Issues Remaining
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: issues_closed
+      label: Issues Closed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: issues_total
+      label: Issues Total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: total_issues
+      label: Total Issues
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: production_line_id_2
+      label: Production Line 2 ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: date_of_revision
+      label: Date of Revision
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: time_of_revision
+      label: Time of Revision
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: revision_number
+      label: Revision Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: comments_2
+      label: Comments 2
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: online_taxi_booking_form
+    pages:
+    - id: 1
+      name: address_input
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: select_taxi_fare
+      label: Taxi Fares
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: trip_input
+      label: Trip
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: submit_button
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email_input
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_input
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: time_input
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: date_input
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: description_input
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: address_hint
+      label: Address Hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: address_hint_input
+      label: Address
+      hint: Please enter your pickup and drop-off points
+      type: text
+      options: []
+      required: false

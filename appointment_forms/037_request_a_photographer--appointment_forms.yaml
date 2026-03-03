@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Request A Photographer
+    pages:
+    - id: 1
+      name: session_details
+      label: Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: photographer_id
+      label: Select Photographer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: Where would you like to shoot?
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: session_type
+      label: Session Type
+      hint: null
+      type: select_multiple
+      options:
+      - Portrait
+      - Wedding
+      - Commercial
+      - Other
+      required: false

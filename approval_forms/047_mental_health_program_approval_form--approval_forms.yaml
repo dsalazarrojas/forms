@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mental Health Program Approval Form
+    pages:
+    - id: 1
+      name: mental_health_program_info
+      label: mental health program info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: approver_info
+      label: approver info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: program_status
+      label: program status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Open'', ''value'': ''open''}'
+      - '{''label'': ''Closed'', ''value'': ''closed''}'
+      required: true
+    - id: 4
+      name: approval_date
+      label: approval date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: approver_name
+      label: approver name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: approver_position
+      label: approver position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: approval_email
+      label: approver email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: approval_phone
+      label: approver phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: mental_health_clinical_review
+      label: mental health clinical review
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 10
+      name: mental_health_program_notes
+      label: mental health program notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: mental_health_program_comments
+      label: mental health program comments
+      hint: null
+      type: text
+      options: []
+      required: false

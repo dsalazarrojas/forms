@@ -1,0 +1,272 @@
+inputSchema:
+  type: object
+  properties:
+    title: fair-market-valuation-form
+    pages:
+    - id: 1
+      name: property_type
+      label: Property Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sale_type
+      label: Sale Type
+      hint: null
+      type: select_one
+      options:
+      - As-Is, Where-Is
+      - Commission Sale
+      - Private Auction
+      - Private Sale, No Commission
+      - Short Sale
+      required: false
+    - id: 3
+      name: sale_conditions
+      label: Sale Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: property_description
+      label: Property Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: fair_market_value_amount
+      label: Fair Market Value Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: comparable_sales
+      label: Comparable Sales
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: property_age
+      label: Property Age
+      hint: null
+      type: select_one
+      options:
+      - 0-5
+      - 6-15
+      - 16-25
+      - 26-35
+      - 36-45
+      - 46-55
+      - 56-65
+      - 66 & above
+      required: false
+    - id: 9
+      name: property_land_size
+      label: Property Land Size
+      hint: null
+      type: select_one
+      options:
+      - Small (1/2 acre or less)
+      - Medium (1/2 acre to 1 acre)
+      - Large (1-2 acres)
+      - Extra Large (2-4 acres)
+      - Huge (more than 4 acres)
+      required: false
+    - id: 10
+      name: market_trends
+      label: Market Trends
+      hint: null
+      type: select_multiple
+      options:
+      - Increasing
+      - Decreasing
+      - Stable
+      - No Trend
+      required: true
+    - id: 11
+      name: comparable_sales_count
+      label: Comparable Sales Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: average_sale_price
+      label: Average Sale Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: sale_date
+      label: Sale Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: property_type_2
+      label: Property Type 2
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      - Agricultural
+      - Other (specify)
+      required: false
+    - id: 15
+      name: property_use
+      label: Property Use
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      - Agricultural
+      - Other (specify)
+      required: false
+    - id: 16
+      name: property_land_use
+      label: Property Land Use
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      - Agricultural
+      - Other (specify)
+      required: false
+    - id: 17
+      name: property_use_status
+      label: Property Use Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Vacant
+      - Vacant/Abandoned
+      - Other (specify)
+      required: false
+    - id: 18
+      name: property_zoning
+      label: Property Zoning
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      - Agricultural
+      - Other (specify)
+      required: false
+    - id: 19
+      name: neighborhood
+      label: neighborhood
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: property_viewing_area
+      label: Property Viewing Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: sale_commission
+      label: Sale Commission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: property_features
+      label: Property Features
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: neighborhood_features
+      label: neighborhood-features
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: property_condition
+      label: Property Condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 25
+      name: property_land_use_status
+      label: Property Land Use Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Vacant
+      - Vacant/Abandoned
+      - Other (specify)
+      required: false
+    - id: 26
+      name: sale_condition
+      label: Sale Condition
+      hint: null
+      type: select_one
+      options:
+      - As Is
+      - With Repair/Improvement
+      - Other (specify)
+      required: false
+    - id: 27
+      name: property_similar_properties
+      label: Similar Properties
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: property_notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: appraiser_note
+      label: Appraiser Note
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Status Card Application Form
+    pages:
+    - id: 1
+      name: application_form
+      label: Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: application_form_supporting_documentation
+      label: Application Form Supporting Documentation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: consent
+      label: Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: supporting_documentation
+      label: Supporting Documentation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: application_form_date
+      label: Application Form Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: application_form_time
+      label: Application Form Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: application_form_email
+      label: Application Form Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: application_form_phone
+      label: Application Form Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: application_form_comments
+      label: Application Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: application_form_note
+      label: Application Form Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: application_form_status
+      label: Application Form Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Approved''}'
+      - '{''label'': ''Denied''}'
+      - '{''label'': ''Pending''}'
+      required: true
+    - id: 12
+      name: application_form_submit
+      label: Application Form Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: application_form_submit_date
+      label: Application Form Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: application_form_submit_time
+      label: Application Form Submit Time
+      hint: null
+      type: time
+      options: []
+      required: false

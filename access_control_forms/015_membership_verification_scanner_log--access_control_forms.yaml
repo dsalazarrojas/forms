@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: membership_verification_scanner_log
+    pages:
+    - id: 1
+      name: member_id
+      label: Member ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: scanner_id
+      label: Scanner ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: scan_date
+      label: Scan Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: scan_time
+      label: Scan Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: facility_id
+      label: Facility ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: member_name
+      label: Member Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: scan_result
+      label: Scan Result
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Unknown
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false

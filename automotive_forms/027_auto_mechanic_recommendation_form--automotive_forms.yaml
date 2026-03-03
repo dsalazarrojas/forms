@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Mechanic Recommendation Form
+    pages:
+    - id: 1
+      name: recommender_info_header
+      label: -- Recommender Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: recommender_name
+      label: Your Name
+      hint: Person making the recommendation
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: recommender_email
+      label: Your Email
+      hint: For follow up questions
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: relationship_to_user
+      label: Relationship to Recipient
+      hint: How do you know the person seeking help?
+      type: select_one
+      options:
+      - Friend
+      - Family Member
+      - Colleague
+      - Neighbor
+      required: true
+    - id: 5
+      name: mechanic_shop_details_header
+      label: -- Mechanic or Shop Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: shop_name
+      label: Auto Shop Name
+      hint: Name of the business
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: mechanic_name
+      label: Mechanic Name
+      hint: Name of a specific technician if known
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: shop_address
+      label: Shop Address or City
+      hint: Where is the shop located?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: shop_phone
+      label: Shop Phone Number
+      hint: Professional contact number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: website_link
+      label: Website Link
+      hint: Optional link to their site
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: service_experience_header
+      label: -- Service Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: services_performed
+      label: Services Performed
+      hint: What work have you had done there?
+      type: select_multiple
+      options:
+      - Oil Change
+      - Brake Repair
+      - Engine Diagnostic
+      - Transmission
+      - Body Work
+      - Electrical
+      required: true
+    - id: 13
+      name: pricing_rating
+      label: Pricing Rating
+      hint: How would you describe their pricing?
+      type: select_one
+      options:
+      - Fairly Priced
+      - Slightly Expensive
+      - Budget Friendly
+      required: true
+    - id: 14
+      name: quality_of_work
+      label: Quality of Work
+      hint: Overall satisfaction with the repair
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      required: true
+    - id: 15
+      name: recommendation_reason
+      label: Why do you recommend them?
+      hint: Share what makes this mechanic trustworthy
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: years_using_mechanic
+      label: Years Using This Mechanic
+      hint: Duration of your professional relationship
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supplier Contract Form
+    pages:
+    - id: 1
+      name: supplier_contract_form_form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: supplier_contract_form_suppliers
+      label: Suppliers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: supplier_contract_form_contract_terms
+      label: Contract Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: supplier_contract_form_contract_duration
+      label: Contract Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: supplier_contract_form_contract_type
+      label: Contract Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: supplier_contract_form_contract_price
+      label: Contract Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: supplier_contract_form_suppliers_list
+      label: Suppliers List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: supplier_contract_form_contract_date
+      label: Contract Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: supplier_contract_form_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: supplier_contract_form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: supplier_contract_form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: supplier_contract_form_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: supplier_contract_form_contract_status
+      label: Contract Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

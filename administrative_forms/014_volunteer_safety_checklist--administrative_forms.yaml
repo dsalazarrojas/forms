@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Safety Checklist
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: volunteer_details
+      label: Volunteer Details
+      hint: Please provide the volunteer's name, address and contact info
+      type: select_one
+      options:
+      - First Name
+      - Last Name
+      - Address
+      - Email
+      - Phone Number
+      required: true
+    - id: 3
+      name: safety_protocols
+      label: Safety Protocols
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: emergency_procedures
+      label: Emergency Procedures
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: incident_report
+      label: Incident Report
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: first_aid_procedures
+      label: First Aid Procedures
+      hint: Please provide the procedures for first aid in case of emergencies
+      type: select_one
+      options:
+      - CPR
+      - First Aid Kit
+      - Fire Extinguisher
+      required: true
+    - id: 8
+      name: emergency_response_plan
+      label: Emergency Response Plan
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: evacuation_plan
+      label: Evacuation Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_reporting
+      label: Incident Reporting
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: emergency_equipment
+      label: Emergency Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: weather_procedures
+      label: Weather Procedures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_info
+      label: Emergency Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: incident_reported
+      label: Incident Reported
+      hint: Is an incident reported?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: incident_cause
+      label: Incident Cause
+      hint: What caused the incident?
+      type: select_one
+      options:
+      - Human Error
+      - Equipment Failure
+      - Natural Disaster
+      required: true
+    - id: 17
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: incident_reporting_officer
+      label: Incident Reporting Officer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: safety_conducted
+      label: Safety Conducted
+      hint: When was safety conducted?
+      type: select_one
+      options:
+      - Regular
+      - Special
+      required: true
+    - id: 22
+      name: training_completed
+      label: Training Completed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 23
+      name: first_aid_cert
+      label: First Aid Cert
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 24
+      name: incident_reported_time
+      label: Incident Reported
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 25
+      name: incident_reported_date
+      label: Incident Reported Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Club Branded Hoodie Preorder Form
+    pages:
+    - id: 1
+      name: member_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: member_email
+      label: Email Address
+      hint: Order confirmation will be sent here
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: member_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: member_id
+      label: Club Member ID
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: hoodie_size
+      label: Hoodie Size
+      hint: Select your size
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      - XXXL
+      required: true
+    - id: 6
+      name: hoodie_color
+      label: Hoodie Color Preference
+      hint: Choose preferred color
+      type: select_one
+      options:
+      - Navy Blue
+      - Black
+      - Grey
+      - White
+      - Charcoal
+      - Forest Green
+      required: true
+    - id: 7
+      name: quantity
+      label: Quantity
+      hint: Number of hoodies to order
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: unit_price
+      label: Unit Price per Hoodie
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: total_cost
+      label: Total Order Cost
+      hint: Quantity times unit price
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: customization_option
+      label: Customization Options
+      hint: Any personalization desired
+      type: select_one
+      options:
+      - No Customization
+      - Name Embroidery
+      - Club Logo Only
+      - Name and Logo
+      - Custom Design
+      required: false
+    - id: 11
+      name: custom_text
+      label: Custom Text or Name
+      hint: If customization selected
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: delivery_address
+      label: Delivery Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: delivery_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: delivery_state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: delivery_zip
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: Select payment option
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      - Check
+      required: true
+    - id: 17
+      name: terms_agreed
+      label: I Agree to Terms and Conditions
+      hint: Must agree to complete order
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true

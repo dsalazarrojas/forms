@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Accident Report Form
+    pages:
+    - id: 1
+      name: vehicle_type
+      label: vehicle_type
+      hint: null
+      type: select_one
+      options:
+      - Car
+      - Truck
+      - Motorcycle
+      - Bus
+      - Van
+      - Boat
+      - Boat Trailer
+      required: true
+    - id: 2
+      name: accident_type
+      label: accident_type
+      hint: null
+      type: select_multiple
+      options:
+      - Single-Vehicle
+      - Multi-Vehicle
+      - Single-Bike
+      - Multi-Bike
+      - Pedestrian
+      - Animal
+      - Other
+      required: true
+    - id: 3
+      name: location
+      label: location
+      hint: Enter the location of the accident
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: vehicle_color
+      label: vehicle_color
+      hint: Enter the vehicle color (if applicable)
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_year
+      label: vehicle_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_make
+      label: vehicle_make
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: vehicle_model
+      label: vehicle_model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: witness
+      label: witness
+      hint: Enter the witness name and contact information
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: witness_relationship
+      label: witness_relationship
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: insurance_company
+      label: insurance_company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: policy_number
+      label: policy_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: report_date
+      label: report_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: report_time
+      label: report_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: vehicle_license_plate
+      label: vehicle_license_plate
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: damage_description
+      label: damage_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: witness_contact_number
+      label: witness_contact_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: witness_contact_email
+      label: witness_contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: witness_position
+      label: witness_position
+      hint: Enter the witness position (if applicable)
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: witness_relationship_to_driver
+      label: witness_relationship_to_driver
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: witness_relationship_to_vehicle
+      label: witness_relationship_to_vehicle
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: police_report_number
+      label: police_report_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

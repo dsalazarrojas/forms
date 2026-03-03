@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Incident Investigation Request Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: witness_list
+      label: Witness List
+      hint: List of witnesses involved in the incident
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: investigation_status
+      label: Investigation Status
+      hint: Select the status of the investigation
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      required: false
+    - id: 6
+      name: incident_description
+      label: Incident Description
+      hint: Describe the incident inประก detail
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_cause
+      label: Incident Cause
+      hint: Determine the cause of the incident
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: investigation_notes
+      label: Investigation Notes
+      hint: Add any notes about the investigation
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_investigator
+      label: Assigned Investigator
+      hint: Select the investigator assigned to the case
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Joe
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Jane
+      - John
+      - Joe
+      required: false
+    - id: 11
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: select_one
+      options:
+      - Joe
+      - Jane
+      - John
+      required: false
+    - id: 12
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

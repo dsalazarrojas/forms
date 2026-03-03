@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Agent Offboarding Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: departure_date
+      label: Departure Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: reason_for_leaving
+      label: Reason for Leaving
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: notice_period
+      label: Notice Period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: notice_start_date
+      label: Notice Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: notice_end_date
+      label: Notice End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: company_termination_date
+      label: Company Termination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: company_payout_date
+      label: Company Payout Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: asset_return
+      label: Asset Return
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: asset_status
+      label: Asset Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 11
+      name: asset_condition
+      label: Asset Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: asset_value
+      label: Asset Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: asset_serial_number
+      label: Asset Serial Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: asset_brand_model
+      label: Asset Brand Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: asset_purchase_date
+      label: Asset Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: asset_purchased_from
+      label: Asset Purchased From
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: asset_purchase_price
+      label: Asset Purchase Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: asset_warranty
+      label: Asset Warranty
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: asset_maintenance_schedule
+      label: Asset Maintenance Schedule
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: asset_maintenance_performed
+      label: Asset Maintenance Performed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: asset_rental_or_purchase
+      label: Asset Rental or Purchase
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: asset_last_maintenance
+      label: Last Maintenance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: asset_next_maintenance
+      label: Next Maintenance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

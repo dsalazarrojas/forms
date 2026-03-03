@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cyber Security Risk Assessment Checklist
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: risk_management
+      label: Risk Management
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: risk_identification
+      label: Risk Identification
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: risk_assessment
+      label: Risk Assessment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: risk_priority
+      label: Risk Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: risk_category
+      label: Risk Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: risk_frequency
+      label: Risk Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: risk_description
+      label: Risk Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: risk_impact
+      label: Risk Impact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: risk_probability
+      label: Risk Probability
+      hint: null
+      type: number
+      options: []
+      required: true

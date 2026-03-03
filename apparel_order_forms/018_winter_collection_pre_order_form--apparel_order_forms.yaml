@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Winter Collection Pre Order Form
+    pages:
+    - id: 1
+      name: winter_collection_pre_order_form
+      label: Winter Collection Pre Order Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Customer 1''}'
+      - '{''label'': ''Customer 2''}'
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shipping_preferences
+      label: Shipping Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Ground''}'
+      - '{''label'': ''Express''}'
+      - '{''label'': ''Standard''}'
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Credit Card''}'
+      - '{''label'': ''Bank Transfer''}'
+      - '{''label'': ''PayPal''}'
+      required: false
+    - id: 7
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: text
+      options: []
+      required: false

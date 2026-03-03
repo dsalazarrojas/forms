@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Awards Jury Consultation Appointment Form
+    pages:
+    - id: 1
+      name: jury_header
+      label: -- Jury Member Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: jury_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: jury_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: jury_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: jury_expertise
+      label: Area of Expertise
+      hint: null
+      type: select_one
+      options:
+      - Makeup
+      - Hair Care
+      - Skincare
+      - Fragrance
+      - Nail Care
+      - General Beauty
+      required: true
+    - id: 6
+      name: organization
+      label: Organization/Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: appointment_header
+      label: -- Appointment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: preferred_date
+      label: Preferred Consultation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: alternative_date
+      label: Alternative Date Option
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: alternative_time
+      label: Alternative Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: timezone
+      label: Time Zone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: meeting_format
+      label: Meeting Format
+      hint: null
+      type: select_one
+      options:
+      - In-Person
+      - Video Conference
+      - Phone Call
+      - Hybrid
+      required: true
+    - id: 14
+      name: meeting_location
+      label: Meeting Location
+      hint: Address or conference platform
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: consultation_header
+      label: -- Consultation Topics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: topics_to_discuss
+      label: Topics for Discussion
+      hint: Judging criteria, award categories, timeline, etc.
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: experience_level
+      label: Years of Industry Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: previous_judging
+      label: Previous Awards Judging Experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: availability_header
+      label: -- Availability and Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: consultation_duration
+      label: Estimated Consultation Duration Needed
+      hint: null
+      type: select_one
+      options:
+      - 15 minutes
+      - 30 minutes
+      - 45 minutes
+      - 60 minutes
+      - 90+ minutes
+      required: true
+    - id: 21
+      name: materials_needed
+      label: Will You Need Materials or Documents Beforehand
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: materials_details
+      label: Describe Materials or Documents Needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: dietary_restrictions
+      label: Dietary Restrictions or Special Accommodations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: confirmation_sent
+      label: Send Confirmation to Email
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: additional_notes
+      label: Additional Notes or Questions
+      hint: null
+      type: text
+      options: []
+      required: false

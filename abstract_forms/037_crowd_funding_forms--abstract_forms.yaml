@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: crowd_funding_forms
+    pages:
+    - id: 1
+      name: form_name
+      label: Form Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reward_name
+      label: Reward Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reward_description
+      label: Reward Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reward_value
+      label: Reward Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: contributor_name
+      label: Contributor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contributor_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contributor_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contributor_experience
+      label: Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - Submit Form
+      - Save as Draft
+      - Cancel
+      required: true
+    - id: 10
+      name: form_comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false

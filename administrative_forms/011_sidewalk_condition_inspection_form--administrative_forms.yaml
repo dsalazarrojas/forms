@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sidewalk Condition Inspection Form
+    pages:
+    - id: 1
+      name: general_info
+      label: What is the address of the inspection?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: condition_description
+      label: What is the condition of the sidewalk?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: priority_rating
+      label: What is the condition rating of the sidewalk?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: photos_uploaded
+      label: Have photos been uploaded to document the condition?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: date_inspected
+      label: What is the date of the inspection?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_inspected
+      label: What is the time of the inspection?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: inspector_info
+      label: What is the inspector's name and badge number?
+      hint: null
+      type: text
+      options: []
+      required: false

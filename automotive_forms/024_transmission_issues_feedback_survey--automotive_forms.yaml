@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transmission Issues Feedback Survey
+    pages:
+    - id: 1
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: transmission_problem
+      label: transmission_problem
+      hint: null
+      type: select_one
+      options:
+      - Transmission Problem
+      - No Problem
+      - Unknown
+      required: false
+    - id: 3
+      name: issue_type
+      label: issue_type
+      hint: null
+      type: select_multiple
+      options:
+      - Gearbox Problems
+      - Clutch Problems
+      - Gearbox Leak
+      required: false
+    - id: 4
+      name: vehicle_milage
+      label: vehicle_milage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_year
+      label: vehicle_year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_method
+      label: contact_method
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Chat
+      required: false
+    - id: 7
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: transmission_problem_description
+      label: transmission_problem_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_make
+      label: vehicle_make
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: vehicle_model
+      label: vehicle_model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_year
+      label: vehicle_year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_license
+      label: vehicle_license
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: service_advisor
+      label: service_advisor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: mechanic
+      label: mechanic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: service_date
+      label: service_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: service_time
+      label: service_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: customer_comments
+      label: customer_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: employee_notes
+      label: employee_notes
+      hint: null
+      type: note
+      options: []
+      required: false

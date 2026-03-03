@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adult Sports Roster Form
+    pages:
+    - id: 1
+      name: roster_header
+      label: -- Roster Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: athlete_name
+      label: Athlete full name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: For age bracket verification
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: position
+      label: Position or role
+      hint: Primary playing position
+      type: select_one
+      options:
+      - Goalkeeper
+      - Defender
+      - Midfielder
+      - Forward
+      - Substitute
+      required: false
+    - id: 5
+      name: jersey_number
+      label: Jersey number
+      hint: Preferred number if available
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: medical_conditions
+      label: Medical conditions or allergies
+      hint: Important health information
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: Required for roster safety
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: insurance_details
+      label: Insurance provider and policy number
+      hint: For injury coverage
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: waiver_signed
+      label: Liability waiver signed
+      hint: Must be agreed to play
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: consent_photo_release
+      label: Consent to use photos
+      hint: For promotional materials
+      type: select_one
+      options:
+      - true
+      - false
+      required: false

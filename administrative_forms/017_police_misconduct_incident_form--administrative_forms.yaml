@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: police_misconduct_incident_form
+    pages:
+    - id: 1
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - Officer involved
+      - Other agency personnel
+      - Public
+      - Unknown
+      required: true
+    - id: 2
+      name: description
+      label: Description
+      hint: Describe the incident as accurately as possible
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date
+      label: Date of the Incident
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time
+      label: Time of the Incident
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: location
+      label: Location of the Incident
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: witnesses
+      label: Witnesses
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: officer_name
+      label: Officer's Name (Badge Number)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: officer_id
+      label: Officer ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: select_one
+      options:
+      - Arrested
+      - Cited
+      - Warned
+      - Other
+      required: true
+    - id: 11
+      name: police_department
+      label: Police Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: incident_reported
+      label: Incident Reported
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - In-person
+      - Phone
+      - Other
+      required: true
+    - id: 13
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - In-person
+      - Other
+      required: true
+    - id: 14
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
+      name: follow_up_details
+      label: Follow-up Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: submitted_by_department
+      label: Submitted By Department
+      hint: null
+      type: text
+      options: []
+      required: true

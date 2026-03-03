@@ -1,0 +1,98 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Recruitment Approval Form
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: approval_section
+      label: Approval
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Not Sure''}'
+      required: false
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Full-time''}'
+      - '{''label'': ''Part-time''}'
+      - '{''label'': ''Contract''}'
+      required: false
+    - id: 6
+      name: reporting_manager
+      label: Reporting Manager
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''John Smith''}'
+      - '{''label'': ''Jane Doe''}'
+      - '{''label'': ''Bob Johnson''}'
+      required: false
+    - id: 7
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Approved''}'
+      - '{''label'': ''Rejected''}'
+      - '{''label'': ''Pending''}'
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email_field
+      label: Email
+      hint: none
+      type: email
+      options: []
+      required: false

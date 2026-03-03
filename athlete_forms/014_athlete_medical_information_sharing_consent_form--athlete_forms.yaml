@@ -1,0 +1,231 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Medical Information Sharing Consent Form
+    pages:
+      - id: 1
+        name: athlete_name
+        label: Athlete Full Name
+        hint: First and last name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: athlete_id
+        label: Athlete ID Number
+        hint: Student or team identification number
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: date_of_birth
+        label: Date of Birth
+        hint: MM-DD-YYYY format
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: team_name
+        label: Team Name
+        hint: Name of team or organization
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: sport
+        label: Sport
+        hint: Primary sport
+        type: select_one
+        options:
+          - Football
+          - Basketball
+          - Soccer
+          - Track and Field
+          - Swimming
+          - Volleyball
+          - Baseball
+          - Softball
+          - Tennis
+          - Other
+        required: true
+      - id: 6
+        name: information_types
+        label: Types of Medical Information to Share
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Injury Reports
+          - Treatment Plans
+          - Medication Information
+          - Allergy Information
+          - Physical Examination Results
+          - Clearance Status
+          - Rehabilitation Progress
+          - Return to Play Status
+        required: true
+      - id: 7
+        name: information_recipients
+        label: Who Can Receive Your Information
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Head Coach
+          - Assistant Coaches
+          - Athletic Trainer
+          - Team Physician
+          - Physical Therapist
+          - Sports Scientist
+          - School Nurse
+          - Parents or Guardians
+        required: true
+      - id: 8
+        name: sharing_purpose
+        label: Purpose of Information Sharing
+        hint: Why is this information being shared
+        type: select_one
+        options:
+          - Treatment Coordination
+          - Safety During Practice and Games
+          - Academic Accommodations
+          - Insurance Claims
+          - All of the Above
+        required: true
+      - id: 9
+        name: sharing_method
+        label: Method of Information Sharing
+        hint: How can information be shared
+        type: select_multiple
+        options:
+          - In Person
+          - Phone Call
+          - Email
+          - Secure Online Portal
+          - Written Documentation
+        required: true
+      - id: 10
+        name: emergency_sharing
+        label: Emergency Information Sharing
+        hint: Can information be shared in emergency situations
+        type: select_one
+        options:
+          - "Yes - Without Restriction"
+          - "Yes - With Specific Contacts Only"
+          - "No"
+        required: true
+      - id: 11
+        name: consent_duration
+        label: Consent Duration
+        hint: How long is this consent valid
+        type: select_one
+        options:
+          - Current Season Only
+          - One Year
+          - Until Graduation
+          - Indefinitely
+        required: true
+      - id: 12
+        name: revocation_understanding
+        label: Understanding of Revocation Rights
+        hint: Do you understand you can revoke this consent at any time
+        type: select_one
+        options:
+          - "Yes - I Understand"
+          - "No - I Need More Information"
+        required: true
+      - id: 13
+        name: hipaa_acknowledgment
+        label: HIPAA Acknowledgment
+        hint: Do you understand your HIPAA rights
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: true
+      - id: 14
+        name: electronic_communication_consent
+        label: Electronic Communication Consent
+        hint: Do you consent to receiving medical information electronically
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: true
+      - id: 15
+        name: sensitive_information
+        label: Sensitive Information Consent
+        hint: Are there any sensitive topics you do not want shared
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: third_party_providers
+        label: Third-Party Provider Information Sharing
+        hint: Can information be shared with outside specialists
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - Case by Case Basis
+        required: true
+      - id: 17
+        name: research_participation
+        label: Research Participation
+        hint: Can your de-identified information be used for research
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: true
+      - id: 18
+        name: parent_guardian_name
+        label: Parent or Guardian Name
+        hint: Required if athlete is under 18
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: parent_guardian_email
+        label: Parent or Guardian Email
+        hint: Contact email for guardian
+        type: email
+        options: []
+        required: false
+      - id: 20
+        name: athlete_signature
+        label: Athlete Signature
+        hint: Type full name as signature
+        type: text
+        options: []
+        required: true
+      - id: 21
+        name: parent_guardian_signature
+        label: Parent or Guardian Signature
+        hint: Type full name as signature if under 18
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: consent_date
+        label: Date of Consent
+        hint: Date this form is signed
+        type: date
+        options: []
+        required: true
+      - id: 23
+        name: witness_name
+        label: Witness Name
+        hint: Name of witness if applicable
+        type: text
+        options: []
+        required: false

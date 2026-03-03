@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Proposal Value Assessment
+    pages:
+    - id: 1
+      name: service_proposal
+      label: Service Proposal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: review_service
+      label: Review Service
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low'
+      required: false
+    - id: 3
+      name: benefits
+      label: Benefits
+      hint: Please provide benefits as per proposal
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: costs
+      label: Costs
+      hint: Please provide costs as per proposal
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: overall_value
+      label: Overall Value
+      hint: Rate 1 to 10
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: overall_value_justification
+      label: Overall Value Justification
+      hint: Please provide a brief explanation
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: stakeholders
+      label: Stakeholders
+      hint: Please list all stakeholders involved
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: stakeholder_relationships
+      label: Stakeholder Relationships
+      hint: Please list relationships between stakeholders
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: decision_making_process
+      label: Decision Making Process
+      hint: Please describe decision-making process
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: review_time
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: next_steps
+      label: Next Steps
+      hint: Please specify next steps
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: Please provide any comments
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: rating
+      label: Rating
+      hint: Rate from 1 to 10
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: BlueSnap Church Donation Form
+    pages:
+    - id: 1
+      name: donation_intro
+      label: -- Support Our Church --
+      hint: Your generosity sustains our ministry
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: donor_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: donor_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donor_address
+      label: Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: member_status
+      label: Church Member Status
+      hint: null
+      type: select_one
+      options:
+      - Active member
+      - Regular attendee
+      - Occasional attendee
+      - Visitor
+      - Not a member
+      required: true
+    - id: 7
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: select_one
+      options:
+      - $25
+      - $50
+      - $100
+      - $250
+      - $500
+      - $1,000
+      - Custom amount
+      required: true
+    - id: 8
+      name: custom_amount
+      label: Custom Amount
+      hint: If other
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: donation_type
+      label: Donation Type
+      hint: null
+      type: select_one
+      options:
+      - One-time gift
+      - Weekly tithe
+      - Monthly giving
+      - Quarterly
+      - Annual pledge
+      required: true
+    - id: 10
+      name: donation_purpose
+      label: Donation Purpose
+      hint: null
+      type: select_one
+      options:
+      - General fund
+      - Building maintenance
+      - Ministry programs
+      - Community outreach
+      - Special project
+      - No preference
+      required: false
+    - id: 11
+      name: is_recurring
+      label: Set up recurring donation?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: recurring_frequency
+      label: Recurring Frequency
+      hint: If setting up recurring
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 13
+      name: recognition_choice
+      label: How should we recognize your donation?
+      hint: null
+      type: select_one
+      options:
+      - Public announcement with name
+      - Bulletin listing (anonymous)
+      - No public recognition
+      required: true
+    - id: 14
+      name: prayer_request
+      label: Prayer Request (optional)
+      hint: Let us pray for your intentions
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: tax_receipt
+      label: Tax receipt needed?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank transfer
+      - Check
+      required: true
+    - id: 17
+      name: newsletter_signup
+      label: Subscribe to church newsletter?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: donation_date
+      label: Donation Date
+      hint: null
+      type: date
+      options: []
+      required: true

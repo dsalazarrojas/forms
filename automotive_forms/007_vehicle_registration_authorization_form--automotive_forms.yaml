@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: vehicle_registration_authorization_form
+    pages:
+    - id: 1
+      name: vehicle_registration_1
+      label: vehicle_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_ownership
+      label: owner
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: owner_name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: owner_address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: owner_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: registration_date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: authorized_by
+      label: authorized_by
+      hint: null
+      type: select_one
+      options:
+      - Vehicle Dealership
+      - Vehicle Registration Center
+      - Owner
+      required: false
+    - id: 9
+      name: reason
+      label: reason
+      hint: null
+      type: select_multiple
+      options:
+      - Dealer
+      - Repair
+      - Insurance
+      - Other
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_details_1
+      label: make
+      hint: null
+      type: select_one
+      options:
+      - Toyota
+      - Ford
+      - Nissan
+      - Honda
+      - Other
+      required: false
+    - id: 12
+      name: vehicle_details_2
+      label: model
+      hint: null
+      type: select_one
+      options:
+      - Camry
+      - F-150
+      - Maxima
+      - Civic
+      - Other
+      required: false
+    - id: 13
+      name: vehicle_details_3
+      label: year
+      hint: null
+      type: select_one
+      options:
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - Other
+      required: false
+    - id: 14
+      name: vehicle_details_4
+      label: color
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      - Black
+      - Other
+      required: false
+    - id: 15
+      name: vehicle_details_5
+      label: vehicle_type
+      hint: null
+      type: select_one
+      options:
+      - Car
+      - Bike
+      - Truck
+      - Boat
+      - Other
+      required: false
+    - id: 16
+      name: vehicle_details_6
+      label: engine_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: vehicle_details_7
+      label: engine_type
+      hint: null
+      type: select_one
+      options:
+      - Gas
+      - Diesel
+      - Electric
+      - Hybrid
+      - Other
+      required: false
+    - id: 18
+      name: vehicle_details_8
+      label: transmission
+      hint: null
+      type: select_one
+      options:
+      - Automatic
+      - Manual
+      - Semi-Automatic
+      - Continuously Variable
+      - Other
+      required: false
+    - id: 19
+      name: vehicle_details_9
+      label: vehicle_status
+      hint: null
+      type: select_one
+      options:
+      - Registered
+      - Unregistered
+      - Pending
+      - Cancelled
+      - Other
+      required: false
+    - id: 20
+      name: vehicle_details_10
+      label: vin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: signature_2
+      label: signature_2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: date_2
+      label: date_2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: name_2
+      label: name_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: address_2
+      label: address_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: phone_2
+      label: phone_2
+      hint: null
+      type: text
+      options: []
+      required: false

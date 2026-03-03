@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: service_inspection_form
+    pages:
+    - id: 1
+      name: service_inspection
+      label: Service Inspection Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: facility_id
+      label: facility id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: date_and_time
+      label: date and time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: service_provided
+      label: service provided
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: inspector_id
+      label: inspector id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: inspector_name
+      label: inspector name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: rating
+      label: rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: facility_rating
+      label: facility rating
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 10
+      name: facility_comments
+      label: facility comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: facility_notes
+      label: facility notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: rating_justification
+      label: rating justification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: service_rating
+      label: service rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 14
+      name: service_notes
+      label: service notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: service_inspection_form_notes
+      label: service inspection form notes
+      hint: null
+      type: note
+      options: []
+      required: false

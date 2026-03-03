@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tour Guide Quotation Form
+    pages:
+    - id: 1
+      name: tour_guide_id
+      label: tour_guide_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: tour_duration
+      label: tour_duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: departure_date
+      label: departure_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: travel_date
+      label: travel_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: tour_cost
+      label: tour_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: currency_id
+      label: currency_id
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      - JPY
+      - CNY
+      - RMB
+      - CHF
+      - INR
+      required: false
+    - id: 7
+      name: tour_type
+      label: tour_type
+      hint: null
+      type: select_multiple
+      options:
+      - Walking
+      - Hiking
+      - Biking
+      - Kayaking
+      required: false
+    - id: 8
+      name: guide_languages
+      label: guide_languages
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - Chinese
+      - French
+      - German
+      required: false
+    - id: 9
+      name: travel_agency
+      label: travel_agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: agency_address
+      label: agency_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: customer_id
+      label: customer_id
+      hint: null
+      type: number
+      options: []
+      required: false

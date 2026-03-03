@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rigging Supervisor Assessment
+    pages:
+    - id: 1
+      name: rigging_supervisor_form_1
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rigging_supervisor_form_2
+      label: rigging_certifications
+      hint: list of certifications
+      type: select_one
+      options:
+      - Certification 1
+      - Certification 2
+      - Certification 3
+      - Certification 4
+      required: false
+    - id: 3
+      name: safety_performance
+      label: safety_performance
+      hint: rate from 1-5
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: rigging_skills
+      label: rigging_skills
+      hint: list of skills
+      type: select_multiple
+      options:
+      - Skill 1
+      - Skill 2
+      - Skill 3
+      required: false
+    - id: 5
+      name: supervisor_experience
+      label: supervisor_experience
+      hint: years of experience
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: rigging_quals
+      label: rigging_quals
+      hint: list of qualifications
+      type: select_one
+      options:
+      - Qual 1
+      - Qual 2
+      - Qual 3
+      required: false
+    - id: 7
+      name: first_aid
+      label: first_aid
+      hint: certification number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: rigging_supervisor_form_8
+      label: rigging_supervisor_form_8
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Aid Appointment Form
+    pages:
+    - id: 1
+      name: new_appointment
+      label: New Appointment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: contact_name
+      label: Contact Name
+      hint: Enter contact name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: appointment_notes
+      label: Appointment Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: financial_aid_program
+      label: Financial Aid Program
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: support_agent
+      label: Support Agent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: appointment_requester
+      label: Appointment Requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: support_agent_phone
+      label: Support Agent Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: support_agent_email
+      label: Support Agent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_reminder
+      label: Follow-up Reminder
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: next_appointment_request
+      label: Next Appointment Request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: next_appointment_requester
+      label: Next Appointment Requester
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: follow_up_note
+      label: Follow-up Note
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: schedule_follow_up
+      label: Schedule Follow-up
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: follow_up_method
+      label: Follow-up Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: follow_up_location
+      label: Follow-up Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 23
+      name: follow_up_comment
+      label: Follow-up Comment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: support_agent_note
+      label: Support Agent Note
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: true

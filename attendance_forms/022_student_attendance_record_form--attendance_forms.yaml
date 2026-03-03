@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Attendance Record Form
+    pages:
+    - id: 1
+      name: student_id
+      label: student_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: attendance_date
+      label: attendance_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: attendance_status
+      label: attendance_status
+      hint: null
+      type: select_one
+      options:
+      - IDLE
+      - ABSENT
+      - LATE
+      - EXCUSED
+      - UNEXCUSED
+      required: false
+    - id: 4
+      name: reason_for_absence
+      label: reason_for_absence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: class_id
+      label: class_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: section_id
+      label: section_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: subject_id
+      label: subject_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: attendance_status_note
+      label: attendance_status_note
+      hint: null
+      type: text
+      options: []
+      required: false

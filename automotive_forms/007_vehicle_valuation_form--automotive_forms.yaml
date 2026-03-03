@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Valuation Form
+    pages:
+    - id: 1
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: vehicle_year
+      label: vehicle_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: make
+      label: Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: model
+      label: Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: trim_level
+      label: Trim Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 6
+      name: engine_size
+      label: Engine Size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: damage_description
+      label: Damage Description
+      hint: Please describe the damage to the vehicle
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: damage_level
+      label: Damage Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: transmission
+      label: Transmission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

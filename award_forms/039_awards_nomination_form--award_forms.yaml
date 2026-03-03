@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Awards Nomination Form
+    pages:
+    - id: 1
+      name: section_nominator_info
+      label: -- Nominator Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: nominator_name
+      label: Nominator Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: nominator_email
+      label: Nominator Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: nominator_phone
+      label: Nominator Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: nominator_affiliation
+      label: Nominator Affiliation or Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_nominee_info
+      label: -- Nominee Information --
+      hint: Information about the person you are nominating
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: nominee_name
+      label: Nominee Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: nominee_email
+      label: Nominee Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: nominee_phone
+      label: Nominee Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: nominee_affiliation
+      label: Nominee Affiliation or Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: nominee_relationship
+      label: Describe your relationship with the nominee
+      hint: e.g. Colleague, Manager, Community Member
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_nomination_details
+      label: -- Nomination Details --
+      hint: Provide specifics on the award and the reason
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: award_category_nomination
+      label: Award Category
+      hint: Choose the most relevant category
+      type: select_one
+      options:
+      - Volunteer of the Year
+      - Best Educator
+      - Community Hero
+      - Local Business of the Year
+      - Rising Star Award
+      required: true
+    - id: 14
+      name: nomination_reason_long
+      label: Detailed Nomination Reason
+      hint: Why does this person deserve this award?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: supporting_document_url
+      label: Supporting Document or Portfolio Link
+      hint: URL to files or media supporting the nomination
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: nomination_date
+      label: Date of Nomination
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: nomination_confidentiality
+      label: Is this nomination confidential?
+      hint: Should the nominee be informed of your name?
+      type: select_one
+      options:
+      - Yes, Keep it confidential
+      - No, You can share my name
+      required: true
+    - id: 18
+      name: nomination_terms_agreement
+      label: I agree to the nomination terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 19
+      name: nominator_signature
+      label: Digital Signature
+      hint: Type full name to sign the nomination
+      type: text
+      options: []
+      required: true

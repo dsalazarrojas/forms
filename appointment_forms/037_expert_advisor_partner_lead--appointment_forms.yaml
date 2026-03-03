@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: expert_advisor_partner_lead
+    pages:
+    - id: 1
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: appointment_lead
+      label: Appointment Lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: nurture_lead
+      label: Nurture Lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: nurture_status
+      label: Nurture Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: nurture_partner_lead
+      label: Nurture Partner Lead
+      hint: null
+      type: text
+      options: []
+      required: false

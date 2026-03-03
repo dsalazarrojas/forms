@@ -1,0 +1,351 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Repair Services Lead Generation Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Auto Repair Services
+      hint: Let us help you with your vehicle repair needs
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: How can we reach you
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Where should we contact you
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: How should we reach you
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      - Any Method
+      required: true
+    - id: 8
+      name: address
+      label: Street Address
+      hint: Your address
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: state
+      label: State
+      hint: State of residence
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Florida
+      - Georgia
+      - Other
+      required: false
+    - id: 11
+      name: zip_code
+      label: ZIP Code
+      hint: 5-digit ZIP code
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_info
+      label: Vehicle Information
+      hint: Tell us about your vehicle
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_year
+      label: Vehicle Year
+      hint: Year of vehicle
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: vehicle_make
+      label: Vehicle Make
+      hint: Manufacturer
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: vehicle_model
+      label: Vehicle Model
+      hint: Model name
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: mileage
+      label: Current Mileage
+      hint: Odometer reading
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: Overall condition
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 18
+      name: service_needs
+      label: Service Needs
+      hint: What services do you need
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: primary_service
+      label: Primary Service Needed
+      hint: Main reason for contact
+      type: select_one
+      options:
+      - Oil Change
+      - Brake Service
+      - Engine Repair
+      - Transmission Service
+      - Tire Service
+      - AC Service
+      - Electrical Repair
+      - Suspension Work
+      - Diagnostic
+      - General Maintenance
+      - Not Sure
+      - Other
+      required: true
+    - id: 20
+      name: secondary_services
+      label: Additional Services
+      hint: Any other services needed
+      type: select_multiple
+      options:
+      - Oil Change
+      - Brake Service
+      - Tire Rotation
+      - Battery Replacement
+      - AC Service
+      - Fluid Flush
+      - Inspection
+      - Tune-Up
+      - None
+      required: false
+    - id: 21
+      name: problem_description
+      label: Problem Description
+      hint: Describe the issue
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: urgency
+      label: Service Urgency
+      hint: How soon do you need service
+      type: select_one
+      options:
+      - Emergency
+      - Within 24 hours
+      - Within 3 days
+      - Within 1 week
+      - Flexible
+      - Just Planning
+      required: true
+    - id: 23
+      name: preferred_date
+      label: Preferred Appointment Date
+      hint: When would you like to come in
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: preferred_time
+      label: Preferred Time
+      hint: What time works best
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: appointment_flexibility
+      label: Appointment Flexibility
+      hint: How flexible is your schedule
+      type: select_one
+      options:
+      - Very Flexible
+      - Somewhat Flexible
+      - Need Specific Time
+      - Only Available on Weekends
+      required: false
+    - id: 26
+      name: service_history
+      label: Service History
+      hint: Your recent service history
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: last_service
+      label: Last Service Date
+      hint: When was your last service
+      type: date
+      options: []
+      required: false
+    - id: 28
+      name: regular_mechanic
+      label: Do You Have a Regular Mechanic
+      hint: Current service provider
+      type: select_one
+      options:
+      - true
+      - false
+      - Had One Previously
+      required: false
+    - id: 29
+      name: switching_reason
+      label: Reason for Switching
+      hint: Why are you looking for new service
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: customer_preferences
+      label: Customer Preferences
+      hint: Your preferences
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: parts_preference
+      label: Parts Preference
+      hint: What type of parts
+      type: select_one
+      options:
+      - OEM Only
+      - Aftermarket OK
+      - Cheapest Option
+      - Best Quality
+      - Not Sure
+      required: false
+    - id: 32
+      name: budget_concern
+      label: Budget Concerns
+      hint: Is budget a primary concern
+      type: select_one
+      options:
+      - Yes Very Important
+      - Somewhat Important
+      - Not a Primary Concern
+      - Quality Over Price
+      required: false
+    - id: 33
+      name: warranty_importance
+      label: Warranty Importance
+      hint: How important is warranty
+      type: select_one
+      options:
+      - Very Important
+      - Important
+      - Somewhat Important
+      - Not Important
+      required: false
+    - id: 34
+      name: additional_info
+      label: Additional Information
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: how_heard
+      label: How Did You Hear About Us
+      hint: How did you find us
+      type: select_one
+      options:
+      - Google Search
+      - Social Media
+      - Friend or Family Referral
+      - Previous Customer
+      - Advertisement
+      - Website
+      - Drive By
+      - Other
+      required: true
+    - id: 36
+      name: referral_name
+      label: Referral Name
+      hint: Who referred you
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: marketing_consent
+      label: Marketing Consent
+      hint: Can we send you promotions
+      type: select_one
+      options:
+      - Yes Send Me Offers
+      - No Thank You
+      required: true
+    - id: 38
+      name: best_time_to_call
+      label: Best Time to Call
+      hint: When should we call
+      type: select_one
+      options:
+      - Morning 8am-12pm
+      - Afternoon 12pm-5pm
+      - Evening 5pm-8pm
+      - Anytime
+      required: false

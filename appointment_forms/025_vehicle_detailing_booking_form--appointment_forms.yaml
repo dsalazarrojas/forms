@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: vehicle_detailing_booking_form
+    pages:
+    - id: 1
+      name: vehicle_detailing_booking_form_page_1
+      label: Vehicle Detailing
+      hint: null
+      type: select_one
+      options:
+      - Vehicle Detailing
+      - Interior Detailing
+      - Exterior Detailing
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_registration_num
+      label: Vehicle Registration Num
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_year_made
+      label: Year Made
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: service_description
+      label: Service Description
+      hint: null
+      type: select_multiple
+      options:
+      - Full detailing
+      - Interior detailing
+      - Exterior detailing
+      required: false

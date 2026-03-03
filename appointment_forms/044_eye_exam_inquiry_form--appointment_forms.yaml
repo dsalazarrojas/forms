@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Eye Exam Inquiry Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_info
+      label: eye_exam_inquiry
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: date_of_visit
+      label: Date Of Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_visit
+      label: Time Of Visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: doctor_info
+      label: Doctor Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: doctor_name_other
+      label: Other Doctor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: date_of_last_exam
+      label: Date Of Last Exam
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_of_last_exam
+      label: Time Of Last Exam
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: doctor_last_exam
+      label: Doctor Last Exam
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: doctor_last_exam_other
+      label: Other Doctor Last Exam
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

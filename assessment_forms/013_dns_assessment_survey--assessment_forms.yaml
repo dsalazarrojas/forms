@@ -1,0 +1,234 @@
+inputSchema:
+  type: object
+  properties:
+    title: DNS Assessment Survey
+    pages:
+    - id: 1
+      name: dns_assessment_page_1
+      label: What is the status of DNS management practices?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dns_infrastructure_satisfaction
+      label: How do you rate your current DNS infrastructure satisfaction?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: dns_security_readiness
+      label: What is your level of DNS security readiness?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 4
+      name: dns_team_size
+      label: What is the size of your IT team?
+      hint: null
+      type: select_multiple
+      options:
+      - 1-5
+      - 6-10
+      - 11-20
+      - 21-50
+      - 51+
+      required: false
+    - id: 5
+      name: dns_support_team
+      label: Do you have an internal support team for DNS management?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: dns_automated_system
+      label: Does your organization use an automated system for DNS management?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: dns_manual_system
+      label: What is your preferred method for managing DNS records?
+      hint: null
+      type: select_multiple
+      options:
+      - Manual
+      - Automated
+      - Hybrid
+      required: false
+    - id: 8
+      name: dns_automated_method
+      label: If automated, what is the automated method your organization uses?
+      hint: null
+      type: select_multiple
+      options:
+      - DNS service provider
+      - Internal DNS service
+      - Custom built system
+      required: false
+    - id: 9
+      name: dns_manual_method
+      label: If manual, what is your primary method for managing DNS records?
+      hint: null
+      type: select_multiple
+      options:
+      - Manual entry
+      - CSV file
+      - Script
+      required: false
+    - id: 10
+      name: dns_training_program
+      label: Does your organization have a formal DNS training program?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: dns_documentation
+      label: Are DNS procedures and documentation in place?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: dns_backup_policy
+      label: Do you have a DNS backup policy?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: dns_disaster_recovery
+      label: Do you have a disaster recovery plan for DNS?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: dns_change_control
+      label: Are there procedures for controlling changes to the DNS?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: dns_change_control_frequency
+      label: What is the frequency of DNS changes?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 16
+      name: dns_change_review
+      label: Do you review and audit DNS changes?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: dns_change_awareness
+      label: Do you have visibility into DNS changes?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: dns_change_approval
+      label: Do you have approval process for DNS changes?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 19
+      name: dns_change_awareness_method
+      label: How do you currently have awareness of DNS changes?
+      hint: null
+      type: select_multiple
+      options:
+      - Notification
+      - Report
+      - Ticket
+      required: false
+    - id: 20
+      name: dns_change_approval_method
+      label: How do you currently have approval for DNS changes?
+      hint: null
+      type: select_multiple
+      options:
+      - Ticket
+      - Approval process
+      - Automated system
+      required: false
+    - id: 21
+      name: dns_change_control_process
+      label: What is your current process for managing DNS changes?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: dns_change_control_process_detail
+      label: Please describe the details of your DNS change control process.
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: dns_change_control_process_frequency
+      label: How often do you perform DNS changes?
+      hint: null
+      type: select_multiple
+      options:
+      - Frequently
+      - Infrequently
+      - Rarely
+      required: false
+    - id: 24
+      name: dns_change_control_process_review
+      label: Do you review DNS changes before making them?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: dns_change_control_process_approve
+      label: Do you approve DNS changes before making them?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

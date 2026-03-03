@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supplier Credit Assessment Request Form
+    pages:
+    - id: 1
+      name: supplier_credit_assessment_request_form
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In person
+      required: false
+    - id: 11
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_multiple
+      options:
+      - 30 days
+      - 45 days
+      - 60 days
+      - 90 days
+      required: false
+    - id: 12
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Biweekly
+      - Monthly
+      - Quarterly
+      - Semiannually
+      - Annually
+      required: false
+    - id: 13
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Cash
+      - Check
+      required: false
+    - id: 14
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: credit_limit
+      label: Credit Limit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: credit_term
+      label: Credit Term
+      hint: null
+      type: select_one
+      options:
+      - 30 days
+      - 60 days
+      - 90 days
+      - 180 days
+      required: false
+    - id: 17
+      name: credit_frequency
+      label: Credit Frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Biweekly
+      - Monthly
+      - Quarterly
+      - Semiannually
+      - Annually
+      required: false
+    - id: 18
+      name: payment_schedule
+      label: Payment Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: payment_terms_notes
+      label: Payment Terms Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: credit_status
+      label: Credit Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Unknown
+      required: false
+    - id: 22
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by_email
+      label: Submitted By Email
+      hint: null
+      type: email
+      options: []
+      required: false

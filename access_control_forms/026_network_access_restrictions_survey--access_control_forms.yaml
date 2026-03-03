@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Network Access Restrictions Survey
+    pages:
+    - id: 1
+      name: network_access_restrictions_survey_page_1
+      label: network_access_restrictions_survey_page_1_label
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: restricted_areas
+      label: restricted_areas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: access_restrictions_type
+      label: access_restrictions_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: access_restrictions_level
+      label: access_restrictions_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 7
+      name: productivity_impact
+      label: productivity_impact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: employee_suggestions
+      label: employee_suggestions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: management_suggestions
+      label: management_suggestions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: technical_suggestions
+      label: technical_suggestions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: attachment_upload
+      label: attachment_upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: file_name
+      label: file_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: file_size
+      label: file_size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: file_type
+      label: file_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: upload_error_message
+      label: upload_error_message
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: upload_status
+      label: upload_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 22
+      name: attachment_upload
+      label: attachment_upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: attachment_name
+      label: attachment_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: attachment_description
+      label: attachment_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: attachment_url
+      label: attachment_url
+      hint: null
+      type: text
+      options: []
+      required: false

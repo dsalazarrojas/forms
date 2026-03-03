@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Schedule A Zoom Meeting Form
+    pages:
+    - id: 1
+      name: schedule_a_zoom_meeting_form
+      label: Meeting Type
+      hint: null
+      type: select_one
+      options:
+      - Video Meeting
+      - Audio Meeting
+      - Phone Meeting
+      required: false
+    - id: 2
+      name: schedule_a_zoom_meeting_time
+      label: Meeting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: schedule_a_zoom_meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: schedule_a_zoom_meeting_start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: schedule_a_zoom_meeting_end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: schedule_a_zoom_meeting_subject
+      label: Meeting Subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: schedule_a_zoom_meeting_meeting_duration
+      label: Meeting Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: schedule_a_zoom_meeting_meeting_location
+      label: Meeting Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: schedule_a_zoom_meeting_meeting_participants
+      label: Meeting Participants
+      hint: null
+      type: select_multiple
+      options:
+      - Coworker 1
+      - Coworker 2
+      - Customer
+      required: false
+    - id: 10
+      name: schedule_a_zoom_meeting_meeting_description
+      label: Meeting Description
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Staff Application Form
+    pages:
+    - id: 1
+      name: personal_info
+      label: personal_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: on_call_positions
+      label: on_call_positions
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Front Desk''}'
+      - '{''id'': 2, ''name'': ''Back Office''}'
+      required: false
+    - id: 3
+      name: resume
+      label: resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_applicant
+      label: job_applicant
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: business_interest
+      label: business_interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: work_experience
+      label: work_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: education
+      label: education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: skills
+      label: skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: work_experience_years
+      label: work_experience_years
+      hint: null
+      type: number
+      options: []
+      required: false

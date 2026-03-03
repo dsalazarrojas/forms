@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Overhead Cost Assessment Quiz
+    pages:
+    - id: 1
+      name: category_overhead_cost
+      label: Category Overhead Cost
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 2
+      name: tracking_method
+      label: Tracking Method
+      hint: null
+      type: select_multiple
+      options:
+      - Manual
+      - Semi-Automated
+      - Automated
+      required: false
+    - id: 3
+      name: challenge
+      label: Challenge
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: labor_hours
+      label: Labor Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: direct_costs
+      label: Direct Costs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: challenge_2
+      label: Challenge 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: overhead_costs
+      label: Overhead Costs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: total_hours
+      label: Total Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: overhead_category
+      label: Overhead Category
+      hint: null
+      type: select_one
+      options:
+      - Material
+      - Labor
+      - Equipment
+      - Overhead
+      - Material & Labor
+      - Material & Overhead
+      required: false
+    - id: 10
+      name: cost_type
+      label: Cost Type
+      hint: null
+      type: select_one
+      options:
+      - Recurring
+      - Non-Recurring
+      required: false
+    - id: 11
+      name: overhead_category_2
+      label: Overhead Category 2
+      hint: null
+      type: select_one
+      options:
+      - Material
+      - Labor
+      - Equipment
+      - Overhead
+      - Material & Labor
+      - Material & Overhead
+      required: false

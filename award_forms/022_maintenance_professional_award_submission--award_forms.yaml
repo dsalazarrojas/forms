@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maintenance Professional Award Submission
+    pages:
+    - id: 1
+      name: nominator_info
+      label: Nominator Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: nominator_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: nominator_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: nominee_info
+      label: Nominee Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: nominee_title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: nominee_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: nominee_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: award_nomination_form
+      label: Award Nomination Form
+      hint: null
+      type: select_one
+      options:
+      - Outstanding Performance
+      - Outstanding Leadership
+      - Outstanding Innovation
+      - Other
+      required: false
+    - id: 9
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: award_type
+      label: Type of Award
+      hint: null
+      type: text
+      options: []
+      required: false

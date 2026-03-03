@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Solar Installation Scheduling Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: installation_date
+      label: Installation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: installation_hour
+      label: Installation Hour
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: technician_name
+      label: Technician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: service_window
+      label: Service Window
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: service_window_start
+      label: Service Window Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: service_window_end
+      label: Service Window End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: installation_location
+      label: Installation Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: assigned_technician
+      label: Assigned Technician
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: installation_status
+      label: Installation Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false

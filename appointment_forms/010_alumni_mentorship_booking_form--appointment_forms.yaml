@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alumni Mentorship Booking Form
+    pages:
+    - id: 1
+      name: section_booking_information
+      label: -- Booking Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: mentee_name
+      label: Mentee name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: mentor_preference
+      label: Mentor preference
+      hint: Indicate a preferred mentor if any
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: session_date
+      label: Preferred session date
+      hint: Choose a date for the mentorship session
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: session_time
+      label: Preferred session time
+      hint: Choose a time slot
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: session_topic
+      label: Session topic
+      hint: Briefly describe the topic you want to discuss
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_email
+      label: Contact email
+      hint: Email used for confirmation
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone
+      label: Contact phone
+      hint: Optional phone number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: preparation_notes
+      label: Preparation notes
+      hint: Any materials to prepare before the session
+      type: text
+      options: []
+      required: false

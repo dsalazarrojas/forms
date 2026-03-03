@@ -1,0 +1,88 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Occupancy Permit Authorization Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: property_owner_name
+      label: Property Owner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: property_owner_email
+      label: Property Owner Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: date_moved_in
+      label: Date Moved In
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: property_inspector_name
+      label: Property Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: property_inspection_date
+      label: Property Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: inspector_approval
+      label: Property Inspector Approval
+      hint: null
+      type: select_one
+      options:
+      - approved
+      - not approved
+      required: true
+    - id: 9
+      name: form_signature
+      label: Form Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: inspector_signature
+      label: Property Inspector Signature
+      hint: null
+      type: note
+      options: []
+      required: true

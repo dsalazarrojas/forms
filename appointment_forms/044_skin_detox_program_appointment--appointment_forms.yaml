@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skin Detox Program Appointment
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Info
+      hint: Client information
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: appointment_details
+      label: Appointment Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 4
+      name: skin_details
+      label: Skin Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: health_details
+      label: Health Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: appointment_notes
+      label: Appointment Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_instructions
+      label: Follow-up Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_reminder
+      label: Follow-up Reminder
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: clinic_signature
+      label: Clinic Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: email_follow_up
+      label: Email Follow-up
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone_follow_up
+      label: Phone Follow-up
+      hint: null
+      type: text
+      options: []
+      required: false

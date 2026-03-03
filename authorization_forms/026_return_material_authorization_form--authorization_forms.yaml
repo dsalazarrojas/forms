@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: return_material_authorization_form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: material_id
+      label: material_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: cost
+      label: Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false

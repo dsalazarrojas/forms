@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Marketing Appointment Form
+    pages:
+    - id: 1
+      name: client_full_name
+      label: Client Full Name
+      hint: Your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_email
+      label: Client Email
+      hint: Best email to reach you
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Client Phone
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Name of your business
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_website
+      label: Company Website
+      hint: Your website URL
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: appointment_date
+      label: Appointment Date
+      hint: Preferred date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: appointment_time
+      label: Appointment Time
+      hint: Preferred time
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: appointment_type
+      label: Appointment Type
+      hint: Type of consultation
+      type: select_one
+      options:
+      - Initial Consultation
+      - Strategy Session
+      - Content Audit
+      - Campaign Review
+      - Follow-up Meeting
+      - Performance Review
+      required: true
+    - id: 10
+      name: meeting_format
+      label: Meeting Format
+      hint: How would you like to meet?
+      type: select_one
+      options:
+      - In Person
+      - Video Call
+      - Phone Call
+      - Email Consultation
+      required: true
+    - id: 11
+      name: marketing_services_needed
+      label: Marketing Services Needed
+      hint: What services are you interested in?
+      type: select_multiple
+      options:
+      - Content Strategy
+      - Blog Writing
+      - Social Media Marketing
+      - SEO Services
+      - Email Marketing
+      - Video Marketing
+      - Paid Advertising
+      - Analytics and Reporting
+      required: true
+    - id: 12
+      name: current_marketing_challenges
+      label: Current Marketing Challenges
+      hint: What challenges are you facing?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: marketing_goals
+      label: Marketing Goals
+      hint: What do you hope to achieve?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: target_audience
+      label: Target Audience
+      hint: Who are you trying to reach?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: current_content_efforts
+      label: Current Content Efforts
+      hint: What marketing are you currently doing?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: marketing_budget
+      label: Marketing Budget
+      hint: What is your monthly budget?
+      type: select_one
+      options:
+      - Under $1,000
+      - $1,000-$5,000
+      - $5,000-$10,000
+      - $10,000-$25,000
+      - $25,000-$50,000
+      - Over $50,000
+      required: true
+    - id: 17
+      name: timeline
+      label: Timeline
+      hint: When do you want to start?
+      type: select_one
+      options:
+      - Immediately
+      - Within 2 weeks
+      - Within 1 month
+      - Within 3 months
+      - Just researching
+      required: true
+    - id: 18
+      name: competitors
+      label: Main Competitors
+      hint: Who are your competitors?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: how_did_you_hear
+      label: How Did You Hear About Us?
+      hint: How did you find our services?
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Referral
+      - Search Engine
+      - Advertisement
+      - Other
+      required: true
+    - id: 20
+      name: previous_agencies
+      label: Previous Marketing Agencies
+      hint: Have you worked with agencies before?
+      type: select_one
+      options:
+      - Yes, currently working with one
+      - Yes, in the past
+      - No, never
+      required: true
+    - id: 21
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else you would like to share
+      type: text
+      options: []
+      required: false

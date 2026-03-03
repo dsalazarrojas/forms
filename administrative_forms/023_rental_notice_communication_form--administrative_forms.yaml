@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rental Notice Communication Form
+    pages:
+    - id: 1
+      name: landlord_notification
+      label: Landlord Notification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tenant_notification
+      label: Tenant Notification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: update_details
+      label: Update Details
+      hint: Describe the nature of the update
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: agreement_changes
+      label: Agreement Changes
+      hint: List changes to the agreement
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: action_taken
+      label: Action Taken
+      hint: Describe any action taken
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: next_steps
+      label: Next Steps
+      hint: Describe next steps
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: tenant_confirmation
+      label: Tenant Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: landlord_confirmation
+      label: Landlord Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: agreement_signed
+      label: Agreement Signed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: agreement_signed_date
+      label: Agreement Signed Date
+      hint: Date agreement was signed
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: agreement_signed_time
+      label: Agreement Signed Time
+      hint: Time agreement was signed
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: lease_end_date
+      label: Lease End Date
+      hint: Date lease ends
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: lease_end_time
+      label: Lease End Time
+      hint: Time lease ends
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: tenant_lease_start
+      label: Tenant Lease Start
+      hint: Date tenant lease started
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: landlord_contact_info
+      label: Landlord Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: tenant_contact_info
+      label: Tenant Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: agreement_length
+      label: Agreement Length
+      hint: Length of agreement in months
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: payment_terms
+      label: Payment Terms
+      hint: Terms of payments
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: late_payment_fees
+      label: Late Payment Fees
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: notice_period
+      label: Notice Period
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: notice_period_length
+      label: Notice Period Length
+      hint: Length of notice period
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: agreement_type
+      label: Agreement Type
+      hint: Type of agreement
+      type: select_one
+      options:
+      - Fixed
+      - Variable
+      required: true
+    - id: 23
+      name: agreement_type_other
+      label: Other Agreement Type
+      hint: Other agreement type
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: agreement_start_date
+      label: Agreement Start Date
+      hint: Date agreement started
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: lease_end_date
+      label: Lease End Date
+      hint: Date lease ends
+      type: date
+      options: []
+      required: false

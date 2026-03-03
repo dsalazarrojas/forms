@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Background Assessment
+    pages:
+    - id: 1
+      name: household_members
+      label: Household members
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: family_history
+      label: Family History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: relationship_status
+      label: Relationship Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: sibling_order
+      label: Sibling Order
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      required: false
+    - id: 5
+      name: sibling_spouse
+      label: Sibling or Spouse
+      hint: null
+      type: select_multiple
+      options:
+      - Brother
+      - Sister
+      - Spouse
+      - Partner
+      required: false
+    - id: 6
+      name: family_income
+      label: Family Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: family_employment
+      label: Family Employment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: family_vehicles
+      label: Family Vehicles
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: family_vehicles_2
+      label: Family Vehicles 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: family_vehicles_3
+      label: Family Vehicles 3
+      hint: null
+      type: text
+      options: []
+      required: false

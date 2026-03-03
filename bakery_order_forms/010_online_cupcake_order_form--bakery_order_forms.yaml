@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Cupcake Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: pick_up_date
+      label: pick up date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: pick_up_time
+      label: pick up time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: delivery_date
+      label: delivery date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: delivery_time
+      label: delivery time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: flavor
+      label: flavor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - PayPal
+      required: false
+    - id: 11
+      name: payment_details
+      label: payment details
+      hint: null
+      type: text
+      options: []
+      required: false

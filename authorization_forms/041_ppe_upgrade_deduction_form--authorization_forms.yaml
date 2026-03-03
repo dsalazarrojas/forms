@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: ppe_upgrade_deduction_form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: None
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: job_title
+      label: job_title
+      hint: None
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: None
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: None
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      required: true
+    - id: 5
+      name: manager_name
+      label: Manager's Name
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manager_email
+      label: Manager's Email
+      hint: None
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: date_of_upgrade
+      label: DatechartInstance
+      hint: None
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: cost_amount
+      label: Cost Amount
+      hint: None
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: authorized_by
+      label: Authorized By
+      hint: None
+      type: select_one
+      options:
+      - HR
+      - Safety
+      - Payroll
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submission_date
+      label: Submission Date
+      hint: None
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: submitted_by
+      label: Submitted By
+      hint: None
+      type: select_one
+      options:
+      - HR
+      - Safety
+      - Payroll
+      required: true
+    - id: 13
+      name: ppe_type
+      label: PPE Type
+      hint: None
+      type: select_multiple
+      options:
+      - PPE 1
+      - PPE 2
+      - PPE 3
+      required: true
+    - id: 14
+      name: reason_for_upgrade
+      label: Reason for Upgrade
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: None
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: manager_approval
+      label: Manager's Approval
+      hint: None
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: true
+    - id: 17
+      name: approved_by
+      label: Approved By
+      hint: None
+      type: select_one
+      options:
+      - HR
+      - Safety
+      - Payroll
+      required: true
+    - id: 18
+      name: submitted_to
+      label: Submitted To
+      hint: None
+      type: select_one
+      options:
+      - HR
+      - Safety
+      - Payroll
+      required: true
+    - id: 19
+      name: approval_date
+      label: Approval Date
+      hint: None
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Tax Document Upload Form
+    pages:
+    - id: 1
+      name: client_section
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: tax_id
+      label: Tax ID/SSN
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: tax_year
+      label: Tax Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: filing_status
+      label: Filing Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married Filing Jointly
+      - Married Filing Separately
+      - Head of Household
+      - Qualifying Widow/Widower
+      required: true
+    - id: 8
+      name: document_section
+      label: -- Income Documents --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: w2_documents
+      label: Upload W-2 forms
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: w9_documents
+      label: Upload 1099 forms
+      hint: Contractor income
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: interest_documents
+      label: Interest and dividend statements
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: business_section
+      label: -- Business Documents --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: self_employed
+      label: Are you self-employed?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: business_documents
+      label: Business income and expense records
+      hint: If self-employed
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: business_loss
+      label: Business schedule C or K-1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: deduction_section
+      label: -- Deduction Documents --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: charitable_contributions
+      label: Charitable contribution documentation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: mortgage_interest
+      label: Mortgage interest statement
+      hint: Form 1098
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: education_expenses
+      label: Education expense documentation
+      hint: Form 1098-T
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_expenses
+      label: Medical expense records
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: property_tax
+      label: Property tax and state income tax paid
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: other_documents
+      label: Other relevant tax documents
+      hint: null
+      type: text
+      options: []
+      required: false

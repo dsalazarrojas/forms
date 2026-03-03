@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Appointment Request Form Once Upon A Child
+    pages:
+    - id: 1
+      name: seller_information
+      label: Seller Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: seller_name
+      label: Seller Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: appointment_details
+      label: Appointment Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: preferred_date
+      label: Preferred Date for Appointment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time_preference
+      label: Preferred Time
+      hint: null
+      type: select_one
+      options:
+      - Morning (9 AM - 12 PM)
+      - Afternoon (12 PM - 3 PM)
+      - Late Afternoon (3 PM - 5 PM)
+      required: true
+    - id: 8
+      name: items_to_sell
+      label: Items You Want to Sell
+      hint: Brief description of items
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: item_category
+      label: Primary Category
+      hint: null
+      type: select_multiple
+      options:
+      - Clothing
+      - Shoes
+      - Toys
+      - Baby Gear
+      - Books
+      - Sports Equipment
+      required: false
+    - id: 10
+      name: quantity_estimate
+      label: Estimated Number of Items
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: items_condition
+      label: Condition of Items
+      hint: null
+      type: select_one
+      options:
+      - Like New
+      - Gently Used
+      - Good
+      - Fair
+      required: true
+    - id: 12
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false

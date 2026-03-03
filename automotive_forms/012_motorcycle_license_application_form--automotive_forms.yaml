@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: motorcycle_license_application_form
+    pages:
+    - id: 1
+      name: basic_info
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''California''}'
+      - '{''value'': ''New York''}'
+      - '{''value'': ''Texas''}'
+      required: false
+    - id: 7
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: rider_license_number
+      label: Rider License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: motorcycle_license_type
+      label: Motorcycle License Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Class A''}'
+      - '{''value'': ''Class B''}'
+      - '{''value'': ''Class C''}'
+      required: false
+    - id: 12
+      name: vehicle_class
+      label: Vehicle Class
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Motorcycle''}'
+      - '{''value'': ''Motorhome''}'
+      - '{''value'': ''Mopeds''}'
+      required: false
+    - id: 13
+      name: motorcycle_license_number
+      label: Motorcycle License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: motorcycle_license_issue_date
+      label: Motorcycle License Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: motorcycle_license_expiration_date
+      label: Motorcycle License Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: motorcycle_license_status
+      label: Motorcycle License Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''Suspended''}'
+      - '{''value'': ''Revoked''}'
+      required: false
+    - id: 17
+      name: insurance_policy_status
+      label: Insurance Policy Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''Expired''}'
+      - '{''value'': ''Suspended''}'
+      required: false
+    - id: 18
+      name: insurance_policy_issue_date
+      label: Insurance Policy Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: insurance_policy_expiration_date
+      label: Insurance Policy Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: vehicle_registration_date
+      label: Vehicle Registration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: vehicle_registration_status
+      label: Vehicle Registration Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Registered''}'
+      - '{''value'': ''Unregistered''}'
+      - '{''value'': ''Cancelled''}'
+      required: false
+    - id: 22
+      name: vehicle_license_renewal_date
+      label: Vehicle License Renewal Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: vehicle_license_renewal_status
+      label: Vehicle License Renewal Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Renewed''}'
+      - '{''value'': ''Expiring''}'
+      - '{''value'': ''Not Due''}'
+      required: false
+    - id: 24
+      name: vehicle_license_cancellation_date
+      label: Vehicle License Cancellation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: vehicle_license_cancellation_status
+      label: Vehicle License Cancellation Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Cancellation In Progress''}'
+      - '{''value'': ''Cancellation Complete''}'
+      required: false

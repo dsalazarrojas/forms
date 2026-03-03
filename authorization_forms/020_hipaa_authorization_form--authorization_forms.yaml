@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: hipaa_authorization_form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: healthcare_provider
+      label: Healthcare Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: release_to
+      label: Release to
+      hint: Select a healthcare provider to receive medical information
+      type: select_one
+      options:
+      - Primary Care Physician
+      - Radiologist
+      - Chiropractor
+      required: false
+    - id: 6
+      name: authorization_start_date
+      label: Authorization Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: authorization_end_date
+      label: Authorization End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: purpose_of_request
+      label: Purpose of Request
+      hint: null
+      type: select_multiple
+      options:
+      - Request for medical records
+      - Insurance verification
+      - Patient communication
+      - Other
+      required: false
+    - id: 9
+      name: electronic_signature
+      label: Electronic Signature
+      hint: Sign electronically with a mouse click
+      type: select_one
+      options:
+      - Sign Now
+      - Sign Later
+      - Decline
+      required: false
+    - id: 10
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_contact_method
+      label: Patient Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Fax
+      - Mail
+      required: false
+    - id: 13
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ocean Coat Order Form
+    pages:
+    - id: 1
+      name: product_selection
+      label: Select A Product
+      hint: null
+      type: select_one
+      options:
+      - Ocean Coat A
+      - Ocean Coat B
+      - Ocean Coat C
+      required: false
+    - id: 2
+      name: delivery_preference
+      label: Delivery Preference
+      hint: null
+      type: select_one
+      options:
+      - In-store pickup
+      - Delivery
+      - Pickup at store entrance
+      required: false
+    - id: 3
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit card
+      - PayPal
+      - Bank Transfer
+      required: false
+    - id: 4
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: confirm_email_address
+      label: Confirm Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: confirm_phone_number
+      label: Confirm Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

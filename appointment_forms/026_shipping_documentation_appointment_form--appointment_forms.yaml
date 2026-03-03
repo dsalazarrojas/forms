@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: shipping_documentation_appointment_form
+    pages:
+    - id: 1
+      name: form_section_1
+      label: form_section_1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: shipper_name
+      label: shipper_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: shipper_type
+      label: shipper_type
+      hint: null
+      type: select_one
+      options:
+      - shipper_1
+      - shipper_2
+      - shipper_3
+      required: true
+    - id: 7
+      name: documentation_date
+      label: documentation_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_user
+      label: assigned_user
+      hint: null
+      type: text
+      options: []
+      required: true

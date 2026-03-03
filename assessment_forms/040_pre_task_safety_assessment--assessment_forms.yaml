@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pre Task Safety Assessment
+    pages:
+    - id: 1
+      name: task_description
+      label: Task Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hazards
+      label: Hazards
+      hint: null
+      type: select_multiple
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: false
+    - id: 3
+      name: control_measures
+      label: Control Measures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: safety_briefings
+      label: Safety Briefings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: field_team_name
+      label: Field Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_started
+      label: Date Started
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_started
+      label: Time Started
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: time_finished
+      label: Time Finished
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: hours_worked
+      label: Hours Worked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: supervisor_signature
+      label: Supervisor Signature
+      hint: null
+      type: select_one
+      options:
+      - option 1
+      - option 2
+      required: false
+    - id: 12
+      name: field_team_signature
+      label: Field Team Signature
+      hint: null
+      type: select_one
+      options:
+      - option 1
+      - option 2
+      required: false

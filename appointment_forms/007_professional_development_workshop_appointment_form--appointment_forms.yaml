@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Professional Development Workshop Appointment Form
+    pages:
+    - id: 1
+      name: workshop_type
+      label: workshop_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: participants
+      label: Participants
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: room_number
+      label: Room Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: room_capacity
+      label: Room Capacity
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: kyc_follow_up_questionnaire
+    pages:
+    - id: 1
+      name: onboarding_date
+      label: Onboarding Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: business_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: business_address
+      label: business_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: business_phone
+      label: business_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: updated_business_name
+      label: updated_business_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: updated_business_address
+      label: updated_business_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: updated_business_phone
+      label: updated_business_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: updated_onboarding_date
+      label: updated_onboarding_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: updated_business_status
+      label: updated_business_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''Suspended''}'
+      - '{''value'': ''Terminated''}'
+      required: false
+    - id: 10
+      name: reason_for_change
+      label: reason_for_change
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Updated business address''}'
+      - '{''value'': ''Updated business name''}'
+      - '{''value'': ''Updated business phone number''}'
+      required: false
+    - id: 11
+      name: updated_reason_for_change
+      label: updated_reason_for_change
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Updated business address''}'
+      - '{''value'': ''Updated business name''}'
+      - '{''value'': ''Updated business phone number''}'
+      required: false
+    - id: 12
+      name: updated_business_email
+      label: updated_business_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: updated_business_website
+      label: updated_business_website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: updated_business_fiscal_account
+      label: updated_business_fiscal_account
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: updated_business_iban
+      label: updated_business_iban
+      hint: null
+      type: text
+      options: []
+      required: false

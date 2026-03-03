@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Preventive Maintenance Access Control Form
+    pages:
+    - id: 1
+      name: scheduled_maintenance
+      label: Scheduled Maintenance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: access_type
+      label: Access Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Maintenance Worker''}'
+      - '{''value'': ''Maintenance Manager''}'
+      - '{''value'': ''Maintenance Supervisor''}'
+      required: false
+    - id: 3
+      name: maintenance_area
+      label: Maintenance Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: access_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: access_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_access
+      label: Reason for Access
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: maintenance_status
+      label: Maintenance Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Pending''}'
+      - '{''value'': ''In Progress''}'
+      - '{''value'': ''Completed''}'
+      required: false
+    - id: 8
+      name: maintenance_type
+      label: Maintenance Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Scheduled''}'
+      - '{''value'': ''Unscheduled''}'
+      - '{''value'': ''Emergency''}'
+      required: false
+    - id: 9
+      name: access_level
+      label: Access Level
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Supervisor''}'
+      - '{''value'': ''Manager''}'
+      - '{''value'': ''Employee''}'
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

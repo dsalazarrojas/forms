@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: BossyBabe Hair And Lash Co Brand Ambassador Application
+    pages:
+    - id: 1
+      name: personal_details_header
+      label: -- Personal Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: ambassador_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: ambassador_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: ambassador_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: ig_handle
+      label: Instagram Handle
+      hint: e.g. @yourname
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: tt_handle
+      label: TikTok Handle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: brand_alignment_header
+      label: -- Brand Alignment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: customer_status
+      label: Are you a current BossyBabe customer?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: reason_why
+      label: Why do you want to be a BossyBabe Brand Ambassador?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: fav_products
+      label: What are your favorite BossyBabe products?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Eyelash Extensions
+      - Hair Bundles
+      - Frontals
+      - Lash Adhesive
+      - Maintenance Kits
+      required: true
+    - id: 11
+      name: content_header
+      label: -- Content Creation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: post_freq
+      label: How often can you post brand content?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - 3 times a week
+      - Weekly
+      - Monthly
+      required: true
+    - id: 13
+      name: promo_idea
+      label: Briefly share an idea for a BossyBabe promotion
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: agree_header
+      label: -- Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: t_and_c_agree
+      label: I agree to the Brand Ambassador Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - Yes - I agree
+      - Other
+      required: true
+    - id: 16
+      name: app_date
+      label: Date of Application
+      hint: null
+      type: date
+      options: []
+      required: true

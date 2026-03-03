@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: Childcare Center Check Out Form
+    pages:
+    - id: 1
+      name: check_out_date
+      label: Check-Out Date
+      hint: Date of check-out
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: check_out_time
+      label: Check-Out Time
+      hint: Time of departure
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: child_first_name
+      label: Child First Name
+      hint: Legal first name of the child
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: child_last_name
+      label: Child Last Name
+      hint: Legal last name of the child
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: child_age
+      label: Child Age
+      hint: Current age of the child in years
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: child_room_or_class
+      label: Child Room or Class
+      hint: Assigned room or class name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: pickup_person_first_name
+      label: Pickup Person First Name
+      hint: Legal first name of person picking up
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: pickup_person_last_name
+      label: Pickup Person Last Name
+      hint: Legal last name of person picking up
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: pickup_person_phone
+      label: Pickup Person Phone
+      hint: Phone number for pickup person
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: pickup_person_id_type
+      label: Pickup Person ID Type
+      hint: Type of identification provided
+      type: select_one
+      options:
+      - Driver license
+      - State ID
+      - Passport
+      - Military ID
+      - Other government ID
+      - No ID provided
+      required: true
+    - id: 11
+      name: pickup_person_id_number
+      label: Pickup Person ID Number
+      hint: Identification number
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: relationship_to_child
+      label: Relationship to Child
+      hint: Your relationship to the child
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Guardian
+      - Grandparent
+      - Aunt or Uncle
+      - Family friend
+      - Authorized caregiver
+      - Other
+      required: true
+    - id: 13
+      name: authorized_for_pickup
+      label: Authorized for Pickup
+      hint: Is this person authorized to pick up the child?
+      type: select_one
+      options:
+      - Yes, on authorized list
+      - Yes, newly authorized today
+      - No, not authorized
+      - Verification needed
+      required: true
+    - id: 14
+      name: child_condition_at_pickup
+      label: Child Condition at Pickup
+      hint: How is the child at pickup time?
+      type: select_one
+      options:
+      - Happy and energetic
+      - Calm and content
+      - Tired
+      - Upset
+      - Not feeling well
+      - Other
+      required: true
+    - id: 15
+      name: incidents_during_day
+      label: Incidents During the Day
+      hint: Were there any incidents today?
+      type: select_one
+      options:
+      - No incidents
+      - Minor incident (scrape, bump)
+      - Behavioral incident
+      - Health concern
+      - Other
+      required: true
+    - id: 16
+      name: incident_details
+      label: Incident Details
+      hint: Describe any incidents that occurred
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: meals_consumed
+      label: Meals Consumed
+      hint: How much did the child eat today?
+      type: select_one
+      options:
+      - Ate all meals well
+      - Ate most meals
+      - Ate some meals
+      - Ate very little
+      - Refused meals
+      required: true
+    - id: 18
+      name: nap_quality
+      label: Nap Quality
+      hint: How was the child's nap today?
+      type: select_one
+      options:
+      - Napped well
+      - Napped okay
+      - Short nap
+      - Refused to nap
+      - Did not nap
+      required: true
+    - id: 19
+      name: bowel_movement_diaper_change
+      label: Bowel Movement or Diaper Change
+      hint: Were there any bowel movements or notable diaper changes?
+      type: select_one
+      options:
+      - Yes, normal
+      - Yes, unusual
+      - false
+      - Not applicable (potty trained)
+      required: true
+    - id: 20
+      name: medications_administered
+      label: Medications Administered
+      hint: Were any medications given today?
+      type: select_one
+      options:
+      - Yes, as scheduled
+      - Yes, as needed
+      - No medications given
+      - Not applicable
+      required: true
+    - id: 21
+      name: items_returning_home
+      label: Items Returning Home
+      hint: List any items being sent home
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: staff_notes_for_parents
+      label: Staff Notes for Parents
+      hint: Any important notes from staff
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: tomorrow_attendance
+      label: Expected Tomorrow
+      hint: Will the child attend tomorrow?
+      type: select_one
+      options:
+      - Yes, regular schedule
+      - Yes, different hours
+      - No, absent
+      - Unsure
+      required: true
+    - id: 24
+      name: pickup_person_signature
+      label: Pickup Person Signature
+      hint: Type your full name as your electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: staff_initials
+      label: Staff Initials
+      hint: Staff member releasing child
+      type: text
+      options: []
+      required: true

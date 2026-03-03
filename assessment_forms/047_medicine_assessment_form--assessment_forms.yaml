@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medicine Assessment Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_info
+      label: Medical Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: assessment
+      label: Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: submission_info
+      label: Submission Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitter_notes
+      label: Submitter Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submitter_role
+      label: Submitter Role
+      hint: null
+      type: select_one
+      options:
+      - Clinic Staff
+      - Pharmacist
+      - Provider
+      required: true

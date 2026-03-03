@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Consent Authorization Form
+    pages:
+    - id: 1
+      name: personal_information
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Your primary email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: organization_name
+      label: Organization Name
+      hint: Your company or organization
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: consent_types
+      label: -- Consent Types --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email_consent
+      label: Email Communications Consent
+      hint: I consent to receive email communications
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      - Only promotional
+      - Only transactional
+      required: true
+    - id: 9
+      name: phone_consent
+      label: Phone Communications Consent
+      hint: I consent to receive phone calls or SMS
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      - SMS only
+      - Voice calls only
+      required: true
+    - id: 10
+      name: marketing_consent
+      label: Marketing Communications Consent
+      hint: I consent to marketing and promotional materials
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 11
+      name: data_sharing_consent
+      label: Data Sharing Consent
+      hint: I consent to sharing my information with partners
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 12
+      name: cookies_consent
+      label: Cookie and Tracking Consent
+      hint: I consent to cookies and website tracking
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      - Analytics only
+      - Functional only
+      required: true
+    - id: 13
+      name: data_processing
+      label: -- Data Processing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: personal_data_processing
+      label: Personal Data Processing Consent
+      hint: I consent to processing of my personal data
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 15
+      name: data_retention
+      label: Data Retention Period
+      hint: How long can we keep your data
+      type: select_one
+      options:
+      - 6 months
+      - 1 year
+      - 2 years
+      - Indefinitely
+      - As long as necessary
+      required: true
+    - id: 16
+      name: data_access
+      label: Right to Access Your Data
+      hint: I understand I can request access to my data
+      type: select_one
+      options:
+      - Yes, I understand
+      - false
+      required: true
+    - id: 17
+      name: data_deletion
+      label: Right to Delete Your Data
+      hint: I understand I can request deletion
+      type: select_one
+      options:
+      - Yes, I understand
+      - false
+      required: true
+    - id: 18
+      name: authorization_section
+      label: -- Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: authority
+      label: Are You Authorized to Consent
+      hint: Do you have authority to provide this consent
+      type: select_one
+      options:
+      - true
+      - false
+      - On behalf of organization
+      required: true
+    - id: 20
+      name: authorization_title
+      label: Your Title or Role
+      hint: If authorizing on behalf of organization
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: effective_date
+      label: Consent Effective Date
+      hint: Date this consent becomes effective
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: signature
+      label: Signature
+      hint: Type your name as signature
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: signature_date
+      label: Signature Date
+      hint: Date of signature
+      type: date
+      options: []
+      required: true

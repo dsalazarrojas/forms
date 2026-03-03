@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facility Maintenance Check Out Form
+    pages:
+    - id: 1
+      name: equipment_borrowed
+      label: equipment_borrowed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: equipment_return_date
+      label: equipment_return_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: note
+      label: note
+      hint: null
+      type: text
+      options: []
+      required: false

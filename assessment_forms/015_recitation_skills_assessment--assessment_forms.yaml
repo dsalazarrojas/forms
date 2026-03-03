@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recitation Skills Assessment
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_id
+      label: Participant ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: participant_role
+      label: Participant Role
+      hint: null
+      type: select_one
+      options:
+      - Coach
+      - Student
+      required: false
+    - id: 4
+      name: recitation_date
+      label: Recitation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: participant_feedback
+      label: Participant Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: evaluator_feedback
+      label: Evaluator Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_rating
+      label: Participant Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: evaluator_rating
+      label: Evaluator Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: participant_comment
+      label: Participant Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: evaluator_comment
+      label: Evaluator Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: recitation_topic
+      label: Recitation Topic
+      hint: null
+      type: select_multiple
+      options:
+      - Topic 1
+      - Topic 2
+      - Topic 3
+      required: false
+    - id: 12
+      name: participant_level
+      label: Participant Level
+      hint: null
+      type: select_multiple
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 13
+      name: recitation_time
+      label: Recitation Time
+      hint: null
+      type: time
+      options: []
+      required: false

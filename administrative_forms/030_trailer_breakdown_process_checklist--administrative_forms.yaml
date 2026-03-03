@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trailer Breakdown Process Checklist
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: trailer_damage
+      label: Trailer Damage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: safety_protocols
+      label: Safety Protocols
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: repairs_documentation
+      label: Repairs Documentation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: maintenance_activities
+      label: Maintenance Activities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''User 1''}'
+      - '{''value'': ''User 2''}'
+      - '{''value'': ''User 3''}'
+      required: false
+    - id: 8
+      name: completion_status
+      label: Completion Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Not Started''}'
+      - '{''value'': ''In Progress''}'
+      - '{''value'': ''Complete''}'
+      required: false
+    - id: 9
+      name: completion_date
+      label: Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: completion_time
+      label: Completion Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: completion_time_duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: completion_time_start
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: completion_time_end
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: completion_time_total
+      label: Total Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: trailer_number
+      label: Trailer Number
+      hint: null
+      type: text
+      options: []
+      required: false

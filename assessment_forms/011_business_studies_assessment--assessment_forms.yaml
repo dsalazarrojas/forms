@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Studies Assessment
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: Student ID or Enrollment Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: course_name
+      label: Course Name
+      hint: Business studies course title
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: assessment_period
+      label: Assessment Period
+      hint: Semester, month, or term
+      type: select_one
+      options:
+      - Fall Semester
+      - Spring Semester
+      - Summer Session
+      - Q1
+      - Q2
+      - Q3
+      - Q4
+      required: true
+    - id: 5
+      name: assessment_date
+      label: Assessment Date
+      hint: When was this assessment conducted?
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: instructor_name
+      label: Instructor or Evaluator Name
+      hint: Name of the instructor
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: course_participation
+      label: Course Participation Rating
+      hint: Student engagement and attendance
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 8
+      name: critical_thinking
+      label: Critical Thinking and Analysis
+      hint: Ability to analyze business problems
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 9
+      name: communication_skills
+      label: Communication Skills
+      hint: Written and verbal communication
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 10
+      name: teamwork_collaboration
+      label: Teamwork and Collaboration
+      hint: Ability to work effectively in groups
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 11
+      name: problem_solving
+      label: Problem Solving Abilities
+      hint: Practical application of concepts
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 12
+      name: financial_literacy
+      label: Financial Literacy and Analysis
+      hint: Understanding of financial concepts
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 13
+      name: business_knowledge
+      label: Business Concepts and Knowledge
+      hint: Understanding of course material
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 14
+      name: research_skills
+      label: Research and Information Gathering
+      hint: Ability to find and evaluate sources
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 15
+      name: technical_skills
+      label: Technical Business Skills
+      hint: Excel, software, tools, etc.
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 16
+      name: assignment_completion
+      label: Assignment Completion Rate
+      hint: Percentage of assignments completed
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: overall_performance
+      label: Overall Course Performance
+      hint: null
+      type: select_one
+      options:
+      - Outstanding - A range
+      - Good - B range
+      - Satisfactory - C range
+      - Needs Improvement - D range
+      - Poor - F range
+      required: true
+    - id: 18
+      name: strengths
+      label: Student Strengths
+      hint: What are the student strengths?
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: improvement_areas
+      label: Areas for Improvement
+      hint: Where can the student improve?
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: recommendations
+      label: Recommendations or Comments
+      hint: Feedback or suggestions for student
+      type: text
+      options: []
+      required: false

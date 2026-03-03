@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Preparation Client Intake Form
+    pages:
+    - id: 1
+      name: tax_prep_client_intake_form_1
+      label: What is your name?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tax_prep_client_intake_form_2
+      label: What is your address?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tax_prep_client_intake_form_3
+      label: What is your Social Security Number?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: tax_prep_client_intake_form_4
+      label: What is your occupation?
+      hint: null
+      type: select_one
+      options:
+      - Self Employed
+      - Employee
+      - Unemployed
+      required: false
+    - id: 5
+      name: tax_prep_client_intake_form_5
+      label: What is the nature of your business?
+      hint: null
+      type: select_multiple
+      options:
+      - Sole Proprietor
+      - Partnership
+      - LLC
+      - S Corporation
+      - C Corporation
+      required: false
+    - id: 6
+      name: tax_prep_client_intake_form_6
+      label: What is your income?
+      hint: Enter a decimal value
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: tax_prep_client_intake_form_7
+      label: What is your tax filing type?
+      hint: null
+      type: select_one
+      options:
+      - Form 1040
+      - Form 1065
+      - Form 1040A
+      required: false
+    - id: 8
+      name: tax_prep_client_intake_form_8
+      label: What is your date of birth?
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: tax_prep_client_intake_form_9
+      label: What time of day do you file your taxes?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: tax_prep_client_intake_form_10
+      label: What is your email?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: tax_prep_client_intake_form_11
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: tax_prep_client_intake_form_12
+      label: Do you have a spouse or dependent?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

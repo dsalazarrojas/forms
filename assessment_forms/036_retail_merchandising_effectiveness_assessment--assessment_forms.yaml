@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Merchandising Effectiveness Assessment
+    pages:
+    - id: 1
+      name: store_info
+      label: Store Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Location 1''}'
+      - '{''id'': 2, ''name'': ''Location 2''}'
+      - '{''id'': 3, ''name'': ''Location 3''}'
+      required: false
+    - id: 3
+      name: store_id
+      label: Store ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: store_name
+      label: Store Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: region
+      label: Region
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Region 1''}'
+      - '{''id'': 2, ''name'': ''Region 2''}'
+      - '{''id'': 3, ''name'': ''Region 3''}'
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: store_hours
+      label: Store Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: store_executive_summary
+      label: Store Executive Summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: store_score
+      label: Store Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: region_score
+      label: Region Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: average_score
+      label: Average Score
+      hint: null
+      type: number
+      options: []
+      required: false

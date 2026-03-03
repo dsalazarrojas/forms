@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Makeup Order Form
+    pages:
+    - id: 1
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: shipping_address
+      label: Shipping Address
+      hint: Enter your address details here
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: customer_email
+      label: Customer E-mail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: order_total
+      label: Total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: payment_type
+      label: Payment Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Credit Card: Credit Card'
+      - 'PayPal: PayPal'
+      - 'Bank Transfer: Bank Transfer'
+      required: true
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      required: true
+    - id: 8
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Standard Shipping: Standard Shipping'
+      - 'Express Shipping: Express Shipping'
+      - 'Free Shipping: Free Shipping'
+      required: true
+    - id: 10
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: delivery_location
+      label: Delivery Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: delivery_notes
+      label: Delivery Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: customer_comments
+      label: Customer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: form_submissions
+      label: Form Submissions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: shipping_notes
+      label: Shipping Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: sales_rep_notes
+      label: Sales Rep Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: sales_rep_signature
+      label: Sales Rep Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: sales_rep
+      label: Sales Rep
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: sales_rep_phone
+      label: Sales Rep Phone
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: sales_rep_email
+      label: Sales Rep E-mail
+      hint: null
+      type: email
+      options: []
+      required: false

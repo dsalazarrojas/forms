@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Concert Information Form
+    pages:
+    - id: 1
+      name: event_basics
+      label: Event Basic Information
+      hint: Provide essential concert details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: Event Name
+      hint: Official name of the concert
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: Primary concert date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: event_time
+      label: Event Start Time
+      hint: When doors open or show starts
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: venue_name
+      label: Venue Name
+      hint: Name of the concert hall or venue
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: venue_address
+      label: Venue Address
+      hint: Complete street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: venue_capacity
+      label: Venue Capacity
+      hint: Maximum audience capacity
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: artist_information
+      label: Artist Information
+      hint: Details about performing artists
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: headlining_artist
+      label: Headlining Artist or Band
+      hint: Main performer name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: supporting_acts
+      label: Supporting Acts
+      hint: Opening or supporting performers
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: artist_genre
+      label: Music Genre
+      hint: Primary genre of music
+      type: select_one
+      options:
+      - Rock
+      - Pop
+      - Classical
+      - Jazz
+      - Country
+      - Electronic
+      - Hip Hop
+      - R and B
+      - Folk
+      - Metal
+      - Indie
+      - Other
+      required: true
+    - id: 12
+      name: expected_attendance
+      label: Expected Attendance
+      hint: Estimated number of attendees
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: ticket_information
+      label: Ticket Information
+      hint: Pricing and availability details
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: ticket_price_min
+      label: Minimum Ticket Price
+      hint: Lowest price point in dollars
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: ticket_price_max
+      label: Maximum Ticket Price
+      hint: Highest price point in dollars
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: ticket_availability
+      label: Ticket Availability Status
+      hint: Current availability status
+      type: select_one
+      options:
+      - On Sale Now
+      - Pre Sale Only
+      - Sold Out
+      - Coming Soon
+      - Limited Availability
+      required: true
+    - id: 17
+      name: age_restriction
+      label: Age Restriction
+      hint: Any age requirements for attendance
+      type: select_one
+      options:
+      - All Ages Welcome
+      - 12 and Older
+      - 16 and Older
+      - 18 and Older
+      - 21 and Older
+      required: true
+    - id: 18
+      name: technical_requirements
+      label: Technical Requirements
+      hint: Special equipment or setup needs
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: sound_requirements
+      label: Sound System Requirements
+      hint: Audio equipment specifications
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: lighting_requirements
+      label: Lighting Requirements
+      hint: Special lighting needs
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: stage_setup
+      label: Stage Setup Requirements
+      hint: Stage configuration needs
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contact_information
+      label: Organizer Contact
+      hint: Primary contact for the event
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: organizer_name
+      label: Organizer Name
+      hint: Person or company organizing
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: organizer_email
+      label: Organizer Email
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 25
+      name: organizer_phone
+      label: Organizer Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true

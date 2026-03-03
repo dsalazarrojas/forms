@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reunion Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: graduation_year
+      label: Graduation Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: attending_status
+      label: Attending
+      hint: null
+      type: select_one
+      options:
+      - Attending
+      - Not Attending
+      - Undecided
+      required: false
+    - id: 5
+      name: reunion_status
+      label: Reunion Status
+      hint: null
+      type: select_multiple
+      options:
+      - Attending
+      - Attending with Family
+      - Attending with Friends
+      - Not Attending with Family
+      - Not Attending with Friends
+      - Not Attending
+      required: false
+    - id: 6
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comment
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

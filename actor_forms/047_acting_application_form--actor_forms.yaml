@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Acting Application Form
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Other
+      required: true
+    - id: 5
+      name: age
+      label: Age
+      hint: Actual age in years
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: height_in_feet_inches
+      label: Height in Feet and Inches
+      hint: e.g., 5.10
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: weight_in_lbs
+      label: Weight in LBS
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: hair_color
+      label: Hair Color
+      hint: null
+      type: select_multiple
+      options:
+      - Black
+      - Brown
+      - Blonde
+      - Red
+      - Grey
+      - Other
+      required: true
+    - id: 9
+      name: eye_color
+      label: Eye Color
+      hint: null
+      type: select_multiple
+      options:
+      - Brown
+      - Blue
+      - Green
+      - Hazel
+      - Grey
+      required: true
+    - id: 10
+      name: special_skills
+      label: Special Skills
+      hint: e.g., Singing, Dancing, Martial Arts, Accents
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: union_status
+      label: Union Status
+      hint: null
+      type: select_one
+      options:
+      - SAG-AFTRA
+      - Equity
+      - Non-Union
+      required: true
+    - id: 12
+      name: acting_experience_summary
+      label: Acting Experience Summary
+      hint: Briefly describe your background
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: availability_header
+      label: -- Availability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: availability_days
+      label: Availability Days
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Weekdays
+      - Weekends
+      - Evenings
+      - On-call
+      required: true
+    - id: 15
+      name: agency_representation_if_any
+      label: Agency Representation
+      hint: null
+      type: text
+      options: []
+      required: false

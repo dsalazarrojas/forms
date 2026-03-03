@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Aircraft Fuel Systems Assessment
+    pages:
+    - id: 1
+      name: assessor_name
+      label: Assessor name
+      hint: Name of the person performing the assessment
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: assessment_date
+      label: Assessment date
+      hint: Date of inspection
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: aircraft_registration
+      label: Aircraft registration
+      hint: Tail number or registration ID
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: fuel_system_type
+      label: Fuel system type
+      hint: Fuel tank and delivery system description
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: visual_leaks
+      label: Visual leaks detected
+      hint: Indicate if any fuel leaks were observed
+      type: select_one
+      options: [Yes, No]
+      required: true
+    - id: 6
+      name: filter_condition
+      label: Fuel filter condition
+      hint: Condition and last replacement date
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: pump_performance
+      label: Fuel pump performance
+      hint: Notes on pump operation and pressures
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contamination_check
+      label: Contamination check results
+      hint: Water or particulate contamination findings
+      type: select_one
+      options: [None, Minor, Significant]
+      required: true
+    - id: 9
+      name: corrective_actions
+      label: Corrective actions required
+      hint: Repairs or maintenance needed
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: final_assessment
+      label: Final assessment and recommendations
+      hint: Overall evaluation and next steps
+      type: text
+      options: []
+      required: true

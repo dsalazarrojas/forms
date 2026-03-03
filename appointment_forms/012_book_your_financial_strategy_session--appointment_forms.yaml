@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book Your Financial Strategy Session
+    pages:
+    - id: 1
+      name: client_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: We will send session details here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: financial_situation
+      label: Current Financial Situation
+      hint: Describe your financial status
+      type: select_one
+      options:
+      - Just starting out
+      - Employed with savings
+      - Self-employed
+      - Multiple income sources
+      - Retired
+      - Other
+      required: true
+    - id: 6
+      name: annual_income
+      label: Annual Income Range
+      hint: Your approximate income
+      type: select_one
+      options:
+      - Under $50,000
+      - $50,000 - $100,000
+      - $100,000 - $250,000
+      - $250,000 - $500,000
+      - $500,000+
+      required: false
+    - id: 7
+      name: financial_goals
+      label: What are your financial goals
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Retirement planning
+      - Investment strategy
+      - Debt management
+      - Wealth building
+      - Tax planning
+      - Estate planning
+      - College funding
+      - Business planning
+      required: true
+    - id: 8
+      name: primary_concern
+      label: Primary Financial Concern
+      hint: Your main concern right now
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: existing_investments
+      label: Do you have existing investments
+      hint: What types
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: risk_tolerance
+      label: Risk Tolerance
+      hint: How comfortable are you with investment risk
+      type: select_one
+      options:
+      - Conservative
+      - Moderate
+      - Aggressive
+      - Not sure
+      required: true
+    - id: 11
+      name: time_horizon
+      label: Time Horizon for Goals
+      hint: When do you need the money
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - 10+ years
+      required: true
+    - id: 12
+      name: session_date
+      label: Preferred Session Date
+      hint: When would you like to meet
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: session_time
+      label: Preferred Time Slot
+      hint: Select your preferred time
+      type: select_one
+      options:
+      - 9:00 AM - 10:00 AM
+      - 10:00 AM - 11:00 AM
+      - 1:00 PM - 2:00 PM
+      - 2:00 PM - 3:00 PM
+      - 3:00 PM - 4:00 PM
+      - 4:00 PM - 5:00 PM
+      required: true
+    - id: 14
+      name: session_format
+      label: Preferred Session Format
+      hint: How would you prefer to meet
+      type: select_one
+      options:
+      - Phone call
+      - Video conference
+      - In-person
+      required: true
+    - id: 15
+      name: documents_to_bring
+      label: Documents you will bring
+      hint: Tax returns, investment statements, etc.
+      type: text
+      options: []
+      required: false

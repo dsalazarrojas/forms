@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Check Release Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: Full name of the bank employee
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID Number
+      hint: Your unique employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: branch_location
+      label: Branch Location
+      hint: Name or code of your branch
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department within the bank
+      type: select_one
+      options:
+      - Teller Services
+      - Customer Service
+      - Operations
+      - Management
+      - Accounting
+      - Other
+      required: true
+    - id: 5
+      name: check_number
+      label: Check Number
+      hint: Enter the check number to be released
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: check_amount
+      label: Check Amount
+      hint: Total amount of the check
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: check_date
+      label: Check Date
+      hint: Date written on the check
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: payer_name
+      label: Payer Name
+      hint: Name of the person or entity who wrote the check
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: payee_name
+      label: Payee Name
+      hint: Name of the person or entity receiving the check
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: account_number
+      label: Account Number
+      hint: Account number for deposit
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: release_reason
+      label: Reason for Release
+      hint: Why is this check being released for deposit
+      type: select_one
+      options:
+      - Standard deposit
+      - Customer request
+      - Hold period expired
+      - Manager approval
+      - Other
+      required: true
+    - id: 12
+      name: verification_status
+      label: Verification Status
+      hint: Has the check been verified
+      type: select_one
+      options:
+      - Verified
+      - Pending verification
+      - Requires additional review
+      required: true
+    - id: 13
+      name: manager_approval
+      label: Manager Approval Required
+      hint: Does this release require manager approval
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: manager_name
+      label: Approving Manager Name
+      hint: Name of the approving manager if applicable
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: release_date
+      label: Release Date
+      hint: Date of check release for deposit
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: additional_notes
+      label: Additional Notes
+      hint: Any additional information about this release
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: employee_signature
+      label: Employee Confirmation
+      hint: I confirm this check is approved for deposit
+      type: select_one
+      options:
+      - Yes, I confirm
+      - false
+      required: true

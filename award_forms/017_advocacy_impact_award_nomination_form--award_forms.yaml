@@ -1,0 +1,112 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Advocacy Impact Award Nomination Form
+    pages:
+    - id: 1
+      name: nominator_info_header
+      label: -- Nominator Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: nominator_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: nominator_email
+      label: Your Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: nominator_organization
+      label: Your Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: relationship
+      label: Relationship to Nominee
+      hint: How do you know the nominee?
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: nominee_info_header
+      label: -- Nominee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: nominee_name
+      label: Nominee Name
+      hint: Person or Group being nominated.
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: nominee_title
+      label: Nominee Title / Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: nominee_organization
+      label: Nominee Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: nomination_category
+      label: Award Category
+      hint: Select the most appropriate category.
+      type: select_one
+      options:
+      - Lifetime Achievement
+      - Rising Star
+      - Grassroots Impact
+      - Policy Change
+      - Community Hero
+      required: true
+    - id: 11
+      name: impact_description
+      label: Description of Impact
+      hint: Describe the specific advocacy work and its results (max 500 words).
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: specific_achievements
+      label: Key Achievements
+      hint: List 3 key accomplishments.
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: supporting_links
+      label: Links to Supporting Material
+      hint: News articles, reports, websites, etc.
+      type: text
+      options: []
+      required: false

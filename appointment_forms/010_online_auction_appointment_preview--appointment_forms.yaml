@@ -1,0 +1,39 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Auction Appointment Preview
+    pages:
+    - id: 1
+      name: schedule_preview
+      label: Schedule Preview
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: auction_interests
+      label: Auction Interests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: platform_preferences
+      label: Platform Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

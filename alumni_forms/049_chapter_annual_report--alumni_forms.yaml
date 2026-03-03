@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chapter Annual Report
+    pages:
+    - id: 1
+      name: report_year
+      label: Report Year
+      hint: Year of report
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: report_date
+      label: Report Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: chapter_name
+      label: Chapter Name
+      hint: Name of alumni chapter
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: chapter_location
+      label: Chapter Location
+      hint: City or region
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: chapter_president
+      label: Chapter President Name
+      hint: Current president
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: president_email
+      label: President Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: president_phone
+      label: President Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: active_members
+      label: Number of Active Members
+      hint: How many active members
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: new_members
+      label: New Members Acquired
+      hint: Members joined this year
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: total_events_held
+      label: Total Events Held
+      hint: Number of events
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: event_types
+      label: Types of Events Held
+      hint: Social, educational, service
+      type: select_multiple
+      options:
+      - Social Gatherings
+      - Educational Programs
+      - Service Projects
+      - Volunteer Work
+      - Fundraising Events
+      - Mentoring Programs
+      required: false
+    - id: 12
+      name: total_attendance
+      label: Total Event Attendance
+      hint: Total attendees across events
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: fundraising_total
+      label: Total Fundraising Amount
+      hint: Money raised this year
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: fundraising_purpose
+      label: Fundraising Purpose
+      hint: What was money raised for
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: scholarship_awarded
+      label: Scholarship or Grant Awarded
+      hint: Amount awarded
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: volunteer_hours
+      label: Total Volunteer Hours
+      hint: Service hours contributed
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: community_projects
+      label: Community Projects Supported
+      hint: Description of projects
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: challenges_faced
+      label: Challenges Faced
+      hint: What obstacles did chapter face
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: goals_next_year
+      label: Goals for Next Year
+      hint: Plans and objectives
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Other relevant information
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: report_approval
+      label: This Report is Accurate and Complete
+      hint: Confirm accuracy
+      type: select_one
+      options:
+      - Yes, I Confirm
+      - 'No'
+      required: true

@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music Reading Proficiency Assessment
+    pages:
+    - id: 1
+      name: notation_skills
+      label: Music Notation Skills
+      hint: null
+      type: select_multiple
+      options:
+      - 0-4
+      - 0-4
+      - 0-4
+      - 0-4
+      - 0-4
+      - 0-4
+      - 0-4
+      - 0-4
+      - 0-4
+      - 0-4
+      - 0-4
+      - 0-4
+      - 0-4
+      - 0-4
+      - 0-4
+      - 0-4
+      - 0-4
+      - 0-4
+      - 0-4
+      - 0-4
+      - 0-4
+      - 0-4
+      - 0-4
+      - 0-4
+      - 0-4
+      - 0-4
+      - 0-4
+      - 0-4
+      - 0-4
+      - 0-4
+      - 0-4
+      - 0-4
+      - 0-4
+      - 0-4
+      - 0-4
+      - 0-4
+      - 0-4
+      - 0-4
+      - 0-4
+      - 0-4
+      - 0-4
+      - 0-4
+      - 0-4
+      - 0-4
+      required: false
+    - id: 2
+      name: reading_confidence
+      label: Reading Confidence
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 3
+      name: notation_systems
+      label: Notation Systems
+      hint: null
+      type: select_multiple
+      options:
+      - Staff
+      - Tablature
+      - Braille
+      - Other
+      required: false
+    - id: 4
+      name: notation_readability
+      label: Notation Readability
+      hint: null
+      type: select_multiple
+      options:
+      - Very Easy
+      - Easy
+      - Moderately Easy
+      - Moderately Difficult
+      - Difficult
+      - Very Difficult
+      required: false
+    - id: 5
+      name: notation_speed
+      label: Notation Speed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: total_time_spent_reading
+      label: Total Time Spent Reading
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: total_time_spent_practicing
+      label: Total Time Spent Practicing
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: music_background
+      label: Music Background
+      hint: null
+      type: select_multiple
+      options:
+      - Formal Training
+      - Self Taught
+      - Both
+      required: false

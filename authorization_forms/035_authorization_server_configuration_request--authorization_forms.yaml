@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Authorization Server Configuration Request
+    pages:
+    - id: 1
+      name: request_date
+      label: Request Date
+      hint: Date of this configuration request
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: requester_name
+      label: Requester Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Requester Email
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requester_department
+      label: Department
+      hint: Your department or team
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_name
+      label: Project or Application Name
+      hint: Name of the project needing config
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: project_description
+      label: Project Description
+      hint: Brief description of project
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: authorization_type
+      label: Authorization Type Needed
+      hint: What type of auth configuration
+      type: select_one
+      options:
+      - OAuth 2.0
+      - OIDC - OpenID Connect
+      - SAML
+      - JWT Tokens
+      - API Keys
+      - mTLS - Mutual TLS
+      - Custom Authorization
+      - Other
+      required: true
+    - id: 8
+      name: auth_framework
+      label: Authorization Framework or Standard
+      hint: Specific framework required
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: client_type
+      label: Client Type
+      hint: What type of client application
+      type: select_one
+      options:
+      - Web Application
+      - Mobile App
+      - Desktop Application
+      - Microservice
+      - CLI Tool
+      - IoT Device
+      - Other
+      required: true
+    - id: 10
+      name: deployment_environment
+      label: Deployment Environment
+      hint: Where will it be deployed
+      type: select_one
+      options:
+      - Development
+      - Staging/QA
+      - Production
+      - Multiple Environments
+      required: true
+    - id: 11
+      name: user_count
+      label: Expected User or Client Count
+      hint: Approximate number of users
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: authentication_method
+      label: Authentication Method Required
+      hint: How users will authenticate
+      type: select_multiple
+      options:
+      - Username and Password
+      - Multi-Factor Authentication
+      - Social Login
+      - LDAP/Active Directory
+      - Biometric
+      - Certificate Based
+      required: true
+    - id: 13
+      name: scope_permissions
+      label: Scopes and Permissions Needed
+      hint: What permissions are required
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: role_based_access
+      label: Role-Based Access Control Required
+      hint: Do you need RBAC
+      type: select_one
+      options:
+      - Yes - RBAC Needed
+      - Yes - Basic Roles Only
+      - No - Not Needed
+      - TBD
+      required: true
+    - id: 15
+      name: api_endpoints
+      label: API Endpoints to Protect
+      hint: List endpoints needing auth
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: token_expiration
+      label: Token Expiration Policy
+      hint: How long tokens should be valid
+      type: select_one
+      options:
+      - 15 Minutes
+      - 1 Hour
+      - 8 Hours
+      - 24 Hours
+      - 7 Days
+      - 30 Days
+      - Custom Period
+      required: true
+    - id: 17
+      name: refresh_token_support
+      label: Refresh Token Support
+      hint: Do you need refresh tokens
+      type: select_one
+      options:
+      - Yes - Required
+      - Yes - Preferred
+      - No - Not Needed
+      required: true
+    - id: 18
+      name: encryption_requirements
+      label: Encryption and Security Requirements
+      hint: Security standards needed
+      type: select_multiple
+      options:
+      - TLS 1.2 or Higher
+      - Certificate Pinning
+      - Token Signing
+      - Token Encryption
+      - CORS Configuration
+      - Other
+      required: true
+    - id: 19
+      name: audit_logging
+      label: Audit Logging Requirements
+      hint: Do you need detailed logging
+      type: select_one
+      options:
+      - Yes - Comprehensive Logging
+      - Yes - Basic Logging
+      - No - Not Required
+      - TBD
+      required: true
+    - id: 20
+      name: compliance_standards
+      label: Compliance Standards
+      hint: Any compliance requirements
+      type: select_multiple
+      options:
+      - GDPR
+      - HIPAA
+      - SOC 2
+      - PCI DSS
+      - FIPS
+      - None - Not Required
+      - Other
+      required: false
+    - id: 21
+      name: integration_dependencies
+      label: Integration with Existing Systems
+      hint: What systems need to integrate
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: timeline
+      label: Implementation Timeline
+      hint: When is this needed
+      type: select_one
+      options:
+      - Immediate - ASAP
+      - Within 1 Month
+      - Within 3 Months
+      - Within 6 Months
+      - Flexible
+      required: true
+    - id: 23
+      name: additional_requirements
+      label: Additional Requirements or Notes
+      hint: Any other specifications
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Camp Activity Attendance Form
+    pages:
+      - id: 1
+        name: activity_date
+        label: Activity Date
+        hint: Date of the activity
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: activity_name
+        label: Activity Name
+        hint: Name or description of the activity
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: group_name
+        label: Group or Cabin Name
+        hint: Which group attended
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: participant_full_name
+        label: Participant Full Name
+        hint: Name of the attendee
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: attendance_status
+        label: Attendance Status
+        hint: Mark whether participant attended
+        type: select_one
+        options: [Present, Absent, Late]
+        required: true
+      - id: 6
+        name: arrival_time
+        label: Arrival Time
+        hint: Time participant arrived if late
+        type: time
+        options: []
+        required: false
+      - id: 7
+        name: departure_time
+        label: Departure Time
+        hint: Time participant left activity
+        type: time
+        options: []
+        required: false
+      - id: 8
+        name: instructor_name
+        label: Instructor or Staff Name
+        hint: Staff overseeing the activity
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: notes
+        label: Notes
+        hint: Any incidents or observations to record
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: signature_required
+        label: Supervisor Signature Required
+        hint: Indicate if supervisor signature is needed
+        type: select_one
+        options: [Yes, No]
+        required: false

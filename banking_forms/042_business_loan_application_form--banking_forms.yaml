@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Loan Application Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Loan Application --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant name
+      hint: Full legal name of applicant
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_name
+      label: Business name
+      hint: If applying on behalf of a business
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: For loan correspondence
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: loan_amount_requested
+      label: Loan amount requested
+      hint: Total amount requested
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: loan_purpose
+      label: Loan purpose
+      hint: Purpose of the loan funds
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: project_details
+      label: Project details
+      hint: Outline planned use of funds
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: annual_revenue
+      label: Annual revenue
+      hint: Approximate yearly revenue
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: years_in_business
+      label: Years in business
+      hint: Whole number of years
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: agree_credit_check
+      label: Agree to credit check
+      hint: Consent for credit and background checks
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

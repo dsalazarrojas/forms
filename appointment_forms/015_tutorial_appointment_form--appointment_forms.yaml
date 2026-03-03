@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tutorial Appointment Form
+    pages:
+    - id: 1
+      name: appointment_form
+      label: Tutorial Session Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tutor
+      label: Tutor
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Tutor 1''}'
+      - '{''label'': ''Tutor 2''}'
+      - '{''label'': ''Tutor 3''}'
+      required: false
+    - id: 3
+      name: student
+      label: Student
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Student 1''}'
+      - '{''label'': ''Student 2''}'
+      - '{''label'': ''Student 3''}'
+      required: false
+    - id: 4
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: session_duration
+      label: Session Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: tutorial_type
+      label: Tutorial Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Individual''}'
+      - '{''label'': ''Group''}'
+      required: false
+    - id: 8
+      name: tutorial_location
+      label: Tutorial Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: tutor_email
+      label: Tutor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: tutor_phone
+      label: Tutor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: coordinator_email
+      label: Coordinator Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: coordinator_phone
+      label: Coordinator Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Student''}'
+      - '{''label'': ''Tutor''}'
+      - '{''label'': ''Coordinator''}'
+      required: false
+    - id: 18
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: session_status
+      label: Session Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Confirmed''}'
+      - '{''label'': ''Pending''}'
+      - '{''label'': ''Rescheduled''}'
+      required: false
+    - id: 20
+      name: rescheduled_to
+      label: Rescheduled To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: rescheduled_at
+      label: Rescheduled On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: rescheduled_status
+      label: Rescheduled Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Confirmed''}'
+      - '{''label'': ''Pending''}'
+      - '{''label'': ''Cancelled''}'
+      required: false
+    - id: 23
+      name: session_cancellation
+      label: Session Cancellation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: cancellation_reason
+      label: Cancellation Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: cancelled_by
+      label: Cancelled By
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Student''}'
+      - '{''label'': ''Tutor''}'
+      - '{''label'': ''Coordinator''}'
+      required: false

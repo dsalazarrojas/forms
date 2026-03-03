@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mortgage Pre Approval Checklist
+    pages:
+    - id: 1
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Self-Employed
+      - Retired
+      - Unemployed
+      required: true
+    - id: 4
+      name: income_source
+      label: Income Source
+      hint: null
+      type: select_multiple
+      options:
+      - Wages
+      - Self-Employment Income
+      - Investments
+      - Pensions
+      - Other
+      required: true
+    - id: 5
+      name: co_borrower_info
+      label: Co-Borrower Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: loan_term
+      label: Loan Term
+      hint: null
+      type: select_one
+      options:
+      - 15-30 Years
+      - 30-40 Years
+      - More than 40 Years
+      required: true
+    - id: 8
+      name: loan_type
+      label: Loan Type
+      hint: null
+      type: select_multiple
+      options:
+      - Fixed Rate
+      - Adjustable Rate
+      - Balloon
+      required: true
+    - id: 9
+      name: interest_rate
+      label: Interest Rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: credit_score
+      label: Credit Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Primary Residence
+      - Secondary Residence
+      - Investment
+      required: true
+    - id: 12
+      name: property_value
+      label: Property Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: down_payment
+      label: Down Payment
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: mortgage_insurer
+      label: Mortgage Insurer
+      hint: null
+      type: select_one
+      options:
+      - VA
+      - FHA
+      - USDA
+      - Conventional
+      - USDA 502 Farm Loan Program
+      - Other
+      required: false
+    - id: 15
+      name: property_location
+      label: Property Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: property_age
+      label: Property Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: property_condition
+      label: Property Condition
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Old
+      - Poor
+      required: false
+    - id: 18
+      name: property_use
+      label: Property Use
+      hint: null
+      type: select_one
+      options:
+      - Primary
+      - Secondary
+      - Investment
+      required: true
+    - id: 19
+      name: property_purpose
+      label: Property Purpose
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Other
+      required: true
+    - id: 20
+      name: co_borrower_income
+      label: Co-Borrower Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: co_borrower_employment
+      label: Co-Borrower Employment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: co_borrower_education
+      label: Co-Borrower Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: co_borrower_income_source
+      label: Co-Borrower Income Source
+      hint: null
+      type: select_multiple
+      options:
+      - Wages
+      - Self-Employment Income
+      - Investments
+      - Pensions
+      - Other
+      required: false
+    - id: 24
+      name: co_borrower_liability
+      label: Co-Borrower Liability
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: other_documents
+      label: Other Documents
+      hint: null
+      type: text
+      options: []
+      required: false

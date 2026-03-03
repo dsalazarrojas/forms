@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Medical Leave Form
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option_1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option_2''}'
+      required: false
+    - id: 2
+      name: second_page
+      label: Second Page
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 3'', ''value'': ''option_3''}'
+      - '{''label'': ''Option 4'', ''value'': ''option_4''}'
+      required: false
+    - id: 3
+      name: third_page
+      label: Third Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: fourth_page
+      label: Fourth Page
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: fifth_page
+      label: Fifth Page
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: sixth_page
+      label: Sixth Page
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: seventh_page
+      label: Seventh Page
+      hint: null
+      type: time
+      options: []
+      required: false

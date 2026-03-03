@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cyst Assessment Form
+    pages:
+    - id: 1
+      name: page_1
+      label: Cyst Assessment Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: doctor_phone
+      label: Doctor Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: doctor_email
+      label: Doctor Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: doctor_address
+      label: Doctor Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: cyst_type
+      label: Cyst Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: cyst_location
+      label: Cyst Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: cyst_description
+      label: Cyst Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: cyst_diagnosis
+      label: Cyst Diagnosis
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: cyst_treatment
+      label: Cyst Treatment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: cyst_outcomes
+      label: Cyst Outcomes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

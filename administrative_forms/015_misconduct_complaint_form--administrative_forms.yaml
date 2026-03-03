@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Misconduct Complaint Form
+    pages:
+    - id: 1
+      name: misconduct_complaint_form
+      label: Misconduct Complaint Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reportee_details
+      label: Reportee Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: nature_of_complaint
+      label: Nature of Complaint
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: description_of_incident
+      label: Description of Incident
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: supporting_evidence
+      label: Supporting Evidence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: witnesses
+      label: Witnesses
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: investigation_status
+      label: Investigation Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: investigation_outcome
+      label: Investigation Outcome
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

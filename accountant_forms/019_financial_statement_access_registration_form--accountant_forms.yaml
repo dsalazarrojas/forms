@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Statement Access Registration Form
+    pages:
+    - id: 1
+      name: account_information
+      label: account_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: statement_details
+      label: statement_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_access
+      label: date_of_access
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: access_type
+      label: access_type
+      hint: null
+      type: select_one
+      options:
+      - Financial Statements
+      - Bank Statements
+      - Tax Returns
+      - Other
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: financial_institution
+      label: financial_institution
+      hint: null
+      type: select_one
+      options:
+      - Bank
+      - Credit Union
+      - Other
+      required: false
+    - id: 11
+      name: branch_name
+      label: branch_name
+      hint: null
+      type: select_multiple
+      options:
+      - Main Branch
+      - Other Branch
+      required: false
+    - id: 12
+      name: account_holder_name
+      label: account_holder_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: account_number
+      label: account_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: account_type
+      label: account_type
+      hint: null
+      type: select_one
+      options:
+      - Checking
+      - Savings
+      - Credit
+      - Other
+      - Business Account
+      required: false
+    - id: 15
+      name: account_status
+      label: account_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Other
+      required: false

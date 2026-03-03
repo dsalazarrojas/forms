@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Request An Appointment Form
+    pages:
+    - id: 1
+      name: medical_practice
+      label: Medical Practice
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_specialty
+      label: Medical Specialty
+      hint: null
+      type: select_one
+      options:
+      - Internal Medicine
+      - Pediatrics
+      - Cardiology
+      required: false
+    - id: 3
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - chatbot
+      - chatbot2
+      required: false
+    - id: 9
+      name: submit_button
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: medical_specialty_2
+      label: Specialty 2
+      hint: null
+      type: select_one
+      options:
+      - Cardiology
+      - Endocrinology
+      - Gastroenterology
+      required: false
+    - id: 11
+      name: medical_specialty_1
+      label: Specialty
+      hint: null
+      type: select_one
+      options:
+      - Cardiology
+      - Dermatology
+      - Ophthalmology
+      required: false

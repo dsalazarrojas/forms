@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Equipment Safety Assessment Form
+    pages:
+    - id: 1
+      name: user_info
+      label: UserInfo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_details
+      label: Equipment Details
+      hint: Please enter equipment details
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: inspection_result
+      label: Inspection Result
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Low'', ''value'': ''Low''}'
+      - '{''label'': ''Medium'', ''value'': ''Medium''}'
+      - '{''label'': ''High'', ''value'': ''High''}'
+      required: false
+    - id: 5
+      name: safety_measures
+      label: Safety Measures
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Lockout/Tagout'', ''value'': ''Lockout/Tagout''}'
+      - '{''label'': ''Safety Sign'', ''value'': ''Safety Sign''}'
+      - '{''label'': ''Other'', ''value'': ''Other''}'
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: signature
+      label: Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: equipment_status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Functional'', ''value'': ''Functional''}'
+      - '{''label'': ''Non-Functional'', ''value'': ''Non-Functional''}'
+      - '{''label'': ''Under Maintenance'', ''value'': ''Under Maintenance''}'
+      required: false
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

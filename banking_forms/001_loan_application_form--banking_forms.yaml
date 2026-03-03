@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Loan Application Form
+    pages:
+    - id: 1
+      name: loan_application_form_header
+      label: Loan Application Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_info_form
+      label: Applicant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: loan_amount_form
+      label: loan_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: loan_term_form
+      label: loan_term
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: interest_rate_form
+      label: interest_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: loan_term_month_form
+      label: loan_term_month
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: loan_start_date_form
+      label: loan_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: loan_end_date_form
+      label: loan_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: applicant_income_form
+      label: applicant_income
+      hint: null
+      type: select_one
+      options:
+      - $25,000 - $50,000
+      - $51,000 - $75,000
+      - $76,000 - $100,000
+      - More than $100,000
+      required: false
+    - id: 10
+      name: applicant_employment_form
+      label: applicant_employment
+      hint: null
+      type: select_multiple
+      options:
+      - Employed
+      - Self-Employed
+      - Retired
+      - Student
+      required: false
+    - id: 11
+      name: loan_status_form
+      label: loan_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Closed
+      - Pending
+      required: false
+    - id: 12
+      name: loan_type_form
+      label: loan_type
+      hint: null
+      type: select_one
+      options:
+      - Personal
+      - Business
+      - Real Estate
+      required: false
+    - id: 13
+      name: loan_purpose_form
+      label: loan_purpose
+      hint: null
+      type: select_one
+      options:
+      - Auto
+      - Home Improvement
+      - Education
+      - Other
+      required: false
+    - id: 14
+      name: applicant_address_form
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: applicant_city_form
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: applicant_state_form
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: applicant_zip_form
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: applicant_phone_form
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: applicant_email_form
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: submit_form
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Reset
+      required: false

@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Landscape Maintenance Site Audit Form
+    pages:
+    - id: 1
+      name: site_survey
+      label: site survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: photos
+      label: photos
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: site_issues
+      label: site issues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: site_issues_description
+      label: site issues description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: action_items
+      label: action items
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: action_items_description
+      label: action items description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: action_items_status
+      label: action items status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

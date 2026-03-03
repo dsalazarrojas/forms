@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Incident Escalation Report
+    pages:
+    - id: 1
+      name: form_title
+      label: Incident Escalation Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Administrative Forms''}'
+      - '{''value'': ''Technical Forms''}'
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''chatjimmy''}'
+      - '{''value'': ''other''}'
+      required: true
+    - id: 5
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: incident_time_zone
+      label: Incident Time Zone
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''UTC''}'
+      - '{''value'': ''EST''}'
+      - '{''value'': ''GMT''}'
+      - '{''value'': ''CDT''}'
+      - '{''value'': ''MST''}'
+      - '{''value'': ''PST''}'
+      required: true
+    - id: 10
+      name: user_role
+      label: User Role
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Manager''}'
+      - '{''value'': ''Admin''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 11
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''IT''}'
+      - '{''value'': ''HR''}'
+      - '{''value'': ''Facilities''}'
+      required: true
+    - id: 12
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''Inactive''}'
+      - '{''value'': ''Closed''}'
+      required: true
+    - id: 13
+      name: incident_priority
+      label: Incident Priority
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Low''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''High''}'
+      required: true
+    - id: 14
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: incident_severity
+      label: Incident Severity
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Low''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''High''}'
+      required: true
+    - id: 17
+      name: escalation_reason
+      label: Escalation Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: escalation_status
+      label: Escalation Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''Inactive''}'
+      - '{''value'': ''Closed''}'
+      required: true
+    - id: 21
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: user_notes
+      label: User Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: team_lead_notes
+      label: Team Lead Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: reviewer_notes
+      label: Reviewer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false

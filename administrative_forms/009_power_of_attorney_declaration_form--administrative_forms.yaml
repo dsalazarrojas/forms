@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Power Of Attorney Declaration Form
+    pages:
+    - id: 1
+      name: declaration_form
+      label: Declaration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: grantor_name
+      label: grantor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: grantor_address
+      label: grantor_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: grantor_contact
+      label: grantor_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: grantor_email
+      label: grantor_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: grantor_dob
+      label: grantor_dob
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: grantor_signature
+      label: Grantor Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: agent_name
+      label: agent_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: agent_address
+      label: agent_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: agent_contact
+      label: agent_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: agent_email
+      label: agent_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: agent_dob
+      label: agent_dob
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: agent_signature
+      label: Agent Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: notary_public
+      label: Notary Public
+      hint: null
+      type: select_one
+      options:
+      - Notary Public
+      - Notary
+      - Notary Commission
+      required: true
+    - id: 15
+      name: date_of_declaration
+      label: Date of Declaration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: witness_name
+      label: Witness Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: witness_signature
+      label: Witness Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: notary_public_name
+      label: Notary Public Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: notary_public_address
+      label: Notary Public Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: notary_public_signature
+      label: Notary Public Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: date_of_issuance
+      label: Date of Issuance
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: power_of_attorney
+      label: Power of Attorney
+      hint: null
+      type: select_multiple
+      options:
+      - General Power of Attorney
+      - Special Power of Attorney
+      - Medical Power of Attorney
+      required: true
+    - id: 23
+      name: power_of_attorney_type
+      label: Power of Attorney Type
+      hint: null
+      type: select_multiple
+      options:
+      - Grantor
+      - Attorney-In-Fact
+      - Both
+      required: true
+    - id: 24
+      name: date_of_revision
+      label: Date of Revision
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: date_of_expiration
+      label: Date of Expiration
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,459 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Service Appointment Checklist Form Template
+    pages:
+    - id: 1
+      name: customer_information
+      label: Customer Information
+      hint: Your contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For appointment communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street Address
+      hint: Your address
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: Your ZIP code
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_information
+      label: Vehicle Information
+      hint: Details about your vehicle
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_year
+      label: Vehicle Year
+      hint: Year
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: vehicle_make
+      label: Vehicle Make
+      hint: Manufacturer
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: vehicle_model
+      label: Vehicle Model
+      hint: Model
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: vehicle_vin
+      label: VIN
+      hint: Vehicle Identification Number
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: license_plate
+      label: License Plate
+      hint: Plate number
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: current_mileage
+      label: Current Mileage
+      hint: Odometer reading
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: appointment_details
+      label: Appointment Details
+      hint: Scheduling information
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: preferred_date
+      label: Preferred Date
+      hint: When do you want to come in?
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: preferred_time
+      label: Preferred Time
+      hint: What time?
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: appointment_type
+      label: Appointment Type
+      hint: Type of service
+      type: select_one
+      options:
+      - Oil change
+      - Routine maintenance
+      - Brake service
+      - Tire service
+      - Engine diagnostic
+      - Transmission service
+      - AC/Heating
+      - Electrical
+      - Suspension/Steering
+      - Inspection
+      - Other
+      required: true
+    - id: 21
+      name: service_category
+      label: Service Category
+      hint: Category of service
+      type: select_one
+      options:
+      - Preventive maintenance
+      - Repair
+      - Diagnostic
+      - Inspection
+      - Recall service
+      - Warranty work
+      required: true
+    - id: 22
+      name: service_checklist
+      label: Service Checklist
+      hint: Select all services needed
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: oil_change
+      label: Oil Change
+      hint: Check if needed
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: true
+    - id: 24
+      name: tire_rotation
+      label: Tire Rotation
+      hint: Check if needed
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: true
+    - id: 25
+      name: brake_inspection
+      label: Brake Inspection
+      hint: Check if needed
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: true
+    - id: 26
+      name: fluid_check
+      label: Fluid Check
+      hint: Check if needed
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: true
+    - id: 27
+      name: battery_check
+      label: Battery Check
+      hint: Check if needed
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: true
+    - id: 28
+      name: filter_replacement
+      label: Filter Replacement
+      hint: Check if needed
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: true
+    - id: 29
+      name: belt_inspection
+      label: Belt Inspection
+      hint: Check if needed
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: true
+    - id: 30
+      name: hose_inspection
+      label: Hose Inspection
+      hint: Check if needed
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: true
+    - id: 31
+      name: light_check
+      label: Light Check
+      hint: Check if needed
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: true
+    - id: 32
+      name: wiper_replacement
+      label: Wiper Replacement
+      hint: Check if needed
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: true
+    - id: 33
+      name: additional_services
+      label: Additional Services
+      hint: Any other services?
+      type: select_multiple
+      options:
+      - None
+      - Wheel alignment
+      - Tire balance
+      - Coolant flush
+      - Transmission flush
+      - Brake fluid flush
+      - Fuel system cleaning
+      - Air conditioning service
+      - Other
+      required: false
+    - id: 34
+      name: problem_description
+      label: Problem Description
+      hint: Describe any issues
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: symptoms
+      label: Symptoms
+      hint: What are you experiencing?
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: warning_lights
+      label: Warning Lights
+      hint: Any warning lights on?
+      type: select_multiple
+      options:
+      - None
+      - Check Engine
+      - Oil Pressure
+      - Battery
+      - Brake
+      - ABS
+      - Airbag
+      - Tire Pressure
+      - Temperature
+      - Other
+      required: false
+    - id: 37
+      name: urgency
+      label: Urgency
+      hint: How urgent is this?
+      type: select_one
+      options:
+      - Routine - schedule convenience
+      - Soon - within a week
+      - Urgent - within 48 hours
+      - Emergency - immediate
+      required: true
+    - id: 38
+      name: loaner_vehicle_needed
+      label: Loaner Vehicle Needed
+      hint: Do you need a loaner?
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 39
+      name: transportation_preference
+      label: Transportation Preference
+      hint: How will you get around?
+      type: select_one
+      options:
+      - Loaner vehicle
+      - Rental car
+      - Public transportation
+      - Ride from friend/family
+      - Shuttle service
+      - Walk/bike
+      required: false
+    - id: 40
+      name: shuttle_service_needed
+      label: Shuttle Service Needed
+      hint: Do you need a ride?
+      type: select_one
+      options:
+      - Yes - to work/home
+      - Yes - to rental car
+      - false
+      required: false
+    - id: 41
+      name: shuttle_destination
+      label: Shuttle Destination
+      hint: Where to?
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: payment_information
+      label: Payment Information
+      hint: Payment preferences
+      type: note
+      options: []
+      required: false
+    - id: 43
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Cash
+      - Check
+      - Financing
+      required: true
+    - id: 44
+      name: estimate_preference
+      label: Estimate Preference
+      hint: How to receive estimate?
+      type: select_one
+      options:
+      - Email
+      - Phone call
+      - Text message
+      - In person
+      required: true
+    - id: 45
+      name: authorization
+      label: Authorization
+      hint: Work authorization
+      type: note
+      options: []
+      required: false
+    - id: 46
+      name: diagnostic_authorization
+      label: Diagnostic Authorization
+      hint: Authorize diagnostic?
+      type: select_one
+      options:
+      - Yes - proceed with diagnostic
+      - Call before any work
+      - No - quote first
+      required: true
+    - id: 47
+      name: contact_before_work
+      label: Contact Before Work
+      hint: Should we contact you first?
+      type: select_one
+      options:
+      - Yes - always call first
+      - Yes - for additional work only
+      - No - proceed with estimate
+      required: true
+    - id: 48
+      name: how_heard_about_us
+      label: How Did You Hear About Us
+      hint: Your referral source
+      type: select_one
+      options:
+      - Website
+      - Search engine
+      - Social media
+      - Friend/Family
+      - Advertisement
+      - Previous customer
+      - Other
+      required: false
+    - id: 49
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 50
+      name: appointment_date
+      label: Appointment Request Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

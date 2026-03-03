@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athletic Team Information Form
+    pages:
+    - id: 1
+      name: team_roster_information
+      label: -- Team Roster Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: athlete_name
+      label: Athlete Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: jersey_number
+      label: Jersey Number
+      hint: Player number
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: team_name
+      label: Team Name
+      hint: Name of your team
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: age
+      label: Age
+      hint: Current age
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: position
+      label: Position
+      hint: Primary playing position
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: height
+      label: Height
+      hint: In feet and inches
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: weight
+      label: Weight
+      hint: In pounds
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: contact_information
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: athlete_email
+      label: Athlete Email
+      hint: Primary email address
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: athlete_phone
+      label: Athlete Phone Number
+      hint: Preferred contact number
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: home_address
+      label: Home Address
+      hint: Street address
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: parent_guardian_information
+      label: -- Parent/Guardian Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: parent_name
+      label: Parent/Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: parent_phone
+      label: Parent/Guardian Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: parent_email
+      label: Parent/Guardian Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 21
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: If different from parent
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medical_history
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: allergies
+      label: Allergies
+      hint: Any known allergies
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Chronic or relevant health conditions
+      type: text
+      options: []
+      required: false

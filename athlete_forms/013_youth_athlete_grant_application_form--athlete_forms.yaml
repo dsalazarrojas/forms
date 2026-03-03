@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Athlete Grant Application Form
+    pages:
+    - id: 1
+      name: athlete_name
+      label: Athlete Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: birthdate
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: athlete_email
+      label: Athlete Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: athlete_phone
+      label: Athlete Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: athlete_address
+      label: Athlete Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: athlete_parent_info
+      label: Parent Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: grant_ammount
+      label: Grant Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: financial_need
+      label: Financial Need
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: select_multiple
+      options:
+      - Supporting Document 1
+      - Supporting Document 2
+      - Supporting Document 3
+      required: false
+    - id: 10
+      name: grant_status
+      label: Grant Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: false
+    - id: 11
+      name: supporting_info
+      label: Supporting Info
+      hint: null
+      type: text
+      options: []
+      required: false

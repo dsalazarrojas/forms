@@ -1,0 +1,284 @@
+inputSchema:
+  type: object
+  properties:
+    title: Biometric Entry System Application Form
+    pages:
+    - id: 1
+      name: applicant_information
+      label: Applicant Information
+      hint: Enter your personal details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: employee_id
+      label: Employee ID
+      hint: Your employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Your department or division
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: Your position or title
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email Address
+      hint: Work email address
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: office_location
+      label: Office Location
+      hint: Your primary work location
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: access_requirements
+      label: Access Requirements
+      hint: Specify your access needs
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: access_level_requested
+      label: Access Level Requested
+      hint: Level of access needed
+      type: select_one
+      options:
+      - Standard Employee Access
+      - Extended Hours Access
+      - Secure Area Access
+      - Server Room Access
+      - Executive Level Access
+      - 24/7 Full Access
+      required: true
+    - id: 12
+      name: areas_requiring_access
+      label: Areas Requiring Access
+      hint: Select all areas you need access to
+      type: select_multiple
+      options:
+      - Main Entrance
+      - Office Floor
+      - Parking Garage
+      - Server Room
+      - Laboratory
+      - Warehouse
+      - Executive Suite
+      - Data Center
+      - Research Facility
+      - Other Secure Areas
+      required: true
+    - id: 13
+      name: access_justification
+      label: Access Justification
+      hint: Why do you need this access
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: biometric_preference
+      label: Biometric Preference
+      hint: Preferred biometric method
+      type: select_one
+      options:
+      - Fingerprint
+      - Facial Recognition
+      - Palm Vein
+      - No Preference
+      - Medical Restriction
+      required: true
+    - id: 15
+      name: medical_restrictions
+      label: Medical Restrictions
+      hint: Any conditions affecting biometric capture
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: work_schedule
+      label: Work Schedule
+      hint: Your typical work hours
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: standard_hours
+      label: Standard Working Hours
+      hint: Your regular schedule
+      type: select_one
+      options:
+      - Standard Business Hours (9-5)
+      - Morning Shift (6 AM - 2 PM)
+      - Afternoon Shift (2 PM - 10 PM)
+      - Night Shift (10 PM - 6 AM)
+      - Rotating Shift
+      - Flexible Hours
+      required: true
+    - id: 18
+      name: weekend_access_needed
+      label: Weekend Access Needed
+      hint: Do you need weekend access
+      type: select_one
+      options:
+      - Yes - Regularly
+      - Yes - Occasionally
+      - No - Weekdays Only
+      required: true
+    - id: 19
+      name: holiday_access_needed
+      label: Holiday Access Needed
+      hint: Do you need holiday access
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: authorization
+      label: Authorization
+      hint: Supervisor approval required
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: supervisor_name
+      label: Supervisor Name
+      hint: Your direct supervisor
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: supervisor_email
+      label: Supervisor Email
+      hint: Supervisor contact email
+      type: email
+      options: []
+      required: true
+    - id: 23
+      name: supervisor_approval
+      label: Supervisor Approval
+      hint: Has supervisor approved this request
+      type: select_one
+      options:
+      - Approved
+      - Pending Approval
+      - Not Yet Submitted
+      required: true
+    - id: 24
+      name: security_clearance
+      label: Security Clearance Level
+      hint: Your current clearance level
+      type: select_one
+      options:
+      - Public Trust
+      - Confidential
+      - Secret
+      - Top Secret
+      - Not Applicable
+      - Pending
+      required: true
+    - id: 25
+      name: clearance_expiration
+      label: Clearance Expiration Date
+      hint: When does clearance expire
+      type: date
+      options: []
+      required: false
+    - id: 26
+      name: background_check_status
+      label: Background Check Status
+      hint: Status of background verification
+      type: select_one
+      options:
+      - Completed - Cleared
+      - Completed - Pending Review
+      - In Progress
+      - Not Yet Started
+      required: true
+    - id: 27
+      name: consent_agreement
+      label: Consent Agreement
+      hint: Agree to biometric data collection
+      type: select_one
+      options:
+      - I consent to biometric data collection and storage
+      - I understand how my biometric data will be used
+      - I agree to the terms and conditions
+      required: true
+    - id: 28
+      name: data_usage_understanding
+      label: Data Usage Understanding
+      hint: Confirm you understand data usage
+      type: select_one
+      options:
+      - I understand my biometric data is for access control only
+      - I understand data retention policies
+      required: true
+    - id: 29
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: In case of system issues
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: application_date
+      label: Application Date
+      hint: Date of this application
+      type: date
+      options: []
+      required: true
+    - id: 32
+      name: processing_status
+      label: Processing Status
+      hint: For administrative use
+      type: select_one
+      options:
+      - New Application
+      - Under Review
+      - Approved
+      - Denied
+      - Additional Information Required
+      required: false

@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dog Training Log
+    pages:
+    - id: 1
+      name: training_session_id
+      label: Training Session ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: training_date
+      label: Training Date
+      hint: Select date of training session
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: training_location
+      label: Training Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: dog_owner_id
+      label: Dog Owner ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: dog_breed
+      label: Dog Breed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: training_time
+      label: Training Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: trainer_name
+      label: Trainer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: trainer_phone
+      label: Trainer Phone
+      hint: Enter trainer phone number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: dog_weight
+      label: Dog Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: dog_age
+      label: Dog Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: training_duration
+      label: Training Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: session_status
+      label: Session Status
+      hint: null
+      type: select_one
+      options:
+      - Success
+      - Failed
+      - In Progress
+      required: false

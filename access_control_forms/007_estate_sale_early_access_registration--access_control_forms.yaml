@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: estate_sale_early_access_registration
+    pages:
+    - id: 1
+      name: sale_details
+      label: sale_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_details
+      label: attendee_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: early_access_appointments
+      label: early_access_appointments
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 4
+      name: capacity
+      label: capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: registration_details
+      label: registration_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: sale_date
+      label: sale_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: sale_time
+      label: sale_time
+      hint: null
+      type: time
+      options: []
+      required: false

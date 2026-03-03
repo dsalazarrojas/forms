@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facility Access Log
+    pages:
+    - id: 1
+      name: facility_access_log_form_1
+      label: Facility Access Log
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: facility_entry_time
+      label: Entry Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: user_entry_time
+      label: User Entry Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: facility_exit_time
+      label: Exit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: user_exit_time
+      label: User Exit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: facility_access_reason
+      label: Access Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: facility_access_type
+      label: Access Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: facility_access_level
+      label: Access Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 9
+      name: user_id
+      label: User ID
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

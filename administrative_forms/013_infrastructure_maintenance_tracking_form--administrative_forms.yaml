@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Infrastructure Maintenance Tracking Form
+    pages:
+    - id: 1
+      name: maintenance_date
+      label: Maintenance Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: asset_id
+      label: Asset ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: Brief description of the maintenance task
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - high
+      - medium
+      - low
+      required: false
+    - id: 6
+      name: maintenance_status
+      label: Maintenance Status
+      hint: null
+      type: select_multiple
+      options:
+      - in_progress
+      - done
+      - pending
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: Additional comments regarding the maintenance task
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email_notifications
+      label: Email Notifications
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: email_recipients
+      label: Email Recipients
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false

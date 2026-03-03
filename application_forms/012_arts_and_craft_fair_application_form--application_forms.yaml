@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Arts And Craft Fair Application Form
+    pages:
+    - id: 1
+      name: primary_contact
+      label: Primary Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: mailing_address
+      label: Mailing Address
+      hint: Street, City, State, Zip
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: items_for_sale
+      label: List of Items for Sale
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: price_range
+      label: Average Price Range of Items
+      hint: e.g. 10 to 100 USD
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: handmade_verification
+      label: Are all items 100 percent handmade by you
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: past_experience
+      label: List any previous fairs you have participated in
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: booth_size
+      label: Requested Booth Size
+      hint: null
+      type: select_one
+      options:
+      - Small - 5x5
+      - Medium - 10x10
+      - Large - 10x20
+      required: true
+    - id: 10
+      name: liability_waiver
+      label: I release the organizers from any liability for loss or damage
+      hint: null
+      type: select_one
+      options:
+      - I Accept
+      - Other
+      required: true

@@ -1,0 +1,267 @@
+inputSchema:
+  type: object
+  properties:
+    title: Relationship Self Assessment Questionnaire
+    pages:
+    - id: 1
+      name: relationship_type
+      label: Relationship Type
+      hint: null
+      type: select_one
+      options:
+      - Relationship
+      - Friendship
+      - Family
+      - Romantic
+      - Other
+      required: false
+    - id: 2
+      name: relationship_status
+      label: relationship_status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - In a relationship
+      - Engaged
+      - Married
+      - In a long-term partnership
+      - Separated
+      - Divorced
+      - Widowed
+      - Other
+      required: false
+    - id: 3
+      name: partner_name
+      label: Partner Name
+      hint: Enter partner's name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: partner_gender
+      label: Partner Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 5
+      name: relationship_duration
+      label: relationship_duration
+      hint: Enter duration in years
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: partner_age
+      label: Partner Age
+      hint: Enter partner age
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: partner_employment_status
+      label: partner_employment_status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Unemployed
+      - Student
+      - Retired
+      - Disabled
+      - Other
+      required: false
+    - id: 8
+      name: relationship_satisfaction
+      label: relationship_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Neutral
+      - Unsatisfied
+      required: false
+    - id: 9
+      name: relationship_expectations
+      label: Relationship Expectations
+      hint: null
+      type: select_multiple
+      options:
+      - Communication
+      - Emotional Support
+      - Financial Support
+      - Intimacy
+      - Other
+      required: false
+    - id: 10
+      name: partner_employment_education
+      label: Partner Employment Education
+      hint: null
+      type: select_multiple
+      options:
+      - High School
+      - College
+      - Some College
+      - Bachelor's
+      - Master's
+      - Doctoral
+      - Other
+      required: false
+    - id: 11
+      name: relationship_expectations_other
+      label: Other Expectations
+      hint: Enter other expectations
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: conflict_type
+      label: Conflict Type
+      hint: null
+      type: select_one
+      options:
+      - Communication
+      - Financial
+      - Intimacy
+      - Emotional
+      - Physical
+      - Other
+      required: false
+    - id: 13
+      name: conflict_frequency
+      label: Conflict Frequency
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: conflict_duration
+      label: Conflict Duration
+      hint: Enter duration in days
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: conflict_resolution
+      label: Conflict Resolution
+      hint: null
+      type: select_one
+      options:
+      - Resolved
+      - Pending
+      - Not Resolved
+      required: false
+    - id: 16
+      name: conflict_resolution_method
+      label: Conflict Resolution Method
+      hint: null
+      type: select_one
+      options:
+      - Talking
+      - Writing
+      - Other
+      required: false
+    - id: 17
+      name: conflict_resolution_other
+      label: Other Conflict Resolution Method
+      hint: Enter other conflict resolution method
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: relationship_health
+      label: Relationship Health
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 19
+      name: relationship_expectations_health
+      label: Relationship Expectations
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Neutral
+      - Unsatisfied
+      required: false
+    - id: 20
+      name: partner_employment_status_health
+      label: Partner Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Unemployed
+      - Student
+      - Retired
+      - Disabled
+      - Other
+      required: false
+    - id: 21
+      name: partner_employment_education_health
+      label: Partner Employment Education
+      hint: null
+      type: select_multiple
+      options:
+      - High School
+      - College
+      - Some College
+      - Bachelor's
+      - Master's
+      - Doctoral
+      - Other
+      required: false
+    - id: 22
+      name: partner_employment_education_health
+      label: Partner Employment Education
+      hint: null
+      type: select_multiple
+      options:
+      - High School
+      - College
+      - Some College
+      - Bachelor's
+      - Master's
+      - Doctoral
+      - Other
+      required: false
+    - id: 23
+      name: conflict_frequency_health
+      label: Conflict Frequency
+      hint: null
+      type: select_one
+      options:
+      - Less than once a month
+      - Once a month
+      - Several times a month
+      - Once a week
+      - More than once a week
+      required: false
+    - id: 24
+      name: conflict_resolution_health
+      label: Conflict Resolution
+      hint: null
+      type: select_one
+      options:
+      - Resolved
+      - Pending
+      - Not Resolved
+      required: false
+    - id: 25
+      name: relationship_expectations_health
+      label: Relationship Expectations
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Neutral
+      - Unsatisfied
+      required: false

@@ -1,0 +1,258 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Caregiver Coordination Communication Form
+    pages:
+      - id: 1
+        name: patient_name
+        label: Patient or Care Recipient Name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: patient_id
+        label: Patient ID or Medical Record Number
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: date_of_communication
+        label: Date of Communication
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: time_of_communication
+        label: Time of Communication
+        hint: null
+        type: time
+        options: []
+        required: false
+      - id: 5
+        name: from_caregiver
+        label: Communication From - Name
+        hint: Who is sending this information?
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: from_caregiver_role
+        label: Caregiver Role or Title
+        hint: Family caregiver, nurse, aide, etc.
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: from_contact_info
+        label: Contact Information
+        hint: Phone or email to reach you
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: to_recipient
+        label: Communication To - Recipient Name
+        hint: Who needs to receive this information?
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: to_recipient_role
+        label: Recipient Role or Title
+        hint: Physician, nurse, care coordinator, etc.
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: communication_method
+        label: Method of Communication
+        hint: How is this being sent?
+        type: select_one
+        options:
+          - Phone call
+          - Email
+          - Text message
+          - In-person meeting
+          - Video conference
+          - Secure messaging portal
+          - Form submission
+        required: true
+      - id: 11
+        name: communication_urgency
+        label: Urgency Level
+        hint: How urgent is this information?
+        type: select_one
+        options:
+          - Routine - standard update
+          - Urgent - requires prompt attention
+          - Emergency - immediate action needed
+        required: true
+      - id: 12
+        name: communication_topic
+        label: Topic of Communication
+        hint: What is this about?
+        type: select_one
+        options:
+          - Medication changes or concerns
+          - Patient condition changes
+          - Appointment scheduling
+          - Care plan updates
+          - Behavior or mood changes
+          - Nutrition or hydration concerns
+          - Fall or incident report
+          - Questions about care
+          - Insurance or billing
+          - Other
+        required: true
+      - id: 13
+        name: patient_status
+        label: Current Patient Status
+        hint: Overall health and condition
+        type: text
+        options: []
+        required: true
+      - id: 14
+        name: medication_updates
+        label: Medication Updates or Changes
+        hint: New medications, stopped meds, dosage changes?
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: medication_compliance
+        label: Medication Compliance
+        hint: Is patient taking medications as prescribed?
+        type: select_one
+        options:
+          - Compliant - taking as prescribed
+          - Mostly compliant - occasional missed doses
+          - Non-compliant - not taking as prescribed
+          - Unable to assess
+        required: false
+      - id: 16
+        name: side_effects
+        label: Side Effects or Adverse Reactions
+        hint: Any negative medication reactions?
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: symptoms_reported
+        label: Symptoms or Issues Reported
+        hint: What symptoms or concerns have been noted?
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: activities_of_daily_living
+        label: Activities of Daily Living Status
+        hint: Eating, bathing, toileting, mobility, etc.
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: nutrition_hydration
+        label: Nutrition and Hydration Status
+        hint: Appetite, fluid intake, concerns?
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: cognitive_mental_status
+        label: Cognitive and Mental Status
+        hint: Memory, awareness, mood, behavior
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: fall_incident
+        label: Any Falls or Incidents?
+        hint: Details if applicable
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: blood_pressure_vital_signs
+        label: Vital Signs or Health Measurements
+        hint: BP, temperature, pulse, weight changes?
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: appointments_scheduled
+        label: Upcoming Appointments or Medical Visits
+        hint: Dates and details of scheduled care
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: care_plan_changes
+        label: Care Plan Changes or Updates
+        hint: Modifications to current care plan
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: questions_for_provider
+        label: Questions or Concerns for Healthcare Provider
+        hint: Items needing professional input
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: equipment_supplies
+        label: Equipment or Supplies Needed
+        hint: Medical supplies, equipment requests
+        type: text
+        options: []
+        required: false
+      - id: 27
+        name: family_notification
+        label: Family or Guardian Notification Needed?
+        hint: Should family be contacted?
+        type: select_one
+        options:
+          - "Yes - contact family immediately"
+          - "Yes - inform at next opportunity"
+          - "No - routine update only"
+          - "Already notified"
+        required: true
+      - id: 28
+        name: action_required
+        label: Action Required or Recommended
+        hint: What needs to be done?
+        type: text
+        options: []
+        required: false
+      - id: 29
+        name: follow_up_needed
+        label: Follow-up Communication Needed?
+        hint: Should there be additional contact?
+        type: select_one
+        options:
+          - "Yes - call back within 24 hours"
+          - "Yes - call back within 3 days"
+          - "Yes - follow up as needed"
+          - "No - this is complete update"
+        required: true
+      - id: 30
+        name: additional_notes
+        label: Additional Notes or Comments
+        hint: Any other important information
+        type: text
+        options: []
+        required: false

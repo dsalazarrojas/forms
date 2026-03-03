@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Water Damage Assessment Form
+    pages:
+    - id: 1
+      name: incident_details
+      label: incident_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_description
+      label: incident_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_location
+      label: incident_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_date
+      label: incident_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: incident_time
+      label: incident_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: incident_photo
+      label: incident_photo
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: incident_type
+      label: incident_type
+      hint: null
+      type: select_one
+      options:
+      - Water Damage
+      - Other Damage
+      - Not Applicable
+      required: false
+    - id: 8
+      name: incident_status
+      label: incident_status
+      hint: null
+      type: select_multiple
+      options:
+      - Not Started
+      - In Progress
+      - Complete
+      - Not Applicable
+      required: false
+    - id: 9
+      name: incident_priority
+      label: incident_priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: incident_employees_affected
+      label: incident_employees_affected
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: incident_manager
+      label: incident_manager
+      hint: null
+      type: email
+      options: []
+      required: false

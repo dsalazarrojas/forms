@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Consultation Form
+    pages:
+    - id: 1
+      name: client_info
+      label: client-info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: appointment_type
+      label: appointment-type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Haircut''}'
+      - '{''value'': ''Color correction''}'
+      - '{''value'': ''Chemical treatment''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 3
+      name: appointment_date
+      label: appointment-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: appointment_time
+      label: appointment-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: services
+      label: services
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Haircut''}'
+      - '{''value'': ''Styling''}'
+      - '{''value'': ''Trimming''}'
+      - '{''value'': ''Chemical treatment''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 6
+      name: client_phone
+      label: client-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: client_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by
+      label: submitted-by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitted_date
+      label: submitted-date
+      hint: null
+      type: date
+      options: []
+      required: false

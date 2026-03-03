@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Decision Support Referral And Authorization Request Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: patient prophets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: support_team
+      label: support team
+      hint: Name, phone, and email of support team
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: referral_reason
+      label: referral reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: referral_date
+      label: referral date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: referral_status
+      label: referral status
+      hint: Status of referral
+      type: select_one
+      options:
+      - open
+      - pending
+      - closed
+      required: false
+    - id: 6
+      name: reviewer
+      label: reviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: support_team
+      label: support team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: prophets_email
+      label: prophets email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: support_phone
+      label: support phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: review_date
+      label: review date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false

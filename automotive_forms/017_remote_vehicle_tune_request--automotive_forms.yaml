@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Vehicle Tune Request
+    pages:
+    - id: 1
+      name: vehicle_details
+      label: Vehicle Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_year
+      label: vehicle_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_make
+      label: vehicle_make
+      hint: null
+      type: select_one
+      options:
+      - Honda
+      - Ford
+      - Toyota
+      required: false
+    - id: 4
+      name: vehicle_model
+      label: vehicle_model
+      hint: null
+      type: select_one
+      options:
+      - Civic
+      - Mustang
+      - Corolla
+      required: false
+    - id: 5
+      name: customer_goals
+      label: prophets_goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: tuning_shops
+      label: tuning_shops
+      hint: null
+      type: select_multiple
+      options:
+      - Shop 1
+      - Shop 2
+      - Shop 3
+      required: false
+    - id: 7
+      name: technicians
+      label: technicians
+      hint: null
+      type: select_multiple
+      options:
+      - Tech 1
+      - Tech 2
+      - Tech 3
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: prophets_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: customer_notes
+      label: customer_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: scheduling_info
+      label: scheduling_info
+      hint: null
+      type: date
+      options: []
+      required: false

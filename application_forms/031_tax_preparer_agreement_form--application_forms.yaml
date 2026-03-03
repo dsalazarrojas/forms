@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Preparer Agreement Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_agreement
+      label: Service Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - Client Information
+      - Tax Preparation
+      - Financial Planning
+      required: false
+    - id: 3
+      name: tax_id
+      label: Tax ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: tax_year
+      label: Tax Year
+      hint: null
+      type: select_one
+      options:
+      - '2018'
+      - '2019'
+      - '2020'
+      required: false
+    - id: 5
+      name: tax_preparer_name
+      label: Tax Preparer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: signature_time
+      label: Signature Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: preparer_comments
+      label: Preparer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: client_comments
+      label: Client Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: agreement_status
+      label: Agreement Status
+      hint: null
+      type: select_one
+      options:
+      - Signed and Executed
+      - In Progress
+      - Expired
+      required: false
+    - id: 12
+      name: tax_return
+      label: Tax Return
+      hint: null
+      type: select_multiple
+      options:
+      - Income Statement
+      - Tax Declaration
+      - Other
+      required: false

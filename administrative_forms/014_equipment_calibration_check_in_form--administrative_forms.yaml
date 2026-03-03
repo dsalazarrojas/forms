@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Equipment Calibration Check In Form
+    pages:
+    - id: 1
+      name: equipment_id
+      label: Equipment ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: calibration_date
+      label: Calibration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: technician_name
+      label: Technician Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: technician_phone
+      label: Technician Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: technician_email
+      label: Technician Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: technician_comments
+      label: Technician Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: equipment_status
+      label: Equipment Status
+      hint: Select a status.
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Certified''}'
+      - '{''id'': 2, ''name'': ''Not Certified''}'
+      - '{''id'': 3, ''name'': ''In Progress''}'
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: technician_signature
+      label: Technician Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: technician_signature_date
+      label: Technician Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: reviewer_phone
+      label: Reviewer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: reviewer_email
+      label: Reviewer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: reviewer_signature
+      label: Reviewer Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: reviewer_signature_date
+      label: Reviewer Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: equipment_id_2
+      label: Equipment ID 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: calibration_date_2
+      label: Calibration Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: technician_name_2
+      label: Technician Name 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: technician_phone_2
+      label: Technician Phone 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: technician_email_2
+      label: Technician Email 2
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: technician_comments_2
+      label: Technician Comments 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: equipment_status_2
+      label: Equipment Status 2
+      hint: Select a status.
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Certified''}'
+      - '{''id'': 2, ''name'': ''Not Certified''}'
+      - '{''id'': 3, ''name'': ''In Progress''}'
+      required: false
+    - id: 24
+      name: notes_2
+      label: Notes 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: reviewer_name_2
+      label: Reviewer Name 2
+      hint: null
+      type: text
+      options: []
+      required: false

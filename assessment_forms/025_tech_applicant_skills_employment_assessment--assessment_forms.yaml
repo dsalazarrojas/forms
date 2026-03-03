@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tech Applicant Skills Employment Assessment
+    pages:
+    - id: 1
+      name: candidate_name
+      label: Candidate Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: work_experience
+      label: Work Experience
+      hint: Years of experience
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: technical_skills
+      label: Technical Skills
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: soft_skills
+      label: Soft Skills
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: employment_date
+      label: Employment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: employment_duration
+      label: Employment Duration
+      hint: In months or years
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: employment_employer
+      label: Employment Employer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employment_occupation
+      label: Employment Occupation
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

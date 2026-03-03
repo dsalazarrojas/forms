@@ -1,0 +1,100 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: C Level Authorization Form
+    pages:
+      - id: 1
+        name: section_request_summary
+        label: -- Request Summary --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: requester_name
+        label: Requester Name
+        hint: Person initiating the authorization request
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: requester_role
+        label: Requester Role
+        hint: Job title or role within the organization
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: department
+        label: Department
+        hint: Department responsible for the request
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: project_or_request_title
+        label: Project or Request Title
+        hint: Short title for the authorization
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: authorization_type
+        label: Authorization Type
+        hint: Select the type of approval needed
+        type: select_one
+        options: [Budget Approval, Policy Exception, Contract Approval, Staffing Change, Other]
+        required: true
+      - id: 7
+        name: amount_or_impact
+        label: Amount or Impact
+        hint: Financial amount or qualitative impact description
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: justification
+        label: Justification
+        hint: Rationale for executive authorization
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: risk_summary
+        label: Risk Summary
+        hint: Brief summary of principal risks and mitigations
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: requested_effective_date
+        label: Requested Effective Date
+        hint: When the authorization should take effect
+        type: date
+        options: []
+        required: false
+      - id: 11
+        name: required_signatures
+        label: Required Signatures
+        hint: List roles or names required to sign
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: approval_status
+        label: Approval Status
+        hint: Internal use field for tracking outcome
+        type: select_one
+        options: [Pending, Approved, Denied]
+        required: false

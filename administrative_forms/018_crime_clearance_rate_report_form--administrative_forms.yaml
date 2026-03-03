@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Crime Clearance Rate Report Form
+    pages:
+    - id: 1
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: agency_id
+      label: Agency
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 3
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: clearance_rate
+      label: Clearance Rate
+      hint: Enter clearance rate (percent)
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: total_crimes
+      label: Total Crimes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: cleared_crimes
+      label: Cleared Crimes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: percent_cleared
+      label: Percent Cleared
+      hint: Percent Cleared (calculated)
+      type: select_one
+      options:
+      - '0'
+      - '50'
+      - '100'
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: agency_comments
+      label: Agency Comments
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false

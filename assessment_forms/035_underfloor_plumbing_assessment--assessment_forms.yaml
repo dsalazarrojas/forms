@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Underfloor Plumbing Assessment
+    pages:
+    - id: 1
+      name: underfloor_plumbing_conditions
+      label: underfloor_plumbing_conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: inspector_name
+      label: inspector_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: photo_evidence
+      label: photo_evidence
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: issues_list
+      label: issues_list
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: issue_description
+      label: issue_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: issue_severity
+      label: issue_severity
+      hint: null
+      type: select_one
+      options:
+      - minor
+      - moderate
+      - major
+      required: false
+    - id: 8
+      name: inspector_comments
+      label: inspector_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: report_sent
+      label: report_sent
+      hint: null
+      type: select_one
+      options:
+      - sent
+      - not_sent
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

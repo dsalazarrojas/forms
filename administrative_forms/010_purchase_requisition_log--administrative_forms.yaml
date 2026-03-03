@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: purchase_requisition_log
+    pages:
+    - id: 1
+      name: purchase_request
+      label: submit_purchase_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: choose_category
+      hint: null
+      type: select_one
+      options:
+      - Goods
+      - Services
+      required: true
+    - id: 3
+      name: item_description
+      label: describe_item
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: quantity
+      label: quantity_requested
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: unit_cost
+      label: unit_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: total_cost
+      label: total_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: requested_by
+      label: requested_by
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      required: true
+    - id: 8
+      name: approved_by
+      label: approved_by
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      required: true
+    - id: 9
+      name: purchase_date
+      label: purchase_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

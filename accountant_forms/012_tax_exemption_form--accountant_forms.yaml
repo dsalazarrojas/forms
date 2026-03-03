@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Exemption Form
+    pages:
+    - id: 1
+      name: tax_exemption_form
+      label: tax_exemption_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: organization_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tax_exemption_type
+      label: tax_exemption_type
+      hint: null
+      type: select_one
+      options:
+      - Exempt
+      - Partially Exempt
+      - Not Exempt
+      required: false
+    - id: 4
+      name: effective_date
+      label: effective_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: expiration_date
+      label: expiration_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contact_first_name
+      label: contact_first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_last_name
+      label: contact_last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: fax
+      label: fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: account_manager
+      label: account_manager
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: account_manager_first_name
+      label: account_manager_first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: account_manager_last_name
+      label: account_manager_last_name
+      hint: null
+      type: text
+      options: []
+      required: false

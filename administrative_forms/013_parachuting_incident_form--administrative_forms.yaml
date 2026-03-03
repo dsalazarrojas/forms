@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: parachuting_incident_form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: jump_site
+      label: jump_site
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_description
+      label: incident_description
+      hint: Briefly describe the incident.
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: skydiver_name
+      label: skydiver_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_location
+      label: incident_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incident_type
+      label: incident_type
+      hint: null
+      type: select_one
+      options:
+      - Skydive Equipment Failure
+      - Skydiver Error
+      - Instructor Error
+      - Other
+      required: false
+    - id: 7
+      name: skydiver_experience
+      label: skydiver_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: skydiver_license
+      label: skydiver_license
+      hint: null
+      type: select_multiple
+      options:
+      - A-license
+      - B-license
+      - D-license
+      - Other
+      required: true
+    - id: 9
+      name: skydiver_equipment
+      label: skydiver_equipment
+      hint: List and describe the equipment failure.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_injuries
+      label: incident_injuries
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: incident_hospitalizations
+      label: incident_hospitalizations
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: incident_cause
+      label: incident_cause
+      hint: null
+      type: select_one
+      options:
+      - Skydive Equipment Failure
+      - Skydiver Error
+      - Instructor Error
+      - Other
+      required: false
+    - id: 13
+      name: incident_cause_detail
+      label: incident_cause_detail
+      hint: Briefly describe the cause of the incident.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: incident_resolution
+      label: incident_resolution
+      hint: null
+      type: select_one
+      options:
+      - Implemented
+      - Under Investigation
+      - Under Review
+      - Other
+      required: true
+    - id: 15
+      name: incident_reporter
+      label: incident_reporter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: incident_status
+      label: incident_status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - In Progress
+      - Closed
+      - Under Review
+      required: true
+    - id: 17
+      name: incident_status_detail
+      label: incident_status_detail
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: incident_status_date
+      label: incident_status_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: incident_status_comments
+      label: incident_status_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      - None
+      required: true
+    - id: 21
+      name: incident_status_responsible
+      label: incident_status_responsible
+      hint: null
+      type: select_multiple
+      options:
+      - Safety Officer
+      - Supervisor
+      - Other
+      - None
+      required: false
+    - id: 22
+      name: skydiver_license_number
+      label: skydiver_license_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: skydiver_license_type
+      label: skydiver_license_type
+      hint: null
+      type: select_multiple
+      options:
+      - A-license
+      - B-license
+      - D-license
+      - Other
+      required: false
+    - id: 24
+      name: incident_date
+      label: incident_date
+      hint: null
+      type: date
+      options: []
+      required: false

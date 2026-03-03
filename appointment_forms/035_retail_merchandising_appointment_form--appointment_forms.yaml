@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Merchandising Appointment Form
+    pages:
+    - id: 1
+      name: retail_merchandising_appointment_form
+      label: Retail Merchandising Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: retail_merchandising_appointment_time
+      label: Appointment Time
+      hint: null
+      type: select_one
+      options:
+      - 090000
+      - '120000'
+      - '150000'
+      required: false
+    - id: 3
+      name: merchandising_manager_id
+      label: Merchandising Manager ID
+      hint: null
+      type: select_multiple
+      options:
+      - Manager 1
+      - Manager 2
+      - Manager 3
+      required: false
+    - id: 4
+      name: merchandising_manager_notes
+      label: Merchandising Manager Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: retail_store
+      label: Retail Store
+      hint: null
+      type: select_one
+      options:
+      - Store 1
+      - Store 2
+      - Store 3
+      required: false
+    - id: 6
+      name: sales_rep_id
+      label: Sales Rep ID
+      hint: null
+      type: select_multiple
+      options:
+      - Sales Rep 1
+      - Sales Rep 2
+      - Sales Rep 3
+      required: false
+    - id: 7
+      name: sales_rep_notes
+      label: Sales Rep Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: merchandising_manager_email
+      label: Merchandising Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: merchandising_manager_phone
+      label: Merchandising Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false

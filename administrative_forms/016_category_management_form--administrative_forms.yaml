@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Category Management Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - Administration
+      - Content Management
+      - IT
+      - Marketing
+      - Operations
+      - Other
+      required: true
+    - id: 4
+      name: request_type
+      label: Request Type
+      hint: What action do you need
+      type: select_one
+      options:
+      - Create New Category
+      - Update Existing Category
+      - Delete Category
+      - Merge Categories
+      - Change Hierarchy
+      required: true
+    - id: 5
+      name: request_date
+      label: Request Date
+      hint: Date of this request
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: category_name
+      label: Category Name
+      hint: Name of the category
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: category_slug
+      label: Category Slug
+      hint: URL-friendly identifier
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: parent_category
+      label: Parent Category
+      hint: Parent category if applicable
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: category_description
+      label: Category Description
+      hint: Brief description of the category
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: visibility
+      label: Visibility
+      hint: Who can see this category
+      type: select_one
+      options:
+      - Public
+      - Internal Only
+      - Restricted
+      - Hidden
+      required: true
+    - id: 11
+      name: category_owner
+      label: Category Owner
+      hint: Who is responsible for this category
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: related_categories
+      label: Related Categories
+      hint: Any related categories
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: sort_order
+      label: Sort Order
+      hint: Display order number
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: include_in_menu
+      label: Include in Navigation Menu
+      hint: Should this appear in main navigation
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: meta_title
+      label: Meta Title
+      hint: SEO meta title
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: meta_description
+      label: Meta Description
+      hint: SEO meta description
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: featured_image
+      label: Featured Image
+      hint: Image URL or description
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: custom_fields
+      label: Custom Fields Required
+      hint: Any custom fields needed
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: approval_status
+      label: Approval Status
+      hint: Current approval status
+      type: select_one
+      options:
+      - Pending Review
+      - Approved
+      - Rejected
+      - Needs Revision
+      required: false
+    - id: 20
+      name: effective_date
+      label: Effective Date
+      hint: When should changes take effect
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: notes
+      label: Additional Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: VOC Control Assessment Form
+    pages:
+    - id: 1
+      name: voc_types
+      label: voc_types
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: assessors
+      label: assessors
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: voc_sources
+      label: voc_sources
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: controls
+      label: controls
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: compliance_status
+      label: compliance_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: assessment_date
+      label: assessment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: note
+      hint: Additional comments or notes
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: facility_manager
+      label: facility_manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: consultant
+      label: consultant
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: ehs_team_members
+      label: ehs_team_members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: site_visit_details
+      label: site_visit_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: site_visit_date
+      label: site_visit_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: facility_name
+      label: facility_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: facility_type
+      label: facility_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: site_visit_frequency
+      label: site_visit_frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: compliance_frequency
+      label: compliance_frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: assessment_type
+      label: assessment_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: assessment_frequency
+      label: assessment_frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: site_visit_comments
+      label: site_visit_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: site_visit_comments_2
+      label: site_visit_comments_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: site_visit_comments_3
+      label: site_visit_comments_3
+      hint: null
+      type: text
+      options: []
+      required: false

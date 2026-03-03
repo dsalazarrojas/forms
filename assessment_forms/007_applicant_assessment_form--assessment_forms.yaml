@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Applicant Assessment Form
+    pages:
+    - id: 1
+      name: candidate_info_header
+      label: -- Candidate Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: candidate_name
+      label: Candidate Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: position_applied_for
+      label: Position Applied For
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: interviewer_name
+      label: Interviewer or Assessor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: interview_date
+      label: Date of Assessment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: technical_skills_header
+      label: -- Skills Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: technical_knowledge_score
+      label: Technical Knowledge Score
+      hint: Evaluate candidate's understanding of role-specific tools and concepts
+      type: select_one
+      options:
+      - 5 - Expert
+      - 4 - Proficient
+      - 3 - Average
+      - 2 - Below Average
+      - 1 - Poor
+      required: true
+    - id: 8
+      name: problem_solving_ability
+      label: Problem Solving Ability
+      hint: Ability to analyze and resolve complex issues
+      type: select_one
+      options:
+      - Outstanding
+      - Strong
+      - Satisfactory
+      - Needs Development
+      required: true
+    - id: 9
+      name: communication_skills
+      label: Communication Skills
+      hint: Clarity of expression and active listening
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 10
+      name: cultural_fit_rating
+      label: Cultural Fit Rating
+      hint: Alignment with company values and team dynamics
+      type: select_one
+      options:
+      - Perfect Fit
+      - Good Fit
+      - Neutral
+      - Potential Conflict
+      required: true
+    - id: 11
+      name: soft_skills_observations
+      label: Soft Skills Observations
+      hint: Teamwork, leadership, adaptability, etc.
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: final_recommendation_header
+      label: -- Final Recommendation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: overall_assessment_score
+      label: Overall Assessment Score (1-100)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: hiring_recommendation
+      label: Hiring Recommendation
+      hint: null
+      type: select_one
+      options:
+      - Hire Immediately
+      - Move to Next Round
+      - Keep on File for Future
+      - Do Not Hire
+      required: true
+    - id: 15
+      name: strengths_summary
+      label: Summary of Strengths
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: development_areas
+      label: Areas for Development
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_comments
+      label: Additional Assessor Comments
+      hint: null
+      type: text
+      options: []
+      required: false

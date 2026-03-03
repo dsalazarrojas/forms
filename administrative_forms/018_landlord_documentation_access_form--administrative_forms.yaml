@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Landlord Documentation Access Form
+    pages:
+    - id: 1
+      name: tenant_submission
+      label: Tenant Submission
+      hint: null
+      type: select_multiple
+      options:
+      - Tenant 1
+      - Tenant 2
+      - Tenant 3
+      required: false
+    - id: 2
+      name: document_type
+      label: Document Type
+      hint: null
+      type: select_one
+      options:
+      - Lease
+      - Rent
+      - Other
+      required: false
+    - id: 3
+      name: document_upload
+      label: Document Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: document_description
+      label: Document Description
+      hint: Brief description of the document
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: document_upload_2
+      label: Document Upload 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: tenant_signature
+      label: Tenant Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: landlord_signature
+      label: Landlord Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_signed
+      label: Time Signed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false

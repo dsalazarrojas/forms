@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: service_cancellation_request_form
+    pages:
+    - id: 1
+      name: customer_request
+      label: Request from customer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_cancellation
+      label: reason for cancellation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_details
+      label: Service details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: cancellation_date
+      label: Cancellation date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: expected_cancellation_date
+      label: Expected cancellation date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contact_person
+      label: Contact person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: confirm_cancellation
+      label: Confirm cancellation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: confirm_cancellation_reason
+      label: Confirm cancellation reason
+      hint: null
+      type: text
+      options: []
+      required: false

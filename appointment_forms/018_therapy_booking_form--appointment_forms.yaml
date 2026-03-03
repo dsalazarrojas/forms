@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Therapy Booking Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: appointment
+      label: Appointment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: appointment_details
+      label: Appointment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: therapist
+      label: Therapist
+      hint: null
+      type: select_one
+      options:
+      - Dr. Smith
+      - Dr. Johnson
+      - Dr. Williams
+      required: false
+    - id: 7
+      name: appointment_duration
+      label: Appointment Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: appointment_type
+      label: Appointment Type
+      hint: null
+      type: select_one
+      options:
+      - Individual Session
+      - Group Session
+      - Consultation
+      required: false
+    - id: 9
+      name: appointment_notes
+      label: Appointment Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: confirm_appointment
+      label: Confirm Appointment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 13
+      name: confirm_appointment_details
+      label: Confirm Appointment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: cancel_reason
+      label: Cancel Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: cancellation_policy
+      label: Cancellation Policy
+      hint: null
+      type: select_one
+      options:
+      - Free
+      - Reschedule
+      - Late Cancellation
+      required: false

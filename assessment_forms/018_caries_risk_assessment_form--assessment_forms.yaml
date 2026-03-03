@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Caries Risk Assessment Form
+    pages:
+    - id: 1
+      name: section_patient_info
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_age
+      label: Patient Age
+      hint: Enter patient's current age
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: date_of_assessment
+      label: Date of Assessment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: medical_history
+      label: Relevant Medical History
+      hint: e.g., Dry Mouth, Medications, Diabetes
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_habits
+      label: -- Dietary and Hygiene Habits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: sugary_snack_frequency
+      label: Frequency of sugary snacks or beverages per day
+      hint: Including juice, soda, candy, etc.
+      type: select_one
+      options:
+      - 0 to 1 times
+      - 2 to 3 times
+      - 4 or more times
+      required: true
+    - id: 8
+      name: brushing_frequency
+      label: Brushing Frequency
+      hint: null
+      type: select_one
+      options:
+      - Once a day
+      - Twice a day
+      - Three or more times a day
+      - Rarely
+      required: true
+    - id: 9
+      name: flossing_frequency
+      label: Flossing Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Rarely
+      - Never
+      required: true
+    - id: 10
+      name: fluoride_exposure
+      label: Do you use fluoride toothpaste or mouthwash?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 11
+      name: section_clinical
+      label: -- Clinical Findings --
+      hint: to be completed by clinician
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: recent_cavities
+      label: New cavities in the past 3 years
+      hint: restoration history
+      type: select_one
+      options:
+      - None
+      - 1 to 2 cavities
+      - 3 or more cavities
+      required: true
+    - id: 13
+      name: white_spot_lesions
+      label: Presence of white spot lesions
+      hint: early demineralization
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: visible_plaque
+      label: Visible plaque on anterior teeth
+      hint: sign of high bacterial load
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: dental_appliances
+      label: Do you wear orthodontic appliances or partial dentures?
+      hint: braces, retainers, or bridges
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: dry_mouth_symptoms
+      label: Do you frequently experience dry mouth (Xerostomia)?
+      hint: low saliva flow
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: section_risk_eval
+      label: -- Risk Evaluation --
+      hint: final risk determination
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: overall_caries_risk
+      label: Overall Caries Risk Level
+      hint: based on all indicators
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - High
+      - Extreme
+      required: true
+    - id: 19
+      name: primary_risk_factors
+      label: Identified Primary Risk Factors
+      hint: select all that contribute
+      type: select_multiple
+      options:
+      - High Sugar Diet
+      - Poor Hygiene
+      - Low Fluoride
+      - Low Saliva
+      - Anatomy
+      - History
+      required: true
+    - id: 20
+      name: section_treatment
+      label: -- Treatment Plan and Recommendations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: recommended_recalls
+      label: Recommended recall interval
+      hint: professional cleaning and exam frequency
+      type: select_one
+      options:
+      - 3 months
+      - 4 months
+      - 6 months
+      required: true
+    - id: 22
+      name: prescribed_treatment
+      label: Prescribed Preventive Treatment
+      hint: interventions to reduce risk
+      type: select_multiple
+      options:
+      - Fluoride Varnish
+      - Sealants
+      - High-Fluoride Toothpaste
+      - Chlorhexidine Rinse
+      - Dietary Counseling
+      required: false
+    - id: 23
+      name: clinician_notes
+      label: Additional Clinician Notes
+      hint: specific instructions for the patient
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: section_signature
+      label: -- Signature --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: clinician_signature
+      label: Clinician Digital Signature
+      hint: Type full name to sign
+      type: text
+      options: []
+      required: true

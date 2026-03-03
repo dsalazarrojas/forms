@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: covid_19_pre_appointment_survey
+    pages:
+    - id: 1
+      name: general_info
+      label: general_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: symptoms
+      label: symptoms
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Fever''}'
+      - '{''value'': ''Chills''}'
+      - '{''value'': ''Headache''}'
+      - '{''value'': ''Cough''}'
+      - '{''value'': ''Congestion''}'
+      - '{''value'': ''Shortness of breath''}'
+      - '{''value'': ''Muscle pain''}'
+      - '{''value'': ''Sore throat''}'
+      - '{''value'': ''Runny nose''}'
+      - '{''value'': ''Nausea''}'
+      - '{''value'': ''Vomiting''}'
+      - '{''value'': ''Dizziness''}'
+      - '{''value'': ''Numbness/tingling sensation''}'
+      - '{''value'': ''Loss of appetite''}'
+      - '{''value'': ''Loss of taste''}'
+      required: false
+    - id: 4
+      name: vaccination_status
+      label: vaccination_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Yes''}'
+      - '{''value'': ''No''}'
+      required: false
+    - id: 5
+      name: contact_tracing
+      label: contact_tracing
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: appointment_time
+      label: appointment_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: appointment_date
+      label: appointment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: doctor_name
+      label: doctor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medication_allergies
+      label: medication_allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: insurance_provider
+      label: insurance_provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_group
+      label: medical_group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: appointment_location
+      label: appointment_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_condition_note
+      label: medical_condition_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_history_additional
+      label: medical_history_additional
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: patient_notes
+      label: patient_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_group_note
+      label: medical_group_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: vaccination_note
+      label: vaccination_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: appointment_notes
+      label: appointment_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: contact_tracing_note
+      label: contact_tracing_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: phone_number_note
+      label: phone_number_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: emergency_contact_note
+      label: emergency_contact_note
+      hint: null
+      type: text
+      options: []
+      required: false

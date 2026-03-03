@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Security Application Appointment Form
+    pages:
+    - id: 1
+      name: user
+      label: user_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: appointment_date
+      label: appointment_date
+      hint: Choose a date for the appointment
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: appointment_time
+      label: appointment_time
+      hint: Choose a time for the appointment
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: appointment_location
+      label: appointment_location
+      hint: Where would you like to meet?
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: appointment_type
+      label: appointment_type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 6
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: confirm_appointment
+      label: confirm_appointment
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true

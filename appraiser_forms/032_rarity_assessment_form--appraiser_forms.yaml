@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rarity Assessment Form
+    pages:
+    - id: 1
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: item_description
+      label: Item Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: item_condition
+      label: Item Condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Good'', ''value'': ''Good''}'
+      - '{''label'': ''Fair'', ''value'': ''Fair''}'
+      - '{''label'': ''Poor'', ''value'': ''Poor''}'
+      required: false
+    - id: 4
+      name: item_year_produced
+      label: Item Year Produced
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: item_age
+      label: Item Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: appraiser_name
+      label: Appraiser Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: appraiser_license
+      label: Appraiser License
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''US'', ''value'': ''US''}'
+      - '{''label'': ''Canada'', ''value'': ''Canada''}'
+      - '{''label'': ''UK'', ''value'': ''UK''}'
+      required: false
+    - id: 8
+      name: appraiser_phone
+      label: Appraiser Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: appraiser_email
+      label: Appraiser Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: collector_name
+      label: Collector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: collector_phone
+      label: Collector Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: collector_email
+      label: Collector Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: resale_price
+      label: Resale Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: rarity_rating
+      label: Rarity Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''1 - Common'', ''value'': 1}'
+      - '{''label'': ''2 - Uncommon'', ''value'': 2}'
+      - '{''label'': ''3 - Rare'', ''value'': 3}'
+      - '{''label'': ''4 - Very Rare'', ''value'': 4}'
+      - '{''label'': ''5 - Extremely Rare'', ''value'': 5}'
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: item_value
+      label: Item Value
+      hint: null
+      type: number
+      options: []
+      required: false

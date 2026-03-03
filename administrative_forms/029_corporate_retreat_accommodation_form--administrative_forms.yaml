@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Retreat Accommodation Form
+    pages:
+    - id: 1
+      name: first_page
+      label: Company Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: accommodation_preferences
+      label: Accommodation Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: accommodation_type
+      label: Accommodation Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: accommodation_details
+      label: Accommodation Details
+      hint: null
+      type: note
+      options: []
+      required: false

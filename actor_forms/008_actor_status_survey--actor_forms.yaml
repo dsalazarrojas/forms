@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Actor Status Survey
+    pages:
+    - id: 1
+      name: --basic_information
+      label: -- Basic Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: Full name for records
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: union_membership
+      label: Union membership
+      hint: Current union membership status
+      type: select_one
+      options: [None, SAG AFTRA, Equity, Other]
+      required: true
+    - id: 4
+      name: current_availability
+      label: Current availability
+      hint: Open dates and notice required
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: recent_roles
+      label: Recent roles and credits
+      hint: Brief summary of past year work
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: training_and_education
+      label: Training and education
+      hint: Workshops degrees or certifications
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: representation_status
+      label: Representation status
+      hint: Agent or manager contact info
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: interest_in_opportunities
+      label: Interest in audition calls and projects
+      hint: Select all that apply
+      type: select_multiple
+      options: [Commercials, Film, Television, Theater, Voiceover]
+      required: false
+    - id: 9
+      name: training_needs
+      label: Areas where you seek coaching
+      hint: Acting technique voice movement on camera
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: Any other notes for casting or agents
+      type: note
+      options: []
+      required: false

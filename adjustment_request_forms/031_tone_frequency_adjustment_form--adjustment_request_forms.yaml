@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tone Frequency Adjustment Form
+    pages:
+    - id: 1
+      name: submission_details
+      label: Submission Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: file_uploads
+      label: File Uploads
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: tone_frequency
+      label: Tone Frequency
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: true
+    - id: 5
+      name: upload_file
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: calibration_method
+      label: Calibration Method
+      hint: null
+      type: select_one
+      options:
+      - Upload file
+      - Send to service
+      - Use existing file
+      required: true
+    - id: 7
+      name: upload_files
+      label: Upload Files
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: submission_type
+      label: Submission Type
+      hint: null
+      type: select_one
+      options:
+      - Calibration
+      - Adjustment
+      required: true

@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Theater Cast Media Consent Form
+    pages:
+    - id: 1
+      name: theater_cast_media_consent_form
+      label: Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: media_type
+      label: Media Type
+      hint: null
+      type: select_one
+      options:
+      - Image
+      - Video
+      - Audio
+      required: false
+    - id: 3
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: guardian_name
+      label: Guardian's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: guardian_email
+      label: Guardian's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: guardian_phone
+      label: Guardian's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: performer_name
+      label: Performer's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: performer_email
+      label: Performer's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: performer_phone
+      label: Performer's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: school
+      label: School
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: teacher
+      label: Teacher
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: parent
+      label: Parent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: student
+      label: Student
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: other_details
+      label: Other Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: time
+      label: Time
+      hint: 'Format: 24h'
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: rehearsal_dates
+      label: Rehearsal Dates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: show_dates
+      label: Show Dates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: production_notes
+      label: Production Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: media_permission
+      label: Media Permission
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: false
+    - id: 23
+      name: performer_guardian
+      label: Performer/Guardian
+      hint: null
+      type: select_one
+      options:
+      - Performer
+      - Guardian
+      required: false
+    - id: 24
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: form_version
+      label: Form Version
+      hint: null
+      type: number
+      options: []
+      required: false

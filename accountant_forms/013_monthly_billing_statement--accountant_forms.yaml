@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Monthly Billing Statement
+    pages:
+    - id: 1
+      name: summary
+      label: summary
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_id
+      label: customer_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: invoice_date
+      label: invoice_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: charge_type
+      label: charge_type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 5
+      name: charge_amount
+      label: charge_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: balance
+      label: balance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: due_date
+      label: due_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: payment_date
+      label: payment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: paid
+      label: paid
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Not Paid
+      required: true
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: account_manager
+      label: account_manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: account_number
+      label: account_number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: account_status
+      label: account_status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Pending
+      required: true
+    - id: 16
+      name: account_manager_notes
+      label: account_manager_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_notes
+      label: customer_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: customer_status
+      label: customer_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Closed
+      required: true
+    - id: 19
+      name: customer_notes
+      label: customer_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitter
+      label: submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 23
+      name: submitter_phone
+      label: submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: submitter_notes
+      label: submitter_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_status
+      label: submitter_status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Pending
+      required: true

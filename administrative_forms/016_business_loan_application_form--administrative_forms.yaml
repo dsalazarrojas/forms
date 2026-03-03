@@ -1,0 +1,237 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Loan Application Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: Legal name of your business
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_structure
+      label: Business Structure
+      hint: Legal structure of your business
+      type: select_one
+      options:
+      - Sole proprietorship
+      - Partnership
+      - Limited Liability Company
+      - Corporation
+      - S Corporation
+      - Non-profit
+      required: true
+    - id: 3
+      name: tax_id_number
+      label: Tax ID Number
+      hint: EIN or SSN
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: business_address
+      label: Business Address
+      hint: Full physical address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: years_in_business
+      label: Years in Business
+      hint: How long has the business operated
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: industry_type
+      label: Industry Type
+      hint: Primary business activity
+      type: select_one
+      options:
+      - Retail
+      - Manufacturing
+      - Technology
+      - Healthcare
+      - Restaurant
+      - Construction
+      - Professional services
+      - Real estate
+      - Agriculture
+      - Other
+      required: true
+    - id: 7
+      name: number_of_employees
+      label: Number of Employees
+      hint: Total full-time and part-time employees
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: annual_revenue
+      label: Annual Revenue
+      hint: Gross annual revenue
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: loan_amount_requested
+      label: Loan Amount Requested
+      hint: Amount of financing needed
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: loan_purpose
+      label: Purpose of Loan
+      hint: How will you use the loan funds
+      type: select_one
+      options:
+      - Working capital
+      - Equipment purchase
+      - Inventory purchase
+      - Business expansion
+      - Real estate purchase
+      - Debt consolidation
+      - Startup costs
+      - Other
+      required: true
+    - id: 11
+      name: loan_purpose_description
+      label: Loan Purpose Description
+      hint: Describe in detail how funds will be used
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: repayment_term_preference
+      label: Preferred Repayment Term
+      hint: Desired loan term length
+      type: select_one
+      options:
+      - 6 months
+      - 1 year
+      - 2 years
+      - 3 years
+      - 5 years
+      - 10 years
+      - Flexible
+      required: true
+    - id: 13
+      name: collateral_available
+      label: Collateral Available
+      hint: Do you have collateral to secure the loan
+      type: select_one
+      options:
+      - Yes - real estate
+      - Yes - equipment
+      - Yes - inventory
+      - Yes - accounts receivable
+      - Yes - cash or securities
+      - No unsecured loan needed
+      required: true
+    - id: 14
+      name: collateral_value
+      label: Estimated Collateral Value
+      hint: Approximate value of collateral
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: personal_credit_score
+      label: Personal Credit Score Range
+      hint: Primary owner credit score range
+      type: select_one
+      options:
+      - Excellent - 750 or above
+      - Good - 700 to 749
+      - Fair - 650 to 699
+      - Poor - 600 to 649
+      - Very poor - below 600
+      required: true
+    - id: 16
+      name: business_credit_score
+      label: Business Credit Score Range
+      hint: Business credit score if available
+      type: select_one
+      options:
+      - Excellent - 80 to 100
+      - Good - 60 to 79
+      - Fair - 40 to 59
+      - Poor - below 40
+      - Not established
+      required: false
+    - id: 17
+      name: existing_debt
+      label: Total Existing Business Debt
+      hint: Current outstanding business debt
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: monthly_debt_payments
+      label: Monthly Debt Payments
+      hint: Current monthly debt obligation payments
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: bank_name
+      label: Primary Bank Name
+      hint: Where does your business bank
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: banking_relationship_years
+      label: Years with Current Bank
+      hint: How long have you banked there
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: previous_loan_applications
+      label: Previous Business Loan Applications
+      hint: Have you applied for business loans before
+      type: select_one
+      options:
+      - Yes - approved
+      - Yes - denied
+      - No - first application
+      required: true
+    - id: 22
+      name: financial_statements_available
+      label: Financial Statements Available
+      hint: Select all documents you can provide
+      type: select_multiple
+      options:
+      - Tax returns - 2 years
+      - Profit and loss statement
+      - Balance sheet
+      - Cash flow statement
+      - Bank statements
+      - Accounts receivable aging
+      - Accounts payable aging
+      required: true
+    - id: 23
+      name: owner_name
+      label: Primary Owner Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: owner_email
+      label: Owner Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 25
+      name: owner_phone
+      label: Owner Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true

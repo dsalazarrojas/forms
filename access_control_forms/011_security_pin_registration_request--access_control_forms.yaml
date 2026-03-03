@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Security PIN Registration Request
+    pages:
+    - id: 1
+      name: user_details
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: access_reasons
+      label: Access Reasons
+      hint: null
+      type: select_multiple
+      options:
+      - IT
+      - HR
+      required: false
+    - id: 3
+      name: policy_acknowledgments
+      label: Policy Acknowledgments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: access_request_date
+      label: Access Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: security_pin
+      label: Security PIN
+      hint: A unique six character PIN.
+      type: number
+      options: []
+      required: false

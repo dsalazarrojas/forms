@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Sports Concussion Consent Form
+    pages:
+    - id: 1
+      name: parent_consent
+      label: Parent Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: parent_name
+      label: parent_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: parent_email
+      label: parent_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: parent_phone
+      label: parent_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: youth_sport
+      label: youth_sport
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: concussion_info
+      label: concussion_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: concussion_info_2
+      label: concussion_info_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: concussion_info_3
+      label: concussion_info_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: concussion_info_4
+      label: concussion_info_4
+      hint: null
+      type: text
+      options: []
+      required: false

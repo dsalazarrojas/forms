@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Risk Assessment Approval Application Form
+    pages:
+    - id: 1
+      name: risk_assessment_form
+      label: risk_assessment_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: owner
+      label: owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: severity
+      label: risk_severity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: mitigation
+      label: mitigation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: mitigation_plan
+      label: mitigation_plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: assignee
+      label: assignee
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''John Doe''}'
+      - '{''value'': ''Jane Doe''}'
+      - '{''value'': ''Jim Smith''}'
+      required: false
+    - id: 7
+      name: approve
+      label: approve
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Approve''}'
+      - '{''value'': ''Decline''}'
+      - '{''value'': ''Hold''}'
+      required: false
+    - id: 8
+      name: risk_description
+      label: risk_description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: risk_id
+      label: risk_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: risk_severity_id
+      label: risk_severity_id
+      hint: null
+      type: number
+      options: []
+      required: false

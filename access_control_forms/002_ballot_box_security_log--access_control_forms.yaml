@@ -1,0 +1,105 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Ballot Box Security Log
+    pages:
+      - id: 1
+        name: section_location_and_shift
+        label: -- Location and Shift Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: polling_location_name
+        label: Polling location name
+        hint: Enter official polling place name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: box_identifier
+        label: Ballot box identifier
+        hint: Unique ID or serial on the ballot box
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: date_of_check
+        label: Date of security check
+        hint: Date of the inspection or handover
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: time_of_check
+        label: Time of security check
+        hint: Local time when the check was performed
+        type: time
+        options: []
+        required: true
+      - id: 6
+        name: officer_on_duty
+        label: Officer or staff on duty
+        hint: Name of person performing the check
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: seal_number
+        label: Seal number recorded
+        hint: Security seal identifier on the box
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: seal_status
+        label: Seal status
+        hint: Indicate if seal is intact
+        type: select_one
+        options:
+          - Intact
+          - Broken
+          - Replaced
+        required: true
+      - id: 9
+        name: incident_reported
+        label: Incident reported
+        hint: Note yes if any issue observed
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 10
+        name: incident_notes
+        label: Incident notes
+        hint: Describe any incidents or irregularities
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: next_handover_time
+        label: Next handover time
+        hint: Scheduled time for next shift handover
+        type: time
+        options: []
+        required: false
+      - id: 12
+        name: reviewer_name
+        label: Reviewer name
+        hint: Supervisor who reviewed the log
+        type: text
+        options: []
+        required: false

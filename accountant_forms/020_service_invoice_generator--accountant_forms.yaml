@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Invoice Generator
+    pages:
+    - id: 1
+      name: service_date
+      label: service date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: service_hours
+      label: service hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_name
+      label: client name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_details
+      label: service details
+      hint: Brief description of the services provided
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_cost
+      label: service cost
+      hint: Cost of service
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: service_address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: client_email
+      label: client email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: invoice_number
+      label: invoice number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: due_date
+      label: due date
+      hint: null
+      type: date
+      options: []
+      required: false

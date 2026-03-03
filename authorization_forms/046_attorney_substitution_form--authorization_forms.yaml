@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Attorney Substitution Form
+    pages:
+    - id: 1
+      name: case_information
+      label: -- Case Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: case_name
+      label: Case Name
+      hint: Title of the case
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: case_number
+      label: Case Number
+      hint: Court case reference number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: court_name
+      label: Court Name
+      hint: Which court has jurisdiction?
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: case_type
+      label: Case Type
+      hint: Nature of the case
+      type: select_one
+      options:
+      - Criminal
+      - Civil
+      - Family
+      - Probate
+      - Real Estate
+      - Commercial
+      - Other
+      required: true
+    - id: 6
+      name: judge_name
+      label: Judge Name
+      hint: Presiding judge
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: current_attorney
+      label: -- Current Attorney Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: current_attorney_name
+      label: Current Attorney Name
+      hint: Withdrawing attorney
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: current_attorney_bar
+      label: Bar Number
+      hint: Attorney bar number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: current_attorney_phone
+      label: Attorney Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: current_attorney_email
+      label: Attorney Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: new_attorney
+      label: -- New Attorney Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: new_attorney_name
+      label: Substitute Attorney Name
+      hint: Incoming attorney
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: new_attorney_bar
+      label: Bar Number
+      hint: New attorney bar number
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: new_attorney_phone
+      label: Attorney Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: new_attorney_email
+      label: Attorney Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: substitution_reason
+      label: -- Substitution Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: reason_for_substitution
+      label: Reason for Substitution
+      hint: Why is attorney changing?
+      type: select_one
+      options:
+      - Withdrawal
+      - Client Request
+      - Firm Change
+      - Conflict of Interest
+      - Health Reasons
+      - Relocation
+      - Other
+      required: true
+    - id: 19
+      name: effective_date
+      label: Effective Date
+      hint: When does substitution take effect?
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: client_information
+      label: -- Client Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: client_name
+      label: Client Name
+      hint: Name of client or party
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: client_consent
+      label: Client Consent to Substitution
+      hint: Does client consent?
+      type: select_one
+      options:
+      - Client Consents
+      - Client Does Not Consent
+      - No Consent Required
+      required: true
+    - id: 23
+      name: client_signature_date
+      label: Client Signature Date
+      hint: Date client signed authorization
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: court_filing_date
+      label: Court Filing Date
+      hint: When will this be filed?
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other relevant information?
+      type: text
+      options: []
+      required: false

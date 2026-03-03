@@ -1,0 +1,154 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Compliance Policy Approval Acknowledgement Form
+    pages:
+      - id: 1
+        name: employee_full_name
+        label: Employee Full Name
+        hint: Enter your legal name as it appears in company records
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: employee_id
+        label: Employee ID Number
+        hint: Your unique employee identification number
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: department
+        label: Department
+        hint: Select your current department
+        type: select_one
+        options:
+          - Human Resources
+          - Finance
+          - Operations
+          - Sales and Marketing
+          - Information Technology
+          - Legal
+          - Research and Development
+          - Customer Service
+          - Executive
+          - Other
+        required: true
+      - id: 4
+        name: job_title
+        label: Job Title
+        hint: Your current position
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: manager_name
+        label: Manager Name
+        hint: Name of your direct supervisor
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: work_location
+        label: Work Location
+        hint: Primary office or work arrangement
+        type: select_one
+        options:
+          - Main Office
+          - Remote
+          - Hybrid
+          - Branch Office
+          - Field Location
+        required: true
+      - id: 7
+        name: policy_version
+        label: Policy Version Acknowledged
+        hint: Version of the compliance policy being acknowledged
+        type: select_one
+        options:
+          - Version 2026.1
+          - Version 2025.4
+          - Version 2025.3
+          - Version 2025.2
+          - Version 2025.1
+        required: true
+      - id: 8
+        name: policy_categories_reviewed
+        label: Policy Categories Reviewed
+        hint: Select all policy areas you have reviewed
+        type: select_multiple
+        options:
+          - Code of Conduct
+          - Data Privacy and Protection
+          - Anti-Harassment and Discrimination
+          - Health and Safety
+          - Information Security
+          - Financial Compliance
+          - Environmental Policies
+          - Conflict of Interest
+        required: true
+      - id: 9
+        name: training_completion_date
+        label: Training Completion Date
+        hint: Date when you completed the policy training
+        type: date
+        options: []
+        required: true
+      - id: 10
+        name: understanding_confirmation
+        label: Understanding Confirmation
+        hint: I confirm that I understand the compliance policies
+        type: select_one
+        options:
+          - Yes, I fully understand
+          - I need clarification on some points
+          - No, I need additional training
+        required: true
+      - id: 11
+        name: acknowledgment_statement
+        label: Acknowledgment Statement
+        hint: By selecting yes, you acknowledge receipt and understanding
+        type: select_one
+        options:
+          - Yes, I acknowledge and agree to comply
+          - No, I do not acknowledge
+        required: true
+      - id: 12
+        name: questions_or_concerns
+        label: Questions or Concerns
+        hint: List any questions or concerns about the policies
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: electronic_signature
+        label: Electronic Signature
+        hint: Type your full name as electronic signature
+        type: text
+        options: []
+        required: true
+      - id: 14
+        name: signature_date
+        label: Signature Date
+        hint: Today's date
+        type: date
+        options: []
+        required: true
+      - id: 15
+        name: witness_name
+        label: Witness Name (Optional)
+        hint: Name of witness if required by your department
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: warehouse_inventory_records_release_form
+    pages:
+    - id: 1
+      name: inventory_item
+      label: Inventory Item
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: item_description
+      label: Item Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reason_for_release
+      label: Reason for Release
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: release_time
+      label: Release Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: remarks
+      label: Remarks
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''chatjimmy''}'
+      - '{''id'': 2, ''label'': ''another option''}'
+      required: true
+    - id: 11
+      name: release_person
+      label: Release Person
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''John''}'
+      - '{''id'': 2, ''label'': ''Jane''}'
+      - '{''id'': 3, ''label'': ''Joe''}'
+      required: true

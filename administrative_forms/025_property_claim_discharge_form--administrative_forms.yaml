@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Claim Discharge Form
+    pages:
+    - id: 1
+      name: policyholder_name
+      label: Policyholder Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: policyholder_email
+      label: Policyholder Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: policyholder_phone
+      label: Policyholder Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: claim_number
+      label: Claim Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Reopened
+      - Denied
+      - Pending
+      required: false
+    - id: 6
+      name: claim_description
+      label: Claim Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: policyholder_signature
+      label: Policyholder Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: adjuster_signature
+      label: Adjuster Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: insurance_company_signature
+      label: Insurance Company Signature
+      hint: null
+      type: note
+      options: []
+      required: false

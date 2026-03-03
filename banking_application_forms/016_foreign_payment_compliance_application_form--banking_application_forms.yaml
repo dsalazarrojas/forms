@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Foreign Payment Compliance Application Form
+    pages:
+    - id: 1
+      name: foreign_payment_form_1
+      label: Foreign Payment Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: foreign_payment_form_2
+      label: Foreign Payment Information
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 3
+      name: foreign_payment_form_3
+      label: Select Foreign Country
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: foreign_payment_form_4
+      label: foreign payment Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: foreign_payment_form_5
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: foreign_payment_form_6
+      label: foreign Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: foreign_payment_form_7
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: foreign_payment_form_8
+      label: foreign payment Contact
+      hint: null
+      type: number
+      options: []
+      required: false

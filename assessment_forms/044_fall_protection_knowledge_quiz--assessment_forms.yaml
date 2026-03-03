@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fall Protection Knowledge Quiz
+    pages:
+    - id: 1
+      name: fall_protection_knowledge_quiz
+      label: Fall Protection Knowledge
+      hint: null
+      type: select_one
+      options:
+      - Fall Protection
+      - Safety Equipment
+      - Personal Protective Equipment
+      - Fall Prevention
+      - Emergency Procedures
+      - Other
+      required: false
+    - id: 2
+      name: name
+      label: worker_name
+      hint: Enter the name of the worker
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: notes
+      hint: Any additional safety notes
+      type: note
+      options: []
+      required: false

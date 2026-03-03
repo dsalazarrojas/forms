@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare M&A Assessment Form
+    pages:
+    - id: 1
+      name: form_page_1
+      label: Company Overview
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: acquirer_company
+      label: Acquire Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: target_company
+      label: Target Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: deal_status
+      label: Deal Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 5
+      name: deal_type
+      label: Deal Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: deal_size
+      label: Deal Size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: target_location
+      label: Target Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: acquirer_size
+      label: Acquire Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: target_industry
+      label: Target Industry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: target_competition
+      label: Target Competition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: target_regulations
+      label: Target Regulations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: deal_value
+      label: Deal Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: deal_value_scale
+      label: Deal Value Scale
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: deal_value_frequency
+      label: Deal Value Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: deal_value_amount
+      label: Deal Value Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: acquirer_equity
+      label: Acquire Equity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: target_equity
+      label: Target Equity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: deal_value_growth
+      label: Deal Value Growth
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: target_debts
+      label: Target Debts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: target_profit
+      label: Target Profit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: deal_value_margin
+      label: Deal Value Margin
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: acquirer_debts
+      label: Acquire Debts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: target_liabilities
+      label: Target Liabilities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: deal_value_profit
+      label: Deal Value Profit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: target_revenue
+      label: Target Revenue
+      hint: null
+      type: number
+      options: []
+      required: false

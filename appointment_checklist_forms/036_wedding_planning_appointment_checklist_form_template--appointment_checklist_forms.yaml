@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Planning Appointment Checklist Form Template
+    pages:
+    - id: 1
+      name: main_information
+      label: wedding-planning
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: main_appointments
+      label: upcoming-appointments
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Engagement Meeting'', ''value'': ''Engagement Meeting''}'
+      - '{''id'': 2, ''label'': ''Venue Visit'', ''value'': ''Venue Visit''}'
+      - '{''id'': 3, ''label'': ''Cake Tasting'', ''value'': ''Cake Tasting''}'
+      required: true
+    - id: 3
+      name: main_tasks
+      label: tasks-to-complete
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''RSVPs'', ''value'': ''RSVPs''}'
+      - '{''id'': 2, ''label'': ''Invitations'', ''value'': ''Invitations''}'
+      - '{''id'': 3, ''label'': ''Seating'', ''value'': ''Seating''}'
+      required: false
+    - id: 4
+      name: main_checklist
+      label: wedding-checklist
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: main_date
+      label: event-date
+      hint: Date of the wedding event
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: main_time
+      label: start-time
+      hint: Time of the wedding event
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: main_venue
+      label: venue-address
+      hint: Venue address or location
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: main_notes
+      label: additional-notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: main_email
+      label: email-address
+      hint: Couple's email address
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: main_phone
+      label: contact-number
+      hint: Couple's phone number
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: main_photogallery
+      label: photo-gallery
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: main_photocaptions
+      label: photo-captions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: main_captions
+      label: photo-captions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: main_photolink
+      label: photo-link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: main_video
+      label: video-link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: main_rehearsal
+      label: rehearsal
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Rehearsal Dinner'', ''value'': ''Rehearsal Dinner''}'
+      - '{''id'': 2, ''label'': ''Rehearsal Lunch'', ''value'': ''Rehearsal Lunch''}'
+      required: false
+    - id: 17
+      name: main_rehearsal_date
+      label: rehearsal-date
+      hint: Date of the rehearsal
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: main_rehearsal_time
+      label: rehearsal-time
+      hint: Time of the rehearsal
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: main_catering
+      label: catering-services
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Full'', ''value'': ''Full''}'
+      - '{''id'': 2, ''label'': ''Partial'', ''value'': ''Partial''}'
+      - '{''id'': 3, ''label'': False, ''value'': False}'
+      required: false
+    - id: 20
+      name: main_catering_services
+      label: catering-services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: main_catering_amount
+      label: catering-amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: main_catering_need_by
+      label: catering-need-by
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: main_catering_total
+      label: catering-total-amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: main_comments
+      label: additional-comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: main_comments2
+      label: additional-comments2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: main_comments3
+      label: additional-comments3
+      hint: null
+      type: note
+      options: []
+      required: false

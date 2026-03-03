@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Field Data Collection Authorization Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: data_collection
+      label: Data Collection
+      hint: Select all options that apply
+      type: select_multiple
+      options:
+      - Financial information
+      - Personal data
+      - Health information
+      - Other
+      - None
+      required: true
+    - id: 6
+      name: consent
+      label: Consent
+      hint: Select one of the options
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false

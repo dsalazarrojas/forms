@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: knowledge-assessment-on-religious-figures
+    pages:
+    - id: 1
+      name: form_questions
+      label: form-questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: religious_leaders
+      label: religious-leaders
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: form_sections
+      label: form-sections
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: section_one
+      label: section-one
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: question_one
+      label: question-one
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: correct_answer
+      label: correct-answer
+      hint: null
+      type: select_one
+      options:
+      - option-1
+      - option-2
+      required: true
+    - id: 7
+      name: score
+      label: score
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit_button
+      label: submit-button
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Identification Number Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: Enter a valid phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: identification_number
+      label: Identification Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time
+      label: Time of Birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: select_one
+      label: Select One
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 10
+      name: select_multiple
+      label: Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 11
+      name: date_time
+      label: Date Time
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: decimal
+      label: Decimal Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: integer
+      label: Integer Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: select_one_with_hint
+      label: Select One with Hint
+      hint: Select one of the options
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 15
+      name: select_multiple_with_hint
+      label: Select Multiple with Hint
+      hint: Select multiple of the options
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 16
+      name: date_with_hint
+      label: Date with Hint
+      hint: Select a date
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: time_with_hint
+      label: Time with Hint
+      hint: Select a time
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: decimal_with_hint
+      label: Decimal with Hint
+      hint: Enter a decimal number
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: integer_with_hint
+      label: Integer with Hint
+      hint: Enter an integer number
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: note_with_hint
+      label: Note with Hint
+      hint: Enter a note
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: email_with_hint
+      label: Email with Hint
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: phone_with_hint
+      label: Phone with Hint
+      hint: Enter a valid phone number
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: date_time_with_hint
+      label: Date Time with Hint
+      hint: Select a date time
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: select_multiple_with_options
+      label: Select Multiple with Options
+      hint: null
+      type: select_multiple
+      options:
+      - Option 4
+      - Option 5
+      - Option 6
+      required: false
+    - id: 25
+      name: note_with_options
+      label: Note with Options
+      hint: null
+      type: note
+      options: []
+      required: false

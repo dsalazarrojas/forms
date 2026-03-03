@@ -1,0 +1,214 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community Center Safety Inspection Form
+    pages:
+      - id: 1
+        name: inspection_date
+        label: Inspection Date
+        hint: Date of safety inspection
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: inspector_name
+        label: Inspector Name
+        hint: Full name of inspector
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: inspector_title
+        label: Inspector Title
+        hint: Job title or position
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: facility_area
+        label: Facility Area Inspected
+        hint: Which area is being inspected?
+        type: select_one
+        options:
+          - Main Hall
+          - Gymnasium
+          - Kitchen
+          - Restrooms
+          - Outdoor Areas
+          - Parking Lot
+          - Entire Facility
+        required: true
+      - id: 5
+        name: fire_extinguisher_status
+        label: Fire Extinguisher Status
+        hint: Are fire extinguishers present and inspected?
+        type: select_one
+        options:
+          - Compliant
+          - Non-compliant
+          - Not Applicable
+        required: true
+      - id: 6
+        name: fire_extinguisher_notes
+        label: Fire Extinguisher Notes
+        hint: Details about any issues found
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: emergency_exits_status
+        label: Emergency Exits Status
+        hint: Are emergency exits clear and accessible?
+        type: select_one
+        options:
+          - Compliant
+          - Non-compliant
+          - Not Applicable
+        required: true
+      - id: 8
+        name: emergency_exits_notes
+        label: Emergency Exits Notes
+        hint: Details about any issues found
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: first_aid_kit_status
+        label: First Aid Kit Status
+        hint: Are first aid kits stocked and accessible?
+        type: select_one
+        options:
+          - Compliant
+          - Non-compliant
+          - Not Applicable
+        required: true
+      - id: 10
+        name: first_aid_kit_notes
+        label: First Aid Kit Notes
+        hint: Details about any issues found
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: electrical_safety_status
+        label: Electrical Safety Status
+        hint: Are electrical systems in good condition?
+        type: select_one
+        options:
+          - Compliant
+          - Non-compliant
+          - Not Applicable
+        required: true
+      - id: 12
+        name: electrical_safety_notes
+        label: Electrical Safety Notes
+        hint: Details about any issues found
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: plumbing_status
+        label: Plumbing Status
+        hint: Are plumbing fixtures functioning properly?
+        type: select_one
+        options:
+          - Compliant
+          - Non-compliant
+          - Not Applicable
+        required: true
+      - id: 14
+        name: plumbing_notes
+        label: Plumbing Notes
+        hint: Details about any issues found
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: structural_integrity_status
+        label: Structural Integrity Status
+        hint: Are floors, walls, ceilings in good condition?
+        type: select_one
+        options:
+          - Compliant
+          - Non-compliant
+          - Not Applicable
+        required: true
+      - id: 16
+        name: structural_notes
+        label: Structural Notes
+        hint: Details about any issues found
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: accessibility_compliance
+        label: Accessibility Compliance
+        hint: Is the facility ADA compliant?
+        type: select_one
+        options:
+          - Compliant
+          - Non-compliant
+          - Partially Compliant
+        required: true
+      - id: 18
+        name: accessibility_notes
+        label: Accessibility Notes
+        hint: Details about accessibility features or issues
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: overall_assessment
+        label: Overall Safety Assessment
+        hint: Overall rating of facility safety
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - Critical Issues Found
+        required: true
+      - id: 20
+        name: corrective_actions
+        label: Corrective Actions Required
+        hint: List any actions needed to address issues
+        type: text
+        options: []
+        required: true
+      - id: 21
+        name: priority_level
+        label: Priority Level
+        hint: Urgency of required actions
+        type: select_one
+        options:
+          - Immediate
+          - High
+          - Medium
+          - Low
+        required: true
+      - id: 22
+        name: follow_up_date
+        label: Follow-up Inspection Date
+        hint: When should follow-up occur?
+        type: date
+        options: []
+        required: false
+      - id: 23
+        name: inspector_signature
+        label: Inspector Signature
+        hint: Type your full name as signature
+        type: text
+        options: []
+        required: true

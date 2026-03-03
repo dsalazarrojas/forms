@@ -1,0 +1,239 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cloud System Knowledge Assessment
+    pages:
+    - id: 1
+      name: candidate_name
+      label: Candidate or Employee Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: candidate_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: assessment_date
+      label: Assessment Date
+      hint: Date taking this assessment
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: section_background
+      label: -- Background and Experience --
+      hint: Your experience level
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: years_experience
+      label: Years of IT Experience
+      hint: Total years in IT field
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: cloud_experience
+      label: Years of Cloud Experience
+      hint: Years working with cloud platforms
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: current_role
+      label: Current Role or Position
+      hint: Your current job title
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_knowledge
+      label: -- Cloud Knowledge Assessment --
+      hint: Rate your knowledge in these areas
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: aws_knowledge
+      label: Amazon Web Services (AWS) Knowledge
+      hint: null
+      type: select_one
+      options:
+      - Expert
+      - Advanced
+      - Intermediate
+      - Beginner
+      - No knowledge
+      required: true
+    - id: 10
+      name: azure_knowledge
+      label: Microsoft Azure Knowledge
+      hint: null
+      type: select_one
+      options:
+      - Expert
+      - Advanced
+      - Intermediate
+      - Beginner
+      - No knowledge
+      required: true
+    - id: 11
+      name: gcp_knowledge
+      label: Google Cloud Platform (GCP) Knowledge
+      hint: null
+      type: select_one
+      options:
+      - Expert
+      - Advanced
+      - Intermediate
+      - Beginner
+      - No knowledge
+      required: true
+    - id: 12
+      name: virtualization_knowledge
+      label: Virtualization (VMware, Hyper-V) Knowledge
+      hint: null
+      type: select_one
+      options:
+      - Expert
+      - Advanced
+      - Intermediate
+      - Beginner
+      - No knowledge
+      required: true
+    - id: 13
+      name: container_knowledge
+      label: Container Technology (Docker, Kubernetes) Knowledge
+      hint: null
+      type: select_one
+      options:
+      - Expert
+      - Advanced
+      - Intermediate
+      - Beginner
+      - No knowledge
+      required: true
+    - id: 14
+      name: section_skills
+      label: -- Technical Skills --
+      hint: Your technical capabilities
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: scripting_knowledge
+      label: Scripting Languages (PowerShell, Bash)
+      hint: null
+      type: select_one
+      options:
+      - Expert
+      - Advanced
+      - Intermediate
+      - Beginner
+      - No knowledge
+      required: true
+    - id: 16
+      name: infrastructure_as_code
+      label: Infrastructure as Code (Terraform, CloudFormation)
+      hint: null
+      type: select_one
+      options:
+      - Expert
+      - Advanced
+      - Intermediate
+      - Beginner
+      - No knowledge
+      required: true
+    - id: 17
+      name: cicd_knowledge
+      label: CI/CD Pipelines (Jenkins, GitLab)
+      hint: null
+      type: select_one
+      options:
+      - Expert
+      - Advanced
+      - Intermediate
+      - Beginner
+      - No knowledge
+      required: true
+    - id: 18
+      name: security_knowledge
+      label: Cloud Security Knowledge
+      hint: null
+      type: select_one
+      options:
+      - Expert
+      - Advanced
+      - Intermediate
+      - Beginner
+      - No knowledge
+      required: true
+    - id: 19
+      name: networking_knowledge
+      label: Cloud Networking Knowledge
+      hint: null
+      type: select_one
+      options:
+      - Expert
+      - Advanced
+      - Intermediate
+      - Beginner
+      - No knowledge
+      required: true
+    - id: 20
+      name: section_certifications
+      label: -- Certifications and Training --
+      hint: Your credentials
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: cloud_certifications
+      label: Cloud Certifications Held
+      hint: null
+      type: select_multiple
+      options:
+      - AWS Certified Solutions Architect
+      - AWS Certified DevOps Engineer
+      - Azure Administrator
+      - Azure Solutions Architect
+      - GCP Associate Cloud Engineer
+      - GCP Professional Cloud Architect
+      - Kubernetes Certified Application Developer
+      - Other
+      - None
+      required: false
+    - id: 22
+      name: recent_training
+      label: Recent Cloud Training Completed
+      hint: Courses or training in past year
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: section_goals
+      label: -- Professional Goals --
+      hint: Your development objectives
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: development_goals
+      label: Areas You Want to Develop
+      hint: Skills you want to improve
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments or Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

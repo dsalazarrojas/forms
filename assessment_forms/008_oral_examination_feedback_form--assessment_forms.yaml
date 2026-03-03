@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Oral Exammation Feedback Form
+    pages:
+    - id: 1
+      name: oral_exam
+      label: Feedback Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: examiner
+      label: Examiner
+      hint: Who gave the oral examination?
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: examiner_title
+      label: Examiner Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: examiner_department
+      label: Examiner Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: candidate
+      label: Candidate
+      hint: Enter candidate name or ID number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: candidate_date
+      label: Date of Examination
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: candidate_time
+      label: Time of Examination
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: examiner_score
+      label: Examiner Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: examiner_score_range
+      label: Score Range
+      hint: null
+      type: select_one
+      options:
+      - 0-100
+      - Other
+      required: true
+    - id: 10
+      name: examiner_comment
+      label: Examiner Comment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: oral_exam_type
+      label: Oral Exam Type
+      hint: null
+      type: select_one
+      options:
+      - Internal
+      - External
+      required: true
+    - id: 13
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: evaluation_time
+      label: Evaluation Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: evaluation_location
+      label: Evaluation Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: oral_exam_notes
+      label: Oral Examination Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: evaluation_status
+      label: Evaluation Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In progress
+      required: true
+    - id: 18
+      name: assessment_comments
+      label: Assessment Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: submission_id
+      label: Submission ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: created_date
+      label: Created Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: modified_by
+      label: Modified By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: modified_date
+      label: Modified Date
+      hint: null
+      type: date
+      options: []
+      required: true

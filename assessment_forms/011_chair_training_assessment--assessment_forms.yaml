@@ -1,0 +1,92 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Chair Training Assessment
+    pages:
+      - id: 1
+        name: section_intro
+        label: -- Chair Training Assessment --
+        hint: Evaluate training outcomes and user confidence after chair safety sessions
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: trainee_name
+        label: trainee name
+        hint: full name of person assessed
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: department
+        label: department
+        hint: work unit or team
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: assessment_date
+        label: assessment date
+        hint: date of assessment
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: competence_rating
+        label: competence rating
+        hint: overall readiness after training
+        type: select_one
+        options:
+          - Not competent
+          - Partially competent
+          - Competent
+        required: true
+      - id: 6
+        name: comfort_level
+        label: comfort level
+        hint: self reported comfort using the chair safely
+        type: select_one
+        options:
+          - Uncomfortable
+          - Somewhat comfortable
+          - Comfortable
+        required: true
+      - id: 7
+        name: observed_issues
+        label: observed issues
+        hint: notes from trainer about concerns or follow up
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: corrective_actions
+        label: corrective actions recommended
+        hint: steps to improve competency
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: trainer_name
+        label: trainer name
+        hint: assessor or instructor name
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: assessment_signature
+        label: assessment signature
+        hint: typed name confirms assessment is accurate
+        type: text
+        options: []
+        required: true

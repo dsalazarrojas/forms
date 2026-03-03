@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Annual Performance Report
+    pages:
+    - id: 1
+      name: athlete_name
+      label: Athlete Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: athlete_id
+      label: Athlete ID Number
+      hint: Student or team identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reporting_period
+      label: Reporting Period
+      hint: Which season or year is this report for
+      type: select_one
+      options:
+      - Fall Season
+      - Winter Season
+      - Spring Season
+      - Full Year
+      required: true
+    - id: 4
+      name: year
+      label: Year
+      hint: Calendar year for this report
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: sport
+      label: Sport
+      hint: Primary sport for this evaluation
+      type: select_one
+      options:
+      - Football
+      - Basketball
+      - Soccer
+      - Track and Field
+      - Swimming
+      - Volleyball
+      - Baseball
+      - Softball
+      - Tennis
+      - Golf
+      - Other
+      required: true
+    - id: 6
+      name: position
+      label: Primary Position
+      hint: Main position played
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: games_played
+      label: Total Games Played
+      hint: Number of games the athlete participated in
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: games_started
+      label: Total Games Started
+      hint: Number of games the athlete started
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: overall_rating
+      label: Overall Performance Rating
+      hint: Coach evaluation of overall performance
+      type: select_one
+      options:
+      - Excellent
+      - Above Average
+      - Average
+      - Below Average
+      - Needs Improvement
+      required: true
+    - id: 10
+      name: technical_skills_rating
+      label: Technical Skills Rating
+      hint: Evaluation of sport-specific technical abilities
+      type: select_one
+      options:
+      - Excellent
+      - Above Average
+      - Average
+      - Below Average
+      - Needs Improvement
+      required: true
+    - id: 11
+      name: physical_conditioning_rating
+      label: Physical Conditioning Rating
+      hint: Evaluation of fitness and conditioning
+      type: select_one
+      options:
+      - Excellent
+      - Above Average
+      - Average
+      - Below Average
+      - Needs Improvement
+      required: true
+    - id: 12
+      name: teamwork_rating
+      label: Teamwork Rating
+      hint: Evaluation of collaboration and team play
+      type: select_one
+      options:
+      - Excellent
+      - Above Average
+      - Average
+      - Below Average
+      - Needs Improvement
+      required: true
+    - id: 13
+      name: attendance_rating
+      label: Attendance Rating
+      hint: Evaluation of practice and game attendance
+      type: select_one
+      options:
+      - Excellent
+      - Above Average
+      - Average
+      - Below Average
+      - Needs Improvement
+      required: true
+    - id: 14
+      name: key_strengths
+      label: Key Strengths
+      hint: List the athlete primary strengths
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: List areas that need development
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: goals_next_season
+      label: Goals for Next Season
+      hint: Recommended goals for the athlete
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: coach_name
+      label: Coach Name
+      hint: Name of evaluating coach
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: coach_signature
+      label: Coach Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: evaluation_date
+      label: Evaluation Date
+      hint: Date of this evaluation
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other observations or notes
+      type: text
+      options: []
+      required: false

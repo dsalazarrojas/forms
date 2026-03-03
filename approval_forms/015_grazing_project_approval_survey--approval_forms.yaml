@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Grazing Project Approval Survey
+    pages:
+    - id: 1
+      name: project_location
+      label: Project Location
+      hint: Enter the location of the grazing project.
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: project_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: project_duration
+      label: Project Duration
+      hint: Select the project duration in days.
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: project_livestock
+      label: Livestock
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''cattle''}'
+      - '{''value'': ''sheep''}'
+      - '{''value'': ''goats''}'
+      - '{''value'': ''horses''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 6
+      name: project_location_details
+      label: Location Details
+      hint: Enter any additional location details.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: environmental_measures
+      label: Environmental Measures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_reviewers
+      label: Reviewers
+      hint: Enter the names of the reviewers.
+      type: select_multiple
+      options:
+      - '{''value'': ''land_manager''}'
+      - '{''value'': ''agency''}'
+      - '{''value'': ''ag_organization''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 9
+      name: project_notes
+      label: Project Notes
+      hint: null
+      type: note
+      options: []
+      required: false

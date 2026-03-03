@@ -1,0 +1,266 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boat Appraisal Form
+    pages:
+    - id: 1
+      name: owner_name
+      label: Owner Name
+      hint: Full name of boat owner
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: owner_email
+      label: Owner Email
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: owner_phone
+      label: Owner Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: boat_make
+      label: Boat Make
+      hint: Manufacturer name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: boat_model
+      label: Boat Model
+      hint: Model name or number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: boat_year
+      label: Boat Year
+      hint: Year of manufacture
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: boat_length
+      label: Boat Length
+      hint: Length in feet
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: boat_type
+      label: Boat Type
+      hint: Select boat category
+      type: select_one
+      options:
+      - Bowrider
+      - Cabin Cruiser
+      - Center Console
+      - Deck Boat
+      - Fishing Boat
+      - Pontoon
+      - Sailboat
+      - Ski Boat
+      - Wakeboard Boat
+      - Yacht
+      - Other
+      required: true
+    - id: 9
+      name: hull_material
+      label: Hull Material
+      hint: Primary hull material
+      type: select_one
+      options:
+      - Fiberglass
+      - Aluminum
+      - Steel
+      - Wood
+      - Carbon Fiber
+      - Other
+      required: true
+    - id: 10
+      name: engine_type
+      label: Engine Type
+      hint: Type of propulsion
+      type: select_one
+      options:
+      - Outboard
+      - Inboard
+      - Sterndrive (I/O)
+      - Jet Drive
+      - Sail
+      - Electric
+      required: true
+    - id: 11
+      name: engine_hours
+      label: Engine Hours
+      hint: Total hours on engine
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: fuel_type
+      label: Fuel Type
+      hint: Type of fuel used
+      type: select_one
+      options:
+      - Gasoline
+      - Diesel
+      - Electric
+      - Hybrid
+      required: true
+    - id: 13
+      name: overall_condition
+      label: Overall Condition
+      hint: Rate the boat's condition
+      type: select_one
+      options:
+      - Excellent - Like new
+      - Very Good - Minor wear
+      - Good - Normal wear
+      - Fair - Noticeable wear
+      - Poor - Significant wear
+      required: true
+    - id: 14
+      name: hull_condition
+      label: Hull Condition
+      hint: Condition of the hull
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 15
+      name: engine_condition
+      label: Engine Condition
+      hint: Condition of the engine
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 16
+      name: interior_condition
+      label: Interior Condition
+      hint: Condition of interior/cabin
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 17
+      name: exterior_condition
+      label: Exterior Condition
+      hint: Condition of exterior surfaces
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 18
+      name: electronics_condition
+      label: Electronics Condition
+      hint: Condition of navigation electronics
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - Not Applicable
+      required: false
+    - id: 19
+      name: known_defects
+      label: Known Defects
+      hint: List any known issues
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: recent_upgrades
+      label: Recent Upgrades or Repairs
+      hint: List recent improvements
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: included_equipment
+      label: Included Equipment
+      hint: What comes with the boat?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: trailer_included
+      label: Trailer Included
+      hint: Is a trailer included?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: trailer_condition
+      label: Trailer Condition
+      hint: If applicable
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - Not Applicable
+      required: false
+    - id: 24
+      name: appraisal_purpose
+      label: Appraisal Purpose
+      hint: Why is this appraisal needed?
+      type: select_one
+      options:
+      - Sale/Purchase
+      - Insurance
+      - Financing
+      - Estate Planning
+      - Tax Assessment
+      - Other
+      required: true
+    - id: 25
+      name: estimated_value
+      label: Estimated Appraised Value
+      hint: Appraiser to complete
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: appraiser_name
+      label: Appraiser Name
+      hint: Certified appraiser name
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: appraisal_date
+      label: Appraisal Date
+      hint: Date of appraisal
+      type: date
+      options: []
+      required: false

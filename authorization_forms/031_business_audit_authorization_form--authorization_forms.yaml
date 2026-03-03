@@ -1,0 +1,264 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Audit Authorization Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: Business being audited
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Legal name of business
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_address
+      label: Business Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: business_phone
+      label: Business Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_email
+      label: Business Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: tax_id
+      label: Tax ID or EIN
+      hint: Federal tax identification number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: authorized_representative
+      label: Authorized Representative
+      hint: Person authorizing the audit
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: representative_name
+      label: Representative Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: representative_title
+      label: Representative Title
+      hint: Position or title
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: representative_email
+      label: Representative Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: representative_phone
+      label: Representative Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: audit_info
+      label: Audit Information
+      hint: Details about the audit
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: audit_type
+      label: Audit Type
+      hint: Type of audit to be conducted
+      type: select_one
+      options:
+      - Financial Audit
+      - Compliance Audit
+      - Operational Audit
+      - IT Audit
+      - Tax Audit
+      - Internal Audit
+      - External Audit
+      - Other
+      required: true
+    - id: 14
+      name: audit_period
+      label: Audit Period
+      hint: Time period to be audited
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: audit_start_date
+      label: Audit Start Date
+      hint: When will audit begin
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: estimated_completion
+      label: Estimated Completion Date
+      hint: When is audit expected to end
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: auditor_info
+      label: Auditor Information
+      hint: Who will conduct the audit
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: auditor_firm
+      label: Auditor Firm Name
+      hint: Name of auditing firm
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: lead_auditor
+      label: Lead Auditor Name
+      hint: Primary auditor contact
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: auditor_email
+      label: Auditor Email
+      hint: Auditor contact email
+      type: email
+      options: []
+      required: true
+    - id: 21
+      name: authorization_scope
+      label: Authorization Scope
+      hint: What is being authorized
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: records_access
+      label: Records Access Authorized
+      hint: Grant access to business records
+      type: select_one
+      options:
+      - Yes - Full Access
+      - Yes - Limited Access
+      - false
+      required: true
+    - id: 23
+      name: accessible_records
+      label: Accessible Records
+      hint: Which records can be accessed
+      type: select_multiple
+      options:
+      - Financial Statements
+      - Tax Returns
+      - Bank Statements
+      - Payroll Records
+      - Contracts
+      - Invoices
+      - Employee Records
+      - IT Systems
+      - Inventory Records
+      - Other
+      required: true
+    - id: 24
+      name: employee_interviews
+      label: Employee Interviews Authorized
+      hint: Can auditors interview employees
+      type: select_one
+      options:
+      - Yes - All Employees
+      - Yes - Selected Employees
+      - false
+      required: true
+    - id: 25
+      name: site_access
+      label: Site Access Authorized
+      hint: Can auditors access facilities
+      type: select_one
+      options:
+      - Yes - Full Access
+      - Yes - Limited Access
+      - false
+      required: true
+    - id: 26
+      name: confidentiality
+      label: Confidentiality Agreement
+      hint: Auditor must maintain confidentiality
+      type: select_one
+      options:
+      - Yes - Required
+      - false
+      required: true
+    - id: 27
+      name: authorization_period
+      label: Authorization Valid Period
+      hint: How long is this authorization valid
+      type: select_one
+      options:
+      - Until Audit Completion
+      - 30 Days
+      - 60 Days
+      - 90 Days
+      - 6 Months
+      - 1 Year
+      required: true
+    - id: 28
+      name: special_conditions
+      label: Special Conditions or Restrictions
+      hint: Any limitations on authorization
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: signature
+      label: Authorized Signature
+      hint: Name of person signing
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true
+    - id: 31
+      name: witness_name
+      label: Witness Name
+      hint: Witness to signature
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: witness_signature_date
+      label: Witness Signature Date
+      hint: Date witnessed
+      type: date
+      options: []
+      required: false

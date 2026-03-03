@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Declaration Of Presence Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_date
+      label: Form Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: form_time
+      label: Form Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: attendees
+      label: Attendees
+      hint: List all attendees
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: false
+    - id: 6
+      name: attendee_email
+      label: Attendee's Email
+      hint: Enter the attendee's email
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: attendee_phone
+      label: Attendee's Phone
+      hint: Enter the attendee's phone number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: venue_address
+      label: Venue Address
+      hint: Enter the venue's address
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: Add any notes about the form
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit_button
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Proceed
+      - Cancel
+      required: false

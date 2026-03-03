@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: partnership_agreement_release_form
+    pages:
+    - id: 1
+      name: partnership_agreement
+      label: partnership_agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: partner_names
+      label: partner_names
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: termination_date
+      label: termination_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: termination_reason
+      label: termination_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: notice_period
+      label: notice_period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: notice_period_units
+      label: notice_period_units
+      hint: null
+      type: select_one
+      options:
+      - week
+      - month
+      - year
+      required: false
+    - id: 7
+      name: agreement_details
+      label: agreement_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: sign_date
+      label: sign_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: sign_time
+      label: sign_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: signature_date
+      label: signature_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: signature_time
+      label: signature_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: agreement_status
+      label: agreement_status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      - cancelled
+      required: true
+    - id: 13
+      name: agreement_type
+      label: agreement_type
+      hint: null
+      type: select_one
+      options:
+      - partnership
+      - non_partnership
+      required: false
+    - id: 14
+      name: termination_type
+      label: termination_type
+      hint: null
+      type: select_one
+      options:
+      - mutual
+      - unilateral
+      required: false
+    - id: 15
+      name: notice_period_days
+      label: notice_period_days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: notice_period_units
+      label: notice_period_units
+      hint: null
+      type: select_one
+      options:
+      - week
+      - month
+      - year
+      required: false
+    - id: 17
+      name: notice_period_custom
+      label: notice_period_custom
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: exit_proceedings
+      label: exit_proceedings
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: exit_proceedings_date
+      label: exit_proceedings_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: exit_proceedings_time
+      label: exit_proceedings_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: termination_fees
+      label: termination_fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: termination_fees_currency
+      label: termination_fees_currency
+      hint: null
+      type: select_one
+      options:
+      - usd
+      - eur
+      - gbp
+      required: false
+    - id: 23
+      name: termination_fees_amount
+      label: termination_fees_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: termination_fees_description
+      label: termination_fees_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: terms_and_conditions
+      label: terms_and_conditions
+      hint: null
+      type: text
+      options: []
+      required: false

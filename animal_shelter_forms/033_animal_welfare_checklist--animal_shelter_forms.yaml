@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Welfare Checklist
+    pages:
+    - id: 1
+      name: inspection_reference_id
+      label: Inspection Reference ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: animal_id_name
+      label: Animal Name or ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: facility_name_inspected
+      label: Shelter or Facility Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: clean_water_access
+      label: Access to Clean Drinking Water
+      hint: null
+      type: select_one
+      options:
+      - Yes - Readily available
+      - No - Not available
+      - Needs Improvement - Water is dirty
+      required: true
+    - id: 5
+      name: food_nutritional_status
+      label: Nutritional Adequacy of Food
+      hint: null
+      type: select_one
+      options:
+      - Yes - Appropriate diet
+      - No - Inadequate or spoiled
+      - Needs Improvement - Low quality
+      required: true
+    - id: 6
+      name: area_cleanliness_rating
+      label: Cleanliness of Living Area
+      hint: Presence of waste or debris
+      type: select_one
+      options:
+      - Clean - Exceptionally well kept
+      - Satisfactory - Acceptable
+      - Dirty - Needs immediate cleaning
+      - Dangerous - Hazardous conditions
+      required: true
+    - id: 7
+      name: movement_space_adequacy
+      label: Space for Natural Movement
+      hint: Ability to stand, turn, and lie down
+      type: select_one
+      options:
+      - Sufficient Space
+      - Restricted Space
+      - Insufficient Space
+      required: true
+    - id: 8
+      name: vet_care_records_status
+      label: Veterinary Care Records Current
+      hint: null
+      type: select_one
+      options:
+      - Yes - All records up to date
+      - No - Records are missing
+      - Partial - Some records available
+      required: true
+    - id: 9
+      name: physical_injury_notes
+      label: Observed Signs of Physical Injury or Disease
+      hint: Describe any visible health issues
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: behavioral_observation_mode
+      label: Behavioral Observation
+      hint: null
+      type: select_one
+      options:
+      - Calm and Social
+      - Anxious or Fearful
+      - Aggressive or Reactive
+      - Depressed or Lethargic
+      required: true
+    - id: 11
+      name: overall_welfare_score
+      label: Overall Welfare Score - Scale of 1 to 10
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: improvement_recommendations_summary
+      label: Recommendations for Improvement
+      hint: Specific actions required to meet standards
+      type: text
+      options: []
+      required: false

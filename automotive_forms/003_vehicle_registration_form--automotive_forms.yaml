@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: vehicle_registration_form
+    pages:
+    - id: 1
+      name: vehicle_owner
+      label: Vehicle Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_license_number
+      label: Vehicle License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_year_of_manufacture
+      label: Vehicle Year Of Manufacture
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_year_of_registration
+      label: Vehicle Year Of Registration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_registration_type
+      label: Vehicle Registration Type
+      hint: null
+      type: select_one
+      options:
+      - Registration
+      - Re-registration
+      - Renewal
+      required: false
+    - id: 7
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_color
+      label: Vehicle Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_year_of_purchase
+      label: Vehicle Year Of Purchase
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_purchase_date
+      label: Vehicle Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_registration_status
+      label: Vehicle Registration Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Suspended
+      - Cancelled
+      required: false
+    - id: 12
+      name: vehicle_last_registration_date
+      label: Vehicle Last Registration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_registration_fee
+      label: Vehicle Registration Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: vehicle_registration_fee_currency
+      label: Vehicle Registration Fee Currency
+      hint: null
+      type: select_one
+      options:
+      - reported
+      - USD
+      - GBP
+      - CAD
+      required: false

@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Banking Update Consent Form
+    pages:
+    - id: 1
+      name: vendor_details
+      label: Vendor Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent
+      label: Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: banking_update
+      label: Banking Update
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: bank_name
+      label: Bank Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: prophets
+      label: Prophets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: banking_update_date
+      label: Banking Update Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: update_frequency
+      label: Update Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 8, ''label'': ''Daily''}'
+      - '{''id'': 9, ''label'': ''Weekly''}'
+      - '{''id'': 10, ''label'': ''Monthly''}'
+      required: false
+    - id: 8
+      name: bank_branch
+      label: Bank Branch
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 12, ''label'': ''Branch 1''}'
+      - '{''id'': 13, ''label'': ''Branch 2''}'
+      - '{''id'': 14, ''label'': ''Branch 3''}'
+      required: false
+    - id: 9
+      name: account_number
+      label: Account Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: routing_number
+      label: Routing Number
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 17, ''label'': ''Select One''}'
+      - '{''id'': 18, ''label'': ''Select Two''}'
+      - '{''id'': 19, ''label'': ''Select Three''}'
+      required: false
+    - id: 11
+      name: bank_address
+      label: Bank Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: fax
+      label: Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: confirm_prophets
+      label: Confirm Prophets
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Equipment Assessment Form
+    pages:
+    - id: 1
+      name: assessment_basics_header
+      label: -- Assessment Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: assessor_name
+      label: Assessor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: assessment_date
+      label: Date of Assessment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: site_location
+      label: Site/Kitchen Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: equipment_info_header
+      label: -- Equipment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: equipment_id_code
+      label: Equipment Asset ID
+      hint: From internal inventory system
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: equipment_type
+      label: Equipment Category
+      hint: null
+      type: select_one
+      options:
+      - Oven/Range
+      - Refrigerator/Chiller
+      - Deep Fryer
+      - Dishwasher/Sanitizer
+      - Food Processor/Mixer
+      - Hot Holding Cabinet
+      - Ice Machine
+      required: true
+    - id: 8
+      name: equipment_model_info
+      label: Manufacturer and Model Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_assessment_ratings
+      label: -- Condition Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: cleanliness_rating
+      label: Cleanliness and Sanitation Status
+      hint: null
+      type: select_one
+      options:
+      - 5 - Immaculate
+      - 4 - Clean
+      - 3 - Satisfactory
+      - 2 - Requires Deep Cleaning
+      - 1 - Critical Sanitation Risk
+      required: true
+    - id: 11
+      name: physical_condition_rating
+      label: Physical and Functional Condition
+      hint: null
+      type: select_one
+      options:
+      - Like New
+      - Good - Normal Wear
+      - Fair - Functional with Issues
+      - Poor - Requires Repair
+      - Out of Order
+      required: true
+    - id: 12
+      name: safety_check_passed
+      label: Safety Compliance (Wiring, Seals, Valves)
+      hint: null
+      type: select_one
+      options:
+      - Passed
+      - Failed
+      - N/A
+      required: true
+    - id: 13
+      name: maintenance_actions_required
+      label: Describe any necessary maintenance or repairs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_follow_up
+      label: -- Follow-up Actions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: priority_level_action
+      label: Action Priority
+      hint: null
+      type: select_one
+      options:
+      - Immediate - Safety Hazard
+      - High - Affects Food Quality
+      - Medium - Routine Repair
+      - Low - Aesthetic Only
+      required: true
+    - id: 16
+      name: estimated_cost_repair
+      label: Estimated Repair Cost
+      hint: If known
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: next_assessment_date
+      label: Recommended Date for Next Assessment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: assessor_e_signature
+      label: Assessor Digital Signature
+      hint: null
+      type: text
+      options: []
+      required: true

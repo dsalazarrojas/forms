@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Address Change Declaration Form
+    pages:
+    - id: 1
+      name: declaration_header
+      label: -- Address Change Declaration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: declarant_full_name
+      label: Full Name
+      hint: Enter your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: declarant_id
+      label: Identification Number
+      hint: Government issued ID number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: current_address
+      label: Current Address
+      hint: Your current address before the change
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: current_city
+      label: Current City
+      hint: City of your current address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: current_state
+      label: Current State/Province
+      hint: State or province of your current address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: current_zip_code
+      label: Current ZIP/Postal Code
+      hint: Postal code of your current address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: new_address
+      label: New Address
+      hint: Your new address after the change
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: new_city
+      label: New City
+      hint: City of your new address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: new_state
+      label: New State/Province
+      hint: State or province of your new address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: new_zip_code
+      label: New ZIP/Postal Code
+      hint: Postal code of your new address
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: country
+      label: Country
+      hint: Country of your new address
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: move_date
+      label: Date of Move
+      hint: When did or will you move to the new address?
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: reason_for_move
+      label: Reason for Moving
+      hint: Why are you changing your address?
+      type: select_one
+      options:
+      - New job
+      - New home purchase
+      - Rental property
+      - Family reasons
+      - Education
+      - Retirement
+      - Other
+      required: true
+    - id: 15
+      name: contact_phone
+      label: Phone Number
+      hint: Current phone number for contact
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_email
+      label: Email Address
+      hint: Current email for notifications
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: previous_residence_duration
+      label: Duration at Previous Address
+      hint: How long have you lived at your previous address?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: forwarding_service
+      label: Mail Forwarding Service
+      hint: Will you use a mail forwarding service?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Already arranged
+      required: false
+    - id: 19
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: Name of emergency contact person
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number of emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: declaration_date
+      label: Declaration Date
+      hint: Date of submitting this declaration
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: declarant_signature
+      label: Declarant Signature
+      hint: Electronic signature to confirm address change
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: witness_signature
+      label: Witness Signature (Optional)
+      hint: Signature of witness if applicable
+      type: text
+      options: []
+      required: false

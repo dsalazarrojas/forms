@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: procurement_request_communication_form
+    pages:
+    - id: 1
+      name: request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: procurement_type
+      label: Procurement Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Goods''}'
+      - '{''label'': ''Service''}'
+      required: false
+    - id: 3
+      name: procurement_value
+      label: Procurement Value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: procurement_status
+      label: Procurement Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Draft''}'
+      - '{''label'': ''Approved''}'
+      required: false
+    - id: 5
+      name: procurement_category
+      label: Procurement Category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''IT''}'
+      - '{''label'': ''Office Supplies''}'
+      - '{''label'': ''Furniture''}'
+      required: false
+    - id: 6
+      name: procurement_requester
+      label: Procurement Requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: procurement_contact
+      label: Procurement Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: procurement_email
+      label: Procurement Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: procurement_phone
+      label: Procurement Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

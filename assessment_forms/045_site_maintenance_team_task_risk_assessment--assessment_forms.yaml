@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: site-maintenance-team-task-risk-assessment
+    pages:
+    - id: 1
+      name: site_maintenance_team_task_form
+      label: Site Maintenance Team Task Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: task_risk_assessment
+      label: Task Risk Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: task_type
+      label: Task Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: task_duration
+      label: Task Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: risk_category
+      label: Risk Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: assigned_team
+      label: Assigned Team
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: risk_description
+      label: Risk Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 11
+      name: task_status
+      label: Task Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: task_priority
+      label: Task Priority
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: task_responsible
+      label: Task Responsible
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: comments_internal
+      label: Comments Internal
+      hint: null
+      type: text
+      options: []
+      required: false

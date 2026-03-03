@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Braiding Service Registration Form
+    pages:
+    - id: 1
+      name: section_header_client
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For appointment confirmations
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Primary contact
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_header_appointment
+      label: -- Appointment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: preferred_date
+      label: Preferred Appointment Date
+      hint: When would you like service
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: preferred_time
+      label: Preferred Time
+      hint: What time works best
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: estimated_duration
+      label: Estimated Duration
+      hint: How long will appointment take
+      type: select_one
+      options:
+      - 1-2 hours
+      - 2-3 hours
+      - 3-4 hours
+      - 4-5 hours
+      - 5+ hours
+      - Unsure
+      required: true
+    - id: 9
+      name: section_header_hair
+      label: -- Hair Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: hair_type
+      label: Hair Type
+      hint: Texture and classification
+      type: select_one
+      options:
+      - Straight
+      - Wavy
+      - Curly
+      - Coily
+      - Kinky
+      - Textured
+      - Mixed texture
+      required: true
+    - id: 11
+      name: hair_length
+      label: Hair Length
+      hint: Approximate length
+      type: select_one
+      options:
+      - Short (shoulder length or less)
+      - Medium (shoulder to mid-back)
+      - Long (mid-back and below)
+      - Very long (past hips)
+      required: true
+    - id: 12
+      name: hair_condition
+      label: Current Hair Condition
+      hint: Health and state of hair
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Needs treatment
+      - Heavily damaged
+      required: false
+    - id: 13
+      name: section_header_style
+      label: -- Braiding Style Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: braiding_style
+      label: Preferred Braiding Style
+      hint: What style do you want
+      type: select_one
+      options:
+      - Box braids
+      - Cornrows
+      - Twist braids
+      - Faux locs
+      - Kilo braids
+      - Tribal braids
+      - Lemonade braids
+      - Other
+      required: true
+    - id: 15
+      name: style_variation
+      label: Style Variation
+      hint: Specific detail or variation
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_header_color
+      label: -- Color and Accessories --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: color_preference
+      label: Color Preference
+      hint: Natural or with added hair color
+      type: select_one
+      options:
+      - Natural color
+      - Single color
+      - Two-tone
+      - Ombre effect
+      - Multi-color
+      - Blonde
+      - Red tones
+      - Undecided
+      required: false
+    - id: 18
+      name: accessories
+      label: Accessories Desired
+      hint: Select any accessories
+      type: select_multiple
+      options:
+      - None
+      - Beads
+      - Cuffs
+      - Ribbons
+      - Shells
+      - Hair rings
+      - Custom charms
+      required: false
+    - id: 19
+      name: section_header_experience
+      label: -- Previous Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: braiding_experience
+      label: Previous Braiding Experience
+      hint: Ever had braids before
+      type: select_one
+      options:
+      - First time
+      - 1-2 times
+      - Regular
+      - Frequent
+      - Lifestyle
+      required: false
+    - id: 21
+      name: special_requests
+      label: Special Requests or Notes
+      hint: Any additional information
+      type: text
+      options: []
+      required: false

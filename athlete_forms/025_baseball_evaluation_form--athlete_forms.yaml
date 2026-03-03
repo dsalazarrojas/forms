@@ -1,0 +1,327 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baseball Evaluation Form
+    pages:
+    - id: 1
+      name: player_name
+      label: Player Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: team_name
+      label: Team Name
+      hint: Team or organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: evaluation_date
+      label: Evaluation Date
+      hint: Date of evaluation
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: evaluator_name
+      label: Evaluator Name
+      hint: Coach or scout name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: player_age
+      label: Player Age
+      hint: Current age
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: division
+      label: Division or Level
+      hint: Competition level
+      type: select_one
+      options:
+      - Youth recreational
+      - Youth competitive
+      - High school
+      - College
+      - Professional
+      - Amateur adult
+      required: true
+    - id: 7
+      name: primary_position
+      label: Primary Position
+      hint: Main position played
+      type: select_one
+      options:
+      - Pitcher
+      - Catcher
+      - First base
+      - Second base
+      - Third base
+      - Shortstop
+      - Left field
+      - Center field
+      - Right field
+      - Designated hitter
+      required: true
+    - id: 8
+      name: secondary_positions
+      label: Secondary Positions
+      hint: Other positions can play
+      type: select_multiple
+      options:
+      - Pitcher
+      - Catcher
+      - First base
+      - Second base
+      - Third base
+      - Shortstop
+      - Left field
+      - Center field
+      - Right field
+      required: false
+    - id: 9
+      name: bats
+      label: Bats
+      hint: Which hand
+      type: select_one
+      options:
+      - Right
+      - Left
+      - Switch
+      required: true
+    - id: 10
+      name: throws
+      label: Throws
+      hint: Which hand
+      type: select_one
+      options:
+      - Right
+      - Left
+      required: true
+    - id: 11
+      name: hitting_ability
+      label: Hitting Ability
+      hint: Rate hitting skills
+      type: select_one
+      options:
+      - Excellent
+      - Above average
+      - Average
+      - Below average
+      - Poor
+      required: true
+    - id: 12
+      name: hitting_for_average
+      label: Hitting for Average
+      hint: Consistency at bat
+      type: select_one
+      options:
+      - Excellent
+      - Above average
+      - Average
+      - Below average
+      - Poor
+      required: true
+    - id: 13
+      name: hitting_for_power
+      label: Hitting for Power
+      hint: Power hitting ability
+      type: select_one
+      options:
+      - Excellent
+      - Above average
+      - Average
+      - Below average
+      - Poor
+      required: true
+    - id: 14
+      name: plate_discipline
+      label: Plate Discipline
+      hint: Pitch selection and patience
+      type: select_one
+      options:
+      - Excellent
+      - Above average
+      - Average
+      - Below average
+      - Poor
+      required: true
+    - id: 15
+      name: baserunning_speed
+      label: Baserunning Speed
+      hint: Running speed
+      type: select_one
+      options:
+      - Excellent
+      - Above average
+      - Average
+      - Below average
+      - Poor
+      required: true
+    - id: 16
+      name: baserunning_instincts
+      label: Baserunning Instincts
+      hint: Baseball IQ on bases
+      type: select_one
+      options:
+      - Excellent
+      - Above average
+      - Average
+      - Below average
+      - Poor
+      required: true
+    - id: 17
+      name: fielding_skill
+      label: Fielding Skill
+      hint: Defensive ability
+      type: select_one
+      options:
+      - Excellent
+      - Above average
+      - Average
+      - Below average
+      - Poor
+      required: true
+    - id: 18
+      name: throwing_accuracy
+      label: Throwing Accuracy
+      hint: Throwing precision
+      type: select_one
+      options:
+      - Excellent
+      - Above average
+      - Average
+      - Below average
+      - Poor
+      required: true
+    - id: 19
+      name: throwing_strength
+      label: Throwing Strength
+      hint: Arm strength
+      type: select_one
+      options:
+      - Excellent
+      - Above average
+      - Average
+      - Below average
+      - Poor
+      required: true
+    - id: 20
+      name: pitching_velocity
+      label: Pitching Velocity
+      hint: If applicable
+      type: select_one
+      options:
+      - Excellent
+      - Above average
+      - Average
+      - Below average
+      - Poor
+      - Not a pitcher
+      required: true
+    - id: 21
+      name: pitching_control
+      label: Pitching Control
+      hint: Command of pitches
+      type: select_one
+      options:
+      - Excellent
+      - Above average
+      - Average
+      - Below average
+      - Poor
+      - Not a pitcher
+      required: true
+    - id: 22
+      name: game_awareness
+      label: Game Awareness
+      hint: Baseball intelligence
+      type: select_one
+      options:
+      - Excellent
+      - Above average
+      - Average
+      - Below average
+      - Poor
+      required: true
+    - id: 23
+      name: coachability
+      label: Coachability
+      hint: Receptiveness to instruction
+      type: select_one
+      options:
+      - Excellent
+      - Above average
+      - Average
+      - Below average
+      - Poor
+      required: true
+    - id: 24
+      name: teamwork
+      label: Teamwork
+      hint: Works well with teammates
+      type: select_one
+      options:
+      - Excellent
+      - Above average
+      - Average
+      - Below average
+      - Poor
+      required: true
+    - id: 25
+      name: work_ethic
+      label: Work Ethic
+      hint: Effort and dedication
+      type: select_one
+      options:
+      - Excellent
+      - Above average
+      - Average
+      - Below average
+      - Poor
+      required: true
+    - id: 26
+      name: overall_rating
+      label: Overall Player Rating
+      hint: Overall assessment
+      type: select_one
+      options:
+      - Elite prospect
+      - Above average player
+      - Average player
+      - Developing player
+      - Needs significant work
+      required: true
+    - id: 27
+      name: player_strengths
+      label: Player Strengths
+      hint: List key strengths
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: What needs work
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: recommendation
+      label: Recommendation
+      hint: What level should player compete
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other observations
+      type: text
+      options: []
+      required: false

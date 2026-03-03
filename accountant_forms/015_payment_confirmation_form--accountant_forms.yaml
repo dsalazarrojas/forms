@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payment Confirmation Form
+    pages:
+    - id: 1
+      name: payment_confirmation_form_fields
+      label: Payment Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_payment
+      label: date_of_payment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Online''}'
+      - '{''id'': 2, ''label'': ''Phone''}'
+      - '{''id'': 3, ''label'': ''In-Person''}'
+      required: true
+    - id: 5
+      name: confirmation_message
+      label: confirmation_message
+      hint: null
+      type: note
+      options: []
+      required: false

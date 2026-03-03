@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Safety Training Attendance Form
+    pages:
+    - id: 1
+      name: session_details
+      label: Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: attendee_email
+      label: Attendee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: attendee_phone
+      label: Attendee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: training_session_start
+      label: Training Session Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: training_session_end
+      label: Training Session End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: training_session_duration
+      label: Training Session Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: session_location
+      label: Session Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: session_topic
+      label: Session Topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: session_facilitator
+      label: Session Facilitator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: session_comments
+      label: Session Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: training_attendance
+      label: Training Attendance
+      hint: null
+      type: select_one
+      options:
+      - Attended
+      - Did Not Attend
+      required: false
+    - id: 15
+      name: attendance_status
+      label: Attendance Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Confirmed
+      - In Progress
+      - Completed
+      required: false

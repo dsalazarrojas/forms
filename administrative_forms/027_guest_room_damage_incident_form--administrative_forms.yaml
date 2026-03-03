@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guest Room Damage Incident Form
+    pages:
+    - id: 1
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: incident_summary
+      label: Incident Summary
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guest_contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: LYR AdoptionFoster Application
+    pages:
+    - id: 1
+      name: rescue_group_name
+      label: rescue_group_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: desired_animal_type
+      label: desired_animal_type
+      hint: null
+      type: select_one
+      options:
+      - cat
+      - dog
+      required: false
+    - id: 6
+      name: foster_or_adopt
+      label: foster_or_adopt
+      hint: null
+      type: select_one
+      options:
+      - Adopt
+      - Foster
+      required: false
+    - id: 7
+      name: foster_experiences
+      label: foster_experiences
+      hint: null
+      type: select_multiple
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 8
+      name: foster_home
+      label: foster_home
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: foster_type
+      label: foster_type
+      hint: null
+      type: select_one
+      options:
+      - Feline
+      - Canine
+      - Both
+      required: false
+    - id: 10
+      name: foster_size
+      label: foster_size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - Extra Large
+      required: false
+    - id: 11
+      name: foster_gender
+      label: foster_gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: false
+    - id: 12
+      name: foster_age
+      label: foster_age
+      hint: null
+      type: select_one
+      options:
+      - 0-2
+      - 2-5
+      - 5-10
+      required: false
+    - id: 13
+      name: foster_status
+      label: foster_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Retired
+      required: false
+    - id: 14
+      name: adoption_info
+      label: adoption_info
+      hint: null
+      type: select_one
+      options:
+      - Spayed/Neutered
+      - Not Spayed/Neutered
+      required: false
+    - id: 15
+      name: vet_info
+      label: vet_info
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: microchip_info
+      label: microchip_info
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: other_info
+      label: other_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

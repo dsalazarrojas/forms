@@ -1,0 +1,163 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Connection Skills Assessment
+    pages:
+      - id: 1
+        name: section_employee_info
+        label: -- Assessee Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: employee_name
+        label: Employee Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: department
+        label: Department
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: assessment_type
+        label: Type of Assessment
+        hint: null
+        type: select_one
+        options:
+          - Self-Assessment
+          - Peer Review
+          - Managerial Review
+          - Annual Performance Check
+        required: true
+      - id: 5
+        name: section_communication
+        label: -- Verbal and Written Communication --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: clarity_of_expression
+        label: Clarity and Conciseness in Communication
+        hint: Ability to convey ideas effectively
+        type: select_one
+        options:
+          - 5 - Exceptional
+          - 4 - Proficient
+          - 3 - Developing
+          - 2 - Needs Improvement
+          - 1 - Not Observed
+        required: true
+      - id: 7
+        name: active_listening
+        label: Active Listening Skills
+        hint: Demonstrates understanding and gives full attention
+        type: select_one
+        options:
+          - 5 - Exceptional
+          - 4 - Proficient
+          - 3 - Developing
+          - 2 - Needs Improvement
+        required: true
+      - id: 8
+        name: section_interpersonal
+        label: -- Interpersonal Connection --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: empathy_and_rapport
+        label: Empathy and Building Rapport
+        hint: Capacity to understand others and build trust
+        type: select_one
+        options:
+          - 5 - Exceptional
+          - 4 - Proficient
+          - 3 - Developing
+          - 2 - Needs Improvement
+        required: true
+      - id: 10
+        name: conflict_resolution_skill
+        label: Conflict Resolution Ability
+        hint: Handles disagreements professionally and constructively
+        type: select_one
+        options:
+          - 5 - Exceptional
+          - 4 - Proficient
+          - 3 - Developing
+          - 2 - Needs Improvement
+        required: true
+      - id: 11
+        name: collaboration_teamwork
+        label: Collaboration and Teamwork
+        hint: Works effectively within a team structure
+        type: select_one
+        options:
+          - 5 - Exceptional
+          - 4 - Proficient
+          - 3 - Developing
+          - 2 - Needs Improvement
+        required: true
+      - id: 12
+        name: section_improvement
+        label: -- Growth and Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: strength_summary
+        label: Primary Connection Strength
+        hint: What is the single biggest strength observed?
+        type: text
+        options: []
+        required: true
+      - id: 14
+        name: improvement_areas
+        label: Areas for Skill Development
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: training_interest
+        label: Would you be interested in connection skills training?
+        hint: null
+        type: select_one
+        options:
+          - Yes, highly interested
+          - Maybe later
+          - No
+        required: true
+      - id: 16
+        name: reviewer_signature
+        label: Reviewer Signature (Type Full Name)
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: review_date
+        label: Assessment Date
+        hint: null
+        type: date
+        options: []
+        required: true

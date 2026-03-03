@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: NGO Grant Proposal Voting Form
+    pages:
+    - id: 1
+      name: first_page
+      label: Grant Proposal Evaluation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: second_page
+      label: Grant Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: third_page
+      label: Grant Amount Range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: grant_amount_range_start
+      label: Start Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: grant_amount_range_end
+      label: End Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: review_committee
+      label: Review Committee
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: review_committee_select
+      label: Review Committee
+      hint: Select a committee to review the grant proposal.
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: review_committee_name
+      label: Review Committee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: review_committee_contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: review_committee_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: review_committee_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: review_committee_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: reviewer_email
+      label: Reviewer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: reviewer_phone
+      label: Reviewer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reviewer_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: submission_summary
+      label: Submission Summary
+      hint: A summary of the grant proposal
+      type: text
+      options: []
+      required: true

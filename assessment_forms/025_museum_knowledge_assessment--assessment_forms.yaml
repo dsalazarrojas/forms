@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Museum Knowledge Assessment
+    pages:
+    - id: 1
+      name: intro_page
+      label: intro_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: quiz_question
+      label: What is the main goal of museums?
+      hint: null
+      type: select_one
+      options:
+      - Education
+      - Entertainment
+      - Preservation
+      required: true
+    - id: 3
+      name: quiz_answer
+      label: quiz_answer_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reflection_question
+      label: What do you think is the most important part of a museum visit?
+      hint: null
+      type: select_multiple
+      options:
+      - Exhibits
+      - Guided Tours
+      - Self-Guided
+      required: true
+    - id: 5
+      name: reflection_answer
+      label: reflection_answer_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submit_page
+      label: submit_label
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Absence Notification
+    pages:
+    - id: 1
+      name: athlete_info_header
+      label: -- Athlete Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: athlete_name
+      label: Athlete Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: team_name
+      label: Team or Squad Name
+      hint: e.g. Varsity Basketball, Under-15 Soccer
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: absence_details_header
+      label: -- Absence Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: absence_type
+      label: Type of Event Missed
+      hint: Select the primary event affected
+      type: select_one
+      options:
+      - Practice
+      - Game
+      - Team Meeting
+      - Training Session
+      - Tournament
+      required: true
+    - id: 6
+      name: start_date
+      label: Absence Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: end_date
+      label: Absence End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: absence_reason
+      label: Reason for Absence
+      hint: Select the most accurate reason
+      type: select_one
+      options:
+      - Illness
+      - Injury
+      - Academic Commitment
+      - Family Emergency
+      - Pre-planned Vacation
+      - Other
+      required: true
+    - id: 9
+      name: detailed_reason
+      label: Additional Details
+      hint: Please provide more context if necessary
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_header
+      label: -- Contact and Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: guardian_name
+      label: Parent or Guardian Name
+      hint: Required for athletes under 18
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contact_phone
+      label: Contact Phone Number
+      hint: Best number to reach you
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: coach_notified
+      label: Has the coach been notified via other means?
+      hint: e.g. Email or Text
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: submission_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Organization Assessment
+    pages:
+    - id: 1
+      name: service_organization
+      label: service_organization_label
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: customer_satisfaction
+      label: customer_satisfaction_label
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 3
+      name: service_delivery
+      label: service_delivery_label
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: communication
+      label: communication_label
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: improvement_plan
+      label: improvement_plan_label
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: internal_evaluation
+      label: internal_evaluation_label
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

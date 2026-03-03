@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Audit Checklist
+    pages:
+    - id: 1
+      name: financial_audit_checklist_page
+      label: Financial Audit Checklist
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_info
+      label: company_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_start_audit
+      label: date_start_audit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: date_end_audit
+      label: date_end_audit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: total_hours_worked
+      label: total_hours_worked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: total_cost
+      label: total_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: audit_manager
+      label: audit_manager
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      required: false
+    - id: 9
+      name: financial_statements
+      label: financial_statements
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      required: false
+    - id: 10
+      name: accounting_systems
+      label: accounting_systems
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      required: false
+    - id: 11
+      name: financial_audit_status
+      label: financial_audit_status
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      required: false

@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Expense Approval Workflow Survey
+    pages:
+    - id: 1
+      name: expense_workflow
+      label: Expense Workflow
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: approver_name
+      label: approver name
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: approver_title
+      label: approver title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: approver_email
+      label: approver email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: expense_amount
+      label: expense amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: expense_date
+      label: expense date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: expense_type
+      label: expense type
+      hint: null
+      type: select_one
+      options:
+      - Expense Type 1
+      - Expense Type 2
+      - Expense Type 3
+      required: false
+    - id: 8
+      name: expense_note
+      label: expense note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by
+      label: submitted by
+      hint: null
+      type: select_multiple
+      options:
+      - Submitted By 1
+      - Submitted By 2
+      - Submitted By 3
+      required: false
+    - id: 10
+      name: approved_by
+      label: approved by
+      hint: null
+      type: select_multiple
+      options:
+      - Approved By 1
+      - Approved By 2
+      - Approved By 3
+      required: false
+    - id: 11
+      name: rejected_by
+      label: rejected by
+      hint: null
+      type: select_multiple
+      options:
+      - Rejected By 1
+      - Rejected By 2
+      - Rejected By 3
+      required: false
+    - id: 12
+      name: approved_date
+      label: approved date
+      hint: null
+      type: date
+      options: []
+      required: false

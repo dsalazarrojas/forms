@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Electronic Funds Transfer (EFT) Authorization Form
+    pages:
+    - id: 1
+      name: form_details
+      label: Electronic Funds Transfer (EFT) Authorization Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_transaction
+      label: date_of_transaction
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: authorized_amount
+      label: authorized_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: authorized_by
+      label: authorized_by
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: account_number
+      label: account_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: bank_account_number
+      label: bank_account_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: transfer_amount
+      label: transfer_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: approval_date
+      label: approval_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: approval_time
+      label: approval_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: eft_reference_number
+      label: eft_reference_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: eft_transaction_date
+      label: eft_transaction_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: eft_transaction_time
+      label: eft_transaction_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: eft_transaction_details
+      label: eft_transaction_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: eft_authorization_code
+      label: eft_authorization_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: eft_transfer_type
+      label: eft_transfer_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: eft_amount
+      label: eft_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: eft_remarks
+      label: eft_remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: eft_status
+      label: eft_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 21
+      name: eft_authorization_level
+      label: eft_authorization_level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 22
+      name: eft_authorizer_name
+      label: eft_authorizer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: eft_authorizer_title
+      label: eft_authorizer_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: eft_authorizer_email
+      label: eft_authorizer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: eft_authorizer_phone
+      label: eft_authorizer_phone
+      hint: null
+      type: text
+      options: []
+      required: false

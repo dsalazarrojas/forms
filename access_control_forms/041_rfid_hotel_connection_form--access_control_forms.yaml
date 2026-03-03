@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: rfid_hotel_connection_form
+    pages:
+    - id: 1
+      name: hotel_connect_rfid_card_number
+      label: Hotel Connect RFID Card
+      hint: Please enter your RFID card number
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: checkin_date
+      label: Checkin Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: stay_start_date
+      label: Stay Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: stay_end_date
+      label: Stay End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: room_number
+      label: Room Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: keycard_id
+      label: Key Card ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: guest_contact_phone
+      label: Guest Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: guest_contact_email
+      label: Guest Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false

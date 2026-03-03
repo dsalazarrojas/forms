@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cardiology ROI Assessment
+    pages:
+    - id: 1
+      name: assessment_context
+      label: -- Assessment Context --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: facility_name
+      label: Facility name
+      hint: Organization performing the assessment
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: assessment_period_start
+      label: Assessment period start
+      hint: Start date for measurement period
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: assessment_period_end
+      label: Assessment period end
+      hint: End date for measurement period
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: intervention_description
+      label: Intervention description
+      hint: Brief summary of the cardiology program or intervention
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: cost_of_program
+      label: Cost of program
+      hint: Total program cost in local currency
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: measurable_outcomes
+      label: Measurable outcomes
+      hint: Key metrics used to evaluate value
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: estimated_savings
+      label: Estimated savings
+      hint: Estimated financial benefit over assessment period
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: roi_calculation_method
+      label: ROI calculation method
+      hint: Brief description of method used
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: recommendations
+      label: Recommendations based on findings
+      hint: Actionable next steps
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Safety Equipment Claim Form
+    pages:
+    - id: 1
+      name: fire_safety_equipment_claim_form
+      label: claim_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: fire_safety_equipment
+      label: fire_safety_equipment
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Fire Extinguisher'', ''description'': ''Fire
+        Extinguisher''}'
+      - '{''value'': 2, ''label'': ''Fire Alarm'', ''description'': ''Fire Alarm''}'
+      required: false
+    - id: 3
+      name: damages_description
+      label: damage_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: amount_claimed
+      label: amount_claimed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: claim_status
+      label: claim_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Pending'', ''description'': ''Pending''}'
+      - '{''value'': 2, ''label'': ''Closed'', ''description'': ''Closed''}'
+      - '{''value'': 3, ''label'': ''Reopened'', ''description'': ''Reopened''}'
+      required: false
+    - id: 6
+      name: claim_date
+      label: claim_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: claimant_signature
+      label: claimant_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: reviewer_signature
+      label: reviewer_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: date_submitted
+      label: date_submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: date_reviewed
+      label: date_reviewed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: fire_safety_equipment_claim_form_comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: fire_safety_equipment_claim_form_attachments
+      label: attachments
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Fire Extinguisher'', ''description'': ''Fire
+        Extinguisher''}'
+      - '{''value'': 2, ''label'': ''Fire Alarm'', ''description'': ''Fire Alarm''}'
+      required: false

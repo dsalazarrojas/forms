@@ -1,0 +1,208 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Bakery Order Form
+    pages:
+      - id: 1
+        name: section_customer
+        label: -- Customer Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: customer_name
+        label: Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: customer_email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: customer_phone
+        Label: Phone Number
+        hint: null
+        type: phone
+        options: []
+        required: true
+      - id: 5
+        name: customer_address
+        label: Delivery Address
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: section_order
+        label: -- Order Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: order_date
+        Label: Order Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 8
+        name: desired_pickup_date
+        Label: Desired Pickup or Delivery Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 9
+        name: product_selection
+        Label: Select Bakery Products
+        hint: Select all items you want to order
+        type: select_multiple
+        options:
+          - Bread
+          - Croissants
+          - Donuts
+          - Cakes
+          - Cupcakes
+          - Cookies
+          - Pastries
+          - Custom Items
+        required: true
+      - id: 10
+        name: bread_type
+        Label: Bread Type and Quantity
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: croissant_type
+        Label: Croissant Type and Quantity
+        hint: Chocolate, almond, plain, etc.
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: donut_type
+        Label: Donut Type and Quantity
+        hint: Glazed, chocolate, filled, etc.
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: cake_specifications
+        Label: Cake Specifications (if ordered)
+        hint: Size, flavor, decoration
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: cupcake_specifications
+        Label: Cupcake Specifications (if ordered)
+        hint: Flavor, frosting, quantity
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: section_customization
+        label: -- Special Requests --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: custom_requirements
+        Label: Custom Decorations or Special Requests
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: dietary_needs
+        Label: Dietary Restrictions or Allergies
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: section_delivery
+        label: -- Delivery Method --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: fulfillment_option
+        Label: Fulfillment Option
+        hint: null
+        type: select_one
+        options:
+          - Pickup at Bakery
+          - Home Delivery
+          - Will Arrange
+        required: true
+      - id: 20
+        name: preferred_time
+        Label: Preferred Time
+        hint: null
+        type: time
+        options: []
+        required: false
+      - id: 21
+        name: section_notes
+        label: -- Additional Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: special_notes
+        Label: Special Notes or Comments
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: estimated_cost
+        Label: Estimated Total Cost
+        hint: Approximate amount in dollars
+        type: decimal
+        options: []
+        required: false
+      - id: 24
+        name: payment_preference
+        Label: Payment Preference
+        hint: null
+        type: select_one
+        options:
+          - Cash
+          - Card
+          - Check
+          - PayPal
+        required: false
+      - id: 25
+        name: order_confirmation
+        Label: I Confirm This Order and Will Complete Payment
+        hint: null
+        type: select_one
+        options:
+          - I Confirm
+          - I Do Not Confirm
+        required: true

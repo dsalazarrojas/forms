@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: residential_leaseterminationoffboarding_form
+    pages:
+    - id: 1
+      name: tenantname
+      label: tenantname
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contactnumber
+      label: contactnumber
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: leaseenddate
+      label: leaseenddate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reasonforcancellation
+      label: reasonfortermination
+      hint: The reason for lease termination.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: noticeperiod
+      label: noticetimerestricted
+      hint: Enter the number of days notice period required.
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: leasebalance
+      label: leasebalance
+      hint: Amount due on lease balance.
+      type: number
+      options: []
+      required: false

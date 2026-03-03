@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Traffic Law Compliance Checklist
+    pages:
+    - id: 1
+      name: vehicle_inspection
+      label: Vehicle Inspection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: driver_info
+      label: Driver Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: safety_equipment
+      label: Safety Equipment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: driver_license
+      label: Driver License
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: vehicle_registration
+      label: Vehicle Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: insurance_info
+      label: Insurance Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: vehicle_defects
+      label: Vehicle Defects
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: vehicle_defects_description
+      label: Describe Defects
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_defects_status
+      label: Defects Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: maintenance_history
+      label: Maintenance History
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: safety_standards
+      label: Safety Standards
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: driver_training
+      label: Driver Training
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: vehicle_equipment
+      label: Vehicle Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: vehicle_equipment_description
+      label: Describe Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: vehicle_equipment_status
+      label: Equipment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 17
+      name: safety_inspection_frequency
+      label: Safety Inspection Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: safety_inspection_frequency_type
+      label: Frequency Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: next_safety_inspection_date
+      label: Next Safety Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: safety_inspection_status
+      label: Safety Inspection Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 21
+      name: vehicle_mileage
+      label: Vehicle Mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: vehicle_location
+      label: Vehicle Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: vehicle_condition_status
+      label: Vehicle Condition Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 24
+      name: vehicle_status
+      label: Vehicle Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance Coverage Limit Amendment Form
+    pages:
+    - id: 1
+      name: policyholder_info
+      label: Policyholder Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: coverage_limit
+      label: Coverage Limit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: policy
+      label: Policy
+      hint: null
+      type: select_one
+      options:
+      - Policy A
+      - Policy B
+      required: false
+    - id: 4
+      name: new_coverage_limit
+      label: New Coverage Limit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: effective_date
+      label: Effective Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: agent_info
+      label: Agent Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: agent_signature
+      label: Agent Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: broker_info
+      label: Broker Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: broker_signature
+      label: Broker Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: reason_for_change
+      label: Reason for Change
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: note
+      options: []
+      required: false

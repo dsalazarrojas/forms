@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: dessert_bar_service_agreement
+    pages:
+    - id: 1
+      name: event_name
+      label: event_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: event_time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: service_terms
+      label: service_terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: dessert_type
+      label: dessert_type
+      hint: null
+      type: select_one
+      options:
+      - cakes
+      - favors
+      - other
+      required: false
+    - id: 6
+      name: bakery_name
+      label: bakery_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact
+      label: contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: approval
+      label: approval
+      hint: null
+      type: select_multiple
+      options:
+      - approved
+      - pending
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: agreement
+      label: agreement
+      hint: null
+      type: select_one
+      options:
+      - accept
+      - reject
+      required: true
+    - id: 12
+      name: terms
+      label: terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: email_2
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: true

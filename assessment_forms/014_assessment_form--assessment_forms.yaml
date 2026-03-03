@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Assessment Form
+    pages:
+    - id: 1
+      name: candidate_name
+      label: Candidate Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: candidate_id
+      label: Candidate ID
+      hint: Identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of assessment
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: assessor_name
+      label: Assessor Name
+      hint: Who is conducting assessment
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: assessment_category
+      label: Assessment Category
+      hint: What is being assessed
+      type: select_one
+      options:
+      - Knowledge
+      - Skills
+      - Abilities
+      - Performance
+      - Competency
+      - Behavior
+      required: true
+    - id: 6
+      name: assessment_method
+      label: Assessment Method
+      hint: How is assessment conducted
+      type: select_one
+      options:
+      - Written Test
+      - Practical Exam
+      - Interview
+      - Observation
+      - Portfolio Review
+      - Simulation
+      required: true
+    - id: 7
+      name: time_allowed_minutes
+      label: Time Allowed in Minutes
+      hint: Duration of assessment
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: time_taken_minutes
+      label: Time Taken in Minutes
+      hint: Actual time used
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: total_possible_score
+      label: Total Possible Score
+      hint: Maximum points
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: score_achieved
+      label: Score Achieved
+      hint: Points earned
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: percentage_score
+      label: Percentage Score
+      hint: Calculated percentage
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: pass_fail_status
+      label: Pass or Fail Status
+      hint: Assessment result
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Pending Review
+      required: true
+    - id: 13
+      name: grade_level
+      label: Grade Level
+      hint: Assigned grade
+      type: select_one
+      options:
+      - Excellent - 90-100%
+      - Good - 80-89%
+      - Satisfactory - 70-79%
+      - Needs Improvement - 60-69%
+      - Unsatisfactory - Below 60%
+      required: true
+    - id: 14
+      name: strengths_observed
+      label: Strengths Observed
+      hint: What went well
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: What needs work
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: comments
+      label: Assessor Comments
+      hint: Additional notes
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: retake_required
+      label: Is Retake Required
+      hint: Does candidate need to retake
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: retake_date
+      label: Retake Date if Applicable
+      hint: Scheduled retake date
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: recommendations
+      label: Recommendations
+      hint: Next steps for candidate
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: candidate_signature
+      label: Candidate Signature
+      hint: Type name to acknowledge
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: assessor_signature
+      label: Assessor Signature
+      hint: Type name to sign
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: assessment_complete
+      label: Assessment Complete
+      hint: Confirm assessment is finished
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

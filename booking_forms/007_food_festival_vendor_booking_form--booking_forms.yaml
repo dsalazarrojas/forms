@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Festival Vendor Booking Form
+    pages:
+    - id: 1
+      name: festival_name
+      label: festival name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendor_name
+      label: vendor name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_person
+      label: contact person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vendor_type
+      label: vendor type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: festival_dates
+      label: festival dates
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: vendor_notes
+      label: vendor notes
+      hint: Notes to the vendor
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: additional_info
+      label: additional information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: vendor_vehicles
+      label: vendor vehicles
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: festival_setup
+      label: festival setup
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: festival_teardown
+      label: festival teardown
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: vendor_setup
+      label: vendor setup
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: vendor_teardown
+      label: vendor teardown
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: vendor_setup_details
+      label: vendor setup details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: vendor_teardown_details
+      label: vendor teardown details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: vendor_food_types
+      label: food types
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 18
+      name: vendor_services
+      label: services
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

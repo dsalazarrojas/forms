@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Role Assignment Authorization Form
+    pages:
+    - id: 1
+      name: role_assignment_authorization_form_1
+      label: Role Assignment Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: role_change_reason
+      label: Role Change Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: role_change_request_date
+      label: Role Change Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: role_change_request_time
+      label: Role Change Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - Approve
+      - Reject
+      - Pending
+      required: false
+    - id: 9
+      name: role_effective_date
+      label: Role Effective Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: role_change_requester
+      label: Role Change Requester
+      hint: null
+      type: text
+      options: []
+      required: false

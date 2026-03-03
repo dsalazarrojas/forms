@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Billing Dispute Form
+    pages:
+    - id: 1
+      name: personal_information
+      label: -- Personal Information --
+      hint: Provide contact details for follow up
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter the name on the account
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: Provide a valid email for updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Optional mobile or office number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: account_number
+      label: Account number
+      hint: Customer account or client ID associated with billing
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: invoice_number
+      label: Invoice number
+      hint: Enter the invoice or billing reference
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: billing_date
+      label: Billing date
+      hint: Date shown on the invoice being disputed
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: disputed_amount
+      label: Disputed amount
+      hint: Enter amount in your currency using decimals if needed
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: dispute_reason
+      label: Dispute reason
+      hint: Describe why this charge is incorrect or disputed
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: preferred_resolution
+      label: Preferred resolution
+      hint: Choose the outcome you are requesting
+      type: select_one
+      options:
+      - Refund
+      - Account credit
+      - Invoice adjustment
+      - Explanation of charge
+      required: true
+    - id: 11
+      name: supporting_details
+      label: Supporting details and notes
+      hint: Include transaction IDs, dates, or other relevant details
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: authorization
+      label: Authorization and signature acknowledgement
+      hint: By submitting you authorize review of account records
+      type: note
+      options: []
+      required: true

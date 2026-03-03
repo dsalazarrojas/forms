@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bar Inspection Records Release Form
+    pages:
+    - id: 1
+      name: request_date
+      label: Request Date
+      hint: Date of this records request
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: requester_name
+      label: Requester Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_title
+      label: Title or Position
+      hint: Your title/role
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: requester_email
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: requester_phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: requester_organization
+      label: Organization Name
+      hint: Your company or organization
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: establishment_name
+      label: Bar or Establishment Name
+      hint: Name of facility for records
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: establishment_address
+      label: Establishment Address
+      hint: Full address of facility
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: establishment_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: establishment_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: establishment_zip
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: license_number
+      label: License Number (if known)
+      hint: Establishment license number
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: request_reason
+      label: Reason for Records Request
+      hint: Why do you need these records?
+      type: select_one
+      options:
+      - Property Purchase
+      - Insurance Verification
+      - Compliance Check
+      - Legal Proceeding
+      - Audit
+      - Due Diligence
+      - Regulatory Compliance
+      - Other
+      required: true
+    - id: 14
+      name: reason_description
+      label: Detailed Reason Description
+      hint: Additional context about request
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: records_requested
+      label: Records Requested
+      hint: What specific records do you need?
+      type: select_multiple
+      options:
+      - Health and Safety Inspections
+      - Liquor License Records
+      - Violation Reports
+      - Compliance Documentation
+      - Building Inspections
+      - Fire Safety Records
+      - Recent Inspection Reports
+      - All Available Records
+      required: true
+    - id: 16
+      name: date_range_from
+      label: Records From Date
+      hint: Earliest date for records
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: date_range_to
+      label: Records To Date
+      hint: Most recent date for records
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: records_format
+      label: Preferred Format for Records
+      hint: How would you like records delivered?
+      type: select_one
+      options:
+      - Electronic Copy (PDF)
+      - Electronic Copy (Digital Files)
+      - Physical Copy (Mail)
+      - Physical Copy (Pick-Up)
+      - Either Format
+      required: true
+    - id: 19
+      name: authorization_by_owner
+      label: Authorized by Establishment Owner
+      hint: Is owner authorizing this request?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Owner Signature Attached
+      required: true
+    - id: 20
+      name: owner_contact_info
+      label: Establishment Owner Contact
+      hint: Name and phone of owner
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: fee_acknowledgment
+      label: I Understand Records May Have Associated Fees
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: confidentiality_agreement
+      label: I Agree to Keep Records Confidential
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

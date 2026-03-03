@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flight Time Rental Agreement
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_number
+      label: Customer Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: aircraft_type
+      label: Aircraft Type
+      hint: null
+      type: select_one
+      options:
+      - Cessna 152
+      - Cessna 172
+      - Other
+      required: true
+    - id: 8
+      name: flight_duration
+      label: Flight Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: terms
+      label: Terms and Conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: customer_terms
+      label: Customer Acknowledgement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

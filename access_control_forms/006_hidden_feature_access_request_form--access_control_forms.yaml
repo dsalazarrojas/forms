@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hidden Feature Access Request Form
+    pages:
+    - id: 1
+      name: submitter_info
+      label: Submitter Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: requested_features
+      label: Requested Features
+      hint: null
+      type: select_multiple
+      options:
+      - Feature A
+      - Feature B
+      - Feature C
+      required: false
+    - id: 3
+      name: request_description
+      label: Request Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: approver_info
+      label: Approver Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: approver_notes
+      label: Approver Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: submitter_notes
+      label: Submitter Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: submitter_email
+      label: Submitter E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitter_department
+      label: Submitter Department
+      hint: null
+      type: select_one
+      options:
+      - IT
+      - Operations
+      - Admin
+      required: false
+    - id: 10
+      name: submitter_title
+      label: Submitter Title
+      hint: null
+      type: select_one
+      options:
+      - Mr.
+      - Miss
+      - Mrs.
+      - Ms.
+      required: false
+    - id: 11
+      name: approver_department
+      label: Approver Department
+      hint: null
+      type: select_one
+      options:
+      - IT
+      - Operations
+      - Admin
+      required: false
+    - id: 12
+      name: approver_title
+      label: Approver Title
+      hint: null
+      type: select_one
+      options:
+      - Mr.
+      - Miss
+      - Mrs.
+      - Ms.
+      required: false
+    - id: 13
+      name: date_approved
+      label: Date Approved
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time_approved
+      label: Time Approved
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: approved_at
+      label: Approved At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      - Closed
+      required: false

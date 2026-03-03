@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vet Appointment Form
+    pages:
+    - id: 1
+      name: schedule_appointment
+      label: Schedule Appointment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: appointment_type
+      label: Appointment Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: pet_info
+      label: Pet Info
+      hint: Provide the following information about your pet.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_and_time
+      label: Date and Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: veterinarian
+      label: Veterinarian
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: save_and_share
+      label: Save and Share
+      hint: Save and share your appointment with your veterinarian.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

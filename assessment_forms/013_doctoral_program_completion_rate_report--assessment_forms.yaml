@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Doctoral Program Completion Rate Report
+    pages:
+    - id: 1
+      name: university_name
+      label: University Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: academic_program
+      label: Academic Program
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: completion_year
+      label: Completion Year
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: graduation_year
+      label: Graduation Year
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: student_count
+      label: Student Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: prophase_id
+      label: Proph Goals
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: program_goals
+      label: Progs Goals
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: program_outcomes
+      label: Prog Outcomes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: graduation_date
+      label: Grad Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: completion_status
+      label: Complete Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: university_website
+      label: University Website
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: university_logo
+      label: University Logo
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: program_director
+      label: Program Director
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: departmental_email
+      label: Departmental E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: program_goals_goals
+      label: Prog Goals Goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: departmental_phone
+      label: Departmental Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: departmental_website
+      label: Departmental Website
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

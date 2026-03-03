@@ -1,0 +1,279 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Comprehensive Assessment Report
+    pages:
+      - id: 1
+        name: report_id
+        label: Report ID
+        hint: Unique report identifier
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: assessment_date
+        label: Assessment Date
+        hint: Date of assessment
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: assessor_name
+        label: Assessor Name
+        hint: Name of person conducting assessment
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: assessor_title
+        label: Assessor Title
+        hint: Job title of assessor
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: department
+        label: Department
+        hint: Department being assessed
+        type: select_one
+        options:
+          - Human Resources
+          - Finance
+          - Operations
+          - Sales
+          - Marketing
+          - Information Technology
+          - Customer Service
+          - Research and Development
+          - Executive
+          - Other
+        required: true
+      - id: 6
+        name: employee_name
+        label: Employee Name
+        hint: Name of employee being assessed
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: employee_id
+        label: Employee ID
+        hint: Employee identification number
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: employee_title
+        label: Employee Title
+        hint: Job title of employee
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: review_period_start
+        label: Review Period Start
+        hint: Start date of review period
+        type: date
+        options: []
+        required: true
+      - id: 10
+        name: review_period_end
+        label: Review Period End
+        hint: End date of review period
+        type: date
+        options: []
+        required: true
+      - id: 11
+        name: job_knowledge_rating
+        label: Job Knowledge Rating
+        hint: Rate employee job knowledge
+        type: select_one
+        options:
+          - 5 - Excellent
+          - 4 - Good
+          - 3 - Satisfactory
+          - 2 - Needs Improvement
+          - 1 - Unsatisfactory
+        required: true
+      - id: 12
+        name: quality_of_work_rating
+        label: Quality of Work Rating
+        hint: Rate quality of work
+        type: select_one
+        options:
+          - 5 - Excellent
+          - 4 - Good
+          - 3 - Satisfactory
+          - 2 - Needs Improvement
+          - 1 - Unsatisfactory
+        required: true
+      - id: 13
+        name: productivity_rating
+        label: Productivity Rating
+        hint: Rate productivity level
+        type: select_one
+        options:
+          - 5 - Excellent
+          - 4 - Good
+          - 3 - Satisfactory
+          - 2 - Needs Improvement
+          - 1 - Unsatisfactory
+        required: true
+      - id: 14
+        name: communication_rating
+        label: Communication Rating
+        hint: Rate communication skills
+        type: select_one
+        options:
+          - 5 - Excellent
+          - 4 - Good
+          - 3 - Satisfactory
+          - 2 - Needs Improvement
+          - 1 - Unsatisfactory
+        required: true
+      - id: 15
+        name: teamwork_rating
+        label: Teamwork Rating
+        hint: Rate teamwork abilities
+        type: select_one
+        options:
+          - 5 - Excellent
+          - 4 - Good
+          - 3 - Satisfactory
+          - 2 - Needs Improvement
+          - 1 - Unsatisfactory
+        required: true
+      - id: 16
+        name: problem_solving_rating
+        label: Problem Solving Rating
+        hint: Rate problem solving skills
+        type: select_one
+        options:
+          - 5 - Excellent
+          - 4 - Good
+          - 3 - Satisfactory
+          - 2 - Needs Improvement
+          - 1 - Unsatisfactory
+        required: true
+      - id: 17
+        name: reliability_rating
+        label: Reliability Rating
+        hint: Rate reliability
+        type: select_one
+        options:
+          - 5 - Excellent
+          - 4 - Good
+          - 3 - Satisfactory
+          - 2 - Needs Improvement
+          - 1 - Unsatisfactory
+        required: true
+      - id: 18
+        name: leadership_rating
+        label: Leadership Rating
+        hint: Rate leadership potential
+        type: select_one
+        options:
+          - 5 - Excellent
+          - 4 - Good
+          - 3 - Satisfactory
+          - 2 - Needs Improvement
+          - 1 - Unsatisfactory
+          - Not Applicable
+        required: false
+      - id: 19
+        name: key_strengths
+        label: Key Strengths
+        hint: List employee key strengths
+        type: text
+        options: []
+        required: true
+      - id: 20
+        name: areas_for_improvement
+        label: Areas for Improvement
+        hint: List areas needing improvement
+        type: text
+        options: []
+        required: true
+      - id: 21
+        name: goals_achieved
+        label: Goals Achieved
+        hint: Describe goals accomplished this period
+        type: text
+        options: []
+        required: true
+      - id: 22
+        name: goals_for_next_period
+        label: Goals for Next Period
+        hint: Set goals for next review period
+        type: text
+        options: []
+        required: true
+      - id: 23
+        name: training_recommendations
+        label: Training Recommendations
+        hint: Recommend training or development
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: overall_performance_rating
+        label: Overall Performance Rating
+        hint: Overall performance rating
+        type: select_one
+        options:
+          - 5 - Outstanding
+          - 4 - Exceeds Expectations
+          - 3 - Meets Expectations
+          - 2 - Below Expectations
+          - 1 - Unsatisfactory
+        required: true
+      - id: 25
+        name: promotion_recommendation
+        label: Promotion Recommendation
+        hint: Do you recommend promotion
+        type: select_one
+        options:
+          - Yes, Recommend Promotion
+          - Yes, With Additional Development
+          - No, Not at This Time
+          - Not Applicable
+        required: true
+      - id: 26
+        name: employee_comments
+        label: Employee Comments
+        hint: Space for employee comments
+        type: text
+        options: []
+        required: false
+      - id: 27
+        name: assessor_signature
+        label: Assessor Signature
+        hint: Type full name as signature
+        type: text
+        options: []
+        required: true
+      - id: 28
+        name: employee_signature
+        label: Employee Signature
+        hint: Employee types full name as signature
+        type: text
+        options: []
+        required: true
+      - id: 29
+        name: signature_date
+        label: Signature Date
+        hint: Date of signatures
+        type: date
+        options: []
+        required: true

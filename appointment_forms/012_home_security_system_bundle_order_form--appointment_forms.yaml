@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: home-security-system-bundle-order-form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Enter customer name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: system_type
+      label: Bundle Type
+      hint: Choose a bundle type
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: installation_date
+      label: Installation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: installation_time
+      label: Installation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: installation_address
+      label: Installation Address
+      hint: Enter address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: customer_message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: system_description
+      label: System Description
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: bundle_price
+      label: Bundle Price
+      hint: Price of the bundle
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: customer_agreement
+      label: Customer Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: pros_and_cons
+      label: Pros and Cons
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: customer_comments
+      label: Customer Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: customer_references
+      label: Customer References
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: system_features
+      label: System Features
+      hint: Enter system features
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: system_advantages
+      label: System Advantages
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: system_disadvantages
+      label: System Disadvantages
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: bundle_status
+      label: Bundle Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 19
+      name: installation_method
+      label: Installation Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: installation_location
+      label: Installation Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: customer_name_2
+      label: Customer Name 2
+      hint: null
+      type: text
+      options: []
+      required: false

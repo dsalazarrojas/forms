@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: Access Protection For Hemp Products
+    pages:
+    - id: 1
+      name: customer_full_name
+      label: Customer Full Name
+      hint: Your legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: government_id_type
+      label: Government ID Type
+      hint: Type of government-issued identification
+      type: select_one
+      options:
+      - Driver's License
+      - State ID
+      - Passport
+      - Military ID
+      - Other
+      required: true
+    - id: 4
+      name: government_id_number
+      label: Government ID Number
+      hint: Number on your government-issued ID
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: id_state_province
+      label: State/Province of ID Issuance
+      hint: State or province that issued your ID
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Address
+      hint: Your current residential address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: State of residence
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: Your contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: email_address
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: age_verification
+      label: Age Verification
+      hint: Are you 21 years of age or older?
+      type: select_one
+      options:
+      - Yes, I am 21 or older
+      - No, I am under 21
+      required: true
+    - id: 13
+      name: legal_compliance_acknowledgment
+      label: Legal Compliance Acknowledgment
+      hint: Do you acknowledge that hemp products containing less than 0.3% THC are
+        legal under federal law?
+      type: select_one
+      options:
+      - Yes, I acknowledge
+      - 'No'
+      required: true
+    - id: 14
+      name: intended_use
+      label: Intended Use
+      hint: How do you intend to use these hemp products?
+      type: select_multiple
+      options:
+      - Personal consumption
+      - Research purposes
+      - Industrial applications
+      - Medical purposes
+      - Recreational use
+      - Other
+      required: true
+    - id: 15
+      name: product_interests
+      label: Product Interests
+      hint: Which hemp products are you interested in?
+      type: select_multiple
+      options:
+      - CBD oils
+      - Edibles
+      - Topicals
+      - Flowers
+      - Vape products
+      - Hemp seeds
+      - Hemp clothing
+      - Other
+      required: true
+    - id: 16
+      name: purchase_limit_acknowledgment
+      label: Purchase Limit Acknowledgment
+      hint: Do you agree to purchase only the amount permitted by state and federal
+        regulations?
+      type: select_one
+      options:
+      - Yes, I agree
+      - 'No'
+      required: true
+    - id: 17
+      name: health_disclaimer_acknowledgment
+      label: Health Disclaimer Acknowledgment
+      hint: Do you acknowledge that hemp products are not intended to diagnose, treat,
+        cure, or prevent any disease?
+      type: select_one
+      options:
+      - Yes, I acknowledge
+      - 'No'
+      required: true
+    - id: 18
+      name: signature_consent
+      label: Signature Consent
+      hint: By checking this box, you consent to the terms and conditions
+      type: select_one
+      options:
+      - I agree and consent
+      - I do not agree
+      required: true
+    - id: 19
+      name: signature_date
+      label: Signature Date
+      hint: Date of agreement
+      type: date
+      options: []
+      required: true

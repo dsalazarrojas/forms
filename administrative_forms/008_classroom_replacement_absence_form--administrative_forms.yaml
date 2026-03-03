@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Classroom Replacement Absence Form
+    pages:
+    - id: 1
+      name: teacher_name
+      label: Teacher Name
+      hint: Full name of the teacher reporting absence
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: teacher_id
+      label: Teacher ID Number
+      hint: Employee or staff ID number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Your school email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: absence_date_start
+      label: Absence Start Date
+      hint: First day of absence
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: absence_date_end
+      label: Absence End Date
+      hint: Expected return date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: absence_type
+      label: Type of Absence
+      hint: Select the reason for absence
+      type: select_one
+      options:
+      - Illness
+      - Medical Appointment
+      - Family Emergency
+      - Personal Leave
+      - Professional Development
+      - Bereavement
+      - Other
+      required: true
+    - id: 8
+      name: grade_level_taught
+      label: Grade Level Taught
+      hint: Which grade levels will be affected
+      type: select_multiple
+      options:
+      - Kindergarten
+      - Grade 1-2
+      - Grade 3-5
+      - Grade 6-8
+      - Grade 9-12
+      required: true
+    - id: 9
+      name: subjects_affected
+      label: Subjects Affected
+      hint: Which subjects need coverage
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: classroom_location
+      label: Classroom Location
+      hint: Room number or location
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: replacement_teacher_needed
+      label: Replacement Teacher Needed
+      hint: Do you need a substitute or replacement teacher
+      type: select_one
+      options:
+      - Yes - Full day coverage needed
+      - Yes - Partial day coverage needed
+      - No - Work assigned for students to complete
+      - Unsure - Awaiting administrator decision
+      required: true
+    - id: 12
+      name: lesson_plans_provided
+      label: Lesson Plans Provided
+      hint: Have you prepared lesson plans for the substitute
+      type: select_one
+      options:
+      - Yes - Complete lesson plans provided
+      - Partially - Some materials provided
+      - No - Will provide later
+      - No - Students have independent work
+      required: true
+    - id: 13
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special instructions for the replacement teacher
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: student_roster_attached
+      label: Student Roster Attached
+      hint: Is the current student roster available
+      type: select_one
+      options:
+      - Yes - Attached to this form
+      - Yes - Available in classroom
+      - No - Will provide separately
+      required: true
+    - id: 15
+      name: ongoing_assignments
+      label: Ongoing Assignments
+      hint: Describe any ongoing projects or assignments the substitute should know
+        about
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: behavior_notes
+      label: Behavior Notes
+      hint: Any important behavior management notes for the substitute
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_available
+      label: Emergency Contact Available
+      hint: Can you be reached in case of emergency
+      type: select_one
+      options:
+      - Yes - Available by phone
+      - Yes - Available by email
+      - No - Unavailable during absence
+      required: true
+    - id: 18
+      name: administrator_notification
+      label: Administrator to Notify
+      hint: Name of the administrator who should be notified
+      type: text
+      options: []
+      required: true

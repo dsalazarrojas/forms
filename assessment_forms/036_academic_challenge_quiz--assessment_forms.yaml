@@ -1,0 +1,164 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: "Academic Challenge Quiz"
+    pages:
+    - id: 1
+      name: section_header_participant
+      label: "-- Participant Information --"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: "Full name"
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: "Email address"
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: grade_or_level
+      label: "Grade level or course"
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_header_general_knowledge
+      label: "-- General Knowledge --"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: q1_scientific_method
+      label: "What is the correct order of the scientific method"
+      hint: null
+      type: select_one
+      options:
+        - "Observation, hypothesis, experiment, analysis, conclusion"
+        - "Hypothesis, observation, conclusion, experiment, analysis"
+        - "Experiment, observation, hypothesis, conclusion, analysis"
+        - "Analysis, hypothesis, observation, experiment, conclusion"
+      required: true
+    - id: 7
+      name: q2_world_history
+      label: "The Renaissance period originated in which country"
+      hint: null
+      type: select_one
+      options:
+        - "France"
+        - "England"
+        - "Italy"
+        - "Spain"
+      required: true
+    - id: 8
+      name: q3_mathematics
+      label: "What is the value of the square root of 144"
+      hint: null
+      type: select_one
+      options:
+        - "10"
+        - "11"
+        - "12"
+        - "14"
+      required: true
+    - id: 9
+      name: q4_literature
+      label: "Who wrote the novel '1984'"
+      hint: null
+      type: select_one
+      options:
+        - "Aldous Huxley"
+        - "George Orwell"
+        - "Ray Bradbury"
+        - "H.G. Wells"
+      required: true
+    - id: 10
+      name: q5_geography
+      label: "Which is the longest river in the world"
+      hint: null
+      type: select_one
+      options:
+        - "Amazon River"
+        - "Nile River"
+        - "Mississippi River"
+        - "Yangtze River"
+      required: true
+    - id: 11
+      name: section_header_critical_thinking
+      label: "-- Critical Thinking --"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: q6_logic
+      label: "If all roses are flowers and some flowers fade quickly, which statement must be true"
+      hint: null
+      type: select_one
+      options:
+        - "All roses fade quickly"
+        - "Some roses may fade quickly"
+        - "No roses fade quickly"
+        - "Roses are not flowers"
+      required: true
+    - id: 13
+      name: q7_biology
+      label: "Which organelle is responsible for producing energy in a cell"
+      hint: null
+      type: select_one
+      options:
+        - "Nucleus"
+        - "Ribosome"
+        - "Mitochondria"
+        - "Golgi apparatus"
+      required: true
+    - id: 14
+      name: q8_chemistry
+      label: "What is the chemical symbol for gold"
+      hint: null
+      type: select_one
+      options:
+        - "Go"
+        - "Gd"
+        - "Au"
+        - "Ag"
+      required: true
+    - id: 15
+      name: q9_open_response
+      label: "Explain in your own words why critical thinking is important in academic study"
+      hint: "Write 2-3 sentences"
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: q10_self_assessment
+      label: "How would you rate your overall academic preparation"
+      hint: null
+      type: select_one
+      options:
+        - "Excellent"
+        - "Good"
+        - "Average"
+        - "Needs improvement"
+      required: true

@@ -1,0 +1,122 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Compensation Band Adjustment Form
+    pages:
+      - id: 1
+        name: adjustment_form_header
+        label: -- Compensation Band Adjustment Request --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: employee_name_adj
+        label: Employee Name
+        hint: Full name of the employee for the adjustment
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: employee_id_adj
+        label: Employee ID
+        hint: Unique payroll or HR ID
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: job_title_adj
+        label: Current Job Title
+        hint: As per official records
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: department_adj
+        label: Department
+        hint: Current organizational unit
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: current_comp_band
+        label: Current Compensation Band
+        hint: e.g., Grade 5, Band B, Level 2
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: proposed_comp_band
+        label: Proposed Compensation Band
+        hint: Target band after adjustment
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: adjustment_reason_primary
+        label: Primary Reason for Band Adjustment
+        hint: Select the most applicable reason
+        type: select_one
+        options:
+          - Role Expansion / Significant Change
+          - Market Correction / Benchmarking
+          - Retention Risk / Counter-offer
+          - Promotion to New Level
+          - Lateral Move to Different Function
+        required: true
+      - id: 9
+        name: effective_date_adj
+        label: Proposed Effective Date
+        hint: When should the adjustment take effect?
+        type: date
+        options: []
+        required: true
+      - id: 10
+        name: justification_summary
+        label: Detailed Justification for Adjustment
+        hint: Provide background data, market comparisons, or performance notes
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: budget_impact_status
+        label: Budget Approval Status
+        hint: Has this been discussed with the budget holder?
+        type: select_one
+        options:
+          - Approved in Budget
+          - Pending Approval
+          - Out of Budget (Requires special approval)
+        required: true
+      - id: 12
+        name: budget_holder_name
+        label: Budget Holder Name
+        hint: The executive or manager responsible for this budget
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: hr_rep_name
+        label: HR Representative Name
+        hint: Name of the HRBP processing this request
+        type: text
+        options: []
+        required: true
+      - id: 14
+        name: adjustment_form_submission_date
+        label: Date Submitted
+        hint: Today's date
+        type: date
+        options: []
+        required: true

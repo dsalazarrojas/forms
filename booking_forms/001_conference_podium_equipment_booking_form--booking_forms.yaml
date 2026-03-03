@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Podium Equipment Booking Form
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Requestor Full Name
+      hint: Enter your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department
+      label: Department or Organization
+      hint: Specify your department or organizing body
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: We will send confirmation to this email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number for urgent matters
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_name
+      label: Event Name
+      hint: Title of your conference or presentation
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: Select the date of your event
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: start_time
+      label: Start Time
+      hint: When does your event begin
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: end_time
+      label: End Time
+      hint: When does your event conclude
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: venue_location
+      label: Venue Location
+      hint: Room or hall number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: podium_type
+      label: Podium Type Required
+      hint: Select the type of podium needed
+      type: select_one
+      options:
+      - Standard Wooden Podium
+      - Modern Acrylic Podium
+      - Adjustable Height Podium
+      - Wheelchair Accessible Podium
+      - No Podium Required
+      required: true
+    - id: 11
+      name: microphone_requirement
+      label: Microphone Requirements
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Wireless Handheld Microphone
+      - Lapel Microphone
+      - Podium-mounted Microphone
+      - Wireless Headset Microphone
+      - No Microphone Needed
+      required: true
+    - id: 12
+      name: av_equipment
+      label: Additional AV Equipment
+      hint: Select any additional equipment needed
+      type: select_multiple
+      options:
+      - LCD Projector
+      - Large Screen Display
+      - Laser Pointer
+      - Recording Equipment
+      - Live Streaming Setup
+      - Sound System
+      - None Required
+      required: false
+    - id: 13
+      name: technical_support
+      label: Technical Support Required
+      hint: Do you need on-site technical support
+      type: select_one
+      options:
+      - Yes - Full Time Support
+      - Yes - During Setup Only
+      - Yes - During Event Only
+      - No Support Needed
+      required: true
+    - id: 14
+      name: setup_time
+      label: Setup Time Required
+      hint: When should equipment be set up
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: special_requirements
+      label: Special Requirements or Notes
+      hint: Any additional specifications or accessibility needs
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: estimated_attendees
+      label: Estimated Number of Attendees
+      hint: This helps us prepare appropriate equipment
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: backup_contact_name
+      label: Backup Contact Name
+      hint: Alternative contact person
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: backup_contact_phone
+      label: Backup Contact Phone
+      hint: Alternative contact number
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: terms_accepted
+      label: I agree to the equipment usage terms and conditions
+      hint: By accepting you agree to handle equipment responsibly
+      type: select_one
+      options:
+      - Yes I Accept
+      - No I Do Not Accept
+      required: true

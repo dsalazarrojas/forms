@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Harassment Report Form
+    pages:
+    - id: 1
+      name: report_details
+      label: Report Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_occurrence
+      label: Date of Occurrence
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time_of_occurrence
+      label: Time of Occurrence
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: description_of_incident
+      label: Description of Incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: perpetrator_info
+      label: Perpetrator Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: witness_info
+      label: Witness Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reporting_officer
+      label: Reporting Officer
+      hint: null
+      type: select_one
+      options:
+      - Reporting Officer 1
+      - Reporting Officer 2
+      - Reporting Officer 3
+      required: false
+    - id: 8
+      name: reporting_officer_email
+      label: Reporting Officer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: reporting_officer_phone
+      label: Reporting Officer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: witness_details
+      label: Witness Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: witness_statement
+      label: Witness Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit Form
+      - Submit Without Saving
+      required: false

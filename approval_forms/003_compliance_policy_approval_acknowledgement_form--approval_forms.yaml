@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Compliance Policy Approval Acknowledgement Form
+    pages:
+    - id: 1
+      name: section_acknowledgement_header
+      label: -- Acknowledgement --
+      hint: Read the policy linked below before acknowledging
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee id
+      hint: Company assigned identifier
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department or team
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Work email address
+      hint: For record of acknowledgement
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: policy_version_reviewed
+      label: Policy version reviewed
+      hint: Reference number or date of policy
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: acknowledgement_statement
+      label: I acknowledge that I have read the policy and agree to comply
+      hint: Select to confirm acknowledgement
+      type: select_one
+      options:
+      - I acknowledge
+      - Other
+      required: true
+    - id: 8
+      name: date_signed
+      label: Date signed
+      hint: Date of acknowledgement
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: comments
+      label: Comments or questions
+      hint: Optional feedback for compliance team
+      type: text
+      options: []
+      required: false

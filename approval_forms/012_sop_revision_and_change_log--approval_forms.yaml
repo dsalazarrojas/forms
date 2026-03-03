@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: SOP Revision And Change Log
+    pages:
+    - id: 1
+      name: sop_revision_and_change_log_form_data
+      label: sop_revision_and_change_log_form_data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: revision_number
+      label: revision_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: revision_date
+      label: revision_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: previous_revision
+      label: previous_revision
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: current_revision_status
+      label: current_revision_status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: revision_author
+      label: revision_author
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: review_and_approvals
+      label: review_and_approvals
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: routing
+      label: routing
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: review_due_date
+      label: review_due_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: review_date
+      label: review_date
+      hint: null
+      type: date
+      options: []
+      required: false

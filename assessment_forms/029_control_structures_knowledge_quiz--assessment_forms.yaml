@@ -1,0 +1,336 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Control Structures Knowledge Quiz
+    pages:
+      - id: 1
+        name: participant_name
+        label: Full Name
+        hint: Your name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: email
+        label: Email Address
+        hint: For results delivery
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: institution
+        label: Institution or Organization
+        hint: School or company name
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: experience_level
+        label: Programming Experience Level
+        hint: How experienced are you
+        type: select_one
+        options:
+          - Beginner
+          - Intermediate
+          - Advanced
+          - Expert
+        required: true
+      - id: 5
+        name: section_sequence
+        label: -- Sequence and Selection --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: q1
+        label: What is a sequence control structure
+        hint: null
+        type: select_one
+        options:
+          - Code executed in order from top to bottom
+          - A way to repeat code
+          - A decision-making structure
+          - A data storage method
+        required: true
+      - id: 7
+        name: q2
+        label: Which statement is used for binary selection
+        hint: null
+        type: select_one
+        options:
+          - if-else
+          - for loop
+          - while loop
+          - switch case
+        required: true
+      - id: 8
+        name: q3
+        label: What does a switch statement do
+        hint: null
+        type: select_one
+        options:
+          - Selects one case from multiple options
+          - Loops through an array
+          - Creates a new variable
+          - Exits a function
+        required: true
+      - id: 9
+        name: q4
+        label: What is nested selection
+        hint: null
+        type: select_one
+        options:
+          - An if statement inside another if statement
+          - Multiple loops combined
+          - A switch with cases
+          - Sequential execution
+        required: true
+      - id: 10
+        name: section_iteration
+        label: -- Iteration (Loops) --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: q5
+        label: What is a loop in programming
+        hint: null
+        type: select_one
+        options:
+          - A structure that repeats code
+          - A conditional statement
+          - A variable declaration
+          - A function call
+        required: true
+      - id: 12
+        name: q6
+        label: Which loop checks condition before executing
+        hint: null
+        type: select_one
+        options:
+          - while loop
+          - do-while loop
+          - for loop
+          - foreach loop
+        required: true
+      - id: 13
+        name: q7
+        label: Which loop guarantees at least one execution
+        hint: null
+        type: select_one
+        options:
+          - do-while loop
+          - while loop
+          - for loop
+          - nested loop
+        required: true
+      - id: 14
+        name: q8
+        label: What is an infinite loop
+        hint: null
+        type: select_one
+        options:
+          - A loop that never terminates
+          - A loop that runs once
+          - A loop with no body
+          - A loop with multiple conditions
+        required: true
+      - id: 15
+        name: q9
+        label: What is the purpose of a for loop
+        hint: null
+        type: select_one
+        options:
+          - To iterate a specific number of times
+          - To make decisions
+          - To store data
+          - To define functions
+        required: true
+      - id: 16
+        name: q10
+        label: What does the break statement do
+        hint: null
+        type: select_one
+        options:
+          - Exits a loop or switch
+          - Continues to next iteration
+          - Restarts the loop
+          - Pauses execution
+        required: true
+      - id: 17
+        name: q11
+        label: What does the continue statement do
+        hint: null
+        type: select_one
+        options:
+          - Skips to next iteration
+          - Exits the loop
+          - Restarts the program
+          - Stops all loops
+        required: true
+      - id: 18
+        name: section_advanced
+        label: -- Advanced Concepts --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: q12
+        label: What is a nested loop
+        hint: null
+        type: select_one
+        options:
+          - A loop inside another loop
+          - Two loops side by side
+          - A loop with multiple conditions
+          - An infinite loop
+        required: true
+      - id: 20
+        name: q13
+        label: What is loop unrolling
+        hint: null
+        type: select_one
+        options:
+          - Optimization technique to reduce iterations
+          - A type of infinite loop
+          - Breaking out of nested loops
+          - Converting while to for loop
+        required: true
+      - id: 21
+        name: q14
+        label: What is a sentinel value
+        hint: null
+        type: select_one
+        options:
+          - A special value that terminates a loop
+          - The starting value of a loop
+          - The increment value
+          - A loop counter
+        required: true
+      - id: 22
+        name: q15
+        label: What is recursion
+        hint: null
+        type: select_one
+        options:
+          - A function calling itself
+          - A loop within a function
+          - Multiple functions calling each other
+          - An infinite loop
+        required: true
+      - id: 23
+        name: section_code_reading
+        label: -- Code Reading --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 24
+        name: q16
+        label: How many times does this loop execute - for i in range 5
+        hint: null
+        type: select_one
+        options:
+          - 5 times
+          - 4 times
+          - 6 times
+          - Infinite
+        required: true
+      - id: 25
+        name: q17
+        label: What is the output of a while loop with condition always true
+        hint: null
+        type: select_one
+        options:
+          - Infinite loop
+          - Runs once
+          - Never runs
+          - Error
+        required: true
+      - id: 26
+        name: q18
+        label: In a for loop what happens after each iteration
+        hint: null
+        type: select_one
+        options:
+          - Update expression is executed
+          - Loop terminates
+          - Condition is ignored
+          - Program exits
+        required: true
+      - id: 27
+        name: section_best_practices
+        label: -- Best Practices --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 28
+        name: q19
+        label: What is the best practice for loop counters
+        hint: null
+        type: select_one
+        options:
+          - Use meaningful variable names
+          - Always use i j k
+          - Use single letters
+          - No naming convention needed
+        required: true
+      - id: 29
+        name: q20
+        label: How do you prevent off-by-one errors
+        hint: null
+        type: select_one
+        options:
+          - Carefully check loop boundaries
+          - Always use less than
+          - Always use less than or equal
+          - Avoid loops entirely
+        required: true
+      - id: 30
+        name: section_self_assessment
+        label: -- Self Assessment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 31
+        name: confidence_level
+        label: How confident do you feel about control structures
+        hint: null
+        type: select_one
+        options:
+          - Very Confident
+          - Somewhat Confident
+          - Neutral
+          - Not Very Confident
+          - Not Confident at All
+        required: true
+      - id: 32
+        name: topics_for_review
+        label: Topics you need to review
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - If-else statements
+          - Switch cases
+          - For loops
+          - While loops
+          - Nested structures
+          - Break and continue
+          - None - I feel confident
+        required: false

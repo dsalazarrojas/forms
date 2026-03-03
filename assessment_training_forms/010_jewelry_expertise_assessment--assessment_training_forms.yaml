@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Jewelry Expertise Assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: assess_knowledge
+      label: assess knowledge
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''A''}'
+      - '{''value'': ''B''}'
+      - '{''value'': ''C''}'
+      required: true
+    - id: 3
+      name: jewelry_knowledge
+      label: jewelry knowledge
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''diamond''}'
+      - '{''value'': ''gold''}'
+      - '{''value'': ''silver''}'
+      required: true
+    - id: 4
+      name: skills_required
+      label: skills required
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: experience
+      label: experience
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: certification
+      label: certification
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''GIA''}'
+      - '{''value'': ''WJA''}'
+      - '{''value'': ''NAMP''}'
+      required: false
+    - id: 7
+      name: other
+      label: other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: company
+      label: company
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''JOTFORM''}'
+      - '{''value'': ''OTHER''}'
+      required: true
+    - id: 9
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: contact_phone
+      label: contact phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: conclusion
+      label: conclusion
+      hint: null
+      type: note
+      options: []
+      required: false

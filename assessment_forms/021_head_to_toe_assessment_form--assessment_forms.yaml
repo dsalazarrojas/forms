@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Head To Toe Assessment Form
+    pages:
+    - id: 1
+      name: patient_id
+      label: Patient Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_visit
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time_of_visit
+      label: Time of Visit
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: reason_for_visit
+      label: Reason for Visit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: patient_condition
+      label: Patient Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: vital_signs
+      label: Vital Signs
+      hint: null
+      type: select_multiple
+      options:
+      - Blood Pressure
+      - Pulse
+      - Respiratory Rate
+      - Respiratory Effort
+      required: false
+    - id: 8
+      name: muscle_strength
+      label: Muscle Strength
+      hint: null
+      type: select_multiple
+      options:
+      - 5/5
+      - 4/5
+      - 3/5
+      - 2/5
+      - 1/5
+      required: true
+    - id: 9
+      name: muscle_tone
+      label: Muscle Tone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: muscle_atrophy
+      label: Muscle Atrophy
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: sensory
+      label: Sensory
+      hint: null
+      type: select_multiple
+      options:
+      - Visual
+      - Auditory
+      - Proprioception
+      - Touch
+      - Intestinal
+      required: true
+    - id: 12
+      name: motor_function
+      label: Motor Function
+      hint: null
+      type: select_multiple
+      options:
+      - 2/5
+      - 3/5
+      - 4/5
+      - 5/5
+      required: true
+    - id: 13
+      name: cognitive_function
+      label: Cognitive Function
+      hint: null
+      type: select_multiple
+      options:
+      - 2/5
+      - 3/5
+      - 4/5
+      - 5/5
+      required: false
+    - id: 14
+      name: patient_status
+      label: Patient Status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: physician_notes
+      label: Physician Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: physician_signature
+      label: Physician Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: date_of_next_visit
+      label: Date of Next Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: date_of_next_visit_tentative
+      label: Date of Next Visit (Tentative)
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: time_of_next_visit
+      label: Time of Next Visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: time_of_next_visit_tentative
+      label: Time of Next Visit (Tentative)
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 22
+      name: next_visit_comments
+      label: Next Visit Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: patient_history
+      label: Patient History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: physician_comments
+      label: Physician Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: head_to_toe_notes
+      label: Head to Toe Notes
+      hint: null
+      type: text
+      options: []
+      required: false

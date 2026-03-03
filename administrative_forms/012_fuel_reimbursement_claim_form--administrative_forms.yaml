@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fuel Reimbursement Claim Form
+    pages:
+    - id: 1
+      name: fuel_reimbursement_claim_form_1
+      label: claim_employer_fuel_expense
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: claim_fuel_expense_date
+      label: claim_fuel_expense_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: claim_miles_driven
+      label: claim_miles_driven
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: claim_fuel_expense_type
+      label: claim_fuel_expense_type
+      hint: null
+      type: select_one
+      options:
+      - Business
+      - Personal
+      - Other
+      required: true
+    - id: 5
+      name: claim_fuel_expense_amount
+      label: claim_fuel_expense_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: claim_fuel_expense_mileage
+      label: claim_fuel_expense_mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: claim_fuel_expense_rate
+      label: claim_fuel_expense_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: claim_reimbursement_amount
+      label: claim_reimbursement_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: claim_additional_expense
+      label: claim_additional_expense
+      hint: null
+      type: text
+      options: []
+      required: false

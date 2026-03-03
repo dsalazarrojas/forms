@@ -1,0 +1,200 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Checklist For Control Measures
+    pages:
+      - id: 1
+        name: organization_name
+        label: Organization Name
+        hint: Name of your organization
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: department
+        label: Department
+        hint: Department conducting the assessment
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: assessment_date
+        label: Assessment Date
+        hint: Date of this control measures evaluation
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: assessor_name
+        label: Assessor Name
+        hint: Name of the person conducting the assessment
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: facility_location
+        label: Facility Location
+        hint: Location or site being assessed
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: safety_protocols_documented
+        label: Safety Protocols Documented
+        hint: Are all safety protocols properly documented
+        type: select_one
+        options:
+          - Yes, fully documented
+          - Partially documented
+          - Not documented
+          - Not applicable
+        required: true
+      - id: 7
+        name: risk_assessment_current
+        label: Risk Assessment Current
+        hint: Is the risk assessment up to date
+        type: select_one
+        options:
+          - Yes, current
+          - Needs update
+          - Not available
+        required: true
+      - id: 8
+        name: ppe_availability
+        label: PPE Availability
+        hint: Is personal protective equipment available and accessible
+        type: select_one
+        options:
+          - Fully available
+          - Partially available
+          - Not available
+          - Not applicable
+        required: true
+      - id: 9
+        name: emergency_procedures_posted
+        label: Emergency Procedures Posted
+        hint: Are emergency procedures clearly displayed
+        type: select_one
+        options:
+          - Yes, all areas
+          - Yes, some areas
+          - No
+        required: true
+      - id: 10
+        name: training_records_complete
+        label: Training Records Complete
+        hint: Are employee training records up to date
+        type: select_one
+        options:
+          - Yes, all complete
+          - Partially complete
+          - Incomplete
+        required: true
+      - id: 11
+        name: equipment_maintenance_current
+        label: Equipment Maintenance Current
+        hint: Is all equipment properly maintained
+        type: select_one
+        options:
+          - Yes, all current
+          - Some overdue
+          - Not maintained
+        required: true
+      - id: 12
+        name: hazard_communication
+        label: Hazard Communication
+        hint: Are hazards properly communicated to staff
+        type: select_one
+        options:
+          - Excellent
+          - Adequate
+          - Needs improvement
+          - Poor
+        required: true
+      - id: 13
+        name: incident_reporting_system
+        label: Incident Reporting System
+        hint: Is there a functional incident reporting system
+        type: select_one
+        options:
+          - Yes, fully functional
+          - Yes, with issues
+          - No system in place
+        required: true
+      - id: 14
+        name: first_aid_supplies
+        label: First Aid Supplies
+        hint: Are first aid supplies stocked and accessible
+        type: select_one
+        options:
+          - Fully stocked
+          - Partially stocked
+          - Not stocked
+        required: true
+      - id: 15
+        name: fire_safety_equipment
+        label: Fire Safety Equipment
+        hint: Are fire extinguishers and alarms functional
+        type: select_one
+        options:
+          - All functional
+          - Some issues
+          - Not functional
+        required: true
+      - id: 16
+        name: ventilation_system
+        label: Ventilation System
+        hint: Is ventilation adequate and working
+        type: select_one
+        options:
+          - Adequate and working
+          - Adequate but needs repair
+          - Inadequate
+          - Not applicable
+        required: true
+      - id: 17
+        name: corrective_actions_needed
+        label: Corrective Actions Needed
+        hint: List any corrective actions required
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: follow_up_date
+        label: Follow-up Date
+        hint: Date for follow-up assessment
+        type: date
+        options: []
+        required: false
+      - id: 19
+        name: overall_compliance_rating
+        label: Overall Compliance Rating
+        hint: Overall assessment of control measures
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - Critical
+        required: true
+      - id: 20
+        name: assessor_signature
+        label: Assessor Confirmation
+        hint: I confirm this assessment is accurate
+        type: select_one
+        options:
+          - Yes, I confirm
+          - No
+        required: true

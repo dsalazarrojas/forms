@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Autism Screening Appointment Form
+    pages:
+    - id: 1
+      name: appointment_request_date
+      label: Appointment Request Date
+      hint: Date you are scheduling
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: parent_email
+      label: Parent Email
+      hint: Your email contact
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: parent_phone
+      label: Parent Phone
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: child_name
+      label: Child Full Name
+      hint: Name of child for screening
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: child_date_of_birth
+      label: Child Date of Birth
+      hint: Child's birth date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: child_age
+      label: Child Current Age
+      hint: Age in years
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: child_gender
+      label: Child Gender
+      hint: Male, female, or other
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer Not to Say
+      required: false
+    - id: 9
+      name: preferred_appointment_date
+      label: Preferred Appointment Date
+      hint: When would you like the screening
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: preferred_time
+      label: Preferred Appointment Time
+      hint: Morning, afternoon, or evening
+      type: select_one
+      options:
+      - Morning - 8am to 12pm
+      - Afternoon - 12pm to 4pm
+      - Late Afternoon - 4pm to 6pm
+      - Flexible - Anytime
+      required: true
+    - id: 11
+      name: clinician_preference
+      label: Clinician Preference
+      hint: Do you have a preferred clinician
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: referral_source
+      label: Who Referred You
+      hint: How did you learn about this service
+      type: select_one
+      options:
+      - Pediatrician
+      - School
+      - Family Member
+      - Friend
+      - Online Search
+      - Insurance
+      - Early Intervention Program
+      - Other
+      required: true
+    - id: 13
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Your insurance company name
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: insurance_member_id
+      label: Insurance Member ID
+      hint: Policy or member ID number
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: primary_concerns
+      label: Primary Concerns
+      hint: What specific concerns do you have
+      type: select_multiple
+      options:
+      - Social Communication Difficulties
+      - Repetitive Behaviors
+      - Speech Delay
+      - Sensory Issues
+      - Behavioral Concerns
+      - School Performance Issues
+      - Family History of Autism
+      required: true
+    - id: 16
+      name: concerns_details
+      label: Detailed Description of Concerns
+      hint: Explain your concerns in detail
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: developmental_history
+      label: Developmental Milestones
+      hint: Any delays in development
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: speech_language_status
+      label: Speech and Language Status
+      hint: Current speech/language abilities
+      type: select_one
+      options:
+      - Not Speaking
+      - Limited Words
+      - Simple Phrases
+      - Conversational but Delayed
+      - Age Appropriate
+      required: false
+    - id: 19
+      name: social_interaction
+      label: Social Interaction Abilities
+      hint: How does child interact socially
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: sensory_sensitivities
+      label: Sensory Sensitivities
+      hint: Any sensory concerns
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: school_status
+      label: School Status
+      hint: Is child in school
+      type: select_one
+      options:
+      - Preschool
+      - Kindergarten
+      - Elementary School
+      - Not in School Yet
+      - Homeschooled
+      - Special Education
+      required: false
+    - id: 22
+      name: school_concerns
+      label: School Performance Concerns
+      hint: Any issues at school
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medical_history
+      label: Relevant Medical History
+      hint: Any medical conditions relevant to screening
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: current_medications
+      label: Current Medications
+      hint: Any medications child is taking
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: family_history_autism
+      label: Family History of Autism or ADHD
+      hint: Any family members diagnosed
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: seed_requisition_form
+    pages:
+    - id: 1
+      name: user
+      label: User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: seed_source
+      label: Seed source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: seed_type
+      label: Seed type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: unit_of_measurement
+      label: Unit of measurement
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''kg''}'
+      - '{''value'': ''lbs''}'
+      - '{''value'': ''g''}'
+      - '{''value'': ''oz''}'
+      required: false
+    - id: 6
+      name: seed_description
+      label: Seed description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: seed_request_date
+      label: Seed request date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: seed_request_time
+      label: Seed request time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: seed_request_number
+      label: Seed request number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: form_submitted
+      label: Form submitted
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: submission_date
+      label: Submission date
+      hint: null
+      type: date
+      options: []
+      required: false

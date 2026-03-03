@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Record Use Consent Form
+    pages:
+    - id: 1
+      name: record_owner_name
+      label: Record Owner Name
+      hint: Full name of the person or entity that owns the accounting records
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: record_owner_organization
+      label: Record Owner Organization
+      hint: Name of the organization that owns the accounting records
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: authorized_representative
+      label: Authorized Representative
+      hint: Name of the person authorized to give consent on behalf of the owner
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: representative_title
+      label: Representative Title
+      hint: Job title of the person giving consent
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: Email address for communication regarding record use
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number for communication regarding record use
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: records_to_be_used
+      label: Type of Accounting Records to be Used
+      hint: Select all types of records that will be accessed
+      type: select_multiple
+      options:
+      - General Ledger
+      - Accounts Receivable
+      - Accounts Payable
+      - Bank Statements
+      - Tax Returns
+      - Financial Statements
+      - Journal Entries
+      - Supporting Documentation
+      - Audit Reports
+      required: true
+    - id: 8
+      name: purpose_of_use
+      label: Purpose of Using These Records
+      hint: Why do you need access to these accounting records
+      type: select_one
+      options:
+      - Audit purposes
+      - Tax preparation
+      - Financial analysis
+      - Legal proceedings
+      - Due diligence
+      - Research study
+      - Educational purposes
+      - Regulatory compliance
+      required: true
+    - id: 9
+      name: duration_of_access
+      label: Duration of Access
+      hint: How long do you need access to these records
+      type: select_one
+      options:
+      - One-time access
+      - Up to 30 days
+      - Up to 90 days
+      - Up to 1 year
+      - Ongoing access
+      - Until project completion
+      required: true
+    - id: 10
+      name: record_usage_restrictions
+      label: Are there any restrictions on how these records can be used
+      hint: Specify any limitations on the use of these records
+      type: select_one
+      options:
+      - No restrictions
+      - For specified purpose only
+      - Cannot share with third parties
+      - Cannot publish or distribute
+      - Other restrictions
+      required: true
+    - id: 11
+      name: data_security_measures
+      label: Data Security Measures
+      hint: How will the records be protected during use
+      type: select_multiple
+      options:
+      - Password-protected systems
+      - Encrypted storage
+      - Secure network connections
+      - Limited personnel access
+      - Regular backups
+      - Access logs maintained
+      required: true
+    - id: 12
+      name: consent_agreement
+      label: Consent Agreement
+      hint: Do you consent to the use of these accounting records as described
+      type: select_one
+      options:
+      - Yes, I consent to the use of these records
+      - No, I do not consent to the use of these records
+      required: true
+    - id: 13
+      name: signature_date
+      label: Signature Date
+      hint: Date of consent agreement
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bank Account Update Request Form
+    pages:
+    - id: 1
+      name: identification_header
+      label: -- Account Holder Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: current_full_name
+      label: Current Full Name on Account
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: phone_verification
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: update_type_header
+      label: -- Select Updates to be Made --
+      hint: Choose all that apply
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: updates_selected
+      label: Information to Update
+      hint: null
+      type: select_multiple
+      options:
+      - Legal Name Change
+      - Primary Mailing Address
+      - Contact Phone/Email
+      - Tax ID / SSN Correction
+      - Add / Remove Joint Account Holder
+      - Change Beneficiary
+      required: true
+    - id: 7
+      name: name_change_header
+      label: -- Legal Name Change Details --
+      hint: Only if selected above
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: new_legal_name
+      label: New Legal Name
+      hint: Legal documentation (Marriage Cert, Court Order) will be required
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: address_change_header
+      label: -- Address and Contact Update --
+      hint: Only if selected above
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: new_address
+      label: New Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: new_email
+      label: New Primary Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: joint_holder_header
+      label: -- Joint Account Holder Update --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: joint_holder_name
+      label: Name of Joint Holder to Add/Remove
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: joint_holder_action
+      label: Action for Joint Holder
+      hint: null
+      type: select_one
+      options:
+      - Add New Joint Holder
+      - Remove Existing Joint Holder
+      required: false
+    - id: 15
+      name: authorization_header
+      label: -- Authorization and Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: verification_method
+      label: Preferred Verification Method
+      hint: We may contact you to verify these changes
+      type: select_one
+      options:
+      - SMS Code
+      - Email Link
+      - Phone Call from Representative
+      - In-Person Visit
+      required: true
+    - id: 17
+      name: authorization_statement
+      label: I authorize the bank to update my records as specified above
+      hint: I certify that all information provided is accurate
+      type: select_one
+      options:
+      - I Authorize and Certify
+      - Other
+      required: true
+    - id: 18
+      name: request_date
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: true

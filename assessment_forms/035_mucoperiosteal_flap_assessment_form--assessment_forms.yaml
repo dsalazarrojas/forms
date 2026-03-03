@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mucoperiosteal Flap Assessment Form
+    pages:
+    - id: 1
+      name: patient_details
+      label: patient_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: flap_location
+      label: flap_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: flap_orientation
+      label: flap_orientation
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      required: false
+    - id: 4
+      name: flap_type
+      label: flap_type
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 5
+      name: flap_size
+      label: flap_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: flap_color
+      label: flap_color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: flap_location
+      label: flap_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: flap_comments
+      label: flap_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: flap_image
+      label: flap_image
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: flap_image_comment
+      label: flap_image_comment
+      hint: null
+      type: note
+      options: []
+      required: false

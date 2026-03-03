@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Assessment Booking Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Full Name
+      hint: Legal name as on ID
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For confirmation and reminders
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Best number to reach you
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Mailing Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: assessment_type
+      label: Type of Assessment
+      hint: Select the assessment you need
+      type: select_one
+      options:
+      - Psychological Assessment
+      - Educational Assessment
+      - Career Assessment
+      - Skills Assessment
+      - Health Assessment
+      - Property Assessment
+      - Business Assessment
+      required: true
+    - id: 7
+      name: preferred_date
+      label: Preferred Assessment Date
+      hint: First choice of date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: alternative_date
+      label: Alternative Date
+      hint: Second choice if first is unavailable
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: preferred_time
+      label: Preferred Time of Day
+      hint: When are you available
+      type: select_one
+      options:
+      - Morning - 8am to 12pm
+      - Early Afternoon - 12pm to 3pm
+      - Late Afternoon - 3pm to 6pm
+      - Evening - 6pm to 8pm
+      required: true
+    - id: 10
+      name: location_preference
+      label: Location Preference
+      hint: Where would you like the assessment
+      type: select_one
+      options:
+      - In Person - Main Office
+      - In Person - Satellite Location
+      - Video Call
+      - Phone Assessment
+      - On Site Visit
+      required: true
+    - id: 11
+      name: previous_assessments
+      label: Have You Had This Assessment Before
+      hint: Previous experience
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: special_needs
+      label: Special Needs or Accommodations
+      hint: Any accommodations required
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: language_preference
+      label: Language Preference
+      hint: Preferred language for assessment
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - Mandarin
+      - Other
+      required: true
+    - id: 14
+      name: referral_source
+      label: Referral Source
+      hint: Who referred you
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: insurance_provider
+      label: Insurance Provider
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: insurance_id
+      label: Insurance ID Number
+      hint: Policy or member ID
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Insurance
+      - Credit Card
+      - Debit Card
+      - Cash
+      - Check
+      - Bank Transfer
+      required: true
+    - id: 18
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Person to contact if needed
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Their phone number
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: consent_agreement
+      label: I Agree to Assessment Terms
+      hint: Confirm you understand and agree
+      type: select_one
+      options:
+      - Yes I Agree
+      - No I Do Not Agree
+      required: true
+    - id: 21
+      name: privacy_acknowledgment
+      label: I Acknowledge Privacy Policy
+      hint: You have read the privacy policy
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: booking_date
+      label: Booking Date
+      hint: Today date
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dress Code Revision Request Form
+    pages:
+    - id: 1
+      name: employee_request
+      label: Employee request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dress_code_update
+      label: Dress Code Update
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: Date of Revision
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: employee_approval
+      label: Employee Approval
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: reason_for_rejection
+      label: Reason for Rejection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: employee_comments
+      label: Employee Comments
+      hint: null
+      type: note
+      options: []
+      required: false

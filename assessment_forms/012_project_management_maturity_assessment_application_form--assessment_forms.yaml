@@ -1,0 +1,259 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Management Maturity Assessment Application Form
+    pages:
+    - id: 1
+      name: project_management_maturity_index
+      label: Project Management Maturity Index
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: organization_size
+      label: organization_size
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_team_structure
+      label: Project Team Structure
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Project Manager''}'
+      - '{''value'': ''Project Manager and team members''}'
+      - '{''value'': ''Project Manager and all team members''}'
+      required: true
+    - id: 4
+      name: project_management_maturity_level
+      label: Project Management Maturity Level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Beginner''}'
+      - '{''value'': ''Intermediate''}'
+      - '{''value'': ''Advanced''}'
+      - '{''value'': ''Expert''}'
+      required: true
+    - id: 5
+      name: project_scope_and_purpose
+      label: Project Scope and Purpose
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Project with well-defined scope and purpose''}'
+      - '{''value'': ''Project with partially defined scope and purpose''}'
+      - '{''value'': ''Project with undefined scope and purpose''}'
+      required: true
+    - id: 6
+      name: project_phases_and_activities
+      label: Project Phases and Activities
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Multiple phases with well-defined activities''}'
+      - '{''value'': ''Multiple phases with partially defined activities''}'
+      - '{''value'': ''Single phase with well-defined activities''}'
+      required: true
+    - id: 7
+      name: project_management_process_improvement
+      label: Project Management Process Improvement
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Strongly agree''}'
+      - '{''value'': ''Neutral''}'
+      - '{''value'': ''Strongly disagree''}'
+      required: true
+    - id: 8
+      name: project_management_process_innovation
+      label: Project Management Process Innovation
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Strongly agree''}'
+      - '{''value'': ''Neutral''}'
+      - '{''value'': ''Strongly disagree''}'
+      required: true
+    - id: 9
+      name: project_management_process_innovation_plan
+      label: Project Management Process Innovation Plan
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 10
+      name: project_management_process_innovation_implemented
+      label: Project Management Process Innovation Implemented
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 11
+      name: project_management_process_innovation_success
+      label: Project Management Process Innovation Success
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Strongly agree''}'
+      - '{''value'': ''Neutral''}'
+      - '{''value'': ''Strongly disagree''}'
+      required: true
+    - id: 12
+      name: project_management_process_innovation_sustainability
+      label: Project Management Process Innovation Sustainability
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Strongly agree''}'
+      - '{''value'': ''Neutral''}'
+      - '{''value'': ''Strongly disagree''}'
+      required: true
+    - id: 13
+      name: project_management_process_innovation_adoption
+      label: Project Management Process Innovation Adoption
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Strongly agree''}'
+      - '{''value'': ''Neutral''}'
+      - '{''value'': ''Strongly disagree''}'
+      required: true
+    - id: 14
+      name: project_management_process_innovation_sustainability_roadmap
+      label: Project Management Process Innovation Sustainability Roadmap
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 15
+      name: project_management_process_innovation_sustainability_plan
+      label: Project Management Process Innovation Sustainability Plan
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 16
+      name: project_management_process_innovation_sustainability_roadmap_implemented
+      label: Project Management Process Innovation Sustainability Roadmap Implemented
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 17
+      name: project_management_process_innovation_sustainability_success
+      label: Project Management Process Innovation Sustainability Success
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Strongly agree''}'
+      - '{''value'': ''Neutral''}'
+      - '{''value'': ''Strongly disagree''}'
+      required: true
+    - id: 18
+      name: organizational_change_adoption
+      label: Organizational Change Adoption
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Strongly agree''}'
+      - '{''value'': ''Neutral''}'
+      - '{''value'': ''Strongly disagree''}'
+      required: true
+    - id: 19
+      name: project_management_process_innovation_roadmap
+      label: Project Management Process Innovation Roadmap
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 20
+      name: project_management_process_innovation_sustainability_roadmap
+      label: Project Management Process Innovation Sustainability Roadmap
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 21
+      name: project_management_process_innovation_sustainability_roadmap_implemented
+      label: Project Management Process Innovation Sustainability Roadmap Implemented
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 22
+      name: project_management_process_innovation_sustainability_success
+      label: Project Management Process Innovation Sustainability Success
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Strongly agree''}'
+      - '{''value'': ''Neutral''}'
+      - '{''value'': ''Strongly disagree''}'
+      required: true
+    - id: 23
+      name: project_management_process_innovation_sustainability_roadmap_sustainability
+      label: Project Management Process Innovation Sustainability Roadmap Sustainability
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Strongly agree''}'
+      - '{''value'': ''Neutral''}'
+      - '{''value'': ''Strongly disagree''}'
+      required: true
+    - id: 24
+      name: project_management_process_innovation_sustainability_success_implemented
+      label: Project Management Process Innovation Sustainability Success Implemented
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 25
+      name: project_management_process_innovation_sustainability_success_implemented
+      label: Project Management Process Innovation Success Implemented
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 26
+      name: organizational_change_adoption_implemented
+      label: Organizational Change Adoption Implemented
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 27
+      name: organizational_change_adoption_success
+      label: Organizational Change Adoption Success
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Strongly agree''}'
+      - '{''value'': ''Neutral''}'
+      - '{''value'': ''Strongly disagree''}'
+      required: false

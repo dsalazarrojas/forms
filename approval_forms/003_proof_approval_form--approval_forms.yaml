@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Proof Approval Form
+    pages:
+    - id: 1
+      name: proof_approval_form
+      label: proof_approval_form
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: proof_id
+      label: proof_id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: proof_type
+      label: proof_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: approval_date
+      label: approval_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: approval_time
+      label: approval_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: approval_status
+      label: approval_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false

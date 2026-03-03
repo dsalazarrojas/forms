@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: overtime_report_form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: total_hours
+      label: Total Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: Select Department
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Accounting''}'
+      - '{''id'': 2, ''label'': ''Engineering''}'
+      - '{''id'': 3, ''label'': ''Human Resources''}'
+      required: false
+    - id: 5
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Approve''}'
+      - '{''id'': 2, ''label'': ''Deny''}'
+      - '{''id'': 3, ''label'': ''Delegate''}'
+      required: false
+    - id: 6
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: overtime_claim
+      label: Overtime Claim
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

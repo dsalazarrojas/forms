@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Case Review Access Request
+    pages:
+    - id: 1
+      name: user
+      label: User
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: reason_for_request
+      label: Reason for Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: justification_for_request
+      label: Justification for Request
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: access_type
+      label: Access Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: confidentiality_acknowledgement
+      label: Confidentiality Acknowledgment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: institution
+      label: Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reviewer
+      label: Reviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: submitted_on
+      label: Submitted on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: updated_by
+      label: Updated by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: updated_on
+      label: Updated on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: completed_by
+      label: Completed by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,315 @@
+inputSchema:
+  type: object
+  properties:
+    title: Airbag Control Unit Claim Form
+    pages:
+    - id: 1
+      name: claimant_name
+      label: Claimant Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: claimant_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: claimant_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: claimant_address
+      label: Street Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: claim_date
+      label: Claim Date
+      hint: Date of claim submission
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: claim_number
+      label: Claim Number
+      hint: Reference number if available
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_year
+      label: Vehicle Year
+      hint: Year of vehicle
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: vehicle_make
+      label: Vehicle Make
+      hint: Manufacturer
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: vehicle_model
+      label: Vehicle Model
+      hint: Model name
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: vin
+      label: Vehicle Identification Number (VIN)
+      hint: Full VIN
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: mileage
+      label: Current Mileage
+      hint: Odometer reading
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: incident_date
+      label: Incident Date
+      hint: Date of incident
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: incident_location
+      label: Incident Location
+      hint: Where did incident occur
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: incident_type
+      label: Incident Type
+      hint: Type of incident
+      type: select_one
+      options:
+      - Collision
+      - Non-deployment malfunction
+      - Unintended deployment
+      - Failure to deploy
+      - Warning light on
+      - System error
+      - Other
+      required: true
+    - id: 18
+      name: airbag_deployment
+      label: Airbag Deployment Status
+      hint: Did airbags deploy
+      type: select_one
+      options:
+      - Deployed as expected
+      - Did not deploy
+      - Unintended deployment
+      - Partial deployment
+      - Not applicable
+      required: true
+    - id: 19
+      name: acu_part_number
+      label: ACU Part Number
+      hint: Control unit part number
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: acu_serial_number
+      label: ACU Serial Number
+      hint: Serial number if available
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: symptoms_observed
+      label: Symptoms Observed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Airbag warning light on
+      - No warning light
+      - Error codes stored
+      - Physical damage
+      - System malfunction
+      - Post-crash issues
+      - Other
+      required: true
+    - id: 22
+      name: diagnostic_codes
+      label: Diagnostic Trouble Codes
+      hint: Any DTC codes retrieved
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: injuries_sustained
+      label: Injuries Sustained
+      hint: Were there injuries
+      type: select_one
+      options:
+      - None
+      - Minor injuries
+      - Moderate injuries
+      - Serious injuries
+      - Fatal
+      required: true
+    - id: 24
+      name: injury_description
+      label: Injury Description
+      hint: Describe injuries
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: vehicle_damage
+      label: Vehicle Damage Extent
+      hint: Damage assessment
+      type: select_one
+      options:
+      - Minor
+      - Moderate
+      - Severe
+      - Total loss
+      required: true
+    - id: 26
+      name: police_report
+      label: Police Report Filed
+      hint: Was report filed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: police_report_number
+      label: Police Report Number
+      hint: Report number if available
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: insurance_company
+      label: Insurance Company
+      hint: Name of insurer
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: insurance_claim_number
+      label: Insurance Claim Number
+      hint: Claim number if available
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: repair_facility
+      label: Repair Facility
+      hint: Where is vehicle being repaired
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: claim_type
+      label: Claim Type
+      hint: Type of claim
+      type: select_one
+      options:
+      - Warranty claim
+      - Insurance claim
+      - Product liability
+      - Recall related
+      - Service bulletin
+      - Other
+      required: true
+    - id: 32
+      name: desired_resolution
+      label: Desired Resolution
+      hint: What outcome are you seeking
+      type: select_multiple
+      options:
+      - ACU replacement
+      - System repair
+      - Refund
+      - Compensation
+      - Investigation
+      - Other
+      required: true
+    - id: 33
+      name: incident_description
+      label: Detailed Incident Description
+      hint: Describe what happened
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: supporting_documents
+      label: Supporting Documents
+      hint: Do you have documents to submit
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 35
+      name: document_types
+      label: Document Types
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Photos
+      - Repair estimates
+      - Medical records
+      - Police report
+      - Diagnostic reports
+      - Correspondence
+      - Other
+      required: false
+    - id: 36
+      name: claimant_signature
+      label: Claimant Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 37
+      name: signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

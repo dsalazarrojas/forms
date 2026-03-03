@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Half Marathon Training Mileage Tracker
+    pages:
+    - id: 1
+      name: run_date
+      label: Run Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: mileage
+      label: Total Mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: mileage_unit
+      label: Mileage Unit
+      hint: null
+      type: select_one
+      options:
+      - Miles
+      - Kilometers
+      - Kilometers
+      required: false
+    - id: 4
+      name: pace
+      label: Pace
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: pace_unit
+      label: Pace Unit
+      hint: null
+      type: select_one
+      options:
+      - Minutes per Mile
+      - Minutes per Kilometer
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: coach_notes
+      label: Coach Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: athlete_name
+      label: Athlete Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: coach_name
+      label: Coach Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: club_name
+      label: Club Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: training_plan
+      label: Training Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: goal_date
+      label: Goal Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: goal_mileage
+      label: Goal Mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: goal_unit
+      label: Goal Unit
+      hint: null
+      type: select_one
+      options:
+      - Miles
+      - Kilometers
+      - Kms
+      required: false
+    - id: 15
+      name: goal_pace
+      label: Goal Pace
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: goal_pace_unit
+      label: Goal Pace Unit
+      hint: null
+      type: select_one
+      options:
+      - Minutes per Mile
+      - Minutes per Kilometer
+      required: false
+    - id: 17
+      name: coach_email
+      label: Coach Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: coach_phone
+      label: Coach Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: athlete_email
+      label: Athlete Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: athlete_phone
+      label: Athlete Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: training_status
+      label: Training Status
+      hint: null
+      type: select_multiple
+      options:
+      - Not Started
+      - Ongoing
+      - Complete
+      - In Progress
+      required: false
+    - id: 22
+      name: training_phase
+      label: Training Phase
+      hint: null
+      type: select_multiple
+      options:
+      - End of Base Building
+      - End of Building
+      - Base Building
+      - Base Building Endurance
+      - Base Building Intensity
+      required: false
+    - id: 23
+      name: workout_type
+      label: Workout Type
+      hint: null
+      type: select_multiple
+      options:
+      - Running
+      - Strength and Conditioning
+      - Endurance
+      - Rest and Recovery
+      required: false
+    - id: 24
+      name: workout_frequency
+      label: Workout Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: false
+    - id: 25
+      name: workout_duration
+      label: Workout Duration
+      hint: null
+      type: select_multiple
+      options:
+      - Under 30 minutes
+      - 30-60 minutes
+      - 60-90 minutes
+      - More than 90 minutes
+      required: false

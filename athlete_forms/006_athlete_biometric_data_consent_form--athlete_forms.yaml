@@ -1,0 +1,209 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Biometric Data Consent Form
+    pages:
+      - id: 1
+        name: athlete_name
+        label: Athlete Full Name
+        hint: First and last name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: athlete_id
+        label: Athlete ID Number
+        hint: Student or team identification number
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: date_of_birth
+        label: Date of Birth
+        hint: MM-DD-YYYY format
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: sport
+        label: Sport
+        hint: Primary sport participated in
+        type: select_one
+        options:
+          - Football
+          - Basketball
+          - Soccer
+          - Track and Field
+          - Swimming
+          - Volleyball
+          - Baseball
+          - Softball
+          - Tennis
+          - Other
+        required: true
+      - id: 5
+        name: team_name
+        label: Team Name
+        hint: Name of team or organization
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: data_types_collected
+        label: Types of Biometric Data Collected
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Heart Rate
+          - GPS Tracking Data
+          - Sleep Patterns
+          - Body Composition
+          - Blood Oxygen Levels
+          - Lactate Threshold
+          - VO2 Max
+          - Movement Patterns
+          - Force Plate Data
+        required: true
+      - id: 7
+        name: data_collection_purpose
+        label: Purpose of Data Collection
+        hint: Why is this data being collected
+        type: select_one
+        options:
+          - Performance Optimization
+          - Injury Prevention
+          - Health Monitoring
+          - Research Purposes
+          - All of the Above
+        required: true
+      - id: 8
+        name: collection_frequency
+        label: Data Collection Frequency
+        hint: How often will data be collected
+        type: select_one
+        options:
+          - Daily
+          - Weekly
+          - During Training Sessions Only
+          - During Competitions Only
+          - Continuous Monitoring
+        required: true
+      - id: 9
+        name: data_storage_location
+        label: Data Storage Location
+        hint: Where will your data be stored
+        type: select_one
+        options:
+          - Secure Cloud Server
+          - Local Team Server
+          - Third-Party Platform
+          - Hybrid Storage
+        required: true
+      - id: 10
+        name: data_access
+        label: Who Has Access to Your Data
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Head Coach
+          - Assistant Coaches
+          - Athletic Trainer
+          - Sports Scientist
+          - Medical Staff
+          - The Athlete Only
+          - Parents or Guardians
+        required: true
+      - id: 11
+        name: data_retention_period
+        label: Data Retention Period
+        hint: How long will data be kept
+        type: select_one
+        options:
+          - Current Season Only
+          - One Year
+          - Until Graduation
+          - Indefinitely for Research
+          - Until Athlete Requests Deletion
+        required: true
+      - id: 12
+        name: third_party_sharing
+        label: Third-Party Data Sharing
+        hint: Can data be shared with external partners
+        type: select_one
+        options:
+          - Yes - With Named Partners Only
+          - Yes - For Research Purposes
+          - No - Internal Use Only
+          - Case by Case Basis
+        required: true
+      - id: 13
+        name: data_anonymization
+        label: Data Anonymization for Research
+        hint: Can your data be anonymized for research studies
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: true
+      - id: 14
+        name: right_to_withdraw
+        label: Understanding of Withdrawal Rights
+        hint: Do you understand you can withdraw consent at any time
+        type: select_one
+        options:
+          - "Yes - I Understand"
+          - "No - I Need More Information"
+        required: true
+      - id: 15
+        name: parent_guardian_name
+        label: Parent or Guardian Name
+        hint: Required if athlete is under 18
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: parent_guardian_email
+        label: Parent or Guardian Email
+        hint: Contact email for guardian
+        type: email
+        options: []
+        required: false
+      - id: 17
+        name: athlete_signature
+        label: Athlete Signature
+        hint: Type full name as signature
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: parent_guardian_signature
+        label: Parent or Guardian Signature
+        hint: Type full name as signature if under 18
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: consent_date
+        label: Date of Consent
+        hint: Date this form is signed
+        type: date
+        options: []
+        required: true
+      - id: 20
+        name: witness_name
+        label: Witness Name
+        hint: Name of witness to consent
+        type: text
+        options: []
+        required: false

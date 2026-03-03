@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: locomotive_operation_knowledge_assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: role
+      label: Operator Role
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Engineer'', ''label'': ''Engineer''}'
+      - '{''id'': 2, ''value'': ''Conductor'', ''label'': ''Conductor''}'
+      required: false
+    - id: 4
+      name: experience
+      label: Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: knowledge_area
+      label: Knowledge Area
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Brake Systems'', ''label'': ''Brake Systems''}'
+      - '{''id'': 2, ''value'': ''Signaling and Communication'', ''label'': ''Signaling
+        and Communication''}'
+      - '{''id'': 3, ''value'': ''Locomotive Controls'', ''label'': ''Locomotive Controls''}'
+      required: false
+    - id: 6
+      name: safety_question_1
+      label: Safety Question 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: safety_question_2
+      label: Safety Question 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: safety_question_3
+      label: Safety Question 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: safety_question_4
+      label: Safety Question 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: review
+      label: Review
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: submit_time
+      label: Submit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: operator_name
+      label: Operator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: operator_experience
+      label: Operator Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: operator_role
+      label: Operator Role
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Operator 1'', ''label'': ''Operator 1''}'
+      - '{''id'': 2, ''value'': ''Operator 2'', ''label'': ''Operator 2''}'
+      required: false
+    - id: 19
+      name: locomotive_type
+      label: Locomotive Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Diesel'', ''label'': ''Diesel''}'
+      - '{''id'': 2, ''value'': ''Electric'', ''label'': ''Electric''}'
+      - '{''id'': 3, ''value'': ''Hydraulic'', ''label'': ''Hydraulic''}'
+      required: false
+    - id: 20
+      name: submitter
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Manager'', ''label'': ''Manager''}'
+      - '{''id'': 2, ''value'': ''Operator'', ''label'': ''Operator''}'
+      - '{''id'': 3, ''value'': ''Trainer'', ''label'': ''Trainer''}'
+      required: false
+    - id: 21
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Approved'', ''label'': ''Approved''}'
+      - '{''id'': 2, ''value'': ''Pending'', ''label'': ''Pending''}'
+      - '{''id'': 3, ''value'': ''Rejected'', ''label'': ''Rejected''}'
+      required: false
+    - id: 22
+      name: submission_id
+      label: Submission ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Operator 1'', ''label'': ''Operator 1''}'
+      - '{''id'': 2, ''value'': ''Operator 2'', ''label'': ''Operator 2''}'
+      required: false
+    - id: 24
+      name: role_experience
+      label: Role Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: role_status
+      label: Role Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Active'', ''label'': ''Active''}'
+      - '{''id'': 2, ''value'': ''Inactive'', ''label'': ''Inactive''}'
+      required: false
+    - id: 26
+      name: operator_role_2
+      label: Operator Role 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Manager'', ''label'': ''Manager''}'
+      - '{''id'': 2, ''value'': ''Operator'', ''label'': ''Operator''}'
+      - '{''id'': 3, ''value'': ''Trainer'', ''label'': ''Trainer''}'
+      required: false

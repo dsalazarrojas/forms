@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: parental_complaint_resolution_acknowledgement_form
+    pages:
+    - id: 1
+      name: form_header
+      label: Parental Complaint Resolution Acknowledgement Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: complaint_category
+      label: Complaint Category
+      hint: null
+      type: select_one
+      options:
+      - Complaint
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: complaint_date
+      label: Complaint Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: resolution_status
+      label: Resolution Status
+      hint: null
+      type: select_one
+      options:
+      - Resolved
+      - Pending
+      required: false
+    - id: 6
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: resolution_date
+      label: Resolution Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: school_email
+      label: School Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: school_phone
+      label: School Phone
+      hint: null
+      type: text
+      options: []
+      required: false

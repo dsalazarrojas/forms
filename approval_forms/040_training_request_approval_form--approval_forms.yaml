@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Training Request Approval Form
+    pages:
+    - id: 1
+      name: training_request_approval_form
+      label: training_request_approval_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: submitter_name
+      label: submitter_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: submitter_phone
+      label: submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: training_date
+      label: training_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: training_time
+      label: training_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: training_duration
+      label: training_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: training_subject
+      label: training_subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitter_department
+      label: submitter_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitter_manager
+      label: submitter_manager
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 11
+      name: approval_manager
+      label: approval_manager
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 12
+      name: approval_date
+      label: approval_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: approval_time
+      label: approval_time
+      hint: null
+      type: time
+      options: []
+      required: false

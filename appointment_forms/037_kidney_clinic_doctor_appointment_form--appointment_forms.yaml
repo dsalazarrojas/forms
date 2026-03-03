@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kidney Clinic Doctor Appointment Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Phone call''}'
+      - '{''id'': 2, ''label'': ''Email''}'
+      - '{''id'': 3, ''label'': ''Message''}'
+      required: false
+    - id: 4
+      name: appointment_type
+      label: Appointment Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''New Patient Visit''}'
+      - '{''id'': 2, ''label'': ''Follow-up Visit''}'
+      - '{''id'': 3, ''label'': ''Routine Checkup''}'
+      required: false
+    - id: 5
+      name: selected_date
+      label: Selected Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: selected_time
+      label: Selected Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_comment
+      label: Patient Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: doctor_comment
+      label: Doctor Comment
+      hint: null
+      type: text
+      options: []
+      required: false

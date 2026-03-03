@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Security Guard Service Contract Form
+    pages:
+    - id: 1
+      name: service_details
+      label: Service Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_type
+      label: service_type
+      hint: null
+      type: select_one
+      options:
+      - Security Guard Service
+      - Other
+      required: false
+    - id: 3
+      name: guard_coverage
+      label: Guard Coverage
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: false
+    - id: 4
+      name: contract_duration
+      label: Contract Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: contract_start_date
+      label: Contract Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contract_end_date
+      label: Contract End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: service_provider
+      label: Service Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: property_manager
+      label: Property Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: venue
+      label: Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submission_notes
+      label: Submission Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: confirm_guard_coverage
+      label: Confirm Guard Coverage
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: confirm_service_provider
+      label: Confirm Service Provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

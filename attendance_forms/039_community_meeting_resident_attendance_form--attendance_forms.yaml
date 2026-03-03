@@ -1,0 +1,89 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community Meeting Resident Attendance Form
+    pages:
+      - id: 1
+        name: attendance_header
+        label: -- Attendance Tracking --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: resident_name
+        label: Resident name
+        hint: For attendance records
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: address
+        label: Address
+        hint: Street and city for verification
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: email
+        label: Email address
+        hint: Optional contact for minutes
+        type: email
+        options: []
+        required: false
+      - id: 5
+        name: meeting_date
+        label: Meeting date
+        hint: Date of the meeting
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: arrival_time
+        label: Arrival time
+        hint: Optional time of arrival
+        type: time
+        options: []
+        required: false
+      - id: 7
+        name: reason_for_absence
+        label: Reason for absence if not attending
+        hint: Optional explanation
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: role_in_meeting
+        label: Role in meeting
+        hint: Attendee, speaker, or organizer
+        type: select_one
+        options:
+          - Attendee
+          - Speaker
+          - Organizer
+        required: false
+      - id: 9
+        name: signature_name
+        label: Signature name
+        hint: Type name to confirm attendance
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: additional_notes
+        label: Additional notes
+        hint: Any other attendance related notes
+        type: text
+        options: []
+        required: false

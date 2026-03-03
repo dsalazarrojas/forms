@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Approval Form
+    pages:
+    - id: 1
+      name: project_fee
+      label: project_fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: consent_to_terms_and_conditions
+      label: consent_to_terms_and_conditions
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 6
+      name: contact_address
+      label: contact_address
+      hint: null
+      type: text
+      options: []
+      required: false

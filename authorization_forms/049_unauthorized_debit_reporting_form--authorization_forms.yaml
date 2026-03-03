@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Unauthorized Debit Reporting Form
+    pages:
+    - id: 1
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: account_type
+      label: Account Type
+      hint: 'Select one of the following: Checking, Savings, Credit'
+      type: select_one
+      options:
+      - Checking
+      - Savings
+      - Credit
+      required: false
+    - id: 3
+      name: account_ownership
+      label: Account Ownership
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: unauthorized_amount
+      label: Unauthorized Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: authorized_amount
+      label: Authorized Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: unauthorized_date
+      label: Unauthorized Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: unauthorized_time
+      label: Unauthorized Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: account_name
+      label: Account Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: account_address
+      label: Account Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: account_city
+      label: Account City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: account_state
+      label: Account State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: account_zip
+      label: Account Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: account_country
+      label: Account Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: unauthorized_description
+      label: Unauthorized Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: account_phone
+      label: Account Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: account_email
+      label: Account Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: unauthorized_recurring
+      label: Unauthorized Recurring
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: suspicious_activity
+      label: Suspicious Activity
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: authorized_description
+      label: Authorized Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: account_type_other
+      label: Account Type Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: authorized_amount_other
+      label: Authorized Amount Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: authorized_occupation
+      label: Authorized Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: account_phone
+      label: Account Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: authorized_address
+      label: Authorized Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: authorized_email
+      label: Authorized Email
+      hint: null
+      type: text
+      options: []
+      required: false

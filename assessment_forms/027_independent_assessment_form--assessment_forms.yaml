@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Independent Assessment Form
+    pages:
+    - id: 1
+      name: user_name
+      label: John Doe
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_title
+      label: User Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: user_project
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: assessment_time
+      label: Assessment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: assessment_location
+      label: Assessment Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assessment_score
+      label: Assessment Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: assessment_comment
+      label: Assessment Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: recommended_action
+      label: Recommended Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_location
+      label: Follow-up Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_comment
+      label: Follow-up Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: additional_comment
+      label: Additional Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: true
+    - id: 16
+      name: follow_up_frequency
+      label: Follow-up Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      required: false

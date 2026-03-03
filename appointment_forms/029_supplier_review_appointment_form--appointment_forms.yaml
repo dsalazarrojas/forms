@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supplier Review Appointment Form
+    pages:
+    - id: 1
+      name: supplier_name
+      label: Supplier Name
+      hint: Enter supplier name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: supplier_email
+      label: Supplier Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: appointment_date
+      label: Appointment Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: Start Time
+      hint: "HH:MM:SS"
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: End Time
+      hint: "HH:MM:SS"
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: duration
+      label: Duration
+      hint: in hours
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: meeting_details
+      label: Meeting Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: review_notes
+      label: Review Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - In Progress
+      - Completed
+      required: false
+    - id: 10
+      name: supplier_message
+      label: Supplier Message
+      hint: null
+      type: text
+      options: []
+      required: false

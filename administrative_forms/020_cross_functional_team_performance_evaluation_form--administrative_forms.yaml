@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cross Functional Team Performance Evaluation Form
+    pages:
+    - id: 1
+      name: team_member_input_1
+      label: Team Member 1
+      hint: null
+      type: select_one
+      options:
+      - Team Member 1
+      - Team Member 2
+      - Team Member 3
+      required: false
+    - id: 2
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Satisfactory
+      - Needs improvement
+      required: false
+    - id: 3
+      name: feedback_comments_1
+      label: Feedback Comments
+      hint: Please provide specific examples of team collaboration and effectiveness.
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: team_rating
+      label: Team Rating
+      hint: Rate from 1-5.
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_created
+      label: Date Created
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_version
+      label: Form Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: team_leader
+      label: Team Leader
+      hint: null
+      type: select_one
+      options:
+      - Team Leader 1
+      - Team Leader 2
+      - Team Leader 3
+      required: false
+    - id: 10
+      name: form_comments
+      label: Form Comments
+      hint: Please provide any additional comments or suggestions.
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: project_outcome_impact
+      label: Project Outcome Impact
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Neutral
+      required: false
+    - id: 12
+      name: team_performance_impact
+      label: Team Performance Impact
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      - Neutral
+      required: false
+    - id: 13
+      name: project_outcome_1
+      label: Project Outcome 1
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Neutral
+      required: false
+    - id: 14
+      name: project_outcome_2
+      label: Project Outcome 2
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Neutral
+      required: false
+    - id: 15
+      name: project_outcome_3
+      label: Project Outcome 3
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Neutral
+      required: false
+    - id: 16
+      name: team_collaboration_1
+      label: Team Collaboration 1
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Neutral
+      required: false
+    - id: 17
+      name: team_collaboration_2
+      label: Team Collaboration 2
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Neutral
+      required: false
+    - id: 18
+      name: team_collaboration_3
+      label: Team Collaboration 3
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Neutral
+      required: false
+    - id: 19
+      name: form_comments_1
+      label: Form Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: form_comments_2
+      label: Form Comments 2
+      hint: Please provide any additional comments or suggestions.
+      type: note
+      options: []
+      required: true
+    - id: 21
+      name: team_performance_1
+      label: Team Performance 1
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Neutral
+      required: false
+    - id: 22
+      name: team_performance_2
+      label: Team Performance 2
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Neutral
+      required: false
+    - id: 23
+      name: team_leadership
+      label: Team Leadership
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: feedback_1
+      label: Feedback 1
+      hint: Provide detailed feedback to team leaders.
+      type: note
+      options: []
+      required: true
+    - id: 25
+      name: feedback_2
+      label: Feedback 2
+      hint: Provide feedback on team leaders.
+      type: note
+      options: []
+      required: true

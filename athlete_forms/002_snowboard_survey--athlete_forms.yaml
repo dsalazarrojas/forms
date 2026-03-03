@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Snowboard Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: demographic
+      label: demographics
+      hint: null
+      type: select_multiple
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 3
+      name: age_range
+      label: age_range
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: years_snowboarding
+      label: years_snowboarding
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: how_often_snowboard
+      label: how_often_snowboard
+      hint: null
+      type: select_multiple
+      options:
+      - Never
+      - Rarely
+      - Occasionally
+      - Frequently
+      - Very Frequently
+      required: false
+    - id: 6
+      name: how_long_snowboard
+      label: how_long_snowboard
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: what_type_snowboard
+      label: what_type_snowboard
+      hint: null
+      type: select_one
+      options:
+      - Snowboard
+      - Snowboard Freeride
+      - Splitboard
+      - Skis
+      - Wakeboard
+      - Skis Freeride
+      required: false
+    - id: 8
+      name: what_type_snowboard_details
+      label: what_type_snowboard_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: what_feature_like
+      label: what_feature_like
+      hint: null
+      type: select_multiple
+      options:
+      - Powder
+      - Park
+      - Freeride
+      - All-Mountain
+      - Recreational
+      required: false
+    - id: 10
+      name: what_feature_like_details
+      label: what_feature_like_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: what_feature_like_other
+      label: what_feature_like_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: what_feature_like_others
+      label: what_feature_like_others
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: what_feature_like_others_details
+      label: what_feature_like_others_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: how_satisfied_snowboard
+      label: how_satisfied_snowboard
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 15
+      name: how_likely_recommend
+      label: how_likely_recommend
+      hint: null
+      type: select_one
+      options:
+      - Very Likely
+      - Somewhat Likely
+      - Neutral
+      - Somewhat Unlikely
+      - Very Unlikely
+      required: false
+    - id: 16
+      name: open_ended_comment
+      label: open_ended_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_info
+      label: additional_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: snowboard_survey_id
+      label: snowboard_survey_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: survey_date
+      label: survey_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: survey_time
+      label: survey_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: submit_button
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: true

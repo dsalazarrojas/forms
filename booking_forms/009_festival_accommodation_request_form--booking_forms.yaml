@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: festival_accommodation_request_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Your name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: Your address
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: your email address
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: your contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: festival_name
+      label: Festival Name
+      hint: Name of the festival
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: accommodation_type
+      label: Accommodation Type
+      hint: Type of accommodation requested
+      type: select_one
+      options:
+      - Hotel
+      - Hostel
+      - Home
+      - Other
+      required: true
+    - id: 8
+      name: accommodation_number
+      label: Accommodation Number
+      hint: Number of accommodation requested
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: arrival_date
+      label: Arrival Date
+      hint: Date and time of arrival
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: duration_of_stay
+      label: Duration of Stay
+      hint: null
+      type: number
+      options: []
+      required: false

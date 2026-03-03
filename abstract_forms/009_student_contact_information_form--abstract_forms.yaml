@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Contact Information Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: First name of the student
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Last name of the student
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Student email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: Student's address
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Student's phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_first_name
+      label: Emergency Contact First Name
+      hint: First name of emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_last_name
+      label: Emergency Contact Last Name
+      hint: Last name of emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_relationship
+      label: Relationship to Student
+      hint: null
+      type: text
+      options: []
+      required: false

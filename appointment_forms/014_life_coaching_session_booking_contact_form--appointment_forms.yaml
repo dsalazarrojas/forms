@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: life coaching session booking contact form
+    pages:
+    - id: 1
+      name: booking_request
+      label: Booking Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: session_length
+      label: Session Length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: coach_name
+      label: Coach Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: services
+      label: Services
+      hint: null
+      type: select_multiple
+      options:
+      - Coaching
+      - Counseling
+      - Therapy
+      - Wellness
+      required: true

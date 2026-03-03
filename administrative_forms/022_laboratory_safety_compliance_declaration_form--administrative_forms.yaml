@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Laboratory Safety Compliance Declaration Form
+    pages:
+    - id: 1
+      name: laboratory_safety_declaration
+      label: laboratory_safety_declaration
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: laboratory_title
+      label: laboratory_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: supervisor_name
+      label: supervisor_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: safety_protocol_version
+      label: safety_protocol_version
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: date_of_last_review
+      label: date_of_last_review
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: date_of_next_review
+      label: date_of_next_review
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: safety_declaration_status
+      label: safety_declaration_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 9
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: employee_signiture_date
+      label: employee_signiture_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: employee_signature
+      label: employee_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: visitor_signature
+      label: visitor_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: visitor_signiture_date
+      label: visitor_signiture_date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Translation Service Appointment Form
+    pages:
+    - id: 1
+      name: page_1
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_details
+      label: client_details
+      hint: Client name, phone, and email
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: translation_requirements
+      label: Translation Requirements
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: service
+      label: Service
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: language
+      label: Language
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: translator
+      label: Translator
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: form_submission_url
+      label: Form Submission URL
+      hint: null
+      type: text
+      options: []
+      required: true

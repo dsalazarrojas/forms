@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bank Fee Adjustment Consent Form
+    pages:
+    - id: 1
+      name: customer_full_name
+      label: Customer Full Name
+      hint: Account holder name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_address
+      label: Mailing Address
+      hint: Street, city, state, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: For notifications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: account_number
+      label: Account Number
+      hint: Full account number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: account_type
+      label: Account Type
+      hint: Type of account
+      type: select_one
+      options:
+      - Personal Checking
+      - Personal Savings
+      - Business Checking
+      - Business Savings
+      - Money Market
+      - Investment Account
+      required: true
+    - id: 7
+      name: fee_adjustment_type
+      label: Fee Adjustment Type
+      hint: What type of adjustment
+      type: select_one
+      options:
+      - Fee Waiver Request
+      - Fee Reduction Request
+      - Fee Dispute
+      - Refund Request
+      - Payment Plan Request
+      required: true
+    - id: 8
+      name: fee_category
+      label: Fee Category
+      hint: Which fee is this about
+      type: select_one
+      options:
+      - Monthly Maintenance Fee
+      - Overdraft Fee
+      - ATM Fee
+      - Wire Transfer Fee
+      - Foreign Transaction Fee
+      - Insufficient Funds Fee
+      - Account Closure Fee
+      - Other
+      required: true
+    - id: 9
+      name: fee_amount
+      label: Fee Amount in Question
+      hint: Dollar amount
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: fee_date
+      label: Fee Date
+      hint: When was the fee charged
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: reason_for_request
+      label: Reason for Request
+      hint: Why are you requesting this adjustment
+      type: select_one
+      options:
+      - Financial Hardship
+      - Bank Error
+      - First-Time Occurrence
+      - Long-Time Customer
+      - Medical Emergency
+      - Job Loss
+      - Other
+      required: true
+    - id: 12
+      name: detailed_explanation
+      label: Detailed Explanation
+      hint: Please explain your situation
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: supporting_documents
+      label: Supporting Documents
+      hint: Do you have documentation
+      type: select_one
+      options:
+      - Yes, attached
+      - Will provide later
+      - Not applicable
+      required: false
+    - id: 14
+      name: previous_requests
+      label: Previous Fee Adjustment Requests
+      hint: Have you requested before
+      type: select_one
+      options:
+      - Yes, this is a repeat request
+      - No, first time
+      required: true
+    - id: 15
+      name: customer_tenure
+      label: Customer Tenure
+      hint: How long have you been a customer
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - Over 10 years
+      required: true
+    - id: 16
+      name: preferred_resolution
+      label: Preferred Resolution
+      hint: What outcome do you want
+      type: select_one
+      options:
+      - Full Fee Waiver
+      - Partial Fee Waiver
+      - Fee Credit
+      - Payment Plan
+      - Account Upgrade
+      required: true
+    - id: 17
+      name: contact_preference
+      label: Contact Preference
+      hint: How should we contact you
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      - Mail
+      required: true
+    - id: 18
+      name: best_time_to_contact
+      label: Best Time to Contact
+      hint: When are you available
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Anytime
+      required: false
+    - id: 19
+      name: authorization_statement
+      label: Authorization Statement
+      hint: Do you authorize this request
+      type: select_one
+      options:
+      - Yes, I authorize this request
+      - false
+      required: true
+    - id: 20
+      name: terms_acknowledgment
+      label: Terms Acknowledgment
+      hint: Have you read the terms
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: signature_date
+      label: Signature Date
+      hint: Date of consent
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

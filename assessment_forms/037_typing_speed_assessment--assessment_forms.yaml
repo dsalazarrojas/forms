@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Typing Speed Assessment
+    pages:
+    - id: 1
+      name: typing_speed_assessment
+      label: Typing Speed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: accuracy
+      label: Accuracy
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: typing_speed_assessment_result
+      label: Typing Speed Assessment Result
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      required: false
+    - id: 5
+      name: average_wpm
+      label: Average WPM
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: accuracy_percentage
+      label: Accuracy Percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: errors
+      label: Errors
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: wpm
+      label: WPM
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: STEM Teacher Assessment Form
+    pages:
+    - id: 1
+      name: teacher_name
+      label: teacher_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: teacher_rating
+      label: teacher_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: math_awareness
+      label: math_awareness
+      hint: null
+      type: select_multiple
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 4
+      name: science_awareness
+      label: science_awareness
+      hint: null
+      type: select_multiple
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 5
+      name: tech_awareness
+      label: tech_awareness
+      hint: null
+      type: select_multiple
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 6
+      name: engineering_awareness
+      label: engineering_awareness
+      hint: null
+      type: select_multiple
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 7
+      name: time_awareness
+      label: time_awareness
+      hint: null
+      type: select_multiple
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 8
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: teacher_assessment
+      label: teacher_assessment
+      hint: null
+      type: note
+      options: []
+      required: false

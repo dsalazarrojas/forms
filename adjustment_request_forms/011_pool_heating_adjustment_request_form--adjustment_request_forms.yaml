@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pool Heating Adjustment Request Form
+    pages:
+    - id: 1
+      name: pool_heating_adjustment_request_form
+      label: Pool Heating Adjustment Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pool_heating_adjustment_request_form_date
+      label: Pool Heating Adjustment Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: pool_heating_adjustment_request_form_temperature
+      label: Pool Heating Adjustment Request Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: pool_heating_adjustment_request_form_reason
+      label: Pool Heating Adjustment Request Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: pool_heating_adjustment_request_form_requestor
+      label: Pool Heating Adjustment Requestor Name
+      hint: null
+      type: select_one
+      options:
+      - '{''Requestor'': ''Requestor1''}'
+      - Requestor2
+      - Requestor3
+      required: false
+    - id: 6
+      name: pool_heating_adjustment_request_form_phone
+      label: Pool Heating Adjustment Requestor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: pool_heating_adjustment_request_form_email
+      label: Pool Heating Adjustment Requestor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: pool_heating_adjustment_request_form_note
+      label: Pool Heating Adjustment Requestor Note
+      hint: null
+      type: note
+      options: []
+      required: false

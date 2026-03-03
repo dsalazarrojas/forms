@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Identity Privilege Monitoring Log Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: privilege
+      label: Privilege
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: access_level
+      label: Access Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: true
+    - id: 6
+      name: resource
+      label: Resource
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: action
+      label: Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: date_submitted
+      label: Date Submitter
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: timestamp
+      label: Timestamp
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false

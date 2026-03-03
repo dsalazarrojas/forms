@@ -1,0 +1,286 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Shelter Adoption Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Street Address
+      hint: Current address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: housing_type
+      label: Type of Housing
+      hint: Where do you live
+      type: select_one
+      options:
+      - House - Owned
+      - House - Rented
+      - Apartment or Condo - Owned
+      - Apartment or Condo - Rented
+      - Townhouse - Owned
+      - Townhouse - Rented
+      - Mobile Home
+      - Other
+      required: true
+    - id: 9
+      name: landlord_approval
+      label: If Renting Do You Have Landlord Approval for Pets
+      hint: null
+      type: select_one
+      options:
+      - Yes - Written Approval Available
+      - Yes - Verbal Approval
+      - false
+      - Not Applicable - I Own
+      required: true
+    - id: 10
+      name: yard_info
+      label: Do You Have a Yard
+      hint: null
+      type: select_one
+      options:
+      - Yes - Fenced
+      - Yes - Unfenced
+      - false
+      - Not Applicable
+      required: true
+    - id: 11
+      name: fence_height
+      label: Fence Height
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: household_members
+      label: Number of People in Household
+      hint: Including yourself
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: children_ages
+      label: Ages of Children in Home
+      hint: List all children ages
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: other_pets
+      label: Do You Currently Have Other Pets
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: pet_details
+      label: Describe Your Current Pets
+      hint: Species breed age and temperament
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: previous_pets
+      label: Have You Ever Owned Pets Before
+      hint: null
+      type: select_one
+      options:
+      - Yes - Multiple Pets
+      - Yes - One Pet
+      - No - First Time Owner
+      required: true
+    - id: 17
+      name: pet_history
+      label: What Happened to Your Previous Pets
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: animal_of_interest
+      label: Which Animal Are You Interested in Adopting
+      hint: Name or ID if known
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: animal_type
+      label: Type of Animal
+      hint: null
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Rabbit
+      - Bird
+      - Small Mammal
+      - Reptile
+      - Other
+      required: true
+    - id: 20
+      name: preferred_age
+      label: Preferred Age Range
+      hint: null
+      type: select_one
+      options:
+      - Puppy or Kitten (Under 6 months)
+      - Young (6 months - 2 years)
+      - Adult (2-7 years)
+      - Senior (7+ years)
+      - No Preference
+      required: true
+    - id: 21
+      name: preferred_size
+      label: Preferred Size
+      hint: For dogs
+      type: select_one
+      options:
+      - Small (Under 20 lbs)
+      - Medium (20-50 lbs)
+      - Large (50-80 lbs)
+      - Extra Large (80+ lbs)
+      - Not Applicable
+      - No Preference
+      required: false
+    - id: 22
+      name: activity_level
+      label: Desired Activity Level
+      hint: null
+      type: select_one
+      options:
+      - Low - Couch Potato
+      - Moderate - Some Daily Exercise
+      - High - Very Active
+      - Very High - Working or Athletic Dog
+      - No Preference
+      required: true
+    - id: 23
+      name: adoption_reason
+      label: Why Do You Want to Adopt
+      hint: Share your motivation
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: daily_care_plan
+      label: Describe Your Daily Care Plan
+      hint: Exercise feeding and attention
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: work_schedule
+      label: What Is Your Work Schedule
+      hint: Hours away from home daily
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: vacation_plan
+      label: What Are Your Plans for Pet Care During Vacations
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: training_plan
+      label: What Are Your Plans for Training
+      hint: Classes or methods
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: vet_reference
+      label: Veterinarian Name and Contact
+      hint: Current or previous vet
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: personal_reference
+      label: Personal Reference Name and Phone
+      hint: Someone who knows you well
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: adoption_fee_understanding
+      label: I Understand There Is an Adoption Fee
+      hint: Fees help cover care costs
+      type: select_one
+      options:
+      - Yes I Understand
+      - Other
+      required: true
+    - id: 31
+      name: return_policy
+      label: I Agree to Return the Animal to the Shelter If I Cannot Keep Them
+      hint: Never abandon or surrender elsewhere
+      type: select_one
+      options:
+      - Yes I Agree
+      - No I Do Not Agree
+      required: true
+    - id: 32
+      name: veterinary_care
+      label: I Agree to Provide Proper Veterinary Care Including Vaccinations
+      hint: null
+      type: select_one
+      options:
+      - Yes I Agree
+      - No I Do Not Agree
+      required: true
+    - id: 33
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Optional
+      type: text
+      options: []
+      required: false

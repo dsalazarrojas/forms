@@ -1,0 +1,220 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Board Member Performance Assessment Form
+    pages:
+      - id: 1
+        name: board_member_name
+        label: Board Member Name
+        hint: Name of member being assessed
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: assessment_period
+        label: Assessment Period
+        hint: Time period being evaluated
+        type: select_one
+        options:
+          - Q1 2026
+          - Q2 2026
+          - Q3 2026
+          - Q4 2026
+          - Annual 2025
+          - Custom Period
+        required: true
+      - id: 3
+        name: reviewer_name
+        label: Reviewer Name
+        hint: Name of person completing assessment
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: reviewer_relationship
+        label: Reviewer Relationship
+        hint: Your relationship to the member
+        type: select_one
+        options:
+          - Board Chair
+          - Fellow Board Member
+          - Executive Director
+          - Committee Chair
+          - Self-Assessment
+        required: true
+      - id: 5
+        name: meeting_attendance
+        label: Meeting Attendance
+        hint: Rate attendance at board meetings
+        type: select_one
+        options:
+          - Excellent - Attended all meetings
+          - Good - Attended most meetings
+          - Average - Attended some meetings
+          - Below Average - Missed many meetings
+          - Poor - Rarely attended
+        required: true
+      - id: 6
+        name: meeting_preparation
+        label: Meeting Preparation
+        hint: Rate level of preparation
+        type: select_one
+        options:
+          - Excellent - Always well prepared
+          - Good - Usually prepared
+          - Average - Sometimes prepared
+          - Below Average - Rarely prepared
+          - Poor - Never prepared
+        required: true
+      - id: 7
+        name: participation_in_discussions
+        label: Participation in Discussions
+        hint: Rate quality of participation
+        type: select_one
+        options:
+          - Excellent - Actively contributes
+          - Good - Regularly contributes
+          - Average - Occasionally contributes
+          - Below Average - Rarely contributes
+          - Poor - Does not participate
+        required: true
+      - id: 8
+        name: committee_participation
+        label: Committee Participation
+        hint: Rate committee involvement
+        type: select_one
+        options:
+          - Excellent - Highly active
+          - Good - Regularly participates
+          - Average - Somewhat active
+          - Below Average - Minimal participation
+          - Not Applicable
+        required: false
+      - id: 9
+        name: strategic_thinking
+        label: Strategic Thinking
+        hint: Rate strategic contribution
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 10
+        name: financial_oversight
+        label: Financial Oversight
+        hint: Rate financial stewardship
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+          - Not Applicable
+        required: false
+      - id: 11
+        name: fundraising_contribution
+        label: Fundraising Contribution
+        hint: Rate fundraising efforts
+        type: select_one
+        options:
+          - Excellent - Exceeds expectations
+          - Good - Meets expectations
+          - Average - Partially meets expectations
+          - Below Average - Below expectations
+          - Not Applicable
+        required: false
+      - id: 12
+        name: community_representation
+        label: Community Representation
+        hint: Rate representation of stakeholders
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 13
+        name: ethical_conduct
+        label: Ethical Conduct
+        hint: Rate adherence to ethics
+        type: select_one
+        options:
+          - Excellent - Always demonstrates integrity
+          - Good - Usually demonstrates integrity
+          - Average - Sometimes demonstrates integrity
+          - Below Average - Rarely demonstrates integrity
+          - Poor - Does not demonstrate integrity
+        required: true
+      - id: 14
+        name: collaboration_with_staff
+        label: Collaboration with Staff
+        hint: Rate working relationship with staff
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 15
+        name: overall_effectiveness
+        label: Overall Effectiveness
+        hint: Rate overall performance
+        type: select_one
+        options:
+          - 5 - Outstanding
+          - 4 - Exceeds Expectations
+          - 3 - Meets Expectations
+          - 2 - Below Expectations
+          - 1 - Unsatisfactory
+        required: true
+      - id: 16
+        name: key_contributions
+        label: Key Contributions
+        hint: List major contributions this period
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: areas_for_development
+        label: Areas for Development
+        hint: Identify areas needing improvement
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: recommendation
+        label: Recommendation for Next Term
+        hint: Would you recommend continued service?
+        type: select_one
+        options:
+          - Strongly recommend reappointment
+          - Recommend reappointment
+          - Recommend with conditions
+          - Do not recommend reappointment
+        required: true
+      - id: 19
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other observations
+        type: text
+        options: []
+        required: false

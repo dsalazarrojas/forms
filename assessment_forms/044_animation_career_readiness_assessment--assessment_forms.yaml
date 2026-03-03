@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animation Career Readiness Assessment
+    pages:
+    - id: 1
+      name: candidate_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: primary_animation_skill_choice
+      label: Primary Animation Skill
+      hint: null
+      type: select_one
+      options:
+      - 2D Hand-drawn Animation
+      - 3D Modeling and Texturing
+      - Character Rigging
+      - Lighting and Rendering
+      - Storyboarding and Layout
+      - Compositing and VFX
+      required: true
+    - id: 3
+      name: industry_software_proficiency
+      label: Proficiency in Industry Software
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Maya
+      - Toon Boom Harmony
+      - Adobe After Effects
+      - Blender
+      - ZBrush
+      - Unreal Engine
+      required: true
+    - id: 4
+      name: candidate_education_level
+      label: Highest Education Level
+      hint: null
+      type: select_one
+      options:
+      - Self-taught
+      - Associate Degree
+      - Bachelor Degree
+      - Master Degree or PhD
+      required: true
+    - id: 5
+      name: portfolio_reel_url
+      label: Link to Online Portfolio or Demo Reel
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: professional_project_count
+      label: Number of Completed Professional Projects
+      hint: Enter 0 for entry-level
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: career_path_goal
+      label: Long-term Career Goal
+      hint: Where do you see yourself in 5 years?
+      type: select_one
+      options:
+      - Feature Film Studio
+      - Game Development Studio
+      - Advertising and Marketing Agency
+      - Independent Creator
+      required: true
+    - id: 8
+      name: relocation_status_choice
+      label: Willingness to Relocate
+      hint: null
+      type: select_one
+      options:
+      - Yes - Willing to relocate
+      - No - Prefer current location
+      - Remote only
+      required: true
+    - id: 9
+      name: portfolio_self_rating
+      label: Portfolio Rating - Self-assessment
+      hint: Scale of 1 to 10
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: internship_start_date_pref
+      label: Preferred Internship or Role Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: professional_reference_name_text
+      label: Professional Reference Name
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,294 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Foster Agreement Renewal Form
+    pages:
+    - id: 1
+      name: foster_name
+      label: Foster Parent Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Home Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: renewal_intro
+      label: Foster Agreement Renewal Form
+      hint: Renew your foster care agreement to continue providing care
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: current_agreement
+      label: Current Agreement Information
+      hint: Existing foster details
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: foster_id
+      label: Foster Parent ID Number
+      hint: Your ID
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: agreement_start_date
+      label: Current Agreement Start Date
+      hint: When did it begin
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: agreement_end_date
+      label: Current Agreement End Date
+      hint: When does it expire
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: animals_fostered
+      label: How Many Animals Have You Fostered
+      hint: Total count
+      type: select_one
+      options:
+      - 1-5 animals
+      - 6-10 animals
+      - 11-20 animals
+      - More than 20 animals
+      required: false
+    - id: 11
+      name: currently_fostering
+      label: Are You Currently Fostering Animals
+      hint: Current status
+      type: select_one
+      options:
+      - Yes - continuing care
+      - Yes - but transitioning
+      - No - between fosters
+      - No - taking a break
+      required: true
+    - id: 12
+      name: renewal_type
+      label: Type of Renewal
+      hint: Renewal category
+      type: select_one
+      options:
+      - Standard renewal - same terms
+      - Renewal with modifications
+      - Renewal - different capacity
+      - Renewal - different species
+      required: true
+    - id: 13
+      name: capacity_changes
+      label: Are You Changing Your Foster Capacity
+      hint: Capacity
+      type: select_one
+      options:
+      - No - same capacity
+      - Yes - increasing
+      - Yes - decreasing
+      required: true
+    - id: 14
+      name: new_capacity
+      label: New Foster Capacity
+      hint: How many animals
+      type: select_one
+      options:
+      - 1-2 animals
+      - 3-5 animals
+      - 6-10 animals
+      - More than 10 animals
+      required: false
+    - id: 15
+      name: species_preference
+      label: Species You Are Willing to Foster
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Dogs - puppies
+      - Dogs - adults
+      - Dogs - seniors
+      - Cats - kittens
+      - Cats - adults
+      - Cats - seniors
+      - Rabbits
+      - Birds
+      - Small animals
+      - Special needs
+      required: true
+    - id: 16
+      name: home_changes
+      label: Have There Been Changes to Your Home Situation
+      hint: Living situation
+      type: select_one
+      options:
+      - No - same as before
+      - Yes - minor changes
+      - Yes - significant changes
+      required: true
+    - id: 17
+      name: household_changes
+      label: Have There Been Changes to Your Household
+      hint: Family members
+      type: select_one
+      options:
+      - No - same household
+      - Yes - new members
+      - Yes - members left
+      required: true
+    - id: 18
+      name: other_pets
+      label: Have You Added New Pets
+      hint: Pet changes
+      type: select_one
+      options:
+      - No - same pets
+      - Yes - new pets
+      - Yes - pets passed or left
+      required: false
+    - id: 19
+      name: veterinary_changes
+      label: Has Your Veterinarian Changed
+      hint: Vet info
+      type: select_one
+      options:
+      - No - same vet
+      - Yes - new vet
+      required: false
+    - id: 20
+      name: veterinarian_name
+      label: Current Veterinarian Name
+      hint: Vet name
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: vet_phone
+      label: Veterinarian Phone
+      hint: Clinic phone
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: experience_feedback
+      label: How Was Your Experience as a Foster Parent
+      hint: Feedback
+      type: select_one
+      options:
+      - Excellent - very positive
+      - Good - mostly positive
+      - Fair - mixed experience
+      - Poor - challenging
+      - First time renewing
+      required: true
+    - id: 23
+      name: challenges_faced
+      label: What Challenges Did You Face
+      hint: Difficulties
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: support_needed
+      label: What Additional Support Would Be Helpful
+      hint: Support needs
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: training_completed
+      label: Have You Completed Required Training
+      hint: Training status
+      type: select_one
+      options:
+      - Yes - all current
+      - Yes - need refreshers
+      - No - need training
+      required: true
+    - id: 26
+      name: background_check
+      label: Are You Willing to Update Background Check
+      hint: If required
+      type: select_one
+      options:
+      - Yes - I consent
+      - false
+      required: true
+    - id: 27
+      name: agreement_terms
+      label: Have You Read the Updated Agreement Terms
+      hint: Terms review
+      type: select_one
+      options:
+      - Yes - read and understood
+      - Yes - need clarification
+      - No - please send
+      required: true
+    - id: 28
+      name: commitment
+      label: I Commit to Providing Quality Foster Care
+      hint: Commitment
+      type: select_one
+      options:
+      - Yes - I commit
+      - false
+      required: true
+    - id: 29
+      name: renewal_period
+      label: Renewal Period
+      hint: Duration
+      type: select_one
+      options:
+      - 6 months
+      - 1 year
+      - 2 years
+      required: true
+    - id: 30
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other info
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: foster_signature
+      label: Foster Parent Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: signature_date
+      label: Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 33
+      name: staff_signature
+      label: Shelter Staff Signature
+      hint: For official use
+      type: text
+      options: []
+      required: false

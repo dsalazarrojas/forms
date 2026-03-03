@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Symbolic Sequence Analysis Quiz
+    pages:
+    - id: 1
+      name: sequence_length
+      label: Sequence Length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: quiz_question
+      label: Quiz Question
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: quiz_question_type
+      label: Quiz Question Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: quiz_pattern
+      label: Quiz Pattern
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: participant_sequence
+      label: Participant Sequence
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: participant_response
+      label: Participant Response
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: quiz_id
+      label: Quiz ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: participant_id
+      label: Participant ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: pattern_type
+      label: Pattern Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: pattern_name
+      label: Pattern Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: pattern_id
+      label: Pattern ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: pattern_sequence
+      label: Pattern Sequence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: pattern_answer
+      label: Pattern Answer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: pattern_sequence_type
+      label: Pattern Sequence Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: sequence_id
+      label: Sequence ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: participant_sequence_id
+      label: Participant Sequence ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: pattern_answer_type
+      label: Pattern Answer Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: participant_response_id
+      label: Participant Response ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: quiz_type
+      label: Quiz Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

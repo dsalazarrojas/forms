@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spa Appointment Portal Access Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: appointment_info
+      label: Appointment Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: spa_access
+      label: Spa Access
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: customer_message
+      label: Customer Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: preferred_date
+      label: Preferred Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: spa_email
+      label: Spa Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: spa_phone
+      label: Spa Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: spa_address
+      label: Spa Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: spa_hours
+      label: Spa Hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: spa_services
+      label: Spa Services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: spa_services_info
+      label: Spa Services Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: staff_member
+      label: Staff Member
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: customer_agreement
+      label: Customer Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - I have read and agree to the spa policies.
+      - I have not read and do not agree to the spa policies.
+      required: true
+    - id: 19
+      name: spa_agreement
+      label: Spa Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - I have read and agree to the customer policies.
+      - I have not read and do not agree to the customer policies.
+      required: true
+    - id: 20
+      name: confirm_appointment
+      label: Confirm Appointment
+      hint: null
+      type: select_one
+      options:
+      - Confirm
+      - Decline
+      - Not Applicable
+      required: false
+    - id: 21
+      name: decline_appointment
+      label: Decline Appointment
+      hint: null
+      type: select_one
+      options:
+      - Decline
+      - Confirm
+      - Not Applicable
+      required: false
+    - id: 22
+      name: cancel_appointment
+      label: Cancel Appointment
+      hint: null
+      type: select_one
+      options:
+      - Cancel
+      - Confirm
+      - Not Applicable
+      required: false
+    - id: 23
+      name: confirm_appointment
+      label: Confirm Appointment
+      hint: null
+      type: select_one
+      options:
+      - Confirm
+      - Decline
+      - Not Applicable
+      required: false
+    - id: 24
+      name: confirm_appointment2
+      label: Confirm Appointment 2
+      hint: null
+      type: select_one
+      options:
+      - Confirm
+      - Decline
+      - Not Applicable
+      required: false
+    - id: 25
+      name: confirm_appointment3
+      label: Confirm Appointment 3
+      hint: null
+      type: select_one
+      options:
+      - Confirm
+      - Decline
+      - Not Applicable
+      required: false

@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: payment_notice_form
+    pages:
+    - id: 1
+      name: landlord_information
+      label: Landlord Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: late_rent_notice
+      label: Late Rent Notice
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rent_status
+      label: Rent Status
+      hint: null
+      type: select_multiple
+      options:
+      - Due
+      - Overdue
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Bank Transfer
+      - Other
+      required: false
+    - id: 5
+      name: account_number
+      label: Account Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: payment_instructions
+      label: Payment Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: account_holder_name
+      label: Account Holder Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: bank_name
+      label: Bank Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: branch_number
+      label: Branch Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: account_number_2
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: routing_number
+      label: Routing Number
+      hint: null
+      type: text
+      options: []
+      required: false

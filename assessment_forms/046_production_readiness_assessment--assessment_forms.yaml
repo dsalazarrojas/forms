@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Production Readiness Assessment
+    pages:
+    - id: 1
+      name: production_readiness_checklist
+      label: Production Readiness Checklist
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: launch_risks
+      label: Launch Risks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: it_teams
+      label: IT Teams
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Engineering''}'
+      - '{''value'': ''Product''}'
+      - '{''value'': ''IT''}'
+      required: false
+    - id: 4
+      name: launch_review_process
+      label: Launch Review Process
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: risk_assessment
+      label: Risk Assessment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: production_readiness_score
+      label: Production Readiness Score
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: launch_date
+      label: Launch Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: it_lead_review
+      label: IT Lead Review
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: launch_review_process_owners
+      label: Launch Review Process Owners
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: launch_review_process_status
+      label: Launch Review Process Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Not Started''}'
+      - '{''value'': ''In Progress''}'
+      - '{''value'': ''Completed''}'
+      required: false
+    - id: 12
+      name: launch_review_deadline
+      label: Launch Review Deadline
+      hint: null
+      type: date
+      options: []
+      required: false

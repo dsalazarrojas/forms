@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Puppy Contract Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: date_of_contract
+      label: Date of Contract
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: contract_terms
+      label: Contract Terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: buyer_agreement
+      label: Buyer Agreement
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: seller_agreement
+      label: Seller Agreement
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - Amex
+      required: true
+    - id: 13
+      name: puppy_name
+      label: Puppy Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: puppy_type
+      label: Puppy Type
+      hint: null
+      type: select_one
+      options:
+      - Bulldog
+      - Poodle
+      - Collie
+      required: true
+    - id: 15
+      name: breeder_info
+      label: Breeder Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: seller_info
+      label: Seller Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: buyer_info
+      label: Buyer Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: contract_notes
+      label: Contract Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: contract_date
+      label: Contract Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: contract_end_date
+      label: Contract End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: contract_status
+      label: Contract Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Expired
+      - Cancelled
+      required: true
+    - id: 22
+      name: contract_type
+      label: Contract Type
+      hint: null
+      type: select_one
+      options:
+      - Sales Contract
+      - Adoption Contract
+      required: true
+    - id: 23
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: buyer_signature
+      label: Buyer Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 25
+      name: seller_signature
+      label: Seller Signature
+      hint: null
+      type: note
+      options: []
+      required: true

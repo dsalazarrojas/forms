@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Expert Consultation Request
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: consultation_date
+      label: Consultation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: consultation_time
+      label: Consultation Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: consultation_type
+      label: Consultation Type
+      hint: null
+      type: select_one
+      options:
+      - Consultation
+      - Meeting
+      required: true
+    - id: 9
+      name: consultation_length
+      label: Consultation Length
+      hint: null
+      type: select_multiple
+      options:
+      - '30'
+      - '60'
+      - '90'
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: preferred_date
+      label: Preferred Date
+      hint: null
+      type: select_one
+      options:
+      - Today
+      - Tomorrow
+      - Next Day
+      - Next Week
+      required: true
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Draft
+      - Completed
+      - Archived
+      required: true
+    - id: 18
+      name: submitted_to_label
+      label: Label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitted_to_label2
+      label: Label 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submission_status_notes
+      label: Notes 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: select_prophets
+      label: Select Prophets
+      hint: null
+      type: select_multiple
+      options:
+      - Prophet 1
+      - Prophet 2
+      - Prophet 3
+      - Prophet 4
+      - Prophet 5
+      required: false
+    - id: 22
+      name: selected_prophet
+      label: Selected Prophet
+      hint: null
+      type: select_multiple
+      options:
+      - Prophet 1
+      - Prophet 2
+      - Prophet 3
+      - Prophet 4
+      - Prophet 5
+      required: false
+    - id: 23
+      name: notes3
+      label: Note 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false

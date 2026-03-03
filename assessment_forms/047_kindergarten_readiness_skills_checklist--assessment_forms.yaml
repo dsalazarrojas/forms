@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kindergarten Readiness Skills Checklist
+    pages:
+    - id: 1
+      name: observation_date
+      label: Observation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: age_in_years
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: parent_given
+      label: Parent Given
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: teacher_observed
+      label: Teacher Observed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: preschool_program
+      label: Preschool Program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: classroom_name
+      label: Classroom Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: teacher_email
+      label: Teacher Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: classroom_phone
+      label: Classroom Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: teacher_phone
+      label: Teacher Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: teacher_given
+      label: Teacher Given
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: parent_email
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: parent_phone
+      label: Parent Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 17
+      name: assessment_comments
+      label: Assessment Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: school_comments
+      label: School Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: teacher_comments
+      label: Teacher Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: kindergarten_readiness
+      label: Kindergarten Readiness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: kindergarten_readiness_level
+      label: Kindergarten Readiness Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 22
+      name: kindergarten_readiness_score
+      label: Kindergarten Readiness Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: kindergarten_readiness_date
+      label: Kindergarten Readiness Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: kindergarten_readiness_comments
+      label: Kindergarten Readiness Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: kindergarten_readiness_score_scale
+      label: Kindergarten Readiness Score Scale
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

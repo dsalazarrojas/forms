@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cat Adoption Application
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Full Name
+      hint: Your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Your contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Home Address
+      hint: Your current address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: state
+      label: State
+      hint: Your state or province
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: Your ZIP or postal code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: housing_type
+      label: Housing Type
+      hint: Type of residence
+      type: select_one
+      options:
+      - House - Owned
+      - House - Rented
+      - Apartment - Owned
+      - Apartment - Rented
+      - Condo
+      - Other
+      required: true
+    - id: 9
+      name: landlord_approval
+      label: Landlord Approval for Pets
+      hint: If renting - do you have landlord approval
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: true
+    - id: 10
+      name: other_pets
+      label: Do You Have Other Pets
+      hint: Current pets in your household
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: pet_details
+      label: Pet Details
+      hint: List your current pets - type - age
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: children_in_home
+      label: Children in Home
+      hint: Are there children under 12 in the home
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: children_ages
+      label: Children Ages
+      hint: Ages of children if applicable
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: cat_name
+      label: Cat You Are Interested In
+      hint: Name or ID of the cat
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: previous_cats
+      label: Have You Owned Cats Before
+      hint: Previous cat ownership experience
+      type: select_one
+      options:
+      - Yes - Currently Own
+      - Yes - Previously Owned
+      - No - First Time
+      required: true
+    - id: 16
+      name: vet_reference
+      label: Veterinarian Name
+      hint: Your vet clinic name
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: vet_phone
+      label: Veterinarian Phone
+      hint: Vet clinic phone number
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: indoor_outdoor
+      label: Will Cat Be Indoor or Outdoor
+      hint: Where will the cat live
+      type: select_one
+      options:
+      - Indoor Only
+      - Indoor with Supervised Outdoor
+      - Indoor and Outdoor
+      required: true
+    - id: 19
+      name: work_hours
+      label: Hours Away from Home
+      hint: How many hours are you away daily
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: adoption_reason
+      label: Why Do You Want to Adopt
+      hint: Your motivation for adoption
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: references
+      label: Personal References
+      hint: Name and phone of a reference
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: agreement_terms
+      label: Agreement to Terms
+      hint: Do you agree to adoption terms
+      type: select_one
+      options:
+      - Yes - I Agree
+      - false
+      required: true
+    - id: 23
+      name: application_date
+      label: Application Date
+      hint: Date of application
+      type: date
+      options: []
+      required: true

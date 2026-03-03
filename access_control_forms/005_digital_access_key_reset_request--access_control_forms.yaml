@@ -1,0 +1,26 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Access Key Reset Request
+    pages:
+    - id: 1
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reset_date
+      label: Reset Date
+      hint: null
+      type: date
+      options: []
+      required: false

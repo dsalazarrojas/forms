@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dental Open Enrollment Scheduler
+    pages:
+    - id: 1
+      name: employer_name
+      label: Enter employer's name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: enrollment_date
+      label: Enrollment date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: enrollment_time
+      label: Enrollment time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: enrollment_time_zone
+      label: Time zone
+      hint: null
+      type: select_one
+      options:
+      - PST
+      - EST
+      - CST
+      - MST
+      - AST
+      - GMT
+      required: false
+    - id: 5
+      name: enrollment_time_note
+      label: Time note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: broker_name
+      label: Broker name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: clinic_name
+      label: Clinic name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: broker_phone
+      label: Broker phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: clinic_phone
+      label: Clinic phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employer_email
+      label: Employer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: clinic_email
+      label: Clinic email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: appointment_time
+      label: Appointment time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: appointment_duration
+      label: Appointment duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: appointment_date
+      label: Appointment date
+      hint: null
+      type: date
+      options: []
+      required: false

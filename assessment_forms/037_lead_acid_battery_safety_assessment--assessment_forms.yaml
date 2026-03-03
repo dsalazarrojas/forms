@@ -1,0 +1,114 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Lead Acid Battery Safety Assessment
+    pages:
+    - id: 1
+      name: lead_acid_battery_safety_assessment
+      label: lead_acid_battery_safety_assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: facility_name
+      label: facility_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: facility_address
+      label: facility_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: battery_type
+      label: battery_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''12V''}'
+      - '{''value'': ''6V''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 5
+      name: training_status
+      label: training_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Not Started'', ''label'': ''Not Started''}'
+      - '{''value'': ''Scheduled'', ''label'': ''Scheduled''}'
+      - '{''value'': ''In Progress'', ''label'': ''In Progress''}'
+      - '{''value'': ''Completed'', ''label'': ''Completed''}'
+      - '{''value'': ''N/A'', ''label'': ''N/A''}'
+      required: true
+    - id: 6
+      name: storage_location
+      label: storage_location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Basement'', ''label'': ''Basement''}'
+      - '{''value'': ''Warehouse'', ''label'': ''Warehouse''}'
+      - '{''value'': ''Other'', ''label'': ''Other''}'
+      required: true
+    - id: 7
+      name: battery_handling
+      label: battery_handling
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Correctly'', ''label'': ''Correctly''}'
+      - '{''value'': ''Incorrectly'', ''label'': ''Incorrectly''}'
+      - '{''value'': ''Other'', ''label'': ''Other''}'
+      required: true
+    - id: 8
+      name: observations
+      label: observations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: facility_signature
+      label: facility_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reviewer_signature
+      label: reviewer_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: reviewer_name
+      label: reviewer_name
+      hint: null
+      type: text
+      options: []
+      required: false

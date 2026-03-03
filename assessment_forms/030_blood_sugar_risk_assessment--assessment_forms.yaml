@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blood Sugar Risk Assessment
+    pages:
+    - id: 1
+      name: assessment_intro
+      label: -- Blood Sugar Risk Assessment --
+      hint: Evaluate your diabetes risk factors
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 7
+      name: ethnicity
+      label: Ethnicity
+      hint: null
+      type: select_one
+      options:
+      - White
+      - Black
+      - Hispanic
+      - Asian
+      - Native American
+      - Pacific Islander
+      - Other
+      required: false
+    - id: 8
+      name: height_cm
+      label: Height (cm)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: weight_kg
+      label: Weight (kg)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: bmi_category
+      label: BMI Category
+      hint: null
+      type: select_one
+      options:
+      - Underweight
+      - Normal weight
+      - Overweight
+      - Obese
+      required: false
+    - id: 11
+      name: family_diabetes_history
+      label: Family history of diabetes?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: true
+    - id: 12
+      name: previous_glucose_test
+      label: Previous fasting glucose test result?
+      hint: mg/dL if known
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: prediabetes_diagnosis
+      label: Ever diagnosed with prediabetes?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: true
+    - id: 14
+      name: gestational_diabetes
+      label: History of gestational diabetes?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not applicable
+      required: true
+    - id: 15
+      name: physical_activity
+      label: Physical activity frequency
+      hint: null
+      type: select_one
+      options:
+      - Sedentary
+      - Light - less than 3 times/week
+      - Moderate - 3-5 times/week
+      - Vigorous - more than 5 times/week
+      required: true
+    - id: 16
+      name: diet_quality
+      label: Diet quality
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: true
+    - id: 17
+      name: stress_level
+      label: Stress level (1-10)
+      hint: 1=Low, 10=High
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: sleep_hours
+      label: Average sleep hours per night
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: tobacco_use
+      label: Tobacco use
+      hint: null
+      type: select_one
+      options:
+      - Never used
+      - Former user
+      - Current user
+      required: true
+    - id: 20
+      name: alcohol_consumption
+      label: Alcohol consumption
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Moderate
+      - Heavy
+      required: false
+    - id: 21
+      name: hypertension
+      label: Do you have high blood pressure?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: true
+    - id: 22
+      name: cholesterol_level
+      label: High cholesterol?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: true
+    - id: 23
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true

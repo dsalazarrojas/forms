@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: office_visit_scheduling_form
+    pages:
+    - id: 1
+      name: visitor_info
+      label: Visitor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: visit_date
+      label: Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: visit_time
+      label: Visit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: visitor_name
+      label: Visitor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: visitor_phone
+      label: Visitor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: visit_type
+      label: Visit Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''New Patient'', ''value'': ''new_patient''}'
+      - '{''label'': ''Returning Patient'', ''value'': ''returning_patient''}'
+      required: false
+    - id: 7
+      name: visit_reason
+      label: Visit Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: visitor_email
+      label: Visitor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: visitor_note
+      label: Visitor Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: staff_info
+      label: Staff Information
+      hint: null
+      type: text
+      options: []
+      required: false

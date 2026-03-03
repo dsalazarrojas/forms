@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: sports_co_op_registration_and_waiver
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: activity_1
+      label: Activity 1
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: false
+    - id: 3
+      name: participant_emergency_contact
+      label: Participant Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_emergency_contact_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_emergency_contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_consent
+      label: Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: activity_2
+      label: Activity 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: false
+    - id: 8
+      name: participant_signed_consent
+      label: Signed Consent
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''I have read and agree to the terms and conditions'',
+        ''value'': True}'
+      - '{''id'': 2, ''label'': ''I have not read and do not agree to the terms and
+        conditions'', ''value'': False}'
+      required: false

@@ -1,0 +1,412 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Rental Authorization Form
+    pages:
+    - id: 1
+      name: primary_renter_information
+      label: Primary Renter Information
+      hint: Your personal details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Must be 21 or older
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: For communications
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Street Address
+      hint: Your address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP Code
+      hint: Your ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: license_information
+      label: License Information
+      hint: Driver's license details
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: license_number
+      label: Driver's License Number
+      hint: Your license number
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: license_state
+      label: License State
+      hint: State that issued license
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: license_country
+      label: License Country
+      hint: Country of issuance
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: license_expiry
+      label: License Expiration
+      hint: Expiration date
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: rental_information
+      label: Rental Information
+      hint: Rental agreement details
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: reservation_number
+      label: Reservation Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: rental_start_date
+      label: Rental Start Date
+      hint: Pickup date
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: rental_end_date
+      label: Rental End Date
+      hint: Return date
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: pickup_location
+      label: Pickup Location
+      hint: Where to pick up
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: return_location
+      label: Return Location
+      hint: Where to return
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: vehicle_description
+      label: Vehicle Description
+      hint: Vehicle details
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: vehicle_vin
+      label: Vehicle VIN
+      hint: Vehicle Identification Number
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: authorization_details
+      label: Authorization Details
+      hint: Authorized drivers
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: additional_drivers
+      label: Additional Drivers
+      hint: Will there be other drivers?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 26
+      name: additional_driver_1_name
+      label: Additional Driver 1 Name
+      hint: Full name
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: additional_driver_1_license
+      label: Additional Driver 1 License
+      hint: License number
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: additional_driver_1_state
+      label: Additional Driver 1 State
+      hint: License state
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: additional_driver_1_dob
+      label: Additional Driver 1 DOB
+      hint: Date of birth
+      type: date
+      options: []
+      required: false
+    - id: 30
+      name: additional_driver_2_name
+      label: Additional Driver 2 Name
+      hint: Full name
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: additional_driver_2_license
+      label: Additional Driver 2 License
+      hint: License number
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: additional_driver_2_state
+      label: Additional Driver 2 State
+      hint: License state
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: additional_driver_2_dob
+      label: Additional Driver 2 DOB
+      hint: Date of birth
+      type: date
+      options: []
+      required: false
+    - id: 34
+      name: payment_authorization
+      label: Payment Authorization
+      hint: Payment details
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Corporate Account
+      - Cash Deposit
+      required: true
+    - id: 36
+      name: card_type
+      label: Card Type
+      hint: Type of card
+      type: select_one
+      options:
+      - Visa
+      - MasterCard
+      - American Express
+      - Discover
+      required: false
+    - id: 37
+      name: cardholder_name
+      label: Cardholder Name
+      hint: Name on card
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: card_number
+      label: Card Number
+      hint: Card number
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: card_expiry
+      label: Expiration Date
+      hint: MM/YY
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: cvv
+      label: CVV
+      hint: Security code
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: billing_address
+      label: Billing Address
+      hint: Address on card
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: authorization_amount
+      label: Authorized Amount
+      hint: Amount to authorize
+      type: select_one
+      options:
+      - Full rental amount plus deposit
+      - Deposit only
+      - Estimated total
+      - Custom amount
+      required: true
+    - id: 43
+      name: custom_amount
+      label: Custom Amount
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 44
+      name: insurance_selection
+      label: Insurance Selection
+      hint: Coverage options
+      type: select_multiple
+      options:
+      - Collision Damage Waiver
+      - Liability Insurance
+      - Personal Accident Insurance
+      - Personal Effects Coverage
+      - Roadside Assistance Plus
+      - Decline all coverage
+      required: true
+    - id: 45
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: Agreement terms
+      type: note
+      options: []
+      required: false
+    - id: 46
+      name: vehicle_inspection
+      label: Vehicle Inspection
+      hint: Do you want to inspect the vehicle?
+      type: select_one
+      options:
+      - Yes - before driving
+      - No - trust the company
+      required: true
+    - id: 47
+      name: fuel_policy
+      label: Fuel Policy
+      hint: Do you understand the fuel policy?
+      type: select_one
+      options:
+      - Yes - full to full
+      - Yes - pre-purchase
+      - Yes - other policy
+      required: true
+    - id: 48
+      name: mileage_policy
+      label: Mileage Policy
+      hint: Do you understand the mileage policy?
+      type: select_one
+      options:
+      - Yes - unlimited miles
+      - Yes - limited miles
+      - Yes - other policy
+      required: true
+    - id: 49
+      name: late_return_policy
+      label: Late Return Policy
+      hint: Do you understand late fees?
+      type: select_one
+      options:
+      - Yes - I understand
+      - No - please explain
+      required: true
+    - id: 50
+      name: prohibited_uses
+      label: Prohibited Uses
+      hint: Do you agree to restrictions?
+      type: select_one
+      options:
+      - Yes - I agree
+      - false
+      required: true
+    - id: 51
+      name: authorization_agreement
+      label: Authorization Agreement
+      hint: Do you authorize this rental?
+      type: select_one
+      options:
+      - I authorize this rental and agree to all terms
+      - I do not authorize
+      required: true
+    - id: 52
+      name: signature_confirmation
+      label: Signature Confirmation
+      hint: Confirm your authorization
+      type: select_one
+      options:
+      - I hereby sign and authorize
+      - I do not authorize
+      required: true
+    - id: 53
+      name: authorization_date
+      label: Authorization Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

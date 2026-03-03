@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Expense Dispute Resolution Consent Form
+    pages:
+    - id: 1
+      name: expense_dispute_resolution_consent_form
+      label: Expense Dispute Resolution Consent Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''John Doe''}'
+      - '{''id'': 2, ''name'': ''Jane Doe''}'
+      - '{''id'': 3, ''name'': ''Jim Smith''}'
+      required: false
+    - id: 3
+      name: dispute_details
+      label: Dispute Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: dispute_date
+      label: Dispute Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: dispute_amount
+      label: Dispute Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Document 1''}'
+      - '{''id'': 2, ''name'': ''Document 2''}'
+      - '{''id'': 3, ''name'': ''Document 3''}'
+      required: false
+    - id: 7
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: resolution_outcome
+      label: Resolution Outcome
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Resolved''}'
+      - '{''id'': 2, ''name'': ''Not Resolved''}'
+      - '{''id'': 3, ''name'': ''Pending''}'
+      required: false
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: date_of_submission
+      label: Date Of Submission
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: time_of_submission
+      label: Time Of Submission
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''John Smith''}'
+      - '{''id'': 2, ''name'': ''Jane Doe''}'
+      - '{''id'': 3, ''name'': ''John Doe''}'
+      required: false
+    - id: 18
+      name: submission_ip_address
+      label: Submission IP Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submission_user_agent
+      label: Submission User Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submission_user_platform
+      label: Submission User Platform
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submission_user_browser
+      label: Submission User Browser
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: created_at
+      label: Created At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: time
+      options: []
+      required: false

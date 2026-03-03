@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Colocartusanuncios.info
+    pages:
+    - id: 1
+      name: poster_first_name
+      label: Nombre
+      hint: Su nombre completo
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: poster_last_name
+      label: Apellido
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: poster_email
+      label: Correo Electronico
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: poster_phone
+      label: Numero de Telefono
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: category
+      label: Categoria del Anuncio
+      hint: Tipo de anuncio a publicar
+      type: select_one
+      options:
+      - Empleos
+      - Vivienda
+      - Vehiculos
+      - Articulos Varios
+      - Servicios
+      - Negocios
+      - Otro
+      required: true
+    - id: 6
+      name: job_title
+      label: Titulo del Anuncio
+      hint: Titulo principal
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: announcement_description
+      label: Descripcion Detallada
+      hint: Informacion completa del anuncio
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: location
+      label: Ubicacion o Ciudad
+      hint: Donde se ofrece el servicio o producto
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: price
+      label: Precio
+      hint: Monto o rango de precio
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: price_currency
+      label: Moneda
+      hint: Divisa del precio
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - MXN
+      - ARS
+      - CLP
+      - COP
+      - Otro
+      required: false
+    - id: 11
+      name: business_type
+      label: Tipo de Negocio o Producto
+      hint: Clasificacion adicional
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: availability
+      label: Disponibilidad
+      hint: null
+      type: select_one
+      options:
+      - Inmediato
+      - Proximo
+      - Flexible
+      - Negociable
+      required: true
+    - id: 13
+      name: contact_preference
+      label: Preferencia de Contacto
+      hint: Como prefiere ser contactado
+      type: select_multiple
+      options:
+      - Telefono
+      - Correo Electronico
+      - Mensaje de Texto
+      - Whatsapp
+      - En Persona
+      required: true
+    - id: 14
+      name: image_included
+      label: Incluye Imagen o Foto
+      hint: null
+      type: select_one
+      options:
+      - Si
+      - 'No'
+      required: true
+    - id: 15
+      name: posting_duration
+      label: Duracion del Anuncio
+      hint: Cuanto tiempo desea mantener activo
+      type: select_one
+      options:
+      - 1 Semana
+      - 2 Semanas
+      - 1 Mes
+      - 3 Meses
+      - 6 Meses
+      - 1 Ano
+      required: true
+    - id: 16
+      name: featured_listing
+      label: Anuncio Destacado o Premium
+      hint: null
+      type: select_one
+      options:
+      - Si
+      - 'No'
+      required: true
+    - id: 17
+      name: featured_cost
+      label: Costo de Anuncio Destacado
+      hint: Si aplica
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: payment_method
+      label: Metodo de Pago
+      hint: null
+      type: select_one
+      options:
+      - Tarjeta de Credito
+      - Transferencia Bancaria
+      - PayPal
+      - Efectivo
+      - Otro
+      required: true
+    - id: 19
+      name: terms_acceptance
+      label: Acepto los terminos y condiciones
+      hint: null
+      type: select_one
+      options:
+      - Si
+      - 'No'
+      required: true
+    - id: 20
+      name: contact_information_public
+      label: Mostrar informacion de contacto en anuncio
+      hint: null
+      type: select_one
+      options:
+      - Si
+      - 'No'
+      required: true

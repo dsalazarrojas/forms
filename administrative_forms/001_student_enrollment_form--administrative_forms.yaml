@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Enrollment Form
+    pages:
+    - id: 1
+      name: student_name
+      label: student name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_email
+      label: student email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: student_phone
+      label: student phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_grade
+      label: student grade
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: student_address
+      label: student address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_fee
+      label: student fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: fee_date
+      label: fee date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: fee_time
+      label: fee time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: school_name
+      label: school name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: school_email
+      label: school email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: school_phone
+      label: school phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: school_address
+      label: school address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: fee_amount
+      label: fee amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: student_notes
+      label: student notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: school_notes
+      label: school notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: payment_gateway
+      label: payment gateway
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: student_id
+      label: student id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: school_id
+      label: school id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: fee_status
+      label: fee status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 21
+      name: student_fee_status
+      label: student fee status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 22
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: school_notes_2
+      label: school notes 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: student_notes_2
+      label: student notes 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: submitted by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

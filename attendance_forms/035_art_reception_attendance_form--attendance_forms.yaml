@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Reception Attendance Form
+    pages:
+    - id: 1
+      name: rsvp_date
+      label: RSVP Date
+      hint: Date of RSVP
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: guest_name
+      label: Guest Name
+      hint: Full name of primary guest
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guest_email
+      label: Guest Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: guest_phone
+      label: Guest Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization
+      label: Organization
+      hint: Company or organization
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: attendance_status
+      label: Attendance Status
+      hint: Will you attend
+      type: select_one
+      options:
+      - Yes - Will Attend
+      - No - Cannot Attend
+      - Maybe
+      required: true
+    - id: 7
+      name: number_of_guests
+      label: Number of Guests
+      hint: Total in your party
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: guest_names
+      label: Guest Names
+      hint: Names of all guests
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reception_type
+      label: Reception Type
+      hint: Which reception event
+      type: select_one
+      options:
+      - Opening Reception
+      - Closing Reception
+      - Artist Meet and Greet
+      - VIP Preview
+      - General Reception
+      required: true
+    - id: 10
+      name: exhibition_name
+      label: Exhibition Name
+      hint: Name of exhibition
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: reception_date
+      label: Reception Date
+      hint: Date of reception
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: arrival_time
+      label: Arrival Time
+      hint: Expected arrival time
+      type: select_one
+      options:
+      - 5:00 PM - 6:00 PM
+      - 6:00 PM - 7:00 PM
+      - 7:00 PM - 8:00 PM
+      - 8:00 PM - 9:00 PM
+      - Flexible
+      required: false
+    - id: 13
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergy
+      - Shellfish Allergy
+      - Kosher
+      - Halal
+      - Other
+      required: true
+    - id: 14
+      name: dietary_details
+      label: Dietary Details
+      hint: Specify other dietary needs
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: beverage_preference
+      label: Beverage Preference
+      hint: Preferred beverage
+      type: select_one
+      options:
+      - Wine
+      - Beer
+      - Cocktails
+      - Non-Alcoholic
+      - No Preference
+      required: false
+    - id: 16
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Do you need accommodations
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: accessibility_details
+      label: Accessibility Details
+      hint: Describe your needs
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: parking_needed
+      label: Parking Needed
+      hint: Will you need parking
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 19
+      name: coat_check_needed
+      label: Coat Check Needed
+      hint: Will you use coat check
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 20
+      name: interested_in_artwork
+      label: Interested in Artwork
+      hint: Are you interested in purchasing
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 21
+      name: press_attendance
+      label: Press Attendance
+      hint: Are you attending as press
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 22
+      name: media_outlet
+      label: Media Outlet
+      hint: Name of publication
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: how_heard
+      label: How Heard
+      hint: How did you hear about this reception
+      type: select_one
+      options:
+      - Email Invitation
+      - Social Media
+      - Gallery Website
+      - Friend
+      - Advertisement
+      - Other
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: Any questions or special requests
+      type: text
+      options: []
+      required: false

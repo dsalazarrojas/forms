@@ -1,0 +1,175 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Plan Assessment Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_plan_id
+      label: Service Plan ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: client_need
+      label: Client Need
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_plan_comparison
+      label: Service Plan Comparison
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: data_collection_method
+      label: Data Collection Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''In-person''}'
+      - '{''id'': 2, ''label'': ''Online''}'
+      - '{''id'': 3, ''label'': ''Phone''}'
+      required: false
+    - id: 6
+      name: service_plan_type
+      label: Service Plan Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Standard''}'
+      - '{''id'': 2, ''label'': ''Custom''}'
+      - '{''id'': 3, ''label'': ''Premium''}'
+      required: true
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: client_contact_number
+      label: Client Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: client_note
+      label: Client Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: data_tracking_id
+      label: Data Tracking ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: service_provider_name
+      label: Service Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: service_provider_contact_number
+      label: Service Provider Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: service_provider_email
+      label: Service Provider Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: service_plan_status
+      label: Service Plan Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Inactive''}'
+      - '{''id'': 3, ''label'': ''Pending''}'
+      required: true
+    - id: 17
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: submitter_contact_number
+      label: Submitter Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitter_note
+      label: Submitter Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: data_collection_method_details
+      label: Data Collection Method Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: service_plan_type_details
+      label: Service Plan Type Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: service_provider_note
+      label: Service Provider Note
+      hint: null
+      type: note
+      options: []
+      required: false

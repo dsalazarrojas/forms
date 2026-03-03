@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Critical Infrastructure Security Risk Assessment Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: site_information
+      label: Site Information
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 3
+      name: facility_security_profile
+      label: Facility Security Profile
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: security_controls
+      label: Security Controls
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: risk_assessment
+      label: Risk Assessment
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: security_risks
+      label: Security Risks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: site_security_controls
+      label: Site Security Controls
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: security_training_and_awareness
+      label: Security Training and Awareness
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: incident_response_plan
+      label: Incident Response Plan
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: review_and_validation
+      label: Review and Validation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: conclusion
+      label: Conclusion
+      hint: null
+      type: note
+      options: []
+      required: false

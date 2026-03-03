@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tech Conference Speaker Award Nomination
+    pages:
+    - id: 1
+      name: speaker_name
+      label: Speaker Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: speaker_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: nomination_category
+      label: Nomination Category
+      hint: null
+      type: select_multiple
+      options:
+      - Category1
+      - Category2
+      - Category3
+      required: true
+    - id: 4
+      name: nomination_reason
+      label: Nomination Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: nominee_name
+      label: Nominee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: nominee_title
+      label: Nominee Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: conference_year
+      label: Conference Year
+      hint: null
+      type: select_one
+      options:
+      - '2022'
+      - '2023'
+      - '2024'
+      required: true
+    - id: 8
+      name: nominee_organization
+      label: Nominee Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: nominee_linkedin
+      label: Nominee LinkedIn
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: nominee_twitter
+      label: Nominee Twitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: nominee_website
+      label: Nominee Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: nominee_facebook
+      label: Nominee Facebook
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: nominator_name
+      label: Nominator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: nominator_email
+      label: Nominator Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: nominator_title
+      label: Nominator Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: nominator_organization
+      label: Nominator Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: nominator_phone
+      label: Nominator Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: nominator_message
+      label: Nominator Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: nominator_agree
+      label: prophets Agreement
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      required: true

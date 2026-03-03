@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Dispute Resolution Services Intake Form
+    pages:
+    - id: 1
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tax_dispute_info
+      label: Tax Dispute Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: tax_return_info
+      label: Tax Return Info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: tax_dispute_docs
+      label: Tax Dispute Docs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: auth_info
+      label: Authorization Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: additional_documents
+      label: Additional Docs
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: fleet_vehicle_requisition_form
+    pages:
+    - id: 1
+      name: form_details
+      label: Company Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_type
+      label: vehicle_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: fleet_manager_details
+      label: Fleet Manager Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: driver_details
+      label: Driver Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: vehicle_type_details
+      label: Vehicle Type Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_color
+      label: Vehicle Color
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: vehicle_registration
+      label: Vehicle Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reason_for_request
+      label: Reason for Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: vehicle_requisition_status
+      label: Vehicle Requisition Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

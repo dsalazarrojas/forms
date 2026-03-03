@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: FMLA Notice Submission Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_leave
+      label: Reason For Leave
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: expected_return_date
+      label: Expected Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: number_of_days_off
+      label: Number Of Days Off
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: employee_status
+      label: Employee Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Resigned
+      required: false
+    - id: 13
+      name: leave_type
+      label: Leave Type
+      hint: null
+      type: select_one
+      options:
+      - Family Leave
+      - Medical Leave
+      required: false
+    - id: 14
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - HR
+      - Management
+      - Finance
+      required: false
+    - id: 15
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: supervisor_phone
+      label: Supervisor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: supervisor_email
+      label: Supervisor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: manager_date
+      label: Manager Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: company_representative
+      label: Company Representative
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: company_rep_name
+      label: Company Representative Name
+      hint: null
+      type: select_multiple
+      options:
+      - HR Representative
+      - Finance Representative
+      - Management Representative
+      required: false
+    - id: 24
+      name: company_rep_phone
+      label: Company Representative Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: company_rep_email
+      label: Company Representative Email
+      hint: null
+      type: email
+      options: []
+      required: false

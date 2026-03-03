@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Branch Operations Competency Assessment
+    pages:
+    - id: 1
+      name: section_header_employee
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: Personnel identification
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: position_title
+      label: Position Title
+      hint: Current role
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: branch_location
+      label: Branch Location
+      hint: Which branch
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_tenure
+      label: -- Tenure and Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: years_in_role
+      label: Years in Current Role
+      hint: Duration in position
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: years_with_company
+      label: Years with Company
+      hint: Total tenure
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of assessment
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: section_header_operations
+      label: -- Operations Competency --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: process_knowledge
+      label: Knowledge of Branch Processes
+      hint: Understanding of procedures
+      type: select_one
+      options:
+      - Expert
+      - Proficient
+      - Developing
+      - Basic
+      - Minimal
+      required: true
+    - id: 12
+      name: compliance_adherence
+      label: Compliance and Policy Adherence
+      hint: Following company standards
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Below average
+      - Poor
+      required: true
+    - id: 13
+      name: customer_service
+      label: Customer Service Skills
+      hint: Customer interaction ability
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Below average
+      - Poor
+      required: true
+    - id: 14
+      name: section_header_technical
+      label: -- Technical Skills --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: system_proficiency
+      label: System and Software Proficiency
+      hint: Technology competency
+      type: select_one
+      options:
+      - Expert
+      - Proficient
+      - Developing
+      - Basic
+      - Minimal
+      required: true
+    - id: 16
+      name: data_accuracy
+      label: Data Entry and Accuracy
+      hint: Record keeping ability
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Below average
+      - Poor
+      required: true
+    - id: 17
+      name: section_header_interpersonal
+      label: -- Interpersonal Competencies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: teamwork
+      label: Teamwork and Collaboration
+      hint: Working with colleagues
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Below average
+      - Poor
+      required: true
+    - id: 19
+      name: communication
+      label: Communication Skills
+      hint: Clarity in written and verbal
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Below average
+      - Poor
+      required: true
+    - id: 20
+      name: section_header_development
+      label: -- Development Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: training_needs
+      label: Identified Training Needs
+      hint: Areas for improvement or development
+      type: text
+      options: []
+      required: false

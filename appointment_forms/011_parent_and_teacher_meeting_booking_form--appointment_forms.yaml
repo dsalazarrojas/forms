@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parent And Teacher Meeting Booking Form
+    pages:
+    - id: 1
+      name: guardian_details
+      label: guardian_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: surname
+      label: surname
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: contact email
+      hint: example@example.com
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: guardian_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: student_grade
+      label: student_grade
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: meeting_date
+      label: meeting_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: teachers
+      label: teacher
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: slot
+      label: meeting_slot
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: message
+      label: meeting_message
+      hint: null
+      type: text
+      options: []
+      required: false

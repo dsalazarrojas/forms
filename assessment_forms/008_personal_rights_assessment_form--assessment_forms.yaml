@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Rights Assessment Form
+    pages:
+    - id: 1
+      name: user_input
+      label: Personal Rights Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: rights_awareness
+      label: Rights Awareness
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: confidence_level
+      label: Confidence Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: true
+    - id: 4
+      name: environment
+      label: Environment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: educator_counselor
+      label: Educator/Counselor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: community_team
+      label: Community Team
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: other
+      label: Other
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: user_notes
+      label: User Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter_comments
+      label: Submitter Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: reviewer_email
+      label: Reviewer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: reviewer_phone
+      label: Reviewer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: submitter_agree
+      label: Submitter Agrees
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: reviewer_agree
+      label: Reviewer Agrees
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: submitter_agree_other
+      label: Submitter Agrees Other
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: reviewer_agree_other
+      label: Reviewer Agrees Other
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: submitter_comments_other
+      label: Submitter Comments Other
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: reviewer_comments_other
+      label: Reviewer Comments Other
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: date_created
+      label: Date Created
+      hint: null
+      type: date
+      options: []
+      required: true

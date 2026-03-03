@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contract Deliverables Review Form
+    pages:
+    - id: 1
+      name: reviewer_name
+      label: Reviewer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reviewer_title
+      label: Reviewer Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: review_date
+      label: Review Date
+      hint: Date of review
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: contract_number
+      label: Contract Number
+      hint: Contract reference
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contract_title
+      label: Contract Title
+      hint: Name of contract
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: vendor_or_contractor
+      label: Vendor or Contractor
+      hint: Other party name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: deliverable_name
+      label: Deliverable Name
+      hint: What is being reviewed?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: deliverable_type
+      label: Deliverable Type
+      hint: Category of deliverable
+      type: select_one
+      options:
+      - Report
+      - Software or application
+      - Design document
+      - Physical product
+      - Service completion
+      - Training material
+      - Analysis
+      - Other
+      required: true
+    - id: 10
+      name: submission_date
+      label: Submission Date
+      hint: When was it submitted?
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: due_date
+      label: Due Date
+      hint: When was it due?
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: deliverable_status
+      label: Deliverable Status
+      hint: Current status
+      type: select_one
+      options:
+      - On time
+      - Late
+      - Early
+      - Partial submission
+      required: true
+    - id: 13
+      name: quality_rating
+      label: Quality Rating
+      hint: Rate the quality
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 14
+      name: completeness_rating
+      label: Completeness Rating
+      hint: How complete is it?
+      type: select_one
+      options:
+      - Complete
+      - Mostly complete
+      - Partially complete
+      - Incomplete
+      required: true
+    - id: 15
+      name: requirements_met
+      label: Requirements Met
+      hint: Are all requirements satisfied?
+      type: select_one
+      options:
+      - All requirements met
+      - Most requirements met
+      - Some requirements met
+      - Few requirements met
+      - No requirements met
+      required: true
+    - id: 16
+      name: specifications_compliance
+      label: Specifications Compliance
+      hint: Does it meet specs?
+      type: select_one
+      options:
+      - Fully compliant
+      - Mostly compliant
+      - Partially compliant
+      - Not compliant
+      required: true
+    - id: 17
+      name: defects_found
+      label: Defects Found
+      hint: Number of issues
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: defects_description
+      label: Defects Description
+      hint: Describe the issues
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: testing_results
+      label: Testing Results
+      hint: Summary of testing
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: acceptance_decision
+      label: Acceptance Decision
+      hint: Final decision
+      type: select_one
+      options:
+      - Accept as is
+      - Accept with minor revisions
+      - Accept with major revisions
+      - Reject and resubmit
+      - Reject
+      required: true
+    - id: 21
+      name: revision_deadline
+      label: Revision Deadline
+      hint: When are revisions due?
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: comments
+      label: Comments
+      hint: Additional feedback
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reviewer_signature
+      label: Reviewer Signature
+      hint: Type name as signature
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,235 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Room Check Out Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Full Name
+      hint: Person checking out
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: room_name
+      label: Room Name
+      hint: Which room
+      type: select_one
+      options:
+      - Conference Room A
+      - Conference Room B
+      - Conference Room C
+      - Board Room
+      - Training Room
+      - Meeting Room 1
+      - Meeting Room 2
+      - Executive Suite
+      required: true
+    - id: 6
+      name: checkout_date
+      label: Check-Out Date
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: checkout_time
+      label: Check-Out Time
+      hint: Current time
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: booking_reference
+      label: Booking Reference Number
+      hint: Reservation ID
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_purpose
+      label: Event Purpose
+      hint: What was the meeting
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: actual_attendees
+      label: Actual Number of Attendees
+      hint: Final headcount
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: room_condition
+      label: Room Condition
+      hint: Current state
+      type: select_one
+      options:
+      - Excellent - Clean and Ready
+      - Good - Minor Cleanup Needed
+      - Fair - Cleanup Required
+      - Poor - Significant Issues
+      required: true
+    - id: 12
+      name: furniture_damage
+      label: Any Furniture Damage
+      hint: Report issues
+      type: select_one
+      options:
+      - No Damage
+      - Minor Damage Noted
+      - Significant Damage
+      - Unknown
+      required: true
+    - id: 13
+      name: damage_details
+      label: Damage Details
+      hint: Describe any issues
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: equipment_status
+      label: Equipment Status
+      hint: All equipment accounted for
+      type: select_one
+      options:
+      - All Equipment Present and Working
+      - Some Equipment Missing
+      - Equipment Malfunctioning
+      - Not Used
+      required: true
+    - id: 15
+      name: missing_equipment
+      label: Missing or Damaged Equipment
+      hint: List items
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: trash_disposed
+      label: Trash Disposed Properly
+      hint: Waste management
+      type: select_one
+      options:
+      - Yes All Trash Removed
+      - Partially
+      - No Assistance Needed
+      required: true
+    - id: 17
+      name: furniture_rearranged
+      label: Was Furniture Rearranged
+      hint: Return to original
+      type: select_one
+      options:
+      - Yes Returned to Original
+      - No Still Rearranged
+      - Not Applicable
+      required: true
+    - id: 18
+      name: whiteboard_cleaned
+      label: Whiteboard Cleaned
+      hint: Erased and clean
+      type: select_one
+      options:
+      - Yes Cleaned
+      - No Not Used
+      - No Needs Cleaning
+      required: true
+    - id: 19
+      name: lights_off
+      label: Lights Turned Off
+      hint: Energy conservation
+      type: select_one
+      options:
+      - Yes All Lights Off
+      - Partially
+      - No Left On
+      required: true
+    - id: 20
+      name: ac_adjusted
+      label: AC Adjusted
+      hint: Temperature settings
+      type: select_one
+      options:
+      - Yes Adjusted Appropriately
+      - No Not Changed
+      - Not Applicable
+      required: false
+    - id: 21
+      name: windows_doors
+      label: Windows and Doors Secured
+      hint: Security check
+      type: select_one
+      options:
+      - Yes All Secured
+      - No Still Open
+      - Not Applicable
+      required: true
+    - id: 22
+      name: key_access_card
+      label: Key or Access Card Returned
+      hint: Return access devices
+      type: select_one
+      options:
+      - Yes Returned
+      - No Still Have
+      - Not Applicable
+      required: true
+    - id: 23
+      name: issues_reported
+      label: Any Issues to Report
+      hint: Maintenance needs
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: overall_experience
+      label: Overall Room Experience
+      hint: Rate your experience
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any feedback
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: checkout_confirmation
+      label: I Confirm Check-Out is Complete
+      hint: Verify completion
+      type: select_one
+      options:
+      - I Confirm
+      - Not Complete
+      required: true

@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transaction Alert Activation Request Form
+    pages:
+    - id: 1
+      name: transaction_alert_activation_request_form
+      label: Transaction Alert Activation Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: account_name
+      label: Account Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: account_type
+      label: Account Type
+      hint: null
+      type: select_one
+      options:
+      - Account Checking
+      - Account Savings
+      - Account Credit
+      - Account Loan
+      required: false
+    - id: 8
+      name: transaction_amount
+      label: Transaction Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: transaction_date
+      label: Transaction Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: transaction_time
+      label: Transaction Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: alert_preferences
+      label: Alert Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: alert_frequency
+      label: Alert Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 13
+      name: notification_channel
+      label: Notification Channel
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - SMS
+      - Mobile App
+      required: false
+    - id: 14
+      name: notification_time
+      label: Notification Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: confirm_transaction_alert
+      label: Confirm Transaction Alert
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: decline_reason
+      label: Decline Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: decline_reason_note
+      label: Decline Reason Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: support_request
+      label: Support Request
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: support_request_note
+      label: Support Request Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: customer_message
+      label: Customer Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: bank_message
+      label: Bank Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: bank_message_note
+      label: Bank Message Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: confirm_activation
+      label: Confirm Activation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: confirm_activation_note
+      label: Confirm Activation Note
+      hint: null
+      type: note
+      options: []
+      required: false

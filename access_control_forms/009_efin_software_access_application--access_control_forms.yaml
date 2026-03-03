@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: efin_software_access_application
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Requestor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - EFIN
+      - FINIS
+      - Other
+      required: false
+    - id: 4
+      name: software_access_required
+      label: Software Access Required
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: approver_name
+      label: Approver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: approver_title
+      label: Approver Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: approver_email
+      label: Approver Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: request_status
+      label: Request Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: approver_note
+      label: Approver Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: approver_phone
+      label: Approver Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: approval_time
+      label: Approval Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: requestor_phone
+      label: Requestor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: approval_level
+      label: Approval Level
+      hint: null
+      type: select_one
+      options:
+      - User
+      - Group
+      - Administrator
+      required: false
+    - id: 17
+      name: requestor_email
+      label: Requestor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: approver_department
+      label: Approver Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: approval_comment
+      label: Approval Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: requestor_location
+      label: Requestor Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: approver_level
+      label: Approver Level
+      hint: null
+      type: select_one
+      options:
+      - Junior
+      - Senior
+      - Admin
+      required: false
+    - id: 24
+      name: approver_notes
+      label: Approver Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false

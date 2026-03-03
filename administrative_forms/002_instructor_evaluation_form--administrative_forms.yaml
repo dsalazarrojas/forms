@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: instructor_evaluation_form
+    pages:
+    - id: 1
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: teacher_name
+      label: teacher_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: evaluation_date
+      label: evaluation_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: evaluation_time
+      label: evaluation_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: evaluation_type
+      label: evaluation_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Mid-semester''}'
+      - '{''id'': 2, ''label'': ''End-of-semester''}'
+      - '{''id'': 3, ''label'': ''Semester''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: true
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: overall_performance
+      label: overall_performance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: evaluation_comments
+      label: evaluation_comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: evaluation_rating
+      label: evaluation_rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: areas_of_strengths
+      label: areas_of_strengths
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: areas_of_improvement
+      label: areas_of_improvement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: recommendation
+      label: recommendation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

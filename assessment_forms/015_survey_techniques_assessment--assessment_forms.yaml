@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Survey Techniques Assessment
+    pages:
+    - id: 1
+      name: survey_techniques_assessment_page
+      label: survey_techniques_assessment_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: training_methods
+      label: training_methods
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Multiple Choice''}'
+      - '{''id'': 2, ''label'': ''True or False''}'
+      - '{''id'': 3, ''label'': ''Likert Scale''}'
+      required: false
+    - id: 3
+      name: participant_experience
+      label: participant_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: internal_training
+      label: internal_training
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Workshops''}'
+      - '{''id'': 2, ''label'': ''Courses''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: participant_preferences
+      label: participant_preferences
+      hint: null
+      type: note
+      options: []
+      required: false

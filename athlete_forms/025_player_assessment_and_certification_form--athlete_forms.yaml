@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Player Assessment And Certification Form
+    pages:
+    - id: 1
+      name: player_assessment
+      label: Player Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: certification
+      label: Certification
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Certified'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Not Certified'', ''value'': 2}'
+      required: false
+    - id: 3
+      name: skills
+      label: Skills
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: performance
+      label: Performance
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: player_position
+      label: Player Position
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: coach_name
+      label: Coach Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date_of_assessment
+      label: Date of Assessment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: assessment_type
+      label: Assessment Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: assessment_time
+      label: Assessment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: certification_date
+      label: Certification Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: certification_time
+      label: Certification Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: certification_type
+      label: Certification Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: assessment_score
+      label: Assessment Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: player_age
+      label: Player Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: certification_score
+      label: Certification Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: assessment_comments
+      label: Assessment Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Lease Portal Access Form
+    pages:
+    - id: 1
+      name: tenant_lease_portal_access_form
+      label: Tenant Lease Portal Access
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Administrative Forms
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: tenant
+      label: Tenant
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      required: false
+    - id: 5
+      name: lease_document
+      label: Lease Document
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: document_type
+      label: Document Type
+      hint: null
+      type: select_one
+      options:
+      - Lease
+      - Rent
+      - Other
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Online
+      required: false
+    - id: 8
+      name: portal_access_requested
+      label: Portal Access Requested
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: communication_preference
+      label: Communication Preference
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      required: false
+    - id: 10
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 14
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false

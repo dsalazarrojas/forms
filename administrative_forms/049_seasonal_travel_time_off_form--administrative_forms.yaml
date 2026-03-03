@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: seasonal-travel-time-off-form
+    pages:
+    - id: 1
+      name: seasonal_travel_time_off_form_general
+      label: seasonal-travel-time-off-form-general
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: seasonal_travel_time_off_form_destination
+      label: seasonal-travel-time-off-form-destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: seasonal_travel_time_off_form_date_from
+      label: seasonal-travel-time-off-form-date-from
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: seasonal_travel_time_off_form_date_to
+      label: seasonal-travel-time-off-form-date-to
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: seasonal_travel_time_off_form_duration
+      label: seasonal-travel-time-off-form-duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: seasonal_travel_time_off_form_approvals
+      label: seasonal-travel-time-off-form-approvals
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 7
+      name: seasonal_travel_time_off_form_manager_approvals
+      label: seasonal-travel-time-off-form-manager-approvals
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: seasonal_travel_time_off_form_employees
+      label: seasonal-travel-time-off-form-employees
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false

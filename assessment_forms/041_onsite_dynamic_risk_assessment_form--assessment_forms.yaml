@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: onsite_dynamic_risk_assessment_form
+    pages:
+    - id: 1
+      name: onsite_header
+      label: onsite_header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: onsite_dynamic_risk_assessment_form_header
+      label: onsite_dynamic_risk_assessment_form_header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: onsite_risk_assessment_form_header
+      label: onsite_risk_assessment_form_header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: onsite_risk_level
+      label: onsite_risk_level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 5
+      name: onsite_risk_probability
+      label: onsite_risk_probability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: onsite_risk_probability_frequency
+      label: onsite_risk_probability_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 7
+      name: onsite_risk_consequence
+      label: onsite_risk_consequence
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 8
+      name: onsite_risk_prevention
+      label: onsite_risk_prevention
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: onsite_dynamic_risk
+      label: onsite_dynamic_risk
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: onsite_recommendations
+      label: onsite_recommendations
+      hint: null
+      type: text
+      options: []
+      required: false

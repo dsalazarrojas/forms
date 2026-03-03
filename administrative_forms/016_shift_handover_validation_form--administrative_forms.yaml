@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shift Handover Validation Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shift_date
+      label: Shift Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: shift_length
+      label: Shift Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: handover_notes
+      label: Handover Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shift_type
+      label: Shift Type
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Night
+      required: false
+    - id: 8
+      name: handover_personnel
+      label: Handover Personnel
+      hint: null
+      type: select_multiple
+      options:
+      - Team 1
+      - Team 2
+      - Team 3
+      required: false
+    - id: 9
+      name: previous_handover_notes
+      label: Previous Handover Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: next_handover_notes
+      label: Next Handover Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: handover_personnel_2
+      label: Handover Personnel 2
+      hint: null
+      type: select_multiple
+      options:
+      - Team 1
+      - Team 2
+      - Team 3
+      required: false
+    - id: 12
+      name: next_handover_personnel
+      label: Next Handover Personnel
+      hint: null
+      type: select_multiple
+      options:
+      - Team 1
+      - Team 2
+      - Team 3
+      required: false
+    - id: 13
+      name: handover_comments
+      label: Handover Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: handover_signature
+      label: Handover Signature
+      hint: null
+      type: text
+      options: []
+      required: false

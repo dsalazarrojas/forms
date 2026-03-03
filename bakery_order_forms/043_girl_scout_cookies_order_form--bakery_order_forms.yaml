@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Girl Scout Cookies Order Form
+    pages:
+    - id: 1
+      name: cookie_type
+      label: Cookie Type
+      hint: null
+      type: select_one
+      options:
+      - chocolate_chip
+      - oatmeal_raisin
+      - peanut_butter_cookies
+      required: false
+    - id: 2
+      name: cookie_quantity
+      label: Quantity
+      hint: Please enter the quantity of cookies you would like to order.
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: cookie_price
+      label: Cookie Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: scout_name
+      label: Scout Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: cookie_price_total
+      label: Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - cash
+      - credit_card
+      - bank_transfer
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false

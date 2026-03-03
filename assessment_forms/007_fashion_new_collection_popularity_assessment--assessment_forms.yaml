@@ -1,0 +1,612 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fashion New Collection Popularity Assessment
+    pages:
+    - id: 1
+      name: fashion_new_collection_popularity_form
+      label: Fashion New Collection Popularity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: fashion_new_collection_name
+      label: Fashion New Collection Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: fashion_new_collection_description
+      label: Fashion New Collection Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: fashion_new_collection_image_url
+      label: Fashion New Collection Image URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: fashion_new_collection_video_url
+      label: Fashion New Collection Video URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: fashion_new_collection_price_range
+      label: Fashion New Collection Price Range
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 7
+      name: fashion_new_collection_purchasability
+      label: Fashion New Collection Purchasability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: fashion_new_collection_purchasability_rating
+      label: Fashion New Collection Purchasability
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 9
+      name: fashion_new_collection_quality_rating
+      label: Fashion New Collection Quality
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 10
+      name: fashion_new_collection_intent_to_buy
+      label: Fashion New Collection Intent to Buy
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 11
+      name: fashion_new_collection_purchase_intent
+      label: Fashion New Collection Purchase Intent
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 12
+      name: fashion_new_collection_recommendation
+      label: Fashion New Collection Recommendation
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 13
+      name: fashion_new_collection_recommendation_rating
+      label: Fashion New Collection Recommendation
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 14
+      name: fashion_new_collection_purchase_probability
+      label: Fashion New Collection Purchase Probability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: fashion_new_collection_recommendation_score
+      label: Fashion New Collection Recommendation Score
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 16
+      name: fashion_new_collection_purchase_probability_score
+      label: Fashion New Collection Purchase Probability Score
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 17
+      name: fashion_new_collection_recommendation_score_range
+      label: Fashion New Collection Recommendation Score Range
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 18
+      name: fashion_new_collection_purchase_probability_range
+      label: Fashion New Collection Purchase Probability
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 19
+      name: fashion_new_collection_collection_size
+      label: Fashion New Collection Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: fashion_new_collection_collection_weight
+      label: Fashion New Collection Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: fashion_new_collection_collection_height
+      label: Fashion New Collection Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: fashion_new_collection_collection_width
+      label: Fashion New Collection Width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: fashion_new_collection_collection_depth
+      label: Fashion New Collection Depth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: fashion_new_collection_collection_length
+      label: Fashion New Collection Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: fashion_new_collection_collection_color
+      label: Fashion New Collection Color
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - White
+      - Red
+      - Blue
+      - Green
+      - Yellow
+      - Grey
+      - Purple
+      - Orange
+      - Pink
+      - Brown
+      - Turquoise
+      - Silver
+      - Gold
+      - Bronze
+      - Pinkish
+      - Lavender
+      - Beige
+      - Navy Blue
+      - Khaki
+      - Khaki
+      - Turquoise
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beig
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beig
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beig
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beige
+      - Navy Blue
+      - Turquoise
+      - Beig
+      required: false

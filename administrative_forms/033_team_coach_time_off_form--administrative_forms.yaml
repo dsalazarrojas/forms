@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Coach Time Off Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: reason
+      label: Reason
+      hint: null
+      type: select_one
+      options:
+      - '{0: ''Select One'', 1: ''Personal'', 2: ''Family'', 3: ''Vacation''}'
+      - '{''id'': 8, ''name'': ''start_date'', ''label'': ''Start Date'', ''hint'':
+        None, ''type'': ''date'', ''options'': []}'
+      - '{''id'': 9, ''name'': ''end_date'', ''label'': ''End Date'', ''hint'': None,
+        ''type'': ''date'', ''options'': []}'
+      - '{''id'': 10, ''name'': ''coach_name'', ''label'': ''Coach Name'', ''hint'':
+        None, ''type'': ''text'', ''options'': []}'
+      - '{''id'': 11, ''name'': ''team'', ''label'': ''Team'', ''hint'': None, ''type'':
+        ''text'', ''options'': []}'
+      - '{''id'': 12, ''name'': ''coach_position'', ''label'': ''Coach Position'',
+        ''hint'': None, ''type'': ''text'', ''options'': []}'
+      - '{''id'': 13, ''name'': ''notes'', ''label'': ''Notes'', ''hint'': None, ''type'':
+        ''note'', ''options'': []}'
+      - '{''id'': 14, ''name'': ''submit'', ''label'': ''Submit'', ''hint'': None,
+        ''type'': ''select_multiple'', ''options'': []}'
+      - '{''id'': 15, ''name'': ''confirm'', ''label'': ''Confirm'', ''hint'': None,
+        ''type'': ''boolean'', ''options'': []}'
+      required: false

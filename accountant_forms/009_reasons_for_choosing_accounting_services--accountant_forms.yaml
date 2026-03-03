@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: reasons_for_choosing_accounting_services
+    pages:
+    - id: 1
+      name: client_perspective
+      label: Client Perspective
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: service_selection
+      label: What services do you require?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: service_level
+      label: What level of service do you require?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 4
+      name: communication_frequency
+      label: How often do you prefer to communicate with us?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 5
+      name: communication_method
+      label: How do you prefer to communicate with us?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: service_frequency
+      label: How often do you require our services?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: communication_frequency_2
+      label: How often do you prefer to communicate with us?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: communication_method_2
+      label: How do you prefer to communicate with us?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hippotherapy Interest Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: preferred_hippotherapy_type
+      label: Preferred Hippotherapy Type
+      hint: null
+      type: select_one
+      options:
+      - Horseback riding
+      - Hippo therapy
+      - Equine assisted therapy
+      required: false
+    - id: 6
+      name: frequency_of_sessions
+      label: Frequency of Sessions
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 7
+      name: available_start_time
+      label: Available Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Physical disability
+      - Emotional or psychological condition
+      - Medical condition
+      required: false
+    - id: 10
+      name: medical_condition_details
+      label: Medical Condition Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Guardian
+      - Partner
+      - Friend
+      - Family member
+      required: false
+    - id: 14
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: medical_insurance_provider
+      label: Medical Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false

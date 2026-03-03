@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Affairs Office Admission Form
+    pages:
+    - id: 1
+      name: form_title
+      label: student_affairs_office_admission_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: student_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: student_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: student_date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: program
+      label: student_program_of_interest
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,201 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Accident Investigation Report
+    pages:
+    - id: 1
+      name: section_report_info
+      label: -- Report Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: report_number
+      label: Report Number
+      hint: Assigned by the safety department
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: report_date
+      label: Date of Report
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: investigator_name
+      label: Investigator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: investigator_title
+      label: Investigator Title or Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_incident_details
+      label: -- Incident Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: incident_date
+      label: Date of Incident
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: incident_time
+      label: Time of Incident
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: incident_location
+      label: Incident Location
+      hint: Building, floor, area, or workstation
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: injured_employee_name
+      label: Name of Injured Employee
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: employee_department
+      label: Department of Injured Employee
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: incident_type
+      label: Type of Incident
+      hint: null
+      type: select_one
+      options:
+        - Near miss
+        - First aid only
+        - Medical treatment
+        - Lost time injury
+        - Fatality
+        - Property damage only
+      required: true
+    - id: 13
+      name: incident_description
+      label: Detailed Description of What Happened
+      hint: Include sequence of events
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: section_root_cause
+      label: -- Root Cause Analysis --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: direct_cause
+      label: Direct Cause of the Incident
+      hint: The immediate action or condition that caused the incident
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: contributing_factors
+      label: Contributing Factors
+      hint: Select all that apply
+      type: select_multiple
+      options:
+        - Inadequate training
+        - Equipment failure
+        - Unsafe work practices
+        - Environmental conditions
+        - Lack of supervision
+        - PPE not used or unavailable
+        - Fatigue or distraction
+        - Inadequate procedures
+      required: true
+    - id: 17
+      name: root_cause
+      label: Root Cause
+      hint: The underlying systemic issue
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: section_corrective_actions
+      label: -- Corrective Actions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: immediate_actions
+      label: Immediate Corrective Actions Taken
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: long_term_actions
+      label: Long-Term Corrective Actions Recommended
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: action_responsible_person
+      label: Person Responsible for Follow-Up Actions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: target_completion_date
+      label: Target Completion Date for Corrective Actions
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: witness_statements
+      label: Witness Statements or Names
+      hint: Provide names and brief statements from witnesses
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: osha_recordable
+      label: Is This Incident OSHA Recordable
+      hint: null
+      type: select_one
+      options:
+        - Yes
+        - No
+        - Under review
+      required: true

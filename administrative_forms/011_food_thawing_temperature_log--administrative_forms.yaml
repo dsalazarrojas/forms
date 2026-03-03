@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Thawing Temperature Log
+    pages:
+    - id: 1
+      name: food_thawing_temperature_log_form
+      label: Food Thawing Temperature Log
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: thawing_temperature
+      label: Thawing Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: food_product
+      label: Food Product
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Cheese''}'
+      - '{''id'': 2, ''label'': ''Meat''}'
+      - '{''id'': 3, ''label'': ''Seafood''}'
+      required: false
+    - id: 6
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: thawing_method
+      label: Thawing Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Running Water''}'
+      - '{''id'': 2, ''label'': ''Cold Water''}'
+      - '{''id'': 3, ''label'': ''Dry Method''}'
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

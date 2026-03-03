@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Electric Vehicle Charging Station Inquiry Form
+    pages:
+    - id: 1
+      name: inquiry_type
+      label: Inquiry Type
+      hint: null
+      type: select_one
+      options:
+      - Electric
+      - Hybrid
+      - None
+      required: false
+    - id: 2
+      name: inquiry_for
+      label: Inquiry For
+      hint: null
+      type: select_multiple
+      options:
+      - Electric Vehicle Charging Installation
+      - Electric Vehicle Charging Station Maintenance
+      - Electric Vehicle Charging Station Repair
+      required: false
+    - id: 3
+      name: inquiry_about
+      label: Inquiry About
+      hint: null
+      type: select_multiple
+      options:
+      - Charging Station Capacity
+      - Station Installation Details
+      - Station Maintenance Scheduling
+      required: false
+    - id: 4
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - Electric
+      - Hybrid
+      - Gasoline
+      required: false
+    - id: 5
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: address
+      label: Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool_id
+      label: Assigned Tool ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: output_file
+      label: Output File
+      hint: null
+      type: select_one
+      options:
+      - CSV
+      - Excel
+      required: false
+    - id: 15
+      name: output_format
+      label: Output Format
+      hint: null
+      type: select_one
+      options:
+      - PDF
+      - CSV
+      required: false
+    - id: 16
+      name: output_name
+      label: Output Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: output_description
+      label: Output Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_jimmy
+      label: Assigned Jimmy
+      hint: null
+      type: text
+      options: []
+      required: false

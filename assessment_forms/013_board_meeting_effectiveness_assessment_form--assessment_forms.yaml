@@ -1,0 +1,208 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Board Meeting Effectiveness Assessment Form
+    pages:
+      - id: 1
+        name: meeting_date
+        label: Meeting Date
+        hint: Date of the meeting being assessed
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: meeting_type
+        label: Meeting Type
+        hint: Type of board meeting
+        type: select_one
+        options:
+          - Regular Board Meeting
+          - Special Board Meeting
+          - Annual Meeting
+          - Committee Meeting
+          - Executive Session
+        required: true
+      - id: 3
+        name: respondent_name
+        label: Respondent Name
+        hint: Your name (optional for anonymous)
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: respondent_role
+        label: Your Role
+        hint: Select your position
+        type: select_one
+        options:
+          - Board Chair
+          - Vice Chair
+          - Board Member
+          - Executive Director
+          - Secretary
+          - Observer
+        required: true
+      - id: 5
+        name: agenda_clarity
+        label: Agenda Clarity
+        hint: Was the agenda clear and well-organized?
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 6
+        name: agenda_distribution_timing
+        label: Agenda Distribution Timing
+        hint: Was the agenda sent in advance?
+        type: select_one
+        options:
+          - Yes, well in advance
+          - Yes, but too late
+          - No, not sent in advance
+        required: true
+      - id: 7
+        name: meeting_materials_quality
+        label: Meeting Materials Quality
+        hint: Quality of pre-meeting materials
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 8
+        name: start_time_punctuality
+        label: Start Time Punctuality
+        hint: Did the meeting start on time?
+        type: select_one
+        options:
+          - Yes, on time
+          - Slightly late (under 15 min)
+          - Moderately late (15-30 min)
+          - Significantly late (over 30 min)
+        required: true
+      - id: 9
+        name: end_time_punctuality
+        label: End Time Punctuality
+        hint: Did the meeting end on time?
+        type: select_one
+        options:
+          - Yes, on time
+          - Slightly late (under 15 min)
+          - Moderately late (15-30 min)
+          - Significantly late (over 30 min)
+        required: true
+      - id: 10
+        name: discussion_participation
+        label: Discussion Participation
+        hint: Level of member participation
+        type: select_one
+        options:
+          - Excellent - All members engaged
+          - Good - Most members engaged
+          - Average - Some members engaged
+          - Poor - Limited participation
+        required: true
+      - id: 11
+        name: decision_making_effectiveness
+        label: Decision Making Effectiveness
+        hint: How effective was the decision-making process?
+        type: select_one
+        options:
+          - Very Effective
+          - Effective
+          - Average
+          - Ineffective
+          - Very Ineffective
+        required: true
+      - id: 12
+        name: chair_facilitation
+        label: Chair Facilitation
+        hint: How well did the chair facilitate?
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 13
+        name: time_management
+        label: Time Management
+        hint: How well was time managed?
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 14
+        name: action_items_clarity
+        label: Action Items Clarity
+        hint: Were action items clearly defined?
+        type: select_one
+        options:
+          - Very Clear
+          - Clear
+          - Somewhat Clear
+          - Unclear
+          - Not Defined
+        required: true
+      - id: 15
+        name: meeting_objectives_met
+        label: Meeting Objectives Met
+        hint: Were the objectives achieved?
+        type: select_one
+        options:
+          - All objectives met
+          - Most objectives met
+          - Some objectives met
+          - Few objectives met
+          - No objectives met
+        required: true
+      - id: 16
+        name: overall_effectiveness_rating
+        label: Overall Effectiveness Rating
+        hint: Rate the overall meeting
+        type: select_one
+        options:
+          - 5 - Excellent
+          - 4 - Good
+          - 3 - Average
+          - 2 - Below Average
+          - 1 - Poor
+        required: true
+      - id: 17
+        name: improvements_suggested
+        label: Suggested Improvements
+        hint: What could be improved?
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: topics_for_next_meeting
+        label: Topics for Next Meeting
+        hint: What should be discussed next?
+        type: text
+        options: []
+        required: false

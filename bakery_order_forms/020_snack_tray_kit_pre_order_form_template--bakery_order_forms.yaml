@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Snack Tray Kit Pre Order Form Template
+    pages:
+    - id: 1
+      name: snack_tray_kit_pre_order_form
+      label: Snack Tray Kit Pre Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Bakery
+      - Produce
+      - Holiday
+      required: true
+    - id: 3
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: product
+      label: Product
+      hint: null
+      type: select_one
+      options:
+      - Fresh Produce
+      - Holiday Kit
+      - Snack Tray Kit
+      required: true

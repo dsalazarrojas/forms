@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Insurance Discharge Form
+    pages:
+    - id: 1
+      name: policyholder_id_header
+      label: -- Policyholder Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: policyholder_full_name
+      label: Policyholder Full Name
+      hint: As it appears on your insurance documents
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: policy_number
+      label: Policy Number
+      hint: The unique ID for the policy you wish to discharge
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: For confirmation of discharge
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: Primary phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: discharge_details_header
+      label: -- Discharge Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: requested_discharge_date
+      label: Requested Discharge Date
+      hint: The date you want the coverage to end
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: reason_for_discharge
+      label: Reason for Discharge
+      hint: Why are you canceling this policy?
+      type: select_one
+      options:
+      - Switching Providers
+      - Vehicle Sold
+      - Vehicle Scrapped
+      - Moving Out of State
+      - Policy no longer needed
+      - Other
+      required: true
+    - id: 9
+      name: new_insurance_provider
+      label: New Insurance Provider
+      hint: Only if switching to a new company
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: transition_info_header
+      label: -- Transition Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: refund_method
+      label: Preferred Refund Method
+      hint: How should we return any unused premium?
+      type: select_one
+      options:
+      - Credit to Original Card
+      - Check by Mail
+      - Electronic Transfer (ACH)
+      required: true
+    - id: 12
+      name: forwarding_address
+      label: Forwarding Address for Refund
+      hint: Where should we send your final documents or check?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: confirm_lapse_understanding
+      label: Confirm Coverage Lapse Understanding
+      hint: I understand that discharging this policy will result in a lapse in coverage
+      type: select_one
+      options:
+      - Yes - I understand
+      - Other
+      required: true
+    - id: 14
+      name: authorize_discharge
+      label: Authorize Discharge
+      hint: I officially request the discharge of the specified policy
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

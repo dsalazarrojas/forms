@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Final Record Retention Approval Form
+    pages:
+    - id: 1
+      name: record_retention_details
+      label: Record Retention Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: destruction_date
+      label: Destruction Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: retention_period
+      label: Retention Period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''User 1''}'
+      - '{''value'': ''User 2''}'
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: destruction_status
+      label: Destruction Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Pending''}'
+      - '{''value'': ''Approved''}'
+      - '{''value'': ''Rejected''}'
+      required: false
+    - id: 8
+      name: retention_status
+      label: Retention Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''Pending''}'
+      - '{''value'': ''Completed''}'
+      required: false
+    - id: 9
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Pending''}'
+      - '{''value'': ''Approved''}'
+      - '{''value'': ''Rejected''}'
+      required: false
+    - id: 10
+      name: record_retention_policy
+      label: Record Retention Policy
+      hint: null
+      type: text
+      options: []
+      required: false

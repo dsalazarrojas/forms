@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: scarf_pre_order_form
+    pages:
+    - id: 1
+      name: order_type
+      label: Order Type
+      hint: null
+      type: select_one
+      options:
+      - ส้รับ
+      - ส้รับ
+      - สร
+      required: false
+    - id: 2
+      name: order_details
+      label: Order Details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: product_style
+      label: Product Style
+      hint: null
+      type: select_multiple
+      options:
+      - Style 1
+      - Style 2
+      - Style 3
+      required: false
+    - id: 8
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false

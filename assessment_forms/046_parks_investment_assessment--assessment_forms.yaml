@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parks Investment Assessment
+    pages:
+    - id: 1
+      name: site_evaluation_form
+      label: Park Site Evaluation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: site_description
+      label: Site Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: park_score
+      label: Overall Site Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: site_condition
+      label: Site Condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: maintenance_frequencies
+      label: Maintenance Frequencies
+      hint: How often do you visit the park or its surroundings?
+      type: select_multiple
+      options:
+      - Often
+      - Occasionally
+      - Rarely
+      - Never
+      required: true
+    - id: 6
+      name: park_accessibility
+      label: Park Accessibility
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: park_maintenance
+      label: Park Maintenance
+      hint: null
+      type: select_one
+      options:
+      - Well Maintained
+      - Average
+      - Poorly Maintained
+      required: false
+    - id: 8
+      name: park_enjoyment
+      label: Park Enjoyment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: park_safety
+      label: Park Safety
+      hint: null
+      type: select_one
+      options:
+      - Very Safe
+      - Average
+      - Somewhat Safe
+      - Somewhat Not Safe
+      required: false
+    - id: 10
+      name: park_scores
+      label: Scores
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: site_evaluations
+      label: Site Evaluations
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_organisation
+      label: Contact Organisation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: park_id
+      label: Park ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: park_name
+      label: Park Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: park_address
+      label: Park Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: park_city_state
+      label: Park City State
+      hint: null
+      type: text
+      options: []
+      required: true

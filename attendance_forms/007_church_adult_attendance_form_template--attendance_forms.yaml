@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Adult Attendance Form Template
+    pages:
+    - id: 1
+      name: section_header_event_info
+      label: -- Event Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: section_header_attendance
+      label: -- Attendance Record --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: attendance_status
+      label: Attendance Status
+      hint: null
+      type: select_one
+      options:
+      - Present
+      - Absent
+      - Late
+      - Excused absence
+      required: true
+    - id: 7
+      name: section_header_participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: member_status
+      label: Member Status
+      hint: null
+      type: select_one
+      options:
+      - Active member
+      - Visitor
+      - Returning visitor
+      - Prospective member
+      required: false
+    - id: 13
+      name: section_header_engagement
+      label: -- Engagement and Participation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: participation_level
+      label: Level of Participation
+      hint: null
+      type: select_one
+      options:
+      - Full participation
+      - Partial participation
+      - Observed only
+      - Arrived late
+      required: false
+    - id: 15
+      name: volunteered
+      label: Volunteered During Event
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: volunteer_role
+      label: Volunteer Role (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_header_feedback
+      label: -- Feedback and Comments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: event_feedback
+      label: Event Experience
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below average
+      - Poor
+      required: false
+    - id: 19
+      name: comments
+      label: Additional Comments
+      hint: Your feedback helps us improve future events
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_header_follow_up
+      label: -- Follow-up and Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: contact_permission
+      label: May we contact you about future events
+      hint: null
+      type: select_one
+      options:
+      - Yes, contact me
+      - No, do not contact
+      required: false
+    - id: 22
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text message
+      - Mail
+      required: false

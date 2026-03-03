@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Schedule A Demo Session
+    pages:
+    - id: 1
+      name: demo_request
+      label: Demo Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: preferred_date
+      label: Preferred Demo Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_zone
+      label: Time Zone
+      hint: null
+      type: select_multiple
+      options:
+      - Pacific
+      - Mountain
+      - Central
+      - Eastern
+      required: false
+    - id: 5
+      name: demo_time
+      label: Demo Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: demo_detailed_description
+      label: Demo Detailed Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: demo_type
+      label: Demo Type
+      hint: null
+      type: select_one
+      options:
+      - Web Demo
+      - Phone Demo
+      - On-site Demo
+      required: false
+    - id: 8
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

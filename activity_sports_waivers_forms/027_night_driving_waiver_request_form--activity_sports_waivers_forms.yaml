@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Night Driving Waiver Request Form
+    pages:
+    - id: 1
+      name: night_driving_waiver_request_form
+      label: Night Driving Waiver Request
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Option 1''}'
+      - '{''text'': ''Option 2''}'
+      - '{''text'': ''Option 3''}'
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: waiver_agreement
+      label: Waiver Agreement
+      hint: This is a sample waiver agreement
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: driving_experience
+      label: Driving Experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: driving_license
+      label: Driver License
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: vehicle_plate
+      label: Vehicle Plate
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Name and phone number of emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': "SUV''"}'
+      - '{''text'': "Car''"}'
+      - '{''text'': "Truck''"}'
+      required: false
+    - id: 17
+      name: vehicle_color
+      label: Vehicle Color
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: vehicle_insurance
+      label: Vehicle Insurance
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: driving_license_number
+      label: Driving License
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: driving_license_exp
+      label: Driving License Exp
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: hours_driven_night
+      label: Hours Driven Night
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: hours_driven_total
+      label: Hours Driven Total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: hours_practice
+      label: Hours Practice
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: practice_experience
+      label: Practice Experience
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Option 1''}'
+      - '{''text'': ''Option 2''}'
+      - '{''text'': ''Option 3''}'
+      required: true
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

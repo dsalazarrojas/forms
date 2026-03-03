@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Drive Thru Testing Appointment Form
+    pages:
+    - id: 1
+      name: drive_thru_testing_form
+      label: Schedule Drive-Thru Testing
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: test_type
+      label: Select Test
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: select_test_type
+      label: Test Type
+      hint: Select from list
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Rapid Test''}'
+      - '{''id'': 2, ''name'': ''Polymerase Chain Reaction Test''}'
+      - '{''id'': 3, ''name'': ''Antigen Test''}'
+      required: false
+    - id: 5
+      name: test_date
+      label: Date of Test
+      hint: Date of Test
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: test_time
+      label: Time of Test
+      hint: Time of Test
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: test_time_am_pm
+      label: Time of Test (AM/PM)
+      hint: AM/PM
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: location
+      label: Location
+      hint: Location of Test
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: appointment_date
+      label: Appointment Date
+      hint: Appointment Date
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: appointment_time
+      label: Appointment Time
+      hint: Appointment Time
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: doctor_name
+      label: Doctor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: doctor_info
+      label: Doctor Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: test_info
+      label: Test Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: submit_button
+      label: Save and Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: error_message
+      label: Error message
+      hint: null
+      type: note
+      options: []
+      required: false

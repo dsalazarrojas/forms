@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: theater_audition_evaluation_form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: actor
+      label: Actor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: audition_date
+      label: Audition Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: scene
+      label: Scene
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: performance
+      label: Performance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: director
+      label: Director
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

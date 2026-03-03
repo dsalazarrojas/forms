@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing Analytics Platform Access Request
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_info
+      label: Request Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: access_level
+      label: Access Level
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Standard
+      - Advanced
+      required: true
+    - id: 4
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - Internal
+      - External
+      required: true
+    - id: 5
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - Member 1
+      - Member 2
+      - Member 3
+      required: false
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: file_upload
+      label: File Upload
+      hint: null
+      type: text
+      options: []
+      required: false

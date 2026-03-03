@@ -1,0 +1,226 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hair Color Consultation Form
+    pages:
+    - id: 1
+      name: form_1
+      label: Hair Color Consultation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hair_type_1
+      label: Hair Type
+      hint: null
+      type: select_one
+      options:
+      - Blonde
+      - Brown
+      - Black
+      - Red
+      required: false
+    - id: 3
+      name: hair_color_1
+      label: Hair Color
+      hint: null
+      type: select_multiple
+      options:
+      - Blonde
+      - Brown
+      - Black
+      - Red
+      required: false
+    - id: 4
+      name: desired_length_1
+      label: Desired Length
+      hint: null
+      type: select_one
+      options:
+      - Short
+      - Medium
+      - Long
+      - Extra Long
+      required: false
+    - id: 5
+      name: hair_condition_1
+      label: Hair Condition
+      hint: null
+      type: select_one
+      options:
+      - Damaged
+      - Healthy
+      - Dry
+      - Oily
+      required: false
+    - id: 6
+      name: hair_texture_1
+      label: Hair Texture
+      hint: null
+      type: select_one
+      options:
+      - Fine
+      - Medium
+      - Coarse
+      - Very Coarse
+      required: false
+    - id: 7
+      name: hair_porosity_1
+      label: Hair Porosity
+      hint: null
+      type: select_one
+      options:
+      - Porous
+      - Low Porosity
+      - Normal
+      - High Porosity
+      required: false
+    - id: 8
+      name: hair_shape_1
+      label: Hair Shape
+      hint: null
+      type: select_one
+      options:
+      - Oval
+      - Round
+      - Square
+      - Diamond
+      required: false
+    - id: 9
+      name: hair_density_1
+      label: Hair Density
+      hint: null
+      type: select_one
+      options:
+      - Sparse
+      - Normal
+      - Thick
+      - Very Thick
+      required: false
+    - id: 10
+      name: face_shape_1
+      label: Face Shape
+      hint: null
+      type: select_one
+      options:
+      - Oval
+      - Round
+      - Square
+      - Diamond
+      required: false
+    - id: 11
+      name: hair_length_1
+      label: Hair Length
+      hint: null
+      type: select_one
+      options:
+      - Short
+      - Medium
+      - Long
+      - Extra Long
+      required: false
+    - id: 12
+      name: hair_type_2
+      label: Hair Type 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: appointment_date_1
+      label: Appointment Date
+      hint: Enter appointment date in YYYY-MM-DD format.
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: appointment_time_1
+      label: Appointment Time
+      hint: Enter appointment time in 24-hour format.
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: preferred_time_1
+      label: Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: appointment_note_1
+      label: Appointment Note
+      hint: Please enter any additional notes about the appointment.
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: email_1
+      label: Email
+      hint: Please enter client email address.
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: phone_1
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: confirm_appointment_1
+      label: Confirm
+      hint: Are you available at the scheduled time?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: confirm_appointment_2
+      label: Confirm
+      hint: Are you available at the scheduled time?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 21
+      name: appointment_note_2
+      label: Appointment Note 2
+      hint: Please enter any additional notes about the appointment.
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: appointment_time_2
+      label: Appointment Time 2
+      hint: Enter appointment time in 24-hour format.
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: appointment_date_2
+      label: Appointment Date 2
+      hint: Enter appointment date in YYYY-MM-DD format.
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: appointment_form_submitted_1
+      label: Appointment Form Submitted
+      hint: Has the appointment form been submitted?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: submission_date_1
+      label: Submission Date
+      hint: Submission date of appointment form.
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Security Badge Training Registration
+    pages:
+    - id: 1
+      name: security_badge_training_registration_form
+      label: security_and_facilities_teams
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: training_session
+      label: session
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''option1''}'
+      - '{''option2'': ''option2''}'
+      required: false
+    - id: 3
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: attendees_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: attendees_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: session_details
+      label: session_details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''chatjimmy''}'
+      - '{''option2'': ''option2''}'
+      required: true

@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Information Form
+    pages:
+    - id: 1
+      name: section_title
+      label: Administrative Contact Details
+      hint: Vital details for effective communication
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name_prefix
+      label: Prefix
+      hint: null
+      type: select_one
+      options:
+      - Mr.
+      - Ms.
+      - Mrs.
+      - Dr.
+      - Prof.
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: primary_email
+      label: Primary Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: mobile_phone
+      label: Mobile Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: business_phone
+      label: Business Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state_province
+      label: State / Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: postal_code
+      label: Postal / Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false

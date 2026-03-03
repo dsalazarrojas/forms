@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cloud Migration Readiness Assessment
+    pages:
+    - id: 1
+      name: section_department
+      label: -- Department Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: department_name
+      label: Department Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: assessor_name
+      label: Assessor Name
+      hint: Person conducting this assessment
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_current_systems
+      label: -- Current Systems and Infrastructure --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: system_description
+      label: System or Application Description
+      hint: What systems need migration?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: current_location
+      label: Current Location
+      hint: null
+      type: select_one
+      options:
+      - On-premises
+      - Colocation
+      - Legacy cloud
+      - Other
+      required: true
+    - id: 8
+      name: system_age
+      label: System Age - Years
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: annual_maintenance_cost
+      label: Annual Maintenance Cost - USD
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: data_volume
+      label: Data Volume - GB
+      hint: Approximate size
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_dependencies
+      label: -- Dependencies and Integration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: external_integrations
+      label: External system integrations needed
+      hint: Other systems this one connects to
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: integration_complexity
+      label: Integration Complexity
+      hint: null
+      type: select_one
+      options:
+      - Simple
+      - Moderate
+      - Complex
+      - Very complex
+      required: true
+    - id: 14
+      name: section_readiness
+      label: -- Technical Readiness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: cloud_ready_assessment
+      label: Cloud readiness - Current state
+      hint: null
+      type: select_one
+      options:
+      - Ready now
+      - Mostly ready
+      - Requires modifications
+      - Significant work needed
+      - Not ready
+      required: true
+    - id: 16
+      name: application_modernization
+      label: Application modernization required?
+      hint: null
+      type: select_one
+      options:
+      - No changes needed
+      - Minor updates
+      - Major refactoring
+      - Complete rewrite
+      required: true
+    - id: 17
+      name: database_compatibility
+      label: Database migration complexity
+      hint: null
+      type: select_one
+      options:
+      - Direct migration
+      - Schema changes needed
+      - Data transformation
+      - Multiple databases
+      required: true
+    - id: 18
+      name: section_skills
+      label: -- Organizational Skills and Resources --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: cloud_expertise
+      label: Current cloud expertise level
+      hint: null
+      type: select_one
+      options:
+      - Advanced
+      - Intermediate
+      - Basic
+      - Minimal
+      - None
+      required: true
+    - id: 20
+      name: training_requirements
+      label: Training needed for cloud
+      hint: null
+      type: select_one
+      options:
+      - Extensive
+      - Significant
+      - Moderate
+      - Minimal
+      - None
+      required: true
+    - id: 21
+      name: resource_availability
+      label: Key resource availability
+      hint: null
+      type: select_one
+      options:
+      - Dedicated team
+      - Part-time resources
+      - Limited availability
+      - External help needed
+      required: true
+    - id: 22
+      name: section_timeline
+      label: -- Migration Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: migration_timeline
+      label: Desired migration timeline
+      hint: null
+      type: select_one
+      options:
+      - Immediate - 3 months
+      - Soon - 3-6 months
+      - Medium-term - 6-12 months
+      - Long-term - 12+ months
+      required: true
+    - id: 24
+      name: readiness_score
+      label: Overall cloud migration readiness
+      hint: Rate from 1 (not ready) to 5 (very ready)
+      type: number
+      options: []
+      required: true

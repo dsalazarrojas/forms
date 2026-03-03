@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Basketball Tryout Registration Form
+    pages:
+    - id: 1
+      name: personal_info_header
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: student_grade
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - Freshman
+      - Sophomore
+      - Junior
+      - Senior
+      required: true
+    - id: 6
+      name: contact_section
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: parent_name
+      label: Parent/Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: parent_phone
+      label: Parent/Guardian Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: physical_section
+      label: -- Physical Measurements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: height
+      label: Height (inches)
+      hint: Approximate height
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: weight
+      label: Weight (pounds)
+      hint: Approximate weight
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: basketball_section
+      label: -- Basketball Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: position
+      label: Preferred Position
+      hint: Select primary position
+      type: select_one
+      options:
+      - Point Guard
+      - Shooting Guard
+      - Small Forward
+      - Power Forward
+      - Center
+      required: true
+    - id: 16
+      name: years_experience
+      label: Years Playing Basketball
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: previous_teams
+      label: Previous Teams/Leagues
+      hint: List any previous basketball experience
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_section
+      label: -- Medical Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: medical_conditions
+      label: Any Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: injuries
+      label: Previous Injuries
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_comments
+      label: Additional Comments
+      hint: Any information you'd like us to know
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: premier-league-aal1-assessment-form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: surname
+      label: Surname
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: date_of_assessment
+      label: Date of Assessment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: referees_club
+      label: Referees Club
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: referee_assigned
+      label: Referee Assigned
+      hint: null
+      type: text
+      options: []
+      required: false

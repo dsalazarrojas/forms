@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Records Release Form
+    pages:
+    - id: 1
+      name: release_form_fields
+      label: Release Form Fields
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tenant_name
+      label: Tenant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tenant_email
+      label: Tenant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: authorized_party
+      label: Authorized Party
+      hint: null
+      type: select_one
+      options:
+      - Authorized Person
+      - Authorized Organization
+      - Authorized Business
+      required: false
+    - id: 7
+      name: reason_for_release
+      label: Reason for Release
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: sign_date
+      label: Sign Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: sign_time
+      label: Sign Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: sign_ip_address
+      label: Sign IP Address
+      hint: null
+      type: text
+      options: []
+      required: false

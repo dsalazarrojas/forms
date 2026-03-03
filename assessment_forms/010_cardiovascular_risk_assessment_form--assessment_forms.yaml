@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cardiovascular Risk Assessment Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: Use format year month day
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: smoking_status
+      label: Smoking status
+      hint: Current tobacco use
+      type: select_one
+      options:
+      - Current smoker
+      - Former smoker
+      - Never smoked
+      required: true
+    - id: 5
+      name: diabetes_status
+      label: Diabetes diagnosis
+      hint: Any diabetes diagnosis
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 6
+      name: systolic_bp
+      label: Systolic blood pressure
+      hint: Most recent systolic value
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: total_cholesterol
+      label: Total cholesterol mg dl
+      hint: Enter value if known
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: family_history_cvd
+      label: Family history of cardiovascular disease
+      hint: First degree relatives with CVD
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 9
+      name: estimated_risk_level
+      label: Estimated risk level
+      hint: Clinician calculated risk category
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - High
+      required: true
+    - id: 10
+      name: recommended_actions
+      label: Recommended actions or follow up
+      hint: Lifestyle medication or referral recommendations
+      type: text
+      options: []
+      required: true

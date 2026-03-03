@@ -1,0 +1,215 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID Phase 1A Authorization Form
+    pages:
+    - id: 1
+      name: phase1a_applicant_header
+      label: -- Applicant Information --
+      hint: Please provide your personal details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: phase1a_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phase1a_last_name
+      Label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: phase1a_date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: phase1a_email
+      Label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phase1a_phone
+      label: Phone Number
+      hint: Your phone number
+      type: phone
+      options: []
+      required: true
+    - id: 7
+      name: phase1a_address
+      Label: Current Address
+      hint: Your street address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: phase1a_city_state_zip
+      label: City, State, ZIP Code
+      hint: Your location
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: phase1a_eligibility_header
+      Label: -- Phase 1A Eligibility --
+      hint: Confirming your Phase 1A status
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: phase1a_eligibility_category
+      label: Phase 1A Eligibility Category
+      hint: Which group are you in
+      type: select_one
+      options:
+        - Healthcare worker
+        - Long-term care facility resident
+        - Long-term care facility staff
+        - Emergency responder
+        - Other Phase 1A category
+      required: true
+    - id: 11
+      name: phase1a_employment_verification
+      Label: Employment Verification
+      hint: Proof of employment status
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: phase1a_facility_name
+      label: Facility or Employer Name
+      hint: Name of where you work
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: phase1a_position
+      Label: Position or Role
+      hint: Your job title or role
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: phase1a_medical_header
+      label: -- Medical Information --
+      hint: Your health information
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: phase1a_allergies
+      Label: Known Allergies
+      hint: Drug allergies or vaccine allergies
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: phase1a_chronic_conditions
+      label: Chronic Medical Conditions
+      hint: Any ongoing health conditions
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: phase1a_immunocompromised
+      Label: Are You Immunocompromised
+      hint: Do you have a weakened immune system
+      type: select_one
+      options:
+        - No
+        - Yes
+        - Unsure
+      required: true
+    - id: 18
+      name: phase1a_pregnancy_nursing
+      label: Are You Pregnant or Nursing
+      hint: Current pregnancy or nursing status
+      type: select_one
+      options:
+        - Pregnant
+        - Nursing
+        - Neither
+        - Prefer Not to Say
+      required: false
+    - id: 19
+      name: phase1a_authorization_header
+      Label: -- Authorization --
+      hint: Your authorization for vaccination
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: phase1a_seek_authorization
+      label: I Seek Authorization to Receive COVID-19 Vaccine
+      hint: You are requesting Phase 1A authorization
+      type: select_one
+      options:
+        - I seek authorization
+        - I am unsure
+        - I decline authorization
+      required: true
+    - id: 21
+      name: phase1a_understand_vaccine
+      Label: I Understand the COVID-19 Vaccine Information
+      hint: You understand vaccine benefits and risks
+      type: select_one
+      options:
+        - Yes, I understand
+        - I have questions
+        - No
+      required: true
+    - id: 22
+      name: phase1a_accept_risks
+      label: I Accept the Risks of Vaccination
+      hint: You accept possible side effects
+      type: select_one
+      options:
+        - I accept the risks
+        - I have concerns
+        - I do not accept
+      required: true
+    - id: 23
+      name: phase1a_certification_header
+      Label: -- Certification --
+      hint: Final certification of information
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: phase1a_truthful_declaration
+      label: I Declare All Information is Truthful
+      hint: All provided information is accurate
+      type: select_one
+      options:
+        - All information is truthful
+        - Some information needs revision
+        - I am uncertain
+      required: true
+    - id: 25
+      name: phase1a_authorization_date
+      Label: Date of Authorization Request
+      hint: Date you are submitting this form
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gymnastics Enrollment Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: birth_date
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: experience
+      label: Experience
+      hint: Please describe your experience (e.g., years of gymnastics experience)
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: class_schedules
+      label: Class Schedules
+      hint: Select class schedules
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 9
+      name: class_times
+      label: Class Times
+      hint: Select class times
+      type: select_one
+      options:
+      - 3:00 AM
+      - 4:00 AM
+      - 5:00 AM
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: confirm_enrollment
+      label: Confirm Enrollment
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 13
+      name: enrollments
+      label: Enrollments
+      hint: Please confirm enrollment
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Uniform Selection Form
+    pages:
+    - id: 1
+      name: page_1
+      label: uniform_sizes
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Small'', ''value'': ''small''}'
+      - '{''id'': 2, ''label'': ''Large'', ''value'': ''large''}'
+      - '{''id'': 3, ''label'': ''X-Large'', ''value'': ''x-large''}'
+      required: false
+    - id: 2
+      name: page_2
+      label: select_style
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 4, ''label'': ''Style 1'', ''value'': ''style-1''}'
+      - '{''id'': 5, ''label'': ''Style 2'', ''value'': ''style-2''}'
+      - '{''id'': 6, ''label'': ''Style 3'', ''value'': ''style-3''}'
+      required: false
+    - id: 3
+      name: page_3
+      label: select_quantity
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 7, ''label'': ''Quantity 1'', ''value'': ''quantity-1''}'
+      - '{''id'': 8, ''label'': ''Quantity 2'', ''value'': ''quantity-2''}'
+      - '{''id'': 9, ''label'': ''Quantity 3'', ''value'': ''quantity-3''}'
+      required: false
+    - id: 4
+      name: page_4
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: page_5
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: page_6
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: page_7
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: page_8
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: page_9
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Religious Holiday Time Off Form
+    pages:
+    - id: 1
+      name: religious_holiday_time_off_form
+      label: religious_holiday_time_off_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee
+      label: employee
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time_off_start
+      label: time_off_start
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time_off_end
+      label: time_off_end
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: reason
+      label: reason
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 8
+      name: holiday
+      label: holiday
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: approved
+      label: approved
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: declined
+      label: declined
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: pending
+      label: pending
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Access Authorization Form
+    pages:
+    - id: 1
+      name: section_requestor
+      label: -- Access Requestor --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Full Name of Applicant
+      hint: Person seeking access
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: staff_id
+      label: Staff or Student ID Number
+      hint: Your institutional identifier
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: Official university email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: supervisor_name
+      label: Department Supervisor or Manager
+      hint: Person who will approve the request
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_level
+      label: -- Access Level Requested --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: access_areas
+      label: Select areas or systems requiring access
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Main Office
+      - Research Lab A
+      - Server Room
+      - Secure Archive
+      - Financial Database
+      - HR Records
+      required: true
+    - id: 8
+      name: access_duration
+      label: Duration of Access
+      hint: Period of authorization
+      type: select_one
+      options:
+      - Permanent (Ongoing Role)
+      - Temporary (Project-based)
+      - Visitor (One-day)
+      required: true
+    - id: 9
+      name: access_start_date
+      label: Start Date
+      hint: When access should begin
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: access_expiry_date
+      label: Expiry Date - if temporary
+      hint: When access will terminate
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: section_justification
+      label: -- Security Justification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: justification_for_access
+      label: Reason for requiring access to these sensitive areas or systems
+      hint: Briefly explain necessity
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: security_clearance_status
+      label: Current Security Clearance Level
+      hint: As per HR records
+      type: select_one
+      options:
+      - Standard
+      - Confidential
+      - Secret
+      - Top Secret
+      required: true
+    - id: 14
+      name: section_confidentiality
+      label: -- Confidentiality Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: non_disclosure_agreement
+      label: I agree to maintain confidentiality regarding all data accessed
+      hint: NDA compliance
+      type: select_one
+      options:
+      - I Agree to the NDA
+      - Other
+      required: true
+    - id: 16
+      name: section_final_auth
+      label: -- Final Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: authorized_by_signature
+      label: Authorized by Signature - Manager or Security Officer
+      hint: Type name of authorizing official
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: authorization_date
+      label: Date Authorized
+      hint: Official date of approval
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fuel Storage Tank Inspection Form
+    pages:
+    - id: 1
+      name: form_heading
+      label: Form Heading
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tank_id
+      label: Tank id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: tank_capacity
+      label: tank_capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: tank_contents
+      label: tank_contents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: tank_location
+      label: tank_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: inspection_frequency
+      label: inspection_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: maintenance_frequency
+      label: maintenance_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: tank_status
+      label: tank_status
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Abandoned
+      - Empty
+      - Partially Empty
+      - Closed
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: form_completion_date
+      label: form_completion_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: inspector_name
+      label: inspector_name
+      hint: null
+      type: text
+      options: []
+      required: false

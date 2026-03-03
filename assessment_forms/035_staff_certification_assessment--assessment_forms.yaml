@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Staff Certification Assessment
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: certification_date
+      label: Certification Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: certification_status
+      label: Certification Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Not Approved
+      - Pending
+      required: false
+    - id: 7
+      name: training_hours
+      label: Training Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: certification_id
+      label: Certification ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: certification_type
+      label: Certification Type
+      hint: null
+      type: select_multiple
+      options:
+      - Management
+      - Technical
+      - Administrative
+      required: false
+    - id: 10
+      name: performance_review
+      label: Performance Review
+      hint: null
+      type: date
+      options: []
+      required: false

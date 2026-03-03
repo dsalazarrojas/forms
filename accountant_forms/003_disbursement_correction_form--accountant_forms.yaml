@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Disbursement Correction Form
+    pages:
+    - id: 1
+      name: disbursement_amount
+      label: Enter Disbursement Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: correct_amount
+      label: Correct Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: date_disbursed
+      label: Date Disbursed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_correction
+      label: Reason for Correction
+      hint: Please enter a brief description of why the disbursement amount was incorrect.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: corrected_by
+      label: Corrected By
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: reason_for_submission
+      label: Reason for Submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: disbursement_date
+      label: Disbursed Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: false

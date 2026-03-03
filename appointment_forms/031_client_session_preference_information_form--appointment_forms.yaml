@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Session Preference Information Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we reach out to you?
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text message
+      - Video call
+      required: true
+    - id: 5
+      name: session_type
+      label: Type of Session Desired
+      hint: What type of engagement are you looking for?
+      type: select_one
+      options:
+      - One-on-one coaching
+      - Group session
+      - Virtual session
+      - In-person session
+      - Hybrid
+      required: true
+    - id: 6
+      name: session_frequency
+      label: Preferred Session Frequency
+      hint: How often would you like to meet?
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - As needed
+      - Flexible
+      required: true
+    - id: 7
+      name: session_duration
+      label: Preferred Session Duration
+      hint: How long should each session be?
+      type: select_one
+      options:
+      - 30 minutes
+      - 45 minutes
+      - 1 hour
+      - 1.5 hours
+      - 2 hours
+      - Other
+      required: true
+    - id: 8
+      name: time_preference
+      label: Preferred Time of Day
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Weekend
+      - Flexible
+      required: true
+    - id: 9
+      name: timezone
+      label: Your Timezone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: unavailable_times
+      label: Times When You Are NOT Available
+      hint: List any recurring conflicts or unavailable times
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: session_goals
+      label: What Are Your Goals for These Sessions?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: specific_topics
+      label: Specific Topics to Cover
+      hint: What would you like to focus on?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: learning_style
+      label: Your Preferred Learning Style
+      hint: How do you learn best?
+      type: select_one
+      options:
+      - Visual
+      - Auditory
+      - Hands-on practice
+      - Discussion
+      - Mixed
+      required: false
+    - id: 14
+      name: communication_style_preference
+      label: Communication Style Preference
+      hint: null
+      type: select_one
+      options:
+      - Direct and structured
+      - Conversational
+      - Collaborative
+      - Motivational
+      - Balanced
+      required: false
+    - id: 15
+      name: expectations_outcomes
+      label: What Do You Hope to Achieve?
+      hint: Your desired outcomes from these sessions
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: additional_preferences
+      label: Any Other Preferences or Requirements?
+      hint: null
+      type: text
+      options: []
+      required: false

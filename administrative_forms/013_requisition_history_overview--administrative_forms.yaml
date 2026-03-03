@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: requisition_history_overview
+    pages:
+    - id: 1
+      name: requisition_date
+      label: Requisition Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: requisitioner
+      label: Requisitioner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: requisition_number
+      label: Requisition Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: requisition_status
+      label: Requisition Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Reopened
+      - Cancelled
+      - Closed
+      required: false
+    - id: 5
+      name: requisition_amount
+      label: Requisition Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: requisition_type
+      label: Requisition Type
+      hint: null
+      type: select_multiple
+      options:
+      - Material
+      - Service
+      required: false
+    - id: 7
+      name: approver
+      label: Approver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: requisition_details
+      label: Requisition Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

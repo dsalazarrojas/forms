@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: DJ Appointment Form
+    pages:
+    - id: 1
+      name: dj_event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - dj-set
+      - dj-club-nights
+      - corporate-event
+      - festival
+      - party
+      - wedding
+      - concert
+      - other
+      required: false
+    - id: 2
+      name: event_name
+      label: Event Name
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: start_time
+      label: Start Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: venue
+      label: Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: dj_name
+      label: DJ Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false

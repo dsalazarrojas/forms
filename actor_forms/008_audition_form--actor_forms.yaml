@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audition Form
+    pages:
+    - id: 1
+      name: audition_date
+      label: Audition Date
+      hint: Date and time of your audition
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: production_title
+      label: Production Title
+      hint: Name of the film or show auditioning for
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Your email contact
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: agent_name
+      label: Agent or Manager Name
+      hint: If you have representation
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: height
+      label: Height (feet and inches)
+      hint: Example - 5 feet 9 inches
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: weight
+      label: Weight (pounds)
+      hint: Approximate body weight
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: eye_color
+      label: Eye Color
+      hint: Your natural eye color
+      type: select_one
+      options:
+      - Blue
+      - Brown
+      - Green
+      - Hazel
+      - Black
+      - Gray
+      - Amber
+      required: true
+    - id: 12
+      name: hair_color
+      label: Hair Color
+      hint: Your natural hair color
+      type: select_one
+      options:
+      - Black
+      - Brown
+      - Blonde
+      - Red
+      - Auburn
+      - Gray
+      - Other
+      required: true
+    - id: 13
+      name: hair_length
+      label: Hair Length
+      hint: Current hair length
+      type: select_one
+      options:
+      - Very Short
+      - Short
+      - Medium
+      - Long
+      - Very Long
+      required: false
+    - id: 14
+      name: ethnicity
+      label: Ethnicity (Optional)
+      hint: Your ethnic background
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: special_skills
+      label: Special Skills and Talents
+      hint: List any special abilities - dancing, singing, sports, languages
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: acting_experience
+      label: Acting Experience Level
+      hint: Select your experience level
+      type: select_one
+      options:
+      - Beginner
+      - Some Experience
+      - Intermediate
+      - Advanced
+      - Professional
+      required: true
+    - id: 17
+      name: previous_credits
+      label: Previous Acting Credits
+      hint: List any prior film, TV, or stage work
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: training_background
+      label: Acting Training and Education
+      hint: List schools, coaches, or training received
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: willing_to_relocate
+      label: Willing to Relocate if Needed
+      hint: Would you relocate for a role
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Possibly
+      required: true
+    - id: 20
+      name: union_status
+      label: Union Membership Status
+      hint: Are you a member of any acting union
+      type: select_one
+      options:
+      - SAG-AFTRA
+      - Non-Union
+      - Multiple Unions
+      - Willing to Join
+      required: false
+    - id: 21
+      name: headshot_resume
+      label: Headshot and Resume Provided
+      hint: Have you submitted your materials
+      type: select_one
+      options:
+      - Yes - Attached
+      - Yes - To Follow
+      - No - Not Yet
+      required: true
+    - id: 22
+      name: availability
+      label: Availability for Filming
+      hint: When would you be available to work
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: additional_info
+      label: Additional Information
+      hint: Anything else we should know about you
+      type: text
+      options: []
+      required: false

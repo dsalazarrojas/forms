@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Loan Restructuring Approval Application
+    pages:
+    - id: 1
+      name: loan_restructuring_application
+      label: Loan Restructuring Application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: borrower_details
+      label: Borrower Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: loan_request
+      label: Loan Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: restructure_details
+      label: Restructure Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: evaluation_result
+      label: Evaluation Result
+      hint: null
+      type: select_one
+      options:
+      - Approve
+      - Deny
+      - Pending
+      required: false
+    - id: 6
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: restructured_amount
+      label: Restructured Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: restructured_term
+      label: Restructured Term
+      hint: null
+      type: number
+      options: []
+      required: false

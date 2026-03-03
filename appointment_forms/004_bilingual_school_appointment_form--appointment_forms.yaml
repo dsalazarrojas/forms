@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bilingual School Appointment Form
+    pages:
+    - id: 1
+      name: section_contact_details
+      label: -- Contact Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: parent_guardian_name
+      label: Parent guardian name
+      hint: Full name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_name
+      label: Student name
+      hint: Full name of student
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_grade
+      label: Student grade or class
+      hint: e g 3, Year 5
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: preferred_language
+      label: Preferred language for appointment
+      hint: Choose primary language for communication
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Mandarin
+      - French
+      - Other
+      required: true
+    - id: 6
+      name: appointment_date
+      label: Appointment date
+      hint: Choose an available date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: appointment_time
+      label: Appointment time
+      hint: Preferred time window
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: appointment_purpose
+      label: Appointment purpose
+      hint: Parent teacher meeting, admission inquiry etc
+      type: select_one
+      options:
+      - Parent teacher meeting
+      - Admissions
+      - Assessment
+      - General enquiry
+      required: true
+    - id: 9
+      name: additional_notes
+      label: Additional notes
+      hint: Any information the teacher should know
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact phone
+      hint: Phone number for confirmation
+      type: text
+      options: []
+      required: true

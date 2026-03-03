@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Loss Prevention Incident Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Retail Loss Prevention Incident Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Administrative Forms
+      - Loss Prevention
+      - Security
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_type
+      label: incident_type
+      hint: null
+      type: select_one
+      options:
+      - Theft
+      - Fraud
+      - Vandalism
+      - Trespassing
+      required: false
+    - id: 5
+      name: incident_date
+      label: incident_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: suspect_details
+      label: suspect_details
+      hint: null
+      type: select_multiple
+      options:
+      - Known
+      - Unknown
+      required: false
+    - id: 7
+      name: suspect_gender
+      label: suspect_gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 8
+      name: suspect_age
+      label: suspect_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: suspect_height
+      label: suspect_height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: suspect_weight
+      label: suspect_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: suspect_eye_color
+      label: suspect_eye_color
+      hint: null
+      type: select_one
+      options:
+      - Blue
+      - Brown
+      - Green
+      - Hazel
+      - Other
+      required: false
+    - id: 12
+      name: suspect_hair_color
+      label: suspect_hair_color
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - Brown
+      - Gray
+      - Red
+      - Blonde
+      - Other
+      required: false
+    - id: 13
+      name: suspect_race
+      label: suspect_race
+      hint: null
+      type: select_one
+      options:
+      - Asian
+      - Black
+      - Caucasian
+      - Hispanic
+      - Other
+      required: false
+    - id: 14
+      name: suspect_distinguishing_features
+      label: suspect_distinguishing_features
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: suspect_height_unit
+      label: suspect_height_unit
+      hint: null
+      type: select_one
+      options:
+      - cm
+      - ft
+      - in
+      - m
+      required: false
+    - id: 16
+      name: suspect_age_unit
+      label: suspect_age_unit
+      hint: null
+      type: select_one
+      options:
+      - cm
+      - ft
+      - in
+      - yrs
+      required: false
+    - id: 17
+      name: suspect_weight_unit
+      label: suspect_weight_unit
+      hint: null
+      type: select_one
+      options:
+      - lbs
+      - kg
+      - st
+      required: false
+    - id: 18
+      name: suspect_description
+      label: suspect_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: witness_name
+      label: witness_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: witness_id
+      label: witness_id
+      hint: null
+      type: text
+      options: []
+      required: false

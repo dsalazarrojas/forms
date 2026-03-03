@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: work_platform_control_checklist
+    pages:
+    - id: 1
+      name: platform_type
+      label: Platform Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: work_location
+      label: work_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: personnel_on_board
+      label: personnel_on_board
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: control_measures
+      label: control_measures
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: inspection_time
+      label: inspection_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: observations
+      label: observations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: safety_measures
+      label: safety_measures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_actions
+      label: follow_up_actions
+      hint: null
+      type: text
+      options: []
+      required: false

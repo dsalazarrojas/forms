@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Screen Share Session Registration
+    pages:
+    - id: 1
+      name: session_details
+      label: Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_topic
+      label: Session Topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: screen_url
+      label: Screen URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: screen_share_url
+      label: Screen Share URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: screen_share_password
+      label: Screen Share Password
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: session_participants
+      label: Session Participants
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: session_topic_type
+      label: Session Topic Type
+      hint: null
+      type: select_one
+      options:
+      - video
+      - meeting
+      - presentation
+      required: false
+    - id: 12
+      name: session_topic_category
+      label: Session Topic Category
+      hint: null
+      type: select_one
+      options:
+      - it
+      - saas
+      - education
+      required: false
+    - id: 13
+      name: session_topic_subcategory
+      label: Session Topic Subcategory
+      hint: null
+      type: select_one
+      options:
+      - consulting
+      - support
+      - tutorial
+      required: false
+    - id: 14
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 15
+      name: scheduled_for
+      label: Scheduled For
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: scheduled_time
+      label: Scheduled Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: reminder
+      label: Reminder
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: reminders_at
+      label: Reminders At
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: reminders_time
+      label: Reminders Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: session_status
+      label: Session Status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - accepted
+      - completed
+      required: false
+    - id: 21
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: session_comments
+      label: Session Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: session_agreed_terms
+      label: Agreed Terms
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: terms_version
+      label: Terms Version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: screen_share_token
+      label: Screen Share Token
+      hint: null
+      type: text
+      options: []
+      required: false

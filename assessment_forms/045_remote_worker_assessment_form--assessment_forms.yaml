@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Worker Assessment Form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: remote_workers_name
+      label: remote_worker_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: supervisor_name
+      label: supervisor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_hired
+      label: date_hired
+      hint: MM/DD/YY
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: hours_worked
+      label: hours_worked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: salary
+      label: salary
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: performance_rating
+      label: performance_rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

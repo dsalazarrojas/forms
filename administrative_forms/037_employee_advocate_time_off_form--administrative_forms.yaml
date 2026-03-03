@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Advocate Time Off Form
+    pages:
+    - id: 1
+      name: employee_advocate_time_off_form_page_1
+      label: time_off_request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: employee_advocate_time_off_form_page_2
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_off_days
+      label: time_off_days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_leave
+      label: reason_for_leave
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manager_approval
+      label: manager_approval
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Approve''}'
+      - '{''id'': 2, ''label'': ''Disapprove''}'
+      - '{''id'': 3, ''label'': ''No action needed''}'
+      required: false
+    - id: 7
+      name: employee_advocate_time_off_form_page_3
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: employee_advocate_time_off_form_page_4
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: employee_advocate_time_off_form_page_5
+      label: submit_time_off
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Submit for Manager Review''}'
+      - '{''id'': 2, ''label'': ''Submit for Approval''}'
+      - '{''id'': 3, ''label'': ''Submit for Review and Approval''}'
+      required: false
+    - id: 12
+      name: employee_advocate_time_off_form_page_6
+      label: submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employee_advocate_time_off_form_page_7
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: employee_advocate_time_off_form_page_8
+      label: manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: employee_advocate_time_off_form_page_9
+      label: date_submitted
+      hint: null
+      type: date
+      options: []
+      required: false

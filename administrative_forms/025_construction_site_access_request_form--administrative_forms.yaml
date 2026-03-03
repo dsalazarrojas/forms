@@ -1,0 +1,74 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Construction Site Access Request Form
+    pages:
+      - id: 1
+        name: section_request_details
+        label: -- Request Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: requester_name
+        label: Requester name
+        hint: Person requesting access
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: organization
+        label: Organization
+        hint: Company or contractor
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: access_date
+        label: Access date
+        hint: Date access is required
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: access_time_window
+        label: Access time window
+        hint: Time window for access
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: reason_for_access
+        label: Reason for access
+        hint: Purpose of visiting the site
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: supervisor_contact
+        label: Supervisor contact name
+        hint: On site contact for the visitor
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: ppe_required
+        label: PPE required
+        hint: Confirm that PPE will be worn as required
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true

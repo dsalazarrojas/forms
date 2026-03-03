@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mold Symptom Assessment Survey
+    pages:
+    - id: 1
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: symptom_1
+      label: Respiratory Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - Shortness of breath
+      - Coughing
+      - Sore throat
+      - Runny nose
+      required: false
+    - id: 3
+      name: symptom_2
+      label: Eye Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - Eye irritation
+      - Redness of the eye
+      - Itching of the eye
+      - Vision problems
+      required: false
+    - id: 4
+      name: symptom_3
+      label: Skin Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - Skin irritation
+      - Rashes
+      - Blisters
+      - Burning sensations
+      required: false
+    - id: 5
+      name: exposure_concerns
+      label: Exposure Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: follow_up_plan
+      label: Follow-up Plan
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: symptom_4
+      label: Headache
+      hint: null
+      type: select_multiple
+      options:
+      - Headache
+      - Migraine
+      - Fever
+      - Chest pain
+      required: false
+    - id: 10
+      name: symptom_5
+      label: Muscle and Joint Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - Muscle weakness
+      - Joint pain
+      - Fatigue
+      - Muscle cramps
+      required: false
+    - id: 11
+      name: symptom_6
+      label: Other Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: credit_card_application_form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: surname
+      label: Surname
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: birth_date
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Employed'', ''value'': ''employed''}'
+      - '{''id'': 2, ''label'': ''Unemployed'', ''value'': ''unemployed''}'
+      - '{''id'': 3, ''label'': ''Retired'', ''value'': ''retired''}'
+      required: false
+    - id: 9
+      name: employment_type
+      label: Employment Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Full time'', ''value'': ''full_time''}'
+      - '{''id'': 2, ''label'': ''Part time'', ''value'': ''part_time''}'
+      - '{''id'': 3, ''label'': ''Self employed'', ''value'': ''self_employed''}'
+      required: false
+    - id: 10
+      name: employment_years
+      label: Employment Years
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: annual_income
+      label: Annual Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: credit_score
+      label: Credit Score
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Excellent'', ''value'': ''excellent''}'
+      - '{''id'': 2, ''label'': ''Good'', ''value'': ''good''}'
+      - '{''id'': 3, ''label'': ''Fair'', ''value'': ''fair''}'
+      - '{''id'': 4, ''label'': ''Bad'', ''value'': ''bad''}'
+      required: false
+    - id: 13
+      name: credit_card_provider
+      label: Credit Card Provider
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Master Card'', ''value'': ''master_card''}'
+      - '{''id'': 2, ''label'': ''Visa'', ''value'': ''visa''}'
+      - '{''id'': 3, ''label'': ''American Express'', ''value'': ''american_express''}'
+      required: false
+    - id: 14
+      name: account_type
+      label: Account Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Gold'', ''value'': ''gold''}'
+      - '{''id'': 2, ''label'': ''Silver'', ''value'': ''silver''}'
+      - '{''id'': 3, ''label'': ''Platinum'', ''value'': ''platinum''}'
+      required: false
+    - id: 15
+      name: account_provider
+      label: Account Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: credit_limit
+      label: Credit Limit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: credit_rate
+      label: Credit Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: cvv
+      label: CVV
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: pin
+      label: PIN
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: form_submit_btn
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: form_cancel_btn
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: form_reset_btn
+      label: Reset
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: error_message
+      label: Error Message
+      hint: null
+      type: note
+      options: []
+      required: false

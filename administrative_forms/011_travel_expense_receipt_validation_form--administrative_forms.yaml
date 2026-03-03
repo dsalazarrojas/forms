@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Expense Receipt Validation Form
+    pages:
+    - id: 1
+      name: travel_expense_receipt_validation_form
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: traveler_name
+      label: Traveler's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: traveler_email
+      label: Traveler's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: business_purpose
+      label: Business Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_travel
+      label: Date of Travel
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: travel_expense_total
+      label: Travel Expense Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: company_expense_total
+      label: Company Expense Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit and Save
+      - Reset
+      required: false
+    - id: 9
+      name: traveler_company_name
+      label: Traveler's Company Name
+      hint: null
+      type: text
+      options: []
+      required: false

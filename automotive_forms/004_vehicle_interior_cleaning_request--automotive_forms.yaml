@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Interior Cleaning Request
+    pages:
+    - id: 1
+      name: vehicle_interior_cleaning_request
+      label: vehicle_interior_cleaning_request
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_type
+      label: vehicle_type
+      hint: null
+      type: select_one
+      options:
+      - Vehicle
+      - SUV
+      - Truck
+      required: false
+    - id: 3
+      name: service_preferences
+      label: service_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Interior Cleaning
+      - Exterior Cleaning
+      - Interior Detailing
+      required: false
+    - id: 4
+      name: appointment_date
+      label: appointment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_description
+      label: vehicle_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: preferred_contact
+      label: preferred_contact
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - In-person
+      required: false
+    - id: 12
+      name: preferred_contact_info
+      label: preferred_contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: service_location
+      label: service_location
+      hint: null
+      type: select_one
+      options:
+      - Local
+      - Mobile
+      required: false
+    - id: 14
+      name: service_time
+      label: service_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: next_available_date
+      label: next_available_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: service_frequency
+      label: service_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      required: false
+    - id: 17
+      name: service_notes
+      label: service_notes
+      hint: null
+      type: text
+      options: []
+      required: false

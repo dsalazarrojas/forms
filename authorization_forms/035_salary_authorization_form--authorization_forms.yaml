@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Salary Authorization Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: salary_amount
+      label: Salary Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: authorized_by
+      label: Authorized By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Manager''}'
+      - '{''id'': 2, ''name'': ''Director''}'
+      - '{''id'': 3, ''name'': ''Supervisor''}'
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false

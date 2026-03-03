@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: corporate_tax_audit_request_application_form
+    pages:
+    - id: 1
+      name: title
+      label: Corporate Tax Audit Request Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Accountant Forms
+      - Other
+      - Tax Audit Request Form
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: Please describe the audit request
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: select_multiple
+      options:
+      - Financial Statements
+      - Tax Returns
+      - Bank Statements
+      required: false
+    - id: 5
+      name: defined_audit_periods
+      label: Defined Audit Period
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: authorized_contact
+      label: Authorized Contact
+      hint: Contact Person
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: The tool assigned to the audit request
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Finance Team
+      - Auditor
+      - Accounting Firm
+      required: false

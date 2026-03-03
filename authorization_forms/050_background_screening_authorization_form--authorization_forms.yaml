@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Background Screening Authorization Form
+    pages:
+    - id: 1
+      name: screening_auth_header
+      label: -- Background Screening Disclosure and Authorization --
+      hint: Please review and sign to initiate the screening process
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_legal_name_auth
+      label: Applicant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email_auth
+      label: Applicant Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: screening_consent_statement
+      label: I authorize the procurement of a consumer report or investigative consumer
+        report
+      hint: This may include information about character, reputation, and criminal
+        history
+      type: select_one
+      options:
+      - I give my authorization
+      - Other
+      required: true
+    - id: 5
+      name: state_rights_disclosures
+      label: State Specific Rights (CA, MN, OK)
+      hint: If you reside in CA, MN, or OK, check here if you would like a copy of
+        your report
+      type: select_one
+      options:
+      - Yes, I would like a copy
+      - No, thank you
+      - Not a resident of these states
+      required: true
+    - id: 6
+      name: fcra_compliance_ack_auth
+      label: I acknowledge that I have read the Summary of My Rights under the FCRA
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge
+      - Other
+      required: true
+    - id: 7
+      name: social_security_num_auth
+      label: Social Security Number for Verification
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: date_of_birth_auth
+      label: Date of Birth (For identification only)
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: current_address_auth
+      label: Current Residential Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: digital_signature_auth_ack
+      label: I understand my electronic signature is legally binding
+      hint: null
+      type: select_one
+      options:
+      - I understand and agree
+      - Other
+      required: true
+    - id: 11
+      name: auth_signature_date
+      label: Date of Authorization
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: requestor_id_internal
+      label: Organization Requesting Screening
+      hint: null
+      type: text
+      options: []
+      required: false

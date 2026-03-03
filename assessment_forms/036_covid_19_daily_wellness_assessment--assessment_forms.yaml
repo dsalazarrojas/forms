@@ -1,0 +1,249 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Daily Wellness Assessment
+    pages:
+    - id: 1
+      name: assessment_date
+      label: Assessment Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: time_of_assessment
+      label: Time of Assessment
+      hint: What time are you completing this?
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: participant_name
+      label: Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_id
+      label: ID Number
+      hint: Employee, Student, or Member ID
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department_location
+      label: Department or Location
+      hint: Where are you currently?
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: overall_wellness
+      label: How would you rate your overall wellness today?
+      hint: Rate on a scale of 1-10
+      type: select_one
+      options:
+      - 1 - Very Unwell
+      - '2'
+      - '3'
+      - '4'
+      - 5 - Neutral
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - 10 - Excellent
+      required: true
+    - id: 7
+      name: physical_wellness
+      label: Physical Wellness Status
+      hint: null
+      type: select_one
+      options:
+      - Very Well
+      - Well
+      - Fair
+      - Unwell
+      - Very Unwell
+      required: true
+    - id: 8
+      name: mental_wellness
+      label: Mental/Emotional Wellness
+      hint: null
+      type: select_one
+      options:
+      - Very Well
+      - Well
+      - Fair
+      - Unwell
+      - Very Unwell
+      required: true
+    - id: 9
+      name: temperature_check
+      label: Body Temperature
+      hint: Enter in Fahrenheit
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: fever
+      label: Do you have a fever?
+      hint: 100.4 degrees F or higher
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      - Did not check
+      required: true
+    - id: 11
+      name: respiratory_symptoms
+      label: Respiratory Symptoms
+      hint: Cough, shortness of breath, sore throat
+      type: select_one
+      options:
+      - None
+      - Mild
+      - Moderate
+      - Severe
+      required: true
+    - id: 12
+      name: gastrointestinal_symptoms
+      label: Gastrointestinal Symptoms
+      hint: Nausea, vomiting, diarrhea
+      type: select_one
+      options:
+      - None
+      - Mild
+      - Moderate
+      - Severe
+      required: false
+    - id: 13
+      name: general_malaise
+      label: General Symptoms of Illness
+      hint: Fatigue, body aches, headache
+      type: select_one
+      options:
+      - None
+      - Mild
+      - Moderate
+      - Severe
+      required: false
+    - id: 14
+      name: sleep_quality
+      label: Sleep Quality Last Night
+      hint: How well did you sleep?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: false
+    - id: 15
+      name: stress_level
+      label: Stress Level
+      hint: How stressed are you feeling?
+      type: select_one
+      options:
+      - Very Low
+      - Low
+      - Moderate
+      - High
+      - Very High
+      required: false
+    - id: 16
+      name: anxiety_level
+      label: Anxiety Level
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Mild
+      - Moderate
+      - High
+      - Very High
+      required: false
+    - id: 17
+      name: mood
+      label: Mood Today
+      hint: How is your mood?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Neutral
+      - Down
+      - Very Low
+      required: false
+    - id: 18
+      name: energy_level
+      label: Energy Level
+      hint: How much energy do you have?
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Normal
+      - Low
+      - Very Low
+      required: false
+    - id: 19
+      name: covid_risk_factors
+      label: COVID-19 Risk Factors Present
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Recent COVID-19 exposure
+      - Recent international travel
+      - Caring for someone with COVID
+      - Unvaccinated status
+      - Underlying health conditions
+      - Other
+      - None
+      required: false
+    - id: 20
+      name: activities_today
+      label: Activities Planned for Today
+      hint: null
+      type: select_multiple
+      options:
+      - Working in office
+      - Working from home
+      - In-person meetings
+      - Public transportation
+      - Grocery shopping
+      - Recreation
+      - Other
+      required: false
+    - id: 21
+      name: wellness_support_needed
+      label: Do you need wellness support or resources?
+      hint: Counseling, health info, etc.
+      type: select_one
+      options:
+      - 'No'
+      - Yes - mental health
+      - Yes - physical health
+      - Yes - COVID-19 information
+      - Other
+      required: false
+    - id: 22
+      name: cleared_to_attend
+      label: Cleared to Attend Activities Today
+      hint: Based on wellness assessment
+      type: select_one
+      options:
+      - Yes - Fully cleared
+      - Yes - With precautions
+      - No - Stay home
+      - Pending review
+      required: true
+    - id: 23
+      name: additional_notes
+      label: Additional Notes or Concerns
+      hint: Any other information to report
+      type: text
+      options: []
+      required: false

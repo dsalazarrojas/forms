@@ -1,0 +1,255 @@
+inputSchema:
+  type: object
+  properties:
+    title: Childcare Assistance Records Release Form
+    pages:
+    - id: 1
+      name: release_date
+      label: Release Date
+      hint: Date of records release authorization
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: parent_guardian_first_name
+      label: Parent or Guardian First Name
+      hint: Legal first name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: parent_guardian_last_name
+      label: Parent or Guardian Last Name
+      hint: Legal last name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Primary email address for contact
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Primary phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: parent_guardian_address
+      label: Parent or Guardian Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: child_first_name
+      label: Child First Name
+      hint: Legal first name of the child
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: child_last_name
+      label: Child Last Name
+      hint: Legal last name of the child
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: child_date_of_birth
+      label: Child Date of Birth
+      hint: Please provide the child's birth date
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: childcare_program_name
+      label: Childcare Program Name
+      hint: Name of the childcare assistance program
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: program_case_number
+      label: Program Case Number
+      hint: Your case or file number with the program
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: records_type_requested
+      label: Type of Records Requested
+      hint: What type of records are you requesting to be released?
+      type: select_multiple
+      options:
+      - Enrollment records
+      - Attendance records
+      - Payment records
+      - Eligibility determination
+      - Case notes
+      - Assessment reports
+      - Communication records
+      - All records
+      - Other
+      required: true
+    - id: 13
+      name: records_date_range
+      label: Records Date Range
+      hint: Specify the date range for records requested
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: release_to_whom
+      label: Release Records To
+      hint: Who should the records be released to?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: recipient_organization
+      label: Recipient Organization
+      hint: Name of organization or agency receiving records
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: recipient_address
+      label: Recipient Address
+      hint: Address for records delivery
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: recipient_email
+      label: Recipient Email
+      hint: Email address for electronic delivery
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: recipient_phone
+      label: Recipient Phone
+      hint: Phone number for recipient
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: delivery_method
+      label: Delivery Method
+      hint: How should the records be delivered?
+      type: select_one
+      options:
+      - Mail to address provided
+      - Email (if secure)
+      - Fax
+      - Pick up in person
+      - Secure electronic portal
+      required: true
+    - id: 20
+      name: purpose_of_release
+      label: Purpose of Records Release
+      hint: Why are you requesting this records release?
+      type: select_one
+      options:
+      - Transfer to new program
+      - Appeal or hearing
+      - Personal records
+      - Legal proceedings
+      - Government agency requirement
+      - Research purposes
+      - Other
+      required: true
+    - id: 21
+      name: purpose_details
+      label: Purpose Details
+      hint: Provide more details about the purpose
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: release_duration
+      label: Release Authorization Duration
+      hint: How long is this authorization valid?
+      type: select_one
+      options:
+      - One-time release only
+      - Valid for 30 days
+      - Valid for 60 days
+      - Valid for 90 days
+      - Valid for 6 months
+      - Valid for 1 year
+      required: true
+    - id: 23
+      name: expiration_date
+      label: Authorization Expiration Date
+      hint: When does this authorization expire?
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: confidential_information
+      label: Confidential Information Handling
+      hint: How should confidential information be handled?
+      type: select_one
+      options:
+      - Release all information
+      - Release with redactions
+      - Exclude sensitive information
+      - Contact me before releasing sensitive info
+      required: true
+    - id: 25
+      name: fee_acknowledgement
+      label: Fee Acknowledgement
+      hint: Are you aware there may be fees for records copying?
+      type: select_one
+      options:
+      - Yes, I understand and accept fees
+      - Yes, please inform me of fees first
+      - No, requesting fee waiver
+      - Fees waived for this request
+      required: true
+    - id: 26
+      name: revocation_understanding
+      label: Revocation Understanding
+      hint: Do you understand you can revoke this authorization?
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I need more information
+      required: true
+    - id: 27
+      name: parent_guardian_signature
+      label: Parent or Guardian Signature
+      hint: Type your full name as your electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: signature_date
+      label: Signature Date
+      hint: Date of electronic signature
+      type: date
+      options: []
+      required: true
+    - id: 29
+      name: witness_name
+      label: Witness Name
+      hint: Name of witness if required
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: notary_required
+      label: Notary Required
+      hint: Is notarization required for this release?
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true

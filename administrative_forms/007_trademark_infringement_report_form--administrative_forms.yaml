@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trademark Infringement Report Form
+    pages:
+    - id: 1
+      name: trademark_infringement_form
+      label: Trademark Infringement Report
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: trademark_name
+      label: Trademark Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: alleged_infringer_name
+      label: Alleged Infringer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: description_of_infringement
+      label: Description of Infringement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: trademark_owner
+      label: Trademark Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: alleged_infringer_address
+      label: Alleged Infringer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: infringement_date
+      label: Infringement Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: infringement_time
+      label: Infringement Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_infringements
+      label: Additional Infringements
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''None''}'
+      - '{''value'': True}'
+      required: true
+    - id: 11
+      name: additional_infringement_details
+      label: Additional Infringement Details
+      hint: null
+      type: note
+      options: []
+      required: false

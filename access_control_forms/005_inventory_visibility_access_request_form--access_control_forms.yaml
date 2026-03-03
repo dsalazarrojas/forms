@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inventory Visibility Access Request Form
+    pages:
+    - id: 1
+      name: request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: inventory_visibility
+      label: Inventory Visibility
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: asset
+      label: Asset
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: team_members
+      label: Team Members
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: approver
+      label: Approver
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: asset_visibility_request
+      label: Asset Visibility Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: asset_visibility_request_reason
+      label: Asset Visibility Request Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: visibility_request_details
+      label: Visibility Request Details
+      hint: null
+      type: text
+      options: []
+      required: false

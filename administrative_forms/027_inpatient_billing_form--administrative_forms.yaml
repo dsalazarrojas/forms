@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inpatient Billing Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hospital_number
+      label: hospital_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: billing_date
+      label: billing_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: billing_time
+      label: billing_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: patient_address
+      label: patient_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: billing_provider
+      label: billing_provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: insurance_info
+      label: insurance_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_account
+      label: patient_account
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_group
+      label: medical_group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: billing_details
+      label: billing_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: total_charges
+      label: total_charges
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - Insurance
+      required: false

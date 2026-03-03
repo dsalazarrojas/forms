@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: estimation_techniques_quiz
+    pages:
+    - id: 1
+      name: first_question
+      label: What is the estimation method you use for your projects?
+      hint: null
+      type: select_multiple
+      options:
+      - The Three-Point Estimation
+      - Top-Down Estimation
+      - Three-Point Estimation
+      - Bottom-Up Estimation
+      required: true
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: difficulty_level
+      label: Difficulty Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 7
+      name: estimation_hours
+      label: Estimation Hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: actual_hours
+      label: Actual Hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: estimated_hours
+      label: Estimated Hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: project_manager_comment
+      label: Manager Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      required: true
+    - id: 13
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: project_start_time
+      label: Project Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: project_end_time
+      label: Project End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 19
+      name: estimation_technique
+      label: Estimation Technique Used
+      hint: null
+      type: select_one
+      options:
+      - The Three-Point Estimation
+      - Top-Down Estimation
+      - Three-Point Estimation
+      - Bottom-Up Estimation
+      required: true
+    - id: 20
+      name: estimation_method
+      label: Estimation Method
+      hint: null
+      type: select_multiple
+      options:
+      - Expert Judgment
+      - Three-Point Estimation
+      - Bottom-Up Estimation
+      - Top-Down Estimation
+      required: true
+    - id: 21
+      name: team_size
+      label: Team Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: true
+    - id: 22
+      name: team_experience
+      label: Team Experience
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 23
+      name: manager_confirmation
+      label: Manager Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: submission_notes
+      label: Submission Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_user
+      label: Submission User
+      hint: null
+      type: text
+      options: []
+      required: false

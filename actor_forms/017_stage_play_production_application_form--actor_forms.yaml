@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: stage-play-production-application-form
+    pages:
+    - id: 1
+      name: actor_info
+      label: Actor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: play_info
+      label: Play Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: availability
+      label: Availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: skills
+      label: Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Actor
+      - Dancer
+      - Singer
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: role_preference
+      label: Role Preference
+      hint: null
+      type: select_multiple
+      options:
+      - Lead Role
+      - Supporting Role
+      - Ensemble Role
+      required: false
+    - id: 8
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adopted Pet Discharge Form
+    pages:
+    - id: 1
+      name: adoption_date
+      label: Adoption Date
+      hint: Date the pet was adopted
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: pet_name
+      label: Pet Name
+      hint: Name given to the adopted animal
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: pet_species
+      label: Species
+      hint: Type of animal
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Rabbit
+      - Bird
+      - Small Rodent
+      - Other
+      required: true
+    - id: 4
+      name: pet_breed
+      label: Breed
+      hint: Breed or mixed breed description
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: pet_age
+      label: Age
+      hint: Age of the pet at adoption
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: pet_weight
+      label: Weight
+      hint: Current weight in pounds
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: pet_microchip
+      label: Microchip Number
+      hint: Identification microchip number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: owner_name
+      label: New Owner Name
+      hint: Full name of adopting party
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: owner_email
+      label: Owner Email Address
+      hint: For follow-up communication
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: owner_phone
+      label: Owner Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: medical_history
+      label: Medical History
+      hint: Summary of any known medical conditions
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: vaccinations
+      label: Current Vaccinations
+      hint: List of completed vaccinations
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: last_vet_visit
+      label: Last Veterinary Visit
+      hint: Date and purpose of last visit
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medication_list
+      label: Current Medications
+      hint: Any medications the pet is taking
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: behavioral_notes
+      label: Behavioral Notes
+      hint: Important behaviors or temperament information
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: diet_information
+      label: Current Diet
+      hint: Type of food and feeding schedule
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: special_care_instructions
+      label: Special Care Instructions
+      hint: Any specific care requirements
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: spay_neuter_status
+      label: Spay - Neuter Status
+      hint: Whether the pet has been spayed or neutered
+      type: select_one
+      options:
+      - true
+      - false
+      - Scheduled
+      required: true
+    - id: 19
+      name: shelter_contact
+      label: Shelter Contact Person
+      hint: Name of staff member releasing the pet
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: follow_up_check
+      label: Follow-up Check Requested
+      hint: Would the shelter like to follow up
+      type: select_one
+      options:
+      - true
+      - false
+      required: false

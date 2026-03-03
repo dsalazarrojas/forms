@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tree Collapse Incident Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: tree_height
+      label: Tree Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: tree_species
+      label: Tree Species
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: tree_condition
+      label: Tree Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: witness_statements
+      label: Witness Statements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: witness_statements_attachment
+      label: Witness Statements Attachment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: response_team
+      label: Response Team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: response_time
+      label: Response Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: response_date
+      label: Response Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beneficial Ownership Declaration
+    pages:
+    - id: 1
+      name: section_entity
+      label: -- Entity Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: entity_name
+      label: Business Entity Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: entity_type
+      label: Entity Type
+      hint: null
+      type: select_one
+      options:
+      - Sole Proprietorship
+      - Partnership
+      - Corporation
+      - LLC
+      - Trust
+      - Other
+      required: true
+    - id: 4
+      name: registration_number
+      label: Business Registration Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: principal_place_business
+      label: Principal Place of Business
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: establishment_date
+      label: Date of Establishment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_beneficial
+      label: -- Beneficial Owner Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: owner_count
+      label: Number of Beneficial Owners
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: owner_1_name
+      label: Owner 1 - Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: owner_1_dob
+      label: Owner 1 - Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: owner_1_nationality
+      label: Owner 1 - Nationality
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: owner_1_id_type
+      label: Owner 1 - Identification Type
+      hint: Passport, ID Card, etc.
+      type: select_one
+      options:
+      - Passport
+      - National ID
+      - Driver's License
+      - Other
+      required: true
+    - id: 13
+      name: owner_1_id_number
+      label: Owner 1 - Identification Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: owner_1_percentage
+      label: Owner 1 - Ownership Percentage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: owner_1_address
+      label: Owner 1 - Residential Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: owner_2_name
+      label: Owner 2 - Full Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: owner_2_dob
+      label: Owner 2 - Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: owner_2_nationality
+      label: Owner 2 - Nationality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: owner_2_percentage
+      label: Owner 2 - Ownership Percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: section_declaration
+      label: -- Declaration and Certification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: information_accurate
+      label: I declare that all information provided is accurate
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 22
+      name: beneficial_owner_definition
+      label: I understand the definition of beneficial owner
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: compliance_consent
+      label: I consent to compliance verification
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 24
+      name: declaration_date
+      label: Date of Declaration
+      hint: null
+      type: date
+      options: []
+      required: true

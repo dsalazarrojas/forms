@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: Call For Presentations
+    pages:
+    - id: 1
+      name: section_speaker_info
+      label: -- Speaker Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: speaker_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: speaker_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: speaker_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: speaker_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: speaker_organization
+      label: Organization or Affiliation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: speaker_bio
+      label: Professional Biography
+      hint: Brief description of your background and expertise
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_presentation_details
+      label: -- Presentation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: presentation_title
+      label: Presentation Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: presentation_summary
+      label: Presentation Summary
+      hint: Brief overview of what your presentation will cover
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: presentation_duration
+      label: Preferred Duration
+      hint: null
+      type: select_one
+      options:
+      - 15 minutes
+      - 30 minutes
+      - 45 minutes
+      - 60 minutes
+      required: true
+    - id: 12
+      name: presentation_track
+      label: Presentation Track or Topic
+      hint: null
+      type: select_one
+      options:
+      - Technology
+      - Business
+      - Leadership
+      - Innovation
+      - Other
+      required: true
+    - id: 13
+      name: target_audience
+      label: Target Audience Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Mixed
+      required: true
+    - id: 14
+      name: previous_speaking_experience
+      label: Previous Speaking Experience
+      hint: Describe any prior conference presentations or speaking engagements
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: audio_visual_requirements
+      label: Audio/Visual Requirements
+      hint: null
+      type: select_multiple
+      options:
+      - Projector
+      - Microphone
+      - Lapel Mic
+      - Video Playback
+      - Live Demo Setup
+      required: false
+    - id: 16
+      name: speaker_willing_to_travel
+      label: Willing to Travel to Event Location
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 17
+      name: speaker_availability
+      label: Available Presentation Dates
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: speaker_website
+      label: Website or LinkedIn Profile
+      hint: Optional link to your professional profile
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: marketing_permission
+      label: May we promote your presentation on our website and materials
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Additional Comments or Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: project_documentation_access_request_form
+    pages:
+    - id: 1
+      name: project_name
+      label: project_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: requestor_name
+      label: requestor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: requestor_email
+      label: requestor_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: requestor_phone
+      label: requestor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: document_name
+      label: document_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: document_version
+      label: document_version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: request_date
+      label: request_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: request_time
+      label: request_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: reason_for_request
+      label: reason_for_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Letter Of Agency (LOA) Form Template
+    pages:
+    - id: 1
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: form_description
+      label: Form Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Authorization Forms
+      - Other
+      required: true
+    - id: 5
+      name: form_version
+      label: Form Version
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: form_category
+      label: Form Category
+      hint: null
+      type: select_one
+      options:
+      - Letter Of Agency (LOA)
+      - Other
+      required: true
+    - id: 7
+      name: form_status
+      label: Form Status
+      hint: null
+      type: select_one
+      options:
+      - Draft
+      - Published
+      required: true
+    - id: 8
+      name: form_author
+      label: Form Author
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false

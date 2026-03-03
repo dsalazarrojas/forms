@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consultation Client Arrival Check In
+    pages:
+    - id: 1
+      name: section_arrival_ident
+      label: -- Client Arrival Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_full_name_ident
+      label: Client Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: arrival_time_ident
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: appointment_time_ident
+      label: Scheduled Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: consultant_mentor_sponsor
+      label: Name of Consultant you are meeting with
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_contact_verification
+      label: -- Contact Information Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: client_email_ident
+      label: Primary Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: client_phone_ident
+      label: Primary Phone Number
+      hint: Format - (555) 555-5555
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: address_change_status
+      label: Have you had any changes to your address recently?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - Yes - Please specify below
+      required: true
+    - id: 10
+      name: updated_address_desc
+      label: Specify Updated Address (If applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_consultation_details
+      label: -- Consultation Details and Readiness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: primary_consultation_topic_ident
+      label: Primary Topic for Today's Consultation
+      hint: Select the most appropriate category
+      type: select_one
+      options:
+      - Strategy/Business Growth
+      - Technology/IT Solutions
+      - Financial/Risk Management
+      - Marketing/Sales Optimization
+      - Operational Efficiency
+      - Human Resources/Talent
+      - Customer Service Improvement
+      - Product Development/Innovation
+      required: true
+    - id: 13
+      name: primary_meeting_objective_ident
+      label: One primary goal for today's meeting
+      hint: One clear and actionable objective
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: section_arrival_logistics
+      label: -- Arrival Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: check_in_status_ident
+      label: Current Check-in Status
+      hint: null
+      type: select_one
+      options:
+      - On Time
+      - Early Arrival
+      - Slightly Delayed (1-10 mins)
+      - Delayed (10+ mins)
+      required: true
+    - id: 16
+      name: additional_arrival_notes
+      label: Additional Arrival Instructions or Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_compliance_auth
+      label: -- Compliance and Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: data_privacy_compliance_ack
+      label: Acknowledgment of Data Privacy and GDPR Compliance
+      hint: null
+      type: select_one
+      options:
+      - I Acknowledge and Confirm
+      - I Disagree
+      required: true
+    - id: 19
+      name: authorized_representative_name_label
+      label: Authorized Representative Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: submission_date
+      label: Date of Arrival Check-in
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: intake_officer_name_label
+      label: Intake Officer Name (Internal Use Only)
+      hint: For internal use
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: confirmation_email_opt_in
+      label: Would you like to receive a meeting summary via email?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Discomfort Assessment
+    pages:
+    - id: 1
+      name: athlete_name
+      label: Athlete Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: athlete_id
+      label: Athlete ID Number
+      hint: Student or team identification number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of discomfort report
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: sport
+      label: Sport
+      hint: Primary sport
+      type: select_one
+      options:
+      - Football
+      - Basketball
+      - Soccer
+      - Track and Field
+      - Swimming
+      - Volleyball
+      - Baseball
+      - Softball
+      - Tennis
+      - Other
+      required: true
+    - id: 5
+      name: discomfort_location
+      label: Location of Discomfort
+      hint: Where are you experiencing discomfort
+      type: select_one
+      options:
+      - Head
+      - Neck
+      - Shoulders
+      - Upper Back
+      - Lower Back
+      - Chest
+      - Arms
+      - Hands or Wrists
+      - Hips
+      - Thighs
+      - Knees
+      - Calves
+      - Ankles
+      - Feet
+      - Multiple Areas
+      required: true
+    - id: 6
+      name: discomfort_type
+      label: Type of Discomfort
+      hint: Describe the sensation
+      type: select_one
+      options:
+      - Sharp Pain
+      - Dull Ache
+      - Throbbing
+      - Burning
+      - Stiffness
+      - Tightness
+      - Numbness
+      - Tingling
+      - Weakness
+      - Fatigue
+      required: true
+    - id: 7
+      name: pain_scale
+      label: Pain Scale Rating
+      hint: Rate pain from 1 to 10
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: onset_time
+      label: When Did It Start
+      hint: When did you first notice the discomfort
+      type: select_one
+      options:
+      - During Today Practice
+      - During Today Game
+      - Yesterday
+      - This Week
+      - More Than a Week Ago
+      - Not Sure
+      required: true
+    - id: 9
+      name: activity_at_onset
+      label: Activity When Discomfort Started
+      hint: What were you doing when it started
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: aggravating_factors
+      label: Factors That Make It Worse
+      hint: What makes the discomfort worse
+      type: select_multiple
+      options:
+      - Running
+      - Jumping
+      - Cutting or Pivoting
+      - Lifting Weights
+      - Stretching
+      - Rest
+      - Pressure or Touch
+      - Cold Weather
+      - Heat or Humidity
+      required: false
+    - id: 11
+      name: relieving_factors
+      label: Factors That Make It Better
+      hint: What helps reduce the discomfort
+      type: select_multiple
+      options:
+      - Rest
+      - Ice
+      - Heat
+      - Stretching
+      - Massage
+      - Medication
+      - Compression
+      - Elevation
+      - Nothing Helps
+      required: false
+    - id: 12
+      name: previous_injury
+      label: Previous Injury to This Area
+      hint: Have you injured this area before
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: previous_injury_details
+      label: Previous Injury Details
+      hint: Describe the previous injury and when it occurred
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: impacts_performance
+      label: Does It Impact Performance
+      hint: Is the discomfort affecting your ability to perform
+      type: select_one
+      options:
+      - Yes - Significantly
+      - Yes - Slightly
+      - No - No Impact
+      required: true
+    - id: 15
+      name: medical_attention_needed
+      label: Have You Sought Medical Attention
+      hint: Have you seen a doctor or trainer for this
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Planning To
+      required: true
+    - id: 16
+      name: current_treatment
+      label: Current Treatment
+      hint: Are you currently doing anything to treat this
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: missed_activities
+      label: Missed Activities
+      hint: Have you missed any practices or games due to this
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: trainer_notification
+      label: Notify Athletic Trainer
+      hint: Should the athletic trainer be notified
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information to share
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: football_survey
+    pages:
+    - id: 1
+      name: football_survey_page_1
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: football_game_experience
+      label: what_was_your_experience_at_the_football_game
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: team_performance
+      label: how_did_the_home_team_perform
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: player_performance
+      label: how_did_the_away_team_perform
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: food_and_drink
+      label: what_was_the_quality_of_the_food_and_drinks
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 6
+      name: staff
+      label: how_well_was_the_staff_attending_to_your_needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: stadium
+      label: what_was_your_experience_of_the_stadium
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: score
+      label: what_do_you_think_of_the_game
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: enter_your_email
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: swimming_pool_maintenance_checklist_form
+    pages:
+    - id: 1
+      name: main_page
+      label: main_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: maintenance_tasks
+      label: maintenance_tasks
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Water Quality''}'
+      - '{''text'': ''Equipment Function''}'
+      - '{''text'': ''Pool Chemistry''}'
+      - '{''text'': ''Pool Circulation''}'
+      required: false
+    - id: 3
+      name: pool_cleaning
+      label: pool_cleaning
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''Clean the pool floor''}'
+      - '{''text'': ''Clean the pool walls''}'
+      - '{''text'': ''Clean the pool steps''}'
+      required: false
+    - id: 4
+      name: water_testing
+      label: water_testing
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''PH Level''}'
+      - '{''text'': ''Alkalinity''}'
+      - '{''text'': ''Stabilizer''}'
+      required: false
+    - id: 5
+      name: water_balance
+      label: water_balance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''Adjust Chemical Levels''}'
+      - '{''text'': ''Check for Imbalances''}'
+      required: false
+    - id: 6
+      name: equipment_check
+      label: equipment_check
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''Test Pumps''}'
+      - '{''text'': ''Test Filters''}'
+      - '{''text'': ''Test Valves''}'
+      required: false
+    - id: 7
+      name: maintenance_schedule
+      label: maintenance_schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: review
+      label: review
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Complete''}'
+      - '{''text'': ''Partial''}'
+      required: false

@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Process Steps Knowledge Quiz
+    pages:
+    - id: 1
+      name: process_steps_knowledge_quiz
+      label: Process Steps Knowledge Quiz
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: select_one_process_step
+      label: Select One Process Step
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      required: false
+    - id: 3
+      name: select_multiple_process_steps
+      label: Select Multiple Process Steps
+      hint: null
+      type: select_multiple
+      options:
+      - A
+      - B
+      - C
+      required: false
+    - id: 4
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: training_outcome_rating
+      label: Training Outcome Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false

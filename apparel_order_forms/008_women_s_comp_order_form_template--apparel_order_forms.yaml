@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: women_s_comp_order_form_template
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: order_products
+      label: Order Products
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: order_payments
+      label: Order Payments
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: form_footer
+      label: Form Footer
+      hint: null
+      type: note
+      options: []
+      required: false

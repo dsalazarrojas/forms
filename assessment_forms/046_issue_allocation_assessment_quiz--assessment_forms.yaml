@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Issue Allocation Assessment Quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: issue_description
+      label: issue_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: allocation_method
+      label: allocation_method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''direct''}'
+      - '{''id'': 2, ''label'': ''indirect''}'
+      - '{''id'': 3, ''label'': ''not_sure''}'
+      - '{''id'': 4, ''label'': ''other''}'
+      required: true
+    - id: 4
+      name: allocation_reason
+      label: allocation_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: confidence
+      label: confidence
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: confidence_level
+      label: confidence_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: team_size
+      label: team_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: team_diversity
+      label: team_diversity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: scenario
+      label: scenario
+      hint: null
+      type: note
+      options: []
+      required: false

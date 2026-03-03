@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: medication_batch_validation_form
+    pages:
+    - id: 1
+      name: batch_number
+      label: Batch Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: batch_status
+      label: Batch Status
+      hint: null
+      type: select_one
+      options:
+      - Batch Complete
+      - Batch Incomplete
+      - Batch Not Started
+      required: false
+    - id: 3
+      name: batch_date
+      label: Batch Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: verification_signature
+      label: Verification Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: verification_date
+      label: Verification Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: verification_time
+      label: Verification Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: pharmacist_name
+      label: Pharmacist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: pharmacist_license
+      label: Pharmacist License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: hospital_name
+      label: Hospital Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: hospital_address
+      label: Hospital Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: batch_comments
+      label: Batch Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: scenic_flight_registration_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: tour_option
+      label: Tour Option
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Tour1''}'
+      - '{''id'': 2, ''label'': ''Tour2''}'
+      - '{''id'': 4, ''label'': ''Tour3''}'
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_arrival
+      label: Time of Arrival
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: confirm_date
+      label: Confirm Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: confirm_time
+      label: Confirm Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: tour_choice
+      label: Tour Choice
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Tour1''}'
+      - '{''id'': 2, ''label'': ''Tour2''}'
+      - '{''id'': 4, ''label'': ''Tour3''}'
+      required: false
+    - id: 12
+      name: confirm_note
+      label: Confirm Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: confirm_phone
+      label: Confirm Phone
+      hint: null
+      type: text
+      options: []
+      required: false

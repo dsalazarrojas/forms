@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: vehicle_registration_verification_form
+    pages:
+    - id: 1
+      name: vehicle_details
+      label: vehicle_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_owner
+      label: vehicle_owner_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vin
+      label: vehicle_identification_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: registration_number
+      label: registration_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: registration_date
+      label: registration_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_year
+      label: vehicle_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_make
+      label: vehicle_make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_model
+      label: vehicle_model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_color
+      label: vehicle_color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: owner_name
+      label: owner_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: owner_phone
+      label: owner_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: owner_email
+      label: owner_email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: owner_address
+      label: owner_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: verification_date
+      label: verification_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: verification_status
+      label: verification_status
+      hint: null
+      type: select_one
+      options:
+      - Verified
+      - Not Verified
+      - Pending
+      required: false

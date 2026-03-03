@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Earthquake Risk Assessment Questionnaire
+    pages:
+    - id: 1
+      name: general_information
+      label: general_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: building_characteristics
+      label: building_characteristics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: earthquake_history
+      label: earthquake_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: risk_factors
+      label: risk_factors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_preferences
+      label: contact_preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: safety_features
+      label: safety_features
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: emergency_preparedness
+      label: emergency_preparedness
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: emergency_contact_info
+      label: emergency_contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: select_one
+      options:
+      - Severe Damage Likely
+      - Minimal Damage
+      - High Probability of Damage
+      - Unlikely
+      required: false

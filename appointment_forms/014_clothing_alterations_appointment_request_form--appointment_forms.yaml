@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clothing Alterations Appointment Request Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Full Name
+      hint: Customer name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_appointment
+      label: -- Appointment Preferences --
+      hint: When would you like to schedule
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: preferred_date
+      label: Preferred Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: time_flexibility
+      label: How flexible are you with timing
+      hint: null
+      type: select_one
+      options:
+      - Very flexible
+      - Somewhat flexible
+      - Limited flexibility
+      - Specific time required
+      required: true
+    - id: 8
+      name: section_garments
+      label: -- Garments to Alter --
+      hint: Information about clothing items
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: number_garments
+      label: Number of Garments
+      hint: How many items to alter
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: garment_types
+      label: Types of Garments
+      hint: What items need altering
+      type: select_multiple
+      options:
+      - Pants or Jeans
+      - Dress
+      - Shirt or Blouse
+      - Jacket or Coat
+      - Skirt
+      - Wedding Dress
+      - Suit
+      - Sweater
+      - Other
+      required: true
+    - id: 11
+      name: section_alterations
+      label: -- Alterations Needed --
+      hint: Specific alteration requests
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: alteration_types
+      label: Types of Alterations Needed
+      hint: null
+      type: select_multiple
+      options:
+      - Hemming
+      - Taking in or letting out
+      - Shortening sleeves
+      - Waist adjustment
+      - Zipper replacement
+      - Button replacement
+      - Repairs
+      - Other modifications
+      required: true
+    - id: 13
+      name: alteration_details
+      label: Detailed Description of Alterations
+      hint: Specific measurements and changes needed
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: section_measurements
+      label: -- Measurements and Fitting --
+      hint: Size and fitting information
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: need_fitting
+      label: Do you need a fitting appointment
+      hint: null
+      type: select_one
+      options:
+      - Yes, fitting needed
+      - No fitting needed
+      - Unsure
+      required: true
+    - id: 16
+      name: inseam_length
+      label: Inseam Length
+      hint: Desired length in inches
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: other_measurements
+      label: Other Measurements
+      hint: Waist, chest, length, etc.
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_timeline
+      label: -- Timeline and Delivery --
+      hint: When do you need the alterations
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: completion_date
+      label: When do you need the alterations completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: rush_service
+      label: Do you need rush or expedited service
+      hint: null
+      type: select_one
+      options:
+      - No, standard timeline
+      - Yes, rush service
+      - Not sure
+      required: true
+    - id: 21
+      name: delivery_method
+      label: How would you like to receive your items
+      hint: null
+      type: select_one
+      options:
+      - Pickup in person
+      - Local delivery
+      - Shipping
+      - Other
+      required: true
+    - id: 22
+      name: section_pricing
+      label: -- Pricing and Payment --
+      hint: Cost and payment preferences
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: budget_range
+      label: Estimated Budget Range
+      hint: null
+      type: select_one
+      options:
+      - Less than 25
+      - 25-50
+      - 50-100
+      - 100-200
+      - Over 200
+      - Unsure
+      required: false
+    - id: 24
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit or debit card
+      - Check
+      - Payment plan
+      - Other
+      required: false
+    - id: 25
+      name: additional_notes
+      label: Additional notes or special requests
+      hint: null
+      type: text
+      options: []
+      required: false

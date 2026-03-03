@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Material Disinfection Assessment
+    pages:
+    - id: 1
+      name: facility_name
+      label: facility_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: facility_name
+      label: facility_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: evaluated_date
+      label: evaluated_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: rating_1
+      label: rating_1
+      hint: null
+      type: select_one
+      options:
+      - '5'
+      - '4'
+      - '3'
+      - '2'
+      - '1'
+      required: false
+    - id: 5
+      name: follow_up_action
+      label: follow_up_action
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: follow_up_date
+      label: follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: follow_up_status
+      label: follow_up_status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Due Soon
+      - No Follow-up Needed
+      required: false
+    - id: 8
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: employee_title
+      label: employee_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employee_department
+      label: employee_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: team_member
+      label: team_member
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: facility_address
+      label: facility_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: facility_phone
+      label: facility_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: facility_notes
+      label: facility_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_notes
+      label: follow_up_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: rating_2
+      label: rating_2
+      hint: null
+      type: select_one
+      options:
+      - '5'
+      - '4'
+      - '3'
+      - '2'
+      - '1'
+      required: false
+    - id: 20
+      name: rating_3
+      label: rating_3
+      hint: null
+      type: select_one
+      options:
+      - '5'
+      - '4'
+      - '3'
+      - '2'
+      - '1'
+      required: false

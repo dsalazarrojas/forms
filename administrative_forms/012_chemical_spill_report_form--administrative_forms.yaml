@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chemical Spill Report Form
+    pages:
+    - id: 1
+      name: spill_report_intro
+      label: -- Chemical Spill Report Form --
+      hint: Complete spill documentation and analysis
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: report_number
+      label: Report number
+      hint: Auto-generated identifier
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: report_date
+      label: Report submission date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: incident_reference
+      label: Reference to original incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: facility_name
+      label: Facility name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: facility_location
+      label: Facility location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: reporting_party
+      label: Reporting party name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: reporting_party_title
+      label: Title or position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: reporting_party_contact
+      label: Contact information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: spill_date
+      label: Date spill occurred
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: spill_time
+      label: Time spill occurred
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: spill_location
+      label: Specific location of spill
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: chemical_involved
+      label: Chemical involved
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: chemical_quantity
+      label: Quantity released
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: quantity_unit
+      label: Unit of measurement
+      hint: null
+      type: select_one
+      options:
+      - Milliliters
+      - Liters
+      - Grams
+      - Kilograms
+      - Gallons
+      - Pounds
+      - Other
+      required: true
+    - id: 16
+      name: spill_origin
+      label: Origin of spill
+      hint: null
+      type: select_one
+      options:
+      - Storage container
+      - Equipment
+      - Transportation
+      - Process area
+      - Waste containment
+      - Unknown
+      - Other
+      required: true
+    - id: 17
+      name: visible_impact
+      label: Visible environmental impact
+      hint: null
+      type: select_one
+      options:
+      - No visible impact
+      - Minimal impact
+      - Moderate impact
+      - Severe impact
+      required: true
+    - id: 18
+      name: water_impact
+      label: Impact to water sources
+      hint: null
+      type: select_one
+      options:
+      - No water impact
+      - Surface water affected
+      - Groundwater affected
+      - Storm drain affected
+      - Sanitary sewer affected
+      - Uncertain
+      required: true
+    - id: 19
+      name: air_quality_impact
+      label: Impact to air quality
+      hint: null
+      type: select_one
+      options:
+      - No impact
+      - Minor odor
+      - Visible emissions
+      - Significant emissions
+      - Unknown
+      required: true
+    - id: 20
+      name: response_initiated
+      label: When was response initiated?
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 21
+      name: containment_method
+      label: Containment method used
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: cleanup_status
+      label: Cleanup status
+      hint: null
+      type: select_one
+      options:
+      - Not started
+      - In progress
+      - Substantially complete
+      - Complete
+      required: true
+    - id: 23
+      name: notifications_made
+      label: Notifications made to
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Environmental agency
+      - Health department
+      - Fire department
+      - Emergency response
+      - Facility management
+      - Local authorities
+      - Insurance
+      required: true
+    - id: 24
+      name: follow_up_actions
+      label: Follow-up actions planned
+      hint: null
+      type: text
+      options: []
+      required: false

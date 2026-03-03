@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Luxury Auto Test Drive Reservation Form
+    pages:
+    - id: 1
+      name: reservation_date
+      label: Reservation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: test_drive_time
+      label: Test Drive Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: contact_first_name
+      label: Contact First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_last_name
+      label: Contact Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: select_one
+      options:
+      - Honda
+      - Toyota
+      - Ford
+      - Chevrolet
+      - BMW
+      - Lexus
+      required: true
+    - id: 8
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: test_drive_location
+      label: Test Drive Location
+      hint: null
+      type: select_multiple
+      options:
+      - Downtown
+      - City Center
+      - Suburbs
+      required: true
+    - id: 10
+      name: test_drive_duration
+      label: Test Drive Duration
+      hint: null
+      type: select_one
+      options:
+      - 15 minutes
+      - 30 minutes
+      - 1 hour
+      required: true
+    - id: 11
+      name: customer_message
+      label: Customer Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: test_drive_status
+      label: Test Drive Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: assigned_agent
+      label: Assigned Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: agent_message
+      label: Agent Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: test_drive_status_update
+      label: Test Drive Status Update
+      hint: null
+      type: text
+      options: []
+      required: false

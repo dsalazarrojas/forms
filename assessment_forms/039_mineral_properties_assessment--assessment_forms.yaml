@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mineral Properties Assessment
+    pages:
+    - id: 1
+      name: sample_id
+      label: sample_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: sampling_technique
+      label: sampling_technique
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: sample_description
+      label: sample_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: sample_image
+      label: sample_image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sample_characteristics
+      label: sample_characteristics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: sample_weight
+      label: sample_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: mineral_type
+      label: mineral_type
+      hint: null
+      type: select_one
+      options:
+      - halite
+      - gypsum
+      - halloysite
+      - illite
+      - saponite
+      - kaolinite
+      - montmorillonite
+      - gillespite
+      - larderite
+      - muscovite
+      - annite
+      - tugtupite
+      - aluminite
+      - nchilite
+      - staurolite
+      - garnet
+      - staurolite
+      required: false
+    - id: 8
+      name: sample_location
+      label: sample_location
+      hint: null
+      type: select_multiple
+      options:
+      - location_1
+      - location_2
+      - location_3
+      required: false
+    - id: 9
+      name: sample_description2
+      label: sample_description2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: sample_color
+      label: sample_color
+      hint: null
+      type: select_multiple
+      options:
+      - color_1
+      - color_2
+      required: false
+    - id: 11
+      name: sample_shape
+      label: sample_shape
+      hint: null
+      type: select_multiple
+      options:
+      - shape_1
+      - shape_2
+      - shape_3
+      required: false
+    - id: 12
+      name: sample_texture
+      label: sample_texture
+      hint: null
+      type: select_multiple
+      options:
+      - texture_1
+      - texture_2
+      - texture_3
+      - texture_4
+      required: false
+    - id: 13
+      name: sample_hardness
+      label: sample_hardness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: sample_streak
+      label: sample_streak
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: date_collected
+      label: date_collected
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: date_reported
+      label: date_reported
+      hint: null
+      type: date
+      options: []
+      required: false

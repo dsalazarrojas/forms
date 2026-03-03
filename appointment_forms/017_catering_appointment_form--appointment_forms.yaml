@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Appointment Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Your company or organization
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: appointment_date
+      label: Preferred Appointment Date
+      hint: When would you like to meet
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: appointment_time
+      label: Preferred Appointment Time
+      hint: What time works best
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: appointment_type
+      label: Appointment Type
+      hint: Type of consultation
+      type: select_one
+      options:
+      - In-Person Meeting
+      - Phone Call
+      - Video Call
+      - Site Visit
+      - Tasting Session
+      required: true
+    - id: 8
+      name: event_type
+      label: Event Type
+      hint: What type of event are you planning
+      type: select_one
+      options:
+      - Wedding
+      - Corporate Event
+      - Birthday Party
+      - Anniversary
+      - Graduation
+      - Conference
+      - Private Party
+      - Other
+      required: true
+    - id: 9
+      name: event_date
+      label: Event Date
+      hint: Date of your event
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: guest_count
+      label: Estimated Guest Count
+      hint: How many guests expected
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: event_location
+      label: Event Location
+      hint: Where will the event be held
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: budget_range
+      label: Budget Range
+      hint: Your estimated budget
+      type: select_one
+      options:
+      - Under $1000
+      - $1000 to $5000
+      - $5000 to $10000
+      - $10000 to $25000
+      - Over $25000
+      required: false
+    - id: 13
+      name: service_type
+      label: Service Type Needed
+      hint: What catering services do you need
+      type: select_one
+      options:
+      - Full Service Catering
+      - Drop-off Only
+      - Buffet Style
+      - Plated Dinner
+      - Cocktail Reception
+      - Food Station
+      required: true
+    - id: 14
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any dietary needs to discuss
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: preferred_cuisine
+      label: Preferred Cuisine
+      hint: What type of food do you prefer
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: special_requests
+      label: Special Requests
+      hint: Any special requirements
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: how_heard
+      label: How Did You Hear About Us
+      hint: Source of referral
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Referral
+      - Advertisement
+      - Previous Customer
+      - Other
+      required: false
+    - id: 18
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else you would like to share
+      type: text
+      options: []
+      required: false

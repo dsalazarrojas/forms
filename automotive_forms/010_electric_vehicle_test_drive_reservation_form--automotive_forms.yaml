@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: electric_vehicle_test_drive_reservation_form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Enter Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: test_vehicle_make
+      label: Test Vehicle Make
+      hint: null
+      type: select_one
+      options:
+      - Audi
+      - BMW
+      - Mercedes
+      - Toyota
+      - Honda
+      - Ford
+      - Dodge
+      - Tesla
+      required: false
+    - id: 5
+      name: test_vehicle_model
+      label: Test Vehicle Model
+      hint: null
+      type: select_multiple
+      options:
+      - A4
+      - 5 series
+      - GLE
+      - CR-V
+      - Accord
+      - Focus
+      - Charger
+      - Model 3
+      required: false
+    - id: 6
+      name: test_drive_date
+      label: Test Drive Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: test_drive_time
+      label: Test Drive Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: test_drive_location
+      label: Test Drive Location
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: sales_rep
+      label: Sales Rep
+      hint: null
+      type: select_one
+      options:
+      - Sales Rep 1
+      - Sales Rep 2
+      - Sales Rep 3
+      - Sales Rep 4
+      - Sales Rep 5
+      required: false
+    - id: 11
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In Person
+      required: false
+    - id: 12
+      name: test_drive_timeframe
+      label: Test Drive Timeframe
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workshop Attendance Form
+    pages:
+    - id: 1
+      name: workshop_attendance_form
+      label: Workshop Attendance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: attendee name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: attendee_phone
+      label: attendee phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attendance
+      label: attendance
+      hint: null
+      type: select_one
+      options:
+      - Present
+      - Absent
+      - Unable to attend
+      required: false
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: attendee_signature
+      label: attendee signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: workshop_attendance_form_submitted_by
+      label: workshop attendance form submitted by
+      hint: null
+      type: text
+      options: []
+      required: false

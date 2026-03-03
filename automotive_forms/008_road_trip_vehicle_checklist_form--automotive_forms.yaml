@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: Road Trip Vehicle Checklist Form
+    pages:
+    - id: 1
+      name: vehicle_info
+      label: vehicle_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tire_pressure
+      label: tire_pressure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: oil_level
+      label: oil_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: fluid_levels
+      label: fluid_levels
+      hint: null
+      type: select_multiple
+      options:
+      - Fuel
+      - Coolant
+      - Brake Fluid
+      - Windshield Washer Fluid
+      - Power Steering Fluid
+      required: true
+    - id: 5
+      name: tire_tread
+      label: tire_tread
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Poor
+      required: true
+    - id: 6
+      name: brake_light
+      label: brake_light
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: headlight
+      label: headlight
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: turn_signal
+      label: turn_signal
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: windshield_washer
+      label: windshield_washer
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: seatbelt
+      label: seatbelt
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: airbag
+      label: airbag
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: hazard_light
+      label: hazard_light
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: parking_brake
+      label: parking_brake
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 14
+      name: parking_brake_light
+      label: parking_brake_light
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
+      name: side_mirror
+      label: side_mirror
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 16
+      name: rear_view_mirror
+      label: rear_view_mirror
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 17
+      name: license_plate
+      label: license_plate
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 18
+      name: parking_light
+      label: parking_light
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 19
+      name: fog_light
+      label: fog_light
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 20
+      name: hazard_flasher
+      label: hazard_flasher
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 21
+      name: license_plate_sticker
+      label: license_plate_sticker
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 22
+      name: first_aid_kit
+      label: first_aid_kit
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 23
+      name: jumper_cables
+      label: jumper_cables
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 24
+      name: emergency_contact_info
+      label: emergency_contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: vehicle_condition
+      label: vehicle_condition
+      hint: null
+      type: text
+      options: []
+      required: false

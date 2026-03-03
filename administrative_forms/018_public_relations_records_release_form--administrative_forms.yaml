@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: public_relations_records_release_form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: release_consent
+      label: release_consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Partial
+      required: false
+    - id: 7
+      name: partial_consent_date
+      label: partial_consent_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: end_consent_date
+      label: end_consent_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: reason_for_consent
+      label: reason_for_consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: public_relations_activities
+      label: public_relations_activities
+      hint: null
+      type: select_multiple
+      options:
+      - Social Media
+      - News Articles
+      - Press Releases
+      - Public Statements
+      - Other (please specify)
+      required: false
+    - id: 12
+      name: other_public_relation_activities
+      label: other_public_relation_activities
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,248 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Patient COVID-19 Test Registration Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: test_type
+      label: Test Type
+      hint: null
+      type: select_one
+      options:
+      - COVID-19 Test
+      - Rapid Test
+      - PCR Test
+      - Serology Test
+      required: false
+    - id: 7
+      name: test_type_other
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: test_type_other_text
+      label: Other Test Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_insurance
+      label: Medical Insurance
+      hint: null
+      type: select_multiple
+      options:
+      - No Insurance
+      - Medicare
+      - Medicaid
+      - Private Insurance
+      required: false
+    - id: 10
+      name: medical_insurance_other
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_insurance_other_text
+      label: Other Insurance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_condition_other
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_condition_other_text
+      label: Other Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_history_other
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_history_other_text
+      label: Other Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: test_location
+      label: Test Location
+      hint: null
+      type: select_one
+      options:
+      - Hospital
+      - Clinic
+      - Home
+      required: false
+    - id: 19
+      name: test_location_other
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: test_location_other_text
+      label: Other Test Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: doctor_name_other
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: doctor_name_other_text
+      label: Other Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - Spouse/Partner
+      - Parent
+      - Child
+      - Other
+      required: false
+    - id: 26
+      name: emergency_contact_number
+      label: Emergency Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - Spouse/Partner
+      - Parent
+      - Child
+      - Other
+      required: false
+    - id: 28
+      name: emergency_contact_relationship_other
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: emergency_contact_relationship_other_text
+      label: Other Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: test_date
+      label: Test Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 32
+      name: test_time
+      label: Test Time
+      hint: null
+      type: time
+      options: []
+      required: false

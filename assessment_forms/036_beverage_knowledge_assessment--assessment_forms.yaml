@@ -1,0 +1,238 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Beverage Knowledge Assessment
+    pages:
+      - id: 1
+        name: employee_name
+        label: Employee Name
+        hint: Enter your full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: employee_email
+        label: Email Address
+        hint: Your work email
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: position
+        label: Position
+        hint: What is your current role
+        type: select_one
+        options:
+          - Bartender
+          - Server
+          - Barista
+          - Sommelier
+          - Bar Manager
+          - Restaurant Manager
+          - Trainee
+          - Other
+        required: true
+      - id: 4
+        name: location
+        label: Restaurant or Bar Location
+        hint: Which location do you work at
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: experience_level
+        label: Experience Level
+        hint: How long have you worked with beverages
+        type: select_one
+        options:
+          - Less than 6 months
+          - 6 months to 1 year
+          - 1 to 3 years
+          - 3 to 5 years
+          - Over 5 years
+        required: true
+      - id: 6
+        name: assessment_date
+        label: Assessment Date
+        hint: Today date
+        type: date
+        options: []
+        required: true
+      - id: 7
+        name: question_1
+        label: Question 1 - What is the primary spirit in a Mojito
+        hint: Select the correct answer
+        type: select_one
+        options:
+          - Vodka
+          - White Rum
+          - Gin
+          - Tequila
+          - Whiskey
+        required: true
+      - id: 8
+        name: question_2
+        label: Question 2 - What temperature should white wine be served at
+        hint: Select the ideal serving temperature
+        type: select_one
+        options:
+          - Room temperature
+          - Lightly chilled (50-55 F)
+          - Well chilled (40-50 F)
+          - Ice cold (below 40 F)
+          - Warm
+        required: true
+      - id: 9
+        name: question_3
+        label: Question 3 - What are the main ingredients in a Classic Margarita
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Tequila
+          - Triple Sec
+          - Lime Juice
+          - Simple Syrup
+          - Vodka
+          - Orange Juice
+        required: true
+      - id: 10
+        name: question_4
+        label: Question 4 - What type of beer is Guinness
+        hint: Select the beer style
+        type: select_one
+        options:
+          - Lager
+          - Pilsner
+          - Stout
+          - IPA
+          - Wheat Beer
+        required: true
+      - id: 11
+        name: question_5
+        label: Question 5 - What does the term neat mean when ordering spirits
+        hint: Select the correct definition
+        type: select_one
+        options:
+          - Served with ice
+          - Served with water on the side
+          - Served at room temperature without ice
+          - Served chilled
+          - Served with mixer
+        required: true
+      - id: 12
+        name: question_6
+        label: Question 6 - Which coffee drink contains steamed milk and espresso
+        hint: Select the correct drink
+        type: select_one
+        options:
+          - Americano
+          - Cappuccino
+          - Latte
+          - Macchiato
+          - Cold Brew
+        required: true
+      - id: 13
+        name: question_7
+        label: Question 7 - What is the standard pour size for a single shot of spirits
+        hint: Select the standard measurement
+        type: select_one
+        options:
+          - 0.5 oz
+          - 1 oz
+          - 1.5 oz
+          - 2 oz
+          - 2.5 oz
+        required: true
+      - id: 14
+        name: question_8
+        label: Question 8 - Which grape is used to make Champagne
+        hint: Select the correct grape variety
+        type: select_one
+        options:
+          - Cabernet Sauvignon
+          - Merlot
+          - Chardonnay
+          - Pinot Noir
+          - Both Chardonnay and Pinot Noir
+        required: true
+      - id: 15
+        name: question_9
+        label: Question 9 - What ingredient gives a Pink Lady cocktail its color
+        hint: Select the coloring ingredient
+        type: select_one
+        options:
+          - Strawberry syrup
+          - Grenadine
+          - Raspberry liqueur
+          - Pink food coloring
+          - Cranberry juice
+        required: true
+      - id: 16
+        name: question_10
+        label: Question 10 - What is the main difference between an IPA and a Lager
+        hint: Select the key difference
+        type: select_one
+        options:
+          - Color
+          - Alcohol content
+          - Hop bitterness and aroma
+          - Serving temperature
+          - Carbonation level
+        required: true
+      - id: 17
+        name: practical_skills
+        label: Practical Skills Self-Rating
+        hint: Rate your hands-on beverage preparation skills
+        type: select_one
+        options:
+          - Expert
+          - Advanced
+          - Intermediate
+          - Beginner
+          - Novice
+        required: true
+      - id: 18
+        name: areas_for_improvement
+        label: Areas Where You Need Improvement
+        hint: What areas would you like more training in
+        type: select_multiple
+        options:
+          - Cocktail Recipes
+          - Wine Knowledge
+          - Beer Styles
+          - Coffee Preparation
+          - Customer Service
+          - Speed and Efficiency
+          - Inventory Management
+          - Upselling Techniques
+        required: true
+      - id: 19
+        name: confidence_level
+        label: Confidence Level
+        hint: How confident do you feel about your beverage knowledge
+        type: select_one
+        options:
+          - Very Confident
+          - Confident
+          - Somewhat Confident
+          - Not Very Confident
+          - Not Confident at All
+        required: true
+      - id: 20
+        name: additional_comments
+        label: Additional Comments
+        hint: Any questions or topics you would like covered in training
+        type: text
+        options: []
+        required: false

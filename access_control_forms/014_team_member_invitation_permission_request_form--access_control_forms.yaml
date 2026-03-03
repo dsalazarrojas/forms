@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Member Invitation Permission Request Form
+    pages:
+    - id: 1
+      name: user_email
+      label: Team Member Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: role
+      label: Requesting Role
+      hint: null
+      type: select_one
+      options:
+      - Member
+      - Guest
+      - Admin
+      - Owner
+      required: false
+    - id: 3
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: request_time
+      label: Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: team_lead_comment
+      label: Team Lead Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_lead_comment
+      label: Project Lead Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      - Cancelled
+      required: false
+    - id: 8
+      name: approval_comment
+      label: Approval Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false

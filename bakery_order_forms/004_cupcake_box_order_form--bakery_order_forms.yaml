@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cupcake Box Order Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Cupcake Box Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: box_size
+      label: box_size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: box_type
+      label: box_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: box_color
+      label: box_color
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: box_quantity
+      label: box_quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: box_contents
+      label: box_contents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: box_price
+      label: box_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: order_time
+      label: order_time
+      hint: null
+      type: time
+      options: []
+      required: false

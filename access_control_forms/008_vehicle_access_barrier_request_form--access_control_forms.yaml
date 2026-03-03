@@ -1,0 +1,105 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Access Barrier Request Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_vehicle
+      label: User Vehicle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_time
+      label: Date and Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: gate_type
+      label: Gate Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Gate'', ''value'': ''Gate''}'
+      - '{''id'': 2, ''name'': ''Boom Gate'', ''value'': ''Boom Gate''}'
+      - '{''id'': 3, ''name'': ''Gatehouse'', ''value'': ''Gatehouse''}'
+      required: false
+    - id: 5
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Car'', ''value'': ''Car''}'
+      - '{''id'': 2, ''name'': ''Truck'', ''value'': ''Truck''}'
+      - '{''id'': 3, ''name'': ''Van'', ''value'': ''Van''}'
+      - '{''id'': 4, ''name'': ''Ute'', ''value'': ''Ute''}'
+      - '{''id'': 5, ''name'': ''Trailer'', ''value'': ''Trailer''}'
+      required: false
+    - id: 7
+      name: vehicle_plate
+      label: Vehicle Plate Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact
+      label: Contact Information
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Phone'', ''value'': ''Phone''}'
+      - '{''id'': 2, ''name'': ''Email'', ''value'': ''Email''}'
+      required: false
+    - id: 9
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: gate_access
+      label: Gate Access
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Grant Access'', ''value'': ''Grant Access''}'
+      - '{''id'': 2, ''name'': ''Deny'', ''value'': ''Deny''}'
+      required: false

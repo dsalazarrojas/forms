@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ligature Risk Assessment Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_contact_info
+      label: Patient Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: ligature_type
+      label: Ligature Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patient_status
+      label: Patient Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: risk_level
+      label: Risk Level
+      hint: Select one
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 6
+      name: risk_description
+      label: Risk Description
+      hint: Briefly describe the risk
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: prevention_measures
+      label: Prevention Measures
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: review_date
+      label: Review Date
+      hint: Date of review
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: review_time
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: review_by
+      label: Reviewed By
+      hint: Name of reviewer
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reviewer_notes
+      label: Reviewer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: prevention_measures_comments
+      label: Prevention Measures Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: prevention_measures_status
+      label: Prevention Measures Status
+      hint: null
+      type: text
+      options: []
+      required: false

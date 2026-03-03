@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: tenant_agreement_discharge_form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: landlord_agreement
+      label: Landlord Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - Landlord
+      - Tenant
+      required: false
+    - id: 3
+      name: tenant_signature
+      label: Tenant Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: landlord_signature
+      label: Landlord Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_discharged
+      label: Date Discharged
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: reason_discharged
+      label: Reason Discharged
+      hint: null
+      type: select_one
+      options:
+      - Default
+      - Nonpayment
+      - Nonrenewal
+      - Mutual agreement
+      required: false
+    - id: 7
+      name: agreement_term
+      label: Term of Agreement
+      hint: null
+      type: number
+      options: []
+      required: false

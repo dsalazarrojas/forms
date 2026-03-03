@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Franchise Tax Extension Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Franchise Tax Extension Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Accountant Forms
+      - Financial Forms
+      - Tax Forms
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjenny
+      - chatjimmy2
+      required: false
+    - id: 6
+      name: form_ids
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: description_1
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: description_2
+      label: A franchise tax extension form is used to request an extension on filing
+        the franchise taxes for an entity.
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: true

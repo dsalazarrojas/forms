@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Urban Planning Review Report Form
+    pages:
+    - id: 1
+      name: urban_planning_review_report_form_title
+      label: Urban Planning Review Report Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: project name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_location
+      label: project location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_description
+      label: project description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_status
+      label: project status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: project_start_date
+      label: project start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: project_end_date
+      label: project end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: project_budget
+      label: project budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: project_owners
+      label: project owners
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: project_contacts
+      label: project contacts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: project_notes
+      label: project notes
+      hint: null
+      type: note
+      options: []
+      required: false

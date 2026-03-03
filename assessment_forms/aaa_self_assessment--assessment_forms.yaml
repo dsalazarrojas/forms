@@ -1,0 +1,170 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: AAA Self Assessment
+    pages:
+    - id: 1
+      name: section_header_personal_info
+      label: '--- Personal Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your legal full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: Your company-assigned identification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email address
+      hint: Used for follow‑up communication
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone number
+      hint: Optional, for urgent updates
+      type: phone
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of birth
+      hint: For HR records only
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: department
+      label: Department
+      hint: Select the department you belong to
+      type: select_one
+      options:
+      - Human Resources
+      - Finance
+      - Marketing
+      - Engineering
+      - Sales
+      - Customer Support
+      - Operations
+      required: true
+    - id: 8
+      name: job_title
+      label: Job title
+      hint: Your current position title
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assessment_period
+      label: Assessment period
+      hint: The month and year the assessment covers
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: satisfaction
+      label: How satisfied are you with the AAA Self Assessment process?
+      hint: Rate your overall satisfaction
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 11
+      name: overall_rating
+      label: Overall rating (1-10)
+      hint: 1 = worst, 10 = best
+      type: integer
+      options: []
+      required: true
+    - id: 12
+      name: experience_aspects
+      label: Which aspects applied to your experience with AAA Self Assessment? (select
+        all)
+      hint: You may choose multiple
+      type: select_multiple
+      options:
+      - Easy to use
+      - Fast
+      - Reliable
+      - Missing feature
+      - Confusing
+      - Well designed
+      required: true
+    - id: 13
+      name: recommend_training
+      label: Would you recommend additional training on AAA Self Assessment?
+      hint: Choose the option that best reflects your view
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: training_needs
+      label: If yes, which training topics would you find most helpful? (select all)
+      hint: Leave blank if not applicable
+      type: select_multiple
+      options:
+      - Advanced reporting features
+      - Data privacy best practices
+      - Customizing dashboards
+      - Troubleshooting common errors
+      - Integrating with other tools
+      required: false
+    - id: 15
+      name: improvement_suggestions
+      label: What would you improve or change about AAA Self Assessment?
+      hint: Be specific about features or processes
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Any other feedback you wish to share
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitter_confidence
+      label: How confident are you in completing the assessment accurately?
+      hint: Reflect on your comfort level
+      type: select_one
+      options:
+      - Very confident
+      - Confident
+      - Neutral
+      - Uncertain
+      - Very uncertain
+      required: true

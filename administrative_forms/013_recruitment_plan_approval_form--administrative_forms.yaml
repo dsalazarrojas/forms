@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recruitment Plan Approval Form
+    pages:
+    - id: 1
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Full-time''}'
+      - '{''id'': 2, ''label'': ''Part-time''}'
+      - '{''id'': 3, ''label'': ''Contract''}'
+      required: false
+    - id: 5
+      name: hire_date
+      label: Hire Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: budgeted_position
+      label: Budgeted Position
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: recruitment_plan_details
+      label: Recruitment Plan Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Approve''}'
+      - '{''id'': 2, ''label'': ''Reject''}'
+      - '{''id'': 3, ''label'': ''Pending''}'
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: approver
+      label: Approver
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John Doe''}'
+      - '{''id'': 2, ''label'': ''Jane Doe''}'
+      - '{''id'': 3, ''label'': ''Jim Smith''}'
+      required: false
+    - id: 11
+      name: submitter
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John Doe''}'
+      - '{''id'': 2, ''label'': ''Jane Doe''}'
+      - '{''id'': 3, ''label'': ''Jim Smith''}'
+      required: false
+    - id: 12
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: date_approved
+      label: Date Approved
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: comments_approved
+      label: Comments Approved
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Approved''}'
+      - '{''id'': 2, ''label'': ''Pending''}'
+      - '{''id'': 3, ''label'': ''Rejected''}'
+      required: false
+    - id: 16
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John Doe''}'
+      - '{''id'': 2, ''label'': ''Jane Doe''}'
+      - '{''id'': 3, ''label'': ''Jim Smith''}'
+      required: false
+    - id: 19
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John Doe''}'
+      - '{''id'': 2, ''label'': ''Jane Doe''}'
+      - '{''id'': 3, ''label'': ''Jim Smith''}'
+      required: false
+    - id: 20
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: comments_count
+      label: Comments Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: comments_html
+      label: Comments HTML
+      hint: null
+      type: note
+      options: []
+      required: false

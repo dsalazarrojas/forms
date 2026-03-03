@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Direct Debit Form
+    pages:
+    - id: 1
+      name: direct_debit_form
+      label: Direct Debit Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: account_holder_name
+      label: Account Holder Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: account_holder_email
+      label: Account Holder Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: account_holder_phone
+      label: Account Holder Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: account_holder_address
+      label: Account Holder Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: account_holder_postal_code
+      label: Account Holder Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: bank_name
+      label: Bank Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: sort_code
+      label: Sort Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: branch_code
+      label: Branch Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: debit_amount
+      label: Debit Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: bank_account_number
+      label: Bank Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: iban
+      label: IBAN
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: swift
+      label: Swift
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: bic
+      label: BIC
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: direct_debit_date
+      label: Direct Debit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: direct_debit_time
+      label: Direct Debit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: direct_debit_frequency
+      label: Direct Debit Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly''}'
+      required: true
+    - id: 20
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: bank_iban
+      label: Bank IBAN
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: account_iban
+      label: Account IBAN
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: bank_swift
+      label: Bank Swift
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: account_swift
+      label: Account Swift
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

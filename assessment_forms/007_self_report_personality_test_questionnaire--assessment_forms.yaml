@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Self Report Personality Test Questionnaire
+    pages:
+    - id: 1
+      name: personality_test_1
+      label: personality_test_1
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: select_one_1
+      label: select_one_1
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: true
+    - id: 6
+      name: select_multiple_1
+      label: select_multiple_1
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: true
+    - id: 7
+      name: select_one_2
+      label: select_one_2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 4''}'
+      - '{''id'': 2, ''label'': ''Option 5''}'
+      - '{''id'': 3, ''label'': ''Option 6''}'
+      required: true
+    - id: 8
+      name: select_multiple_2
+      label: select_multiple_2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Option 7''}'
+      - '{''id'': 2, ''label'': ''Option 8''}'
+      - '{''id'': 3, ''label'': ''Option 9''}'
+      required: true
+    - id: 9
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: coaching_goal
+      label: coaching_goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: education_goal
+      label: education_goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: wellbeing_goal
+      label: wellbeing_goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: coaching_programs
+      label: coaching_programs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: education_programs
+      label: education_programs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: wellbeing_programs
+      label: wellbeing_programs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submission_notes
+      label: submission_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Submit''}'
+      - Other
+      required: true
+    - id: 21
+      name: save_and_exit
+      label: save_and_exit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Save''}'
+      - '{''id'': 2, ''label'': ''Exit''}'
+      required: false
+    - id: 22
+      name: cancel
+      label: cancel
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Cancel''}'
+      - '{''id'': 2, ''label'': ''Back''}'
+      required: false
+    - id: 23
+      name: delete_submission
+      label: delete_submission
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Delete''}'
+      - '{''id'': 2, ''label'': ''Keep''}'
+      required: true
+    - id: 24
+      name: submission_status
+      label: submission_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Draft''}'
+      - '{''id'': 2, ''label'': ''Pending''}'
+      - '{''id'': 3, ''label'': ''Published''}'
+      required: true
+    - id: 25
+      name: submission_id
+      label: submission_id
+      hint: null
+      type: text
+      options: []
+      required: true

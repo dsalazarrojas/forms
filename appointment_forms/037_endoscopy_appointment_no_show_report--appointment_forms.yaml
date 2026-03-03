@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Endoscopy Appointment No Show Report
+    pages:
+    - id: 1
+      name: patient_identifier
+      label: Patient Identifier
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: no_show_reason
+      label: Reason for Not Showing Up
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: no_show_confirmation
+      label: No Show Confirmation
+      hint: This is a mandatory field to confirm no show of appointment
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: no_show_cancellation_reason
+      label: Cancellation Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: clinic_name
+      label: Clinic Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_note
+      label: Follow-up Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: no_show_note
+      label: No Show Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: review_by
+      label: Reviewed by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: review_note
+      label: Review Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: no_show_status
+      label: No Show Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 17
+      name: clinic_location
+      label: Clinic Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: review_comment
+      label: Review Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: review_by_name
+      label: Reviewed by Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_by
+      label: Follow-up by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: no_show_confirmed
+      label: No Show Confirmed
+      hint: This is a mandatory field to confirm no show of appointment
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

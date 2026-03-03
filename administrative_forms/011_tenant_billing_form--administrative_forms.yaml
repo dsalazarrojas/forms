@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Billing Form
+    pages:
+    - id: 1
+      name: tenant_billing_form
+      label: Tenant Billing Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: billing_inquiry
+      label: Billing Inquiry
+      hint: What is the nature of your inquiry?
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: select_one
+      options:
+      - Rent
+      - Utility
+      - Other
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: rent_amount
+      label: Rent Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: frequency
+      label: Frequency
+      hint: Weekly, Bi-Weekly, Monthly
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: false
+    - id: 8
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      - Partially Paid
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: tenant_name
+      label: Tenant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: tenant_email
+      label: Tenant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: tenant_phone
+      label: Tenant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: landlord_name
+      label: Landlord Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: landlord_email
+      label: Landlord Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: landlord_phone
+      label: Landlord Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: property_number
+      label: Property Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: unit_number
+      label: Unit Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: building_number
+      label: Building Number
+      hint: null
+      type: text
+      options: []
+      required: false

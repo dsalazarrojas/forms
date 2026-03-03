@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Military Promotion Assessment Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: candidate_name
+      label: Candidates Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: military_position
+      label: Military Position
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: military_position_option
+      label: Military Position Options - Officer, NCO, Enlisted
+      hint: null
+      type: select_multiple
+      options:
+      - Officer, NCO, Enlisted
+      - Other
+      required: false
+    - id: 5
+      name: military_years_of_service
+      label: Military Years of Service
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: military_years_of_service_value
+      label: Years of Service
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: military_years_of_service_option
+      label: Years of Service Options - 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+      hint: null
+      type: select_multiple
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: false
+    - id: 8
+      name: date_of_enlistment
+      label: Date of Enlistment
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: promotion_date
+      label: Promotion Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: promotion_status
+      label: Promotion Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: promotion_status_option
+      label: Promotion Status - Eligible, Not Eligible, In Progress
+      hint: null
+      type: select_multiple
+      options:
+      - Eligible
+      - Not Eligible
+      - In Progress
+      required: true
+    - id: 12
+      name: promotion_recommendation
+      label: Promotion Recommendation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: promotion_recommendation_option
+      label: Promotion Recommendation - Recommend, Not Recommend
+      hint: null
+      type: select_multiple
+      options:
+      - Recommend
+      - Not Recommend
+      required: true
+    - id: 14
+      name: unit_recommendation
+      label: Unit Recommendation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: unit_recommendation_option
+      label: Unit Recommendation - Recommend, Not Recommend
+      hint: null
+      type: select_multiple
+      options:
+      - Recommend
+      - Not Recommend
+      required: true
+    - id: 16
+      name: comments
+      label: Comments
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: comments_option
+      label: Comments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: comments_text
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: comments_date
+      label: Comments Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: unit
+      label: Unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: commander_recommendation
+      label: Commander Recommendation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: commander_recommendation_option
+      label: Commander Recommendation - Recommend, Not Recommend
+      hint: null
+      type: select_multiple
+      options:
+      - Recommend
+      - Not Recommend
+      required: true
+    - id: 23
+      name: commander_recommendation_date
+      label: Commander Recommendation Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: personnel_officer
+      label: Personnel Officer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: personnel_officer_signature
+      label: Personnel Officer Signature
+      hint: null
+      type: text
+      options: []
+      required: true

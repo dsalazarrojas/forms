@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recruitment Budget Adjustment Request Form
+    pages:
+    - id: 1
+      name: user_requester
+      label: Requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: budget_adjustment
+      label: Budget Adjustment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_adjustment
+      label: Reason for Adjustment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: budget_amount
+      label: Budget Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: expected_completion_date
+      label: Expected Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

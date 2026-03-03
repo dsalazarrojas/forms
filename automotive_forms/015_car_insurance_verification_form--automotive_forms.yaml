@@ -1,0 +1,308 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Insurance Verification Form
+    pages:
+    - id: 1
+      name: vehicle_owner_information
+      label: Vehicle Owner Information
+      hint: Please provide owner details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: owner_first_name
+      label: First Name
+      hint: Owner's first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: owner_last_name
+      label: Last Name
+      hint: Owner's last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: owner_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: owner_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: owner_address
+      label: Street Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: owner_city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: owner_state
+      label: State
+      hint: State
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: owner_zip
+      label: ZIP Code
+      hint: ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: vehicle_information
+      label: Vehicle Information
+      hint: Details about the vehicle
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_year
+      label: Vehicle Year
+      hint: Year
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: vehicle_make
+      label: Vehicle Make
+      hint: Manufacturer
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: vehicle_model
+      label: Vehicle Model
+      hint: Model
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: vehicle_vin
+      label: VIN
+      hint: Vehicle Identification Number
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: vehicle_license_plate
+      label: License Plate Number
+      hint: Plate number
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: vehicle_plate_state
+      label: Plate State
+      hint: State that issued plate
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: vehicle_registration
+      label: Registration Expiration
+      hint: When does registration expire?
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: insurance_information
+      label: Insurance Information
+      hint: Current insurance details
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: insurance_company
+      label: Insurance Company
+      hint: Name of insurer
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: policy_number
+      label: Policy Number
+      hint: Your policy number
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: policy_effective_date
+      label: Policy Effective Date
+      hint: When does coverage start?
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: policy_expiration_date
+      label: Policy Expiration Date
+      hint: When does coverage end?
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: policy_status
+      label: Policy Status
+      hint: Current status
+      type: select_one
+      options:
+      - Active
+      - Pending
+      - Cancelled
+      - Expired
+      - Unknown
+      required: true
+    - id: 24
+      name: coverage_types
+      label: Coverage Types
+      hint: What coverages are included?
+      type: select_multiple
+      options:
+      - Liability
+      - Collision
+      - Comprehensive
+      - Uninsured Motorist
+      - Personal Injury Protection
+      - Medical Payments
+      - Roadside Assistance
+      - Rental Reimbursement
+      required: true
+    - id: 25
+      name: liability_limits
+      label: Liability Limits
+      hint: Coverage limits
+      type: select_one
+      options:
+      - State minimum
+      - 25/50/25
+      - 50/100/50
+      - 100/300/100
+      - 250/500/250
+      - Other
+      required: true
+    - id: 26
+      name: deductible_amount
+      label: Deductible Amount
+      hint: Your deductible
+      type: select_one
+      options:
+      - $0
+      - $250
+      - $500
+      - $1,000
+      - $2,000
+      - Other
+      required: true
+    - id: 27
+      name: named_drivers
+      label: Named Drivers
+      hint: How many drivers on policy?
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4 or more
+      required: true
+    - id: 28
+      name: additional_drivers
+      label: Additional Driver Names
+      hint: List other drivers
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: verification_purpose
+      label: Verification Purpose
+      hint: Why is verification needed?
+      type: select_one
+      options:
+      - Vehicle registration
+      - Accident claim
+      - Traffic citation
+      - Employment requirement
+      - Personal records
+      - Loan/Lease requirement
+      - Other
+      required: true
+    - id: 30
+      name: requesting_entity
+      label: Requesting Entity
+      hint: Who is requesting verification?
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: verification_deadline
+      label: Verification Deadline
+      hint: When is it needed by?
+      type: date
+      options: []
+      required: false
+    - id: 32
+      name: proof_of_insurance
+      label: Proof of Insurance Card
+      hint: Do you have your insurance card?
+      type: select_one
+      options:
+      - Yes - will submit
+      - Yes - already submitted
+      - No - need replacement
+      required: true
+    - id: 33
+      name: prior_insurance
+      label: Prior Insurance
+      hint: Did you have prior coverage?
+      type: select_one
+      options:
+      - Yes - continuous coverage
+      - Yes - with gap
+      - No - first time insuring
+      required: true
+    - id: 34
+      name: prior_carrier
+      label: Prior Insurance Carrier
+      hint: Previous insurer name
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: signature_confirmation
+      label: Signature Confirmation
+      hint: Confirm information is accurate
+      type: select_one
+      options:
+      - I certify this insurance information is true and accurate
+      - I cannot certify
+      required: true
+    - id: 37
+      name: verification_date
+      label: Verification Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Internal Fund Transfer Authorization Application Form
+    pages:
+    - id: 1
+      name: transfer_type
+      label: Transfer Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: source_account
+      label: Source Account
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: destination_account
+      label: Destination Account
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: reason_for_transfer
+      label: Reason for Transfer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: authorization_level
+      label: Authorization Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 9
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false

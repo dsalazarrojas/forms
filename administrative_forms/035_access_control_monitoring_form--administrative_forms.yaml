@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Access Control Monitoring Form
+    pages:
+    - id: 1
+      name: section_session
+      label: -- Monitoring Session Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: monitor_officer_name
+      label: Monitoring Officer Name
+      hint: Person on duty
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: monitoring_date
+      label: Date of Monitoring
+      hint: Select current date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: session_start_time
+      label: Shift or Session Start Time
+      hint: Recorded at start of duty
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: section_logs
+      label: -- Access Event Logs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: total_entries_logged
+      label: Total Number of Successful Entries
+      hint: From system dashboard
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: denied_access_attempts
+      label: Total Number of Denied Access Attempts
+      hint: Unauthorized access logs
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: denied_access_reasons
+      label: Reasons for Denied Access
+      hint: e.g. Expired ID, Restricted Zone
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_health
+      label: -- System Health Check --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: cameras_operational
+      label: Are all security cameras operational?
+      hint: Visual check of monitors
+      type: select_one
+      options:
+      - 'Yes'
+      - Some Offline
+      - None Operational
+      required: true
+    - id: 11
+      name: server_connectivity
+      label: Access Control Server Status
+      hint: Technical health check
+      type: select_one
+      options:
+      - Online or Stable
+      - Intermittent Issues
+      - Offline
+      required: true
+    - id: 12
+      name: section_incidents
+      label: -- Incident Reporting --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: incidents_during_shift
+      label: Were there any security incidents during this shift?
+      hint: Shift log summary
+      type: select_one
+      options:
+      - No Incidents
+      - Minor Issue
+      - Major Incident
+      required: true
+    - id: 14
+      name: incident_summary
+      label: Summary of incidents - if any
+      hint: Briefly describe what happened
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_handover
+      label: -- Handover Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: handover_notes
+      label: Notes for the next shift or officer
+      hint: Key items to watch
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: shift_sign_off
+      label: I confirm the accuracy of this monitoring log
+      hint: Final validation
+      type: select_one
+      options:
+      - I Confirm
+      - Other
+      required: true

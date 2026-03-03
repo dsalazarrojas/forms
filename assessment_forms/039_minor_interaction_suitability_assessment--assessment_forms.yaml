@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Minor Interaction Suitability Assessment
+    pages:
+    - id: 1
+      name: planned_interaction
+      label: Planned Interaction
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: adult_participant_name
+      label: Adult Participant
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: adult_participant_age
+      label: Adult Participant Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: adult_participant_gender
+      label: Adult Participant Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Unknown
+      required: false
+    - id: 5
+      name: minor_participant_name
+      label: Minor Participant
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: minor_participant_age
+      label: Minor Participant Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: minor_participant_gender
+      label: Minor Participant Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      required: false
+    - id: 8
+      name: interaction_details
+      label: Interaction Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: safety_concerns
+      label: Safety Concerns
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: action_planned
+      label: Action Planned
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 12
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: reviewed_by
+      label: Reviewed By
+      hint: null
+      type: text
+      options: []
+      required: false

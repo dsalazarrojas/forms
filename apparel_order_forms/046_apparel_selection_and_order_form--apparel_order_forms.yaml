@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Apparel Selection And Order Form
+    pages:
+    - id: 1
+      name: customer_details_header
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For order tracking updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: collection_category
+      label: Select Collection
+      hint: null
+      type: select_one
+      options:
+      - Spring / Summer 2026
+      - Autumn / Winter 2026
+      - Essential Basics
+      - Limited Edition Drop
+      required: true
+    - id: 5
+      name: item_selection
+      label: Choose Your Item
+      hint: null
+      type: select_one
+      options:
+      - Silk Blouse
+      - Tailored Trousers
+      - Cashmere Sweater
+      - A-Line Skirt
+      - Oversized Blazer
+      required: true
+    - id: 6
+      name: item_color
+      label: Color Choice
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: item_size
+      label: Size
+      hint: Consult the size chart if unsure
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      required: true
+    - id: 8
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: personalization_request
+      label: Personalization or Monogramming
+      hint: Specify text or initials (Optional)
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: shipping_speed
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - Standard (5-7 business days)
+      - Express (2-3 business days)
+      - Next Day Delivery
+      required: true
+    - id: 11
+      name: payment_option
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Buy Now Pay Later
+      required: true
+    - id: 12
+      name: gift_option
+      label: Is this a gift?
+      hint: Includes gift receipt and no prices shown
+      type: select_one
+      options:
+      - true
+      - false
+      required: false

@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mechanic Activity Log
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_make
+      label: vehicle make
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Toyota''}'
+      - '{''value'': ''Ford''}'
+      - '{''value'': ''Honda''}'
+      - '{''value'': ''Chevrolet''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 3
+      name: vehicle_year
+      label: vehicle_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: activity_type
+      label: activity type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Service''}'
+      - '{''value'': ''Repair''}'
+      - '{''value'': ''Inspection''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 5
+      name: service_description
+      label: service description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: service_date
+      label: service date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: start_time
+      label: start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: end_time
+      label: end time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: customer_signature
+      label: customer signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: mechanic_signature
+      label: mechanic signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Chatjimmy''}'
+      - Other
+      required: false
+    - id: 12
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Automotive Forms''}'
+      - Other
+      required: false
+    - id: 13
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: customer_notes
+      label: customer notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: assigned_user
+      label: assigned user
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: vehicle_model
+      label: vehicle model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: job_status
+      label: job status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Completed''}'
+      - '{''value'': ''Pending''}'
+      - '{''value'': ''In Progress''}'
+      - '{''value'': ''Cancelled''}'
+      required: false
+    - id: 19
+      name: job_status_description
+      label: job status description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: vehicle_color
+      label: vehicle color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: vehicle_condition
+      label: vehicle condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: activity_date
+      label: activity date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: start_time_h
+      label: start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: end_time_h
+      label: end time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

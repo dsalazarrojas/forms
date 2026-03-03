@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Strategy Assessment
+    pages:
+    - id: 1
+      name: assessment_intro
+      label: -- Strategy Evaluation --
+      hint: Assess the current state of your content efforts
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business/Department Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: goal_clarity_rating
+      label: Clarity of Content Goals
+      hint: 1 = No goals, 5 = Documented and shared goals
+      type: select_one
+      options:
+      - 1 - Not Defined
+      - 2 - Vague
+      - 3 - Defined but not tracked
+      - 4 - Documented and Tracked
+      - 5 - Fully Optimized
+      required: true
+    - id: 5
+      name: publishing_cadence_header
+      label: -- Publishing and Execution --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: publishing_frequency
+      label: Publishing Frequency
+      hint: How often do you publish new content
+      type: select_one
+      options:
+      - Daily
+      - 2-3 times per week
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Sporadically
+      required: true
+    - id: 7
+      name: channel_diversity
+      label: How many channels do you actively manage
+      hint: Website, Social, Email, etc.
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: team_capacity_evaluation
+      label: Current Team Capacity
+      hint: null
+      type: select_one
+      options:
+      - Overwhelmed - Need more help
+      - At capacity - Running smoothly
+      - Underutilized - Can do more
+      - No dedicated team
+      required: true
+    - id: 9
+      name: performance_measurement_header
+      label: -- Measurement and ROI --
+      hint: How do you know if it is working
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: measurement_tools_used
+      label: Measurement Tools in Use
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Google Analytics 4
+      - Social Media Native Analytics
+      - CRM Tracking (HubSpot/Salesforce)
+      - SEO Tools (Semrush/Ahrefs)
+      - Heatmaps (Hotjar/Crazy Egg)
+      - None - We do not measure
+      required: true
+    - id: 11
+      name: content_roi_rating
+      label: Perceived ROI of Content Marketing
+      hint: null
+      type: select_one
+      options:
+      - Low ROI - Cost center only
+      - Neutral - Hard to say
+      - Moderate ROI - Seeing some leads
+      - High ROI - Core growth driver
+      required: true
+    - id: 12
+      name: gaps_identified_header
+      label: -- Improvement Areas --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: biggest_strategy_gap
+      label: Biggest Strategy Gap
+      hint: What is the main thing missing from your strategy
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: priority_for_improvement
+      label: Priority for Strategic Improvement
+      hint: null
+      type: select_one
+      options:
+      - High - Need immediate overhaul
+      - Medium - Gradual updates
+      - Low - Small tweaks only
+      required: true
+    - id: 15
+      name: additional_assessment_notes
+      label: Additional Assessment Notes
+      hint: null
+      type: text
+      options: []
+      required: false

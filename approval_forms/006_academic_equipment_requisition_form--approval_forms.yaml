@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Equipment Requisition Form
+    pages:
+    - id: 1
+      name: requisition_header
+      label: -- Equipment Requisition --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: Full name of requestor
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department or unit
+      hint: Department requesting equipment
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: Institutional email for approval updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: equipment_needed
+      label: Equipment needed
+      hint: Describe make and model if known
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: quantity
+      label: Quantity requested
+      hint: Number of units required
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: justification
+      label: Justification for request
+      hint: Explain how equipment supports academic activities
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: estimated_cost
+      label: Estimated total cost
+      hint: Provide currency and amount if available
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: required_by_date
+      label: Required by date
+      hint: When the equipment is needed
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: approver_signature
+      label: Approver name and confirmation
+      hint: For departmental approval
+      type: text
+      options: []
+      required: false

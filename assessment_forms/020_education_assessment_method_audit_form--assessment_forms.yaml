@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Education Assessment Method Audit Form
+    pages:
+    - id: 1
+      name: education_assessment_method_audit_form
+      label: Assessment Practices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: assessment_method
+      label: Assessment Method Used
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: assessment_frequency
+      label: Assessment Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 4
+      name: assessment_date
+      label: Date of Most Recent Assessment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: assessment_time
+      label: Time of Most Recent Assessment
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: assessment_duration
+      label: Length of Assessment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: assessor
+      label: Assessor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assessor_email
+      label: Assessor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: assessor_phone
+      label: Assessor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: feedback_frequency
+      label: Feedback Frequency
+      hint: null
+      type: select_one
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      required: false
+    - id: 11
+      name: feedback_source
+      label: Source of Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - Internal
+      - External
+      - Other
+      - None
+      required: false
+    - id: 12
+      name: feedback_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: review_frequency
+      label: Review Frequency
+      hint: null
+      type: select_one
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      - Never
+      required: false
+    - id: 14
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 16
+      name: assessment_type
+      label: Type of Assessment
+      hint: null
+      type: select_multiple
+      options:
+      - Summative
+      - Formative
+      - Diagnostic
+      - Other
+      - None
+      required: false
+    - id: 17
+      name: assessment_method_other
+      label: Other Assessment Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: other_assessment_method
+      label: Other Assessed Method Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: assessor_comments
+      label: Assessor Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: other_reviewer_comments
+      label: Other Reviewer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: overall_assessment_score
+      label: Overall Assessment Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: overall_comment
+      label: Overall Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: other_comments
+      label: Other Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

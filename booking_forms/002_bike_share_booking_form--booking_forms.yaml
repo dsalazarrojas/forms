@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bike Share Booking Form
+    pages:
+    - id: 1
+      name: section_user_information
+      label: -- User Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Include given and family name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: membership_id
+      label: Membership id
+      hint: If you are a program member provide ID
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email address
+      hint: For booking confirmations and receipts
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone number
+      hint: Enter a reachable phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: journey_start_date
+      label: Journey start date
+      hint: Date of intended bike use
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: journey_end_date
+      label: Journey end date
+      hint: Optional end date for multi-day bookings
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: pickup_station
+      label: Pickup station
+      hint: Select the nearest station or enter address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: dropoff_station
+      label: Dropoff station
+      hint: Where the bike will be returned
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: bike_preferences
+      label: Bike preferences
+      hint: Choose any preferences if available
+      type: select_multiple
+      options:
+      - Helmet
+      - Child seat
+      - Basket
+      - E-bike
+      required: false
+    - id: 11
+      name: special_requirements
+      label: Special requirements
+      hint: Accessibility or extra assistance details
+      type: text
+      options: []
+      required: false

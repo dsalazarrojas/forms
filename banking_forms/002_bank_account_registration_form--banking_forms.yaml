@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bank Account Registration Form
+    pages:
+    - id: 1
+      name: account_type
+      label: Account Type
+      hint: Select the type of account you want to open
+      type: select_one
+      options:
+      - Checking Account
+      - Savings Account
+      - Money Market Account
+      - Retirement Account
+      required: true
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Please provide your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Valid email address for account communication
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: ssn
+      label: Social Security Number
+      hint: Last 4 digits of your SSN for verification
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: street_address
+      label: Street Address
+      hint: Your residential street address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State
+      hint: State of residence
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: country
+      label: Country
+      hint: Country of residence
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: occupation
+      label: Occupation
+      hint: Your current occupation
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: employment_status
+      label: Employment Status
+      hint: Select your employment status
+      type: select_one
+      options:
+      - Employed
+      - Self-Employed
+      - Retired
+      - Student
+      - Unemployed
+      required: true
+    - id: 15
+      name: annual_income
+      label: Annual Income Range
+      hint: Approximate annual income
+      type: select_one
+      options:
+      - Less than 25000
+      - 25000 - 50000
+      - 50000 - 100000
+      - 100000 - 250000
+      - 250000+
+      required: false
+    - id: 16
+      name: initial_deposit
+      label: Initial Deposit Amount
+      hint: Amount you plan to deposit initially
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: account_purpose
+      label: Account Purpose
+      hint: What is the primary purpose for this account?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: identification_type
+      label: Type of Identification
+      hint: Select your primary form of identification
+      type: select_one
+      options:
+      - Driver License
+      - Passport
+      - State ID
+      - Military ID
+      required: true
+    - id: 19
+      name: identification_number
+      label: Identification Number
+      hint: Your identification document number
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: terms_and_conditions
+      label: I agree to the terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

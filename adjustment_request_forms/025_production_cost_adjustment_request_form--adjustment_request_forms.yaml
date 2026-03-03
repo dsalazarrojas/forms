@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Production Cost Adjustment Request Form
+    pages:
+    - id: 1
+      name: adjustment_request
+      label: Item
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: item_type
+      label: Item Type
+      hint: null
+      type: select_one
+      options:
+      - Raw Material
+      - Component
+      - Service
+      required: false
+    - id: 3
+      name: current_cost
+      label: Current Cost
+      hint: Enter the current cost
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: change_reason
+      label: Change Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: justification
+      label: Justification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: proposed_cost
+      label: Proposed Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

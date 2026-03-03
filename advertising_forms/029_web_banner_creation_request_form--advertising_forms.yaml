@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Web Banner Creation Request Form
+    pages:
+    - id: 1
+      name: web_banner_creation_request
+      label: Web Banner Creation Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: web_banner_description
+      label: webBannerDescription
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: image_url
+      label: Image URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: size
+      label: Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: color
+      label: Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: background_color
+      label: Background Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: text_color
+      label: Text Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: font_size
+      label: Font Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: font_family
+      label: Font Family
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: font_style
+      label: Font Style
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: content
+      label: Content
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: priority
+      label: Priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: assigned_tool_user
+      label: Assigned Tool User
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatbot
+      - user1
+      - user2
+      required: false
+    - id: 15
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - chatbot
+      - user1
+      - user2
+      required: false
+    - id: 16
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatbot
+      - user1
+      - user2
+      required: false
+    - id: 17
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - draft
+      - approved
+      - rejected
+      required: false
+    - id: 18
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatbot
+      - user1
+      - user2
+      required: false
+    - id: 19
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: updated_by_comment
+      label: Updated By Comment
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatbot
+      - user1
+      - user2
+      required: false
+    - id: 24
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: assigned_to_email
+      label: Assigned To Email
+      hint: null
+      type: email
+      options: []
+      required: false

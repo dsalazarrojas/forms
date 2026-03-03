@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sandwich Order Form Template
+    pages:
+    - id: 1
+      name: sandwich_order_form
+      label: Sandwich Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sandwich_type
+      label: sandwich_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: bread_type
+      label: bread_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: meat
+      label: meat
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: cheese
+      label: cheese
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: condiments
+      label: condiments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

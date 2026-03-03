@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: sofa_cleaning_booking
+    pages:
+    - id: 1
+      name: benefits
+      label: benefits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment
+      label: equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: disinfectant_chemicals
+      label: disinfectant_chemicals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: vacuuming_machine
+      label: vacuuming_machine
+      hint: null
+      type: select_one
+      options:
+      - Disinfectant Chemicals
+      - Vacuuming Machine
+      - Buffing Machine
+      required: false
+    - id: 5
+      name: chemical_spraying
+      label: spraying
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: leather_sofas
+      label: leather_sofas
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: stain_removal
+      label: stain_removal
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: embedded_dust_mites
+      label: embedded_dust_mites
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: fresh_look
+      label: fresh_look
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: food_particles
+      label: food_particles
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

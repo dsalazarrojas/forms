@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tech Industry Candidate Skills Interview Form
+    pages:
+    - id: 1
+      name: candidate_info
+      label: Candidate Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: technical_skills
+      label: Technical Skills
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''name'': ''python'', ''label'': ''Python''}'
+      - '{''id'': 20, ''name'': ''java'', ''label'': ''Java''}'
+      - '{''id'': 30, ''name'': ''csharp'', ''label'': ''C#''}'
+      required: false
+    - id: 3
+      name: soft_skills
+      label: Soft Skills
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 11, ''name'': ''problem_solving'', ''label'': ''Problem Solving''}'
+      - '{''id'': 21, ''name'': ''communication'', ''label'': ''Communication''}'
+      - '{''id'': 31, ''name'': ''leadership'', ''label'': ''Leadership''}'
+      required: false
+    - id: 4
+      name: technical_experience
+      label: Technical Experience
+      hint: years of experience
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: education_background
+      label: Education Background
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 12, ''name'': ''high_school'', ''label'': ''High School''}'
+      - '{''id'': 22, ''name'': ''bachelor'', ''label'': ''Bachelor''}'
+      - '{''id'': 32, ''name'': ''master'', ''label'': ''Master''}'
+      required: false
+    - id: 6
+      name: work_experience
+      label: Work Experience
+      hint: years of experience
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: language_proficiency
+      label: Language Proficiency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 13, ''name'': ''english'', ''label'': ''English''}'
+      - '{''id'': 23, ''name'': ''french'', ''label'': ''French''}'
+      - '{''id'': 33, ''name'': ''spanish'', ''label'': ''Spanish''}'
+      required: false
+    - id: 8
+      name: certification
+      label: Certification
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 14, ''name'': ''aws'', ''label'': ''AWS''}'
+      - '{''id'': 24, ''name'': ''azure'', ''label'': ''Azure''}'
+      - '{''id'': 34, ''name'': ''oracle'', ''label'': ''Oracle''}'
+      required: false
+    - id: 9
+      name: work_authorization
+      label: Work Authorization
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 15, ''name'': ''usa'', ''label'': ''USA''}'
+      - '{''id'': 25, ''name'': ''canada'', ''label'': ''Canada''}'
+      - '{''id'': 35, ''name'': ''australia'', ''label'': ''Australia''}'
+      required: false
+    - id: 10
+      name: work_address
+      label: Work Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: work_phone
+      label: Work Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: social_media
+      label: Social Media
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 26, ''name'': ''linkedin'', ''label'': ''LinkedIn''}'
+      - '{''id'': 27, ''name'': ''instagram'', ''label'': ''Instagram''}'
+      - '{''id'': 28, ''name'': ''github'', ''label'': ''GitHub''}'
+      required: false
+    - id: 15
+      name: work_notes
+      label: Work Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: candidate_notes
+      label: Candidate Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: interview_notes
+      label: Interview Notes
+      hint: take notes during the interview
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: date_of_interview
+      label: Date of Interview
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: start_date_of_interview
+      label: Start Date of Interview
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: end_date_of_interview
+      label: End Date of Interview
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: time_of_interview
+      label: Time of Interview
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: duration_of_interview
+      label: Duration of Interview
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 36, ''name'': ''schedule_next_interview'', ''label'': ''Schedule
+        next interview''}'
+      - '{''id'': 37, ''name'': ''move_to_next_round'', ''label'': ''Move to next
+        round''}'
+      - '{''id'': 38, ''name'': ''decline_candidate'', ''label'': ''Decline candidate''}'
+      required: false
+    - id: 24
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 29, ''name'': ''send_email'', ''label'': ''Send email''}'
+      - '{''id'': 40, ''name'': ''call'', ''label'': ''Call''}'
+      required: false
+    - id: 25
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: other_notes
+      label: Other Notes
+      hint: null
+      type: note
+      options: []
+      required: false

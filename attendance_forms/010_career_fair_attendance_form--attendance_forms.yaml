@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Career Fair Attendance Form
+    pages:
+    - id: 1
+      name: career_fair_name
+      label: Career Fair Name
+      hint: Title of the event you are attending
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: career_fair_date
+      label: Career Fair Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: attendee_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: We'll send you event details
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Include area code
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: attendee_type
+      label: Type of Attendee
+      hint: Select your category
+      type: select_one
+      options:
+      - Student
+      - Recent Graduate
+      - Job Seeker
+      - Career Changer
+      - Professional Networking
+      - Other
+      required: true
+    - id: 7
+      name: education_level
+      label: Education Level
+      hint: Highest level of education completed
+      type: select_one
+      options:
+      - High School Diploma
+      - Some College
+      - Associate Degree
+      - Bachelor's Degree
+      - Master's Degree
+      - PhD or Doctorate
+      - Vocational or Trade Certification
+      required: true
+    - id: 8
+      name: current_major
+      label: Current Major or Field of Study
+      hint: If student or recent graduate
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: graduation_date
+      label: Expected Graduation Date
+      hint: If student
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: current_employment
+      label: Current Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Currently Employed
+      - Unemployed - seeking work
+      - Unemployed - not seeking work
+      - Self-Employed
+      - Student
+      - Other
+      required: true
+    - id: 11
+      name: current_job_title
+      label: Current Job Title
+      hint: If employed
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: industry_interests
+      label: Industries of Interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Technology and IT
+      - Healthcare and Wellness
+      - Finance and Banking
+      - Engineering
+      - Business and Management
+      - Marketing and Advertising
+      - Sales
+      - Education
+      - Government and Public Service
+      - Manufacturing and Production
+      - Retail and Customer Service
+      - Non-profit and Community
+      required: true
+    - id: 13
+      name: position_interests
+      label: Types of Positions Interested In
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Entry-level
+      - Internship
+      - Co-op position
+      - Contract or Temporary
+      - Full-time permanent
+      - Part-time
+      - Remote positions
+      - Management or Leadership
+      required: true
+    - id: 14
+      name: salary_expectations
+      label: Salary Expectations
+      hint: Annual salary range you are seeking
+      type: select_one
+      options:
+      - Under 30k
+      - 30k-50k
+      - 50k-75k
+      - 75k-100k
+      - 100k-150k
+      - 150k+
+      - Open to offers
+      required: false
+    - id: 15
+      name: companies_interested
+      label: Specific Companies You Want to Meet
+      hint: List any companies participating in the fair
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: key_skills
+      label: Key Skills or Competencies
+      hint: Highlight your strengths
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: portfolio_linkedin
+      label: LinkedIn Profile or Portfolio URL
+      hint: Link to your professional profile
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: transportation_needs
+      label: Do You Need Transportation Assistance?
+      hint: null
+      type: select_one
+      options:
+      - Yes - need shuttle service
+      - Yes - need parking information
+      - No - have own transportation
+      required: false
+    - id: 19
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: If event includes meal service
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: accessibility_needs
+      label: Accessibility Accommodations Needed?
+      hint: Mobility, hearing, vision accommodations?
+      type: select_one
+      options:
+      - Yes - please specify
+      - No - none needed
+      required: false
+    - id: 21
+      name: accessibility_details
+      label: Specific Accessibility Needs
+      hint: Describe any accommodations required
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_information
+      label: Additional Information
+      hint: Anything else organizers should know?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: terms_acceptance
+      label: I accept the event terms and conditions
+      hint: Required to attend
+      type: select_one
+      options:
+      - Yes, I accept
+      - No, I do not accept
+      required: true

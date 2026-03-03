@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Understandability_Assessment_Survey
+    pages:
+    - id: 1
+      name: user_input_1
+      label: What_is_the_primary_Purpose_of_the_Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: document_name
+      label: Document_Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: user_score
+      label: On_a_scale_of_10_How_Easy_Was_It_For_You_To_Understand
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: user_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: document_owner
+      label: Owner_of_the_Document
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''option1'', ''label'': ''Option1''}'
+      - '{''value'': ''option2'', ''label'': ''Option2''}'
+      required: false
+    - id: 6
+      name: document_version
+      label: Document_Version
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_spent
+      label: Estimated_Time_Spent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: document_type
+      label: Document_Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''option1'', ''label'': ''Option1''}'
+      - '{''value'': ''option2'', ''label'': ''Option2''}'
+      - '{''value'': ''option3'', ''label'': ''Option3''}'
+      required: false
+    - id: 9
+      name: user_rating
+      label: Rate_Your_Overall_Understanding
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: document_link
+      label: Document_Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: user_notes
+      label: Additional_Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: document_author
+      label: Author_of_the_Document
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''option1'', ''label'': ''Option1''}'
+      - '{''value'': ''option2'', ''label'': ''Option2''}'
+      required: false
+    - id: 13
+      name: document_reviewers
+      label: Reviewers
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''option1'', ''label'': ''Option1''}'
+      - '{''value'': ''option2'', ''label'': ''Option2''}'
+      required: false
+    - id: 14
+      name: document_reviewers_notes
+      label: Reviewers_Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: document_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: document_status
+      label: Document_Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''option1'', ''label'': ''Option1''}'
+      - '{''value'': ''option2'', ''label'': ''Option2''}'
+      required: false
+    - id: 17
+      name: document_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''option1'', ''label'': ''Option1''}'
+      - '{''value'': ''option2'', ''label'': ''Option2''}'
+      required: false
+    - id: 18
+      name: user_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: user_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: document_file
+      label: File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: user_name
+      label: User_Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: user_title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: document_id
+      label: Document_ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: document_version_history
+      label: Version_History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_submission
+      label: Form_Submission
+      hint: null
+      type: note
+      options: []
+      required: false

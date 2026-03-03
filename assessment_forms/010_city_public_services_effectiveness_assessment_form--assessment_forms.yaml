@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: City Public Services Effectiveness Assessment Form
+    pages:
+    - id: 1
+      name: assessment_intro
+      label: -- City Services Performance Assessment --
+      hint: Your feedback helps us allocate resources effectively
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: neighborhood_district
+      label: Resident District or Neighborhood
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: years_of_residency
+      label: How many years have you lived in this city?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: waste_management_rating
+      label: Rate Waste Collection and Recycling Services
+      hint: 1 = Poor, 5 = Excellent
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: law_enforcement_rating
+      label: Rate Police and Law Enforcement Services
+      hint: 1 = Poor, 5 = Excellent
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: fire_emergency_rating
+      label: Rate Fire and Emergency Response Services
+      hint: 1 = Poor, 5 = Excellent
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: road_maintenance_rating
+      label: Rate Road Maintenance and Snow Removal
+      hint: 1 = Poor, 5 = Excellent
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: parks_recreation_rating
+      label: Rate City Parks and Recreation Facilities
+      hint: 1 = Poor, 5 = Excellent
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: public_library_rating
+      label: Rate Public Library Services
+      hint: 1 = Poor, 5 = Excellent
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: service_responsiveness
+      label: How responsive is the city to your inquiries or complaints?
+      hint: null
+      type: select_one
+      options:
+      - Very Responsive
+      - Somewhat Responsive
+      - Neutral
+      - Unresponsive
+      - Very Unresponsive
+      required: true
+    - id: 11
+      name: value_for_taxes
+      label: Do you feel you receive good value for your local taxes?
+      hint: null
+      type: select_one
+      options:
+      - Great Value
+      - Fair Value
+      - Poor Value
+      required: true
+    - id: 12
+      name: top_priority_service
+      label: Which city service is most important to you?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: improvement_suggestion
+      label: One specific suggestion for service improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: overall_satisfaction
+      label: Overall Satisfaction with City Services
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 15
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true

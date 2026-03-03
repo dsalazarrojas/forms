@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cake Order Inquiry Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Best email to reach you
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: inquiry_date
+      label: Inquiry Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: event_date
+      label: Event Date
+      hint: When is your event
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: event_type
+      label: Event Type
+      hint: What type of event
+      type: select_one
+      options:
+      - Birthday
+      - Wedding
+      - Anniversary
+      - Graduation
+      - Baby shower
+      - Bridal shower
+      - Corporate event
+      - Holiday
+      - Other
+      required: true
+    - id: 7
+      name: number_of_servings
+      label: Number of Servings Needed
+      hint: Approximately how many people
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: cake_style_preference
+      label: Cake Style Preference
+      hint: What style interests you
+      type: select_one
+      options:
+      - Traditional tiered
+      - Modern minimalist
+      - Rustic
+      - Floral decorated
+      - Themed
+      - Photo cake
+      - Cupcake tower
+      - Not sure
+      required: false
+    - id: 9
+      name: flavor_preferences
+      label: Flavor Preferences
+      hint: What flavors do you like
+      type: select_multiple
+      options:
+      - Vanilla
+      - Chocolate
+      - Red Velvet
+      - Lemon
+      - Strawberry
+      - Carrot
+      - Coconut
+      - Marble
+      - Funfetti
+      required: false
+    - id: 10
+      name: budget_range
+      label: Budget Range
+      hint: Approximate budget
+      type: select_one
+      options:
+      - Under $100
+      - $100-$250
+      - $250-$500
+      - $500-$750
+      - $750-$1,000
+      - Over $1,000
+      - Flexible
+      required: false
+    - id: 11
+      name: design_inspiration
+      label: Design Inspiration
+      hint: Describe your vision
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: color_preferences
+      label: Color Preferences
+      hint: Preferred colors
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any allergies or restrictions
+      type: select_multiple
+      options:
+      - None
+      - Gluten-free
+      - Dairy-free
+      - Vegan
+      - Nut-free
+      - Egg-free
+      - Kosher
+      - Halal
+      required: false
+    - id: 14
+      name: consultation_availability
+      label: Consultation Availability
+      hint: When are you available for consultation
+      type: select_multiple
+      options:
+      - Weekday mornings
+      - Weekday afternoons
+      - Weekday evenings
+      - Saturday
+      - Sunday
+      - By appointment
+      required: false
+    - id: 15
+      name: consultation_method
+      label: Preferred Consultation Method
+      hint: How would you like to meet
+      type: select_one
+      options:
+      - In person
+      - Phone call
+      - Video call
+      - Email
+      required: false
+    - id: 16
+      name: have_inspiration_photos
+      label: Do You Have Inspiration Photos
+      hint: Photos of cakes you like
+      type: select_one
+      options:
+      - Yes, will share
+      - No, need suggestions
+      - Maybe
+      required: false
+    - id: 17
+      name: delivery_needed
+      label: Delivery Needed
+      hint: Do you need delivery
+      type: select_one
+      options:
+      - true
+      - No, will pickup
+      - Not sure
+      required: false
+    - id: 18
+      name: delivery_location
+      label: Delivery Location
+      hint: Where should cake be delivered
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: Where did you find us
+      type: select_one
+      options:
+      - Website
+      - Social media
+      - Referral
+      - Online search
+      - Advertisement
+      - Other
+      required: false
+    - id: 20
+      name: timeline_flexibility
+      label: Timeline Flexibility
+      hint: How flexible is your date
+      type: select_one
+      options:
+      - Not flexible
+      - Somewhat flexible
+      - Very flexible
+      required: false
+    - id: 21
+      name: additional_questions
+      label: Additional Questions
+      hint: Any other questions or comments
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: cross_border_transaction_approval_request_form
+    pages:
+    - id: 1
+      name: transaction_details
+      label: Transaction Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: approval_request
+      label: Approval Request
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: transaction_amount
+      label: Transaction Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: transaction_date
+      label: Transaction Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: transaction_type
+      label: Transaction Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: bank_identifier
+      label: Bank Identifier
+      hint: null
+      type: text
+      options: []
+      required: false

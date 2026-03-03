@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Driver's License Application Form
+    pages:
+    - id: 1
+      name: personal_info
+      label: personal info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: license_info
+      label: driver license
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: social_security_number
+      label: social security number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: drivers_license_expiration_date
+      label: expiration date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: driver_license_number
+      label: license number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_info
+      label: vehicle info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: driver_s_permit_info
+      label: driver's permit info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: vehicle_ownership_permit_status
+      label: vehicle ownership permit status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: vehicle_ownership_status
+      label: vehicle ownership status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: driver_s_vehicle_permit_number
+      label: driver's vehicle permit number
+      hint: null
+      type: text
+      options: []
+      required: false

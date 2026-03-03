@@ -1,0 +1,74 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Towing Service Notification
+    pages:
+    - id: 1
+      name: towing_request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: confirm_authorization
+      label: Confirm Authorization
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Authorized''}'
+      - '{''id'': 2, ''name'': ''Not Authorized''}'
+      required: false
+    - id: 3
+      name: pickup_details
+      label: Pickup Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: confirm_pickup
+      label: Confirm Pickup
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Confirmed''}'
+      - '{''id'': 2, ''name'': ''Not Confirmed''}'
+      required: false
+    - id: 5
+      name: confirm_dropoff
+      label: Confirm Dropoff
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Confirmed''}'
+      - '{''id'': 2, ''name'': ''Not Confirmed''}'
+      required: false
+    - id: 6
+      name: confirm_services
+      label: Confirm Services
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Towing''}'
+      - '{''id'': 2, ''name'': ''Tow and Go''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      required: false
+    - id: 7
+      name: vehicle_details
+      label: Vehicle Details
+      hint: null
+      type: text
+      options: []
+      required: false

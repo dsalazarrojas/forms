@@ -1,0 +1,264 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Building Access Cage Inspection Checklist
+    pages:
+      - id: 1
+        name: inspection_info
+        label: -- Inspection Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: inspection_date
+        label: Inspection date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: inspection_time
+        label: Inspection time
+        hint: null
+        type: time
+        options: []
+        required: true
+      - id: 4
+        name: inspector_name
+        label: Inspector name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: building_name
+        label: Building name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: cage_location
+        label: Cage location or room number
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: cage_id
+        label: Cage ID or identifier
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: structural_assessment
+        label: -- Structural Assessment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: wall_condition
+        label: Wall condition
+        hint: null
+        type: select_one
+        options:
+          - Good - No damage
+          - Fair - Minor wear
+          - Poor - Visible damage
+          - Critical - Structural concern
+        required: true
+      - id: 10
+        name: floor_condition
+        label: Floor condition
+        hint: null
+        type: select_one
+        options:
+          - Good - Solid and level
+          - Fair - Minor issues
+          - Poor - Cracked or uneven
+          - Critical - Hazardous
+        required: true
+      - id: 11
+        name: ceiling_condition
+        label: Ceiling condition
+        hint: null
+        type: select_one
+        options:
+          - Good - Intact
+          - Fair - Minor stains or wear
+          - Poor - Damaged or leaking
+          - Critical - Risk of collapse
+        required: true
+      - id: 12
+        name: door_locks
+        label: Door locks and hinges
+        hint: null
+        type: select_one
+        options:
+          - Functioning properly
+          - Minor issues
+          - Major issues
+          - Non-functional
+        required: true
+      - id: 13
+        name: security_assessment
+        label: -- Security Assessment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: security_system_functioning
+        label: Security system functioning
+        hint: null
+        type: select_one
+        options:
+          - Yes, fully operational
+          - Partial functionality
+          - Not operational
+          - Needs maintenance
+        required: true
+      - id: 15
+        name: alarm_system
+        label: Alarm system status
+        hint: null
+        type: select_one
+        options:
+          - Active and working
+          - Inactive
+          - Faulty
+          - Needs testing
+        required: true
+      - id: 16
+        name: access_control
+        label: Access control functionality
+        hint: null
+        type: select_one
+        options:
+          - Working properly
+          - Intermittent issues
+          - Not working
+          - Needs update
+        required: true
+      - id: 17
+        name: surveillance_cameras
+        label: Surveillance cameras operational
+        hint: null
+        type: select_one
+        options:
+          - All working
+          - Some functional
+          - None working
+          - Needs installation
+        required: true
+      - id: 18
+        name: cleanliness_assessment
+        label: -- Cleanliness and Maintenance --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: cleanliness_level
+        label: Cleanliness level
+        hint: null
+        type: select_one
+        options:
+          - Clean and well-maintained
+          - Acceptable
+          - Needs cleaning
+          - Dirty and neglected
+        required: true
+      - id: 20
+        name: pest_evidence
+        label: Evidence of pests or rodents
+        hint: null
+        type: select_one
+        options:
+          - None observed
+          - Minor signs
+          - Significant evidence
+          - Active infestation
+        required: true
+      - id: 21
+        name: hazards_section
+        label: -- Safety Hazards --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: hazards_present
+        label: Safety hazards present
+        hint: null
+        type: select_multiple
+        options:
+          - Trip hazards
+          - Sharp objects
+          - Electrical hazards
+          - Chemical storage issues
+          - Poor lighting
+          - Fire hazards
+          - No hazards identified
+        required: true
+      - id: 23
+        name: fire_extinguisher
+        label: Fire extinguisher status
+        hint: null
+        type: select_one
+        options:
+          - Present and accessible
+          - Present but inaccessible
+          - Missing
+          - Needs inspection
+        required: true
+      - id: 24
+        name: emergency_exit
+        label: Emergency exits accessible
+        hint: null
+        type: select_one
+        options:
+          - Yes, clearly marked
+          - Yes, needs marking
+          - No, blocked
+          - Not applicable
+        required: true
+      - id: 25
+        name: follow_up_needed
+        label: Follow-up action needed
+        hint: null
+        type: select_one
+        options:
+          - No - Pass inspection
+          - Minor repairs needed
+          - Major repairs required
+          - Immediate action required
+        required: true
+      - id: 26
+        name: follow_up_details
+        label: Details of follow-up actions
+        hint: Specify repairs or improvements
+        type: text
+        options: []
+        required: false
+      - id: 27
+        name: inspector_notes
+        label: Inspector notes and comments
+        hint: null
+        type: text
+        options: []
+        required: false

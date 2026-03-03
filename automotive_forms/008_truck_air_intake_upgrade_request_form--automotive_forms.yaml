@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Truck Air Intake Upgrade Request Form
+    pages:
+    - id: 1
+      name: upgrade_request
+      label: Upgrade Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: shop
+      label: Shop
+      hint: null
+      type: select_one
+      options:
+      - Shop 1
+      - Shop 2
+      - Shop 3
+      - Shop 4
+      - Shop 5
+      required: true
+    - id: 3
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - Type 1
+      - Type 2
+      - Type 3
+      - Type 4
+      - Type 5
+      required: true
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: upload_file
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Service 1
+      - Service 2
+      - Service 3
+      - Service 4
+      - Service 5
+      required: true
+    - id: 8
+      name: service_date
+      label: Service Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: service_team
+      label: Service Team
+      hint: null
+      type: select_one
+      options:
+      - Team 1
+      - Team 2
+      - Team 3
+      - Team 4
+      - Team 5
+      required: true
+    - id: 13
+      name: fleet_operator
+      label: Fleet Operator
+      hint: null
+      type: select_one
+      options:
+      - Operator 1
+      - Operator 2
+      - Operator 3
+      - Operator 4
+      - Operator 5
+      required: true
+    - id: 14
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: select_one
+      options:
+      - Make 1
+      - Make 2
+      - Make 3
+      - Make 4
+      - Make 5
+      required: true
+    - id: 16
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: select_one
+      options:
+      - Model 1
+      - Model 2
+      - Model 3
+      - Model 4
+      - Model 5
+      required: true
+    - id: 17
+      name: vehiclevin
+      label: Vehicle VIN
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: shop_address
+      label: Shop Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: shop_city
+      label: Shop City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: shop_postal
+      label: Shop Postal
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: shop_phone
+      label: Shop Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: shop_country
+      label: Shop Country
+      hint: null
+      type: select_one
+      options:
+      - Country 1
+      - Country 2
+      - Country 3
+      - Country 4
+      - Country 5
+      required: true
+    - id: 23
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: shop_signature
+      label: Shop Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: upload_additional_file
+      label: Upload Additional File
+      hint: null
+      type: text
+      options: []
+      required: false

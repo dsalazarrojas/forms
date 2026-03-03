@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: sign_out_log_form
+    pages:
+    - id: 1
+      name: sign_out_log_form_1
+      label: sign_out_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 2
+      name: sign_out_date
+      label: sign_out_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: sign_out_reason
+      label: sign_out_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: sign_out_note
+      label: sign_out_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: sign_out_user
+      label: sign_out_user
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: sign_out_location
+      label: sign_out_location
+      hint: null
+      type: text
+      options: []
+      required: false

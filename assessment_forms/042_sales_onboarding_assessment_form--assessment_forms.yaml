@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Onboarding Assessment Form
+    pages:
+    - id: 1
+      name: new_sales_representative
+      label: New Sales Representative
+      hint: null
+      type: select_one
+      options:
+      - Sales Representative 1
+      - Sales Representative 2
+      - Sales Representative 3
+      required: false
+    - id: 2
+      name: sales_onboarding_program
+      label: Sales Onboarding Program
+      hint: null
+      type: select_multiple
+      options:
+      - Sales Onboarding Program 1
+      - Sales Onboarding Program 2
+      - Sales Onboarding Program 3
+      required: false
+    - id: 3
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: sales_manager
+      label: Sales Manager
+      hint: null
+      type: select_one
+      options:
+      - Sales Manager 1
+      - Sales Manager 2
+      - Sales Manager 3
+      required: false
+    - id: 5
+      name: territory
+      label: Territory
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: sales_rep_name
+      label: Sales Rep Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: sales_rep_email
+      label: Sales Rep Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: sales_rep_phone
+      label: Sales Rep Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: sales_onboarding_start_date
+      label: Onboarding Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: sales_onboarding_end_date
+      label: Onboarding End Date
+      hint: null
+      type: date
+      options: []
+      required: false

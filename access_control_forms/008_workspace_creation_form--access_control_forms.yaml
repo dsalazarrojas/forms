@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workspace Creation Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Workspace Creation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - John Doe
+      - Jane Doe
+      - Bob Smith
+      - Alice Smith
+      required: false
+    - id: 3
+      name: access_preferences
+      label: Access Preferences
+      hint: null
+      type: select_one
+      options:
+      - Public
+      - Private
+      - Protected
+      required: false
+    - id: 4
+      name: team_invite
+      label: Team Invite
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - IT
+      - Development
+      - Marketing
+      - Finance
+      required: false
+    - id: 6
+      name: workspace_url
+      label: Workspace URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: workspace_type
+      label: Workspace Type
+      hint: null
+      type: select_one
+      options:
+      - Team
+      - Project
+      - Community
+      - Event
+      required: false
+    - id: 8
+      name: workspace_description
+      label: Workspace Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: workspace_name
+      label: Workspace Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: launch_date
+      label: Launch Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false

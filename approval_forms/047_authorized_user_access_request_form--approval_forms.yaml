@@ -1,0 +1,184 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Authorized User Access Request Form
+    pages:
+      - id: 1
+        name: request_date
+        label: Request Date
+        hint: Date of access request
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: employee_name
+        label: Employee Full Name
+        hint: Name of person requesting access
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: employee_id
+        label: Employee ID
+        hint: Your employee identification
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: employee_email
+        label: Employee Email
+        hint: Your work email
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: department_name
+        label: Department Name
+        hint: Your department
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: job_title
+        label: Current Job Title
+        hint: Your position
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: manager_name
+        label: Manager or Supervisor Name
+        hint: Your direct manager
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: manager_email
+        label: Manager Email
+        hint: Manager contact email
+        type: email
+        options: []
+        required: true
+      - id: 9
+        name: access_type
+        label: Type of Access Requested
+        hint: What system or resource
+        type: select_one
+        options: ['Software Application', 'Database Access', 'Network Drive', 'VPN Access', 'Physical Space', 'Equipment', 'Cloud Service', 'Multiple Access Types']
+        required: true
+      - id: 10
+        name: system_name
+        label: System or Resource Name
+        hint: Name of system needing access
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: access_level
+        label: Access Level Required
+        hint: What level of access needed
+        type: select_one
+        options: ['Read Only', 'View and Download', 'Edit and Modify', 'Full Administrative', 'Custom - Specify Below']
+        required: true
+      - id: 12
+        name: access_level_details
+        label: Detailed Access Requirements
+        hint: Specific access needed
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: business_justification
+        label: Business Justification
+        hint: Why do you need this access
+        type: text
+        options: []
+        required: true
+      - id: 14
+        name: start_date
+        label: Date Access Needed
+        hint: When do you need access to begin
+        type: date
+        options: []
+        required: true
+      - id: 15
+        name: end_date
+        label: End Date (if temporary)
+        hint: When access can be removed
+        type: date
+        options: []
+        required: false
+      - id: 16
+        name: access_duration
+        label: Access Duration Type
+        hint: Is this temporary or permanent
+        type: select_one
+        options: ['Permanent', 'Temporary - Specific Period', 'Until Project Completion', 'As Needed - Review Required']
+        required: true
+      - id: 17
+        name: project_related
+        label: Is This Project Related
+        hint: Is access for specific project
+        type: select_one
+        options: ['No - Ongoing Role', 'Yes - Specific Project', 'Yes - Multiple Projects', 'Yes - Temporary Assignment']
+        required: true
+      - id: 18
+        name: project_name
+        label: Project Name
+        hint: If applicable
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: confidentiality_agreement
+        label: Confidentiality Agreement Signed
+        hint: Have you signed NDA/confidentiality agreement
+        type: select_one
+        options: ['Yes - Signed', 'No - Need to Sign', 'N/A - Not Required']
+        required: true
+      - id: 20
+        name: security_training
+        label: Security Training Completed
+        hint: Completed relevant security training
+        type: select_one
+        options: ['Yes - Completed', 'In Progress', 'Not Required', 'Waived']
+        required: true
+      - id: 21
+        name: approval_status
+        label: Manager Approval Status
+        hint: Has manager approved this
+        type: select_one
+        options: ['Pending Approval', 'Approved', 'Conditional Approval', 'Denied', 'Needs Discussion']
+        required: true
+      - id: 22
+        name: manager_comments
+        label: Manager Comments
+        hint: Any notes from manager
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: it_processing
+        label: IT Department Processing Status
+        hint: Status of IT processing
+        type: select_one
+        options: ['Awaiting IT Review', 'In Progress', 'Completed', 'Escalated', 'On Hold']
+        required: false
+      - id: 24
+        name: additional_notes
+        label: Additional Notes or Information
+        hint: Any other details
+        type: text
+        options: []
+        required: false

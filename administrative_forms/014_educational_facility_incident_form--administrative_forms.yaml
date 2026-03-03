@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Facility Incident Form
+    pages:
+    - id: 1
+      name: incident_description
+      label: Educational Facility Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: occurred_at
+      label: occurred_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_multiple
+      options:
+      - Other
+      - Fire
+      - Weather
+      - Injury
+      - Theft
+      - Vandalism
+      - Bomb Threat
+      required: true
+    - id: 5
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: incident_reporter
+      label: Incident Reporter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_reported_by
+      label: Incident Reported By
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Faculty
+      - Staff
+      - Parent
+      required: true
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_image_url
+      label: Incident Image URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: incident_reported_on_site
+      label: Reported On Site
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
+      name: incident_description_part_2
+      label: Educational Facility Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: incident_description_part_3
+      label: Educational Facility Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: incident_description_part_4
+      label: Educational Facility Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false

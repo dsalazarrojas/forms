@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: ServiceNow Knowledge Assessment
+    pages:
+    - id: 1
+      name: intro_question
+      label: What is ServiceNow
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: adoption_level
+      label: adoption_level
+      hint: Please select your level of adoption.
+      type: select_one
+      options:
+      - Basic
+      - Advanced
+      - Expert
+      required: false
+    - id: 3
+      name: skill_level
+      label: What is your skill level with ServiceNow
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 4
+      name: knowledge_area
+      label: Which ServiceNow knowledge area do you have experience with?
+      hint: null
+      type: select_multiple
+      options:
+      - ITSM
+      - ITNM
+      - ITOM
+      required: false
+    - id: 5
+      name: time_spent
+      label: How many hours have you spent in ServiceNow?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: training_hours
+      label: How many hours have you spent on ServiceNow training?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: additional_feedback
+      label: Do you have any additional feedback about ServiceNow?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false

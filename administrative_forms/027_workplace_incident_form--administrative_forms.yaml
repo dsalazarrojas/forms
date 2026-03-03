@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Incident Form
+    pages:
+    - id: 1
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_involvement
+      label: Employee Involvement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_occurrence
+      label: Date Of Occurrence
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_occurrence
+      label: Time Of Occurrence
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: witnesses
+      label: Witnesses
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: investigation_status
+      label: Investigation Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: incident_reported
+      label: Incident Reported
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: incident_confirmed
+      label: Incident Confirmed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: incident_documented
+      label: Incident Documented
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_closed
+      label: Incident Closed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: report_type
+      label: Report Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_frequency
+      label: Follow Up Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_status
+      label: Follow Up Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 22
+      name: next_follow_up_date
+      label: Next Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: reporting_officer_id
+      label: Reporting Officer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_notes
+      label: Follow Up Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_frequency_type
+      label: Follow Up Frequency Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

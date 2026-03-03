@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: third_party_vendor_access_form
+    pages:
+    - id: 1
+      name: vendor_name
+      label: Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendor_address
+      label: Vendor Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vendor_phone_number
+      label: Vendor Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vendor_email
+      label: Vendor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: access_type
+      label: Access Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Read-Only''}'
+      - '{''id'': 2, ''name'': ''Read-Write''}'
+      - '{''id'': 3, ''name'': ''Full Access''}'
+      required: false
+    - id: 6
+      name: access_expiration_date
+      label: Access Expiration Date (mm/dd/yyyy)
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: access_expiration_time
+      label: Access Expiration Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: vendor_representative_name
+      label: Vendor Representative Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vendor_representative_email
+      label: Vendor Representative Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: vendor_representative_phone
+      label: Vendor Representative Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

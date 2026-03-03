@@ -1,0 +1,170 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Accident Incident Form
+    pages:
+    - id: 1
+      name: incident_reporter_name
+      label: Incident Reporter Name
+      hint: Name of the person reporting the accident
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reporter_position
+      label: Reporter Position
+      hint: Job title or position of the reporter
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: incident_date
+      label: Incident Date
+      hint: Date when the accident occurred
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: incident_time
+      label: Incident Time
+      hint: Time when the accident occurred
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: incident_location
+      label: Incident Location
+      hint: Specific location where the accident occurred
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: injured_employee_name
+      label: Injured Employee Name
+      hint: Full name of the employee involved in the accident
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: employee_id
+      label: Employee ID
+      hint: Employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: employee_department
+      label: Employee Department
+      hint: Department where the employee works
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: employee_position
+      label: Employee Position
+      hint: Job title or position of the injured employee
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: employee_supervisor
+      label: Employee Supervisor
+      hint: Name of the employee's direct supervisor
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: incident_type
+      label: Incident Type
+      hint: Type of accident that occurred
+      type: select_one
+      options: ["Slip/Trip/Fall", "Struck by Object", "Caught in/Between", "Overexertion", "Vehicle Accident", "Chemical Exposure", "Burn", "Cut/Laceration", "Other"]
+      required: true
+    - id: 12
+      name: activity_during_incident
+      label: Activity During Incident
+      hint: What was the employee doing when the accident occurred?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: body_parts_affected
+      label: Body Parts Affected
+      hint: Which parts of the body were injured?
+      type: select_multiple
+      options: ["Head", "Neck", "Shoulders", "Arms", "Hands", "Back", "Legs", "Feet", "Multiple Areas", "Other"]
+      required: true
+    - id: 14
+      name: injury_severity
+      label: Injury Severity
+      hint: How severe was the injury?
+      type: select_one
+      options: ["Fatal", "Lost Time", "Medical Treatment", "First Aid Only", "No Injury", "Near Miss"]
+      required: true
+    - id: 15
+      name: immediate_causes
+      label: Immediate Causes
+      hint: What immediate factors caused the accident?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: contributing_factors
+      label: Contributing Factors
+      hint: What other factors contributed to the accident?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: witnesses_present
+      label: Witnesses Present
+      hint: Were there any witnesses to the accident?
+      type: select_one
+      options: ["Yes", "No"]
+      required: true
+    - id: 18
+      name: witness_details
+      label: Witness Details
+      hint: Names and contact information of witnesses
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: corrective_actions_taken
+      label: Corrective Actions Taken
+      hint: What immediate actions were taken after the accident?
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: preventive_measures
+      label: Preventive Measures
+      hint: What measures will be implemented to prevent similar accidents?
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: supervisor_signature
+      label: Supervisor Signature
+      hint: Signature of the employee's supervisor
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: signature_date
+      label: Signature Date
+      hint: Date of supervisor's signature
+      type: date
+      options: []
+      required: true

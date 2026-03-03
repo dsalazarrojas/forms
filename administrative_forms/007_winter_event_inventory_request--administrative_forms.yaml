@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: winter_event_inventory_request
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: event_item_type
+      label: Event Item Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: items_needed
+      label: Items Needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_manager_name
+      label: Event Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_manager_email
+      label: Event Manager Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false

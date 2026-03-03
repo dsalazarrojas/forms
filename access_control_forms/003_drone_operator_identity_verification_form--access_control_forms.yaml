@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: drone_operator_identity_verification_form
+    pages:
+    - id: 1
+      name: drone_operator_identity_verification_form_page_1
+      label: drone_pilot_identification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: drone_pilot_name
+      label: drone_pilot_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: drone_operator_license_number
+      label: drone_license_number
+      hint: null
+      type: text
+      options: []
+      required: false

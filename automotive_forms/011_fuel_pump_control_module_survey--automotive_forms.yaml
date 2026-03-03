@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fuel Pump Control Module Survey
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: fuel_pump_type
+      label: Fuel Pump Type
+      hint: null
+      type: select_one
+      options:
+      - Fuel Pump Type 1
+      - Fuel Pump Type 2
+      - Fuel Pump Type 3
+      required: false
+    - id: 3
+      name: control_module_type
+      label: Control Module Type
+      hint: null
+      type: select_one
+      options:
+      - Control Module Type 1
+      - Control Module Type 2
+      - Control Module Type 3
+      required: false
+    - id: 4
+      name: control_module_version
+      label: Control Module Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: pump_control_status
+      label: Pump Control Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pump Control Status 1
+      - Pump Control Status 2
+      - Pump Control Status 3
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: Please provide any additional comments
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false

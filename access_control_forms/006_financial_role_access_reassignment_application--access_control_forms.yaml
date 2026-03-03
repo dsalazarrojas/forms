@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Role Access Reassignment Application
+    pages:
+    - id: 1
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: financial_role_id
+      label: Financial Role ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: current_date
+      label: Current Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: reason_for_change
+      label: Reason for Change
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: approver_id
+      label: Approver ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: approver_name
+      label: Approver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: approver_email
+      label: Approver Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: approver_phone
+      label: Approver Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: approver_comments
+      label: Approver Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: financial_department
+      label: Financial Department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: approver_goals
+      label: Approver Goals
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 100, ''label'': ''Financial''}'
+      - '{''id'': 101, ''label'': ''IT''}'
+      - '{''id'': 102, ''label'': ''HR''}'
+      required: true
+    - id: 12
+      name: approver_notes
+      label: Approver Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: role_name
+      label: Role Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: role_level
+      label: Role Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: true
+    - id: 15
+      name: role_updated_at
+      label: Role Updated At
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: user_id2
+      label: User ID 2
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: financial_department2
+      label: Financial Department 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: approver_id2
+      label: Approver ID 2
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: approver_notes2
+      label: Approver Notes 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: role_name2
+      label: Role Name 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: role_level2
+      label: Role Level 2
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 22
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: time
+      options: []
+      required: false

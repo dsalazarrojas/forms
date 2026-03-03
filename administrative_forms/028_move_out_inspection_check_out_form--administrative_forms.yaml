@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Move Out Inspection Check Out Form
+    pages:
+    - id: 1
+      name: tenant_move_out_details
+      label: Move Out Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_condition
+      label: Property Condition
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Fair
+      - Poor
+      required: false
+    - id: 3
+      name: photos_taken
+      label: Photos Taken
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: property_manager_comments
+      label: Property Manager Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: landlord_comments
+      label: Landlord Comments
+      hint: null
+      type: note
+      options: []
+      required: false

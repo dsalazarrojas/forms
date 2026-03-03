@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: HVAC System Requisition Form
+    pages:
+    - id: 1
+      name: requisitioner_id
+      label: Requisitioner
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: requisition_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: required_heating_type
+      label: Required Heating Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''text'': ''Gas''}'
+      - '{''value'': 2, ''text'': ''Electric''}'
+      - '{''value'': 3, ''text'': ''Solar''}'
+      - '{''value'': 4, ''text'': ''Other''}'
+      required: false
+    - id: 4
+      name: required_air_conditioning
+      label: Required Air Conditioning Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''text'': ''Central Air''}'
+      - '{''value'': 2, ''text'': ''Window Unit''}'
+      - '{''value'': 3, ''text'': ''No AC''}'
+      required: false
+    - id: 5
+      name: total_rooms
+      label: Total Rooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: sqft_per_room
+      label: Sqft/Room
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: installation_cost
+      label: Installation Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: inspection_cost
+      label: Inspection Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: labor_cost
+      label: Labor Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: material_cost
+      label: Material Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: other_costs
+      label: Other Costs
+      hint: null
+      type: number
+      options: []
+      required: false

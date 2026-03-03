@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Office Setup Checklist Form
+    pages:
+    - id: 1
+      name: home_office_setup_checklist_form
+      label: office_space
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: office_equipment_needed
+      label: office_equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Printer
+      - Scanner
+      - Computer
+      required: true
+    - id: 3
+      name: office_furniture_needed
+      label: office_furniture
+      hint: null
+      type: select_one
+      options:
+      - Desk
+      - Chair
+      - Shelving
+      required: true
+    - id: 4
+      name: office_supplies_needed
+      label: office_supplies
+      hint: null
+      type: select_one
+      options:
+      - Paper
+      - Pens
+      - Highlighters
+      required: true
+    - id: 5
+      name: office_space_size
+      label: office_space_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: office_setup_location
+      label: office_setup_location
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Office
+      - Hotel
+      required: true
+    - id: 7
+      name: work_space_description
+      label: work_space_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

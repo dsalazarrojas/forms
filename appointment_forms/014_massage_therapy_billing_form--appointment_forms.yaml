@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: massage_therapy_billing_form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_dob
+      label: patient_dob
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: patient_email
+      label: patient_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: patient_phone
+      label: patient_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_address
+      label: patient_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: treatment_type
+      label: treatment_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Massage''}'
+      - '{''label'': ''Physical Therapy''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: num_sessions
+      label: num_sessions
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: session_duration
+      label: session_duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: session_frequency
+      label: session_frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: treatment_start
+      label: treatment_start
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: treatment_notes
+      label: treatment_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: payment_type
+      label: payment_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Cash''}'
+      - '{''label'': ''Credit Card''}'
+      - '{''label'': ''Insurance''}'
+      required: true
+    - id: 13
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Online''}'
+      - '{''label'': ''In-Office''}'
+      required: true
+    - id: 15
+      name: payment_notes
+      label: payment_notes
+      hint: null
+      type: text
+      options: []
+      required: false

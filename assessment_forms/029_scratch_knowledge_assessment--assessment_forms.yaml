@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scratch Knowledge Assessment
+    pages:
+    - id: 1
+      name: intro_page
+      label: Intro Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: quiz_page
+      label: Quiz
+      hint: null
+      type: select_multiple
+      options:
+      - A
+      - B
+      - C
+      required: true
+    - id: 3
+      name: feedback_page
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: project_page
+      label: Project
+      hint: null
+      type: select_multiple
+      options:
+      - A
+      - B
+      - C
+      required: true
+    - id: 5
+      name: submit_page
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: student_info
+      label: Student Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email_page
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: teacher_info
+      label: Teacher Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: score_page
+      label: Score
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      required: true
+    - id: 10
+      name: submit_button
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: review_page
+      label: Review
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: comments_page
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: project_experience
+      label: Project Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: confidence_level
+      label: Confidence Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 15
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: student_surname
+      label: Student Surname
+      hint: null
+      type: text
+      options: []
+      required: false

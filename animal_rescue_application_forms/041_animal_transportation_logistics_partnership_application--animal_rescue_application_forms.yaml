@@ -1,0 +1,356 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Transportation Logistics Partnership Application
+    pages:
+    - id: 1
+      name: section_company_info
+      label: -- Company Information --
+      hint: Details about your transport company
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Legal company name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_type
+      label: Company Type
+      hint: What kind of company
+      type: select_one
+      options:
+      - Transportation Company
+      - Logistics Coordinator
+      - Rescue Organization
+      - Shelter
+      - Volunteer Network
+      - Other
+      required: true
+    - id: 4
+      name: years_in_business
+      label: Years in Business
+      hint: How long operating
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: company_address
+      label: Company Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: company_state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: company_zip
+      label: Zip Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: company_website
+      label: Company Website
+      hint: URL
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_contact_info
+      label: -- Primary Contact Information --
+      hint: Contact person details
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: contact_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contact_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: contact_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: contact_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: contact_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: contact_secondary_name
+      label: Secondary Contact Name
+      hint: Backup contact person
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_secondary_phone
+      label: Secondary Contact Phone
+      hint: Backup contact number
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_transport_services
+      label: -- Transport Services Offered --
+      hint: What you can provide
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: animal_types_transported
+      label: Types of Animals Transported
+      hint: Select all applicable
+      type: select_multiple
+      options:
+      - Dogs
+      - Cats
+      - Small Animals
+      - Birds
+      - Horses
+      - Exotic Animals
+      - Wildlife
+      - All Types
+      required: true
+    - id: 20
+      name: transport_distance_capability
+      label: Maximum Transport Distance
+      hint: How far you can transport
+      type: select_one
+      options:
+      - Local (under 50 miles)
+      - Regional (50-200 miles)
+      - Statewide (200-500 miles)
+      - National
+      - International
+      required: true
+    - id: 21
+      name: transport_methods
+      label: Transport Methods Available
+      hint: How you transport animals
+      type: select_multiple
+      options:
+      - Ground transport
+      - Air transport
+      - Combined transport
+      - Specialized vehicles
+      required: true
+    - id: 22
+      name: volume_capacity
+      label: Monthly Transport Volume Capacity
+      hint: Number of animals per month
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: emergency_transport
+      label: Emergency Transport Available
+      hint: Can provide urgent transport
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Limited
+      required: true
+    - id: 24
+      name: climate_controlled_transport
+      label: Climate Controlled Transport Available
+      hint: Temperature controlled vehicles
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Some Vehicles
+      required: true
+    - id: 25
+      name: section_experience
+      label: -- Experience and References --
+      hint: Your background and credentials
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: years_animal_transport
+      label: Years of Animal Transport Experience
+      hint: Total experience in field
+      type: number
+      options: []
+      required: true
+    - id: 27
+      name: total_animals_transported
+      label: Approximate Total Animals Transported
+      hint: Lifetime total
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: current_partners
+      label: Current Partner Organizations
+      hint: Who you work with now
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: certifications_licenses
+      label: Relevant Certifications or Licenses
+      hint: Professional credentials
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: section_compliance
+      label: -- Compliance and Standards --
+      hint: Safety and regulatory compliance
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: liability_insurance
+      label: Current Liability Insurance
+      hint: Amount of coverage
+      type: number
+      options: []
+      required: true
+    - id: 32
+      name: animal_welfare_standards
+      label: Animal Welfare Standards Followed
+      hint: Select applicable standards
+      type: select_multiple
+      options:
+      - USDA Standards
+      - IATA Standards
+      - State Regulations
+      - Industry Best Practices
+      - Own High Standards
+      required: true
+    - id: 33
+      name: safety_record
+      label: Safety and Incident Record
+      hint: Overview of safety history
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: complaints_history
+      label: Any Complaints or Violations
+      hint: Past regulatory issues
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 35
+      name: complaints_details
+      label: Details of Any Complaints
+      hint: If yes, provide information
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: section_capabilities
+      label: -- Special Capabilities --
+      hint: Unique services or abilities
+      type: note
+      options: []
+      required: false
+    - id: 37
+      name: special_services
+      label: Special Services Offered
+      hint: Beyond basic transport
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: technology_systems
+      label: Tracking or Monitoring Technology
+      hint: GPS, health monitoring, etc
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: cost_structure
+      label: General Cost Structure
+      hint: How you price services
+      type: text
+      options: []
+      required: true
+    - id: 40
+      name: section_partnership
+      label: -- Partnership Interest --
+      hint: Your interest in partnering
+      type: note
+      options: []
+      required: false
+    - id: 41
+      name: partnership_goals
+      label: Partnership Goals
+      hint: What you want to achieve
+      type: text
+      options: []
+      required: true
+    - id: 42
+      name: partnership_commitment
+      label: Commitment Level
+      hint: How committed to partnership
+      type: select_one
+      options:
+      - Exploring only
+      - Casual interest
+      - Serious interest
+      - Fully committed
+      required: true
+    - id: 43
+      name: availability_for_partnership
+      label: Available for Regular Transports
+      hint: Can participate consistently
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Seasonal
+      required: true
+    - id: 44
+      name: additional_information
+      label: Additional Information
+      hint: Any other relevant details
+      type: text
+      options: []
+      required: false

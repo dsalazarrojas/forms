@@ -1,0 +1,69 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Debit Card Application Form
+    pages:
+    - id: 1
+      name: application_information
+      label: Application Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: card_details
+      label: Card Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: card_type
+      label: Card Type
+      hint: Select the type of card you would like to apply for
+      type: select_one
+      options:
+      - Cash
+      - Debit
+      - Credit
+      - Prepaid
+      required: false
+    - id: 5
+      name: card_number
+      label: Card Number
+      hint: 16-digit debit card number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: expiration_date
+      label: Expiration Date
+      hint: mm/yy or mm/yy
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: cvv
+      label: CVV
+      hint: Card Verification Value (CVV)
+      type: text
+      options: []
+      required: false

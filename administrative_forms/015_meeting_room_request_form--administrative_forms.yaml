@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: Meeting Room Request Form
+    pages:
+    - id: 1
+      name: meeting_room_start_date
+      label: Meeting Room Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: meeting_room_start_time
+      label: Meeting Room Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: meeting_room_end_time
+      label: Meeting Room End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: meeting_room_duration
+      label: Meeting Room Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: meeting_room_requester_name
+      label: Meeting Room Requester Name
+      hint: null
+      type: text
+      options: []
+      required: false

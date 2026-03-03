@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fleet Maintenance Declaration Form
+    pages:
+    - id: 1
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vin
+      label: Vehicle Identification Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: last_service_date
+      label: Last Service Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: odometer_reading
+      label: Odometer Reading
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: maintenance_due_date
+      label: Maintenance Due Date
+      hint: null
+      type: date
+      options: []
+      required: false

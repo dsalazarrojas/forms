@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post Test Assessment Survey
+    pages:
+    - id: 1
+      name: post_test_assessment_survey
+      label: How was the training session?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 2
+      name: participant_experiences
+      label: What were your participant experiences?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: future_programs
+      label: How can we improve future programs?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_engagement
+      label: How engaged did you feel during the session?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: program_evaluation
+      label: How would you evaluate this program?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: session_evaluation
+      label: How would you evaluate this session?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: session_length
+      label: How long should this session be?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: session_duration
+      label: How long should this session be?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: feedback
+      label: Do you have any other feedback?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email_address
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Rescue Intake Form
+    pages:
+    - id: 1
+      name: intake_date
+      label: Date of Intake
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: animal_name_temp
+      label: Animal Name - if known or temporary
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: location_found
+      label: Found or Surrender Location
+      hint: Street address or crossroads
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: animal_species_breed
+      label: Species and Estimated Breed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: age_estimate
+      label: Approximate Age or Life Stage
+      hint: e.g. Puppy, Adult, Senior
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: animal_gender
+      label: Animal Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Unknown - Not yet examined
+      required: true
+    - id: 7
+      name: microchip_status
+      label: Microchip Status
+      hint: null
+      type: select_one
+      options:
+      - Microchip Found
+      - No Microchip Found
+      - Needs Scanning or Check
+      required: true
+    - id: 8
+      name: temperament_observation
+      label: Initial Temperament Observation
+      hint: Friendly, Aggressive, Fearful, Shy
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_issues_noted
+      label: Known or Visible Medical Issues
+      hint: Wounds, limping, skin conditions
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: current_weight_lbs
+      label: Current Weight - lbs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: initial_treatment
+      label: Initial Treatment Administered on Intake
+      hint: Flea treatment, vaccines, hydration
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: intake_officer_name
+      label: Intake Staff Member Name
+      hint: null
+      type: text
+      options: []
+      required: true

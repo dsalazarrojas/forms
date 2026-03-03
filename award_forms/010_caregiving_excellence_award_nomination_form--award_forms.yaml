@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Caregiving Excellence Award Nomination Form
+    pages:
+    - id: 1
+      name: section_nominator_info
+      label: -- Nominator Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: nominator_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: nominator_email
+      label: Your Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: nominator_phone
+      label: Your Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: relationship_to_nominee
+      label: Your relationship to the nominee
+      hint: null
+      type: select_one
+      options:
+      - Supervisor
+      - Peer
+      - Client
+      - Client Family
+      - Community Member
+      - Other
+      required: true
+    - id: 6
+      name: section_nominee_info
+      label: -- Nominee Information --
+      hint: Information about the person you are nominating
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: nominee_name
+      label: Nominee's Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: nominee_department
+      label: Nominee's Department or Unit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: nominee_job_title
+      label: Nominee's Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: nominee_years_service
+      label: Nominee's years of service
+      hint: If known, provide total years with the organization
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: section_nomination_details
+      label: -- Nomination Details --
+      hint: Choose the most appropriate award category
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: award_category
+      label: Award Category
+      hint: null
+      type: select_one
+      options:
+      - Rookie of the Year
+      - Compassion Award
+      - Leadership in Care
+      - Community Impact
+      - Innovation in Care
+      - Lifetime Achievement
+      required: true
+    - id: 13
+      name: core_strengths
+      label: What are the nominee's primary strengths?
+      hint: Select up to 3 qualities
+      type: select_multiple
+      options:
+      - Empathy
+      - Problem Solving
+      - Reliability
+      - Clinical Excellence
+      - Teamwork
+      - Advocacy
+      required: true
+    - id: 14
+      name: reason_for_nomination
+      label: Why are you nominating this person for this award?
+      hint: Provide a brief summary of their excellence
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: section_evidence
+      label: -- Evidence and Examples --
+      hint: Use specific examples to support your nomination
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: specific_example
+      label: Please share a specific example of when this person went above and beyond
+      hint: Be as detailed as possible
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: patient_impact
+      label: Describe the impact of the nominee's care on patients or clients
+      hint: How have they improved outcomes or lives?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: peer_impact
+      label: Describe the impact of the nominee on their colleagues or team
+      hint: How have they influenced the work environment?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_additional_support
+      label: -- Additional Support --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: supporting_documents
+      label: List any supporting documents you can provide
+      hint: Letters of recommendation, patient testimonials, etc.
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_final_confirmation
+      label: -- Final Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: nominator_confirmation
+      label: I certify that the information provided is accurate
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: submission_date
+      label: Today's Date
+      hint: null
+      type: date
+      options: []
+      required: true

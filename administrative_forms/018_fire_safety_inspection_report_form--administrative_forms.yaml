@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Safety Inspection Report Form
+    pages:
+    - id: 1
+      name: fire_safety_inspection_form
+      label: fire_safety_inspection_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: fire_inspector_name
+      label: fire_inspector_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: fire_inspector_email
+      label: fire_inspector_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: fire_inspector_phone
+      label: fire_inspector_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: facility_name
+      label: facility_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: facility_address
+      label: facility_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: fire_hazards
+      label: fire_hazards
+      hint: null
+      type: select_one
+      options:
+      - fire_extinguishing_systems
+      - fire_safety_equipment
+      - fire_safety_signs
+      - fire_exit_routes
+      - fire_drills
+      - fire_safety_plan
+      - fire_safety_training
+      - emergency_exit_plan
+      - fire_hazards
+      - emergency_contact_numbers
+      - fire_safety_equipment_testing
+      required: false
+    - id: 8
+      name: fire_equipment
+      label: fire_equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: fire_equipment_status
+      label: fire_equipment_status
+      hint: null
+      type: select_multiple
+      options:
+      - working
+      - not_working
+      - needs_repair
+      - needs_inspection
+      - not_required
+      required: false
+    - id: 10
+      name: fire_safety_equipment_testing
+      label: fire_safety_equipment_testing
+      hint: null
+      type: select_multiple
+      options:
+      - pass
+      - fail
+      - pending
+      required: false
+    - id: 11
+      name: fire_safety_equipment_inspection_date
+      label: fire_safety_equipment_inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: fire_safety_equipment_last_inspection_date
+      label: fire_safety_equipment_last_inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false

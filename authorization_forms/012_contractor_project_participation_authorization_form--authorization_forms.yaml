@@ -1,0 +1,243 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contractor Project Participation Authorization Form
+    pages:
+    - id: 1
+      name: contractor_name
+      label: Contractor Full Name
+      hint: Legal name of the contractor
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contractor_email
+      label: Email Address
+      hint: Primary email for communication
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contractor_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Name of contracting company if applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_project_info
+      label: -- Project Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: project_name
+      label: Project Name
+      hint: Official name of the project
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: project_code
+      label: Project Code or ID
+      hint: Internal project identifier
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_description
+      label: Project Description
+      hint: Brief overview of project scope
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: project_location
+      label: Project Location
+      hint: Where will work be performed
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: client_name
+      label: Client Name
+      hint: Name of the client or customer
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_participation
+      label: -- Participation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: role_on_project
+      label: Your Role on This Project
+      hint: What is your function
+      type: select_one
+      options:
+      - Lead Contractor
+      - Subcontractor
+      - Consultant
+      - Specialist
+      - Labor
+      - Project Manager
+      - Other
+      required: true
+    - id: 13
+      name: start_date
+      label: Participation Start Date
+      hint: When will you begin work
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: estimated_end_date
+      label: Estimated End Date
+      hint: When is work expected to complete
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: estimated_hours
+      label: Estimated Total Hours
+      hint: Approximate hours to be worked
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: hourly_rate
+      label: Hourly Rate
+      hint: Your billing rate per hour
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: section_authorization
+      label: -- Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: authorized_to_participate
+      label: I am authorized to participate in this project
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: understand_scope
+      label: I understand the project scope and requirements
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: agree_to_terms
+      label: I agree to the project terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: confidentiality_agreement
+      label: I agree to maintain confidentiality
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: section_safety
+      label: -- Safety and Compliance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: safety_training_completed
+      label: Required safety training completed
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Scheduled
+      required: true
+    - id: 24
+      name: ppe_required
+      label: Personal Protective Equipment Required
+      hint: Do you have required PPE
+      type: select_one
+      options:
+      - Yes - I have all required PPE
+      - Need PPE provided
+      - Not applicable
+      required: true
+    - id: 25
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: section_supervisor
+      label: -- Supervisor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: supervisor_name
+      label: Project Supervisor Name
+      hint: Name of supervising manager
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: supervisor_email
+      label: Project Supervisor Email
+      hint: Email of supervising manager
+      type: email
+      options: []
+      required: true
+    - id: 30
+      name: authorization_date
+      label: Authorization Date
+      hint: Date of this authorization
+      type: date
+      options: []
+      required: true
+    - id: 31
+      name: additional_comments
+      label: Additional Comments or Concerns
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

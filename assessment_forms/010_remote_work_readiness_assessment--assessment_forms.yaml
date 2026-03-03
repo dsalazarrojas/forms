@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Work Readiness Assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: remote_work_readiness_questions
+      label: Remote Work Readiness Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_details
+      label: Employee Details
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 4, ''name'': ''remote_work_ready'', ''value'': 1}'
+      - '{''id'': 5, ''name'': ''remote_work_in_progress'', ''value'': 2}'
+      - '{''id'': 6, ''name'': ''not_applicable'', ''value'': 3}'
+      required: false
+    - id: 4
+      name: remote_work_status
+      label: Remote Work Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 8, ''name'': ''remote_work_status_1'', ''value'': 1}'
+      - '{''id'': 9, ''name'': ''remote_work_status_2'', ''value'': 2}'
+      - '{''id'': 10, ''name'': ''remote_work_status_3'', ''value'': 3}'
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employee_comments
+      label: Employee Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: remote_work_readiness_date
+      label: Remote Work Readiness Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: remote_work_end_date
+      label: Remote Work End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: remote_work_frequency
+      label: Remote Work Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: remote_work_location
+      label: Remote Work Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: remote_work_duration
+      label: Remote Work Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: remote_work_frequency_2
+      label: Remote Work Frequency 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: remote_work_type
+      label: Remote Work Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 21, ''name'': ''full-time'', ''value'': 1}'
+      - '{''id'': 22, ''name'': ''part-time'', ''value'': 2}'
+      - '{''id'': 23, ''name'': ''flexible'', ''value'': 3}'
+      - '{''id'': 24, ''name'': ''variable'', ''value'': 4}'
+      required: false
+    - id: 15
+      name: remote_work_readiness_assessment_status
+      label: Remote Work Readiness Assessment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 26, ''name'': ''completed'', ''value'': 1}'
+      - '{''id'': 27, ''name'': ''in_progress'', ''value'': 2}'
+      - '{''id'': 28, ''name'': ''not_started'', ''value'': 3}'
+      - '{''id'': 29, ''name'': ''completed_with_issues'', ''value'': 4}'
+      required: false

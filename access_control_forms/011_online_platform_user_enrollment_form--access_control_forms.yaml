@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Platform User Enrollment Form
+    pages:
+    - id: 1
+      name: user_details
+      label: user_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: username
+      label: username
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: password
+      label: password
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: confirm_password
+      label: confirm_password
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: signup_details
+      label: signup_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: preferred_language
+      label: preferred_language
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''English''}'
+      - '{''id'': 2, ''value'': ''French''}'
+      - '{''id'': 3, ''value'': ''Spanish''}'
+      required: false
+    - id: 8
+      name: preferred_timezone
+      label: preferred_timezone
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''UTC-0''}'
+      - '{''id'': 2, ''value'': ''UTC-1''}'
+      - '{''id'': 3, ''value'': ''UTC-2''}'
+      required: false
+    - id: 9
+      name: user_notes
+      label: user_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: confirm_enrollment
+      label: confirm_enrollment
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Enroll''}'
+      - '{''id'': 2, ''value'': ''Cancel''}'
+      required: false
+    - id: 11
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: phone_type
+      label: phone_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Mobile''}'
+      - '{''id'': 2, ''value'': ''Landline''}'
+      required: false
+    - id: 13
+      name: time_of_day
+      label: time_of_day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: enrollment_date
+      label: enrollment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: email_notification
+      label: email_notification
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': True}'
+      - '{''id'': 2, ''value'': False}'
+      required: false
+    - id: 16
+      name: user_email
+      label: user_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: user_timezone
+      label: user_timezone
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''UTC0''}'
+      - '{''id'': 2, ''value'': ''UTC1''}'
+      - '{''id'': 3, ''value'': ''UTC2''}'
+      required: false
+    - id: 18
+      name: user_timezone_offset
+      label: user_timezone_offset
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': 0}'
+      - '{''id'': 2, ''value'': 1}'
+      - '{''id'': 3, ''value'': 2}'
+      required: false
+    - id: 19
+      name: account_status
+      label: account_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Active''}'
+      - '{''id'': 2, ''value'': ''Inactive''}'
+      required: false
+    - id: 20
+      name: account_type
+      label: account_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Standard''}'
+      - '{''id'': 2, ''value'': ''Premium''}'
+      required: false
+    - id: 21
+      name: account_plan
+      label: account_plan
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Monthly''}'
+      - '{''id'': 2, ''value'': ''Yearly''}'
+      required: false
+    - id: 22
+      name: account_plan_term
+      label: account_plan_term
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: account_plan_start_date
+      label: account_plan_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: account_plan_end_date
+      label: account_plan_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false

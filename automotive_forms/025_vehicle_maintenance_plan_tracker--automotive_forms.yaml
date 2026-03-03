@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Maintenance Plan Tracker
+    pages:
+    - id: 1
+      name: vehicle_maintenance
+      label: Vehicle Maintenance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_history
+      label: Service History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: upcoming_maintenance
+      label: Upcoming Maintenance
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: report
+      label: Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_year
+      label: Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_make
+      label: Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_model
+      label: Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_registration_number
+      label: Registration Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_ownership_status
+      label: Ownership Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

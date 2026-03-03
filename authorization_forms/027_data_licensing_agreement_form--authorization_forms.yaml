@@ -1,0 +1,97 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: data_licensing_agreement_form
+    pages:
+    - id: 1
+      name: data_provider
+      label: dataProvider
+      hint: null
+      type: select_one
+      options:
+      - Data Provider
+      - Other
+      required: false
+    - id: 2
+      name: organization
+      label: organization
+      hint: null
+      type: select_multiple
+      options:
+      - Research Team
+      - Organization
+      required: false
+    - id: 3
+      name: permitted_use
+      label: permitted_use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: signatures
+      label: Signatures
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: terms_acceptance
+      label: termsAcceptance
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: acknowledgement
+      label: acknowledgement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: terms_and_conditions
+      label: termsAndConditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: signature_date
+      label: signatureDate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: signature_time
+      label: signatureTime
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: data_license_agreement
+      label: dataLicenseAgreement
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Substance Influence Assessment
+    pages:
+    - id: 1
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: substance_suspected
+      label: Suspected Substance
+      hint: null
+      type: select_one
+      options:
+      - Amphetamines
+      - Benzodiazepines
+      - Cocaine
+      - Opioids
+      - PCP
+      - Synthetic Cannabinoids
+      - Other (Specify)
+      required: false
+    - id: 3
+      name: assessor_details
+      label: Assessor Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: incident_observation
+      label: Incident Observation
+      hint: null
+      type: select_multiple
+      options:
+      - Headache or Dizziness
+      - Lack of coordination
+      - Slurred speech
+      - Unsteady gait
+      - Unsteady walk
+      - Vision blur
+      - Vision change
+      - Other (Specify)
+      required: false
+    - id: 5
+      name: assessor_rating
+      label: Assessor's Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: incident_date
+      label: Date of Incident
+      hint: Date of Incident (MM/DD/YY)
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: incident_time
+      label: Time of Incident
+      hint: "Time of Incident (HH:MM AM/PM)"
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: assessor_email
+      label: Assessor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: assessor_phone
+      label: Assessor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false

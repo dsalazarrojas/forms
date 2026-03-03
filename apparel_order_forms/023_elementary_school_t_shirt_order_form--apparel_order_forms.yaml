@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Elementary School T Shirt Order Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: select_color
+      label: Select Color
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - Blue
+      - Green
+      - Yellow
+      required: false
+    - id: 3
+      name: select_size
+      label: Select Size
+      hint: null
+      type: select_one
+      options:
+      - S
+      - M
+      - L
+      - XL
+      required: false
+    - id: 4
+      name: select_shirt_type
+      label: Select Shirt Type
+      hint: null
+      type: select_multiple
+      options:
+      - T-Shirt
+      - Hoodie
+      required: false
+    - id: 5
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

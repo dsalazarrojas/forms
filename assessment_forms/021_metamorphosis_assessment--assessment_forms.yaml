@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Metamorphosis Assessment
+    pages:
+    - id: 1
+      name: current_state
+      label: Current State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: goals
+      label: Goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: obstacles
+      label: Obstacles
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: self_rated_progress
+      label: Self-Rated Progress
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: coach_assistance_needed
+      label: Coach Assistance Needed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: follow_up
+      label: Follow-up Meetings
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Production Information Collection Form
+    pages:
+    - id: 1
+      name: production_information_collection_form_fields
+      label: Production Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: manufacturing_team
+      label: manufacturing_team
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: project_manager
+      label: project_manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: production_data
+      label: production_data
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: product_type
+      label: product_type
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 6
+      name: production_capacity
+      label: production_capacity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: production_time
+      label: production_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

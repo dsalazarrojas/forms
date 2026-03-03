@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bank Transaction Summary Request Form
+    pages:
+    - id: 1
+      name: account_holder_name
+      label: Account Holder Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: account_holder_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: account_holder_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: account_holder_address
+      label: Mailing Address
+      hint: Street, city, state, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: account_number
+      label: Account Number
+      hint: Full account number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: account_type
+      label: Account Type
+      hint: Type of account
+      type: select_one
+      options:
+      - Personal Checking
+      - Personal Savings
+      - Business Checking
+      - Business Savings
+      - Credit Card
+      - Multiple Accounts
+      required: true
+    - id: 7
+      name: transaction_period_start
+      label: Transaction Period Start
+      hint: From date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: transaction_period_end
+      label: Transaction Period End
+      hint: To date
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: summary_type
+      label: Summary Type
+      hint: What type of summary
+      type: select_one
+      options:
+      - All Transactions
+      - Deposits Only
+      - Withdrawals Only
+      - Debit Card Transactions
+      - Check Transactions
+      - Electronic Transfers
+      - ATM Transactions
+      - Fee Transactions
+      required: true
+    - id: 10
+      name: transaction_categories
+      label: Transaction Categories
+      hint: Include which categories
+      type: select_multiple
+      options:
+      - Income
+      - Bills and Utilities
+      - Groceries
+      - Entertainment
+      - Travel
+      - Healthcare
+      - Shopping
+      - Transfers
+      - Fees
+      - Interest
+      required: false
+    - id: 11
+      name: format_preference
+      label: Format Preference
+      hint: How do you want the summary
+      type: select_one
+      options:
+      - PDF Document
+      - Excel Spreadsheet
+      - CSV File
+      - Printed Paper
+      - Online View
+      required: true
+    - id: 12
+      name: delivery_method
+      label: Delivery Method
+      hint: How should we deliver
+      type: select_one
+      options:
+      - Secure Email
+      - Online Banking
+      - Regular Mail
+      - Branch Pickup
+      required: true
+    - id: 13
+      name: include_balance
+      label: Include Running Balance
+      hint: Show balance after each transaction
+      type: select_one
+      options:
+      - Yes, include balance
+      - No, transactions only
+      required: true
+    - id: 14
+      name: include_categorization
+      label: Include Transaction Categories
+      hint: Auto-categorized transactions
+      type: select_one
+      options:
+      - Yes, categorize
+      - No, raw data only
+      required: false
+    - id: 15
+      name: minimum_amount_filter
+      label: Minimum Amount Filter
+      hint: Only show transactions above
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: purpose_of_request
+      label: Purpose of Request
+      hint: Why do you need this
+      type: select_one
+      options:
+      - Budget Planning
+      - Tax Preparation
+      - Loan Application
+      - Expense Tracking
+      - Audit
+      - Personal Records
+      - Legal Matter
+      - Other
+      required: true
+    - id: 17
+      name: third_party_access
+      label: Third Party Access
+      hint: Should someone else receive this
+      type: select_one
+      options:
+      - Yes, authorize third party
+      - No, me only
+      required: true
+    - id: 18
+      name: third_party_name
+      label: Third Party Name
+      hint: Recipient name
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: third_party_email
+      label: Third Party Email
+      hint: Recipient email
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: fee_acknowledgment
+      label: Fee Acknowledgment
+      hint: Are you aware of fees
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, please inform
+      required: true
+    - id: 21
+      name: authorization
+      label: Authorization
+      hint: Do you authorize this request
+      type: select_one
+      options:
+      - Yes, I authorize
+      - false
+      required: true
+    - id: 22
+      name: request_date
+      label: Request Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: additional_notes
+      label: Additional Notes
+      hint: Any special requirements
+      type: text
+      options: []
+      required: false

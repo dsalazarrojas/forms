@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sea Access Request Form
+    pages:
+    - id: 1
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: requesting_organisation
+      label: Requesting Organisation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - Commercial Use
+      - Marina Usage
+      - Private Use
+      - Recreation
+      - Other
+      required: false
+    - id: 4
+      name: requestor
+      label: Requestor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false

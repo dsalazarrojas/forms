@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: Government Benefits Portal Access Form
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: Home Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: birth_date
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 7
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: income
+      label: Monthly Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: citizenship
+      label: Citizenship
+      hint: null
+      type: select_one
+      options:
+      - US Citizen
+      - Non-Citizen
+      required: false
+    - id: 10
+      name: language_preference
+      label: Language Preference
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - Other
+      required: false
+    - id: 11
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_number
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Unemployed
+      - Retired
+      required: false
+    - id: 16
+      name: benefits_type
+      label: Benefits Type
+      hint: null
+      type: select_multiple
+      options:
+      - Food Stamps
+      - Medicaid
+      - Housing Assistance
+      - Other
+      required: false
+    - id: 17
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: disabilities
+      label: Disabilities
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: benefits_eligibility
+      label: Benefits Eligibility
+      hint: null
+      type: select_one
+      options:
+      - Eligible
+      - Ineligible
+      required: false
+    - id: 20
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: submit
+      label: Submit minimalist
+      hint: null
+      type: select_multiple
+      options:
+      - Cancel
+      - Submit
+      required: false

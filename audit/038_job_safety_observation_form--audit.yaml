@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Job Safety Observation Form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hazard_control_measure
+      label: What is the hazard control measure in place?
+      hint: null
+      type: select_multiple
+      options:
+      - Hazard control measure 1
+      - Hazard control measure 2
+      - Hazard control measure 3
+      required: false
+    - id: 3
+      name: hazard_control_measure_other
+      label: Please specify if you have any other hazard control measures
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: risk_level
+      label: What is the risk level of the hazard?
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - High
+      required: false
+    - id: 5
+      name: risk_level_other
+      label: Please specify if other
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: job_hazards
+      label: What hazards are present on the job?
+      hint: null
+      type: select_multiple
+      options:
+      - Hazard 1
+      - Hazard 2
+      - Hazard 3
+      required: false
+    - id: 7
+      name: job_hazards_other
+      label: Please specify if you have any other hazards
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: control_measure_description
+      label: Describe the control measures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: observation_date
+      label: Observation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: observation_time
+      label: Observation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: observation_notes
+      label: Observation Notes
+      hint: null
+      type: text
+      options: []
+      required: false

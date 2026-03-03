@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Basic Sign Up Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Sign Up Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company
+      label: Company name (optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_header_2
+      label: -- Sign Up Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: interest_areas
+      label: Areas of interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Marketing
+      - Sales
+      - Technology
+      - Finance
+      - Customer Service
+      - Other
+      required: false
+    - id: 9
+      name: product_interest
+      label: What are you most interested in?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: how_heard
+      label: How did you hear about us?
+      hint: null
+      type: select_one
+      options:
+      - Search Engine
+      - Social Media
+      - Referral
+      - Advertisement
+      - Email
+      - Other
+      required: false
+    - id: 11
+      name: section_header_3
+      label: -- Communication Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email_updates
+      label: Receive email updates
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 13
+      name: marketing_emails
+      label: Receive marketing emails
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 14
+      name: sms_notifications
+      label: Receive SMS notifications
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 15
+      name: section_header_4
+      label: -- Consent and Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: terms_agreement
+      label: I agree to the terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 17
+      name: privacy_agreement
+      label: I agree to the privacy policy
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 18
+      name: signup_confirmation
+      label: I confirm this information is accurate
+      hint: null
+      type: select_one
+      options:
+      - I Confirm
+      - I Need to Revise
+      required: true

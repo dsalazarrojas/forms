@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Water Treatment Plant Inspection Form
+    pages:
+    - id: 1
+      name: plant_location
+      label: Plant Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: inspection_type
+      label: Inspection Type
+      hint: Select the type of inspection
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: plant_status
+      label: Plant Status
+      hint: Select the status of the plant
+      type: select_one
+      options:
+      - Normal
+      - Shut Down
+      - Maintenance
+      required: false
+    - id: 5
+      name: maintenance_issues
+      label: Maintenance Issues
+      hint: List any maintenance issues found
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: safety_standards
+      label: Safety Standards
+      hint: Select the safety standards met
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: quality_standards
+      label: Quality Standards
+      hint: Select the quality standards met
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 8
+      name: compliance_issues
+      label: Compliance Issues
+      hint: Select any compliance issues
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: Additional notes
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_to
+      label: Assigned to
+      hint: Select the person assigned to this inspection
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

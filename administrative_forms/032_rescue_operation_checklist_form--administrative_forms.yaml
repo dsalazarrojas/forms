@@ -1,0 +1,99 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Rescue Operation Checklist Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_leader
+      label: Team Leader
+      hint: Who is leading the team?
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: team_assist
+      label: Team Assist
+      hint: List team members
+      type: select_multiple
+      options:
+      - Team leader
+      - Team member 1
+      - Team member 2
+      - Team member 3
+      required: false
+    - id: 4
+      name: rescue_team
+      label: Rescue Team
+      hint: null
+      type: select_one
+      options:
+      - Rescue Team
+      - Other team
+      - Self
+      required: false
+    - id: 5
+      name: resources
+      label: Resources
+      hint: List available resources
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_information
+      label: Contact Information
+      hint: List contact information
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: rescue_operation
+      label: Rescue Operation
+      hint: null
+      type: select_one
+      options:
+      - Rescue
+      - Evacuation
+      - Search
+      required: false
+    - id: 9
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Pending
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

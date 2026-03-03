@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Verification Specialist Assessment
+    pages:
+    - id: 1
+      name: verification_specialist_assessment
+      label: verification-specialist-assessment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: scenario_questions
+      label: scenario-questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: candidate_details
+      label: candidate-details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: assessment_date
+      label: assessment-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: assessment_time
+      label: assessment-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: scenario_screening
+      label: scenario-screening
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''screening_question_1''}'
+      - '{''value'': ''screening_question_2''}'
+      - '{''value'': ''screening_question_3''}'
+      required: false
+    - id: 7
+      name: verification_specialist_name
+      label: verification-specialist-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: verification_specialist_designation
+      label: verification-specialist-designation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: verification_specialist_phone
+      label: verification-specialist-phone
+      hint: null
+      type: text
+      options: []
+      required: false

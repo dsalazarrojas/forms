@@ -1,0 +1,104 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: vision_and_lighting_assessment_form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: lighting_conditions
+      label: Lighting Conditions
+      hint: Please provide a description of the lighting conditions in the area.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: lighting_type
+      label: Lighting Type
+      hint: Select one of the options.
+      type: select_one
+      options:
+      - LED
+      - CFL
+      - Halogen
+      - Other
+      required: false
+    - id: 5
+      name: fixture_status
+      label: Fixture Status
+      hint: Select one of the options.
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 6
+      name: lighting_level
+      label: Lighting Level
+      hint: Select one of the options.
+      type: select_one
+      options:
+      - Very Low
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 7
+      name: color_temperature
+      label: Color Temperature
+      hint: Select one of the options.
+      type: select_one
+      options:
+      - Warm
+      - Neutral
+      - Cool
+      required: false
+    - id: 8
+      name: issue_description
+      label: Issue Description
+      hint: Describe any lighting issues or concerns.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: issue_priority
+      label: Issue Priority
+      hint: Select one of the options.
+      type: select_one
+      options:
+      - Critical
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 10
+      name: signature
+      label: Signature
+      hint: null
+      type: date
+      options: []
+      required: false

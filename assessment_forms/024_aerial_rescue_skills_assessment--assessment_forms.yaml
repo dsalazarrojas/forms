@@ -1,0 +1,149 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Aerial Rescue Skills Assessment
+    pages:
+    - id: 1
+      name: candidate_info_header
+      label: -- Candidate Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: candidate_name
+      label: Candidate Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: assessor_name
+      label: Assessor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: assessment_date
+      label: Date of Assessment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: scenario_type
+      label: Rescue Scenario
+      hint: Select the scenario being tested.
+      type: select_one
+      options:
+      - Pick-off Rescue (Ascent)
+      - Pick-off Rescue (Descent)
+      - Structure Rescue
+      - Basket Rescue
+      - Self-Rescue
+      required: true
+    - id: 6
+      name: preparation_header
+      label: -- Preparation & Safety --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: hazard_assessment
+      label: Hazard Assessment
+      hint: Did the candidate identify hazards?
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: true
+    - id: 8
+      name: equipment_check
+      label: Equipment Check
+      hint: Proper inspection and selection of gear.
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: true
+    - id: 9
+      name: execution_header
+      label: -- Execution --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: anchor_building
+      label: Anchor Building
+      hint: Secure and appropriate anchors used.
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: true
+    - id: 11
+      name: patient_access
+      label: Patient Access
+      hint: Safe approach to the subject.
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: true
+    - id: 12
+      name: patient_handling
+      label: Patient Handling
+      hint: Care taken to avoid further injury.
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: true
+    - id: 13
+      name: system_operation
+      label: System Operation
+      hint: Controlled descent/ascent, proper rope management.
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: true
+    - id: 14
+      name: time_limit
+      label: Completed Within Time Limit
+      hint: Was the rescue timely?
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 15
+      name: overall_result
+      label: Overall Result
+      hint: Final determination.
+      type: select_one
+      options:
+      - Competent
+      - Not Yet Competent
+      required: true
+    - id: 16
+      name: feedback
+      label: Assessor Feedback
+      hint: Areas for improvement.
+      type: text
+      options: []
+      required: true

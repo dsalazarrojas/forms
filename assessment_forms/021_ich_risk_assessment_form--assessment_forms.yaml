@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: ICH Risk Assessment Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: icv3_score
+      label: ICH-VM3 Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: icv3_score_hint
+      label: ICH-VM3 Score Hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: icv4_score
+      label: ICH-VM4 Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: icv4_score_hint
+      label: ICH-VM4 Score Hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_condition
+      label: Patient Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Stroke'', ''value'': ''stroke''}'
+      - '{''label'': ''Hemorrhagic Stroke'', ''value'': ''hemorrhagic_stroke''}'
+      - '{''label'': ''Ischemic Stroke'', ''value'': ''ischemic_stroke''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 8
+      name: risk_factors
+      label: Risk Factors
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Age'', ''value'': ''age''}'
+      - '{''label'': ''History of Stroke'', ''value'': ''history_of_stroke''}'
+      - '{''label'': ''Family History'', ''value'': ''family_history''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 9
+      name: icv5_score
+      label: ICH-VM5 Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: icv5_score_hint
+      label: ICH-VM5 Score Hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_dose
+      label: Patient Dose
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: patient_dose_hint
+      label: Patient Dose Hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_weight
+      label: Patient Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: patient_weight_hint
+      label: Patient Weight Hint
+      hint: null
+      type: text
+      options: []
+      required: false

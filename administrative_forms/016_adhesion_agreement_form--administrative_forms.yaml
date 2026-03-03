@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adhesion Agreement Form
+    pages:
+    - id: 1
+      name: agreement_header
+      label: -- Adhesion Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_full_name
+      label: Client Full Name
+      hint: Enter the client's legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_company
+      label: Client Company
+      hint: Name of the client's company (if applicable)
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: client_email
+      label: Client Email
+      hint: Valid email for communication
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: client_phone
+      label: Client Phone
+      hint: Phone number for contact
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: service_provider
+      label: Service Provider
+      hint: Name of the company providing the service
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: service_description
+      label: Description of Service
+      hint: Brief description of the service to be provided
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: agreement_date
+      label: Agreement Date
+      hint: Date when this agreement is made
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: agreement_start_date
+      label: Service Start Date
+      hint: When will the service begin?
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: agreement_end_date
+      label: Service End Date
+      hint: When will the service end (if applicable)?
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: terms_acknowledged
+      label: Terms and Conditions Acknowledged
+      hint: Have you read and understood the terms and conditions?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: terms_acceptance
+      label: Acceptance of Terms
+      hint: Do you agree to all terms and conditions?
+      type: select_one
+      options:
+      - Yes, I accept all terms
+      - No, I do not accept
+      required: true
+    - id: 13
+      name: payment_terms_acknowledged
+      label: Payment Terms Acknowledged
+      hint: Do you understand the payment terms?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: cancellation_policy_acknowledged
+      label: Cancellation Policy Acknowledged
+      hint: Do you understand the cancellation policy?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: liability_acknowledged
+      label: Liability Limitations Acknowledged
+      hint: Do you understand the liability limitations?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: confidentiality_acknowledged
+      label: Confidentiality Terms Acknowledged
+      hint: Do you understand the confidentiality requirements?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: dispute_resolution_acknowledged
+      label: Dispute Resolution Acknowledged
+      hint: Do you understand the dispute resolution process?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: intellectual_property_acknowledged
+      label: Intellectual Property Terms Acknowledged
+      hint: Do you understand the intellectual property provisions?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: force_majeure_acknowledged
+      label: Force Majeure Acknowledged
+      hint: Do you understand the force majeure clause?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: amendment_rights_acknowledged
+      label: Amendment Rights Acknowledged
+      hint: Do you understand how this agreement can be amended?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: termination_conditions_acknowledged
+      label: Termination Conditions Acknowledged
+      hint: Do you understand the conditions for termination?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing this agreement
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: client_signature
+      label: Client Signature
+      hint: Electronic signature to confirm agreement
+      type: text
+      options: []
+      required: true

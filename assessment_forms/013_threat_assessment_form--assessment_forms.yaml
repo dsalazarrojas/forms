@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: threat_assessment_form
+    pages:
+    - id: 1
+      name: threat_assessment_form_page_1
+      label: threat_assessment_form_page_1_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: threat_assessment_form_page_2
+      label: threat_assessment_form_page_2_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: risk_level
+      label: risk_level_label
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Low''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''High''}'
+      required: false
+    - id: 4
+      name: threat_type
+      label: threat_type_label
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Cyber''}'
+      - '{''label'': ''Physical''}'
+      - '{''label'': ''Environmental''}'
+      required: false
+    - id: 5
+      name: threat_frequency
+      label: threat_frequency_label
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Rare''}'
+      - '{''label'': ''Occasional''}'
+      - '{''label'': ''Frequent''}'
+      required: false
+    - id: 6
+      name: threat_probability
+      label: threat_probability_label
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: recommendation
+      label: recommendation_label
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Accept''}'
+      - '{''label'': ''Mitigate''}'
+      - '{''label'': ''Refuse''}'
+      required: false
+    - id: 8
+      name: additional_comments
+      label: additional_comments_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: threat_cause
+      label: threat_cause_label
+      hint: null
+      type: text
+      options: []
+      required: false

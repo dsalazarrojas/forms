@@ -1,0 +1,235 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Contact Center Operations Assessment Survey
+    pages:
+      - id: 1
+        name: survey_intro
+        label: Contact Center Operations Assessment
+        hint: Internal feedback survey for operations improvement
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: employee_id
+        label: Employee ID
+        hint: Optional identifier
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: department
+        label: Department
+        hint: Your department
+        type: select_one
+        options:
+          - Customer Service
+          - Technical Support
+          - Sales
+          - Quality Assurance
+          - Training
+          - Operations Management
+          - Workforce Management
+          - IT Support
+        required: true
+      - id: 4
+        name: role
+        label: Your Role
+        hint: Your position
+        type: select_one
+        options:
+          - Agent
+          - Senior Agent
+          - Team Lead
+          - Supervisor
+          - Manager
+          - Director
+        required: true
+      - id: 5
+        name: tenure
+        label: Tenure at Company
+        hint: How long have you worked here
+        type: select_one
+        options:
+          - Less than 6 months
+          - 6 months to 1 year
+          - 1-2 years
+          - 2-5 years
+          - Over 5 years
+        required: true
+      - id: 6
+        name: training_quality
+        label: Training Program Quality
+        hint: Rate the quality of training received
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 7
+        name: training_effectiveness
+        label: Training Effectiveness
+        hint: How well did training prepare you
+        type: select_one
+        options:
+          - Very Well Prepared
+          - Well Prepared
+          - Adequately Prepared
+          - Somewhat Prepared
+          - Not Well Prepared
+        required: true
+      - id: 8
+        name: communication_rating
+        label: Internal Communication Rating
+        hint: Rate communication within teams
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 9
+        name: tools_and_technology
+        label: Tools and Technology
+        hint: Are current tools adequate
+        type: select_one
+        options:
+          - More Than Adequate
+          - Adequate
+          - Somewhat Adequate
+          - Inadequate
+          - Severely Lacking
+        required: true
+      - id: 10
+        name: workload_management
+        label: Workload Management
+        hint: How manageable is your workload
+        type: select_one
+        options:
+          - Very Manageable
+          - Manageable
+          - Somewhat Manageable
+          - Challenging
+          - Unmanageable
+        required: true
+      - id: 11
+        name: job_satisfaction
+        label: Job Satisfaction
+        hint: Overall satisfaction with your role
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 12
+        name: management_support
+        label: Management Support
+        hint: Level of support from management
+        type: select_one
+        options:
+          - Excellent Support
+          - Good Support
+          - Average Support
+          - Limited Support
+          - No Support
+        required: true
+      - id: 13
+        name: career_development
+        label: Career Development Opportunities
+        hint: Are there growth opportunities
+        type: select_one
+        options:
+          - Excellent Opportunities
+          - Good Opportunities
+          - Some Opportunities
+          - Limited Opportunities
+          - No Opportunities
+        required: true
+      - id: 14
+        name: work_life_balance
+        label: Work-Life Balance
+        hint: Rate your work-life balance
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+        required: true
+      - id: 15
+        name: customer_satisfaction_focus
+        label: Customer Satisfaction Focus
+        hint: Does the organization prioritize CSAT
+        type: select_one
+        options:
+          - High Priority
+          - Moderate Priority
+          - Low Priority
+          - Not a Priority
+        required: true
+      - id: 16
+        name: process_efficiency
+        label: Process Efficiency
+        hint: How efficient are current processes
+        type: select_one
+        options:
+          - Very Efficient
+          - Efficient
+          - Neutral
+          - Inefficient
+          - Very Inefficient
+        required: true
+      - id: 17
+        name: improvement_areas
+        label: Areas Needing Improvement
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Training Programs
+          - Communication
+          - Technology Tools
+          - Staffing Levels
+          - Process Documentation
+          - Quality Monitoring
+          - Performance Metrics
+          - Employee Recognition
+        required: true
+      - id: 18
+        name: recommendations
+        label: Recommendations for Improvement
+        hint: Your suggestions
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: would_recommend
+        label: Would Recommend as Workplace
+        hint: Would you recommend working here
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Not Sure
+          - Probably No
+          - Definitely No
+        required: true

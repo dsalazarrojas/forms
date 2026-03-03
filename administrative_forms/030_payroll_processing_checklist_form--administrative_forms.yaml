@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payroll Processing Checklist Form
+    pages:
+    - id: 1
+      name: pay_process_step
+      label: Pay Process Step
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_data
+      label: Employee Data
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Employee 1'', ''value'': ''employee_1''}'
+      - '{''label'': ''Employee 2'', ''value'': ''employee_2''}'
+      required: false
+    - id: 3
+      name: pay_date
+      label: Pay Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: tax_rate
+      label: Tax Rate
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Tax Rate 1'', ''value'': ''tax_rate_1''}'
+      - '{''label'': ''Tax Rate 2'', ''value'': ''tax_rate_2''}'
+      required: false
+    - id: 5
+      name: tax_rate_value
+      label: Tax Rate Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: pay_frequency
+      label: Pay Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Daily'', ''value'': ''daily''}'
+      - '{''label'': ''Weekly'', ''value'': ''weekly''}'
+      - '{''label'': ''Monthly'', ''value'': ''monthly''}'
+      required: false
+    - id: 7
+      name: pay_date
+      label: Pay Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: pay_frequency
+      label: Pay Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Daily'', ''value'': ''daily''}'
+      - '{''label'': ''Weekly'', ''value'': ''weekly''}'
+      - '{''label'': ''Monthly'', ''value'': ''monthly''}'
+      required: false
+    - id: 9
+      name: pay_method
+      label: Pay Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Direct Deposit'', ''value'': ''direct_deposit''}'
+      - '{''label'': ''Check'', ''value'': ''check''}'
+      required: false
+    - id: 10
+      name: tax_rate_value
+      label: Tax Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

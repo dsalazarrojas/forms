@@ -1,0 +1,81 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Anti Static Workstation Assessment
+    pages:
+    - id: 1
+      name: section_workstation_details
+      label: -- Workstation Details --
+      hint: Record location and equipment identifiers
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: workstation_id
+      label: Workstation id
+      hint: Designation or serial number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: assessor_name
+      label: Assessor name
+      hint: Person completing the checklist
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: esd_mat_condition
+      label: ESD mat condition
+      hint: Visual inspection and cleanliness
+      type: select_one
+      options:
+        - Good
+        - Worn
+        - Damaged
+      required: true
+    - id: 5
+      name: wrist_strap_status
+      label: Wrist strap status
+      hint: Check for continuity and fit
+      type: select_one
+      options:
+        - Present and functional
+        - Present but faulty
+        - Not present
+      required: true
+    - id: 6
+      name: grounding_verification
+      label: Grounding verification status
+      hint: Confirm grounding path integrity
+      type: select_one
+      options:
+        - Verified
+        - Not verified
+        - Not applicable
+      required: true
+    - id: 7
+      name: corrective_actions
+      label: Corrective actions required
+      hint: Repairs or replacements needed
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Additional comments
+      hint: Any other observations from assessment
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cat Adoption Application
+    pages:
+    - id: 1
+      name: applicant_info_header
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: primary_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: primary_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: full_address
+      label: Residential Address
+      hint: Street, City, State, Zip
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: living_situation_header
+      label: -- Living Situation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: housing_type
+      label: Do you own or rent your home
+      hint: null
+      type: select_one
+      options:
+      - Own
+      - Rent
+      - Live with parents
+      required: true
+    - id: 8
+      name: landlord_permission
+      label: If renting, do you have landlord permission for a cat
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - N/A - I own my home
+      required: false
+    - id: 9
+      name: household_members_count
+      label: Number of people in the household
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: children_in_home
+      label: Are there children in the home
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: experience_header
+      label: -- Pet Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: other_pets_current
+      label: Do you currently have other pets
+      hint: List species and ages
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: previous_cats
+      label: Have you owned cats before
+      hint: null
+      type: select_one
+      options:
+      - Yes, several
+      - Yes, once
+      - No, this would be my first
+      required: true
+    - id: 14
+      name: veterinarian_info
+      label: Current or Future Veterinarian
+      hint: Clinic name and phone
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: cat_interest_name
+      label: Name of the cat you are interested in
+      hint: Write General if not sure
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: motivation_for_adoption
+      label: Why do you want to adopt a cat at this time
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: commitment_ack
+      label: I understand that a cat is a long-term commitment (15-20 years)
+      hint: null
+      type: select_one
+      options:
+      - I Understand
+      - Other
+      required: true

@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: procurement_planning_checklist_form
+    pages:
+    - id: 1
+      name: supplier_selection
+      label: supplier_selection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: supplier_information
+      label: supplier_information
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: planning_steps
+      label: planning_steps
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: payment_methods
+      label: payment_methods
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: payment_schedule
+      label: payment_schedule
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

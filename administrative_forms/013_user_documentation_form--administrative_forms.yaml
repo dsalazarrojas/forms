@@ -1,0 +1,94 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: User Documentation Form
+    pages:
+    - id: 1
+      name: user_documentation_form
+      label: User Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: documentation_requests
+      label: Documentation Requests
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: support_issues
+      label: Support Issues
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: feedback_category
+      label: Feedback Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''1'', ''name'': ''Technical''}'
+      - '{''id'': ''2'', ''name'': ''Non Technical''}'
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: documentation_request_comments
+      label: Documentation Request Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: support_issue_details
+      label: Support Issue Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: documentation_type
+      label: Documentation Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''1'', ''name'': ''Manual''}'
+      - '{''id'': ''2'', ''name'': ''Online''}'
+      - '{''id'': ''3'', ''name'': ''Phone''}'
+      required: true
+    - id: 10
+      name: documentation_request_priority
+      label: Documentation Request Priority
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''1'', ''name'': ''Low''}'
+      - '{''id'': ''2'', ''name'': ''Medium''}'
+      - '{''id'': ''3'', ''name'': ''High''}'
+      required: true

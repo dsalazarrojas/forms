@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: shared_workspace_reservation_form
+    pages:
+    - id: 1
+      name: workspace_type
+      label: Workspace Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: room_id
+      label: room_id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: capacity
+      label: capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: guests
+      label: guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: contact
+      label: contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: booking_user_id
+      label: booking_user_id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

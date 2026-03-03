@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Black Friday Photo Contest Form
+    pages:
+    - id: 1
+      name: contest_intro
+      label: Black Friday Photo Contest Entry
+      hint: Share your best Black Friday shopping moments and win prizes
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contestant_name
+      label: Your Name
+      hint: Full name of contestant
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For winner notification
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: age_verification
+      label: Age Verification
+      hint: Must be 18 or older to enter
+      type: select_one
+      options:
+      - I am 18 or older
+      - I am under 18
+      required: true
+    - id: 6
+      name: photo_title
+      label: Photo Title
+      hint: Give your photo a creative title
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: photo_description
+      label: Photo Description
+      hint: Tell us the story behind your photo
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: photo_category
+      label: Photo Category
+      hint: Select the best category
+      type: select_one
+      options:
+      - Best Deal Find
+      - Funniest Shopping Moment
+      - Best Group Photo
+      - Most Creative Shot
+      - Before and After
+      - Store Decoration
+      required: true
+    - id: 9
+      name: photo_url
+      label: Photo Upload URL
+      hint: Link to your uploaded photo
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: photo_location
+      label: Photo Location
+      hint: Where was this photo taken
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: shopping_date
+      label: Shopping Date
+      hint: When was this photo taken
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: store_name
+      label: Store Name
+      hint: Which store did you shop at
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: social_media_handle
+      label: Social Media Handle
+      hint: Your Instagram or Twitter handle
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: share_permission
+      label: Sharing Permission
+      hint: Can we share your photo on social media
+      type: select_one
+      options:
+      - Yes With Credit
+      - Yes Without Credit
+      - No Do Not Share
+      required: true
+    - id: 15
+      name: newsletter_signup
+      label: Join Our Newsletter
+      hint: Get contest updates and future promotions
+      type: select_one
+      options:
+      - Yes Sign Me Up
+      - No Thanks
+      required: true
+    - id: 16
+      name: terms_agreement
+      label: Contest Rules Agreement
+      hint: I have read and agree to contest rules
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 17
+      name: original_work
+      label: Original Work Declaration
+      hint: I confirm this is my original photo
+      type: select_one
+      options:
+      - Yes This Is My Original Work
+      - false
+      required: true
+    - id: 18
+      name: how_did_you_hear
+      label: How Did You Hear About Contest
+      hint: Source of contest information
+      type: select_one
+      options:
+      - Social Media
+      - Email
+      - In Store
+      - Friend Referral
+      - Website
+      - Other
+      required: false
+    - id: 19
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else you want to share
+      type: text
+      options: []
+      required: false

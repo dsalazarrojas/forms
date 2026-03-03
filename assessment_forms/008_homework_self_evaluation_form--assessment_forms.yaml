@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Homework Self Evaluation Form
+    pages:
+    - id: 1
+      name: homework_effort
+      label: Homework Effort
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: challenge_faced
+      label: Challenge Faced
+      hint: null
+      type: select_multiple
+      options:
+      - Challenge with peers
+      - Challenge with teacher
+      required: false
+    - id: 3
+      name: learning_outcome
+      label: Learning Outcome
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: self_rating
+      label: Self Rating
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: true
+    - id: 6
+      name: teacher_rating
+      label: Teacher Rating
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: true
+    - id: 7
+      name: feedback_to_teacher
+      label: Feedback to Teacher
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submission_comments
+      label: Submission Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: learning_goal
+      label: Learning Goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: self_reflection
+      label: Self Reflection
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: teacher_comments
+      label: Teacher Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submission_date_range
+      label: Submission Date Range
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: homework_type
+      label: Homework Type
+      hint: null
+      type: select_one
+      options:
+      - Homework 1
+      - Homework 2
+      - Homework 3
+      required: true
+    - id: 14
+      name: homework_topic
+      label: Homework Topic
+      hint: null
+      type: select_one
+      options:
+      - Topic 1
+      - Topic 2
+      - Topic 3
+      required: true
+    - id: 15
+      name: self_assessment
+      label: Self Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submission_file
+      label: Submission File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: teacher_solutions
+      label: Teacher Solutions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Not Completed
+      - Pending
+      required: true
+    - id: 19
+      name: submission_status_date
+      label: Submission Status Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: submission_status_comment
+      label: Submission Status Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: teacher_comments_to_student
+      label: Teacher Comments to Student
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: student_solutions
+      label: Student Solutions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: teacher_solutions_link
+      label: Teacher Solutions Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submission_status_change
+      label: Submission Status Change
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_status_change_date
+      label: Submission Status Change Date
+      hint: null
+      type: date
+      options: []
+      required: false

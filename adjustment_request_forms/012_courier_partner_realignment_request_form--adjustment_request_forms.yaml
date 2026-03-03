@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Courier Partner Realignment Request Form
+    pages:
+    - id: 1
+      name: prophets
+      label: Prophets
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: pickup_location
+      label: pickup_location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''New York''}'
+      - '{''id'': 2, ''label'': ''Los Angeles''}'
+      - '{''id'': 3, ''label'': ''Chicago''}'
+      required: false
+    - id: 3
+      name: dropoff_location
+      label: dropoff_location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: pickup_time
+      label: pickup_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: dropoff_time
+      label: dropoff_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: realigned_courier
+      label: realigned_courier
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John''}'
+      - '{''id'': 2, ''label'': ''Jane''}'
+      required: false
+    - id: 7
+      name: realignment_request_note
+      label: realignment_request_note
+      hint: A detailed description of the request is required.
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

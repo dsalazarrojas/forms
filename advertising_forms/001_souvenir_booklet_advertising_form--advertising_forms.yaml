@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Souvenir Booklet Advertising Form
+    pages:
+    - id: 1
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: souvenir_ad_size
+      label: Souvenir Ad Size
+      hint: null
+      type: select_one
+      options:
+      - Large
+      - Medium
+      - Small
+      required: false
+    - id: 3
+      name: business_details
+      label: Business Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Card
+      - Bank Transfer
+      - Check
+      required: false
+    - id: 5
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Mail
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: business_phone
+      label: Business Phone
+      hint: null
+      type: text
+      options: []
+      required: false

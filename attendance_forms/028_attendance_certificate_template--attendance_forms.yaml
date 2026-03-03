@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Attendance Certificate Template
+    pages:
+    - id: 1
+      name: certificate_information
+      label: -- Certificate Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: certificate_type
+      label: Certificate Type
+      hint: What type of certificate is this?
+      type: select_one
+      options:
+      - Participation
+      - Attendance
+      - Completion
+      - Achievement
+      - Recognition
+      - Appreciation
+      required: true
+    - id: 3
+      name: certificate_number
+      label: Certificate Number
+      hint: Unique identifier for tracking
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: issue_date
+      label: Issue Date
+      hint: Date the certificate is being issued
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: recipient_information
+      label: -- Recipient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: recipient_name
+      label: Recipient Name
+      hint: Full name of certificate recipient
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: recipient_title
+      label: Recipient Title/Position
+      hint: Professional title if applicable
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: recipient_organization
+      label: Recipient Organization
+      hint: Organization or company name
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: recipient_address
+      label: Recipient Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_details
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: event_name
+      label: Event Name
+      hint: Name of the event attended
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: event_date
+      label: Event Date
+      hint: Date(s) of the event
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: event_location
+      label: Event Location
+      hint: Where the event took place
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: event_description
+      label: Event Description
+      hint: Brief description of the event
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: hours_attended
+      label: Hours of Attendance
+      hint: Total hours attended or course duration
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: organizer_information
+      label: -- Organizer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: organizing_body
+      label: Organizing Body/Institution
+      hint: Organization that held the event
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: signatory_name
+      label: Signatory Name
+      hint: Name of person signing certificate
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: signatory_title
+      label: Signatory Title
+      hint: Title/position of signer
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: signatory_contact
+      label: Signatory Contact
+      hint: Email or phone for verification
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: certificate_content
+      label: -- Certificate Content --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: certificate_statement
+      label: Certificate Statement/Message
+      hint: Main text for the certificate
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: special_achievements
+      label: Special Achievements or Honors
+      hint: Any special recognition or awards?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: design_template
+      label: Design Template Selection
+      hint: Choose certificate design style
+      type: select_one
+      options:
+      - Classic Elegant
+      - Modern Professional
+      - Academic
+      - Corporate
+      - Creative
+      - Minimalist
+      required: true
+    - id: 25
+      name: additional_details
+      label: Additional Details
+      hint: Any other information to include?
+      type: text
+      options: []
+      required: false

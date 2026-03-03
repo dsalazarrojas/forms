@@ -1,0 +1,83 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Record Release Authorization Form
+    pages:
+    - id: 1
+      name: pet_owner
+      label: Pet Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: authorized_party
+      label: Authorized Party
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Client''}'
+      - '{''id'': 2, ''name'': ''Other (please specify)''}'
+      required: true
+    - id: 3
+      name: authorized_name
+      label: Authorized Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: veterinary_clinic
+      label: Veterinary Clinic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_transfer
+      label: Reason for Transfer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_transfer
+      label: Date of Transfer
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_transfer
+      label: Time of Transfer
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: authorization
+      label: Authorization
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

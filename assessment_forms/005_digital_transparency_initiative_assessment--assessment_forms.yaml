@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Transparency Initiative Assessment
+    pages:
+    - id: 1
+      name: digital_transparency_initiative_assessment
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: digital_transparency_practices
+      label: What are the digital transparency practices your organization uses?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: digital_transparency_gaps
+      label: What are the digital transparency gaps your organization needs to address?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: digital_transparency_progress
+      label: How would you rate your organization's current progress on digital transparency?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: digital_transparency_priority
+      label: What are your top 3 priorities for digital transparency?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: digital_transparency_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false

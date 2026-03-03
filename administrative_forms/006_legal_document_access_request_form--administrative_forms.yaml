@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: legal_document_access_request_form
+    pages:
+    - id: 1
+      name: individual_information
+      label: Individual Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organization_information
+      label: Organization Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: document_details
+      label: Document Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: document_types
+      label: Document Types
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''document_type_1'', ''label'': ''Document 1''}'
+      - '{''id'': 2, ''name'': ''document_type_2'', ''label'': ''Document 2''}'
+      - '{''id'': 3, ''name'': ''document_type_3'', ''label'': ''Document 3''}'
+      required: false
+    - id: 6
+      name: document_ids
+      label: Document IDs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''document_id_1'', ''label'': ''Document ID 1''}'
+      - '{''id'': 2, ''name'': ''document_id_2'', ''label'': ''Document ID 2''}'
+      - '{''id'': 3, ''name'': ''document_id_3'', ''label'': ''Document ID 3''}'
+      required: false
+    - id: 7
+      name: date_of_request
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_of_request
+      label: Time of Request
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''submit_1'', ''label'': ''Submit 1''}'
+      - '{''id'': 2, ''name'': ''submit_2'', ''label'': ''Submit 2''}'
+      - '{''id'': 3, ''name'': ''submit_3'', ''label'': ''Submit 3''}'
+      required: false

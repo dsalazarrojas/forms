@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Material Reallocation Approval Request
+    pages:
+    - id: 1
+      name: material_reallocation_approval_request_form
+      label: Material Reallocation Approval Request Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: material_type
+      label: material_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Metal''}'
+      - '{''value'': ''Plastic''}'
+      - '{''value'': ''Wood''}'
+      required: false
+    - id: 3
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: location_from
+      label: Location From
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Location A''}'
+      - '{''value'': ''Location B''}'
+      - '{''value'': ''Location C''}'
+      required: false
+    - id: 5
+      name: location_to
+      label: Location To
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Location D''}'
+      - '{''value'': ''Location E''}'
+      - '{''value'': ''Location F''}'
+      required: false
+    - id: 6
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reason_for
+      label: Reason For
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: approval
+      label: Approval
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Approver 1''}'
+      - '{''value'': ''Approver 2''}'
+      - '{''value'': ''Approver 3''}'
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

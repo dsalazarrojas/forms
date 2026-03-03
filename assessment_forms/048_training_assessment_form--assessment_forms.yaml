@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: training_assessment_form
+    pages:
+    - id: 1
+      name: training_assessment_form
+      label: Training Assessment Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: trainer_rating
+      label: trainer_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: topic
+      label: topic
+      hint: null
+      type: select_one
+      options:
+      - '{''rating'': 1, ''value'': ''Excellent''}'
+      - '{''rating'': 2, ''value'': ''Good''}'
+      - '{''rating'': 3, ''value'': ''Fair''}'
+      - '{''rating'': 4, ''value'': ''Poor''}'
+      - '{''rating'': 5, ''value'': ''Not Rated''}'
+      required: false
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

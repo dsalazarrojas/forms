@@ -1,0 +1,103 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Employee Time Off Correction Request Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: original_request_date
+      label: Original Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: original_request_time
+      label: Original Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: correction_reason
+      label: Correction Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: adjustment_request_type
+      label: Adjustment Request Type
+      hint: null
+      type: select_one
+      options:
+      - Leave
+      - Shift Swap
+      - Shift Adjustment
+      required: true
+    - id: 10
+      name: adjustment_request_date
+      label: Adjustment Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: adjustment_request_time
+      label: Adjustment Request Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: driver_vehicle_maintenance_survey_form
+    pages:
+    - id: 1
+      name: vehicle_maintenance_practices
+      label: Vehicle Maintenance Practices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 3
+      name: maintenance_frequency
+      label: Maintenance Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: maintenance_cost
+      label: Maintenance Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: service_advice
+      label: Service Advice
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,238 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rapid Sequence Intubation Quiz
+    pages:
+    - id: 1
+      name: form_start
+      label: Form start
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 2
+      name: rsi_knowledge
+      label: RSIs knowledge
+      hint: null
+      type: select_one
+      options:
+      - I've never performed RSI
+      - Less than 5 attempts
+      - 5-20 attempts
+      - 21-50 attempts
+      - More than 50 attempts
+      required: false
+    - id: 3
+      name: rsi_sequence
+      label: RSIs sequence
+      hint: 'null'
+      type: select_one
+      options:
+      - 0 - 5
+      - 6 - 10
+      - 11 - 15
+      - 16 - 20
+      required: false
+    - id: 4
+      name: rsi_type
+      label: RSI type
+      hint: null
+      type: select_multiple
+      options:
+      - Rapid sequence intubation
+      - Non-rapid sequence intubation
+      required: false
+    - id: 5
+      name: rsi_success
+      label: RSI success
+      hint: null
+      type: select_one
+      options:
+      - Failed
+      - Success
+      required: false
+    - id: 6
+      name: rsi_comments
+      label: RSI comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: rsi_important_info
+      label: RSI important information
+      hint: 'null'
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: rsi_next_steps
+      label: RSI next steps
+      hint: null
+      type: select_multiple
+      options:
+      - Complete next step 1
+      - Complete next step 2
+      - Complete next step 3
+      - Complete next step 4
+      - Do not know
+      required: false
+    - id: 9
+      name: rsi_form_end
+      label: Form end
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: rsi_total_time
+      label: RSI total time
+      hint: 'null'
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: rsi_total_success
+      label: RSI total success
+      hint: 'null'
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Occasionally
+      - Sometimes
+      - Almost always
+      required: false
+    - id: 12
+      name: rsi_total_attempts
+      label: RSI total attempts
+      hint: 'null'
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: rsi_total_failures
+      label: RSI total failures
+      hint: 'null'
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: rsi_form_end
+      label: Form end
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: rsi_form_comments
+      label: RSI form comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: rsi_form_completed
+      label: RSI form completed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: rsi_form_reviewed
+      label: RSI form reviewed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: rsi_completed_by
+      label: Completed by
+      hint: null
+      type: select_multiple
+      options:
+      - Name
+      - Role
+      - Date
+      - Time
+      - Comments
+      required: false
+    - id: 19
+      name: rsi_reviewed_by
+      label: Reviewed by
+      hint: null
+      type: select_multiple
+      options:
+      - Name
+      - Role
+      - Date
+      - Time
+      - Comments
+      required: false
+    - id: 20
+      name: rsi_next_steps2
+      label: Next steps 2
+      hint: null
+      type: select_multiple
+      options:
+      - Next step 1
+      - Next step 2
+      - Do not know
+      required: false
+    - id: 21
+      name: rsi_previous_steps
+      label: Previous steps
+      hint: null
+      type: select_multiple
+      options:
+      - Complete next step 1
+      - Complete next step 2
+      - Do not know
+      required: false
+    - id: 22
+      name: rsi_previous_steps2
+      label: Previous steps 2
+      hint: null
+      type: select_multiple
+      options:
+      - Next step 1
+      - Next step 2
+      - Do not know
+      required: false
+    - id: 23
+      name: rsi_completed_by_who
+      label: Completed by
+      hint: null
+      type: select_multiple
+      options:
+      - Name
+      - Role
+      - Date
+      - Time
+      - Comments
+      required: false
+    - id: 24
+      name: rsi_reviewed_by_who
+      label: Reviewed by
+      hint: null
+      type: select_multiple
+      options:
+      - Name
+      - Role
+      - Date
+      - Time
+      - Comments
+      required: false
+    - id: 25
+      name: rsi_additional_comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dyadic Communication Assessment Form
+    pages:
+    - id: 1
+      name: dyadic_participants
+      label: dyadic_participants
+      hint: null
+      type: select_multiple
+      options:
+      - Participant 1
+      - Participant 2
+      required: false
+    - id: 2
+      name: dyadic_participant_1_name
+      label: participant_1_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: dyadic_participant_2_name
+      label: participant_2_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: dyadic_participant_1_relationship
+      label: dyadic_participant_1_relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: dyadic_participant_2_relationship
+      label: dyadic_participant_2_relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: dyadic_participant_1_support
+      label: participant_1_support
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: dyadic_participant_2_support
+      label: participant_2_support
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: dyadic_communication_frequency
+      label: communication_frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: dyadic_participant_1_conflict
+      label: participant_1_conflict
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: dyadic_participant_2_conflict
+      label: participant_2_conflict
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: dyadic_participant_1_satisfaction
+      label: participant_1_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 12
+      name: dyadic_participant_2_satisfaction
+      label: participant_2_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 13
+      name: dyadic_participant_1_suggestions
+      label: participant_1_suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: dyadic_participant_2_suggestions
+      label: participant_2_suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: dyadic_participant_1_comments
+      label: participant_1_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: dyadic_participant_2_comments
+      label: participant_2_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: dyadic_participant_1_additional_comments
+      label: participant_1_additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: dyadic_participant_2_additional_comments
+      label: participant_2_additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: dyadic_participant_1_total_score
+      label: participant_1_total_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: dyadic_participant_2_total_score
+      label: participant_2_total_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: dyadic_communication_score
+      label: communication_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: dyadic_total_score
+      label: total_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: dyadic_comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: dyadic_additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

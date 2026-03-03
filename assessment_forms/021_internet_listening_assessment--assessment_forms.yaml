@@ -1,0 +1,99 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: internet_listening_assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: internet_use
+      label: Internet Use
+      hint: How often do you use the internet?
+      type: select_one
+      options:
+      - '{''label'': ''Never''}'
+      - '{''label'': ''Less than 5 hours a day''}'
+      - '{''label'': ''5-10 hours a day''}'
+      - '{''label'': ''More than 10 hours a day''}'
+      required: false
+    - id: 3
+      name: internet_use_frequency
+      label: Internet Use Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: skills
+      label: Internet Skills
+      hint: What skills do you have that help you use the internet effectively?
+      type: select_multiple
+      options:
+      - '{''label'': ''Browsing and navigating''}'
+      - '{''label'': ''Online searching and research''}'
+      - '{''label'': ''Online communication and interaction''}'
+      - '{''label'': ''Online learning and education''}'
+      - '{''label'': ''Other (please specify)''}'
+      required: false
+    - id: 5
+      name: challenges
+      label: Challenges
+      hint: What challenges do you face when using the internet?
+      type: select_multiple
+      options:
+      - '{''label'': ''Limited internet access''}'
+      - '{''label'': ''Slow internet speed''}'
+      - '{''label'': ''Difficulty understanding online content''}'
+      - '{''label'': ''Other (please specify)''}'
+      required: false
+    - id: 6
+      name: online_communication
+      label: Online Communication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: online_communication_frequency
+      label: Online Communication Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: learning_and_education
+      label: Learning and Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: online_learning_and_education
+      label: Online Learning and Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Additional Comments
+      hint: Additional comments
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Credit Report Authorization Form
+    pages:
+    - id: 1
+      name: name
+      label: John Doe
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: employer
+      label: Employer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: employer_address
+      label: Employer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reason_for_request
+      label: Reason for Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: authorized_to_share
+      label: Authorized to Share
+      hint: null
+      type: select_multiple
+      options:
+      - Authorized to share with Landlord/Lender/Employer
+      - Authorized to share with only Landlord
+      - Authorized to share with only Lender
+      - Authorized to share with Employer
+      required: false
+    - id: 14
+      name: authorized_to_share_with
+      label: Authorized to Share With
+      hint: null
+      type: select_multiple
+      options:
+      - Landlord
+      - Lender
+      - Employer
+      required: false
+    - id: 15
+      name: authorized_to_share_with_employer
+      label: Authorized to Share With Employer
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: authorized_to_share_with_landlord
+      label: Authorized to Share With Landlord
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: authorized_to_share_with_lender
+      label: Authorized to Share With Lender
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: authorized_to_share_with_other
+      label: Authorized to Share With Other
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false

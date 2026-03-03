@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Soccer Survey
+    pages:
+    - id: 1
+      name: player_position
+      label: Player Position
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: playing_time
+      label: Playing Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: player_age
+      label: Player Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: team_name
+      label: Team Name
+      hint: Enter team name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: position
+      label: Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: player_number
+      label: Player Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: shirt_number
+      label: Shirt Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: player_position_note
+      label: Player Position Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: player_position_note_1
+      label: Player Position Note 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: player_position_note_2
+      label: Player Position Note 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: player_position_note_3
+      label: Player Position Note 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: team_members_note
+      label: Team Members Note
+      hint: null
+      type: note
+      options: []
+      required: false

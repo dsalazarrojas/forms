@@ -1,0 +1,138 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 401(k) Hardship Withdrawal Request
+    pages:
+    - id: 1
+      name: section_header_employee
+      label: "--- Participant Information ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Participant full name
+      hint: As registered in plan records
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Participant ID or SSN (last 4 digits acceptable)
+      hint: Use internal ID for privacy if preferred
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_email
+      label: Participant email address
+      hint: For notifications about the request
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: participant_phone
+      label: Participant phone number
+      hint: null
+      type: phone
+      options: []
+      required: false
+    - id: 6
+      name: plan_name
+      label: Plan name or employer plan ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: hardship_reason
+      label: Reason for hardship withdrawal
+      hint: Choose the category that best fits your request
+      type: select_one
+      options:
+        - Medical expenses
+        - Purchase of primary residence
+        - Tuition / educational expenses
+        - Funeral expenses
+        - Prevent eviction or foreclosure
+        - Repair of primary residence
+        - Other
+      required: true
+    - id: 8
+      name: hardship_details
+      label: Details supporting hardship claim
+      hint: Include dates, amounts, and third-party names where relevant
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: amount_requested
+      label: Amount requested
+      hint: Enter numeric amount (no currency symbol)
+      type: decimal
+      options: []
+      required: true
+    - id: 10
+      name: available_balance
+      label: Participant available plan balance
+      hint: Provide best estimate from account statement
+      type: decimal
+      options: []
+      required: false
+    - id: 11
+      name: supporting_documents
+      label: Supporting documentation required
+      hint: Attach invoices, bills, or proof as instructed by plan administrator
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submission_date
+      label: Request submission date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: participant_certification
+      label: I certify the information above is true and accurate
+      hint: Selecting Yes acknowledges certification
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: true
+    - id: 14
+      name: approval_status
+      label: "Administration use: approval status"
+      hint: For plan administrator only
+      type: select_one
+      options:
+        - Pending review
+        - Approved
+        - Denied
+        - Needs more information
+      required: false
+    - id: 15
+      name: administrator_notes
+      label: Administrator notes and conditions
+      hint: Internal review notes, conditions, and next steps
+      type: text
+      options: []
+      required: false

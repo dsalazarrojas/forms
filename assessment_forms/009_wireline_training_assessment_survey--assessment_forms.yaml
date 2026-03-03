@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wireline Training Assessment Survey
+    pages:
+    - id: 1
+      name: general_feedback
+      label: General Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: confidence_level
+      label: What level of confidence do you have in your ability to perform the tasks?
+      hint: null
+      type: select_one
+      options:
+      - Improved
+      - Slightly Improved
+      - Remained the same
+      - No Change
+      required: true
+    - id: 3
+      name: skills_improved
+      label: What skills have you improved during this training course?
+      hint: null
+      type: select_multiple
+      options:
+      - Communication skills
+      - Problem-solving skills
+      - Time management skills
+      - Teamwork skills
+      - Leadership skills
+      required: false
+    - id: 4
+      name: areas_improved
+      label: In what areas do you feel you have improved since this training course?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: training_satisfaction
+      label: How satisfied are you with this training course?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 6
+      name: improvement_opportunities
+      label: What improvement opportunities do you think we should explore for future
+        wireline training courses?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email_address
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone_number
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - Location 1
+      - Location 2
+      - Location 3
+      required: false

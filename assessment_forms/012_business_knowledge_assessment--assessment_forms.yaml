@@ -1,0 +1,238 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Knowledge Assessment
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Your employee number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - Executive
+      - Operations
+      - Sales
+      - Marketing
+      - Finance
+      - Human Resources
+      - IT
+      - Customer Service
+      - Research and Development
+      - Other
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: Your current job title
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: tenure_months
+      label: Months with Company
+      hint: How many months have you worked here
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: education_level
+      label: Highest Education Level
+      hint: Your highest completed education
+      type: select_one
+      options:
+      - High school
+      - Some college
+      - Associate degree
+      - Bachelor degree
+      - Master degree
+      - Doctorate
+      - Professional certification
+      required: true
+    - id: 7
+      name: business_fundamentals_rating
+      label: Business Fundamentals Knowledge
+      hint: Rate your knowledge of business fundamentals
+      type: select_one
+      options:
+      - Expert
+      - Advanced
+      - Intermediate
+      - Basic
+      - Novice
+      required: true
+    - id: 8
+      name: financial_literacy_rating
+      label: Financial Literacy Knowledge
+      hint: Rate your understanding of financial concepts
+      type: select_one
+      options:
+      - Expert
+      - Advanced
+      - Intermediate
+      - Basic
+      - Novice
+      required: true
+    - id: 9
+      name: marketing_knowledge_rating
+      label: Marketing Knowledge
+      hint: Rate your marketing knowledge
+      type: select_one
+      options:
+      - Expert
+      - Advanced
+      - Intermediate
+      - Basic
+      - Novice
+      required: true
+    - id: 10
+      name: operations_knowledge_rating
+      label: Operations Knowledge
+      hint: Rate your operations management knowledge
+      type: select_one
+      options:
+      - Expert
+      - Advanced
+      - Intermediate
+      - Basic
+      - Novice
+      required: true
+    - id: 11
+      name: technology_proficiency_rating
+      label: Technology Proficiency
+      hint: Rate your technology skills
+      type: select_one
+      options:
+      - Expert
+      - Advanced
+      - Intermediate
+      - Basic
+      - Novice
+      required: true
+    - id: 12
+      name: leadership_skills_rating
+      label: Leadership Skills
+      hint: Rate your leadership capabilities
+      type: select_one
+      options:
+      - Expert
+      - Advanced
+      - Intermediate
+      - Basic
+      - Novice
+      required: true
+    - id: 13
+      name: communication_skills_rating
+      label: Communication Skills
+      hint: Rate your communication abilities
+      type: select_one
+      options:
+      - Expert
+      - Advanced
+      - Intermediate
+      - Basic
+      - Novice
+      required: true
+    - id: 14
+      name: problem_solving_rating
+      label: Problem Solving Skills
+      hint: Rate your problem solving abilities
+      type: select_one
+      options:
+      - Expert
+      - Advanced
+      - Intermediate
+      - Basic
+      - Novice
+      required: true
+    - id: 15
+      name: industry_knowledge_rating
+      label: Industry Knowledge
+      hint: Rate your knowledge of our industry
+      type: select_one
+      options:
+      - Expert
+      - Advanced
+      - Intermediate
+      - Basic
+      - Novice
+      required: true
+    - id: 16
+      name: compliance_knowledge_rating
+      label: Compliance and Regulatory Knowledge
+      hint: Rate your understanding of relevant regulations
+      type: select_one
+      options:
+      - Expert
+      - Advanced
+      - Intermediate
+      - Basic
+      - Novice
+      required: true
+    - id: 17
+      name: training_interests
+      label: Training Interests
+      hint: Select areas where you want more training
+      type: select_multiple
+      options:
+      - Business strategy
+      - Financial analysis
+      - Project management
+      - Leadership development
+      - Communication skills
+      - Technology tools
+      - Industry trends
+      - Compliance
+      - Customer service
+      - Sales techniques
+      required: true
+    - id: 18
+      name: learning_preference
+      label: Preferred Learning Method
+      hint: How do you prefer to learn
+      type: select_one
+      options:
+      - Online courses
+      - In-person workshops
+      - On-the-job training
+      - Mentoring
+      - Self-study
+      - Video tutorials
+      required: true
+    - id: 19
+      name: certification_goals
+      label: Certification Goals
+      hint: Are you pursuing any professional certifications
+      type: select_one
+      options:
+      - Yes - actively pursuing
+      - Yes - planning to
+      - No - not interested
+      required: true
+    - id: 20
+      name: career_aspirations
+      label: Career Aspirations
+      hint: What are your career goals within the company
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information about your knowledge or skills
+      type: text
+      options: []
+      required: false

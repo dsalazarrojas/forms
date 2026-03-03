@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wi Fi Connection Request Form
+    pages:
+    - id: 1
+      name: wi_fi_request
+      label: wi Fi Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''IT'', ''label'': ''IT Department''}'
+      - '{''value'': ''HR'', ''label'': ''HR Department''}'
+      - '{''value'': ''Finance'', ''label'': ''Finance Department''}'
+      required: false
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false

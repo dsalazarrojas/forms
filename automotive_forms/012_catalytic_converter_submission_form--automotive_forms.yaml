@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catalytic Converter Submission Form
+    pages:
+    - id: 1
+      name: submitter_name
+      label: Submitter Full Name
+      hint: Your legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Your business name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Business Address
+      hint: Your business address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: submission_date
+      label: Submission Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: converter_type
+      label: Converter Type
+      hint: Type of catalytic converter
+      type: select_one
+      options:
+      - Two-Way
+      - Three-Way
+      - Diesel Oxidation
+      - Diesel Particulate Filter
+      - Selective Catalytic Reduction
+      - Unknown
+      required: true
+    - id: 8
+      name: manufacturer
+      label: Manufacturer
+      hint: Brand or manufacturer
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: serial_number
+      label: Serial Number
+      hint: EPA or manufacturer serial number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: part_number
+      label: Part Number
+      hint: Part number if available
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_make
+      label: Vehicle Make
+      hint: Vehicle manufacturer
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_model
+      label: Vehicle Model
+      hint: Vehicle model
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_year
+      label: Vehicle Year
+      hint: Year of vehicle
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: quantity
+      label: Quantity
+      hint: Number of converters
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: weight
+      label: Total Weight
+      hint: Weight in pounds or kg
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: condition
+      label: Condition
+      hint: Physical condition
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Damaged
+      required: true
+    - id: 17
+      name: has_photos
+      label: Photos Attached
+      hint: Did you include photos
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: photo_count
+      label: Number of Photos
+      hint: How many photos
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: origin_verified
+      label: Origin Verified
+      hint: Can you verify legal origin
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: documentation_provided
+      label: Documentation Provided
+      hint: What documents are included
+      type: select_multiple
+      options:
+      - Bill of Sale
+      - Vehicle Title
+      - Insurance Claim
+      - Repair Invoice
+      - None
+      required: false
+    - id: 21
+      name: pickup_preference
+      label: Pickup or Delivery Preference
+      hint: How will you transfer
+      type: select_one
+      options:
+      - Will Drop Off
+      - Need Pickup
+      - Will Ship
+      required: true
+    - id: 22
+      name: expected_price
+      label: Expected Price Range
+      hint: Your expected price per unit
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information
+      type: text
+      options: []
+      required: false

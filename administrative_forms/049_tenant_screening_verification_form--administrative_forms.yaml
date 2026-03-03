@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Screening Verification Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: rental_history
+      label: Rental History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: references
+      label: References
+      hint: null
+      type: select_multiple
+      options:
+      - John Doe
+      - Jane Doe
+      - Bob Smith
+      required: true
+    - id: 9
+      name: rental_application_documents
+      label: Rental Application Documents
+      hint: null
+      type: select_multiple
+      options:
+      - Lease Agreement
+      - Paystub
+      - Bank Statement
+      required: true
+    - id: 10
+      name: landlord_name
+      label: Landlord
+      hint: null
+      type: select_one
+      options:
+      - Landlord 1
+      - Landlord 2
+      - Landlord 3
+      required: true
+    - id: 11
+      name: landlord_phone
+      label: Landlord Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: signature
+      label: Signature
+      hint: null
+      type: select_one
+      options:
+      - Signature 1
+      - Signature 2
+      - Signature 3
+      required: true

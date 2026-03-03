@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Peer Review Assignment Request Form
+    pages:
+    - id: 1
+      name: submit_request
+      label: Submit Request
+      hint: null
+      type: select_one
+      options:
+      - Request 1
+      - Request 2
+      - Request 3
+      required: false
+    - id: 2
+      name: evaluation_criteria
+      label: Evaluation Criteria
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: evaluation_scale
+      label: Evaluation Scale
+      hint: null
+      type: select_multiple
+      options:
+      - Scale 1
+      - Scale 2
+      - Scale 3
+      required: false
+    - id: 4
+      name: review_deadline
+      label: Review Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: submit_deadline
+      label: Submit Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submit_button
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: false

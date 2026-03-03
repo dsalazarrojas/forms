@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: home_assessment_form
+    pages:
+    - id: 1
+      name: residence_address
+      label: Residence Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Single Family Home'', ''value'': ''Single Family
+        Home''}'
+      - '{''id'': 2, ''name'': ''Condo'', ''value'': ''Condo''}'
+      - '{''id'': 3, ''name'': ''Townhouse'', ''value'': ''Townhouse''}'
+      - '{''id'': 4, ''name'': ''Other'', ''value'': ''Other''}'
+      required: false
+    - id: 3
+      name: current_condition
+      label: Current Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: current_status
+      label: Current Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: seller_name
+      label: Seller Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: seller_phone
+      label: Seller Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: seller_email
+      label: Seller Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: inspector_phone
+      label: Inspector Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: Enter any additional information
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time_of_assessment
+      label: Time of Assessment
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: assessment_status
+      label: Assessment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Completed'', ''value'': ''Completed''}'
+      - '{''id'': 2, ''name'': ''Not Completed'', ''value'': ''Not Completed''}'
+      - '{''id'': 3, ''name'': ''In Progress'', ''value'': ''In Progress''}'
+      - '{''id'': 4, ''name'': ''Cancelled'', ''value'': ''Cancelled''}'
+      - '{''id'': 5, ''name'': ''Scheduled'', ''value'': ''Scheduled''}'
+      required: false
+    - id: 14
+      name: assessment_comments
+      label: Assessment Comments
+      hint: Enter comments from the inspector
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: seller_signature
+      label: Seller Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: inspector_signature
+      label: Inspector Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: seller_digital_signature
+      label: Seller Digital Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: inspector_digital_signature
+      label: Inspector Digital Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: seller_date
+      label: Seller Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: inspector_date
+      label: Inspector Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: seller_time
+      label: Seller Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: inspector_time
+      label: Inspector Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: seller_ip
+      label: Seller IP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: inspector_ip
+      label: Inspector IP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

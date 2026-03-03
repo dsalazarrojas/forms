@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Students And Faculty Attendance Record Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: attendance_date
+      label: Attendance Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: attendance_status
+      label: Attendance Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Present''}'
+      - '{''id'': 2, ''label'': ''Absent''}'
+      - '{''id'': 3, ''label'': ''Late''}'
+      required: false
+    - id: 5
+      name: faculty_name
+      label: Faculty Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: faculty_id
+      label: Faculty ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: attendance_date
+      label: Attendance Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: attendance_status
+      label: Attendance Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Present''}'
+      - '{''id'': 2, ''label'': ''Absent''}'
+      - '{''id'': 3, ''label'': ''Late''}'
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

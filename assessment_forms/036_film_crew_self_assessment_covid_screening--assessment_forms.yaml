@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Film Crew Self Assessment COVID Screening
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: risk_level
+      label: What is your risk level?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 3
+      name: travel_info
+      label: Have you travelled internationally in the past 14 days?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: symptoms_info
+      label: Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: exposure_info
+      label: Have you been exposed to COVID-19?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: testing_info
+      label: Testing
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: vaccination_info
+      label: Vaccination status
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: other_info
+      label: Other Information
+      hint: null
+      type: text
+      options: []
+      required: false

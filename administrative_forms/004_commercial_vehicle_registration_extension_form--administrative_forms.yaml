@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commercial Vehicle Registration Extension Form
+    pages:
+    - id: 1
+      name: owner_name
+      label: Owner name
+      hint: Registered owner or company name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_name
+      label: Business name if applicable
+      hint: Leave blank for individual owners
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_make_model
+      label: Vehicle make and model
+      hint: Include year where available
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: vehicle_vin
+      label: Vehicle identification number VIN
+      hint: Full VIN without spaces
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: registration_number
+      label: Current registration number
+      hint: As shown on registration document
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: extension_reason
+      label: Reason for extension request
+      hint: Provide brief justification
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: desired_extension_period
+      label: Desired extension period in months
+      hint: Enter whole number of months
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: supporting_documents
+      label: Supporting documents list
+      hint: Attach proof of need or other documents
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact email
+      hint: Email for notifications about the request
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: contact_phone
+      label: Contact phone number
+      hint: Optional phone for follow up
+      type: text
+      options: []
+      required: false

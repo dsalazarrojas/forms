@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hydrocarbon Assessment Checklist
+    pages:
+    - id: 1
+      name: storage_facility_info
+      label: Storage Facility Info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: hydrocarbon_storage
+      label: Hydrocarbon Storage
+      hint: null
+      type: select_one
+      options:
+      - Oil
+      - Gas
+      - Both
+      required: false
+    - id: 3
+      name: spill_response
+      label: Spill Response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: spill_response_plan
+      label: Spill Response Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: staff_training
+      label: Staff Training
+      hint: null
+      type: select_multiple
+      options:
+      - Emergency Response
+      - Regular Training
+      required: false
+    - id: 6
+      name: observations
+      label: Observations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: corrective_actions
+      label: Corrective Actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: site_visits
+      label: Site Visits
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: site_visit_frequency
+      label: Site Visit Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: training_frequency
+      label: Training Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: hydrocarbon_assessment_form_reviewed_by
+      label: Hydrocarbon Assessment Form Reviewed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: hydrocarbon_assessment_form_reviewed_on
+      label: Hydrocarbon Assessment Form Reviewed On
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: hydrocarbon_assessment_form_reviewed_by_name
+      label: Hydrocarbon Assessment Form Reviewed By Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: hydrocarbon_assessment_form_reviewed_by_position
+      label: Hydrocarbon Assessment Form Reviewed By Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: hydrocarbon_assessment_form_reviewed_by_phone
+      label: Hydrocarbon Assessment Form Reviewed By Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: hydrocarbon_assessment_form_reviewed_by_email
+      label: Hydrocarbon Assessment Form Reviewed By Email
+      hint: null
+      type: email
+      options: []
+      required: false

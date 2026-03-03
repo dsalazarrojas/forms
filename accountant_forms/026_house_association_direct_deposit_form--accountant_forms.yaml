@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: House Association Direct Deposit Form
+    pages:
+    - id: 1
+      name: member_first_name
+      label: Member First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: member_last_name
+      label: Member Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: direct_deposit_routing
+      label: Direct Deposit Routing
+      hint: Select the routing number for direct deposit
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: account_name
+      label: Account Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: routing_number
+      label: Routing Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: direct_deposit_date
+      label: Direct Deposit Date
+      hint: Enter date in MM/DD/YYYY format
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: direct_deposit_amount
+      label: Direct Deposit Amount
+      hint: Enter direct deposit amount
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Imaging Techniques Assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: imaging_techniques
+      label: imaging_techniques
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: imaging_knowledge
+      label: imaging_knowledge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: decision_making
+      label: decision_making
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: imaging_proficiency
+      label: imaging_proficiency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: image_quality
+      label: image_quality
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 7
+      name: imaging_decision_making
+      label: imaging_decision_making
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: training_teams
+      label: training_teams
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

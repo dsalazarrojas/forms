@@ -1,0 +1,192 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: ACH Authorization Form
+    pages:
+    - id: 1
+      name: section_header_account_holder
+      label: '--- Account Holder Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: Use the account holder's primary email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Include country code if outside the US
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: bank_name
+      label: Bank name
+      hint: Enter the financial institution's legal name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: routing_number
+      label: ACH routing number
+      hint: 9-digit routing number (no spaces or dashes)
+      type: integer
+      options: []
+      required: true
+    - id: 7
+      name: account_number
+      label: Account number
+      hint: Do not include dashes or spaces
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: account_type
+      label: Account type
+      hint: null
+      type: select_one
+      options:
+      - Checking
+      - Savings
+      - Business checking
+      - Other
+      required: true
+    - id: 9
+      name: section_header_authorization
+      label: '--- Authorization Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: authorization_type
+      label: Authorization type
+      hint: Choose one
+      type: select_one
+      options:
+      - One-time debit
+      - Ongoing recurring debit
+      required: true
+    - id: 11
+      name: authorization_amount
+      label: Authorized amount (USD)
+      hint: Leave blank if amount varies or is open-ended
+      type: decimal
+      options: []
+      required: false
+    - id: 12
+      name: payment_frequency
+      label: Payment frequency
+      hint: Applicable for recurring authorizations
+      type: select_one
+      options:
+      - Weekly
+      - Biweekly
+      - Semi-monthly
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 13
+      name: effective_date
+      label: Effective date
+      hint: Date when this authorization becomes effective
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: authorization_start_date
+      label: Authorization start date
+      hint: For recurring payments; null if immediate
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: authorization_end_date
+      label: Authorization end date
+      hint: Leave blank for indefinite authorization
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: remittance_reference
+      label: Remittance reference or invoice number
+      hint: Enter a customer or invoice reference if applicable
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: signature_name
+      label: Authorized signatory name
+      hint: Full name of person authorizing the debit
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: signature_method
+      label: Signature method
+      hint: How the authorization is being provided
+      type: select_one
+      options:
+      - Electronic signature (typed)
+      - Wet ink signature
+      - Phone authorization
+      required: true
+    - id: 19
+      name: consent
+      label: Authorization consent
+      hint: Selecting "I authorize" consents to ACH debits per the terms
+      type: select_one
+      options:
+      - I authorize
+      - I do not authorize
+      required: true
+    - id: 20
+      name: section_header_legal
+      label: '--- Legal Authorization and Consent ---'
+      hint: By authorizing below you permit the organization to debit the account
+        per the terms provided; retain a copy for your records.
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: bank_contact_phone
+      label: Bank contact phone (optional)
+      hint: Phone number for bank verification if needed
+      type: phone
+      options: []
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional comments or instructions
+      hint: Provide any special handling instructions or notes
+      type: text
+      options: []
+      required: false

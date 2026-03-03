@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Jury Duty Check In Form
+    pages:
+    - id: 1
+      name: juror_name
+      label: Juror Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: juror_email
+      label: juror_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: juror_phone
+      label: juror_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: check_in_time
+      label: Check In Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: juror_attendance
+      label: Juror Attendance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: juror_message
+      label: Juror Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: juror_additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: juror_docket_number
+      label: Docket Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: juror_status
+      label: Juror Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 10
+      name: juror_status_note
+      label: Juror Status Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: juror_signature
+      label: Juror Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: juror_date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: juror_check_in_by
+      label: Check In By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: juror_check_in_by_signature
+      label: Check In By Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: juror_check_in_by_date
+      label: Check In By Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: juror_check_in_by_time
+      label: Check In By Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: juror_check_in_by_location
+      label: Check In By Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: juror_check_in_by_comments
+      label: Check In By Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: juror_check_in_by_additional_info
+      label: Check In By Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: juror_check_in_by_status_note
+      label: Check In By Status Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: juror_check_in_by_signature
+      label: Check In By Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: juror_check_in_by_date
+      label: Check In By Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: juror_check_in_by_time
+      label: Check In By Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: juror_check_in_by_location
+      label: Check In By Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: juror_check_in_by_additional_info
+      label: Check In By Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false

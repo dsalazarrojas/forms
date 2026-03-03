@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Basketball Roster Form
+    pages:
+    - id: 1
+      name: team_name
+      label: Team Name
+      hint: Official team name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: coach_name
+      label: Head Coach Name
+      hint: Full name of head coach
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: coach_email
+      label: Coach Email
+      hint: Coach contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: coach_phone
+      label: Coach Phone Number
+      hint: Coach contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: season_year
+      label: Season Year
+      hint: Current season year
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: player_1_name
+      label: Player 1 Full Name
+      hint: Jersey number and player name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: player_1_jersey
+      label: Player 1 Jersey Number
+      hint: Jersey number
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: player_1_position
+      label: Player 1 Position
+      hint: Primary position
+      type: select_one
+      options:
+      - Point Guard
+      - Shooting Guard
+      - Small Forward
+      - Power Forward
+      - Center
+      required: true
+    - id: 9
+      name: player_1_grade
+      label: Player 1 Grade Level
+      hint: Current grade or age group
+      type: select_one
+      options:
+      - Freshman
+      - Sophomore
+      - Junior
+      - Senior
+      - Other
+      required: false
+    - id: 10
+      name: player_2_name
+      label: Player 2 Full Name
+      hint: Jersey number and player name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: player_2_jersey
+      label: Player 2 Jersey Number
+      hint: Jersey number
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: player_2_position
+      label: Player 2 Position
+      hint: Primary position
+      type: select_one
+      options:
+      - Point Guard
+      - Shooting Guard
+      - Small Forward
+      - Power Forward
+      - Center
+      required: true
+    - id: 13
+      name: player_3_name
+      label: Player 3 Full Name
+      hint: Jersey number and player name
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: player_3_jersey
+      label: Player 3 Jersey Number
+      hint: Jersey number
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: player_3_position
+      label: Player 3 Position
+      hint: Primary position
+      type: select_one
+      options:
+      - Point Guard
+      - Shooting Guard
+      - Small Forward
+      - Power Forward
+      - Center
+      required: true
+    - id: 16
+      name: assistant_coach_name
+      label: Assistant Coach Name
+      hint: Full name of assistant coach
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: team_manager_name
+      label: Team Manager Name
+      hint: Full name of team manager
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: additional_notes
+      label: Additional Notes
+      hint: Any additional roster information
+      type: text
+      options: []
+      required: false

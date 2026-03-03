@@ -1,0 +1,234 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pharmacology MCQ Quiz
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: quiz_completed
+      label: Quiz Completed
+      hint: null
+      type: select_one
+      options:
+      - Choice 1
+      - Choice 2
+      - Choice 3
+      - Choice 4
+      - Choice 5
+      - Choice 6
+      required: false
+    - id: 5
+      name: score
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: time_spent
+      label: Time Spent
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 hour
+      - 1-2 hours
+      - 2-4 hours
+      - More than 4 hours
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Admin
+      - Trainee
+      required: false
+    - id: 11
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: quiz_id
+      label: Quiz ID
+      hint: null
+      type: select_multiple
+      options:
+      - Quiz 1
+      - Quiz 2
+      - Quiz 3
+      required: false
+    - id: 14
+      name: user_info
+      label: User Info
+      hint: null
+      type: select_multiple
+      options:
+      - Info 1
+      - Info 2
+      - Info 3
+      required: false
+    - id: 15
+      name: other_info
+      label: Other Info
+      hint: null
+      type: select_multiple
+      options:
+      - Info 1
+      - Info 2
+      - Info 3
+      required: false
+    - id: 16
+      name: score_info
+      label: Score Info
+      hint: null
+      type: select_multiple
+      options:
+      - Score 1
+      - Score 2
+      - Score 3
+      required: false
+    - id: 17
+      name: other_info_2
+      label: Other Info 2
+      hint: null
+      type: select_multiple
+      options:
+      - Info 1
+      - Info 2
+      - Info 3
+      required: false
+    - id: 18
+      name: other_score
+      label: Other Score
+      hint: null
+      type: select_multiple
+      options:
+      - Score 1
+      - Score 2
+      - Score 3
+      required: false
+    - id: 19
+      name: other_time
+      label: Other Time
+      hint: null
+      type: select_multiple
+      options:
+      - Time 1
+      - Time 2
+      - Time 3
+      required: false
+    - id: 20
+      name: other_date
+      label: Other Date
+      hint: null
+      type: select_multiple
+      options:
+      - Date 1
+      - Date 2
+      - Date 3
+      required: false
+    - id: 21
+      name: other_start_time
+      label: Other Start Time
+      hint: null
+      type: select_multiple
+      options:
+      - Time 1
+      - Time 2
+      - Time 3
+      required: false
+    - id: 22
+      name: other_end_time
+      label: Other End Time
+      hint: null
+      type: select_multiple
+      options:
+      - Time 1
+      - Time 2
+      - Time 3
+      required: false
+    - id: 23
+      name: other_submitted_by
+      label: Other Submitted By
+      hint: null
+      type: select_multiple
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: false
+    - id: 24
+      name: other_submitted_at
+      label: Other Submitted At
+      hint: null
+      type: select_multiple
+      options:
+      - Time 1
+      - Time 2
+      - Time 3
+      required: false
+    - id: 25
+      name: other_comments
+      label: Other Comments
+      hint: null
+      type: select_multiple
+      options:
+      - Comments 1
+      - Comments 2
+      - Comments 3
+      required: false

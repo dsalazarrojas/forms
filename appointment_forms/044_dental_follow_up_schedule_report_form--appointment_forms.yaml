@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: dental_follow_up_schedule_report_form
+    pages:
+    - id: 1
+      name: prophets_list
+      label: prophets
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: schedule_date
+      label: schedule_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: follow_up_date
+      label: follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: reminder_type
+      label: reminder_type
+      hint: null
+      type: select_one
+      options:
+      - phone
+      - email
+      - in_person
+      - email_and_phone
+      - in_person_and_phone
+      - no_reminder
+      required: false
+    - id: 5
+      name: reminder_time
+      label: reminder_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: follow_up_method
+      label: follow_up_method
+      hint: null
+      type: select_one
+      options:
+      - phone
+      - in_person
+      - mail
+      - email
+      - text
+      required: false
+    - id: 7
+      name: follow_up_frequency
+      label: follow_up_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: note
+      hint: null
+      type: text
+      options: []
+      required: true

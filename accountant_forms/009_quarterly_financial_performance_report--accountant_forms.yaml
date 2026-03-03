@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quarterly Financial Performance Report
+    pages:
+    - id: 1
+      name: quarterly_financial_performance_report_form
+      label: Quarter
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: financial_data_updates
+      label: Financial Data Updates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: operations_data_updates
+      label: Operations Data Updates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: financial_performance_metrics
+      label: Financial Performance Metrics
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: operations_performance_metrics
+      label: Operations Performance Metrics
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: file_upload
+      label: File Upload
+      hint: null
+      type: text
+      options: []
+      required: false

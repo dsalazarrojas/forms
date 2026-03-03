@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: work_day_sign_in_form
+    pages:
+    - id: 1
+      name: employee
+      label: Employee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: in_time
+      label: In Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: out_time
+      label: Out Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: assigned_user_label
+      label: Assigned User Label
+      hint: null
+      type: text
+      options: []
+      required: false

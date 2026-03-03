@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: iv_access_assessment_form
+    pages:
+    - id: 1
+      name: iv_access_form_fields
+      label: iv_access_form_fields
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: site_location
+      label: site_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: select_one
+      options:
+      - choice_1
+      - choice_2
+      - choice_3
+      required: false
+    - id: 4
+      name: pain_rating
+      label: pain_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: pain_location
+      label: pain_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: time_pain_began
+      label: time_pain_began
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: treatment
+      label: treatment
+      hint: null
+      type: select_multiple
+      options:
+      - choice_1
+      - choice_2
+      - choice_3
+      - choice_4
+      required: false
+    - id: 8
+      name: medication_administered
+      label: medication_administered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medication_effectiveness
+      label: medication_effectiveness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: vital_signs
+      label: vital_signs
+      hint: null
+      type: select_multiple
+      options:
+      - choice_1
+      - choice_2
+      - choice_3
+      - choice_4
+      required: false
+    - id: 11
+      name: patient_outcome
+      label: patient_outcome
+      hint: null
+      type: select_one
+      options:
+      - choice_1
+      - choice_2
+      - choice_3
+      required: false
+    - id: 12
+      name: medication_administered_1
+      label: medication_administered_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medication_effectiveness_1
+      label: medication_effectiveness_1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: vital_signs_1
+      label: vital_signs_1
+      hint: null
+      type: select_multiple
+      options:
+      - choice_1
+      - choice_2
+      - choice_3
+      required: false
+    - id: 15
+      name: patient_outcome_1
+      label: patient_outcome_1
+      hint: null
+      type: select_one
+      options:
+      - choice_1
+      - choice_2
+      required: false

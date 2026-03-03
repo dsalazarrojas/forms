@@ -1,0 +1,148 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Agglutination Techniques Assessment
+    pages:
+    - id: 1
+      name: header
+      label: -- Agglutination Techniques Proficiency Assessment --
+      hint: evaluating laboratory skills in agglutination testing methods
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: trainee_name
+      label: Trainee or Staff Name
+      hint: person being assessed
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: evaluator_name
+      label: Evaluator or Supervisor Name
+      hint: person conducting the assessment
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: eval_date
+      label: Date of Assessment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: theory_header
+      label: -- Theoretical Knowledge --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: q1_principle
+      label: Define the principle of agglutination in laboratory diagnostics.
+      hint: select the most accurate description
+      type: select_one
+      options:
+      - Clumping of particles due to antigen-antibody interaction
+      - The breakdown of red blood cells in solution
+      - The migration of proteins in an electric field
+      - The process of cellular respiration in bacteria
+      required: true
+    - id: 7
+      name: q2_difference
+      label: What is the difference between direct and indirect agglutination?
+      hint: null
+      type: select_one
+      options:
+      - Direct involves carrier particles, indirect does not
+      - Direct uses natural antigens, indirect uses coated particles
+      - Direct is faster than indirect
+      - Direct requires a microscope, indirect is visible to eye
+      required: true
+    - id: 8
+      name: q3_false_positive
+      label: Which factor can lead to a false positive result in a latex agglutination test?
+      hint: null
+      type: select_one
+      options:
+      - Over-dilution of the sample
+      - Presence of rheumatoid factor
+      - Using expired reagents
+      - Incubation at 4 degrees Celsius
+      required: true
+    - id: 9
+      name: practical_header
+      label: -- Practical Proficiency --
+      hint: evaluator observations of lab technique
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: prep_skill
+      label: Ability to correctly prepare a serial dilution
+      hint: precision in pipetting and mixing
+      type: select_one
+      options:
+      - Proficient
+      - Competent
+      - Needs Improvement
+      required: true
+    - id: 11
+      name: pattern_id_skill
+      label: Precision in identifying agglutination patterns - clumping
+      hint: ability to distinguish positive from negative
+      type: select_one
+      options:
+      - Excellent Accuracy
+      - Good Accuracy
+      - Struggles to identify
+      required: true
+    - id: 12
+      name: safety_compliance
+      label: Adherence to safety and sterilization protocols
+      hint: including use of PPE and waste disposal
+      type: select_one
+      options:
+      - Full Compliance
+      - Minor lapses
+      - Non-compliant
+      required: true
+    - id: 13
+      name: efficiency_rating
+      label: Speed and efficiency of testing process
+      hint: null
+      type: select_one
+      options:
+      - Fast and efficient
+      - Within expected timeframes
+      - Excessively slow
+      required: true
+    - id: 14
+      name: practical_comments
+      label: Comments on practical performance
+      hint: specific technical feedback
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: assessment_result
+      label: Final Assessment Result - Pass, Fail, Retraining Required
+      hint: final decision on proficiency
+      type: select_one
+      options:
+      - Pass (Qualified)
+      - Fail (Not Qualified)
+      - Retraining Required
+      required: true

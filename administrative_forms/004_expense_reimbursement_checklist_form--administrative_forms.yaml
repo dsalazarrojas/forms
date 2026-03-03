@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Expense Reimbursement Checklist Form
+    pages:
+    - id: 1
+      name: form_header
+      label: form_header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: date_submitted
+      label: date_submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: expense_category
+      label: expense_category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Business''}'
+      - '{''id'': 2, ''label'': ''Personal''}'
+      - '{''id'': 3, ''label'': ''Both''}'
+      required: false
+    - id: 4
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: expense_type
+      label: expense_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Travel''}'
+      - '{''id'': 2, ''label'': ''Entertainment''}'
+      - '{''id'': 3, ''label'': ''Food''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: cost_center
+      label: cost_center
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Headquarters''}'
+      - '{''id'': 2, ''label'': ''Branch''}'
+      - '{''id'': 3, ''label'': ''Home_office''}'
+      required: false
+    - id: 7
+      name: date_expensed
+      label: date_expensed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: receipt
+      label: receipt
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_footer
+      label: form_footer
+      hint: null
+      type: note
+      options: []
+      required: false

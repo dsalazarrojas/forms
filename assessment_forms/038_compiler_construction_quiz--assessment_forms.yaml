@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Compiler Construction Quiz
+    pages:
+    - id: 1
+      name: student_quiz_header
+      label: -- Compiler Construction Midterm Quiz --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name_compiler
+      label: Student Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id_compiler
+      label: Student ID
+      hint: University ID number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: quiz_date_compiler
+      label: Date
+      hint: Select today's date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: question_1_lexical
+      label: Which phase of a compiler is responsible for breaking source code into
+        tokens?
+      hint: Lexical Analysis
+      type: select_one
+      options:
+      - Syntax Analysis
+      - Lexical Analysis
+      - Semantic Analysis
+      - Code Generation
+      required: true
+    - id: 6
+      name: question_2_parsing
+      label: A Context-Free Grammar (CFG) is primarily used in which compiler phase?
+      hint: Parsing
+      type: select_one
+      options:
+      - Scanning
+      - Parsing
+      - Optimization
+      - Pre-processing
+      required: true
+    - id: 7
+      name: question_3_semantics
+      label: Type checking is a primary task performed during -
+      hint: Semantic Analysis
+      type: select_one
+      options:
+      - Lexical Analysis
+      - Syntax Analysis
+      - Semantic Analysis
+      - Code Optimization
+      required: true
+    - id: 8
+      name: question_4_intermediate
+      label: What is the primary purpose of Intermediate Code Generation?
+      hint: Portability and optimization
+      type: select_one
+      options:
+      - To make the compiler machine-independent
+      - To speed up lexical analysis
+      - To generate target machine code directly
+      - To manage the symbol table
+      required: true
+    - id: 9
+      name: question_5_optimization
+      label: Which of the following is an example of code optimization?
+      hint: Improving performance
+      type: select_one
+      options:
+      - Tokenizing
+      - Dead Code Elimination
+      - Symbol Table Lookup
+      - Error Reporting
+      required: true
+    - id: 10
+      name: short_answer_compiler_interpreter
+      label: Briefly explain the main difference between a compiler and an interpreter.
+      hint: Maximum 3 sentences
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: short_answer_symbol_table
+      label: What is the role of a symbol table in the compilation process?
+      hint: Data structure usage
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: extra_credit_compiler
+      label: Name one common tool used for Lexical Analysis generation.
+      hint: e.g., Lex, Flex
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submission_acknowledgment_quiz
+      label: I certify that this work is my own.
+      hint: Academic integrity
+      type: select_one
+      options:
+      - I so certify
+      - Other
+      required: true

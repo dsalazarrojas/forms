@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: it_access_approval_form
+    pages:
+    - id: 1
+      name: requestor_info
+      label: Requestor Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_id
+      label: User Id
+      hint: Enter a valid user id
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: resource_name
+      label: Resource Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: access_level
+      label: Access Level
+      hint: Please select the appropriate access level
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''View Only''}'
+      - '{''id'': 2, ''label'': ''Edit''}'
+      - '{''id'': 3, ''label'': ''Full Access''}'
+      required: false
+    - id: 5
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: approver_name
+      label: Approver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: approver_department
+      label: Approver Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: approval_status
+      label: Approval Status
+      hint: Please select the approval status
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Pending''}'
+      - '{''id'': 2, ''label'': ''Approved''}'
+      - '{''id'': 3, ''label'': ''Denied''}'
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

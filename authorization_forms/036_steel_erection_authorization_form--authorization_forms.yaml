@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Steel Erection Authorization Form
+    pages:
+    - id: 1
+      name: steel_erection_request
+      label: Steel Erection Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: request_time
+      label: Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: supervisor_signature
+      label: Supervisor Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: safety_approval
+      label: Safety Approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: site_supervisor_signature
+      label: Site Supervisor Signature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: safety_manager_signature
+      label: Safety Manager Signature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: contractor_name
+      label: Contractor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: site_supervisor_name
+      label: Site Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: safety_manager_name
+      label: Safety Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: project_manager_name
+      label: Project Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

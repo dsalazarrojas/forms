@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Modem Change Appointment Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Enter customer name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: appointment_date
+      label: Schedule Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: technician_id
+      label: Technician's Name
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Technician 1''}'
+      - '{''name'': ''Technician 2''}'
+      - '{''name'': ''Technician 3''}'
+      required: true
+    - id: 6
+      name: appointment_duration
+      label: Appointment Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: appointment_note
+      label: Appointment Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true

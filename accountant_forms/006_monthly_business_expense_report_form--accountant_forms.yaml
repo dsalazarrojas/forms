@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Monthly Business Expense Report Form
+    pages:
+    - id: 1
+      name: expense_date
+      label: Expense Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: expense_category
+      label: Expense Category
+      hint: null
+      type: select_one
+      options:
+      - Account
+      - Miscellaneous
+      - Travel
+      - Utilities
+      - Other
+      required: false
+    - id: 3
+      name: expense_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: expense_amount
+      label: Expense Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: expense_subtotal
+      label: Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: expense_remarks
+      label: Remarks
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: user_phone
+      label: User Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: user_notes
+      label: User Notes
+      hint: null
+      type: note
+      options: []
+      required: false

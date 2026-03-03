@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Safety Commitment Pledge Form
+    pages:
+    - id: 1
+      name: safety_commitment_pledge_form
+      label: Safety Pledge
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: safety_commitment
+      label: Safety Commitment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: safety_commitment_date
+      label: Safety Commitment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: safety_commitment_time
+      label: Safety Commitment Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: worksite_location
+      label: Worksite Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: supervisor_approval
+      label: Supervisor Approval
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: safety_commitment_employees
+      label: Employees Affected
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: safety_commitment_review
+      label: Review
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: safety_commitment_approval
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: safety_commitment_pledge
+      label: Pledge
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: safety_commitment_reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: safety_commitment_reviewer_job_title
+      label: Reviewer Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: safety_commitment_reviewer_date
+      label: Reviewer Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: safety_commitment_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 18
+      name: safety_commitment_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: safety_commitment_form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: safety_commitment_assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: safety_commitment_last_updated_by
+      label: Last Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: safety_commitment_last_updated_date
+      label: Last Updated Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: safety_commitment_created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: safety_commitment_created_date
+      label: Created Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: safety_commitment_last_updated
+      label: Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false

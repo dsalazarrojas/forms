@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: License Plate Verification Form
+    pages:
+    - id: 1
+      name: license_plate_verification_form
+      label: License Plate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: license_plate
+      label: License Plate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - CA
+      - FL
+      - TX
+      required: false
+    - id: 4
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: country
+      label: Country
+      hint: null
+      type: select_multiple
+      options:
+      - USA
+      - Canada
+      - Mexico
+      required: false
+    - id: 7
+      name: verification_date
+      label: Verification Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: verification_time
+      label: Verification Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: verification_time_am_pm
+      label: Verification Time AM/PM
+      hint: null
+      type: select_one
+      options:
+      - AM
+      - PM
+      required: false
+    - id: 10
+      name: verification_method
+      label: Verification Method
+      hint: null
+      type: select_one
+      options:
+      - In Person
+      - Online
+      required: false
+    - id: 11
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_multiple
+      options:
+      - Car
+      - Truck
+      - Motorcycle
+      required: false
+    - id: 12
+      name: verification_result
+      label: Verification Result
+      hint: null
+      type: select_one
+      options:
+      - Valid
+      - Invalid
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: license_plate_verification_form_submitted_by
+      label: Verified By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: license_plate_verification_form_submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: license_plate_verification_form_submitted_by_user
+      label: Verified By User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: license_plate_verification_form_submitted_at_server
+      label: Submitted At Server
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: user_ip
+      label: User IP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: user_agent
+      label: User Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: user_browser
+      label: User Browser
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: user_operating_system
+      label: User Operating System
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: license_plate_verification_form_ip_address
+      label: License Verification IP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: license_plate_verification_form_user_agent_header
+      label: User-Agent Header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: license_plate_verification_form_user_ip_address
+      label: User IP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: license_plate_verification_form_verification_method
+      label: Verification Method
+      hint: null
+      type: text
+      options: []
+      required: false

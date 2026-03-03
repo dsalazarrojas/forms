@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inventory Checklist Form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_description
+      label: Product Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: unit_price
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: select_one_product_category
+      label: Product Category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Category 1''}'
+      - '{''value'': ''Category 2''}'
+      - '{''value'': ''Category 3''}'
+      required: false
+    - id: 6
+      name: select_multiple_product_tags
+      label: Product Tags
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Tag 1''}'
+      - '{''value'': ''Tag 2''}'
+      - '{''value'': ''Tag 3''}'
+      required: false
+    - id: 7
+      name: date_added
+      label: Date Added
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_added
+      label: Time Added
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: select_one_product_status
+      label: Product Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''inactive''}'
+      required: false
+    - id: 13
+      name: select_one_supplier
+      label: Supplier
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Supplier 1''}'
+      - '{''value'': ''Supplier 2''}'
+      - '{''value'': ''Supplier 3''}'
+      required: false
+    - id: 14
+      name: select_one_buyer
+      label: Buyer
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Buyer 1''}'
+      - '{''value'': ''Buyer 2''}'
+      - '{''value'': ''Buyer 3''}'
+      required: false
+    - id: 15
+      name: date_sold
+      label: Date Sold
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: time_sold
+      label: Time Sold
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: quantity_sold
+      label: Quantity Sold
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: unit_price_sold
+      label: Unit Price Sold
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: select_one_currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Currency 1''}'
+      - '{''value'': ''Currency 2''}'
+      - '{''value'': ''Currency 3''}'
+      required: false
+    - id: 20
+      name: quantity_bought
+      label: Quantity Bought
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: select_one_product_weight
+      label: Product Weight
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Weight 1''}'
+      - '{''value'': ''Weight 2''}'
+      - '{''value'': ''Weight 3''}'
+      required: false
+    - id: 22
+      name: date_bought
+      label: Date Bought
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: time_bought
+      label: Time Bought
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: supplier_notes
+      label: Supplier Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: buyer_notes
+      label: Buyer Notes
+      hint: null
+      type: note
+      options: []
+      required: false

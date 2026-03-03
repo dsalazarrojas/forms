@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stripe Book Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: stripe_id
+      label: Stripe ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: order_item_description
+      label: Order Item Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: order_item_price
+      label: Order Item Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: order_item_status
+      label: Order Item Status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - shipped
+      - cancelled
+      - refunded
+      required: false
+    - id: 11
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: false

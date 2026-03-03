@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: industrial_site_access_control_request
+    pages:
+    - id: 1
+      name: visitor_info
+      label: Visitor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: access_request
+      label: Access Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: approval_process
+      label: Approval Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: submission_info
+      label: Submission Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: visitor_entry_info
+      label: Visitor Entry Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: visitor_exit_info
+      label: Visitor Exit Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: facility_access_request_info
+      label: Facility Access Request Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: approval_time
+      label: Approval Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: approved
+      label: Approved
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      required: false
+    - id: 15
+      name: facility_id
+      label: Facility ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: site_id
+      label: Site ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: entry_time
+      label: Entry Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: facility_code
+      label: Facility Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: access_type
+      label: Access Type
+      hint: null
+      type: select_one
+      options:
+      - Type 1
+      - Type 2
+      - Type 3
+      required: false
+    - id: 22
+      name: site_code
+      label: Site Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: entry_method
+      label: Entry Method
+      hint: null
+      type: select_one
+      options:
+      - Method 1
+      - Method 2
+      - Method 3
+      required: false
+    - id: 24
+      name: exit_method
+      label: Exit Method
+      hint: null
+      type: select_one
+      options:
+      - Method 1
+      - Method 2
+      - Method 3
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

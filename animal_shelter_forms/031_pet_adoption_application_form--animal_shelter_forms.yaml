@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Adoption Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_method
+      label: How did you hear about us?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: pet_type
+      label: Which type of pet are you interested in?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: adoption_date
+      label: Desired Adoption Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: adoption_method
+      label: How do you plan to adopt the pet?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: adoption_type
+      label: What type of pet are you interested in adopting?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: contact_note
+      label: Additional comments or questions?
+      hint: null
+      type: note
+      options: []
+      required: false

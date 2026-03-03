@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: tech_demo_appointment_form
+    pages:
+    - id: 1
+      name: demo_details
+      label: Demo Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: demo_date
+      label: demo_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: demo_time
+      label: demo_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: demo_time_slot
+      label: time_slot
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: demo_location
+      label: demo_location
+      hint: null
+      type: text
+      options: []
+      required: false

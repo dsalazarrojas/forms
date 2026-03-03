@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Existence Evidence Assessment
+    pages:
+    - id: 1
+      name: entity_type
+      label: Entity Type
+      hint: null
+      type: select_one
+      options:
+      - Entity Type 1
+      - Entity Type 2
+      required: false
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: evidence_date
+      label: Evidence Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: evidence_type
+      label: Evidence Type
+      hint: null
+      type: select_one
+      options:
+      - Evidence Type 1
+      - Evidence Type 2
+      - Evidence Type 3
+      required: false
+    - id: 9
+      name: evidence_status
+      label: Evidence Status
+      hint: null
+      type: select_one
+      options:
+      - Status 1
+      - Status 2
+      - Status 3
+      required: false
+    - id: 10
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: review_time
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: review_notes
+      label: Review Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: reviewer_rating
+      label: Reviewer Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: entity_id
+      label: Entity ID
+      hint: null
+      type: number
+      options: []
+      required: false

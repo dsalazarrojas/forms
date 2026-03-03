@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: iptv_playlist_management_form
+    pages:
+    - id: 1
+      name: iptv_playlist_request
+      label: IPTV Playlist Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: request_time
+      label: Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: playlist_type
+      label: Playlist Type
+      hint: null
+      type: select_multiple
+      options:
+      - IPTV
+      - SD
+      - HD
+      required: true
+    - id: 8
+      name: channel_list
+      label: Channel List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: update_reason
+      label: Update Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: update_permission
+      label: Update Permission
+      hint: null
+      type: select_one
+      options:
+      - Admin
+      - Reseller
+      - Support
+      required: true
+    - id: 11
+      name: ongoing_maintenance
+      label: Ongoing Maintenance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: iptv_playlist_request_details
+      label: IPTV Playlist Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: iptv_playlist_request_notes
+      label: IPTV Playlist Request Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: iptv_playlist_request_comments
+      label: IPTV Playlist Request Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: customer_ip
+      label: Customer IP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_country
+      label: Customer Country
+      hint: null
+      type: select_one
+      options:
+      - US
+      - CA
+      - MX
+      required: true
+    - id: 18
+      name: customer_state
+      label: Customer State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: customer_zip
+      label: Customer Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: iptv_playlist_request_attachment
+      label: IPTV Playlist Request Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: iptv_playlist_request_attachment_2
+      label: IPTV Playlist Request Attachment 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: iptv_playlist_request_attachment_3
+      label: IPTV Playlist Request Attachment 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: iptv_playlist_request_attachment_4
+      label: IPTV Playlist Request Attachment 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: iptv_playlist_request_attachment_5
+      label: IPTV Playlist Request Attachment 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: iptv_playlist_request_attachment_6
+      label: IPTV Playlist Request Attachment 6
+      hint: null
+      type: text
+      options: []
+      required: false

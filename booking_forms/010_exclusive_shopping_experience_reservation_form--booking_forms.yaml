@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exclusive Shopping Experience Reservation Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shopping_info
+      label: Shopping Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_time
+      label: Date and Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: preferred_contact
+      label: Preferred Contact
+      hint: How would you like to be contacted?
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: Any additional information about your booking.
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: confirm_reservations
+      label: Confirm Reservations
+      hint: Select a time slot for your appointment.
+      type: select_multiple
+      options:
+      - option3
+      - option4
+      required: true

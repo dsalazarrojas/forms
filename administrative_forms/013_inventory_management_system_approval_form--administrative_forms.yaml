@@ -1,0 +1,128 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: inventory_management_system_approval_form
+    pages:
+    - id: 1
+      name: form_title
+      label: Inventory Management System Approval Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''option_value'': ''administrative_forms''}'
+      - '{''option_value'': ''technical_forms''}'
+      - '{''option_value'': ''other''}'
+      required: false
+    - id: 4
+      name: form_description_field
+      label: Description Field
+      hint: A detailed description of the requested item.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_request_date
+      label: Request Date
+      hint: Date the item was requested.
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: form_request_time
+      label: Request Time
+      hint: Time the item was requested.
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: form_requester
+      label: Requester
+      hint: Name of the person requesting the item.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_approver
+      label: Approver
+      hint: Name of the person approving the item.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_status
+      label: Status
+      hint: Status of the item.
+      type: select_one
+      options:
+      - '{''option_value'': ''pending''}'
+      - '{''option_value'': ''approved''}'
+      - '{''option_value'': ''rejected''}'
+      - '{''option_value'': ''cancelled''}'
+      required: false
+    - id: 10
+      name: form_remarks
+      label: Remarks
+      hint: Additional comments on the item.
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_approve_date
+      label: Approve Date
+      hint: Date the item was approved.
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: form_remarks_approve
+      label: Remarks Approve
+      hint: Additional comments on the approval.
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: form_decline_date
+      label: Decline Date
+      hint: Date the item was declined.
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: form_remarks_decline
+      label: Remarks Decline
+      hint: Additional comments on the decline.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: form_remarks_recover
+      label: Remarks Recover
+      hint: Additional comments on the recovery of the item.
+      type: text
+      options: []
+      required: false

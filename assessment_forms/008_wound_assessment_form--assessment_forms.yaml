@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wound Assessment Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: wound_size
+      label: Wound Size
+      hint: null
+      type: select_one
+      options:
+      - 0-1 cm
+      - 1-2 cm
+      - 2-3 cm
+      - 3-4 cm
+      - 4-5 cm
+      - 5+ cm
+      required: false
+    - id: 7
+      name: depth
+      label: Depth
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: base_defect
+      label: Base Defect
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: wound_color
+      label: Wound Color
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - Purple
+      - Pink
+      - Black
+      - Blue
+      required: false
+    - id: 10
+      name: bleeding_or_serous
+      label: Bleeding or Serous
+      hint: null
+      type: select_one
+      options:
+      - Bleeding
+      - Serous
+      - None
+      required: false
+    - id: 11
+      name: edema
+      label: Edema
+      hint: null
+      type: select_one
+      options:
+      - Present
+      - Absent
+      - Questionable
+      required: false
+    - id: 12
+      name: redness
+      label: Redness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: swelling
+      label: Swelling
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: discharge
+      label: Discharge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: odor
+      label: Odor
+      hint: null
+      type: select_one
+      options:
+      - Present
+      - Absent
+      - Questionable
+      required: false
+    - id: 16
+      name: pain
+      label: Pain
+      hint: null
+      type: select_one
+      options:
+      - Present
+      - Absent
+      - Questionable
+      required: false
+    - id: 17
+      name: bleeding
+      label: Bleeding
+      hint: null
+      type: select_one
+      options:
+      - Present
+      - Absent
+      - Questionable
+      required: false
+    - id: 18
+      name: serous
+      label: Serous
+      hint: null
+      type: select_one
+      options:
+      - Present
+      - Absent
+      - Questionable
+      required: false
+    - id: 19
+      name: necrotic
+      label: Necrotic
+      hint: null
+      type: select_one
+      options:
+      - Present
+      - Absent
+      - Questionable
+      required: false
+    - id: 20
+      name: sinus_tissue_loss
+      label: Sinus Tissue Loss
+      hint: null
+      type: select_one
+      options:
+      - Present
+      - Absent
+      - Questionable
+      required: false
+    - id: 21
+      name: granulation
+      label: Granulation
+      hint: null
+      type: select_one
+      options:
+      - Present
+      - Absent
+      - Questionable
+      required: false
+    - id: 22
+      name: wound_area_diameter
+      label: Wound Area Diameter
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: wound_length
+      label: Wound Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

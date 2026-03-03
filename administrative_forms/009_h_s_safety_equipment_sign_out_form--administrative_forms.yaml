@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: H₂S Safety Equipment Sign Out Form
+    pages:
+    - id: 1
+      name: equipment_id
+      label: equipment id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: user_id
+      label: user
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: sign_out_date
+      label: sign-out date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: equipment_condition
+      label: equipment condition
+      hint: null
+      type: select_multiple
+      options:
+      - new
+      - used
+      - damaged
+      - lost
+      required: false
+    - id: 5
+      name: reason_for_sign_out
+      label: reason for sign out
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: signed_by
+      label: signed by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: sign_out_by
+      label: sign out by
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: assigned_to
+      label: assigned to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: equipment_type
+      label: equipment type
+      hint: null
+      type: select_one
+      options:
+      - hand
+      - electrical
+      - other
+      required: true
+    - id: 11
+      name: equipment_model
+      label: equipment model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: checked_by
+      label: checked by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: checked_out_by
+      label: checked out by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: checked_out_date
+      label: checked out date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: checked_in_date
+      label: checked in date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: last_checked_out_date
+      label: last checked out date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: checked_out_time
+      label: checked out time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: checked_in_time
+      label: checked in time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: last_checked_in_time
+      label: last checked in time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: last_checked_out_time
+      label: last checked out time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: checked_out_status
+      label: checked out status
+      hint: null
+      type: select_one
+      options:
+      - available
+      - unavailable
+      - checked out
+      - lost
+      required: true
+    - id: 24
+      name: checked_in_status
+      label: checked in status
+      hint: null
+      type: select_one
+      options:
+      - available
+      - unavailable
+      - checked in
+      - lost
+      required: true
+    - id: 25
+      name: assigned_to
+      label: assigned to
+      hint: null
+      type: text
+      options: []
+      required: false

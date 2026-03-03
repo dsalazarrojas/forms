@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ballet Performance Booking Form
+    pages:
+    - id: 1
+      name: customer_full_name
+      label: Customer Full Name
+      hint: Name of the person making the booking
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: For booking confirmation and tickets
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number for urgent updates
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: performance_selection
+      label: Select Performance
+      hint: Which ballet performance would you like to attend
+      type: select_one
+      options:
+      - Swan Lake
+      - The Nutcracker
+      - Giselle
+      - Romeo and Juliet
+      - The Sleeping Beauty
+      - Don Quixote
+      - Coppelia
+      required: true
+    - id: 5
+      name: performance_date
+      label: Performance Date
+      hint: Select your preferred date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: performance_time
+      label: Performance Time
+      hint: Matinee or evening show
+      type: select_one
+      options:
+      - Matinee - 2:00 PM
+      - Evening - 7:30 PM
+      required: true
+    - id: 7
+      name: seat_section
+      label: Seating Section
+      hint: Preferred seating area
+      type: select_one
+      options:
+      - Orchestra Premium
+      - Orchestra Standard
+      - Mezzanine
+      - Balcony
+      - Box Seats
+      required: true
+    - id: 8
+      name: number_of_tickets
+      label: Number of Tickets
+      hint: How many tickets do you need
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: ticket_type
+      label: Ticket Type
+      hint: Regular or discounted pricing
+      type: select_one
+      options:
+      - Adult - Full Price
+      - Senior - 10% Discount
+      - Student - 15% Discount
+      - Child - 20% Discount
+      - Group - 25% Discount (10+)
+      required: true
+    - id: 10
+      name: accessibility_needs
+      label: Accessibility Requirements
+      hint: Any special accommodations needed
+      type: select_multiple
+      options:
+      - Wheelchair Accessible Seating
+      - Assistive Listening Device
+      - Large Print Program
+      - Sign Language Interpreter
+      - None Required
+      required: true
+    - id: 11
+      name: parking_required
+      label: Parking Required
+      hint: Do you need parking at the venue
+      type: select_one
+      options:
+      - Yes, add parking pass
+      - No, I will use public transport
+      - Maybe, will decide later
+      required: false
+    - id: 12
+      name: program_booklet
+      label: Program Booklet
+      hint: Would you like to purchase a souvenir program
+      type: select_one
+      options:
+      - Yes, add to order
+      - No thank you
+      required: false
+    - id: 13
+      name: gift_wrap_tickets
+      label: Gift Wrap Tickets
+      hint: Is this a gift, would you like special packaging
+      type: select_one
+      options:
+      - Yes, gift wrap
+      - No, standard delivery
+      required: false
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay for your tickets
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Gift Card
+      - Will Call Payment
+      required: true
+    - id: 15
+      name: special_occasion
+      label: Special Occasion
+      hint: Are you celebrating something special
+      type: select_one
+      options:
+      - Birthday
+      - Anniversary
+      - Date Night
+      - Family Outing
+      - School Trip
+      - Just Because
+      required: false
+    - id: 16
+      name: how_heard_about
+      label: How Did You Hear About This Performance
+      hint: Marketing source
+      type: select_one
+      options:
+      - Social Media
+      - Newspaper
+      - Radio
+      - Friend Recommendation
+      - Previous Attendee
+      - Website Search
+      required: false
+    - id: 17
+      name: mailing_address
+      label: Mailing Address
+      hint: For ticket delivery if not electronic
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: special_requests
+      label: Special Requests
+      hint: Any additional comments or requirements
+      type: text
+      options: []
+      required: false

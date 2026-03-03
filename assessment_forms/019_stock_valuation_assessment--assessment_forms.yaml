@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stock Valuation Assessment
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 3
+      name: valuation_method
+      label: Valuation Method
+      hint: null
+      type: select_one
+      options:
+      - Financial
+      - Operational
+      - Strategic
+      - Technical
+      required: false
+    - id: 4
+      name: stock_price
+      label: Stock Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: expected_return
+      label: Expected Return
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: risk_free_rate
+      label: Risk Free Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: dividend_yield
+      label: Dividend Yield
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: beta_factor
+      label: Beta Factor
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: debt_equity_ratio
+      label: Debt Equity Ratio
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: financial_leverage
+      label: Financial Leverage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: operational_leverage
+      label: Operational Leverage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: management_efficiency
+      label: Management Efficiency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: growth_potential
+      label: Growth Potential
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: stock_value
+      label: Stock Value
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: valuation_date
+      label: Valuation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: valuation_period
+      label: Valuation Period
+      hint: null
+      type: select_one
+      options:
+      - Month
+      - Quarter
+      - Six-Month
+      - One-Year
+      required: false
+    - id: 17
+      name: valuation_frequency
+      label: Valuation Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Quarterly
+      - Semiannually
+      - Annually
+      required: false
+    - id: 18
+      name: valuation_basis
+      label: Valuation Basis
+      hint: null
+      type: select_multiple
+      options:
+      - Market
+      - Book
+      - Net Asset
+      required: false
+    - id: 19
+      name: stock_symbol
+      label: Stock Symbol
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: valuation_basis_date
+      label: Valuation Basis Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: stock_identifier
+      label: Stock Identifier
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: investment_objective
+      label: Investment Objective
+      hint: null
+      type: select_one
+      options:
+      - Speculative
+      - Growth
+      - Income
+      - Balanced
+      required: false
+    - id: 23
+      name: investment_horizon
+      label: Investment Horizon
+      hint: null
+      type: select_one
+      options:
+      - Short-Term
+      - Mid-Term
+      - Long-Term
+      required: false
+    - id: 24
+      name: investment_risk_tolerance
+      label: Investment Risk Tolerance
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 25
+      name: risk_reversal
+      label: Risk Reversal
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

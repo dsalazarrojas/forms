@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: Railcar Access Request Form
+    pages:
+    - id: 1
+      name: railcar_access_request
+      label: Railcar Access Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: supervisor_review
+      label: Supervisor Review
+      hint: Check for approval
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: rail_yards
+      label: Rail Yards
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: maintenance_teams
+      label: Maintenance Teams
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: contractors
+      label: Contractors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

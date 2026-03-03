@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Task Delegation Checklist Form
+    pages:
+    - id: 1
+      name: task_delegation_checklist_form
+      label: Task Delegation Checklist Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      - Jim Brown
+      required: true
+    - id: 3
+      name: assigned_by
+      label: Assigned by
+      hint: null
+      type: select_one
+      options:
+      - Team A
+      - Team B
+      - Team C
+      required: false
+    - id: 4
+      name: task_description
+      label: Task description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 9
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Not started
+      - In Progress
+      - Completed
+      required: true
+    - id: 10
+      name: assigned_tools
+      label: Assigned tools
+      hint: null
+      type: select_multiple
+      options:
+      - Chat
+      - Email
+      - Phone
+      - Video
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: task_tags
+      label: Task tags
+      hint: null
+      type: select_multiple
+      options:
+      - Tag 1
+      - Tag 2
+      - Tag 3
+      required: false
+    - id: 15
+      name: assigned_to_id
+      label: Assigned to ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: assigned_by_id
+      label: Assigned by ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: due_time
+      label: Due Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: created_at
+      label: Created at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: updated_at
+      label: Updated at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: deleted_at
+      label: Deleted at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: deleted_by
+      label: Deleted by
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: false
+    - id: 24
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: created_by
+      label: Created by
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: false

@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Energy Credit Authorization Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Energy Credit Authorization Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: 'Format: 123-456-7890, or 1234567890'
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: authorization_type
+      label: Authorization Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''label'': ''Account Holder'', ''value'': ''Account Holder''}'
+      - '{''id'': 20, ''label'': ''Joint Account Holder'', ''value'': ''Joint Account
+        Holder''}'
+      - '{''id'': 30, ''label'': ''Authorized Representative'', ''value'': ''Authorized
+        Representative''}'
+      required: false
+    - id: 7
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: authorization_date
+      label: Authorization Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: form_title_2
+      label: Energy Credit Authorization Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: account_holder_name
+      label: Account Holder Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: account_holder_address
+      label: Account Holder Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: authorized_representative_name
+      label: Authorized Representative Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: authorized_representative_title
+      label: Authorized Representative Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: account_holder_phone
+      label: Account Holder Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: account_holder_email
+      label: Account Holder Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: joint_account_holder_name
+      label: Joint Account Holder Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: joint_account_holder_address
+      label: Joint Account Holder Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: joint_account_holder_phone
+      label: Joint Account Holder Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: joint_account_holder_email
+      label: Joint Account Holder Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: authorized_representative_phone
+      label: Authorized Representative Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: authorized_representative_email
+      label: Authorized Representative Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: energy_service_provider
+      label: Energy Service Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: billing_account
+      label: Billing Account
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_footer
+      label: Form Footer
+      hint: null
+      type: note
+      options: []
+      required: false

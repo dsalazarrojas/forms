@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Strategy Appointment Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: Full name of the client
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Name of client's company
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: Client email for confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: Client phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: client_title
+      label: Title or Position
+      hint: Client's role in the company
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: industry
+      label: Industry
+      hint: Client's industry sector
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - Startup (1-10)
+      - Small (11-50)
+      - Medium (51-250)
+      - Large (251-1000)
+      - Enterprise (1000+)
+      required: true
+    - id: 8
+      name: years_operating
+      label: Years in Business
+      hint: How long has the company operated
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: appointment_date
+      label: Preferred Appointment Date
+      hint: Your preferred date
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: appointment_time
+      label: Preferred Appointment Time
+      hint: Your preferred time
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: appointment_format
+      label: Appointment Format
+      hint: How would you prefer to meet
+      type: select_one
+      options:
+      - In-person
+      - Phone Call
+      - Video Conference
+      - Hybrid
+      required: true
+    - id: 12
+      name: session_duration
+      label: Session Duration
+      hint: How long should the session be
+      type: select_one
+      options:
+      - 30 minutes
+      - 60 minutes
+      - 90 minutes
+      - 2 hours
+      - Other
+      required: false
+    - id: 13
+      name: strategy_focus
+      label: Strategy Focus Areas
+      hint: What areas do you want to discuss
+      type: select_multiple
+      options:
+      - Market Expansion
+      - Product Development
+      - Operational Efficiency
+      - Financial Planning
+      - Organizational Structure
+      - Digital Transformation
+      - Sales Strategy
+      - Other
+      required: true
+    - id: 14
+      name: current_situation
+      label: Current Business Situation
+      hint: Brief overview of your current status
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: business_goals
+      label: Short-term Business Goals
+      hint: What goals are you targeting
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: challenges_faced
+      label: Key Challenges
+      hint: What challenges are you facing
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: anticipated_outcomes
+      label: Anticipated Outcomes
+      hint: What do you hope to achieve from this session
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: supporting_documents
+      label: Supporting Documents to Provide
+      hint: Will you bring documents or files
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: other_attendees
+      label: Other Attendees
+      hint: Will others be attending
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: booking_date
+      label: Appointment Request Date
+      hint: Date this request was submitted
+      type: date
+      options: []
+      required: true

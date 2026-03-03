@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payment Receipt
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: receipt_number
+      label: Receipt Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_payment
+      label: Reason for Payment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: receiver_name
+      label: Name of Receiver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Cheque
+      - Cash
+      - Bank Transfer
+      required: false
+    - id: 8
+      name: date_of_payment
+      label: Date of Payment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: amount_paid
+      label: Amount Paid
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: payment_type
+      label: Payment Type
+      hint: null
+      type: select_one
+      options:
+      - Rent
+      - Service Charge
+      - Other
+      required: false
+    - id: 11
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Outstanding
+      required: false
+    - id: 12
+      name: customer_id
+      label: Customer ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: payment_note
+      label: Payment Note
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Earthquake Safety Assessment Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Earthquake Safety Assessment Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: building_type
+      label: Building Type
+      hint: null
+      type: select_one
+      options:
+      - Building Type
+      - High Rise Building
+      - Low Rise Building
+      - Special Building
+      required: true
+    - id: 3
+      name: building_structure
+      label: Building Structure
+      hint: null
+      type: select_one
+      options:
+      - Steel
+      - Masonry
+      - Wood
+      - Concrete
+      required: false
+    - id: 4
+      name: earthquake_safety_features
+      label: Earthquake Safety Features
+      hint: null
+      type: select_multiple
+      options:
+      - Earthquake-Resistant Design
+      - Seismic Design Category
+      - Design Category
+      - Base Isolation System
+      required: true
+    - id: 5
+      name: building_age
+      label: Building Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: building_height
+      label: Building Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: building_location
+      label: Building Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_email
+      label: Emergency Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: earthquake_safety_measures
+      label: Earthquake Safety Measures
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: building_occupancy
+      label: Building Occupancy
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 13
+      name: building_hazards
+      label: Building Hazards
+      hint: null
+      type: select_multiple
+      options:
+      - Structural
+      - Electrical
+      - Fire
+      - Gas
+      required: false
+    - id: 14
+      name: fire_alarm_system
+      label: Fire Alarm System
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
+      name: fire_suppression_system
+      label: Fire Suppression System
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 16
+      name: sprinklers
+      label: Fire Sprinklers
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: fire_extinguishers
+      label: Fire Extinguishers
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: fire_safety_features
+      label: Fire Safety Features
+      hint: null
+      type: select_multiple
+      options:
+      - Fire Alarm System
+      - Fire Suppression System
+      - Fire Sprinklers
+      - Fire Extinguishers
+      required: false
+    - id: 19
+      name: electrical_systems
+      label: Electrical Systems
+      hint: null
+      type: select_multiple
+      options:
+      - Generators
+      - Electrical Panel
+      - Circuit Breaker
+      - Grounding
+      required: false
+    - id: 20
+      name: electrical_hazards
+      label: Electrical Hazards
+      hint: null
+      type: select_multiple
+      options:
+      - Overheating
+      - Arcing
+      - Electrocution
+      - Electrical Shock
+      required: false
+    - id: 21
+      name: gas_leaks
+      label: Gas Leaks
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: gas_shutoff
+      label: Gas Shut-Off
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 23
+      name: water_leaks
+      label: Water Leaks
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: earthwork
+      label: Earthwork
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: other_earthwork
+      label: Other Earthwork
+      hint: null
+      type: text
+      options: []
+      required: false

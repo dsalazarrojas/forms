@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shipment Preparation Checklist Form
+    pages:
+    - id: 1
+      name: shipping_form
+      label: Shipment Preparation
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Shipment Preparer 1''}'
+      - '{''label'': ''Shipment Preparer 2''}'
+      - '{''label'': ''Shipment Preparer 3''}'
+      required: false
+    - id: 2
+      name: shipment_details
+      label: Shipment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_info
+      label: Product Info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: shipping_info
+      label: Shipping Info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Ground''}'
+      - '{''label'': ''Express''}'
+      - '{''label'': ''Air''}'
+      required: false
+    - id: 5
+      name: warehouse_info
+      label: Warehouse Info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: shipping_documentation
+      label: Shipping Documentation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shipping_contact
+      label: Shipping Contact
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: tracking_number
+      label: Tracking Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: ship_date
+      label: Ship Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: ship_time
+      label: Ship Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: ship_note
+      label: Ship Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: ship_phone
+      label: Ship Phone
+      hint: null
+      type: text
+      options: []
+      required: false

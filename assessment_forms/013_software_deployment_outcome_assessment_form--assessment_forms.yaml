@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Software Deployment Outcome Assessment Form
+    pages:
+    - id: 1
+      name: release_results
+      label: Release Results
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: it_team
+      label: itTeam
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: issues_documented
+      label: issuesDocumented
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: issues_description
+      label: issuesDescription
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: issues_priority
+      label: issuesPriority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: issues_frequency
+      label: issuesFrequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: root_cause
+      label: rootCause
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: corrective_action
+      label: correctiveAction
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: follow_up
+      label: followUp
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: next_steps
+      label: nextSteps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: issues_resolved
+      label: issuesResolved
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

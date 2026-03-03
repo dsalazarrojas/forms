@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Foot Spa Appointment Booking
+    pages:
+    - id: 1
+      name: spa_selection
+      label: Select a Spa
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: appointment_date
+      label: Pick a Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: treatment_type
+      label: Choose a Treatment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: client_details
+      label: Client Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: spa_preferences
+      label: Spa Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: appointment_time
+      label: Pick a Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: booking_message
+      label: Booking Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: confirm_appointment
+      label: Confirm Appointment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

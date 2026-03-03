@@ -1,0 +1,246 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Control Inspection Scheduling Request Form
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization or Business
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: request_intro
+      label: Animal Control Inspection Scheduling Request
+      hint: Schedule an inspection for your facility or property
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: inspection_type
+      label: Type of Inspection Needed
+      hint: Purpose of inspection
+      type: select_one
+      options:
+      - Kennel license inspection
+      - Breeder facility inspection
+      - Pet store inspection
+      - Shelter inspection
+      - Veterinary facility
+      - Complaint follow-up
+      - Compliance check
+      - Pre-licensing
+      - Other
+      required: true
+    - id: 7
+      name: facility_name
+      label: Facility Name
+      hint: Business or property name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: facility_address
+      label: Facility Address
+      hint: Inspection location
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: facility_type
+      label: Type of Facility
+      hint: What type of operation
+      type: select_one
+      options:
+      - Residential kennel
+      - Commercial kennel
+      - Breeding facility
+      - Pet store
+      - Animal shelter
+      - Veterinary clinic
+      - Grooming facility
+      - Boarding facility
+      - Other
+      required: true
+    - id: 10
+      name: number_of_animals
+      label: Approximate Number of Animals on Site
+      hint: Animal count
+      type: select_one
+      options:
+      - 1-5
+      - 6-20
+      - 21-50
+      - 51-100
+      - More than 100
+      required: true
+    - id: 11
+      name: species_housed
+      label: Species Housed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Dogs
+      - Cats
+      - Birds
+      - Rabbits
+      - Livestock
+      - Exotic animals
+      - Wildlife
+      - Other
+      required: true
+    - id: 12
+      name: license_status
+      label: Current License Status
+      hint: Licensing
+      type: select_one
+      options:
+      - Currently licensed
+      - License expired
+      - Never licensed
+      - Applying for first time
+      required: true
+    - id: 13
+      name: license_number
+      label: License Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: preferred_date
+      label: Preferred Inspection Date
+      hint: First choice
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: preferred_time
+      label: Preferred Time
+      hint: When works best
+      type: select_one
+      options:
+      - Morning - 8 AM to 12 PM
+      - Afternoon - 12 PM to 4 PM
+      - Anytime
+      required: true
+    - id: 16
+      name: alternative_dates
+      label: Alternative Dates
+      hint: Other options
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: site_contact
+      label: On-Site Contact Person
+      hint: Who will be present
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: contact_phone
+      label: Contact Phone
+      hint: Day of inspection
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: access_instructions
+      label: Special Access Instructions
+      hint: Gate codes, entry details
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: previous_inspections
+      label: Have You Had Previous Inspections
+      hint: Inspection history
+      type: select_one
+      options:
+      - Yes - all passed
+      - Yes - some violations
+      - No - first inspection
+      required: false
+    - id: 21
+      name: previous_violations
+      label: Were There Any Previous Violations
+      hint: If applicable
+      type: select_one
+      options:
+      - No violations
+      - Minor violations
+      - Major violations
+      - Not applicable
+      required: false
+    - id: 22
+      name: corrections_made
+      label: Have Corrections Been Made
+      hint: If violations existed
+      type: select_one
+      options:
+      - Yes - all corrected
+      - Yes - partially corrected
+      - No - not yet
+      - Not applicable
+      required: false
+    - id: 23
+      name: special_circumstances
+      label: Are There Any Special Circumstances
+      hint: Aggressive animals, etc.
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: documents_ready
+      label: Do You Have Required Documents Ready
+      hint: Documentation
+      type: select_one
+      options:
+      - Yes - all documents
+      - Yes - most documents
+      - No - need guidance
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Any other info
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: requestor_signature
+      label: Requestor Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: signature_date
+      label: Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

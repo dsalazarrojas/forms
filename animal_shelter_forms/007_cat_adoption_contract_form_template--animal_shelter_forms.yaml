@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cat Adoption Contract Form Template
+    pages:
+    - id: 1
+      name: adopter_name
+      label: Adopter Full Name
+      hint: Legal name of the adopter
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: adopter_email
+      label: Email Address
+      hint: Adopter email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: adopter_phone
+      label: Phone Number
+      hint: Adopter phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: adopter_address
+      label: Full Address
+      hint: Complete residential address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: cat_name
+      label: Cat Name
+      hint: Name of the cat being adopted
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: cat_id
+      label: Cat ID Number
+      hint: Shelter identification number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: cat_breed
+      label: Cat Breed
+      hint: Breed or mix
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: cat_color
+      label: Cat Color
+      hint: Primary color and markings
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: cat_age
+      label: Cat Age
+      hint: Age in years or months
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: cat_gender
+      label: Cat Gender
+      hint: Male or Female
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 11
+      name: adoption_fee
+      label: Adoption Fee Paid
+      hint: Amount paid
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: payment_date
+      label: Payment Date
+      hint: Date of payment
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: payment_method
+      label: Payment Method
+      hint: How was payment made
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - Debit Card
+      - Check
+      - Online Transfer
+      required: true
+    - id: 14
+      name: microchip_number
+      label: Microchip Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: vaccination_status
+      label: Vaccination Status
+      hint: Current vaccination record
+      type: select_one
+      options:
+      - Up to Date
+      - Due Soon
+      - Not Current
+      required: true
+    - id: 16
+      name: spayed_neutered
+      label: Spayed or Neutered
+      hint: Has the cat been altered
+      type: select_one
+      options:
+      - true
+      - false
+      - Scheduled
+      required: true
+    - id: 17
+      name: medical_conditions
+      label: Known Medical Conditions
+      hint: Any ongoing health issues
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: adopter_agreement_care
+      label: Agreement to Provide Proper Care
+      hint: Do you agree to provide proper care
+      type: select_one
+      options:
+      - Yes - I Agree
+      - false
+      required: true
+    - id: 19
+      name: adopter_agreement_vet
+      label: Agreement to Veterinary Care
+      hint: Do you agree to provide veterinary care
+      type: select_one
+      options:
+      - Yes - I Agree
+      - false
+      required: true
+    - id: 20
+      name: adopter_agreement_return
+      label: Agreement to Return if Needed
+      hint: Will you return cat if unable to keep
+      type: select_one
+      options:
+      - Yes - I Agree
+      - false
+      required: true
+    - id: 21
+      name: shelter_representative
+      label: Shelter Representative Name
+      hint: Name of staff member
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: contract_date
+      label: Contract Date
+      hint: Date of contract signing
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: adopter_signature_date
+      label: Adopter Signature Date
+      hint: Date of adopter signature
+      type: date
+      options: []
+      required: true

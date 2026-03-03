@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blood Donation Form
+    pages:
+    - id: 1
+      name: donation_header
+      label: Blood Donation Application Form
+      hint: Complete this form to register as a blood donor
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: Must be at least 17 years old
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: gender
+      label: Gender
+      hint: For medical records
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Prefer Not to Say
+      required: true
+    - id: 8
+      name: address
+      label: Street Address
+      hint: Your address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: weight
+      label: Weight in Pounds
+      hint: Must be at least 110 lbs
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: height
+      label: Height
+      hint: In feet and inches
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: blood_type
+      label: Blood Type
+      hint: If known
+      type: select_one
+      options:
+      - A Positive
+      - A Negative
+      - B Positive
+      - B Negative
+      - AB Positive
+      - AB Negative
+      - O Positive
+      - O Negative
+      - Unknown
+      required: false
+    - id: 15
+      name: donation_history
+      label: Previous Donation
+      hint: Have you donated before
+      type: select_one
+      options:
+      - Yes Regular Donor
+      - Yes Once or Twice
+      - No First Time
+      required: true
+    - id: 16
+      name: last_donation_date
+      label: Last Donation Date
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: health_status
+      label: Current Health Status
+      hint: Are you in good health
+      type: select_one
+      options:
+      - Yes Excellent
+      - Yes Good
+      - Fair
+      - Poor
+      required: true
+    - id: 18
+      name: chronic_conditions
+      label: Chronic Medical Conditions
+      hint: List any conditions
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: current_medications
+      label: Current Medications
+      hint: List all medications
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: allergies
+      label: Allergies
+      hint: Any known allergies
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: recent_illness
+      label: Recent Illness
+      hint: Sick in past 2 weeks
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: recent_travel
+      label: Recent Travel
+      hint: Traveled outside country recently
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: tattoo_piercing
+      label: Recent Tattoo or Piercing
+      hint: In past 12 months
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: preferred_location
+      label: Preferred Donation Location
+      hint: Where would you like to donate
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: availability
+      label: Availability
+      hint: When can you donate
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Name and phone
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: terms_agreement
+      label: Terms Agreement
+      hint: I certify information is accurate
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true

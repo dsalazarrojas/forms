@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance Claim Distance Declaration
+    pages:
+    - id: 1
+      name: distance_type
+      label: Distance Type
+      hint: null
+      type: select_multiple
+      options:
+      - Kilometers
+      - Miles
+      - Other
+      required: false
+    - id: 2
+      name: distance
+      label: Distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: start_point
+      label: Starting Point
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: end_point
+      label: Ending Point
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: travel_time
+      label: Travel Time
+      hint: null
+      type: time
+      options: []
+      required: false

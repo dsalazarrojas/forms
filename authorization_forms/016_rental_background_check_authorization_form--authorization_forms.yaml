@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: rental_background_check_authorization_form
+    pages:
+    - id: 1
+      name: rental_background_check_authorization_form_page1
+      label: authorization_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_info
+      label: applicant_info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: tenant_info
+      label: rental_property
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: background_check
+      label: rental_background_check
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: authorization_type
+      label: authorization_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: authorization_issuer
+      label: authorization_issuer
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: rental_unit_info
+      label: rental_unit_info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: authorized_by
+      label: authorized_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: authorized_date
+      label: authorized_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: expiration_date
+      label: expiration_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: form_id
+      label: form_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_version
+      label: form_version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: form_status
+      label: form_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 14
+      name: created_by
+      label: created_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: created_date
+      label: created_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: updated_by
+      label: updated_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: updated_date
+      label: updated_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: assigned_user
+      label: assigned_user
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

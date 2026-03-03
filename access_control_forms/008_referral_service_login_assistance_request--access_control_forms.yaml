@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Referral Service Login Assistance Request
+    pages:
+    - id: 1
+      name: login_request
+      label: Login Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: prophets_name
+      label: Prophets Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: referral_platform
+      label: Referral Platform
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Platform 1''}'
+      - '{''id'': 2, ''label'': ''Platform 2''}'
+      - '{''id'': 3, ''label'': ''Platform 3''}'
+      required: true
+    - id: 8
+      name: assigned_team
+      label: Assigned Team
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Team 1''}'
+      - '{''id'': 2, ''label'': ''Team 2''}'
+      - '{''id'': 3, ''label'': ''Team 3''}'
+      required: true
+    - id: 9
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: prophets_note
+      label: Prophets Note
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: login_url
+      label: Login URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: login_url_link
+      label: Login URL Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: user_type
+      label: User Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''User Type 1''}'
+      - '{''id'': 2, ''label'': ''User Type 2''}'
+      - '{''id'': 3, ''label'': ''User Type 3''}'
+      required: true
+    - id: 15
+      name: user_level
+      label: User Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Level 1''}'
+      - '{''id'': 2, ''label'': ''Level 2''}'
+      - '{''id'': 3, ''label'': ''Level 3''}'
+      required: true

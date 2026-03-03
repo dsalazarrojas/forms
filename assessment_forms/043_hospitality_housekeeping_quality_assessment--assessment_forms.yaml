@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospitality Housekeeping Quality Assessment
+    pages:
+    - id: 1
+      name: housekeeping_quality_assessment_1
+      label: Housekeeping Quality Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: room_number
+      label: Room Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: area_inspected
+      label: Area Inspected
+      hint: null
+      type: select_one
+      options:
+      - Beds and Linen
+      - Bathroom
+      - Bath Towels and Accessories
+      - Floors and Carpets
+      - Lighting and Electrical
+      - Restrooms
+      - Sofa and Upholstery
+      - Vending Machines
+      required: true
+    - id: 4
+      name: condition_rating
+      label: Condition Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: area_inspected_2
+      label: Area Inspected 2
+      hint: null
+      type: select_multiple
+      options:
+      - Beds and Linen
+      - Bathroom
+      - Bath Towels and Accessories
+      - Floors and Carpets
+      - Lighting and Electrical
+      - Restrooms
+      - Sofa and Upholstery
+      - Vending Machines
+      required: true
+    - id: 7
+      name: condition_rating_2
+      label: Condition Rating 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: inspector_email
+      label: Inspector Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: hotel_name
+      label: Hotel Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: comments_2
+      label: Comments 2
+      hint: null
+      type: text
+      options: []
+      required: false

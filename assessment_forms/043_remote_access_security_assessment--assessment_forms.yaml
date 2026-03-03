@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Access Security Assessment Form
+    pages:
+    - id: 1
+      name: remote_access_practices
+      label: Remote Access Practices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 3
+      name: remote_access_duration
+      label: Remote Access Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: remote_access_frequency
+      label: Remote Access Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: access_location
+      label: Access Location
+      hint: null
+      type: select_multiple
+      options:
+      - Home
+      - Office
+      - Public
+      required: false
+    - id: 6
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Completed
+      required: false
+    - id: 7
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: null
+      type: text
+      options: []
+      required: false

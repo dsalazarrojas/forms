@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recording Quality Assessment
+    pages:
+    - id: 1
+      name: recording_quality_assessment_form
+      label: Recording Quality Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: recording_quality_assessment_form_questions_1
+      label: What was the overall quality of the recording?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Excellent''}'
+      - '{''id'': 2, ''value'': ''Good''}'
+      - '{''id'': 3, ''value'': ''Fair''}'
+      required: false
+    - id: 3
+      name: recording_quality_assessment_form_questions_2
+      label: Were there any issues with background noise?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': False}'
+      - '{''id'': 2, ''value'': True}'
+      required: false
+    - id: 4
+      name: recording_quality_assessment_form_questions_3
+      label: Was the recording clear to hear?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': True}'
+      - '{''id'': 2, ''value'': False}'
+      required: false
+    - id: 5
+      name: recording_quality_assessment_form_comments
+      label: Comments
+      hint: Please provide any additional comments or feedback
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: recording_quality_assessment_form_date_recorded
+      label: Date Recorded
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: recording_quality_assessment_form_time_recorded
+      label: Time Recorded
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: recording_quality_assessment_form_recorder_used
+      label: Recorder Used
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': True}'
+      - '{''id'': 2, ''value'': False}'
+      required: false
+    - id: 9
+      name: recording_quality_assessment_form_audio_quality_assessment
+      label: Audio Quality Assessment
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Excellent''}'
+      - '{''id'': 2, ''value'': ''Good''}'
+      - '{''id'': 3, ''value'': ''Fair''}'
+      required: false
+    - id: 10
+      name: recording_quality_assessment_form_video_quality_assessment
+      label: Video Quality Assessment
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Excellent''}'
+      - '{''id'': 2, ''value'': ''Good''}'
+      - '{''id'': 3, ''value'': ''Fair''}'
+      required: false
+    - id: 11
+      name: recording_quality_assessment_form_other_issues
+      label: Other Issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: recording_quality_assessment_form_other_notes
+      label: Other Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: recording_quality_assessment_form_audio_bitrate
+      label: Audio Bitrate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: recording_quality_assessment_form_video_bitrate
+      label: Video Bitrate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: recording_quality_assessment_form_sample_rate
+      label: Sample Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: recording_quality_assessment_form_sample_rate_bitrate
+      label: Sample Rate Bitrate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: recording_quality_assessment_form_bitrate_2
+      label: Bitrate 2
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: Organic Farming Market Assessment Survey
+    pages:
+    - id: 1
+      name: organic_farming_market_assessment_survey_page_1
+      label: Organic Farming Market Assessment Survey Page 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organic_farming_market_assessment_survey_page_2
+      label: Farming Practices
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: organic_farming_market_assessment_survey_page_3
+      label: Organic Practices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: organic_farming_market_assessment_survey_page_4
+      label: Market Trends
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      - '{''label'': ''Option 4''}'
+      - '{''label'': ''Option 5''}'
+      required: false
+    - id: 5
+      name: organic_farming_market_assessment_survey_page_5
+      label: Organic Practices Details
+      hint: null
+      type: text
+      options: []
+      required: false

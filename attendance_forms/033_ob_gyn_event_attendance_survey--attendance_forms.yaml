@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: OB GYN Event Attendance Survey
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_attendance
+      label: Session Attendance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: satisfaction_rating
+      label: Satisfaction Rating
+      hint: null
+      type: select_one
+      options:
+      - Label 1
+      - Label 2
+      required: false
+    - id: 4
+      name: attendee_feedback
+      label: Attendee Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: session_insights
+      label: Session Insights
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: medical_license
+      label: Medical License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Request Approval Form
+    pages:
+    - id: 1
+      name: request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: approval_level
+      label: Approval Level
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Director
+      - Vice President
+      required: true
+    - id: 3
+      name: date_required
+      label: Date Required
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time_required
+      label: Time Required
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: request_status
+      label: Request Status
+      hint: null
+      type: select_multiple
+      options:
+      - pending
+      - approved
+      - rejected
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: approved_date
+      label: Approved Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: approval_process
+      label: Approval Process
+      hint: null
+      type: note
+      options: []
+      required: false

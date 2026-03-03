@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Paid Leave Request Form
+    pages:
+    - id: 1
+      name: paid_leave_request
+      label: Paid Leave Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_range
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: start_date
+      label: From
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: To
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: reason
+      label: Reason for Leave
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: leave_type
+      label: Type of Leave
+      hint: null
+      type: select_one
+      options:
+      - Sick Leave
+      - Vacation
+      - Bereavement
+      - Family Leave
+      required: false
+    - id: 7
+      name: leave_days
+      label: Number of Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager_ok
+      label: Manager OK
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_multiple
+      options:
+      - In Progress
+      - Approved
+      - Denied
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submit_btn
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

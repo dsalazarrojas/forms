@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Authorization Access Form
+    pages:
+    - id: 1
+      name: travel_authorization_access_form
+      label: travel_authorization_access_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: travel_dates
+      label: travel_dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: return_date
+      label: return_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: travel_reason
+      label: travel_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: travel_details
+      label: travel_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: travel_destination
+      label: travel_destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: travel_duration
+      label: travel_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: travel_cost
+      label: travel_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: submitter
+      label: submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: approver
+      label: approver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: approver_email
+      label: approver_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: approver_phone
+      label: approver_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: submitter_phone
+      label: submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitter_phone_type
+      label: submitter_phone_type
+      hint: null
+      type: select_one
+      options:
+      - Mobile
+      - Landline
+      - Other
+      required: false
+    - id: 19
+      name: approver_phone_type
+      label: approver_phone_type
+      hint: null
+      type: select_one
+      options:
+      - Mobile
+      - Landline
+      - Other
+      required: false
+    - id: 20
+      name: department
+      label: department
+      hint: null
+      type: select_multiple
+      options:
+      - Finance
+      - HR
+      - Operations
+      required: false
+    - id: 21
+      name: submitter_type
+      label: submitter_type
+      hint: null
+      type: select_multiple
+      options:
+      - Employee
+      - Manager
+      - Other
+      required: false
+    - id: 22
+      name: department_approver
+      label: department_approver
+      hint: null
+      type: select_multiple
+      options:
+      - Finance
+      - HR
+      - Operations
+      required: false
+    - id: 23
+      name: submitter_department
+      label: submitter_department
+      hint: null
+      type: select_multiple
+      options:
+      - Finance
+      - HR
+      - Operations
+      required: false
+    - id: 24
+      name: submitter_location
+      label: submitter_location
+      hint: null
+      type: select_multiple
+      options:
+      - Office1
+      - Office2
+      - Office3
+      required: false
+    - id: 25
+      name: approver_notes
+      label: approver_notes
+      hint: null
+      type: note
+      options: []
+      required: false

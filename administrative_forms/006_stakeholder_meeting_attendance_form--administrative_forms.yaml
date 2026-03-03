@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stakeholder Meeting Attendance Form
+    pages:
+    - id: 1
+      name: meeting_type
+      label: Meeting Type
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Virtual
+      - Hybrid
+      required: false
+    - id: 2
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: meeting_time
+      label: Meeting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: meeting_location
+      label: Meeting Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: attendee_email
+      label: Attendee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: attendee_phone
+      label: Attendee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: attendee_attendance
+      label: Attendee Attendance
+      hint: null
+      type: select_multiple
+      options:
+      - Present
+      - Absent
+      - Not Applicable
+      required: false
+    - id: 9
+      name: notes
+      label: Meeting Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - In Progress
+      - Completed
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: form_submission_time
+      label: Form Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: stakeholder_meeting_id
+      label: Stakeholder Meeting ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: stakeholder_meeting_title
+      label: Stakeholder Meeting Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: stakeholder_meeting_date
+      label: Stakeholder Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: stakeholder_meeting_time
+      label: Stakeholder Meeting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: stakeholder_meeting_location
+      label: Stakeholder Meeting Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitted_by_name
+      label: Submitted By Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitted_by_email
+      label: Submitted By Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: submitted_by_phone
+      label: Submitted By Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by_date
+      label: Submitted By Date
+      hint: null
+      type: date
+      options: []
+      required: false

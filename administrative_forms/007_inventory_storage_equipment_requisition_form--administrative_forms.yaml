@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: inventory_storage_equipment_requisition_form
+    pages:
+    - id: 1
+      name: storage_equipment_id
+      label: equipment_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: equipment_type
+      label: type
+      hint: null
+      type: select_one
+      options:
+      - Equipment Type 1
+      - Equipment Type 2
+      - Equipment Type 3
+      - Equipment Type 4
+      - Equipment Type 5
+      - Equipment Type 6
+      required: false
+    - id: 3
+      name: requested_by
+      label: requested_by
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Jim
+      required: false
+    - id: 4
+      name: storage_location
+      label: location
+      hint: null
+      type: select_multiple
+      options:
+      - Location 1
+      - Location 2
+      - Location 3
+      - Location 4
+      - Location 5
+      required: false
+    - id: 5
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false

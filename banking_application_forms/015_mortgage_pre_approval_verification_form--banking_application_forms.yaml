@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mortgage Pre Approval Verification Form
+    pages:
+    - id: 1
+      name: personal_info
+      label: personal_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: loan_info
+      label: loan_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: income_info
+      label: income_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employment_info
+      label: employment_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: property_info
+      label: property_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: income_proof
+      label: income_proof
+      hint: Please attach relevant documents
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: social_security_number
+      label: social_security_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: credit_score
+      label: credit_score
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''700-799''}'
+      - '{''id'': 2, ''label'': ''800-849''}'
+      - '{''id'': 3, ''label'': ''850-899''}'
+      - '{''id'': 4, ''label'': ''900-949''}'
+      - '{''id'': 5, ''label'': ''950-999''}'
+      - '{''id'': 6, ''label'': ''1000 or higher''}'
+      required: false
+    - id: 9
+      name: credit_history
+      label: credit_history
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Less than 5 years''}'
+      - '{''id'': 2, ''label'': ''5-10 years''}'
+      - '{''id'': 3, ''label'': ''10-15 years''}'
+      - '{''id'': 4, ''label'': ''15-20 years''}'
+      - '{''id'': 5, ''label'': ''20 or more years''}'
+      required: true
+    - id: 10
+      name: employment_length
+      label: employment_length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: income
+      label: income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: co_borrower_info
+      label: co_borrower_info
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Co Applicant 1''}'
+      - '{''id'': 2, ''label'': ''Co Applicant 2''}'
+      - '{''id'': 3, ''label'': ''No Co Applicant''}'
+      required: false

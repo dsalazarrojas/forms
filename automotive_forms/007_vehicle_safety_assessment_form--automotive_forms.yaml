@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Safety Assessment Form
+    pages:
+    - id: 1
+      name: vehicle_safety_assessment_form
+      label: vehicle_safety_assessment_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_condition
+      label: vehicle_condition
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 3
+      name: safety_standards_compliance
+      label: safety_standards_compliance
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 4
+      name: vehicle_registration_details
+      label: vehicle_registration_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: safety_features
+      label: safety_features
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Airbag''}'
+      - '{''label'': ''Anti-lock Braking System''}'
+      - '{''label'': ''Electronic Stability Control''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: safety_standards_adhered
+      label: safety_standards_adhered
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: safety_certifications
+      label: safety_certifications
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Certified''}'
+      - '{''label'': ''Not Certified''}'
+      required: false
+    - id: 8
+      name: vehicle_insurance_coverage
+      label: vehicle_insurance_coverage
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 9
+      name: safety_equipment
+      label: safety_equipment
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Fire Suppression System''}'
+      - '{''label'': ''Emergency Exit Signs''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 10
+      name: vehicle_safety_rating
+      label: vehicle_safety_rating
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 11
+      name: vehicle_safety_comments
+      label: vehicle_safety_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_safety_remediation
+      label: vehicle_safety_remediation
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Required''}'
+      - '{''label'': ''Recommended''}'
+      - '{''label'': ''Not Required''}'
+      required: false
+    - id: 13
+      name: vehicle_safety_recommendations
+      label: vehicle_safety_recommendations
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Replace''}'
+      - '{''label'': ''Repair''}'
+      - '{''label'': ''Inspect''}'
+      required: false

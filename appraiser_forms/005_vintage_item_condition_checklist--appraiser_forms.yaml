@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vintage Item Condition Checklist
+    pages:
+    - id: 1
+      name: item_number
+      label: Item Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: item_description
+      label: Item Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: condition
+      label: Condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Fair
+      - Poor
+      - Needs Repair
+      required: true
+    - id: 4
+      name: material
+      label: Material
+      hint: null
+      type: select_multiple
+      options:
+      - Metal
+      - Wood
+      - Plastic
+      - Other
+      required: true
+    - id: 5
+      name: item_weight
+      label: Item Weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: dimensions
+      label: Dimensions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: item_value
+      label: Item Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: date_purchased
+      label: Date Purchased
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: condition_note
+      label: Condition Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: item_history
+      label: Item History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: serial_number
+      label: Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: warranty
+      label: Warranty
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Not Applicable
+      required: false
+    - id: 13
+      name: item_image
+      label: Item Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: item_video
+      label: Item Video
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: item_document
+      label: Item Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: item_other_document
+      label: Other Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: item_note
+      label: Item Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: seller_note
+      label: Seller Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: buyer_note
+      label: Buyer Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: condition_1
+      label: Condition 1
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 23
+      name: condition_2
+      label: Condition 2
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 24
+      name: condition_3
+      label: Condition 3
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 25
+      name: condition_4
+      label: Condition 4
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false

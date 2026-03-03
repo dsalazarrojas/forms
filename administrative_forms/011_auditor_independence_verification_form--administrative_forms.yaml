@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auditor Independence Verification Form
+    pages:
+    - id: 1
+      name: verification_date
+      label: Verification Date
+      hint: Date of independence verification
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: auditor_name
+      label: Auditor Full Name
+      hint: Legal name of auditor
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: auditor_license_number
+      label: Professional License Number
+      hint: CPA or other relevant license
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: auditing_firm_name
+      label: Auditing Firm Name
+      hint: Name of the firm
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: firm_registration_number
+      label: Firm Registration Number
+      hint: Professional registration ID
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: audit_client_name
+      label: Audit Client Name
+      hint: Organization being audited
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: audit_period
+      label: Audit Period
+      hint: Dates of the audit engagement
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: prior_relationships
+      label: Prior Relationships with Client
+      hint: Any previous business relationships
+      type: select_one
+      options:
+      - None
+      - Tax Services Only
+      - Consulting Only
+      - Multiple Services
+      - Other
+      required: true
+    - id: 9
+      name: financial_interest
+      label: Financial Interest in Client
+      hint: Do you own stock or have financial stake
+      type: select_one
+      options:
+      - No Interest
+      - Indirect Interest
+      - Direct Interest
+      - Spouse/Family Interest
+      required: true
+    - id: 10
+      name: material_indirect_interest
+      label: Material Indirect Financial Interest
+      hint: Any significant indirect financial interest
+      type: select_one
+      options:
+      - None
+      - Minor Interest
+      - Significant Interest
+      - Under Review
+      required: true
+    - id: 11
+      name: family_employment
+      label: Family Member Employment at Client
+      hint: Any family members employed by client
+      type: select_one
+      options:
+      - 'No'
+      - Yes - Disclosed
+      - Yes - Non-Key Personnel
+      - Yes - Key Management Position
+      required: true
+    - id: 12
+      name: key_position_held
+      label: Ever Held Key Position at Client
+      hint: Former employment in key role
+      type: select_one
+      options:
+      - 'No'
+      - Yes - More Than 2 Years Ago
+      - Yes - Less Than 2 Years Ago
+      - Yes - Currently Considering
+      required: true
+    - id: 13
+      name: contingent_fee_arrangement
+      label: Contingent Fee Arrangement
+      hint: Is fee contingent on audit results
+      type: select_one
+      options:
+      - No - Fixed Fee
+      - No - Hourly Rate
+      - Yes - Contingent
+      - Yes - Partially Contingent
+      required: true
+    - id: 14
+      name: audit_fee_amount
+      label: Total Audit Fee Amount
+      hint: Estimated or agreed fee
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: fee_as_percentage
+      label: Fee as Percentage of Total Firm Revenue
+      hint: What percentage of firm revenue
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: gift_receipt
+      label: Gifts or Benefits from Client
+      hint: Any gifts, meals, or entertainment
+      type: select_one
+      options:
+      - None
+      - Minimal - Under $100
+      - Moderate - $100-$500
+      - Significant - Over $500
+      required: true
+    - id: 17
+      name: loan_arrangement
+      label: Loans to or from Client
+      hint: Any financial loans involved
+      type: select_one
+      options:
+      - None
+      - Yes - Personal Loan From Client
+      - Yes - Loan To Client
+      - Yes - Firm Loan
+      required: true
+    - id: 18
+      name: business_relationship
+      label: Other Business Relationship
+      hint: Any other significant business relationship
+      type: select_one
+      options:
+      - None
+      - Supplier Relationship
+      - Customer Relationship
+      - Joint Venture
+      - Other
+      required: true
+    - id: 19
+      name: advocacy_threat
+      label: Advocacy Threat Identified
+      hint: Risk of advocating for client position
+      type: select_one
+      options:
+      - None Identified
+      - Minimal Risk
+      - Moderate Risk
+      - High Risk
+      required: true
+    - id: 20
+      name: familiarity_threat
+      label: Familiarity Threat Risk
+      hint: Risk from close relationship with client
+      type: select_one
+      options:
+      - None Identified
+      - Minimal Risk
+      - Moderate Risk
+      - High Risk
+      required: true
+    - id: 21
+      name: safeguards_implemented
+      label: Safeguards Implemented
+      hint: Steps taken to mitigate threats
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: confirmation_statement
+      label: Independence Confirmation
+      hint: I confirm this auditor is independent
+      type: select_one
+      options:
+      - Auditor is Independent
+      - Independence Questioned
+      - Conditional Independence
+      - Not Independent
+      required: true
+    - id: 23
+      name: verifier_name
+      label: Verification Completed By
+      hint: Name of person verifying
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: verifier_title
+      label: Verifier Title
+      hint: Position of verifying person
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: dietary_assessment_form_template
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dietary_history
+      label: dietary_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: dietary_restrictions
+      label: dietary_restrictions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_conditions
+      label: medical_conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medication_list
+      label: medication_list
+      hint: List of medications taken
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: allergies
+      label: allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: dietary_intake
+      label: dietary_intake
+      hint: Daily intake for last 3 months
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: food_allergies
+      label: food_allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: food_restrictions
+      label: food_restrictions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_conditions_list
+      label: medical_conditions
+      hint: List of medical conditions
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: food_frequency
+      label: food_frequency
+      hint: null
+      type: select_one
+      options:
+      - daily
+      - weekly
+      - monthly
+      required: false
+    - id: 12
+      name: frequency_of_eating
+      label: frequency_of_eating
+      hint: null
+      type: select_one
+      options:
+      - always
+      - sometimes
+      - never
+      required: false
+    - id: 13
+      name: food_intakes_frequency
+      label: food_intakes_frequency
+      hint: null
+      type: select_one
+      options:
+      - once_a_week
+      - more_than_once_a_week
+      - twice_a_day
+      required: false

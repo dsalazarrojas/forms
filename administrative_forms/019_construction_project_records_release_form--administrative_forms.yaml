@@ -1,0 +1,80 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Construction Project Records Release Form
+    pages:
+      - id: 1
+        name: section_requestor_information
+        label: -- Requestor Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: requestor_name
+        label: Requestor name
+        hint: Name of person requesting records
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: company_name
+        label: Company name
+        hint: Company requesting the records
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: project_reference
+        label: Project reference
+        hint: Identifier for requested records
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: records_requested
+        label: Records requested
+        hint: Select the types of records needed
+        type: select_multiple
+        options:
+          - Contracts
+          - Drawings
+          - Inspection reports
+          - Invoices
+          - Correspondence
+        required: true
+      - id: 6
+        name: release_purpose
+        label: Purpose of release
+        hint: Why the records are needed
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: preferred_delivery_method
+        label: Preferred delivery method
+        hint: How you would like to receive the records
+        type: select_one
+        options:
+          - Digital download
+          - Email
+          - Physical copies
+        required: false
+      - id: 8
+        name: authorization_signature
+        label: Authorization signature name
+        hint: Name authorizing the release
+        type: text
+        options: []
+        required: true

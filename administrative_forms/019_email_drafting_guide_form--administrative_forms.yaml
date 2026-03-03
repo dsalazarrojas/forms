@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: email_drafting_guide_form
+    pages:
+    - id: 1
+      name: email_subject
+      label: email subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email_body
+      label: email body
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: recipient_email
+      label: recipient email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: sender_email
+      label: sender email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: attachment
+      label: attachment
+      hint: attach an optional file to your email
+      type: select_one
+      options:
+      - '{''label'': ''file''}'
+      - '{''label'': ''video''}'
+      - '{''label'': ''audio''}'
+      - '{''label'': ''image''}'
+      required: false
+    - id: 6
+      name: priority
+      label: priority
+      hint: select multiple priority levels
+      type: select_multiple
+      options:
+      - '{''label'': ''low''}'
+      - '{''label'': ''medium''}'
+      - '{''label'': ''high''}'
+      required: false
+    - id: 7
+      name: due_date
+      label: due date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time_available
+      label: time available
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: sender_name
+      label: sender name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: recipient_name
+      label: recipient name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: sender_company
+      label: sender company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: recipient_company
+      label: recipient company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: sender_department
+      label: sender department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: recipient_department
+      label: recipient department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: sender_location
+      label: sender location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: recipient_location
+      label: recipient location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: sender_phone
+      label: sender phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Hire Excess Declaration Form
+    pages:
+    - id: 1
+      name: vehicle_hire_excess_declaration_form
+      label: Vehicle Hire Excess Declaration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_type
+      label: vehicle_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: vehicle_make
+      label: vehicle_make
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: excess_amount
+      label: excess_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_hire_start_date
+      label: vehicle_hire_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_hire_end_date
+      label: vehicle_hire_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_hire_location
+      label: vehicle_hire_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: excess_declaration
+      label: excess_declaration
+      hint: null
+      type: text
+      options: []
+      required: false

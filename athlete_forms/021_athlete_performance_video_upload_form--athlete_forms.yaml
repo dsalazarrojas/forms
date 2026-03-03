@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Performance Video Upload Form
+    pages:
+    - id: 1
+      name: athlete_name
+      label: Athlete Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: athlete_id
+      label: Athlete ID Number
+      hint: Student or team identification number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: sport
+      label: Sport
+      hint: Primary sport
+      type: select_one
+      options:
+      - Football
+      - Basketball
+      - Soccer
+      - Track and Field
+      - Swimming
+      - Volleyball
+      - Baseball
+      - Softball
+      - Tennis
+      - Golf
+      - Other
+      required: true
+    - id: 6
+      name: position
+      label: Primary Position
+      hint: Main position played
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: team_name
+      label: Team Name
+      hint: Current or former team
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: video_purpose
+      label: Purpose of Video Submission
+      hint: Why are you submitting this video
+      type: select_one
+      options:
+      - College Recruitment
+      - Professional Tryout
+      - Team Selection
+      - Skill Assessment
+      - Coaching Review
+      - Scholarship Application
+      - Other
+      required: true
+    - id: 9
+      name: video_type
+      label: Type of Video
+      hint: What type of footage is this
+      type: select_one
+      options:
+      - Game Footage
+      - Practice Footage
+      - Highlight Reel
+      - Skills Demonstration
+      - Combine or Testing
+      - Training Session
+      required: true
+    - id: 10
+      name: video_date
+      label: Video Recording Date
+      hint: When was the video recorded
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: video_location
+      label: Video Location
+      hint: Where was the video recorded
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: opponent_or_context
+      label: Opponent or Context
+      hint: Who was the opponent or what was the context
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: video_duration
+      label: Video Duration
+      hint: Length of video in minutes
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: video_file_upload
+      label: Video File Upload
+      hint: Upload your video file
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: video_link
+      label: Video Link Alternative
+      hint: Or provide a link to your video
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: additional_files
+      label: Additional Files
+      hint: Upload any additional videos or documents
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: key_highlights
+      label: Key Highlights to Note
+      hint: Describe what coaches should look for
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: stats_or_achievements
+      label: Relevant Stats or Achievements
+      hint: List any relevant statistics or achievements
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: coach_references
+      label: Coach References
+      hint: List coaches who can vouch for this footage
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: permission_to_share
+      label: Permission to Share Video
+      hint: Can this video be shared with other coaches or scouts
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Only with Specific Parties
+      required: true
+    - id: 21
+      name: follow_up_preference
+      label: Follow-Up Preference
+      hint: How would you like to be contacted
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      - No Follow-Up Needed
+      required: true
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information to share
+      type: text
+      options: []
+      required: false

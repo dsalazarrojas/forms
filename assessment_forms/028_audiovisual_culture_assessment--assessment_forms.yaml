@@ -1,0 +1,259 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Audiovisual Culture Assessment
+    pages:
+      - id: 1
+        name: respondent_age
+        label: Age Range
+        hint: Select your age range
+        type: select_one
+        options:
+          - Under 18
+          - 18-24
+          - 25-34
+          - 35-44
+          - 45-54
+          - 55-64
+          - 65 or older
+        required: true
+      - id: 2
+        name: respondent_gender
+        label: Gender
+        hint: Select your gender identity
+        type: select_one
+        options:
+          - Male
+          - Female
+          - Non-binary
+          - Prefer to self-describe
+          - Prefer not to say
+        required: false
+      - id: 3
+        name: education_level
+        label: Education Level
+        hint: Highest level of education completed
+        type: select_one
+        options:
+          - High school or less
+          - Some college
+          - Associate degree
+          - Bachelor degree
+          - Graduate degree
+          - Professional degree
+        required: true
+      - id: 4
+        name: location_type
+        label: Location Type
+        hint: What best describes where you live?
+        type: select_one
+        options:
+          - Urban area
+          - Suburban area
+          - Rural area
+          - Small town
+        required: true
+      - id: 5
+        name: country_of_residence
+        label: Country of Residence
+        hint: Country where you currently live
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: assessment_date
+        label: Assessment Date
+        hint: Date of this assessment
+        type: date
+        options: []
+        required: true
+      - id: 7
+        name: weekly_screen_time
+        label: Weekly Screen Time
+        hint: How many hours of screen time per week?
+        type: select_one
+        options:
+          - Under 10 hours
+          - 10-20 hours
+          - 21-30 hours
+          - 31-40 hours
+          - Over 40 hours
+        required: true
+      - id: 8
+        name: primary_viewing_device
+        label: Primary Viewing Device
+        hint: What device do you use most?
+        type: select_one
+        options:
+          - Television
+          - Laptop or desktop
+          - Tablet
+          - Smartphone
+          - Projector
+        required: true
+      - id: 9
+        name: streaming_services_used
+        label: Streaming Services Used
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Netflix
+          - Amazon Prime Video
+          - Disney Plus
+          - Hulu
+          - HBO Max
+          - Apple TV Plus
+          - YouTube
+          - Other
+        required: true
+      - id: 10
+        name: content_preferences
+        label: Content Preferences
+        hint: What content do you prefer?
+        type: select_multiple
+        options:
+          - Movies
+          - TV Series
+          - Documentaries
+          - News
+          - Sports
+          - Educational content
+          - Music videos
+          - User-generated content
+        required: true
+      - id: 11
+        name: genre_preferences
+        label: Genre Preferences
+        hint: Favorite genres
+        type: select_multiple
+        options:
+          - Action
+          - Comedy
+          - Drama
+          - Horror
+          - Science Fiction
+          - Romance
+          - Thriller
+          - Documentary
+          - Animation
+        required: true
+      - id: 12
+        name: viewing_habits
+        label: Viewing Habits
+        hint: When do you typically watch?
+        type: select_one
+        options:
+          - Morning
+          - Afternoon
+          - Evening
+          - Late night
+          - Throughout the day
+        required: true
+      - id: 13
+        name: viewing_style
+        label: Viewing Style
+        hint: How do you typically watch?
+        type: select_one
+        options:
+          - Alone
+          - With family
+          - With friends
+          - In groups or events
+        required: true
+      - id: 14
+        name: binge_watching_frequency
+        label: Binge Watching Frequency
+        hint: How often do you binge watch?
+        type: select_one
+        options:
+          - Never
+          - Rarely
+          - Sometimes
+          - Often
+          - Very often
+        required: true
+      - id: 15
+        name: social_media_influence
+        label: Social Media Influence
+        hint: Does social media influence your viewing?
+        type: select_one
+        options:
+          - Very influential
+          - Somewhat influential
+          - Neutral
+          - Not very influential
+          - Not influential at all
+        required: true
+      - id: 16
+        name: subtitle_usage
+        label: Subtitle Usage
+        hint: How often do you use subtitles?
+        type: select_one
+        options:
+          - Always
+          - Often
+          - Sometimes
+          - Rarely
+          - Never
+        required: true
+      - id: 17
+        name: international_content_interest
+        label: International Content Interest
+        hint: Interest in foreign language content
+        type: select_one
+        options:
+          - Very interested
+          - Somewhat interested
+          - Neutral
+          - Not very interested
+          - Not interested
+        required: true
+      - id: 18
+        name: advertising_tolerance
+        label: Advertising Tolerance
+        hint: How do you feel about ads?
+        type: select_one
+        options:
+          - Prefer ads over paying
+          - Don't mind limited ads
+          - Prefer ad-free subscription
+          - Will pay to avoid ads
+          - Strongly dislike all ads
+        required: true
+      - id: 19
+        name: content_discovery
+        label: Content Discovery
+        hint: How do you find new content?
+        type: select_multiple
+        options:
+          - Recommendations from friends
+          - Social media
+          - Streaming platform suggestions
+          - Reviews and critics
+          - Trailers
+          - News articles
+        required: true
+      - id: 20
+        name: future_viewing_trends
+        label: Future Viewing Trends
+        hint: What trends do you expect to follow?
+        type: select_multiple
+        options:
+          - More streaming
+          - More mobile viewing
+          - More VR content
+          - More interactive content
+          - More social viewing
+          - No change expected
+        required: false

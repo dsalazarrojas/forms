@@ -1,0 +1,26 @@
+inputSchema:
+  type: object
+  properties:
+    title: subtract_days
+    pages:
+    - id: 1
+      name: date_picker
+      label: Date Picker
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: days_to_subtract
+      label: Days to Subtract
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: result
+      label: Result
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,156 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Client Struggles Assessment
+    pages:
+    - id: 1
+      name: assessment_intro
+      label: -- Client Challenges Assessment --
+      hint: Help us understand your key struggles and goals
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_company
+      label: Company or Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: client_role
+      label: Your Role or Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: primary_struggle
+      label: Primary Business Struggle
+      hint: What is your biggest challenge right now?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: struggle_impact
+      label: Impact of This Struggle
+      hint: How does this challenge affect your business?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: struggle_duration
+      label: How Long Have You Faced This Challenge?
+      hint: null
+      type: select_one
+      options:
+      - Less than 3 months
+      - 3-6 months
+      - 6-12 months
+      - 1-2 years
+      - 2+ years
+      required: true
+    - id: 9
+      name: secondary_struggles
+      label: Secondary Struggles or Challenges
+      hint: Other significant challenges you face
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: previous_solutions_tried
+      label: Solutions You Have Already Tried
+      hint: What have you done to address these issues?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: barriers_to_solution
+      label: Barriers Preventing Solution
+      hint: What prevents you from solving this?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: business_priorities
+      label: Top Business Priorities
+      hint: What are your most important business goals?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent is resolving this challenge?
+      type: select_one
+      options:
+      - Critical - needs immediate attention
+      - High - within 1 month
+      - Medium - within 3 months
+      - Low - can wait
+      required: true
+    - id: 14
+      name: ideal_outcome
+      label: Ideal Outcome or Solution
+      hint: What would an ideal solution look like?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: success_metrics
+      label: How Would You Measure Success?
+      hint: What would success look like for you?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: available_resources
+      label: Available Resources or Budget
+      hint: What resources can you allocate to solve this?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: team_support
+      label: Team Buy-in or Support
+      hint: Does your team support addressing this challenge?
+      type: select_one
+      options:
+      - Strong support
+      - Good support
+      - Moderate support
+      - Limited support
+      - No support
+      required: false
+    - id: 18
+      name: additional_context
+      label: Additional Context or Information
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false

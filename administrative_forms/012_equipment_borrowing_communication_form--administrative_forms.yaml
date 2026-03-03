@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: equipment_borrowing_communication_form
+    pages:
+    - id: 1
+      name: user_request
+      label: User Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_id
+      label: Equipment ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: borrowing_time
+      label: Borrowing Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: borrowing_duration
+      label: Borrowing Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: reason_for_borrowing
+      label: Reason for Borrowing
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: communication_method
+      label: Communication Method
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

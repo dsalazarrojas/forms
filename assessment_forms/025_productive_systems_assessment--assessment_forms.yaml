@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Productive Systems Assessment
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: Company Name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_members
+      label: Team Members
+      hint: Team members
+      type: select_multiple
+      options:
+      - Team Lead
+      - Project Manager
+      - Team Member
+      required: false
+    - id: 3
+      name: productivity_tools
+      label: Productivity Tools
+      hint: Productivity Tools
+      type: select_one
+      options:
+      - Excel
+      - Google Drive
+      - Microsoft Office
+      required: false
+    - id: 4
+      name: tool_satisfaction
+      label: Tool Satisfaction
+      hint: Tool Satisfaction
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: process_satisfaction
+      label: Process Satisfaction
+      hint: Process Satisfaction
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department_satisfaction
+      label: Department Satisfaction
+      hint: Department Satisfaction
+      type: select_multiple
+      options:
+      - Marketing
+      - Sales
+      - Customer Service
+      required: false
+    - id: 7
+      name: continuous_improvement
+      label: Continuous Improvement
+      hint: Continuous Improvement
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submission_date
+      label: Submission Date
+      hint: Submission Date
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: submission_time
+      label: Submission Time
+      hint: Submission Time
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: Assigned Tool
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 11
+      name: company_rating
+      label: Company Rating
+      hint: Company Rating
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: team_rating
+      label: Team Rating
+      hint: Team Rating
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: department_rating
+      label: Department Rating
+      hint: Department Rating
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: team_lead_rating
+      label: Team Lead Rating
+      hint: Team Lead Rating
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: team_member_rating
+      label: Team Member Rating
+      hint: Team Member Rating
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fiscal Year Closure Authorization Application
+    pages:
+    - id: 1
+      name: fiscalyer
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: manager_id
+      label: Manager ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: date_requested
+      label: Date Requested
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: approver_comments
+      label: Approver Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: approver_name
+      label: Approver Name
+      hint: Select from employee directory
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: approver_signature
+      label: Approver Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: approver_email
+      label: Approver Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: approver_phone
+      label: Approver Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: approver_title
+      label: Approver Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: approver_id
+      label: Approver ID
+      hint: Select from employee directory
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: approver_date
+      label: Approver Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: approver_notes
+      label: Approver Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: approver_agreement
+      label: Approver Agreement
+      hint: Select from agreement list
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: approver_decline_reason
+      label: Decline Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: approver_decline_notes
+      label: Decline Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: approver_decline_comments
+      label: Decline Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: approver_signature_image
+      label: Approver Signature Image
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 22
+      name: approver_decline_signature_image
+      label: Decline Reason Image
+      hint: null
+      type: note
+      options: []
+      required: false

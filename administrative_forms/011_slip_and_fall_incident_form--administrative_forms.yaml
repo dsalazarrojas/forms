@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Slip And Fall Incident Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Date of Incident
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: incident_time
+      label: Time of Incident
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: location_of_incident
+      label: Location of Incident
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: incident_description
+      label: Description of Incident
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: witness_list
+      label: Witness List
+      hint: null
+      type: select_multiple
+      options:
+      - Witness 1
+      - Witness 2
+      - Witness 3
+      required: true
+    - id: 6
+      name: witness_details
+      label: Witness Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: witness_contact_info
+      label: Witness Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: witness_statement
+      label: Witness Statement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: victim_details
+      label: Victim Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: victim_contact_info
+      label: Victim Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: victim_statement
+      label: Victim Statement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: staff_present
+      label: Staff Present
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: witness_video_record
+      label: Witness Video Record
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: witness_photo_record
+      label: Witness Photo Record
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: witness_audio_record
+      label: Witness Audio Record
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: witness_documentation_record
+      label: Witness Documentation Record
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: staff_video_record
+      label: Staff Video Record
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: staff_photo_record
+      label: Staff Photo Record
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: staff_audio_record
+      label: Staff Audio Record
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: staff_documentation_record
+      label: Staff Documentation Record
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: witness_signature
+      label: Witness Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: staff_signature
+      label: Staff Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: incident_image
+      label: Incident Image
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: incident_video
+      label: Incident Video
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: incident_audio
+      label: Incident Audio
+      hint: null
+      type: note
+      options: []
+      required: false

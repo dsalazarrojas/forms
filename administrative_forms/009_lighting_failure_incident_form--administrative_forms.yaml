@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lighting Failure Incident Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: location_id
+      label: Location ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: location_name
+      label: Location Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: cause_of_failure
+      label: Cause of Failure
+      hint: null
+      type: select_multiple
+      options:
+      - Light bulb
+      - Switch failure
+      - Circuit failure
+      required: true
+    - id: 7
+      name: follow_up_actions
+      label: Follow-up Actions
+      hint: null
+      type: text
+      options: []
+      required: false

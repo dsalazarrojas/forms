@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: drama_class_appointment_form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: class_date
+      label: Class Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: class_start_time
+      label: Class Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: class_end_time
+      label: Class End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: class_duration
+      label: Class Duration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: class_max_enroll
+      label: Maximum Enroll
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: class_max_students
+      label: Maximum Students
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: instructor
+      label: Instructor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: workshop_type
+      label: Workshop Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: workshop_description
+      label: Workshop Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: workshop_location
+      label: Workshop Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_footer
+      label: Form Footer
+      hint: null
+      type: note
+      options: []
+      required: false

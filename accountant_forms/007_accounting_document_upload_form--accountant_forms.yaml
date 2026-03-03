@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Document Upload Form
+    pages:
+    - id: 1
+      name: intake_header
+      label: -- Document intake --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client name
+      hint: Company or individual name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: For file delivery confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact phone
+      hint: Optional phone for urgent clarifications
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: document_types
+      label: Document types
+      hint: Select document types being uploaded
+      type: select_multiple
+      options:
+      - Invoices
+      - Receipts
+      - Bank statements
+      - Payroll records
+      - Contracts
+      required: true
+    - id: 6
+      name: period_covered
+      label: Period covered by documents
+      hint: e.g., Jan 2025 to Dec 2025
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: number_of_files
+      label: Number of files
+      hint: Approximate count of uploaded files
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: preferred_delivery_method
+      label: Preferred delivery method
+      hint: How the client prefers to send files
+      type: select_one
+      options:
+      - Secure upload link
+      - Email
+      - Physical delivery
+      required: true
+    - id: 9
+      name: confidentiality_notice
+      label: Confidentiality notice
+      hint: Brief instruction about sensitive data handling
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: special_instructions
+      label: Special instructions
+      hint: Any handling or indexing instructions
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: uploaded_by
+      label: Uploaded by
+      hint: Name of person uploading files
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: upload_date
+      label: Upload date
+      hint: Date files were submitted
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: acknowledgement
+      label: Acknowledgement
+      hint: Confirm documents are complete to the best of your knowledge
+      type: select_one
+      options:
+      - Confirmed
+      - Not complete
+      required: true
+    - id: 14
+      name: additional_notes
+      label: Additional notes
+      hint: Any extra information about the upload
+      type: text
+      options: []
+      required: false

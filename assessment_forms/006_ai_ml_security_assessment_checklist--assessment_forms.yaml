@@ -1,0 +1,121 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: AI/ML Security Assessment Checklist
+    pages:
+    - id: 1
+      name: assessment_date
+      label: Assessment Date
+      hint: Date when the security assessment is conducted
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: assessor_name
+      label: Assessor Name
+      hint: Name of the security professional conducting the assessment
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: system_name
+      label: AI/ML System Name
+      hint: Name of the system being assessed
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: system_version
+      label: System Version
+      hint: Version number of the AI/ML system
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: deployment_environment
+      label: Deployment Environment
+      hint: Where the system is deployed
+      type: select_one
+      options: ["Cloud", "On-Premises", "Hybrid", "Edge Computing", "Containerized", "Other"]
+      required: true
+    - id: 6
+      name: data_classification
+      label: Data Classification Level
+      hint: Sensitivity level of data processed by the system
+      type: select_one
+      options: ["Public", "Internal", "Confidential", "Restricted", "Highly Restricted"]
+      required: true
+    - id: 7
+      name: model_security_controls
+      label: Model Security Controls Implemented
+      hint: Are appropriate security controls in place for the model?
+      type: select_one
+      options: ["Yes", "No", "Partial", "N/A"]
+      required: true
+    - id: 8
+      name: adversarial_attack_testing
+      label: Adversarial Attack Testing Performed
+      hint: Has the system been tested against adversarial attacks?
+      type: select_one
+      options: ["Yes", "No", "Planned", "N/A"]
+      required: true
+    - id: 9
+      name: data_poisoning_protection
+      label: Data Poisoning Protection
+      hint: Are measures in place to prevent data poisoning?
+      type: select_one
+      options: ["Yes", "No", "Partial", "N/A"]
+      required: true
+    - id: 10
+      name: model_theft_prevention
+      label: Model Theft Prevention
+      hint: Are measures in place to prevent model theft?
+      type: select_one
+      options: ["Yes", "No", "Partial", "N/A"]
+      required: true
+    - id: 11
+      name: privacy_preserving_techniques
+      label: Privacy Preserving Techniques
+      hint: Are privacy-preserving techniques implemented?
+      type: select_one
+      options: ["Yes", "No", "Partial", "N/A"]
+      required: true
+    - id: 12
+      name: access_control_verification
+      label: Access Control Verification
+      hint: Are appropriate access controls in place?
+      type: select_one
+      options: ["Yes", "No", "Partial", "N/A"]
+      required: true
+    - id: 13
+      name: vulnerability_scan_results
+      label: Vulnerability Scan Results
+      hint: Results of security scans performed on the system
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: risk_rating
+      label: Overall Risk Rating
+      hint: How would you rate the overall security risk?
+      type: select_one
+      options: ["Low", "Medium", "High", "Critical"]
+      required: true
+    - id: 15
+      name: recommendations
+      label: Security Recommendations
+      hint: Key recommendations to improve security posture
+      type: text
+      options: []
+      required: false

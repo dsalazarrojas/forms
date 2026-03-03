@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: fleet_maintenance_requisition_form
+    pages:
+    - id: 1
+      name: general
+      label: fleet_maintenance_requisition_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_number
+      label: vehicle_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: service_request
+      label: service_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: service_type
+      label: service_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: cost_estimate
+      label: cost_estimate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: submitted_date
+      label: submitted_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: service_due_date
+      label: service_due_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: vehicle_status
+      label: vehicle_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: vehicle_status_other
+      label: vehicle_status_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: location
+      label: location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: location_other
+      label: location_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: department_other
+      label: department_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: service_request_date
+      label: service_request_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: service_request_time
+      label: service_request_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: service_request_notes
+      label: service_request_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: vehicle_maintenance_type
+      label: vehicle_maintenance_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: vehicle_maintenance_type_other
+      label: vehicle_maintenance_type_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: service_request_comments
+      label: service_request_comments
+      hint: null
+      type: note
+      options: []
+      required: false

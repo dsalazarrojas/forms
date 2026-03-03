@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clothes Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: order_date
+      label: Order Date
+      hint: Date of order placement
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_items
+      label: -- Order Items --
+      hint: Clothing items you are ordering
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: item_type
+      label: Type of Clothing Item
+      hint: null
+      type: select_one
+      options:
+      - Coat or Jacket
+      - Shirt or Blouse
+      - Pants or Jeans
+      - Dress
+      - Skirt
+      - Sweater
+      - Other
+      required: true
+    - id: 7
+      name: item_description
+      label: Item Description or Style Number
+      hint: Name or code of the item
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: quantity
+      label: Quantity
+      hint: How many of this item
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: color_choice
+      label: Color Preference
+      hint: Desired color
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_sizing
+      label: -- Sizing Information --
+      hint: Measurements and size selection
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: size_selection
+      label: Size
+      hint: null
+      type: select_one
+      options:
+      - XS - Extra Small
+      - S - Small
+      - M - Medium
+      - L - Large
+      - XL - Extra Large
+      - XXL - 2X Large
+      - XXXL - 3X Large
+      - Custom size
+      required: true
+    - id: 12
+      name: chest_measurement
+      label: Chest Measurement
+      hint: Inches or centimeters
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: waist_measurement
+      label: Waist Measurement
+      hint: Inches or centimeters
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: length_measurement
+      label: Length Measurement
+      hint: Sleeve length or overall length
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_style
+      label: -- Style Preferences --
+      hint: Additional customization options
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: style_options
+      label: Style or Design Options
+      hint: Buttons, zippers, pockets, etc.
+      type: select_multiple
+      options:
+      - Buttons
+      - Zippers
+      - Pockets
+      - Hood
+      - Collar
+      - Cuffs
+      - Lining
+      - Custom embroidery
+      required: false
+    - id: 17
+      name: special_instructions
+      label: Special Instructions or Customizations
+      hint: Any special requests for this item
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_price
+      label: -- Pricing and Payment --
+      hint: Order cost and payment details
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: unit_price
+      label: Unit Price
+      hint: Price per item
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: total_price
+      label: Total Item Price
+      hint: Unit price times quantity
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: section_shipping
+      label: -- Shipping Information --
+      hint: Delivery details
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: shipping_address
+      label: Shipping Address
+      hint: Full delivery address
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - Standard Shipping
+      - Express Shipping
+      - Overnight
+      - Local Pickup
+      required: true
+    - id: 24
+      name: delivery_date
+      label: Preferred Delivery Date
+      hint: When do you need this
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: additional_notes
+      label: Additional notes or comments
+      hint: null
+      type: text
+      options: []
+      required: false

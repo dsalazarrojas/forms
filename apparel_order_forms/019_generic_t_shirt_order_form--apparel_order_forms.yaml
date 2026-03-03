@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Generic T Shirt Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: t_shirt_size
+      label: T Shirt Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - Extra Large
+      - Extra Extra Large
+      required: false
+    - id: 5
+      name: color
+      label: Color
+      hint: null
+      type: select_multiple
+      options:
+      - White
+      - Black
+      - Navy Blue
+      - Red
+      - Green
+      required: false
+    - id: 6
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: first_name_error
+      label: First Name Error
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: last_name_error
+      label: Last Name Error
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email_error
+      label: Email Error
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: t_shirt_size_error
+      label: T Shirt Size Error
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: color_error
+      label: Color Error
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: quantity_error
+      label: Quantity Error
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: price_error
+      label: Price Error
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submit_error
+      label: Submit Error
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: order_notes
+      label: Order Notes
+      hint: Add any notes to your order
+      type: note
+      options: []
+      required: false

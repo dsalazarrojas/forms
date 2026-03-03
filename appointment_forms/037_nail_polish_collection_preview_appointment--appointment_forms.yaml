@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nail Polish Collection Preview Appointment
+    pages:
+    - id: 1
+      name: preview_session
+      label: Preview Session
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: nail_artist
+      label: Nail Artist
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Nail Artist 1''}'
+      - '{''name'': ''Nail Artist 2''}'
+      - '{''name'': ''Nail Artist 3''}'
+      required: true
+    - id: 5
+      name: client_preferences
+      label: Client Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: nail_polish_preferences
+      label: Nail Polish Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Nail Polish 1''}'
+      - '{''name'': ''Nail Polish 2''}'
+      - '{''name'': ''Nail Polish 3''}'
+      required: true
+    - id: 7
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: appointment_notes
+      label: Appointment Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: salon_confirmation
+      label: Salon Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: client_confirmation
+      label: Client Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: cancellation_reason
+      label: Cancellation Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: cancellation_reason_select
+      label: Cancellation Reason
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Cancellation Reason 1''}'
+      - '{''name'': ''Cancellation Reason 2''}'
+      - '{''name'': ''Cancellation Reason 3''}'
+      required: true
+    - id: 15
+      name: reschedule_appointment
+      label: Reschedule Appointment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: reschedule_reason
+      label: Reschedule Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Signed by Client''}'
+      - '{''name'': ''Not Signed by Client''}'
+      - '{''name'': ''Signature not Required''}'
+      required: true
+    - id: 18
+      name: salon_signature
+      label: Salon Signature
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Signed by Salon''}'
+      - '{''name'': ''Not Signed by Salon''}'
+      - '{''name'': ''Signature not Required''}'
+      required: true
+    - id: 19
+      name: appointment_status
+      label: Appointment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Confirmed''}'
+      - '{''name'': ''Not Confirmed''}'
+      - '{''name'': ''Cancelled''}'
+      required: true
+    - id: 20
+      name: reschedule_status
+      label: Reschedule Status
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Confirmed''}'
+      - '{''name'': ''Not Confirmed''}'
+      - '{''name'': ''Cancelled''}'
+      required: true
+    - id: 21
+      name: confirmation_date
+      label: Confirmation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: confirmation_time
+      label: Confirmation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: cancellation_date
+      label: Cancellation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: cancellation_time
+      label: Cancellation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

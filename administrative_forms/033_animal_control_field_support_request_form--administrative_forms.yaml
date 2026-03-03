@@ -1,0 +1,242 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Control Field Support Request Form
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Your Full Name
+      hint: Person making request
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Your Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: request_intro
+      label: Animal Control Field Support Request
+      hint: Report an animal-related issue requiring assistance
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: request_date
+      label: Date of Request
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: incident_location
+      label: Location of Incident
+      hint: Where is the issue
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: location_type
+      label: Type of Location
+      hint: Where is it located
+      type: select_one
+      options:
+      - Residential property
+      - Commercial property
+      - Public park
+      - School grounds
+      - Roadway
+      - Vacant lot
+      - Other public space
+      required: true
+    - id: 9
+      name: issue_type
+      label: Type of Issue
+      hint: What is the problem
+      type: select_one
+      options:
+      - Stray animal
+      - Aggressive animal
+      - Injured animal
+      - Dead animal
+      - Excessive barking
+      - Animal at large
+      - Wildlife conflict
+      - Animal neglect
+      - Bite incident
+      - Other
+      required: true
+    - id: 10
+      name: animal_description
+      label: Describe the Animal
+      hint: Species, breed, color, size
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: number_of_animals
+      label: How Many Animals Are Involved
+      hint: Count
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3-5
+      - 6-10
+      - More than 10
+      required: true
+    - id: 12
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent is this
+      type: select_one
+      options:
+      - Emergency - immediate danger
+      - High - within 24 hours
+      - Medium - within 48 hours
+      - Low - routine response
+      required: true
+    - id: 13
+      name: public_safety_risk
+      label: Is There a Public Safety Risk
+      hint: Safety concern
+      type: select_one
+      options:
+      - Yes - immediate threat
+      - Yes - potential threat
+      - No - no safety risk
+      - Unsure
+      required: true
+    - id: 14
+      name: incident_description
+      label: Describe the Situation in Detail
+      hint: Full description
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: incident_time
+      label: When Did This Occur
+      hint: Time of incident
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: ongoing_issue
+      label: Is This an Ongoing Issue
+      hint: Frequency
+      type: select_one
+      options:
+      - Yes - happens daily
+      - Yes - happens weekly
+      - Yes - occasional
+      - No - first occurrence
+      required: true
+    - id: 17
+      name: previous_reports
+      label: Have You Reported This Before
+      hint: Previous reports
+      type: select_one
+      options:
+      - Yes - multiple times
+      - Yes - once
+      - No - first report
+      required: false
+    - id: 18
+      name: animal_owner_known
+      label: Is the Animal Owner Known
+      hint: Ownership
+      type: select_one
+      options:
+      - Yes - known owner
+      - No - stray
+      - Unsure
+      required: false
+    - id: 19
+      name: owner_info
+      label: Owner Information if Known
+      hint: Name and address
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: witnesses
+      label: Are There Any Witnesses
+      hint: Witness info
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: photos_available
+      label: Do You Have Photos or Videos
+      hint: Documentation
+      type: select_one
+      options:
+      - Yes - will provide
+      - false
+      required: false
+    - id: 22
+      name: access_instructions
+      label: Special Access Instructions
+      hint: Gate codes, etc.
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: best_contact_time
+      label: Best Time to Contact You
+      hint: Availability
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Anytime
+      required: true
+    - id: 24
+      name: anonymous_option
+      label: Do You Want to Remain Anonymous
+      hint: Privacy preference
+      type: select_one
+      options:
+      - No - contact me
+      - Yes - do not reveal identity
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other info
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: requestor_signature
+      label: Requestor Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: signature_date
+      label: Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

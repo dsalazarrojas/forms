@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Paycheck Authorization Form
+    pages:
+    - id: 1
+      name: paycheck_authorization_form
+      label: first_name
+      hint: First name of the payee
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: paycheck_authorization_form_first_name_hint
+      label: last_name
+      hint: Last name of the payee
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: paycheck_authorization_form_last_name_hint
+      label: date_pick_up
+      hint: Date to pick up the paycheck
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: paycheck_authorization_form_date_pick_up_hint
+      label: employee_id
+      hint: Employee ID of the authorized employee
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: paycheck_authorization_form_employee_id_hint
+      label: relationship
+      hint: Relationship of the authorized pick up
+      type: select_one
+      options:
+      - Authorized Spouse
+      - Authorized Parent
+      - Authorized Child
+      required: false
+    - id: 6
+      name: paycheck_authorization_form_relationship_hint
+      label: phone
+      hint: Phone number of the authorized person
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: paycheck_authorization_form_phone_hint
+      label: email
+      hint: Email of the authorized person
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: paycheck_authorization_form_email_hint
+      label: date
+      hint: Date of authorization
+      type: date
+      options: []
+      required: false

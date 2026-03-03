@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Core Building Assessment Form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: building_info
+      label: building_info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: fire_safety
+      label: fire_safety
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: accessibility
+      label: accessibility
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: building_conditions
+      label: building_conditions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: safety_features
+      label: safety_features
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: regulatory_compliance
+      label: regulatory_compliance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: building_characteristics
+      label: building_characteristics
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: building_age
+      label: building_age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: building_status
+      label: building_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 11
+      name: building_condition_rating
+      label: building_condition_rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: building_purpose
+      label: building_purpose
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: site_description
+      label: site_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: site_characteristics
+      label: site_characteristics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: structural_systems
+      label: structural_systems
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: structural_systems_description
+      label: structural_systems_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: structural_systems_rating
+      label: structural_systems_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: environmental_systems
+      label: environmental_systems
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: environmental_systems_description
+      label: environmental_systems_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: environmental_systems_rating
+      label: environmental_systems_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: electrical_systems
+      label: electrical_systems
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: electrical_systems_description
+      label: electrical_systems_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: electrical_systems_rating
+      label: electrical_systems_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: mechanical_systems
+      label: mechanical_systems
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: mechanical_systems_description
+      label: mechanical_systems_description
+      hint: null
+      type: text
+      options: []
+      required: false

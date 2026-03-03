@@ -1,0 +1,114 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Access Control Check In Form
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: Enter your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID or Badge Number
+      hint: Enter your employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Select your department
+      type: select_one
+      options: ["Administration", "IT", "Finance", "Operations", "Marketing", "Sales", "HR", "Security", "Other"]
+      required: true
+    - id: 4
+      name: access_level
+      label: Required Access Level
+      hint: What level of access do you need?
+      type: select_one
+      options: ["Basic", "Standard", "Enhanced", "Restricted", "Executive"]
+      required: true
+    - id: 5
+      name: check_in_date
+      label: Check In Date
+      hint: Date of check in
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: check_in_time
+      label: Check In Time
+      hint: Time of check in
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: check_out_time
+      label: Expected Check Out Time
+      hint: Estimated time of departure
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: purpose_of_visit
+      label: Purpose of Visit
+      hint: Briefly describe the reason for your visit
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: authorized_area
+      label: Authorized Areas
+      hint: Select the areas you are authorized to access
+      type: select_multiple
+      options: ["Reception", "Office Area", "Server Room", "Storage", "Conference Rooms", "Kitchen", "Parking", "Restrooms"]
+      required: true
+    - id: 10
+      name: escort_required
+      label: Escort Required
+      hint: Do you require an escort in restricted areas?
+      type: select_one
+      options: ["Yes", "No", "Only in Restricted Areas"]
+      required: true
+    - id: 11
+      name: visitor_type
+      label: Visitor Type
+      hint: Select your visitor classification
+      type: select_one
+      options: ["Employee", "Contractor", "Vendor", "Client", "Guest", "Interviewee"]
+      required: true
+    - id: 12
+      name: contact_person
+      label: Contact Person
+      hint: Name of the person you're visiting
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Name and phone number of emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special access requirements or instructions
+      type: text
+      options: []
+      required: false

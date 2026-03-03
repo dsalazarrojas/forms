@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Succession Planning Needs Assessment Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: skills
+      label: Skills
+      hint: Enter relevant skills for this role
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: career_aspirations
+      label: Career Aspirations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: future_job_roles
+      label: Future Job Roles
+      hint: List any future job roles this employee may take on
+      type: select_multiple
+      options:
+      - CEO
+      - Manager
+      - Director
+      - Other
+      required: false
+    - id: 7
+      name: skills_assess
+      label: Skills Assess
+      hint: How does this employee rate in skills?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: job_performance
+      label: Job Performance
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 9
+      name: career_development
+      label: Career Development
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      - None
+      required: false
+    - id: 10
+      name: employee_feedback
+      label: Employee Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: job_title_awareness
+      label: Job Title Awareness
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      - None
+      required: false
+    - id: 13
+      name: job_performance_awareness
+      label: Job Performance Awareness
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      - None
+      required: false
+    - id: 14
+      name: succession_planning
+      label: Succession Planning
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      - None
+      required: false
+    - id: 15
+      name: career_development_planning
+      label: Career Development Planning
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      - None
+      required: false

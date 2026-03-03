@@ -1,0 +1,301 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boxing and Fitness Client Assessment Form
+    pages:
+    - id: 1
+      name: client_first_name
+      label: First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_last_name
+      label: Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: Select your gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email Address
+      hint: For communications
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Address
+      hint: Complete home address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of assessment
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: fitness_goals
+      label: Primary Fitness Goals
+      hint: What do you want to achieve
+      type: select_multiple
+      options:
+      - Weight loss
+      - Muscle building
+      - Improved endurance
+      - Better boxing skills
+      - Stress relief
+      - General fitness
+      - Competition preparation
+      - Self-defense
+      required: true
+    - id: 12
+      name: experience_level
+      label: Boxing Experience Level
+      hint: How much boxing experience do you have
+      type: select_one
+      options:
+      - None - complete beginner
+      - Some experience
+      - Intermediate
+      - Advanced
+      - Competitive boxer
+      required: true
+    - id: 13
+      name: exercise_frequency
+      label: Current Exercise Frequency
+      hint: How often do you exercise now
+      type: select_one
+      options:
+      - Never
+      - 1-2 times per week
+      - 3-4 times per week
+      - 5-6 times per week
+      - Daily
+      required: true
+    - id: 14
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Select any that apply
+      type: select_multiple
+      options:
+      - None
+      - Heart condition
+      - High blood pressure
+      - Asthma
+      - Diabetes
+      - Joint problems
+      - Back problems
+      - Previous injuries
+      - Breathing difficulties
+      required: true
+    - id: 15
+      name: current_medications
+      label: Current Medications
+      hint: List all medications
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: previous_injuries
+      label: Previous Injuries
+      hint: List any relevant injuries
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: physical_limitations
+      label: Physical Limitations
+      hint: Any movements you cannot perform
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: smoking_status
+      label: Smoking Status
+      hint: Do you smoke
+      type: select_one
+      options:
+      - Never smoked
+      - Former smoker
+      - Current smoker
+      required: true
+    - id: 19
+      name: alcohol_consumption
+      label: Alcohol Consumption
+      hint: How often do you drink alcohol
+      type: select_one
+      options:
+      - Never
+      - Occasionally
+      - Moderately
+      - Regularly
+      required: false
+    - id: 20
+      name: sleep_patterns
+      label: Sleep Patterns
+      hint: How many hours of sleep per night
+      type: select_one
+      options:
+      - Less than 5 hours
+      - 5-6 hours
+      - 7-8 hours
+      - More than 8 hours
+      required: true
+    - id: 21
+      name: stress_level
+      label: Stress Level
+      hint: How would you rate your stress
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - High
+      - Very high
+      required: true
+    - id: 22
+      name: resting_heart_rate
+      label: Resting Heart Rate
+      hint: If known, in beats per minute
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: height
+      label: Height
+      hint: In feet and inches or cm
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: weight
+      label: Current Weight
+      hint: In pounds or kg
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: body_fat_percentage
+      label: Body Fat Percentage
+      hint: If known
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: cardiovascular_assessment
+      label: Cardiovascular Assessment
+      hint: Results of cardio evaluation
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: strength_assessment
+      label: Strength Assessment
+      hint: Results of strength evaluation
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: flexibility_assessment
+      label: Flexibility Assessment
+      hint: Results of flexibility evaluation
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: trainer_notes
+      label: Trainer Notes
+      hint: For internal use
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: program_recommendations
+      label: Program Recommendations
+      hint: Suggested training program
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: liability_waiver
+      label: Liability Waiver
+      hint: I understand the risks and waive liability
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 32
+      name: medical_clearance
+      label: Medical Clearance
+      hint: Do you have medical clearance to exercise
+      type: select_one
+      options:
+      - true
+      - false
+      - Not required
+      required: true
+    - id: 33
+      name: client_signature
+      label: Client Signature
+      hint: Type your full legal name as signature
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true
+    - id: 35
+      name: trainer_signature
+      label: Trainer Signature
+      hint: Trainer signature
+      type: text
+      options: []
+      required: true

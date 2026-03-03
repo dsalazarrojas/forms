@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Apparel Product Order Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: order_details
+      label: -- Order Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: product_name
+      label: Product Name
+      hint: null
+      type: select_one
+      options:
+      - Classic T-Shirt
+      - Premium Hoodie
+      - Polo Shirt
+      - Sweatshirt
+      - Tank Top
+      - Jacket
+      required: true
+    - id: 7
+      name: size
+      label: Size
+      hint: null
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      required: true
+    - id: 8
+      name: color
+      label: Color
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - White
+      - Navy Blue
+      - Red
+      - Gray
+      - Blue
+      required: true
+    - id: 9
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: price_per_unit
+      label: Price per unit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: delivery_address
+      label: -- Delivery Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: city_name
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: delivery_method
+      label: Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Standard Shipping
+      - Express Shipping
+      - Overnight Shipping
+      - Pickup at Store
+      required: true
+    - id: 17
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false

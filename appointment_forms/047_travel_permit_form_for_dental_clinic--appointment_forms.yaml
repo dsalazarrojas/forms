@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Permit Form For Dental Clinic
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: prophets_info
+      label: Prophets Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_license
+      label: Medical License
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [''option1'', ''option2'', ''option3'', ''option4'', ''option5'',
+        ''option6'', ''option7'', ''option8'']}'
+      - Other
+      required: false
+    - id: 4
+      name: vehicle_license
+      label: Vehicle License
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      - option6
+      - option7
+      - option8
+      - option9
+      - option10
+      - option11
+      - option12
+      required: false
+    - id: 5
+      name: travel_details
+      label: Travel Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: travel_reason
+      label: Travel Reason
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      - option6
+      - option7
+      - option8
+      required: false
+    - id: 7
+      name: return_ticket
+      label: prophets Information
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      - option6
+      - option7
+      - option8
+      - option9
+      required: false
+    - id: 8
+      name: travel_duration
+      label: Travel Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: return_ticket_details
+      label: Return Ticket Details
+      hint: null
+      type: text
+      options: []
+      required: false

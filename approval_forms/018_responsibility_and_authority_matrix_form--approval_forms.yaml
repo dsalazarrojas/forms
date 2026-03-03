@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Responsibility And Authority Matrix Form
+    pages:
+    - id: 1
+      name: projects
+      label: projects
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: process_name
+      label: process_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: project_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: roles
+      label: responsibilities
+      hint: null
+      type: select_multiple
+      options:
+      - Role 1
+      - Role 2
+      - Role 3
+      required: false
+    - id: 5
+      name: owner
+      label: owner
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: handoffs
+      label: handoffs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: centralized_data_collection
+      label: centralized_data_collection
+      hint: null
+      type: select_multiple
+      options:
+      - Option 4
+      - Option 5
+      - Option 6
+      required: false
+    - id: 8
+      name: manager_review
+      label: manager_review
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: completion_date
+      label: completion_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

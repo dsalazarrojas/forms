@@ -1,0 +1,288 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Cruelty Investigator Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Home Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: application_intro
+      label: Animal Cruelty Investigator Application
+      hint: Join our team protecting animals from cruelty and neglect
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: position_type
+      label: Position Type
+      hint: Employment type
+      type: select_one
+      options:
+      - Full-time investigator
+      - Part-time investigator
+      - Volunteer investigator
+      - Reserve officer
+      - Intern
+      required: true
+    - id: 7
+      name: available_start_date
+      label: Available Start Date
+      hint: When can you begin
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: salary_expectations
+      label: Salary Expectations
+      hint: Expected compensation
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: experience_section
+      label: Experience Section
+      hint: Your relevant background
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: years_experience
+      label: Years of Investigative Experience
+      hint: Total experience
+      type: select_one
+      options:
+      - No formal experience
+      - Less than 1 year
+      - 1-3 years
+      - 4-7 years
+      - 8-15 years
+      - More than 15 years
+      required: true
+    - id: 11
+      name: law_enforcement_background
+      label: Do You Have Law Enforcement Experience
+      hint: LE background
+      type: select_one
+      options:
+      - Yes - sworn officer
+      - Yes - civilian staff
+      - Yes - military police
+      - false
+      required: true
+    - id: 12
+      name: animal_welfare_experience
+      label: Experience in Animal Welfare Field
+      hint: Relevant experience
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: education_section
+      label: Education Section
+      hint: Your educational background
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: highest_education
+      label: Highest Level of Education
+      hint: Education level
+      type: select_one
+      options:
+      - High school or equivalent
+      - Some college
+      - Associate degree
+      - Bachelor's degree
+      - Master's degree or higher
+      required: true
+    - id: 15
+      name: degree_field
+      label: Field of Study
+      hint: Major
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: relevant_coursework
+      label: Relevant Coursework or Training
+      hint: Classes, certifications
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: skills_section
+      label: Skills and Qualifications
+      hint: Your capabilities
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: investigative_skills
+      label: Investigative Skills
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Crime scene documentation
+      - Evidence collection
+      - Interview techniques
+      - Report writing
+      - Case management
+      - Legal procedures
+      - Surveillance
+      - None
+      required: true
+    - id: 19
+      name: animal_handling
+      label: Animal Handling Skills
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Safe restraint techniques
+      - Behavior assessment
+      - Species identification
+      - Health assessment
+      - Transport procedures
+      - Humane euthanasia certified
+      - None
+      required: true
+    - id: 20
+      name: legal_knowledge
+      label: Knowledge of Animal Protection Laws
+      hint: Legal expertise
+      type: select_one
+      options:
+      - Extensive - can cite statutes
+      - Moderate - familiar with laws
+      - Basic - general awareness
+      - Limited - need training
+      required: true
+    - id: 21
+      name: certifications
+      label: Relevant Certifications
+      hint: List certifications
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: employment_history
+      label: Relevant Employment History
+      hint: Previous employers
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: references
+      label: Professional References
+      hint: Names and contact info
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: physical_requirements
+      label: Can You Meet Physical Demands
+      hint: Physical ability
+      type: select_one
+      options:
+      - Yes - no limitations
+      - Yes - with accommodations
+      - No - have limitations
+      required: true
+    - id: 25
+      name: schedule_flexibility
+      label: Are You Available for Irregular Hours
+      hint: Flexibility
+      type: select_one
+      options:
+      - Yes - fully flexible
+      - Yes - with limitations
+      - No - regular hours only
+      required: true
+    - id: 26
+      name: travel_ability
+      label: Are You Willing to Travel Within Jurisdiction
+      hint: Travel requirement
+      type: select_one
+      options:
+      - Yes - no restrictions
+      - Yes - limited area
+      - false
+      required: true
+    - id: 27
+      name: why_interested
+      label: Why Do You Want This Position
+      hint: Motivation
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: stressful_situations
+      label: How Do You Handle Stressful Situations
+      hint: Coping strategies
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: background_check
+      label: Are You Willing to Undergo Background Check
+      hint: Screening
+      type: select_one
+      options:
+      - Yes - I consent
+      - false
+      required: true
+    - id: 30
+      name: drug_screening
+      label: Are You Willing to Undergo Drug Screening
+      hint: If required
+      type: select_one
+      options:
+      - Yes - I consent
+      - false
+      required: false
+    - id: 31
+      name: additional_info
+      label: Additional Information
+      hint: Anything else
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: applicant_signature
+      label: Applicant Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: signature_date
+      label: Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

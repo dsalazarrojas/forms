@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brownies Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer name
+      hint: Full name for order pickup or delivery
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact email
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone number
+      hint: Optional phone contact
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: brownie_flavor
+      label: Brownie flavor
+      hint: Select preferred flavor
+      type: select_one
+      options:
+      - Classic chocolate
+      - Salted caramel
+      - Peanut butter
+      - Gluten free
+      required: true
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: Number of units or boxes
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: pickup_or_delivery
+      label: Pickup or delivery
+      hint: Choose fulfillment method
+      type: select_one
+      options:
+      - Pickup
+      - Delivery
+      required: true
+    - id: 7
+      name: delivery_address
+      label: Delivery address
+      hint: Required if delivery selected
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: special_instructions
+      label: Special instructions
+      hint: Allergies gift notes or packaging requests
+      type: text
+      options: []
+      required: false

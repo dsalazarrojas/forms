@@ -1,0 +1,289 @@
+inputSchema:
+  type: object
+  properties:
+    title: Behavior Based Psychometric Assessment Questionnaire
+    pages:
+    - id: 1
+      name: participant_name
+      label: Full Name
+      hint: Optional - you may remain anonymous
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_email
+      label: Email Address
+      hint: For results delivery
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: assessment_date
+      label: Assessment Date
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: age
+      label: Age
+      hint: Your age in years
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: false
+    - id: 6
+      name: occupation
+      label: Occupation
+      hint: Current occupation or student
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assessment_purpose
+      label: Purpose of Assessment
+      hint: Why are you taking this assessment
+      type: select_one
+      options:
+      - Personal Development
+      - Career Counseling
+      - Team Building
+      - Leadership Development
+      - Research
+      - Academic Requirement
+      - Other
+      required: true
+    - id: 8
+      name: social_interaction
+      label: Social Interaction Preference
+      hint: In social situations I typically
+      type: select_one
+      options:
+      - Take charge and lead conversations
+      - Actively participate but do not lead
+      - Listen more than I speak
+      - Observe from the sidelines
+      - Avoid when possible
+      required: true
+    - id: 9
+      name: decision_making
+      label: Decision Making Style
+      hint: When making decisions I typically
+      type: select_one
+      options:
+      - Decide quickly based on intuition
+      - Analyze all options carefully
+      - Seek input from others
+      - Delay until necessary
+      - Follow established rules or procedures
+      required: true
+    - id: 10
+      name: stress_response
+      label: Response to Stress
+      hint: Under pressure I tend to
+      type: select_one
+      options:
+      - Become more focused and productive
+      - Feel anxious but push through
+      - Seek support from others
+      - Withdraw and need space
+      - Become irritable or emotional
+      required: true
+    - id: 11
+      name: work_pace
+      label: Preferred Work Pace
+      hint: I prefer to work
+      type: select_one
+      options:
+      - Very quickly with urgency
+      - Steadily and efficiently
+      - At a moderate comfortable pace
+      - Slowly and thoroughly
+      - In bursts of energy
+      required: true
+    - id: 12
+      name: change_adaptability
+      label: Adaptability to Change
+      hint: When things change I
+      type: select_one
+      options:
+      - Embrace it enthusiastically
+      - Accept it and adapt
+      - Need time to adjust
+      - Prefer stability and routine
+      - Resist the change
+      required: true
+    - id: 13
+      name: conflict_handling
+      label: Conflict Handling Style
+      hint: When facing conflict I typically
+      type: select_one
+      options:
+      - Address it directly
+      - Try to find compromise
+      - Avoid confrontation
+      - Seek mediation from others
+      - Become defensive
+      required: true
+    - id: 14
+      name: attention_to_detail
+      label: Attention to Detail
+      hint: I would describe my attention to detail as
+      type: select_one
+      options:
+      - Extremely detail-oriented
+      - Very thorough
+      - Balanced approach
+      - Focus on big picture
+      - Often miss details
+      required: true
+    - id: 15
+      name: motivation_source
+      label: Primary Motivation Source
+      hint: What motivates you most
+      type: select_one
+      options:
+      - Achievement and results
+      - Recognition from others
+      - Helping others
+      - Learning and growth
+      - Security and stability
+      required: true
+    - id: 16
+      name: communication_style
+      label: Communication Style
+      hint: My communication style is
+      type: select_one
+      options:
+      - Direct and assertive
+      - Friendly and expressive
+      - Calm and supportive
+      - Precise and analytical
+      - Reserved and quiet
+      required: true
+    - id: 17
+      name: team_role
+      label: Preferred Team Role
+      hint: In a team I prefer to
+      type: select_one
+      options:
+      - Lead and direct
+      - Generate ideas
+      - Coordinate and organize
+      - Support and encourage
+      - Execute tasks
+      required: true
+    - id: 18
+      name: risk_tolerance
+      label: Risk Tolerance
+      hint: How do you approach risk
+      type: select_one
+      options:
+      - Very comfortable with risk
+      - Somewhat comfortable
+      - Neutral
+      - Prefer low risk
+      - Very risk-averse
+      required: true
+    - id: 19
+      name: feedback_reception
+      label: Response to Feedback
+      hint: When receiving feedback I
+      type: select_one
+      options:
+      - Welcome it openly
+      - Accept it professionally
+      - Feel defensive initially
+      - Take it personally
+      - Prefer written only
+      required: true
+    - id: 20
+      name: time_management
+      label: Time Management Style
+      hint: How do you manage time
+      type: select_one
+      options:
+      - Highly organized and planned
+      - Generally on schedule
+      - Flexible with deadlines
+      - Often rush at the end
+      - Struggle with time management
+      required: true
+    - id: 21
+      name: creativity_level
+      label: Creativity Level
+      hint: How creative are you
+      type: select_one
+      options:
+      - Very creative and innovative
+      - Somewhat creative
+      - Balanced approach
+      - Prefer proven methods
+      - Not particularly creative
+      required: true
+    - id: 22
+      name: emotional_expression
+      label: Emotional Expression
+      hint: How do you express emotions
+      type: select_one
+      options:
+      - Very openly and freely
+      - Moderately expressive
+      - Keep emotions private
+      - Rarely show emotions
+      - Only with close ones
+      required: true
+    - id: 23
+      name: independence
+      label: Independence Level
+      hint: How independent are you
+      type: select_one
+      options:
+      - Highly independent
+      - Prefer independence
+      - Balanced
+      - Prefer collaboration
+      - Need guidance and support
+      required: true
+    - id: 24
+      name: persistence
+      label: Persistence Level
+      hint: When facing obstacles I
+      type: select_one
+      options:
+      - Never give up
+      - Persist until reasonable
+      - Try multiple approaches
+      - May give up if too difficult
+      - Often give up easily
+      required: true
+    - id: 25
+      name: empathy_level
+      label: Empathy Level
+      hint: How empathetic are you
+      type: select_one
+      options:
+      - Very empathetic
+      - Somewhat empathetic
+      - Neutral
+      - Somewhat detached
+      - Very logical over emotional
+      required: true
+    - id: 26
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information about yourself
+      type: text
+      options: []
+      required: false

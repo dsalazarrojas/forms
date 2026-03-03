@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: leadership_coaching_session_absence_form
+    pages:
+    - id: 1
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: session_id
+      label: session_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: session_time
+      label: session_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 11
+      name: output_file
+      label: output_file
+      hint: null
+      type: select_multiple
+      options:
+      - 005_leadership_coaching_session_absence_form--administrative_forms
+      - Other
+      required: false
+    - id: 12
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Administrative Forms
+      - Other
+      required: true
+    - id: 13
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: form_id
+      label: form_id
+      hint: null
+      type: select_one
+      options:
+      - '76599'
+      - Other
+      required: true

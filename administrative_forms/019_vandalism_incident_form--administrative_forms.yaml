@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vandalism Incident Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: incident_location
+      label: Incident Location
+      hint: Where did the incident occur?
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_description
+      label: Incident Description
+      hint: Provide details about what happened
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: suspect_details
+      label: Suspect Details
+      hint: Provide suspect's name, age, and contact information
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suspect_photo_urls
+      label: Suspect Photos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: damage_description
+      label: Damage Description
+      hint: Describe what was damaged
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: suspect_name
+      label: Suspect Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: suspect_age
+      label: Suspect Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: suspect_contact
+      label: Suspect Contact Information
+      hint: Phone number and/or address of suspect
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: suspect_relationship
+      label: Suspect Relationship
+      hint: Relationship to victim or property owner
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 12
+      name: suspect_address
+      label: Suspect Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: witness_details
+      label: Witness Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: witness_name
+      label: Witness Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: witness_relationship
+      label: Witness Relationship
+      hint: Relationship to suspect or property owner
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 16
+      name: witness_age
+      label: Witness Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: witness_contact
+      label: Witness Contact Information
+      hint: Phone number and/or address of witness
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: property_owner_name
+      label: Property Owner's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: property_owner_relationship
+      label: Property Owner Relationship
+      hint: Relationship to suspect
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 20
+      name: property_owner_contact
+      label: Property Owner Contact Information
+      hint: Phone number and/or address of property owner
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: incident_reporting_agency
+      label: Incident Reporting Agency
+      hint: Which agency reported the incident?
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 22
+      name: incident_reporting_reason
+      label: Reason for reporting incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: incident_reporting_date
+      label: Incident Reporting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: incident_reporting_time
+      label: Incident Reporting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: incident_reporting_venue
+      label: Incident Reporting Venue
+      hint: null
+      type: text
+      options: []
+      required: false

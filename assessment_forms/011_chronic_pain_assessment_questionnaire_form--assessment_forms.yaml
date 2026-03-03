@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chronic Pain Assessment Questionnaire Form
+    pages:
+    - id: 1
+      name: header_patient_info
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_id
+      label: Patient ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: assessment_date
+      label: Date of Assessment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: header_pain_description
+      label: -- Pain Description --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: pain_location
+      label: Main Location of Pain
+      hint: Be as specific as possible
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: pain_frequency
+      label: How often do you experience this pain?
+      hint: null
+      type: select_one
+      options:
+      - Constant
+      - Intermittent
+      - Rare
+      required: true
+    - id: 7
+      name: pain_quality
+      label: Describe the quality of the pain
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Aching
+      - Burning
+      - Sharp
+      - Shooting
+      - Throbbing
+      - Numbness
+      - Tingling
+      required: true
+    - id: 8
+      name: pain_intensity_average
+      label: Average Pain Intensity (Last 7 Days)
+      hint: 0 (No Pain) to 10 (Worst Possible)
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: pain_intensity_worst
+      label: Worst Pain Intensity (Last 7 Days)
+      hint: 0 to 10 scale
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: header_impact
+      label: -- Impact on Daily Life --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: sleep_interference
+      label: How much does pain interfere with your sleep?
+      hint: null
+      type: select_one
+      options:
+      - Not at all
+      - Mildly
+      - Moderately
+      - Severely
+      required: true
+    - id: 12
+      name: physical_activity_interference
+      label: Impact on Physical Activity (Walking, Exercise)
+      hint: null
+      type: select_one
+      options:
+      - No Impact
+      - Some Impact
+      - Major Impact
+      - Unable to perform
+      required: true
+    - id: 13
+      name: mood_impact
+      label: Has your mood been affected by the pain?
+      hint: e.g., Anxiety, Depression, Irritability
+      type: select_one
+      options:
+      - Not at all
+      - Slightly
+      - Significantly
+      required: true
+    - id: 14
+      name: current_medications
+      label: Current Pain Medications and Dosages
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: aggravating_factors
+      label: What makes the pain worse?
+      hint: e.g., Cold weather, sitting, standing, stress
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: relieving_factors
+      label: What makes the pain better?
+      hint: e.g., Heat, rest, massage, certain movement
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: clinician_signature_line
+      label: Clinician Name Completing Form
+      hint: null
+      type: text
+      options: []
+      required: true

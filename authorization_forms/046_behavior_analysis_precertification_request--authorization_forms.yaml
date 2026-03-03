@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Behavior Analysis Precertification Request
+    pages:
+    - id: 1
+      name: section_patient_info
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_full_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: insurance_id_number
+      label: Insurance Member ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: primary_diagnosis_code
+      label: Primary Diagnosis Code (ICD-10)
+      hint: e.g. F84.0 Autism Spectrum Disorder
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_provider_info
+      label: -- Provider and Facility Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: requesting_provider_name
+      label: Requesting Provider Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: provider_npi
+      label: Provider NPI Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: facility_tax_id
+      label: Facility Tax ID (TIN)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_phone_provider
+      label: Provider Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_service_request
+      label: -- Service Details and Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: requested_service_type
+      label: Requested ABA Service Type
+      hint: null
+      type: select_one
+      options:
+      - Assessment / Reassessment
+      - Direct Therapy (1-on-1)
+      - Supervision / Case Management
+      - Caregiver Training
+      - Social Skills Group
+      required: true
+    - id: 13
+      name: hours_requested_per_week
+      label: Total Hours Requested Per Week
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: service_start_date_requested
+      label: Requested Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: clinical_necessity_summary
+      label: Brief Summary of Clinical Necessity
+      hint: Justify the requested hours and service level
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: documentation_attachment_check
+      label: Have you attached the required clinical assessment?
+      hint: Evaluation must be from last 6 months
+      type: select_one
+      options:
+      - true
+      - No - Will be sent separately
+      required: true
+    - id: 17
+      name: section_attestation
+      label: -- Attestation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: clinical_accuracy_attestation
+      label: I certify that the requested services are medically necessary
+      hint: null
+      type: select_one
+      options:
+      - I Attest
+      - Other
+      required: true
+    - id: 19
+      name: request_submission_date
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: true

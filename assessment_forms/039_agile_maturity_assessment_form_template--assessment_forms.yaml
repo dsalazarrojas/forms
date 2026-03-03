@@ -1,0 +1,205 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Agile Maturity Assessment Form Template
+    pages:
+    - id: 1
+      name: assessment_date
+      label: Assessment Date
+      hint: Enter the date of the assessment
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: organization_name
+      label: Organization Name
+      hint: Enter the name of the organization being assessed
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: assessment_team
+      label: Assessment Team
+      hint: Enter the name of the team conducting the assessment
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: business_context_header
+      label: -- Business Context --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: business_sector
+      label: Business Sector
+      hint: Select the sector of the business
+      type: select_one
+      options: ["Technology", "Finance", "Healthcare", "Manufacturing", "Retail", "Consulting", "Government", "Education", "Telecommunications", "Other"]
+      required: true
+    - id: 6
+      name: organization_size
+      label: Organization Size
+      hint: Select the size of the organization
+      type: select_one
+      options: ["Small (1-50 employees)", "Medium (51-200 employees)", "Large (201-1000 employees)", "Enterprise (1000+ employees)"]
+      required: true
+    - id: 7
+      name: agile_adoption_reason
+      label: Reason for Agile Adoption
+      hint: Why is the organization adopting Agile?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: agile_practices_dimension
+      label: -- Agile Practices Dimension --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: sprint_planning_maturity
+      label: Sprint Planning Maturity
+      hint: Rate the maturity of sprint planning practices (1-5 scale)
+      type: select_one
+      options: ["1 - Not Implemented", "2 - Partially Implemented", "3 - Consistently Applied", "4 - Well Integrated", "5 - Optimized"]
+      required: true
+    - id: 10
+      name: daily_standup_effectiveness
+      label: Daily Standup Effectiveness
+      hint: Rate the effectiveness of daily standups (1-5 scale)
+      type: select_one
+      options: ["1 - Not Implemented", "2 - Partially Implemented", "3 - Consistently Applied", "4 - Well Integrated", "5 - Optimized"]
+      required: true
+    - id: 11
+      name: retrospective_quality
+      label: Retrospective Quality
+      hint: Rate the quality of retrospectives (1-5 scale)
+      type: select_one
+      options: ["1 - Not Implemented", "2 - Partially Implemented", "3 - Consistently Applied", "4 - Well Integrated", "5 - Optimized"]
+      required: true
+    - id: 12
+      name: backlog_management
+      label: Backlog Management
+      hint: Rate the backlog management practices (1-5 scale)
+      type: select_one
+      options: ["1 - Not Implemented", "2 - Partially Implemented", "3 - Consistently Applied", "4 - Well Integrated", "5 - Optimized"]
+      required: true
+    - id: 13
+      name: product_owner_effectiveness
+      label: Product Owner Effectiveness
+      hint: Rate the effectiveness of the Product Owner role (1-5 scale)
+      type: select_one
+      options: ["1 - Not Implemented", "2 - Partially Implemented", "3 - Consistently Applied", "4 - Well Integrated", "5 - Optimized"]
+      required: true
+    - id: 14
+      name: culture_collaboration_dimension
+      label: -- Culture and Collaboration Dimension --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: team_collaboration_level
+      label: Team Collaboration Level
+      hint: Rate the level of team collaboration (1-5 scale)
+      type: select_one
+      options: ["1 - Minimal", "2 - Low", "3 - Moderate", "4 - High", "5 - Excellent"]
+      required: true
+    - id: 16
+      name: transparency_practices
+      label: Transparency Practices
+      hint: Rate the transparency practices (1-5 scale)
+      type: select_one
+      options: ["1 - Minimal", "2 - Low", "3 - Moderate", "4 - High", "5 - Excellent"]
+      required: true
+    - id: 17
+      name: trust_level_within_teams
+      label: Trust Level Within Teams
+      hint: Rate the trust level within teams (1-5 scale)
+      type: select_one
+      options: ["1 - Minimal", "2 - Low", "3 - Moderate", "4 - High", "5 - Excellent"]
+      required: true
+    - id: 18
+      name: leadership_support_dimension
+      label: -- Leadership Support Dimension --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: leadership_commitment_to_agile
+      label: Leadership Commitment to Agile
+      hint: Rate the commitment of leadership to Agile (1-5 scale)
+      type: select_one
+      options: ["1 - Minimal", "2 - Low", "3 - Moderate", "4 - High", "5 - Excellent"]
+      required: true
+    - id: 20
+      name: resource_allocation_for_agile
+      label: Resource Allocation for Agile
+      hint: Rate the allocation of resources for Agile initiatives (1-5 scale)
+      type: select_one
+      options: ["1 - Minimal", "2 - Low", "3 - Moderate", "4 - High", "5 - Excellent"]
+      required: true
+    - id: 21
+      name: change_management_effectiveness
+      label: Change Management Effectiveness
+      hint: Rate the effectiveness of change management (1-5 scale)
+      type: select_one
+      options: ["1 - Minimal", "2 - Low", "3 - Moderate", "4 - High", "5 - Excellent"]
+      required: true
+    - id: 22
+      name: measurement_outcomes_dimension
+      label: -- Measurement and Outcomes Dimension --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: metric_tracking_effectiveness
+      label: Metric Tracking Effectiveness
+      hint: Rate the effectiveness of tracking Agile metrics (1-5 scale)
+      type: select_one
+      options: ["1 - Minimal", "2 - Low", "3 - Moderate", "4 - High", "5 - Excellent"]
+      required: true
+    - id: 24
+      name: delivery_velocity_stability
+      label: Delivery Velocity Stability
+      hint: Rate the stability of delivery velocity (1-5 scale)
+      type: select_one
+      options: ["1 - Minimal", "2 - Low", "3 - Moderate", "4 - High", "5 - Excellent"]
+      required: true
+    - id: 25
+      name: customer_satisfaction_improvement
+      label: Customer Satisfaction Improvement
+      hint: Rate the improvement in customer satisfaction (1-5 scale)
+      type: select_one
+      options: ["1 - Minimal", "2 - Low", "3 - Moderate", "4 - High", "5 - Excellent"]
+      required: true
+    - id: 26
+      name: overall_maturity_level
+      label: Overall Maturity Level
+      hint: What is the overall Agile maturity level of the organization?
+      type: select_one
+      options: ["Ad-hoc (Level 1)", "Emerging (Level 2)", "Developing (Level 3)", "Proficient (Level 4)", "Mature (Level 5)"]
+      required: true
+    - id: 27
+      name: next_steps_improvement_plan
+      label: Next Steps and Improvement Plan
+      hint: What are the next steps for improving Agile maturity?
+      type: text
+      options: []
+      required: false

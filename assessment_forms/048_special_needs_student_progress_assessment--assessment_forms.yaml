@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Special Needs Student Progress Assessment
+    pages:
+    - id: 1
+      name: student_id
+      label: Student Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: progress_date
+      label: Progress Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: goals
+      label: Goals
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: progress_notes
+      label: Progress Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: educators_name
+      label: Educator's Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: educator_email
+      label: Educator's Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: progress_category
+      label: Progress Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: category_notes
+      label: Category Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: student_level
+      label: Student Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 12
+      name: assessment_method
+      label: Assessment Method
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: assessment_frequency
+      label: Assessment Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: progress_status
+      label: Progress Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 15
+      name: progress_rating
+      label: Progress Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: progress_comments
+      label: Progress Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: followup_planned
+      label: Follow-up Planned
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: followup_notes
+      label: Follow-up Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: followup_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: followup_method
+      label: Follow-up Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: followup_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 22
+      name: assessment_frequency2
+      label: Assessment Frequency 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: progress_rating2
+      label: Progress Rating 2
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 24
+      name: followup_planned2
+      label: Follow-up Planned 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: followup_method2
+      label: Follow-up Method 2
+      hint: null
+      type: text
+      options: []
+      required: false

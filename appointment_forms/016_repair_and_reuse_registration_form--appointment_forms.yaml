@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Repair And Reuse Registration Form
+    pages:
+    - id: 1
+      name: registration_info
+      label: Registration Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_center
+      label: Service Center
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Service Center A''}'
+      - '{''label'': ''Service Center B''}'
+      - '{''label'': ''Service Center C''}'
+      required: false
+    - id: 6
+      name: event_info
+      label: Event Info
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

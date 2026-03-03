@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dog Behavior Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: dog_breed
+      label: dog_breed
+      hint: null
+      type: select_one
+      options:
+      - Bulldog
+      - Poodle
+      - Rottweiler
+      - Labrador
+      - Pug
+      required: false
+    - id: 3
+      name: dog_age
+      label: dog age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: dog_sex
+      label: dog sex
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: false
+    - id: 5
+      name: behavior_score
+      label: behavior score
+      hint: null
+      type: select_multiple
+      options:
+      - '0'
+      - '1'
+      - '2'
+      required: false
+    - id: 6
+      name: training_history
+      label: training history
+      hint: null
+      type: select_multiple
+      options:
+      - Basic Obedience
+      - Advanced Obedience
+      - No Formal Training
+      required: false
+    - id: 7
+      name: veterinary_visits
+      label: veterinary visits
+      hint: null
+      type: select_multiple
+      options:
+      - More than 3 times a year
+      - Every 3 months
+      - Every 6 months
+      - Less than once a year
+      required: false
+    - id: 8
+      name: owner_info
+      label: owner info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: dog_info
+      label: dog info
+      hint: null
+      type: select_multiple
+      options:
+      - Bullying
+      - Fearful
+      - Independent
+      - Aggressive
+      - Submissive
+      required: false

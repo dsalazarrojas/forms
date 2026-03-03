@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cardiorespiratory Fitness Assessment
+    pages:
+    - id: 1
+      name: client_assessment_header
+      label: -- Client and Assessment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_full_name
+      label: Client Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: assessment_date_conducted
+      label: Date of Assessment
+      hint: Select the date the assessment was performed
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: assessor_fitness_professional
+      label: Assessor/Fitness Professional
+      hint: Enter the name of the professional conducting the test
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: resting_vitals_header
+      label: -- Resting Vitals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: resting_heart_rate_bpm
+      label: Resting Heart Rate (BPM)
+      hint: Measure after 5 minutes of quiet rest
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: resting_blood_pressure_systolic
+      label: Resting Blood Pressure (Systolic)
+      hint: Enter the top number (mmHg)
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: resting_blood_pressure_diastolic
+      label: Resting Blood Pressure (Diastolic)
+      hint: Enter the bottom number (mmHg)
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: fitness_test_results_header
+      label: -- Fitness Test Results --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: vo2_max_estimate_ml_kg_min
+      label: VO2 Max Estimate (ml/kg/min)
+      hint: Estimated from submaximal or maximal testing
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: heart_rate_recovery_1_min
+      label: Heart Rate Recovery (1 min)
+      hint: Drop in heart rate 1 minute after stopping exercise
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: exercise_mode_selected
+      label: Exercise Mode Selected
+      hint: Choose the testing method
+      type: select_one
+      options:
+      - label: Treadmill (Standard)
+        value: treadmill
+      - label: Cycle Ergometer
+        value: cycle
+      - label: Step Test
+        value: step_test
+      - label: 1.5 Mile Run
+        value: run
+      required: true
+    - id: 13
+      name: rate_of_perceived_exertion_rpe
+      label: RPE (Rate of Perceived Exertion)
+      hint: Rate from 6 (No effort) to 20 (Max effort)
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: fitness_level_category_assigned
+      label: Fitness Level Category
+      hint: Based on VO2 Max results
+      type: select_one
+      options:
+      - label: Elite
+        value: elite
+      - label: Good
+        value: good
+      - label: Average
+        value: average
+      - label: Fair
+        value: fair
+      - label: Poor
+        value: poor
+      required: true
+    - id: 15
+      name: next_assessment_retest_date
+      label: Next Assessment/Retest Date
+      hint: Recommended in 8-12 weeks
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: assessor_comments_summary
+      label: Assessor Comments and Summary
+      hint: Any specific observations during the test
+      type: text
+      options: []
+      required: false

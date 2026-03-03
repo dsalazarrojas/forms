@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: Site Hazard Training Acknowledgement
+    pages:
+    - id: 1
+      name: site_hazard_training_acknowledgement
+      label: What is your name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: site_hazard_training_acknowledgement_date
+      label: Date of Training
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: site_hazard_training_acknowledgement_hazards
+      label: Hazards Identified
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: site_hazard_training_acknowledgement_training
+      label: Training Received
+      hint: null
+      type: select_one
+      options:
+      - Confined Space Training
+      - Fall Protection Training
+      - Scaffolding Safety Training
+      - Hazardous Materials Training
+      - Fire Safety Training
+      - Lockout/Tagout Training
+      - Emergency Response Training
+      - Hearing Conservation Training
+      - Bloodborne Pathogens Training
+      - Personal Protective Equipment Training
+      required: false

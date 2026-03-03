@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: VipbTransferOfOwnershipContract
+    pages:
+    - id: 1
+      name: animal_type
+      label: Animal Type
+      hint: null
+      type: select_one
+      options:
+      - Cat
+      - Dog
+      - Other
+      required: false
+    - id: 2
+      name: animal_name
+      label: Animal Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: owner_contact_method
+      label: Owner Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: report_location
+      label: Report Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: transfer_date
+      label: Transfer Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: transfer_by
+      label: Transfer By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: transfer_note
+      label: Transfer Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: owner_signature
+      label: Owner Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: witness_1_signature
+      label: Witness 1 Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: witness_2_signature
+      label: Witness 2 Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: transfer_agreement
+      label: Transfer Agreement
+      hint: null
+      type: select_one
+      options:
+      - Agreed
+      - Not Agreed
+      required: false
+    - id: 14
+      name: transfer_agreed
+      label: Transfer Agreed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: reason_for_transfer
+      label: Reason for Transfer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: witness_1
+      label: Witness 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: witness_2
+      label: Witness 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: owner_address
+      label: Owner Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: transfer_by_witness
+      label: Transfer By Witness
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: owner_dob
+      label: Owner DOB
+      hint: null
+      type: date
+      options: []
+      required: false

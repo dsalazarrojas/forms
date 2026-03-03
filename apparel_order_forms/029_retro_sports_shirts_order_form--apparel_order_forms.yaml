@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: retro-sports-shirts-order-form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping_address
+      label: shipping address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shirt_size
+      label: shirt size
+      hint: null
+      type: select_one
+      options:
+      - small
+      - large
+      - medium
+      required: true
+    - id: 4
+      name: order_date
+      label: order date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_multiple
+      options:
+      - Credit card
+      - PayPal
+      - Bank transfer
+      required: true
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: order_note
+      label: order note
+      hint: null
+      type: note
+      options: []
+      required: false

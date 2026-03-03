@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Firefighting Equipment Assessment
+    pages:
+    - id: 1
+      name: fire_fighting_equipment_assessment
+      label: Firefighting Equipment Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: fire_fighting_equipment_location
+      label: Firefighting Equipment Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: fire_fighting_equipment_model
+      label: Firefighting Equipment Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: fire_fighting_equipment_year_of_purchase
+      label: Firefighting Equipment Year Of Purchase
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: fire_fighting_equipment_last_inspection_date
+      label: Firefighting Equipment Last Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: fire_fighting_equipment_last_inspection_result
+      label: Firefighting Equipment Last Inspection Result
+      hint: null
+      type: select_multiple
+      options:
+      - Firefighting equipment is in good condition
+      - Firefighting equipment is in fair condition
+      - Firefighting equipment is in poor condition
+      - Firefighting equipment is in very poor condition
+      required: true
+    - id: 7
+      name: fire_fighting_equipment_next_inspection_due_date
+      label: Firefighting Equipment Next Inspection Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: fire_fighting_equipment_last_replaced_date
+      label: Firefighting Equipment Last Replaced Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: fire_fighting_equipment_inspection_frequency
+      label: Firefighting Equipment Inspection Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Bi-annually
+      - Annually
+      required: true
+    - id: 10
+      name: fire_fighting_equipment_last_serviced_date
+      label: Firefighting Equipment Last Serviced Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: fire_fighting_equipment_next_due_date
+      label: Firefighting Equipment Next Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: fire_fighting_equipment_last_inspected_by
+      label: Firefighting Equipment Last Inspected By
+      hint: null
+      type: select_one
+      options:
+      - Team Lead
+      - Fire Marshal
+      - Fire Officer
+      - Safety Officer
+      - Other
+      required: false
+    - id: 13
+      name: fire_fighting_equipment_last_review_date
+      label: Firefighting Equipment Last Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: fire_fighting_equipment_last_test_date
+      label: Firefighting Equipment Last Test Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: fire_fighting_equipment_last_cleaned_date
+      label: Firefighting Equipment Last Cleaned Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Registration Renewal Form
+    pages:
+    - id: 1
+      name: vehicle_registration_renewal_form
+      label: vehicle_registration_renewal_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_type
+      label: vehicle_type
+      hint: null
+      type: select_one
+      options:
+      - Car
+      - Motorcycle
+      - Truck
+      required: false
+    - id: 3
+      name: license_plate_number
+      label: license_plate_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: expiration_date
+      label: expiration_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: renewal_method
+      label: renewal_method
+      hint: null
+      type: select_multiple
+      options:
+      - Online payment
+      - In-person
+      - Mail-in
+      required: false
+    - id: 6
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Online Payment
+      - In-person Payment
+      - Mail-in Payment
+      required: false
+    - id: 7
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: zip_code
+      label: zip_code
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: false

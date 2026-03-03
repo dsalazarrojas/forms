@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Records Release Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: release_type
+      label: Release Type
+      hint: Select release type
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: release_period_start
+      label: Release Period Start
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: release_period_end
+      label: Release Period End
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: authorization
+      label: Authorization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: consent
+      label: Consent
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: user_signature
+      label: User Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: authorized_by
+      label: Authorized By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_approved
+      label: Date Approved
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: approval_code
+      label: Approval Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false

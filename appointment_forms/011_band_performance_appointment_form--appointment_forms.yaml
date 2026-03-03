@@ -1,0 +1,226 @@
+inputSchema:
+  type: object
+  properties:
+    title: Band Performance Appointment Form
+    pages:
+    - id: 1
+      name: client_full_name
+      label: Client Full Name
+      hint: Name of person booking the performance
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_email
+      label: Email Address
+      hint: For appointment confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Phone Number
+      hint: Contact number for updates
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_organization
+      label: Company or Organization
+      hint: If booking for a business
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: band_name
+      label: Band Name
+      hint: Which band you want to book
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_type
+      label: Event Type
+      hint: What kind of event is this
+      type: select_one
+      options:
+      - Wedding
+      - Corporate Event
+      - Private Party
+      - Festival
+      - Concert
+      - Bar or Club Gig
+      - Community Event
+      - Other
+      required: true
+    - id: 7
+      name: preferred_date
+      label: Preferred Performance Date
+      hint: First choice date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: alternate_date
+      label: Alternate Date
+      hint: Backup date option
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: performance_time
+      label: Performance Time
+      hint: Start time for the performance
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: performance_duration
+      label: Performance Duration
+      hint: How long should the band play
+      type: select_one
+      options:
+      - 1 Hour
+      - 2 Hours
+      - 3 Hours
+      - 4 Hours
+      - Full Evening
+      - Custom Duration
+      required: true
+    - id: 11
+      name: venue_name
+      label: Venue Name
+      hint: Where will the event take place
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: venue_address
+      label: Venue Address
+      hint: Full address of the venue
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: expected_audience
+      label: Expected Audience Size
+      hint: Approximate number of attendees
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: venue_type
+      label: Venue Type
+      hint: Type of performance space
+      type: select_one
+      options:
+      - Indoor
+      - Outdoor
+      - Both Indoor and Outdoor
+      required: true
+    - id: 15
+      name: sound_equipment
+      label: Sound Equipment
+      hint: Is sound equipment provided
+      type: select_one
+      options:
+      - Venue Provides Equipment
+      - Band Brings Equipment
+      - Need to Rent Equipment
+      - Unsure
+      required: true
+    - id: 16
+      name: lighting_requirements
+      label: Lighting Requirements
+      hint: Special lighting needs
+      type: select_one
+      options:
+      - Basic Lighting
+      - Professional Stage Lighting
+      - DJ Lighting Effects
+      - No Special Lighting
+      required: false
+    - id: 17
+      name: musical_style
+      label: Preferred Musical Style
+      hint: What genre should the band play
+      type: select_multiple
+      options:
+      - Rock
+      - Pop
+      - Jazz
+      - Blues
+      - Country
+      - R&B and Soul
+      - Classic Hits
+      - Dance Music
+      - Acoustic
+      - Mixed Genres
+      required: true
+    - id: 18
+      name: special_song_requests
+      label: Special Song Requests
+      hint: Must-play songs for your event
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: do_not_play_list
+      label: Do Not Play List
+      hint: Songs you do not want performed
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: budget_range
+      label: Budget Range
+      hint: Estimated budget for performance
+      type: select_one
+      options:
+      - Under $500
+      - $500 - $1000
+      - $1000 - $2500
+      - $2500 - $5000
+      - Over $5000
+      required: true
+    - id: 21
+      name: deposit_amount
+      label: Deposit Amount
+      hint: Amount you can pay as deposit
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: catering_provided
+      label: Catering Provided
+      hint: Will you provide meals for the band
+      type: select_one
+      options:
+      - Yes, full meal
+      - Yes, snacks only
+      - No, band will arrange
+      required: false
+    - id: 23
+      name: parking_available
+      label: Parking Available
+      hint: Is parking available for the band
+      type: select_one
+      options:
+      - Yes, free parking
+      - Yes, paid parking
+      - No parking available
+      required: false
+    - id: 24
+      name: load_in_time
+      label: Load-In Time
+      hint: When can the band set up
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: additional_requirements
+      label: Additional Requirements
+      hint: Any other needs or questions
+      type: text
+      options: []
+      required: false

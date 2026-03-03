@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR Reporting Dashboard Access Application
+    pages:
+    - id: 1
+      name: user
+      label: User
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''User'', ''value'': ''user''}'
+      - '{''label'': ''Manager'', ''value'': ''manager''}'
+      required: true
+    - id: 2
+      name: role
+      label: Role
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Analyst'', ''value'': ''analyst''}'
+      - '{''label'': ''Manager'', ''value'': ''manager''}'
+      - '{''label'': ''Developer'', ''value'': ''developer''}'
+      required: false
+    - id: 3
+      name: date_range
+      label: Date Range
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_period
+      label: Time Period
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: output
+      label: Output
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Pending'', ''value'': ''pending''}'
+      - '{''label'': ''Approved'', ''value'': ''approved''}'
+      - '{''label'': ''Rejected'', ''value'': ''rejected''}'
+      required: true
+    - id: 10
+      name: approval_level
+      label: Approval Level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''HR'', ''value'': ''hr''}'
+      - '{''label'': ''IT'', ''value'': ''it''}'
+      required: false
+    - id: 11
+      name: reporting_date
+      label: Reporting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: reporting_time
+      label: Reporting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: it_comments
+      label: IT Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: user_comments
+      label: User Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: manager_approvals
+      label: Manager Approvals
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Approve'', ''value'': ''approve''}'
+      - '{''label'': ''Reject'', ''value'': ''reject''}'
+      required: false
+    - id: 17
+      name: it_approvals
+      label: IT Approvals
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Approve'', ''value'': ''approve''}'
+      - '{''label'': ''Reject'', ''value'': ''reject''}'
+      required: false
+    - id: 18
+      name: user_approvals
+      label: User Approvals
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Approve'', ''value'': ''approve''}'
+      - '{''label'': ''Reject'', ''value'': ''reject''}'
+      required: false
+    - id: 19
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: approval_time
+      label: Approval Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''User'', ''value'': ''user''}'
+      - '{''label'': ''Manager'', ''value'': ''manager''}'
+      required: true
+    - id: 22
+      name: review_by
+      label: Review By
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''User'', ''value'': ''user''}'
+      - '{''label'': ''Manager'', ''value'': ''manager''}'
+      required: true
+    - id: 23
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''User'', ''value'': ''user''}'
+      - '{''label'': ''Manager'', ''value'': ''manager''}'
+      required: true

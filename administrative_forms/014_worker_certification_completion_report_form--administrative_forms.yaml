@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Worker Certification Completion Report Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: certification_date
+      label: Certification Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: certification_provider
+      label: Certification Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: certification_number
+      label: Certification Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: completion_date
+      label: Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: certification_type
+      label: Certification Type
+      hint: null
+      type: select_one
+      options:
+      - Construction
+      - Fire Safety
+      - Medical
+      required: true
+    - id: 12
+      name: training_hours
+      label: Training Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: certification_hours
+      label: Certification Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: certification_hours_units
+      label: Certification Hours Units
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: training_programs
+      label: Training Programs
+      hint: null
+      type: select_multiple
+      options:
+      - Program 1
+      - Program 2
+      - Program 3
+      required: true
+    - id: 16
+      name: completion_status
+      label: Completion Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      required: true
+    - id: 17
+      name: certification_status
+      label: Certification Status
+      hint: null
+      type: select_one
+      options:
+      - Certified
+      - Not Certified
+      required: true
+    - id: 18
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 20
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: supervisor_phone
+      label: Supervisor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: certification_url
+      label: Certification URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: supervisor_email
+      label: Supervisor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: training_programs_completed
+      label: Training Programs Completed
+      hint: null
+      type: select_multiple
+      options:
+      - Program 1
+      - Program 2
+      - Program 3
+      required: false
+    - id: 25
+      name: supervisor_title
+      label: Supervisor Title
+      hint: null
+      type: text
+      options: []
+      required: false

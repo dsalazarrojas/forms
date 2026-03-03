@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Short Sleeve T Shirt Order Form
+    pages:
+    - id: 1
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: select_product
+      label: Select Product
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Product 1'', ''label'': ''Product 1''}'
+      - '{''value'': ''Product 2'', ''label'': ''Product 2''}'
+      - '{''value'': ''Product 3'', ''label'': ''Product 3''}'
+      required: false
+    - id: 3
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Payment 1'', ''label'': ''Payment 1''}'
+      - '{''value'': ''Payment 2'', ''label'': ''Payment 2''}'
+      - '{''value'': ''Payment 3'', ''label'': ''Payment 3''}'
+      required: false
+    - id: 4
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: Enter your email
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: total_amount
+      label: Total Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false

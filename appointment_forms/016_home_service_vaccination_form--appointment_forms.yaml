@@ -1,0 +1,240 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Service Vaccination Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_details
+      label: Service Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vaccination_details
+      label: Vaccination Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_details
+      label: Medical Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: doctor_signature
+      label: Doctor Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: medical_certification
+      label: Medical Certification
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: medical_certified_by
+      label: Certified By
+      hint: null
+      type: select_one
+      options:
+      - Medical Officer
+      - Medical Officer
+      - Medical Director
+      - Medical Director
+      - Medical Director
+      - Medical Director
+      required: false
+    - id: 10
+      name: medical_certified_date
+      label: Certified Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: medical_certified_time
+      label: Certified Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: medical_certification_status
+      label: Certification Status
+      hint: null
+      type: select_one
+      options:
+      - Not Certified
+      - Certified
+      - Certified
+      required: false
+    - id: 13
+      name: medical_certificate
+      label: Medical Certificate
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - 'False'
+      required: false
+    - id: 14
+      name: medical_comments
+      label: Medical Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: vaccination_certificate
+      label: Vaccination Certificate
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - 'False'
+      required: false
+    - id: 17
+      name: medical_vaccination_type
+      label: Vaccination Type
+      hint: null
+      type: select_multiple
+      options:
+      - Type 1
+      - Type 2
+      - Type 2
+      - Type 3
+      - Type 3
+      - Type 4
+      required: false
+    - id: 18
+      name: medical_dosage
+      label: Dosage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: medical_dosage_unit
+      label: Dosage Unit
+      hint: null
+      type: select_one
+      options:
+      - mg
+      - mL
+      - mcg
+      required: false
+    - id: 20
+      name: medical_dosage_instructions
+      label: Dosage Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_dosage_refills
+      label: Dosage Refills
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: medical_dosage_frequency
+      label: Dosage Frequency
+      hint: null
+      type: select_one
+      options:
+      - Once
+      - Twice
+      - Thrice
+      required: false
+    - id: 23
+      name: medical_dosage_start_time
+      label: Dosage Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: medical_dosage_end_time
+      label: Dosage End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: medical_dosage_comments
+      label: Dosage Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: medical_dosage_notes
+      label: Dosage Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: medical_dosage_vaccine_type
+      label: Dosage Vaccine Type
+      hint: null
+      type: select_multiple
+      options:
+      - Type 1
+      - Type 2
+      - Type 2
+      - Type 3
+      - Type 4
+      - Type 4
+      required: false
+    - id: 28
+      name: medical_dosage_vaccine_lot_number
+      label: Dosage Vaccine Lot Number
+      hint: null
+      type: select_one
+      options:
+      - Lot 1
+      - Lot 1
+      - Lot 2
+      - Lot 2
+      - Lot 3
+      - Lot 4
+      required: false

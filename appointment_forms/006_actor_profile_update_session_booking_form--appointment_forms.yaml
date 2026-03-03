@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Actor Profile Update Session Booking Form
+    pages:
+    - id: 1
+      name: profile_header
+      label: -- Artist Profile Update Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: artist_name
+      label: Artist Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: artist_id
+      label: Agency ID / Artist ID
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: update_type
+      label: Items to Refresh
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Headshots (Photography)
+      - Demo Reel (Video Editing)
+      - Voice Reel (Audio Recording)
+      - Online Profile / CV
+      - Physical Portfolio
+      required: true
+    - id: 5
+      name: session_date_pref
+      label: Preferred Update Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: session_time_pref
+      label: Preferred Update Session Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: photographer_pref
+      label: Preferred Photographer / Editor
+      hint: null
+      type: select_one
+      options:
+      - No Preference
+      - Studio Lead
+      - Associate Artist
+      - Guest Professional
+      required: false
+    - id: 8
+      name: current_look_description
+      label: Description of Current Look
+      hint: Briefly describe any major changes (e.g., hair length, facial hair)
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: props_requirements
+      label: Special Props or Wardrobe Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: delivery_timeline
+      label: Desired Delivery Timeline
+      hint: null
+      type: select_one
+      options:
+      - Standard (7-10 Days)
+      - Express (48 Hours)
+      - Emergency (Same Day)
+      required: true
+    - id: 11
+      name: contact_email
+      label: Confirmation Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone_contact
+      label: Mobile Number
+      hint: For day-of-session communication
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: acknowledgment_terms
+      label: I understand that session fees are non-refundable within 24 hours of
+        the appointment
+      hint: null
+      type: select_one
+      options:
+      - I Acknowledge
+      - Other
+      required: true

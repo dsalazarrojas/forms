@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Duty Checklist
+    pages:
+    - id: 1
+      name: volunteer_duty_checklist_page_1
+      label: Duty Checklists
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: duty_checklist
+      label: Duty Checklist
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: volunteer_shift
+      label: Volunteer Shift
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: volunteer_shift_start_time
+      label: Volunteer Shift Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: volunteer_shift_end_time
+      label: Volunteer Shift End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: volunteer_name
+      label: Volunteer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: volunteer_phone
+      label: Volunteer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: volunteer_email
+      label: Volunteer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: duty_assignee
+      label: Duty Assignee
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: assigned_duty
+      label: Assigned Duty
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

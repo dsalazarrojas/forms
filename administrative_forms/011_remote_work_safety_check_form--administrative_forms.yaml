@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Work Safety Check Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: workspace_type
+      label: workspace type
+      hint: null
+      type: select_one
+      options:
+      - '{''option_id'': 1, ''option_key'': ''Home Office''}'
+      - '{''option_id'': 2, ''option_key'': ''Shared Office''}'
+      - '{''option_id'': 3, ''option_key'': ''Coworker Office''}'
+      - '{''option_id'': 4, ''option_key'': ''Other''}'
+      required: false
+    - id: 3
+      name: work_safety_risk
+      label: Work Safety Risk
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option_id'': 1, ''option_key'': ''High''}'
+      - '{''option_id'': 2, ''option_key'': ''Medium''}'
+      - '{''option_id'': 3, ''option_key'': ''Low''}'
+      - '{''option_id'': 4, ''option_key'': ''None''}'
+      required: false
+    - id: 4
+      name: safety_equipment
+      label: Safety Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option_id'': 1, ''option_key'': ''Fire Extinguishers''}'
+      - '{''option_id'': 2, ''option_key'': ''First Aid Kit''}'
+      - '{''option_id'': 3, ''option_key'': ''Fire Alarm''}'
+      - '{''option_id'': 4, ''option_key'': ''None''}'
+      required: false
+    - id: 5
+      name: safety_training
+      label: Safety Training
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option_id'': 1, ''option_key'': True}'
+      - '{''option_id'': 2, ''option_key'': False}'
+      - '{''option_id'': 3, ''option_key'': ''Not Specified''}'
+      required: false
+    - id: 6
+      name: remote_work_location
+      label: Remote Work Location
+      hint: null
+      type: select_one
+      options:
+      - '{''option_id'': 1, ''option_key'': ''Home''}'
+      - '{''option_id'': 2, ''option_key'': ''Shared Office''}'
+      - '{''option_id'': 3, ''option_key'': ''Coworker Office''}'
+      - '{''option_id'': 4, ''option_key'': ''Other''}'
+      required: false
+    - id: 7
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: remote_work_start_time
+      label: Remote Work Start Time
+      hint: null
+      type: time
+      options: []
+      required: false

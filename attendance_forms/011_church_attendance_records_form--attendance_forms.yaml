@@ -1,0 +1,175 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Attendance Records Form
+    pages:
+    - id: 1
+      name: section_header_event
+      label: -- Event Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: Event or Service Name
+      hint: Sunday worship, Bible study, youth group, etc
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: event_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: event_location
+      label: Location or Room
+      hint: Main sanctuary, fellowship hall, etc
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: facilitator_name
+      label: Facilitator or Leader Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_header_attendance
+      label: -- Attendance Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: total_attendance
+      label: Total Attendance Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: members_present
+      label: Members Present
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: visitors_present
+      label: Visitors Present
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: children_present
+      label: Children Present
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: section_header_demographics
+      label: -- Attendance Demographics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: age_group_breakdown
+      label: Age Group Breakdown (Optional)
+      hint: Young adults, middle-aged, seniors, etc
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: gender_breakdown
+      label: Gender Breakdown (Optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: first_time_visitors
+      label: First-Time Visitors Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: section_header_participation
+      label: -- Participation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: participated_in_activity
+      label: Number Who Participated in Activity
+      hint: Singing, prayer, volunteer work, etc
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: volunteers_present
+      label: Volunteers Present
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: section_header_notes
+      label: -- Notes and Comments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: special_events
+      label: Any Special Events or Announcements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: notable_observations
+      label: Notable Observations or Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_needed
+      label: Any Follow-up Needed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: follow_up_details
+      label: Follow-up Details
+      hint: Who should follow up and about what
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: recorded_by
+      label: Recorded By (Name)
+      hint: null
+      type: text
+      options: []
+      required: true

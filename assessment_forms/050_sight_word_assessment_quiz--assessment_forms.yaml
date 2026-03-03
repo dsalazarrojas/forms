@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sight Word Assessment Quiz
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: grade
+      label: Grade
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: reading_level
+      label: Reading Level
+      hint: null
+      type: select_one
+      options:
+      - Elementary
+      - Intermediate
+      - High School
+      required: true
+    - id: 4
+      name: sight_words_read
+      label: Sight Words Read
+      hint: null
+      type: select_multiple
+      options:
+      - a
+      - and
+      - the
+      required: true
+    - id: 5
+      name: correct
+      label: Correct
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: incorrect
+      label: Incorrect
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: sight_words_read_correctly
+      label: Sight Words Read Correctly
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: sight_words_read_incorrectly
+      label: Sight Words Read Incorrectly
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: time_spent
+      label: Time Spent
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: comments_email
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: comments_phone
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: comments_other
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 21
+      name: submitted_on_report
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: submitted_time_report
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 23
+      name: comments_report
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: submitted_by_report
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: comments_other_report
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

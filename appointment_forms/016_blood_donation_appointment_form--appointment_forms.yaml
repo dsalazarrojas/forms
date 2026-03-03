@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blood Donation Appointment Form
+    pages:
+    - id: 1
+      name: appointment_intro
+      label: -- Schedule Blood Donation Appointment --
+      hint: Choose a convenient time to donate blood
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: donor_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: donor_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: donor_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: blood_type
+      label: Blood Type
+      hint: If known
+      type: select_one
+      options:
+      - O+
+      - O-
+      - A+
+      - A-
+      - B+
+      - B-
+      - AB+
+      - AB-
+      - Unknown
+      required: false
+    - id: 8
+      name: previous_donor
+      label: Have you donated blood before?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: true
+    - id: 9
+      name: last_donation_date
+      label: Date of Last Donation
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: donation_center
+      label: Preferred Donation Center
+      hint: null
+      type: select_one
+      options:
+      - Downtown Medical Center
+      - Riverside Blood Bank
+      - Crossroads Donation Center
+      - Community Health Clinic
+      - Other
+      required: true
+    - id: 11
+      name: preferred_date
+      label: Preferred Donation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: select_one
+      options:
+      - 8:00 AM - 10:00 AM
+      - 10:00 AM - 12:00 PM
+      - 12:00 PM - 2:00 PM
+      - 2:00 PM - 4:00 PM
+      - 4:00 PM - 6:00 PM
+      required: true
+    - id: 13
+      name: current_health
+      label: Are you in good health?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 14
+      name: recent_illness
+      label: Have you had any recent illness or fever?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: medications
+      label: Are you currently taking medications?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: reminder_preference
+      label: Reminder Preference
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - SMS
+      - Phone call
+      - No reminder needed
+      required: true
+    - id: 17
+      name: appointment_date
+      label: Appointment Booking Date
+      hint: null
+      type: date
+      options: []
+      required: true

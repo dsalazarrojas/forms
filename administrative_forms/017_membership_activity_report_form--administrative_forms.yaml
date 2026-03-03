@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Membership Activity Report Form
+    pages:
+    - id: 1
+      name: activity_type
+      label: activity_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: member_since
+      label: member_since
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: last_activity
+      label: last_activity
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: activity_count
+      label: activity_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: activity_count_label
+      label: activity_count_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: member_engagement
+      label: member_engagement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: member_engagement_label
+      label: member_engagement_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: member_engagement_label2
+      label: member_engagement_label2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: member_engagement_label3
+      label: member_engagement_label3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

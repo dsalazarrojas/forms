@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Casting Fill Out Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant name
+      hint: Full name as on resume
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact email
+      hint: Email for audition notifications
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Contact phone
+      hint: Mobile preferred
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: role_applied_for
+      label: Role applied for
+      hint: Character name or role description
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: headshot_url
+      label: Headshot or portfolio link
+      hint: Provide a URL to online materials
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: height_cm
+      label: Height in cm
+      hint: Numeric value
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: skills_and_training
+      label: Skills and training
+      hint: Dance, dialects, stunts, musical instruments
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: availability_windows
+      label: Availability windows
+      hint: Dates and times available for rehearsal and shoot
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: agent_contact
+      label: Agent contact details
+      hint: If represented provide agency name and phone
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: declarations
+      label: Declarations and consent
+      hint: Confirm accuracy of provided information
+      type: select_one
+      options:
+      - I confirm the information is accurate
+      - I do not confirm
+      required: true

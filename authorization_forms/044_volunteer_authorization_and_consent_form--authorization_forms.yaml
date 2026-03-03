@@ -1,0 +1,63 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Authorization And Consent Form
+    pages:
+    - id: 1
+      name: volunteer_information
+      label: Volunteer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: Contact Address
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''street'', ''name'': ''street'', ''type'': ''text'',
+        ''required'': True}'
+      - '{''id'': 2, ''label'': ''city'', ''name'': ''city'', ''type'': ''text'',
+        ''required'': True}'
+      - '{''id'': 3, ''label'': ''state'', ''name'': ''state'', ''type'': ''select_one'',
+        ''options'': [''address'', ''address'', ''address'']}'
+      required: true
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''name'', ''name'': ''name'', ''type'': ''text'',
+        ''required'': True}'
+      - '{''id'': 2, ''label'': ''email'', ''name'': ''email'', ''type'': ''email'',
+        ''required'': True}'
+      - '{''id'': 3, ''label'': ''phone'', ''name'': ''phone'', ''type'': ''phone'',
+        ''required'': True}'
+      required: true
+    - id: 4
+      name: volunteer_info
+      label: Volunteer Info
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''role'', ''name'': ''role'', ''type'': ''select_multiple'',
+        ''options'': [''Volunteer'', ''Volunteer'', ''Volunteer'']}'
+      - '{''id'': 2, ''label'': ''date'', ''name'': ''date'', ''type'': ''date''}'
+      - '{''id'': 3, ''label'': ''time'', ''name'': ''time'', ''type'': ''time'',
+        ''required'': True}'
+      - '{''id'': 4, ''label'': ''location'', ''name'': ''location'', ''type'': ''text'',
+        ''required'': True}'
+      required: true

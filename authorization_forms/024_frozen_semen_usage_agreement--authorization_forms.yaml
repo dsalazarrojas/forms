@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Frozen Semon Usage Agreement
+    pages:
+    - id: 1
+      name: owner_details
+      label: Owner Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: recipient_details
+      label: Recipient Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: breeding_details
+      label: Breeding Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: breeding_schedule
+      label: Breeding Schedule
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: collection_methods
+      label: Collection Methods
+      hint: null
+      type: select_one
+      options:
+      - Frozen
+      - Natural
+      - Artificial
+      required: true
+    - id: 6
+      name: breeding_location
+      label: Breeding Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: breeding_date
+      label: Breeding Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Decline
+      required: true
+    - id: 9
+      name: form_submission_status
+      label: Form Submission Status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true

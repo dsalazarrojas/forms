@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Authorization Form
+    pages:
+    - id: 1
+      name: medical_authorized_persons
+      label: Authorized Persons
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_authorized_signature
+      label: Authorized Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: medical_provider_name
+      label: Medical Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_provider_address
+      label: Medical Provider Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_provider_phone
+      label: Medical Provider Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_provider_email
+      label: Medical Provider Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: medical_authorization_date
+      label: Medical Authorization Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: medical_provider_license_number
+      label: Medical Provider License Number
+      hint: null
+      type: number
+      options: []
+      required: false

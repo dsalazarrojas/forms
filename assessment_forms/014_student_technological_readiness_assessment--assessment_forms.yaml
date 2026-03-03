@@ -1,0 +1,249 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Technological Readiness Assessment
+    pages:
+    - id: 1
+      name: student_device_access
+      label: Student Device Access
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 2
+      name: internet_reliability
+      label: Internet Reliability
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Always''}'
+      - '{''label'': ''Sometimes''}'
+      - '{''label'': ''Never''}'
+      required: false
+    - id: 3
+      name: digital_confidence
+      label: Digital Confidence
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Highly Confident''}'
+      - '{''label'': ''Somewhat Confident''}'
+      - '{''label'': ''Not Very Confident''}'
+      required: false
+    - id: 4
+      name: device_type
+      label: What type of device do you have?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Desktop or Laptop''}'
+      - '{''label'': ''Tablet''}'
+      - '{''label'': ''Smartphone''}'
+      - '{''label'': ''None''}'
+      required: false
+    - id: 5
+      name: internet_access
+      label: How do you typically access the internet?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Home''}'
+      - '{''label'': ''School''}'
+      - '{''label'': ''Public Wi-Fi''}'
+      - '{''label'': ''Mobile Network (cellphone data)''}'
+      - '{''label'': ''Other (please specify)''}'
+      required: false
+    - id: 6
+      name: internet_speed
+      label: How fast is your internet?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''25mb or faster''}'
+      - '{''label'': ''10-24mb''}'
+      - '{''label'': ''1-9mb''}'
+      - '{''label'': ''None''}'
+      required: false
+    - id: 7
+      name: device_age
+      label: How old is your device?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Less than 2 years old''}'
+      - '{''label'': ''2-5 years old''}'
+      - '{''label'': ''5-10 years old''}'
+      - '{''label'': ''More than 10 years old''}'
+      required: false
+    - id: 8
+      name: support
+      label: What type of support do you receive?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Parent or guardian''}'
+      - '{''label'': ''School staff''}'
+      - '{''label'': ''Self''}'
+      required: false
+    - id: 9
+      name: note
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: student_device_access
+      label: Does your school provide devices for students?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 13
+      name: teacher_device_access
+      label: Does your teacher use their own device?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 14
+      name: teacher_device_access
+      label: Does your teacher have a school-issued device?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 15
+      name: teacher_device_type
+      label: What type of device does your teacher use?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Desktop or Laptop''}'
+      - '{''label'': ''Tablet''}'
+      - '{''label'': ''Smartphone''}'
+      - '{''label'': ''None''}'
+      required: false
+    - id: 16
+      name: teacher_device_age
+      label: How old is your teacher's device?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Less than 2 years old''}'
+      - '{''label'': ''2-5 years old''}'
+      - '{''label'': ''5-10 years old''}'
+      - '{''label'': ''More than 10 years old''}'
+      required: false
+    - id: 17
+      name: teacher_device_access
+      label: Does your teacher have access to the same device at home?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 18
+      name: teacher_device_support
+      label: What type of support does your teacher have?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Parent or guardian''}'
+      - '{''label'': ''School staff''}'
+      - '{''label'': ''Self''}'
+      required: false
+    - id: 19
+      name: student_device_type
+      label: What type of device do students use?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Desktop or Laptop''}'
+      - '{''label'': ''Tablet''}'
+      - '{''label'': ''Smartphone''}'
+      - '{''label'': ''None''}'
+      required: false
+    - id: 20
+      name: student_device_age
+      label: How old is the student's device?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Less than 2 years old''}'
+      - '{''label'': ''2-5 years old''}'
+      - '{''label'': ''5-10 years old''}'
+      - '{''label'': ''More than 10 years old''}'
+      required: false
+    - id: 21
+      name: student_device_access
+      label: Do students have access to devices at home?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 22
+      name: student_support
+      label: What type of support do students receive?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Parent or guardian''}'
+      - '{''label'': ''School staff''}'
+      - '{''label'': ''Self''}'
+      required: false
+    - id: 23
+      name: school_device_age
+      label: What is the age of the school device?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Less than 2 years old''}'
+      - '{''label'': ''2-5 years old''}'
+      - '{''label'': ''5-10 years old''}'
+      - '{''label'': ''More than 10 years old''}'
+      required: false
+    - id: 24
+      name: school_device_access
+      label: Do schools provide devices to students?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 25
+      name: school_support
+      label: What type of support do schools provide?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Parent or guardian''}'
+      - '{''label'': ''School staff''}'
+      - '{''label'': ''Self''}'
+      required: false

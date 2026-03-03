@@ -1,0 +1,230 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Livestream Appearance Consent Form
+    pages:
+      - id: 1
+        name: athlete_name
+        label: Athlete Full Name
+        hint: First and last name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: athlete_id
+        label: Athlete ID Number
+        hint: Student or team identification number
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: date_of_birth
+        label: Date of Birth
+        hint: MM-DD-YYYY format
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: team_name
+        label: Team Name
+        hint: Name of team or organization
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: sport
+        label: Sport
+        hint: Primary sport
+        type: select_one
+        options:
+          - Football
+          - Basketball
+          - Soccer
+          - Track and Field
+          - Swimming
+          - Volleyball
+          - Baseball
+          - Softball
+          - Tennis
+          - Esports
+          - Other
+        required: true
+      - id: 6
+        name: livestream_event
+        label: Livestream Event Name
+        hint: Name of the livestream event
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: livestream_date
+        label: Livestream Date
+        hint: Date of the livestream
+        type: date
+        options: []
+        required: true
+      - id: 8
+        name: livestream_platform
+        label: Livestream Platform
+        hint: Where will the livestream be hosted
+        type: select_multiple
+        options:
+          - YouTube
+          - Twitch
+          - Facebook Live
+          - Instagram Live
+          - TikTok
+          - Twitter or X
+          - Team Website
+          - League Website
+          - Other
+        required: true
+      - id: 9
+        name: appearance_type
+        label: Type of Appearance
+        hint: How will you appear in the livestream
+        type: select_one
+        options:
+          - Live Interview
+          - Q and A Session
+          - Gameplay Commentary
+          - Behind the Scenes
+          - Training Demonstration
+          - Panel Discussion
+          - Other
+        required: true
+      - id: 10
+        name: expected_duration
+        label: Expected Duration
+        hint: How long will the appearance be
+        type: select_one
+        options:
+          - Under 15 Minutes
+          - 15 to 30 Minutes
+          - 30 Minutes to 1 Hour
+          - 1 to 2 Hours
+          - Over 2 Hours
+        required: true
+      - id: 11
+        name: content_consent
+        label: Content Recording Consent
+        hint: Do you consent to being recorded
+        type: select_one
+        options:
+          - Yes - Full Consent
+          - Yes - With Restrictions
+          - No - No Consent
+        required: true
+      - id: 12
+        name: recording_usage
+        label: Approved Recording Usage
+        hint: How can the recording be used
+        type: select_multiple
+        options:
+          - Live Broadcast Only
+          - Post-Event Replay
+          - Social Media Clips
+          - Promotional Materials
+          - Archive for Internal Use
+          - Commercial Distribution
+        required: true
+      - id: 13
+        name: personal_info_sharing
+        label: Personal Information Sharing
+        hint: What personal info can be shared
+        type: select_one
+        options:
+          - Name Only
+          - Name and Team
+          - Name and Sport
+          - Full Bio Allowed
+          - No Personal Info
+        required: true
+      - id: 14
+        name: image_likeness_consent
+        label: Image and Likeness Consent
+        hint: Can your image and likeness be used
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - Only for This Event
+        required: true
+      - id: 15
+        name: commercial_compensation
+        label: Commercial Compensation
+        hint: Will you receive compensation for commercial use
+        type: select_one
+        options:
+          - Not Applicable
+          - Yes - Agreed Upon
+          - To Be Negotiated
+          - No Compensation Expected
+        required: false
+      - id: 16
+        name: consent_duration
+        label: Consent Duration
+        hint: How long is this consent valid
+        type: select_one
+        options:
+          - This Event Only
+          - Current Season
+          - One Year
+          - Indefinitely
+        required: true
+      - id: 17
+        name: content_review_rights
+        label: Content Review Rights
+        hint: Do you want to review content before publication
+        type: select_one
+        options:
+          - "Yes - Must Review First"
+          - "No - No Review Needed"
+          - Optional Review
+        required: true
+      - id: 18
+        name: parent_guardian_name
+        label: Parent or Guardian Name
+        hint: Required if athlete is under 18
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: parent_guardian_email
+        label: Parent or Guardian Email
+        hint: Contact email for guardian
+        type: email
+        options: []
+        required: false
+      - id: 20
+        name: athlete_signature
+        label: Athlete Signature
+        hint: Type full name as signature
+        type: text
+        options: []
+        required: true
+      - id: 21
+        name: parent_guardian_signature
+        label: Parent or Guardian Signature
+        hint: Type full name as signature if under 18
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: consent_date
+        label: Date of Consent
+        hint: Date this form is signed
+        type: date
+        options: []
+        required: true

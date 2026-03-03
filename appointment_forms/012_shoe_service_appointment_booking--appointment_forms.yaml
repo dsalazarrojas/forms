@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: shoe_service_appointment_booking
+    pages:
+    - id: 1
+      name: service_date
+      label: Service Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: service_time
+      label: Service Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_multiple
+      options:
+      - Shoe Repair
+      - Shoe Shine
+      - Shoe Maintenance
+      required: false
+    - id: 5
+      name: shoe_description
+      label: Shoe Description
+      hint: Briefly describe the service you need, e.g., "Heel repair" or "Polish"
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: service_provider
+      label: Service Provider
+      hint: Select a service provider
+      type: select_one
+      options:
+      - Service Provider 1
+      - Service Provider 2
+      - Service Provider 3
+      required: false
+    - id: 7
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: appointment_id
+      label: Appointment ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: Additional information about the appointment
+      type: text
+      options: []
+      required: false

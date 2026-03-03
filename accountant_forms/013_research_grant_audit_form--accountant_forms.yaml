@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Research Grant Audit Form
+    pages:
+    - id: 1
+      name: research_grant_audit_form
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: grant_overview
+      label: research_grant
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: audit_details
+      label: research_grant_audit_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: findings
+      label: findings
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: evidence
+      label: evidence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: review_date
+      label: review_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: review_time
+      label: review_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: reviewer_name
+      label: reviewer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: reviewer_position
+      label: position
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: institution
+      label: institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: review_comments
+      label: review_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: country
+      label: country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: state
+      label: state
+      hint: null
+      type: select_one
+      options:
+      - California
+      - New York
+      - Florida
+      required: true
+    - id: 20
+      name: grant_amount
+      label: grant_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: grant_start_date
+      label: grant_start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: grant_end_date
+      label: grant_end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: reviewer_notes
+      label: reviewer_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: submitter_name
+      label: submitter_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_position
+      label: submitter_position
+      hint: null
+      type: text
+      options: []
+      required: false

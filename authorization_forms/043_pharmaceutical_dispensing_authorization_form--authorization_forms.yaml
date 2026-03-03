@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pharmaceutical Dispensing Authorization Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: authorization_date
+      label: authorization_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: authorized_prescriber_id
+      label: authorized_prescriber_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: prescriber_name
+      label: prescriber_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: prescriber_phone
+      label: prescriber_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: prescriber_email
+      label: prescriber_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: prescriber_address
+      label: prescriber_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_address
+      label: patient_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medication_list
+      label: medication_list
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: authorization_expires
+      label: authorization_expires
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: authorization_status
+      label: authorization_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

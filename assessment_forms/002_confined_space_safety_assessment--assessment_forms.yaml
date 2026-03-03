@@ -1,0 +1,255 @@
+inputSchema:
+  type: object
+  properties:
+    title: Confined Space Safety Assessment
+    pages:
+    - id: 1
+      name: assessment_date
+      label: Assessment Date
+      hint: Date when the safety assessment is conducted
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: assessor_name
+      label: Assessor Name
+      hint: Name of the person conducting the assessment
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: assessor_qualification
+      label: Assessor Qualification
+      hint: Certification or qualification of the assessor
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: facility_name
+      label: Facility Name
+      hint: Name of the facility or worksite
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: confined_space_id
+      label: Confined Space Identifier
+      hint: Unique ID or tag for the confined space
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: space_type
+      label: Type of Confined Space
+      hint: Select the category of confined space
+      type: select_one
+      options:
+      - Storage Tank
+      - Silo
+      - Vessel
+      - Pit
+      - Trench
+      - Sewer
+      - Manhole
+      - Boiler
+      - Other
+      required: true
+    - id: 7
+      name: space_dimensions
+      label: Space Dimensions
+      hint: Approximate size of the confined space
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: entry_points
+      label: Number of Entry Points
+      hint: How many access points does the space have
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: previous_incidents
+      label: Previous Incidents in This Space
+      hint: Have there been any prior incidents or near misses
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 10
+      name: incident_details
+      label: Incident Details
+      hint: Describe any previous incidents if applicable
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: atmospheric_hazards
+      label: Potential Atmospheric Hazards
+      hint: Select all that may be present
+      type: select_multiple
+      options:
+      - Oxygen Deficiency
+      - Oxygen Enrichment
+      - Flammable Gases
+      - Carbon Monoxide
+      - Hydrogen Sulfide
+      - Chemical Vapors
+      - Dust
+      - None Known
+      required: true
+    - id: 12
+      name: physical_hazards
+      label: Physical Hazards Present
+      hint: Select all physical hazards that apply
+      type: select_multiple
+      options:
+      - Engulfment Risk
+      - Falling Objects
+      - Extreme Temperatures
+      - Noise
+      - Vibration
+      - Poor Visibility
+      - Slippery Surfaces
+      - Sharp Edges
+      - Moving Parts
+      - Electrical Hazards
+      required: true
+    - id: 13
+      name: biological_hazards
+      label: Biological Hazards
+      hint: Are there potential biological hazards
+      type: select_one
+      options:
+      - Yes - Bacteria or Mold
+      - Yes - Viruses
+      - Yes - Animal Waste
+      - false
+      - Unknown
+      required: true
+    - id: 14
+      name: work_type
+      label: Type of Work to Be Performed
+      hint: Describe the nature of work inside the space
+      type: select_one
+      options:
+      - Inspection
+      - Cleaning
+      - Maintenance
+      - Repair
+      - Construction
+      - Emergency Rescue
+      - Other
+      required: true
+    - id: 15
+      name: work_duration
+      label: Expected Duration of Work
+      hint: How long will workers be in the space
+      type: select_one
+      options:
+      - Less than 1 hour
+      - 1 to 2 hours
+      - 2 to 4 hours
+      - 4 to 8 hours
+      - More than 8 hours
+      required: true
+    - id: 16
+      name: hot_work_required
+      label: Hot Work Required
+      hint: Will welding cutting or other hot work be performed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: chemical_use
+      label: Chemicals Will Be Used
+      hint: Will cleaning agents or other chemicals be used
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: chemical_details
+      label: Chemical Details
+      hint: List chemicals and provide SDS if applicable
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: rescue_capability
+      label: On-Site Rescue Capability
+      hint: Does the facility have trained rescue personnel
+      type: select_one
+      options:
+      - Yes - Trained Team Available
+      - Yes - Trained Individual Available
+      - No - External Rescue Required
+      required: true
+    - id: 20
+      name: rescue_response_time
+      label: Expected Rescue Response Time
+      hint: How quickly can rescue be initiated
+      type: select_one
+      options:
+      - Immediate - On Site
+      - Within 5 minutes
+      - Within 15 minutes
+      - More than 15 minutes
+      required: true
+    - id: 21
+      name: risk_level
+      label: Overall Risk Level
+      hint: Assessment of the overall risk for entry
+      type: select_one
+      options:
+      - Low - Minimal Hazards
+      - Medium - Controlled Hazards
+      - High - Significant Hazards
+      - Extreme - Entry Not Recommended
+      required: true
+    - id: 22
+      name: control_measures
+      label: Required Control Measures
+      hint: Select all measures needed to control hazards
+      type: select_multiple
+      options:
+      - Continuous Atmospheric Monitoring
+      - Forced Ventilation
+      - Lockout Tagout
+      - Barricades
+      - Warning Signs
+      - Communication System
+      - Lighting
+      - PPE Requirements
+      - Standby Rescue Team
+      required: true
+    - id: 23
+      name: additional_recommendations
+      label: Additional Safety Recommendations
+      hint: Any other safety measures or notes
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: assessment_conclusion
+      label: Assessment Conclusion
+      hint: Final determination on space entry safety
+      type: select_one
+      options:
+      - Safe to Enter - All Controls in Place
+      - Safe to Enter - With Additional Precautions
+      - Not Safe - Hazards Must Be Mitigated First
+      - Entry Prohibited - Unacceptable Risk
+      required: true
+    - id: 25
+      name: assessor_signature
+      label: Assessor Signature
+      hint: Name of assessor confirming assessment
+      type: text
+      options: []
+      required: true

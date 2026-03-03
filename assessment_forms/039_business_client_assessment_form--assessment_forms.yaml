@@ -1,0 +1,260 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Client Assessment Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: Basic client details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: Full name or company name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: Primary contact name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_name
+      label: Company Name
+      hint: Name of organization
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: industry
+      label: Industry
+      hint: Industry sector
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Manufacturing
+      - Retail
+      - Professional Services
+      - Education
+      - Government
+      - Non-Profit
+      - Other
+      required: true
+    - id: 8
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-10 employees
+      - 11-50 employees
+      - 51-200 employees
+      - 201-500 employees
+      - 501-1000 employees
+      - More than 1000 employees
+      required: true
+    - id: 9
+      name: annual_revenue
+      label: Annual Revenue
+      hint: Approximate revenue
+      type: select_one
+      options:
+      - Under $500K
+      - $500K-$1M
+      - $1M-$5M
+      - $5M-$10M
+      - $10M-$50M
+      - More than $50M
+      required: false
+    - id: 10
+      name: business_history
+      label: Business History
+      hint: How long in business
+      type: select_one
+      options:
+      - Startup (0-2 years)
+      - Growing (2-5 years)
+      - Established (5-10 years)
+      - Mature (10+ years)
+      required: true
+    - id: 11
+      name: needs_assessment
+      label: Needs Assessment
+      hint: What does client need
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: primary_need
+      label: Primary Need
+      hint: Main reason for engagement
+      type: select_one
+      options:
+      - Strategic Planning
+      - Financial Advisory
+      - Operational Improvement
+      - Marketing Support
+      - Technology Implementation
+      - Human Resources
+      - Legal Compliance
+      - Other
+      required: true
+    - id: 13
+      name: specific_challenges
+      label: Specific Challenges
+      hint: What challenges do they face
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: current_pain_points
+      label: Current Pain Points
+      hint: What keeps them up at night
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: goals
+      label: Goals and Objectives
+      hint: What do they want to achieve
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: timeline
+      label: Timeline
+      hint: When do they need results
+      type: select_one
+      options:
+      - Immediate
+      - Within 1 Month
+      - Within 3 Months
+      - Within 6 Months
+      - Within 1 Year
+      - Long-Term
+      required: true
+    - id: 17
+      name: budget
+      label: Budget
+      hint: Available budget
+      type: select_one
+      options:
+      - Under $10K
+      - $10K-$50K
+      - $50K-$100K
+      - $100K-$500K
+      - More than $500K
+      - To Be Determined
+      required: false
+    - id: 18
+      name: decision_makers
+      label: Decision Makers
+      hint: Who makes final decisions
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: stakeholders
+      label: Key Stakeholders
+      hint: Who else is involved
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: current_providers
+      label: Current Service Providers
+      hint: Do they work with other consultants
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: previous_initiatives
+      label: Previous Initiatives
+      hint: Have they tried to solve this before
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: success_criteria
+      label: Success Criteria
+      hint: How will success be measured
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: risks
+      label: Perceived Risks
+      hint: What risks do they see
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: competition
+      label: Competitive Landscape
+      hint: Who are their main competitors
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: unique_value
+      label: Unique Value Proposition
+      hint: What makes them different
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: referral_source
+      label: Referral Source
+      hint: How did they find you
+      type: select_one
+      options:
+      - Website
+      - Referral
+      - Social Media
+      - Advertisement
+      - Conference or Event
+      - Cold Outreach
+      - Other
+      required: true
+    - id: 27
+      name: engagement_type
+      label: Preferred Engagement Type
+      hint: How do they want to work
+      type: select_one
+      options:
+      - One-Time Project
+      - Ongoing Advisory
+      - Retainer
+      - Training
+      - Assessment Only
+      - Other
+      required: true
+    - id: 28
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

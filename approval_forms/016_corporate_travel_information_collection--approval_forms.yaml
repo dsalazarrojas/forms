@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: corporate_travel_information_collection
+    pages:
+    - id: 1
+      name: traveler_name
+      label: Traveler Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Employee ID number
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: travel_dates
+      label: Travel Dates
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: travel_locations
+      label: Travel Locations
+      hint: List the cities, countries, and airports you will visit.
+      type: select_multiple
+      options:
+      - City
+      - Country
+      - Airport
+      required: false
+    - id: 5
+      name: travel_purpose
+      label: Travel Purpose
+      hint: What is the purpose of your travel?
+      type: select_one
+      options:
+      - Business
+      - Personal
+      required: false
+    - id: 6
+      name: manager_name
+      label: Manager Name
+      hint: Manager's Name
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manager_email
+      label: Manager Email
+      hint: Manager's Email
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: manager_phone
+      label: Manager Phone
+      hint: Manager's Phone
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: travel_coordinator
+      label: Travel Coordinator
+      hint: Travel Coordinator
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: return_date
+      label: Return Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: flight_details
+      label: Flight Details
+      hint: Check the flight details you will be taking.
+      type: select_multiple
+      options:
+      - Domestic
+      - International
+      - Flight Number
+      - Flight Time
+      - Flight Duration
+      required: false
+    - id: 12
+      name: expense_report
+      label: Expense Report
+      hint: Please provide detailed expense reports of your travel.
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: travel_status
+      label: Travel Status
+      hint: Check the travel status of this trip.
+      type: select_multiple
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: false
+    - id: 14
+      name: travel_cost
+      label: Travel Cost
+      hint: Travel Cost
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: manager_approved
+      label: Manager Approved
+      hint: Has manager approved this travel?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

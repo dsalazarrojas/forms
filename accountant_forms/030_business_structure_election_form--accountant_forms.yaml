@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Structure Election Form
+    pages:
+    - id: 1
+      name: entity_name
+      label: Legal Entity Name
+      hint: Official name of the business
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: entity_registration_number
+      label: Entity Registration Number
+      hint: EIN, Tax ID, or registration number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: entity_formation_date
+      label: Entity Formation Date
+      hint: When was the entity formed
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: primary_contact_name
+      label: Primary Contact Name
+      hint: Full name of main contact person
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: Email address for contact
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact Phone Number
+      hint: Phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: preparer_name
+      label: Form Preparer Name
+      hint: Name of accountant or preparer
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: preparer_firm
+      label: Preparer Firm or Company
+      hint: Accounting firm name
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: current_structure
+      label: Current Business Structure
+      hint: What is the current structure
+      type: select_one
+      options:
+      - Sole Proprietorship
+      - Partnership
+      - C Corporation
+      - S Corporation
+      - LLC
+      - Not Yet Formed
+      required: true
+    - id: 10
+      name: current_structure_other
+      label: Other Current Structure
+      hint: If other, specify
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: elected_structure
+      label: Elected Business Structure
+      hint: What structure do you elect
+      type: select_one
+      options:
+      - C Corporation
+      - S Corporation
+      - LLC
+      - Partnership
+      - Sole Proprietorship
+      - Other
+      required: true
+    - id: 12
+      name: elected_structure_other
+      label: Other Elected Structure
+      hint: If other, specify
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: effective_date
+      label: Effective Date of Election
+      hint: When should this election be effective
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: number_of_members
+      label: Number of Members or Owners
+      hint: How many owners or members
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: members_list
+      label: Names of Members or Owners
+      hint: List names of all members
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: ownership_percentages
+      label: Ownership Percentages
+      hint: Percentage ownership for each member
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: reason_for_election
+      label: Reason for Structure Election
+      hint: Why are you making this election
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: tax_year
+      label: Tax Year for This Election
+      hint: Which tax year does this apply to
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: supporting_documentation
+      label: Supporting Documentation Attached
+      hint: List any attached documents
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: election_form_date
+      label: Form Election Date
+      hint: Date this election form is submitted
+      type: date
+      options: []
+      required: true

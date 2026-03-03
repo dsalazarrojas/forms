@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nervous System Coaching Call Registration
+    pages:
+    - id: 1
+      name: schedule_call
+      label: Schedule a Call
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: client_goals
+      label: What are your goals for the call?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: session_expectations
+      label: What to Expect
+      hint: What to Expect
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: nervous_system_concerns
+      label: Nervous System Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: call_frequency
+      label: Call Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Bi-Weekly
+      required: false
+    - id: 7
+      name: call_length
+      label: Call Length
+      hint: null
+      type: select_one
+      options:
+      - 30 minutes
+      - 60 minutes
+      - 90 minutes
+      required: false
+    - id: 8
+      name: call_time
+      label: Call Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: call_date
+      label: Call Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,372 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Maintenance Forecast Request Form
+    pages:
+    - id: 1
+      name: request_header
+      label: -- Building Maintenance Forecast Request --
+      hint: Request anticipated maintenance work for budgeting and planning
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_department
+      label: Department or area
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requester_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: requester_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: building_info
+      label: -- Building Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: building_name
+      label: Building name or identifier
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: building_address
+      label: Building address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: facility_type
+      label: Facility type
+      hint: null
+      type: select_one
+      options:
+      - Office building
+      - Residential
+      - Educational
+      - Healthcare
+      - Industrial
+      - Mixed-use
+      - Government
+      - Other
+      required: true
+    - id: 10
+      name: square_footage
+      label: Building square footage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: maintenance_request
+      label: -- Maintenance Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: maintenance_type
+      label: Type of maintenance needed
+      hint: null
+      type: select_multiple
+      options:
+      - Preventive maintenance
+      - Corrective repair
+      - System upgrade
+      - Compliance/code issue
+      - Safety concern
+      - Equipment replacement
+      - Infrastructure improvement
+      - Energy efficiency upgrade
+      - Other
+      required: true
+    - id: 13
+      name: specific_areas
+      label: Specific areas or systems affected
+      hint: null
+      type: select_multiple
+      options:
+      - HVAC system
+      - Electrical system
+      - Plumbing
+      - Roofing
+      - Exterior structure
+      - Interior finishing
+      - Windows/doors
+      - Fire safety systems
+      - Security systems
+      - Flooring
+      - Painting
+      - Other
+      required: true
+    - id: 14
+      name: maintenance_description
+      label: Detailed description of maintenance needed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: urgency_timeline
+      label: -- Timeline and Urgency --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: forecast_timeframe
+      label: Anticipated timeframe for maintenance
+      hint: null
+      type: select_one
+      options:
+      - Immediate - within 30 days
+      - Short-term - 1-3 months
+      - Medium-term - 3-6 months
+      - Long-term - 6-12 months
+      - Planning - 12+ months
+      required: true
+    - id: 17
+      name: preferred_start_date
+      label: Preferred start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: preferred_end_date
+      label: Preferred completion date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: urgency_level
+      label: Urgency level
+      hint: null
+      type: select_one
+      options:
+      - Critical - Safety/regulatory
+      - High - Impacts operations
+      - Medium - Should address soon
+      - Low - Can wait
+      - Planned/routine
+      required: true
+    - id: 20
+      name: current_condition
+      label: Current condition of equipment/area
+      hint: null
+      type: select_one
+      options:
+      - Good - Working well
+      - Fair - Some issues
+      - Poor - Frequent problems
+      - Critical - May fail soon
+      - Unknown
+      required: true
+    - id: 21
+      name: impact_if_delayed
+      label: Impact if maintenance is delayed
+      hint: Operational, safety, or cost impact
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: budget_info
+      label: -- Budget and Scope --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: estimated_cost
+      label: Estimated cost for maintenance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: cost_confidence
+      label: Confidence in cost estimate
+      hint: null
+      type: select_one
+      options:
+      - High - Based on quote
+      - Moderate - Industry standards
+      - Low - Rough estimate
+      - Unknown - needs assessment
+      required: false
+    - id: 25
+      name: work_scope
+      label: Scope of work
+      hint: null
+      type: select_one
+      options:
+      - Single item replacement
+      - Multiple items repair
+      - System overhaul
+      - Complete replacement
+      - Assessment needed
+      required: true
+    - id: 26
+      name: funding_source
+      label: Anticipated funding source
+      hint: null
+      type: select_one
+      options:
+      - Annual maintenance budget
+      - Capital improvement reserve
+      - Emergency reserve
+      - Department budget
+      - External funding
+      - Not identified
+      required: false
+    - id: 27
+      name: operational_impact
+      label: -- Operational Considerations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: requires_building_closure
+      label: Will maintenance require building closure?
+      hint: null
+      type: select_one
+      options:
+      - No - Normal operations
+      - Partial - Limited area closure
+      - Yes - Full closure needed
+      - Phased - Multiple phases
+      - Unknown
+      required: false
+    - id: 29
+      name: closure_duration
+      label: Expected closure duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: occupant_notification
+      label: Occupant notification required
+      hint: null
+      type: select_one
+      options:
+      - Yes, advance notice needed
+      - Yes, minimal disruption
+      - No occupant impact
+      - Off-hours work possible
+      required: false
+    - id: 31
+      name: specifications
+      label: -- Technical Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: equipment_specifications
+      label: Equipment specifications or requirements
+      hint: Model, size, capacity, features
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: compliance_requirements
+      label: Compliance or code requirements
+      hint: ADA, energy codes, safety codes
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: sustainability_preferences
+      label: Sustainability or efficiency preferences
+      hint: Energy efficiency, green materials, etc.
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: contingency
+      label: -- Contingency and Risks --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: potential_complications
+      label: Potential complications or risks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: contingency_plan
+      label: Contingency plan if issues discovered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: preferred_contractors
+      label: Preferred contractors or vendors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: approval_info
+      label: -- Approval and Next Steps --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 40
+      name: approval_needed
+      label: Approval level needed
+      hint: null
+      type: select_one
+      options:
+      - Manager approval
+      - Director approval
+      - Executive approval
+      - Board approval
+      - No approval needed
+      required: false
+    - id: 41
+      name: manager_name
+      label: Direct manager name
+      hint: For approval routing
+      type: text
+      options: []
+      required: true
+    - id: 42
+      name: additional_notes
+      label: Additional notes or attachments
+      hint: null
+      type: text
+      options: []
+      required: false

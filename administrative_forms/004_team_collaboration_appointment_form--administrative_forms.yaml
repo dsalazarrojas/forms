@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Collaboration Appointment Form
+    pages:
+    - id: 1
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attendees
+      label: Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reminder
+      label: Reminder
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: notification
+      label: Notification
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Both
+      required: false
+    - id: 9
+      name: notification_time
+      label: Notification Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: notification_method
+      label: Notification Method
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Auto
+      required: false

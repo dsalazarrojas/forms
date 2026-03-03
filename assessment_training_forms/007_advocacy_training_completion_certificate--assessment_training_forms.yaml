@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advocacy Training Completion Certificate
+    pages:
+    - id: 1
+      name: participant_information_section
+      label: Participant Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_full_name
+      label: Full Name
+      hint: Enter your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: Email for certificate delivery and communication
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_organization
+      label: Organization
+      hint: Name of your organization or affiliation
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_title
+      label: Job Title
+      hint: Your current job title or position
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: training_information_section
+      label: Training Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: training_course_name
+      label: Training Course Name
+      hint: Name of the advocacy training course completed
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: training_date
+      label: Training Date
+      hint: Date when the training was completed
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: training_location
+      label: Training Location
+      hint: Where was the training conducted?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: training_duration
+      label: Training Duration
+      hint: How long was the training program?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: instructor_name
+      label: Instructor Name
+      hint: Name of the training instructor or facilitator
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: training_objectives_section
+      label: Training Objectives Covered
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: advocacy_fundamentals
+      label: Advocacy Fundamentals
+      hint: Understanding of basic advocacy concepts
+      type: select_one
+      options:
+      - Demonstrated
+      - Needs Improvement
+      - Not Assessed
+      required: true
+    - id: 14
+      name: policy_development
+      label: Policy Development Process
+      hint: Knowledge of policy development and implementation
+      type: select_one
+      options:
+      - Demonstrated
+      - Needs Improvement
+      - Not Assessed
+      required: true
+    - id: 15
+      name: stakeholder_engagement
+      label: Stakeholder Engagement Techniques
+      hint: Ability to engage with various stakeholders
+      type: select_one
+      options:
+      - Demonstrated
+      - Needs Improvement
+      - Not Assessed
+      required: true
+    - id: 16
+      name: communication_strategies
+      label: Communication Strategies
+      hint: Understanding of effective communication in advocacy
+      type: select_one
+      options:
+      - Demonstrated
+      - Needs Improvement
+      - Not Assessed
+      required: true
+    - id: 17
+      name: evaluation_metrics
+      label: Evaluation and Metrics
+      hint: Knowledge of measuring advocacy effectiveness
+      type: select_one
+      options:
+      - Demonstrated
+      - Needs Improvement
+      - Not Assessed
+      required: true
+    - id: 18
+      name: assessment_scores_section
+      label: Assessment Scores
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: written_exam_score
+      label: Written Exam Score
+      hint: Score achieved on the written examination (if applicable)
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: practical_assessment_score
+      label: Practical Assessment Score
+      hint: Score achieved on the practical assessment (if applicable)
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: overall_evaluation
+      label: Overall Evaluation
+      hint: Overall assessment of participant's performance
+      type: select_one
+      options:
+      - Exceeded Expectations
+      - Met Expectations
+      - Below Expectations
+      - Did Not Meet Requirements
+      required: true
+    - id: 22
+      name: certificate_authority_section
+      label: Certificate Authority
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: authorized_by
+      label: Authorized By
+      hint: Name of the person authorizing the certificate
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: authority_title
+      label: Authority Title
+      hint: Title of the person authorizing the certificate
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: certificate_issue_date
+      label: Certificate Issue Date
+      hint: Date when the certificate is issued
+      type: date
+      options: []
+      required: true
+    - id: 26
+      name: certificate_expiry_date
+      label: Certificate Expiry Date
+      hint: Date when the certificate expires (if applicable)
+      type: date
+      options: []
+      required: false
+    - id: 27
+      name: participant_signature
+      label: Participant Signature
+      hint: Electronic signature acknowledging completion
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Live Session Scheduling Form
+    pages:
+    - id: 1
+      name: session_details
+      label: Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: coach_name
+      label: Coach Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: session_type
+      label: Session Type
+      hint: null
+      type: select_one
+      options:
+      - Session Coaching
+      - Session Tutoring
+      - Session Consulting
+      required: true
+    - id: 8
+      name: session_topic
+      label: Session Topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: session_duration
+      label: Session Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: session_recurrence
+      label: Session Recurrence
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 11
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: client_message
+      label: Client Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: coach_message
+      label: Coach Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: confirm_scheduling
+      label: Confirm Scheduling
+      hint: null
+      type: select_one
+      options:
+      - Scheduling is confirmed
+      - Session will be scheduled
+      - Unable to schedule
+      required: true
+    - id: 15
+      name: follow_up_message
+      label: Follow-up Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: confirm_follow_up
+      label: Confirm Follow-up
+      hint: null
+      type: select_one
+      options:
+      - Follow-up is confirmed
+      - Follow-up will be scheduled
+      - Unable to follow-up
+      required: true

@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Housekeeping Quick Estimate Template
+    pages:
+    - id: 1
+      name: housekeeping_service_type
+      label: What type of housekeeping service do you provide?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: What location do you serve?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: estimated_duration
+      label: Estimated duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: estimated_hours
+      label: Estimated hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: payment_terms
+      label: What are your payment terms?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: client_notification_preference
+      label: Client notification preference
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text message
+      required: false
+    - id: 8
+      name: request_site_visit
+      label: Would the client like to request a site visit for a more accurate quote?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: site_visit_details
+      label: Site visit details
+      hint: Please provide more information about the site visit.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: housekeeping_services_offered
+      label: What other housekeeping services do you offer?
+      hint: List the other housekeeping services you offer.
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: housekeeping_services_additional_info
+      label: Additional housekeeping services information
+      hint: Provide any additional information about your housekeeping services.
+      type: text
+      options: []
+      required: false

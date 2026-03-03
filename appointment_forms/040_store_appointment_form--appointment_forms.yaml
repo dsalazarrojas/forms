@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Store Appointment Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: appointment_date
+      label: appointment date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: appointment_time
+      label: appointment time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone
+      label: customer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: store_phone
+      label: store phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_email
+      label: customer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: customer_note
+      label: customer note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: selected_date_time
+      label: selected date and time
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''10:00 am''}'
+      - '{''label'': ''11:00 am''}'
+      - '{''label'': ''12:00 pm''}'
+      - '{''label'': ''1:00 pm''}'
+      - '{''label'': ''2:00 pm''}'
+      - '{''label'': ''3:00 pm''}'
+      - '{''label'': ''4:00 pm''}'
+      - '{''label'': ''5:00 pm''}'
+      - '{''label'': ''6:00 pm''}'
+      - '{''label'': ''7:00 pm''}'
+      - '{''label'': ''8:00 pm''}'
+      - '{''label'': ''9:00 pm''}'
+      required: false
+    - id: 9
+      name: selected_date_time_other
+      label: selected date and time other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_note_2
+      label: customer note 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: store_note
+      label: store note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: cancel
+      label: cancel
+      hint: null
+      type: text
+      options: []
+      required: false

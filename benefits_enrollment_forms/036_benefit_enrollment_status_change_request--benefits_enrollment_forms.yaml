@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Benefit Enrollment Status Change Request
+    pages:
+    - id: 1
+      name: section_employee
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: employment_date
+      label: Date of Employment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: section_current
+      label: -- Current Enrollment Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: current_status
+      label: Current Enrollment Status
+      hint: null
+      type: select_one
+      options:
+      - Enrolled
+      - Partially Enrolled
+      - Not Enrolled
+      - Waiting Period
+      - Suspended
+      required: true
+    - id: 10
+      name: current_plans
+      label: Current Plans Enrolled In
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: enrollment_date
+      label: Current Enrollment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: section_change
+      label: -- Requested Status Change --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: request_type
+      label: Type of Change Request
+      hint: null
+      type: select_one
+      options:
+      - Add Enrollment
+      - Remove Enrollment
+      - Modify Enrollment
+      - Switch Plans
+      - Reinstate Coverage
+      - Other
+      required: true
+    - id: 14
+      name: requested_status
+      label: Requested Enrollment Status
+      hint: null
+      type: select_one
+      options:
+      - Fully Enrolled
+      - Partially Enrolled
+      - Waive Coverage
+      - Activate Coverage
+      - Other
+      required: true
+    - id: 15
+      name: effective_date
+      label: Requested Effective Date
+      hint: When should the change take effect
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: reason_for_change
+      label: Reason for Change
+      hint: null
+      type: select_one
+      options:
+      - Life Event
+      - Open Enrollment
+      - Cost Reduction
+      - Coverage Improvement
+      - Plan Termination
+      - Other
+      required: true
+    - id: 17
+      name: life_event
+      label: Type of Life Event
+      hint: If applicable
+      type: select_one
+      options:
+      - Marriage
+      - Divorce
+      - Birth
+      - Adoption
+      - Death in Family
+      - Loss of Coverage
+      - Relocation
+      - Other
+      required: false
+    - id: 18
+      name: life_event_date
+      label: Date of Life Event
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: section_documentation
+      label: -- Supporting Documentation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: supporting_documents
+      label: Supporting Documents Attached
+      hint: Birth certificate, marriage license, etc.
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_acknowledgment
+      label: -- Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: acknowledge_terms
+      label: I Acknowledge This Is a Status Change Request
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 23
+      name: submission_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true

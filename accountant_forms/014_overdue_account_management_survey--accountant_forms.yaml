@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Overdue Account Management Survey
+    pages:
+    - id: 1
+      name: collection_workflows
+      label: Collection Workflows
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: communication_practices
+      label: Communication Practices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_responsiveness
+      label: Client Responsiveness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: internal_follow_up
+      label: Internal Follow-up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: data_collection
+      label: Data Collection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Strongly Agree''}'
+      - '{''label'': ''Somewhat Agree''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat Disagree''}'
+      - '{''label'': ''Strongly Disagree''}'
+      required: false
+    - id: 7
+      name: communication_channels
+      label: Communication Channels
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Phone''}'
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Chat''}'
+      - '{''label'': ''In-person''}'
+      required: false
+    - id: 8
+      name: frequency_of_follow_up
+      label: Frequency of Follow-up
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Monthly''}'
+      - '{''label'': ''Quarterly''}'
+      - '{''label'': ''Never''}'
+      required: false
+    - id: 9
+      name: follow_up_reminders
+      label: Follow-up Reminders
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 10
+      name: data_quality
+      label: Data Quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: client_contact_information
+      label: Client Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_frequency
+      label: Follow-up Frequency
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: communication_channels_other
+      label: Other Communication Channels
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: client_relationship_manager
+      label: Client Relationship Manager
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 17
+      name: follow_up_reminders_other
+      label: Other Follow-up Reminders
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: data_collection_reminders
+      label: Data Collection Reminders
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 19
+      name: internal_follow_up_reminders
+      label: Internal Follow-up Reminders
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 20
+      name: external_follow_up_reminders
+      label: External Follow-up Reminders
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 21
+      name: follow_up_frequency_other
+      label: Other Follow-up Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_frequency_other_description
+      label: Other Follow-up Frequency Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_reminders_other_description
+      label: Other Follow-up Reminders Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_reminders_other
+      label: Other Follow-up Reminders
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_reminders_other_frequency
+      label: Other Follow-up Reminders Frequency
+      hint: null
+      type: time
+      options: []
+      required: false

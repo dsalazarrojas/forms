@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Belongings Inventory Form
+    pages:
+    - id: 1
+      name: patient_belongings_inventory_form
+      label: Patient Belongings Inventory Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_belongings_form_category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Electronics
+      - Personal Items
+      - Clothing
+      - Jewelry
+      required: false
+    - id: 3
+      name: patient_belongings_form_subcategory
+      label: subcategory
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: patient_belongings_form_item
+      label: item
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_belongings_form_description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_belongings_form_date_received
+      label: date_received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: patient_belongings_form_time_received
+      label: time_received
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: patient_belongings_form_value
+      label: value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: patient_belongings_form_status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Lost
+      - Stolen
+      - Disposed
+      required: false
+    - id: 10
+      name: patient_belongings_form_comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_belongings_form_asset_tags
+      label: asset_tags
+      hint: null
+      type: select_one
+      options:
+      - No Tags
+      - Asset Tags
+      required: false

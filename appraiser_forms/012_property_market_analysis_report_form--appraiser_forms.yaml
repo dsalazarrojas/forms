@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Market Analysis Report Form
+    pages:
+    - id: 1
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Office
+      - Residential
+      - Commercial
+      - Industrial
+      - Other
+      required: false
+    - id: 3
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Under Contract
+      - Sold
+      - Leased
+      - Vacant
+      required: false
+    - id: 4
+      name: property_age
+      label: Property Age
+      hint: null
+      type: select_multiple
+      options:
+      - New
+      - 1-5
+      - 6-15
+      - 16-25
+      - 26-50
+      required: false
+    - id: 5
+      name: property_size
+      label: Property Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: property_bedroom_count
+      label: Property Bedroom Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: property_bathroom_count
+      label: Property Bathroom Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: property_floor_count
+      label: Property Floor Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: property_lot_size
+      label: Property Lot Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: property_market_value
+      label: Property Market Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: property_rental_value
+      label: Property Rental Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: appraiser_comments
+      label: Appraiser Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: form_submitted_date
+      label: Form Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: form_submitted_time
+      label: Form Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: property_market_trends
+      label: Property Market Trends
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: property_market_trends_note
+      label: Property Market Trends Note
+      hint: null
+      type: note
+      options: []
+      required: false

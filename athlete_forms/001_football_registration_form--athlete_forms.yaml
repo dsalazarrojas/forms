@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: Football Registration Form
+    pages:
+    - id: 1
+      name: new_player
+      label: new_player
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: player_position
+      label: player_position
+      hint: null
+      type: select_multiple
+      options:
+      - Fullback
+      - Guard
+      - Linebacker
+      - Quarterback
+      - Runningback
+      - Wide Receiver
+      - Defensiveback
+      required: false
+    - id: 3
+      name: player_name
+      label: player_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: player_email
+      label: player_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: player_phone
+      label: player_phone
+      hint: null
+      type: text
+      options: []
+      required: false

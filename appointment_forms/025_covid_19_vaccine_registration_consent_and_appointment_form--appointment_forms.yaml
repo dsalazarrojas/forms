@@ -1,0 +1,220 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Registration, Consent And Appointment Form
+    pages:
+    - id: 1
+      name: combined_patient_header
+      label: -- Patient Information --
+      hint: Please provide your personal details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: combined_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: combined_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: combined_date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: combined_email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: combined_phone
+      label: Phone Number
+      hint: Your phone number
+      type: phone
+      options: []
+      required: true
+    - id: 7
+      name: combined_address
+      label: Street Address
+      hint: Your address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: combined_city_state_zip
+      Label: City, State, ZIP Code
+      hint: Your location
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: consent_header
+      label: -- Consent and Authorization --
+      hint: Please review and acknowledge
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: consent_received_info
+      Label: I Have Received COVID-19 Vaccine Information
+      hint: You received vaccine information materials
+      type: select_one
+      options:
+        - Yes, I received information
+        - No information provided
+      required: true
+    - id: 11
+      name: consent_understand_benefits
+      label: I Understand the Benefits of COVID-19 Vaccination
+      hint: Acknowledged understanding of benefits
+      type: select_one
+      options:
+        - Yes, I understand
+        - I have questions
+      required: true
+    - id: 12
+      name: consent_understand_risks
+      Label: I Understand the Risks and Side Effects
+      hint: Acknowledged understanding of risks
+      type: select_one
+      options:
+        - Yes, I understand
+        - I have questions
+      required: true
+    - id: 13
+      name: consent_authorize
+      label: I Authorize COVID-19 Vaccination
+      hint: You authorize the vaccination to proceed
+      type: select_one
+      options:
+        - I authorize vaccination
+        - I do not authorize vaccination
+      required: true
+    - id: 14
+      name: consent_voluntary
+      Label: This Consent is Voluntary
+      hint: You are freely choosing to be vaccinated
+      type: select_one
+      options:
+        - Voluntary and not coerced
+        - Under pressure
+      required: true
+    - id: 15
+      name: medical_history_combined_header
+      label: -- Medical History --
+      hint: Important health information
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: combined_allergies
+      Label: Known Allergies to Vaccine Components
+      hint: Any vaccine component allergies
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: combined_current_medications
+      label: Current Medications
+      hint: List medications you are taking
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: combined_chronic_conditions
+      Label: Chronic Medical Conditions
+      hint: Any ongoing health conditions
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: combined_immunocompromised
+      label: Immunocompromised Status
+      hint: Do you have a weakened immune system
+      type: select_one
+      options:
+        - No
+        - Yes
+        - Unsure
+      required: true
+    - id: 20
+      name: appointment_scheduling_header
+      Label: -- Appointment Scheduling --
+      hint: Select your preferred vaccination appointment
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: combined_preferred_date
+      label: Preferred Appointment Date
+      hint: When would you like to be vaccinated
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: combined_preferred_time
+      Label: Preferred Time Slot
+      hint: What time do you prefer
+      type: select_one
+      options:
+        - Early Morning - 8 AM to 10 AM
+        - Morning - 10 AM to 12 PM
+        - Afternoon - 12 PM to 2 PM
+        - Late Afternoon - 2 PM to 4 PM
+        - Evening - 4 PM to 6 PM
+      required: true
+    - id: 23
+      name: combined_vaccine_location
+      label: Preferred Vaccination Location
+      hint: Where would you prefer to get vaccinated
+      type: select_one
+      options:
+        - Main Clinic
+        - Downtown Location
+        - Pharmacy
+        - Community Center
+        - Mobile Clinic
+      required: true
+    - id: 24
+      name: combined_vaccine_preference
+      Label: Vaccine Type Preference if Available
+      hint: Your preferred vaccine
+      type: select_one
+      options:
+        - Pfizer-BioNTech
+        - Moderna
+        - Johnson & Johnson
+        - No Preference
+      required: false
+    - id: 25
+      name: combined_confirmation
+      label: I Confirm All Information is Accurate
+      hint: All provided information is correct
+      type: select_one
+      options:
+        - I confirm
+        - Needs correction
+      required: true

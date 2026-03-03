@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Advocates Adoption Application Form
+    pages:
+    - id: 1
+      name: section_applicant_information
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: For application updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: Optional contact phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: Street, city, state, postal code
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: household
+      label: Household composition
+      hint: Adults and children and pets
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: experience_with_pets
+      label: Experience with pets
+      hint: Past pet ownership and care
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: references
+      label: References
+      hint: Provide names and contact info
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: agreement
+      label: I agree to the adoption policies and checks
+      hint: Confirm agreement
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

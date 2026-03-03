@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Electronic Signature Tool Access Form
+    pages:
+    - id: 1
+      name: user_requesting_access
+      label: User Requesting Access
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tool_id
+      label: Tool ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: tool_name
+      label: Tool Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: tool_type
+      label: Tool Type
+      hint: null
+      type: select_one
+      options:
+      - Electronic Signature Tool
+      - Other
+      required: false
+    - id: 5
+      name: tool_description
+      label: Tool Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 7
+      name: user_requested_tool_id
+      label: User Requested Tool ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: user_requested_tool_name
+      label: User Requested Tool Name
+      hint: null
+      type: text
+      options: []
+      required: false

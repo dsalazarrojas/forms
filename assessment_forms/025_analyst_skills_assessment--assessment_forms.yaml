@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Analyst Skills Assessment
+    pages:
+    - id: 1
+      name: section_assessment_header
+      label: -- Analyst Skills Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: candidate_name
+      label: Candidate Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: candidate_email
+      label: Candidate Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: section_technical_skills
+      label: -- Technical Skills --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: excel_proficiency_level
+      label: Microsoft Excel Proficiency Level
+      hint: null
+      type: select_one
+      options:
+      - Expert (Macros / VBA)
+      - Advanced (Pivot / VLOOKUP)
+      - Intermediate
+      - Basic
+      required: true
+    - id: 6
+      name: sql_knowledge
+      label: SQL Knowledge
+      hint: null
+      type: select_one
+      options:
+      - Advanced Joins / Optimization
+      - Basic Queries
+      - No Knowledge
+      required: true
+    - id: 7
+      name: data_visualization_tools
+      label: Experience with Data Visualization Tools
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Tableau
+      - Power BI
+      - Google Data Studio
+      - Python / Matplotlib
+      - R / ggplot2
+      required: false
+    - id: 8
+      name: section_analytical_ability
+      label: -- Analytical Ability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: scenario_analysis_response
+      label: Scenario Analysis Response
+      hint: How would you approach a 10% drop in revenue?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: statistical_modeling_experience
+      label: Statistical Modeling Experience
+      hint: null
+      type: select_one
+      options:
+      - Extensive
+      - Some
+      - None
+      required: true
+    - id: 11
+      name: years_of_analytical_experience
+      label: Years of Professional Analytical Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: section_soft_skills
+      label: -- Soft Skills --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: communication_of_complex_data
+      label: Communication of Complex Data to Non-Technical Audiences
+      hint: null
+      type: select_one
+      options:
+      - Very Clear
+      - Clear
+      - Needs Work
+      required: true
+    - id: 14
+      name: example_of_problem_solving
+      label: Describe a recent complex problem you solved
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: assessment_date
+      label: Date of Assessment
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stunt Participation Consent Form
+    pages:
+    - id: 1
+      name: stunt_participation_consent_form
+      label: Stunt Participation Consent Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: stunt_participation_consent
+      label: have_participated_in_stunt
+      hint: Select 'Yes' or 'No'
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: true
+    - id: 4
+      name: stunt_type
+      label: stunt_type
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - '{''label'': ''Stunt'', ''value'': ''stunt''}'
+      - '{''label'': ''Stunt Activity'', ''value'': ''stunt_activity''}'
+      required: true
+    - id: 5
+      name: waiver_agreement
+      label: waiver_agreement
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact_name
+      label: emergency_contact_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_phone
+      label: emergency_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: consent_to_share
+      label: consent_to_share
+      hint: Select 'Yes' or 'No'
+      type: select_multiple
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: true
+    - id: 10
+      name: additional_info
+      label: additional_info
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: stunt_participation_date
+      label: stunt_participation_date
+      hint: null
+      type: date
+      options: []
+      required: true

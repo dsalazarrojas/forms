@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maintenance Cost Report Form
+    pages:
+    - id: 1
+      name: maintenance_cost_page
+      label: Maintenance Cost Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: cost_amount
+      label: Cost Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: cost_frequency
+      label: Cost Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

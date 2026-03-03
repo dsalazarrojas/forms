@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Estimate Advertising Budget Form
+    pages:
+    - id: 1
+      name: user_type
+      label: What type of user are you?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: ad_budget
+      label: Estimated ad budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: ad_budget_description
+      label: Description for ad budget estimate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: ad_budget_frequency
+      label: How often do you want ads?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: ad_budget_frequency_description
+      label: Description for ad budget frequency
+      hint: null
+      type: text
+      options: []
+      required: false

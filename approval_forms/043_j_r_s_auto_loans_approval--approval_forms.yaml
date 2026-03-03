@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: jrs_auto_loans_approval
+    pages:
+    - id: 1
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Approval Forms
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: pre_qualify_time
+      label: get_prequalified_in_minutes
+      hint: null
+      type: select_one
+      options:
+      - In 1 minute
+      - In 2 minutes
+      - In 3 minutes
+      required: false
+    - id: 5
+      name: great_rates
+      label: great_rates
+      hint: null
+      type: select_multiple
+      options:
+      - No Obligation
+      - Great Rates
+      required: false
+    - id: 6
+      name: save_time_and_hassle
+      label: saves_time_hassle
+      hint: null
+      type: select_multiple
+      options:
+      - Time and hassle free
+      - Saves Time & Hassle
+      required: false
+    - id: 7
+      name: better_way_to_buy
+      label: a_better_way_to_buy_a_car
+      hint: null
+      type: select_multiple
+      options:
+      - A better way to buy a car
+      - Buy Certified Preowned
+      required: false
+    - id: 8
+      name: bad_credit_no_problem
+      label: bad_credit_no_problem
+      hint: null
+      type: select_one
+      options:
+      - Bad credit? No Problem.
+      - Other
+      required: false
+    - id: 9
+      name: connect_with_dealers
+      label: connect_with_local_dealers
+      hint: null
+      type: select_one
+      options:
+      - Reputable car dealers
+      - Other
+      required: false
+    - id: 10
+      name: dealership_experience
+      label: dealership_experience
+      hint: null
+      type: note
+      options: []
+      required: false

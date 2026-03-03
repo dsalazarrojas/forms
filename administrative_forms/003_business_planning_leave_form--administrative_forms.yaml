@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Planning Leave Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: Full name of the employee
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Your employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Your department or team
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: manager_name
+      label: Direct Manager Name
+      hint: Name of your immediate supervisor
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: leave_start_date
+      label: Leave Start Date
+      hint: First day of requested leave
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: leave_end_date
+      label: Leave End Date
+      hint: Last day of requested leave
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: total_days
+      label: Total Days of Leave
+      hint: Number of business days requested
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: leave_reason
+      label: Reason for Leave
+      hint: Select the primary reason
+      type: select_one
+      options:
+      - Business Planning
+      - Strategic Development
+      - Market Research
+      - Business Training
+      - Investor Meetings
+      required: true
+    - id: 9
+      name: detailed_purpose
+      label: Detailed Purpose
+      hint: Explain what business planning activities you will undertake
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: expected_outcomes
+      label: Expected Outcomes
+      hint: What do you plan to accomplish
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: work_coverage
+      label: Work Coverage Plan
+      hint: Who will cover your responsibilities
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: outstanding_tasks
+      label: Outstanding Tasks Completion
+      hint: Status of current projects and deadlines
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: remote_availability
+      label: Remote Availability During Leave
+      hint: Will you be available remotely
+      type: select_one
+      options:
+      - Fully Available
+      - Partially Available
+      - Not Available
+      required: true
+    - id: 14
+      name: contact_information
+      label: Contact Information During Leave
+      hint: Your contact details while away
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: manager_approval_status
+      label: Manager Approval Status
+      hint: Approval from direct manager
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Conditional Approval
+      - Rejected
+      required: false
+    - id: 16
+      name: hr_approval_status
+      label: HR Approval Status
+      hint: Approval status from HR department
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Conditional Approval
+      - Rejected
+      required: false
+    - id: 17
+      name: submission_date
+      label: Leave Request Submission Date
+      hint: When this request was submitted
+      type: date
+      options: []
+      required: true

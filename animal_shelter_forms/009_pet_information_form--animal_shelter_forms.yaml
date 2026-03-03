@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Information Form
+    pages:
+    - id: 1
+      name: pet_name
+      label: Pet Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: pet_type
+      label: Pet Type
+      hint: null
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Other
+      required: true
+    - id: 3
+      name: pet_age
+      label: Pet Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: pet_breed
+      label: Pet Breed
+      hint: null
+      type: select_multiple
+      options:
+      - Poodle
+      - Siamese
+      - Mixed
+      required: false
+    - id: 5
+      name: pet_weight
+      label: Pet Weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: owner_email
+      label: Owner Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: owner_phone
+      label: Owner Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: owner_note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: pet_dob
+      label: Pet DOB
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: pet_gender
+      label: Pet Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Unknown
+      required: true
+    - id: 11
+      name: pet_weight_unit
+      label: Pet Weight Unit
+      hint: null
+      type: select_one
+      options:
+      - lbs
+      - kg
+      required: true
+    - id: 12
+      name: veterinarian
+      label: Veterinarian
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: veterinarian_phone
+      label: Veterinarian Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: shelter_name
+      label: Shelter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: shelter_phone
+      label: Shelter Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: shelter_address
+      label: Shelter Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: adoption_date
+      label: Adoption Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 19
+      name: adoption_status
+      label: Adoption Status
+      hint: null
+      type: select_one
+      options:
+      - Adopted
+      - Available for Adoption
+      - Unknown
+      required: true
+    - id: 20
+      name: adoption_date_2
+      label: Adopted Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: owner_info
+      label: Owner Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: owner_info_2
+      label: Owner Info 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: owner_info_3
+      label: Owner Info 3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: owner_info_4
+      label: Owner Info 4
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: owner_info_5
+      label: Owner Info 5
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

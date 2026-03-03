@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pending Bill Submission Form
+    pages:
+    - id: 1
+      name: submit_form
+      label: Submit Form
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: date_of_invoice
+      label: date_of_invoice
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - Department A
+      - Department B
+      - Department C
+      required: true
+    - id: 4
+      name: project
+      label: project
+      hint: null
+      type: select_one
+      options:
+      - Project A
+      - Project B
+      - Project C
+      required: true
+    - id: 5
+      name: invoice_number
+      label: invoice_number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: payment_terms
+      label: payment_terms
+      hint: null
+      type: select_one
+      options:
+      - Net 30
+      - Net 60
+      - Due Date
+      required: true
+    - id: 8
+      name: due_date
+      label: due_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Bank Transfer
+      - Check
+      - Credit Card
+      required: true
+    - id: 10
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_one
+      options:
+      - Finance Team
+      - Project Manager
+      - Department Manager
+      required: true
+    - id: 11
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submitted_on
+      label: submitted_on
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Paid
+      - Cancelled
+      required: true
+    - id: 14
+      name: submitted_by_id
+      label: submitted_by_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: submitted_by_full_name
+      label: submitted_by_full_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitted_by_email
+      label: submitted_by_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: submitted_by_extension
+      label: submitted_by_extension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitted_by_jobtitle
+      label: submitted_by_jobtitle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitted_by_department
+      label: submitted_by_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitted_by_phone
+      label: submitted_by_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitted_by_notes
+      label: submitted_by_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: submitted_by_company
+      label: submitted_by_company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitted_by_address
+      label: submitted_by_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitted_by_jobtitle2
+      label: submitted_by_jobtitle2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by_phone2
+      label: submitted_by_phone2
+      hint: null
+      type: text
+      options: []
+      required: false

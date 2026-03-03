@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer ID Upload Form
+    pages:
+    - id: 1
+      name: customer_id
+      label: customer_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''category1''}'
+      - '{''id'': 2, ''name'': ''category2''}'
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: file
+      label: file
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''upload_file''}'
+      - Other
+      required: false
+    - id: 5
+      name: file_type
+      label: file_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''type1''}'
+      - '{''id'': 2, ''name'': ''type2''}'
+      - '{''id'': 3, ''name'': ''type3''}'
+      required: false
+    - id: 6
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

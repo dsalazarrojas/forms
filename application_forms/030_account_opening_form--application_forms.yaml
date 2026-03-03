@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Account Opening Form
+    pages:
+    - id: 1
+      name: section_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Legal Name
+      hint: As it appears on your government-issued ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: false
+    - id: 5
+      name: nationality
+      label: Nationality
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: id_type
+      label: Identification Document Type
+      hint: null
+      type: select_one
+      options:
+      - Passport
+      - National ID card
+      - Driver license
+      - Other government-issued ID
+      required: true
+    - id: 7
+      name: id_number
+      label: Identification Document Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_contact
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: residential_address
+      label: Residential Address
+      hint: Full street address including city, state, and ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: mailing_address
+      label: Mailing Address (if different)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_employment
+      label: -- Employment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed full-time
+      - Employed part-time
+      - Self-employed
+      - Retired
+      - Student
+      - Unemployed
+      required: true
+    - id: 15
+      name: employer_name
+      label: Employer Name (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: occupation
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: annual_income
+      label: Approximate Annual Income
+      hint: null
+      type: select_one
+      options:
+      - Under $25,000
+      - $25,000 - $50,000
+      - $50,000 - $100,000
+      - $100,000 - $250,000
+      - Over $250,000
+      required: true
+    - id: 18
+      name: section_account
+      label: -- Account Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: account_type
+      label: Type of Account
+      hint: null
+      type: select_one
+      options:
+      - Checking account
+      - Savings account
+      - Money market account
+      - Certificate of deposit
+      - Joint account
+      required: true
+    - id: 20
+      name: initial_deposit
+      label: Initial Deposit Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: source_of_funds
+      label: Source of Funds
+      hint: null
+      type: select_one
+      options:
+      - Salary or wages
+      - Business income
+      - Savings
+      - Investment returns
+      - Inheritance or gift
+      - Other
+      required: true
+    - id: 22
+      name: purpose_of_account
+      label: Purpose of Account
+      hint: null
+      type: select_one
+      options:
+      - Personal banking
+      - Business operations
+      - Savings and investment
+      - Payroll
+      - Other
+      required: true
+    - id: 23
+      name: online_banking
+      label: Would You Like to Enroll in Online Banking
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: terms_agreement
+      label: I Agree to the Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true

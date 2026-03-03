@@ -1,0 +1,234 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Maturity Assessment Form
+    pages:
+    - id: 1
+      name: org_info_header
+      label: --- Organizational Context ---
+      hint: Define the scope of the assessment.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization / Department Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: respondent_role
+      label: Respondent's Role
+      hint: e.g., CTO, Head of AI, Operations Manager
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: industry_type
+      label: Industry Sector
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_data_header
+      label: "--- Dimension 1: Data Maturity ---"
+      hint: Evaluate your organization's data readiness.
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: data_accessibility_rating
+      label: Data Accessibility & Silos
+      hint: 1 = Highly siloed/inaccessible, 5 = Centrally accessible data lake
+      type: select_one
+      options:
+      - label: 1 - Minimal/No access
+        value: 1
+      - label: 2 - Difficult/Manual access
+        value: 2
+      - label: 3 - Moderate/Partial centralization
+        value: 3
+      - label: 4 - Good/Most data accessible
+        value: 4
+      - label: 5 - Optimal/Automated data pipelines
+        value: 5
+      required: true
+    - id: 7
+      name: data_quality_rating
+      label: Data Quality & Governance
+      hint: 1 = Poor/Noisy, 5 = High accuracy/Standardized
+      type: select_one
+      options:
+      - label: 1 - Ad-hoc/Poor
+        value: 1
+      - label: 2 - Basic/Manual checks
+        value: 2
+      - label: 3 - Consistent/Defined standards
+        value: 3
+      - label: 4 - High Quality/Validated
+        value: 4
+      - label: 5 - Exceptional/Automated validation
+        value: 5
+      required: true
+    - id: 8
+      name: section_infra_header
+      label: "--- Dimension 2: Infrastructure & Technology ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: mlops_maturity_rating
+      label: MLOps & Lifecycle Management
+      hint: Ability to deploy, monitor, and retrain models.
+      type: select_one
+      options:
+      - label: 1 - No MLOps (Manual only)
+        value: 1
+      - label: 2 - Basic version control
+        value: 2
+      - label: 3 - Repeatable deployment process
+        value: 3
+      - label: 4 - Automated CI/CD for models
+        value: 4
+      - label: 5 - Advanced/Self-healing systems
+        value: 5
+      required: true
+    - id: 10
+      name: section_talent_header
+      label: "--- Dimension 3: Talent & Culture ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: ai_skills_availability
+      label: In-house AI Expertise
+      hint: Availability of data scientists, ML engineers, etc.
+      type: select_one
+      options:
+      - label: None (Outsourced only)
+        value: 1
+      - label: Small/Incubating team
+        value: 2
+      - label: Growing/Core capabilities
+        value: 3
+      - label: Strong/Distributed expertise
+        value: 4
+      - label: World-class/Industry leading
+        value: 5
+      required: true
+    - id: 12
+      name: leadership_ai_literacy
+      label: Executive AI Literacy & Support
+      hint: Do leaders understand AI value and risks?
+      type: select_one
+      options:
+      - label: 1 - Low/Skeptical
+        value: 1
+      - label: 2 - Interested/Basic understanding
+        value: 2
+      - label: 3 - Supportive/Strategic focus
+        value: 3
+      - label: 4 - Highly literate/Actively driving
+        value: 4
+      - label: 5 - Visionary/Core to identity
+        value: 5
+      required: true
+    - id: 13
+      name: section_strategy_header
+      label: "--- Dimension 4: Strategy & Governance ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: ai_roadmap_existence
+      label: AI Vision and Roadmap
+      hint: Clear plan for AI implementation over time.
+      type: select_one
+      options:
+      - label: No roadmap exists
+        value: none
+      - label: Short-term/Project-based only
+        value: tactical
+      - label: Defined 1-3 year roadmap
+        value: strategic
+      - label: Integrated multi-year transformational plan
+        value: transformational
+      required: true
+    - id: 15
+      name: ethical_guidelines_status
+      label: Ethical AI & Compliance Framework
+      hint: Processes for bias audit, privacy, and safety.
+      type: select_one
+      options:
+      - label: None
+        value: none
+      - label: Informally followed
+        value: informal
+      - label: Formally documented & training provided
+        value: documented
+      - label: Strict enforcement & auditing in place
+        value: audited
+      required: true
+    - id: 16
+      name: current_models_count
+      label: Current Number of AI Models in Production
+      hint: null
+      type: integer
+      options: []
+      required: true
+    - id: 17
+      name: biggest_scaling_bottleneck
+      label: Primary Bottleneck to Scaling AI
+      hint: null
+      type: select_one
+      options:
+      - label: Data Quality / Availability
+        value: data
+      - label: Budget / Funding
+        value: funding
+      - label: Talent / Skill Gap
+        value: talent
+      - label: Legacy Infrastructure
+        value: infra
+      - label: Culture / Resistance to Change
+        value: culture
+      - label: Regulatory / Legal Concerns
+        value: regulatory
+      required: true
+    - id: 18
+      name: assessment_summary
+      label: Additional Comments on Organizational Readiness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: date_of_assessment
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: report_request_email
+      label: Email for Detailed Maturity Report
+      hint: null
+      type: email
+      options: []
+      required: true

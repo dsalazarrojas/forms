@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shipping Checklist
+    pages:
+    - id: 1
+      name: package_details
+      label: Package Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: tracking_number
+      label: Tracking Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: ship_by_date
+      label: Ship By
+      hint: null
+      type: date
+      options: []
+      required: false

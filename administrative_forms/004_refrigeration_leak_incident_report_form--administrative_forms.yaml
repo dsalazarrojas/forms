@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Refrigeration Leak Incident Report Form
+    pages:
+    - id: 1
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_reported
+      label: Date Reported
+      hint: 'null'
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: leak_description
+      label: Leak Description
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: leak_type
+      label: Leak Type
+      hint: 'null'
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: leak_category
+      label: Leak Category
+      hint: 'null'
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: leak_location
+      label: Leak Location
+      hint: 'null'
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: leak_status
+      label: Leak Status
+      hint: 'null'
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: corrective_action
+      label: Corrective Action
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: 'null'
+      type: note
+      options: []
+      required: false

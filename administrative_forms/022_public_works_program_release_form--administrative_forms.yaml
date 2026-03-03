@@ -1,0 +1,70 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: public-works-program-release-form
+    pages:
+    - id: 1
+      name: release_form_title
+      label: Public Works Program Release Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contract_date
+      label: Contract Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: risk_acknowledgment
+      label: I acknowledge that I understand the risks associated with this project
+      hint: null
+      type: select_multiple
+      options:
+      - I understand the risks associated with this project
+      - I have read and understood the risks associated with this project
+      - I have read, understand, and acknowledge the risks associated with this project
+      required: false
+    - id: 6
+      name: release_terms_and_conditions
+      label: I have read and understood the release terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - I have read and understood the release terms and conditions
+      - I have not read the release terms and conditions
+      required: false
+    - id: 7
+      name: release_form_signature
+      label: Participant Signature
+      hint: null
+      type: text
+      options: []
+      required: false

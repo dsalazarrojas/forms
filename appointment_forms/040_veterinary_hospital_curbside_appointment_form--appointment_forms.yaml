@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Hospital Curbside Appointment Form
+    pages:
+    - id: 1
+      name: pet_information
+      label: Pet Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_type
+      label: Pet Type
+      hint: null
+      type: select_one
+      options:
+      - Pet Type
+      - Cat
+      - Dog
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: pet_name
+      label: Pet Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: pet_owner_name
+      label: Pet Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: service
+      label: Service
+      hint: null
+      type: select_multiple
+      options:
+      - Nail Trim
+      - Bath
+      - Grooming
+      - Vaccination
+      - Health Check
+      required: false
+    - id: 9
+      name: service_details
+      label: Service Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: pet_weight
+      label: Pet Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: pet_height
+      label: Pet Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: pet_age
+      label: Pet Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: reason_visit
+      label: Reason for Visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: pet_species
+      label: Pet Species
+      hint: null
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Other
+      required: false
+    - id: 17
+      name: pet_breed
+      label: Pet Breed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: pet_health_conditions
+      label: Pet Health Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: owner_notes
+      label: Owner Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: hospital_notes
+      label: Veterinary Hospital Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: veterinarian
+      label: Veterinarian
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: vet_name
+      label: Vet Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: vet_phone
+      label: Vet Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: vet_email
+      label: Vet Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Completed
+      - Canceled
+      required: false
+    - id: 26
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

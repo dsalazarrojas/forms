@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: data_access_monitoring_form
+    pages:
+    - id: 1
+      name: user_request
+      label: User Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: access_level
+      label: Access Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 3
+      name: access_date
+      label: Access Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: access_time
+      label: Access Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: data_classification
+      label: Data Classification
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: access_method
+      label: Access Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: access_location
+      label: Access Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: access_justification
+      label: Access Justification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: access_reviewed_by
+      label: Access Reviewed By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: access_approved_by
+      label: Access Approved By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: access_denied_by
+      label: Access Denied By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

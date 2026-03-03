@@ -1,0 +1,415 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Sales Customer Application Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Auto Sales Customer Application
+      hint: Thank you for your interest. Please complete this application.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: personal_info
+      label: Personal Information
+      hint: Your personal details
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: middle_name
+      label: Middle Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: suffix
+      label: Suffix
+      hint: Jr Sr III etc
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: ssn
+      label: Social Security Number
+      hint: XXX-XX-XXXX
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: drivers_license
+      label: Driver License Number
+      hint: Your license number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: license_state
+      label: License State
+      hint: State that issued license
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Florida
+      - Georgia
+      - Other
+      required: true
+    - id: 11
+      name: license_expiry
+      label: License Expiration
+      hint: When does it expire
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: email
+      label: Email Address
+      hint: Primary email
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: address
+      label: Street Address
+      hint: Your current address
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: state
+      label: State
+      hint: State of residence
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Florida
+      - Georgia
+      - Other
+      required: true
+    - id: 17
+      name: zip_code
+      label: ZIP Code
+      hint: 5-digit ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: time_at_address
+      label: Time at Current Address
+      hint: How long have you lived here
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - Over 10 years
+      required: true
+    - id: 19
+      name: residence_type
+      label: Residence Type
+      hint: Your housing situation
+      type: select_one
+      options:
+      - Own
+      - Rent
+      - Live with Family
+      - Other
+      required: true
+    - id: 20
+      name: monthly_payment
+      label: Monthly Housing Payment
+      hint: Rent or mortgage
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: employment_info
+      label: Employment Information
+      hint: Your employment details
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: employer_name
+      label: Employer Name
+      hint: Current employer
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: employer_address
+      label: Employer Address
+      hint: Work address
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: work_phone
+      label: Work Phone
+      hint: Employer phone number
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: employment_length
+      label: Length of Employment
+      hint: How long employed
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - Over 10 years
+      required: true
+    - id: 27
+      name: annual_income
+      label: Gross Annual Income
+      hint: Total income before taxes
+      type: number
+      options: []
+      required: true
+    - id: 28
+      name: other_income
+      label: Other Income
+      hint: Additional income
+      type: number
+      options: []
+      required: false
+    - id: 29
+      name: vehicle_interest
+      label: Vehicle Interest
+      hint: Tell us about the vehicle
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: interested_vehicle
+      label: Vehicle of Interest
+      hint: Year Make Model
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: vehicle_type
+      label: Vehicle Type
+      hint: What type interests you
+      type: select_one
+      options:
+      - Sedan
+      - SUV
+      - Truck
+      - Coupe
+      - Convertible
+      - Van
+      - Hybrid or Electric
+      - Not Sure
+      required: true
+    - id: 32
+      name: new_or_used
+      label: New or Used
+      hint: Preference
+      type: select_one
+      options:
+      - New
+      - Used
+      - Certified Pre-Owned
+      - Either
+      required: true
+    - id: 33
+      name: budget_range
+      label: Budget Range
+      hint: Your price range
+      type: select_one
+      options:
+      - Under $15000
+      - $15000-$25000
+      - $25000-$35000
+      - $35000-$50000
+      - Over $50000
+      required: true
+    - id: 34
+      name: payment_preference
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Cash
+      - Finance
+      - Lease
+      - Not Sure
+      required: true
+    - id: 35
+      name: down_payment
+      label: Available Down Payment
+      hint: How much can you put down
+      type: select_one
+      options:
+      - Under $1000
+      - $1000-$3000
+      - $3000-$5000
+      - $5000-$10000
+      - Over $10000
+      required: false
+    - id: 36
+      name: trade_in
+      label: Do You Have a Trade-In
+      hint: Trading in a vehicle
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 37
+      name: trade_in_details
+      label: Trade-In Details
+      hint: Year Make Model Mileage
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: credit_info
+      label: Credit Information
+      hint: Your credit status
+      type: note
+      options: []
+      required: false
+    - id: 39
+      name: credit_rating
+      label: Estimated Credit Rating
+      hint: Your credit score range
+      type: select_one
+      options:
+      - Excellent 750+
+      - Good 700-749
+      - Fair 650-699
+      - Poor 600-649
+      - Very Poor Below 600
+      - Not Sure
+      required: true
+    - id: 40
+      name: bankruptcies
+      label: Any Bankruptcies
+      hint: In past 7 years
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 41
+      name: repossessions
+      label: Any Repossessions
+      hint: In past 5 years
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 42
+      name: references
+      label: Personal References
+      hint: Name and phone number
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: how_heard
+      label: How Did You Hear About Us
+      hint: How did you find us
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Friend or Family
+      - Advertisement
+      - Drive By
+      - Previous Customer
+      - Other
+      required: false
+    - id: 44
+      name: best_time_contact
+      label: Best Time to Contact
+      hint: When should we call
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Anytime
+      required: true
+    - id: 45
+      name: authorization
+      label: Authorization
+      hint: I authorize verification of information
+      type: select_one
+      options:
+      - I Agree and Authorize
+      - I Do Not Agree
+      required: true
+    - id: 46
+      name: signature_date
+      label: Date
+      hint: Today date
+      type: date
+      options: []
+      required: true

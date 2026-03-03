@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blockchain RPC Provider Access Request Form
+    pages:
+    - id: 1
+      name: access_intro
+      label: -- Blockchain RPC Provider Access Request --
+      hint: Submit your access request to our RPC services
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_type
+      label: Organization Type
+      hint: null
+      type: select_one
+      options:
+      - Developer
+      - Exchange
+      - Wallet Provider
+      - DeFi Protocol
+      - Enterprise
+      - Individual
+      - Research
+      - Other
+      required: true
+    - id: 4
+      name: requester_name
+      label: Requester Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: requester_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: requester_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: company_website
+      label: Company Website or GitHub Profile
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: rpc_networks
+      label: Blockchain Networks Required
+      hint: null
+      type: select_multiple
+      options:
+      - Ethereum Mainnet
+      - Polygon
+      - Arbitrum
+      - Optimism
+      - Base
+      - Solana
+      - Bitcoin
+      required: true
+    - id: 9
+      name: use_case
+      label: Primary Use Case
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: estimated_requests_daily
+      label: Estimated Daily RPC Requests
+      hint: null
+      type: select_one
+      options:
+      - < 1,000
+      - 1,000 - 10,000
+      - 10,000 - 100,000
+      - 100,000 - 1,000,000
+      - '> 1,000,000'
+      required: true
+    - id: 11
+      name: peak_requests_per_second
+      label: Estimated Peak Requests Per Second
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: access_tier
+      label: Requested Access Tier
+      hint: null
+      type: select_one
+      options:
+      - Free
+      - Premium
+      - Enterprise
+      required: true
+    - id: 13
+      name: has_key_rotation
+      label: Does your system support API key rotation?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: false
+    - id: 14
+      name: security_practices
+      label: Describe your security practices
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: technical_contact
+      label: Technical Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: technical_contact_email
+      label: Technical Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: expected_launch_date
+      label: Expected Launch Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: terms_accepted
+      label: I accept the terms of service and privacy policy
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 19
+      name: request_timestamp
+      label: Request Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

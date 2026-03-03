@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Site Assessment Survey
+    pages:
+    - id: 1
+      name: site_name
+      label: Site Name or Location
+      hint: Name of the facility or site
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: site_address
+      label: Site Address
+      hint: Full address of the site
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: site_id
+      label: Site ID or Code
+      hint: Internal identification number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of this assessment
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: assessor_name
+      label: Assessor Name
+      hint: Person conducting assessment
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: assessor_role
+      label: Assessor Role
+      hint: Position or expertise
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assessment_type
+      label: Type of Assessment
+      hint: null
+      type: select_one
+      options:
+      - Compliance
+      - Safety
+      - Operational
+      - Health and Sanitation
+      - Security
+      - Infrastructure
+      - Comprehensive
+      required: true
+    - id: 8
+      name: overall_condition
+      label: Overall Site Condition
+      hint: General assessment of facility
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Poor
+      - Critical - immediate action needed
+      required: true
+    - id: 9
+      name: safety_standards
+      label: Safety standards compliance
+      hint: Adherence to safety regulations
+      type: select_one
+      options:
+      - Fully compliant
+      - Mostly compliant with minor issues
+      - Non-compliant in some areas
+      - Significant violations
+      - Critical safety concerns
+      required: true
+    - id: 10
+      name: cleanliness
+      label: Cleanliness and sanitation
+      hint: Overall cleanliness of facility
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Poor
+      - Unacceptable
+      required: true
+    - id: 11
+      name: maintenance
+      label: Maintenance condition
+      hint: Equipment and facility maintenance
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Poor
+      - Needs urgent repairs
+      required: true
+    - id: 12
+      name: equipment_functionality
+      label: Equipment functionality
+      hint: All equipment operating properly
+      type: select_one
+      options:
+      - All equipment operational
+      - Minor issues only
+      - Some equipment non-functional
+      - Multiple failures
+      - Majority non-functional
+      required: true
+    - id: 13
+      name: pest_control
+      label: Pest control evidence
+      hint: Signs of pests or rodents
+      type: select_one
+      options:
+      - No pest evidence
+      - No current issues
+      - Minor signs observed
+      - Moderate infestation
+      - Severe infestation
+      required: false
+    - id: 14
+      name: security
+      label: Security systems and access
+      hint: Locks, cameras, access control
+      type: select_one
+      options:
+      - Excellent - all systems functional
+      - Good - mostly functional
+      - Satisfactory - some issues
+      - Poor - major deficiencies
+      - Critical - security breached
+      required: true
+    - id: 15
+      name: compliance_issues
+      label: Compliance issues identified
+      hint: Violations of regulations or standards
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: hazards_identified
+      label: Safety hazards identified
+      hint: Specific dangers or risks found
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: maintenance_needed
+      label: Maintenance or repairs needed
+      hint: List of required work
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: priority_actions
+      label: Priority actions required
+      hint: Most urgent items to address
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: estimated_repairs_cost
+      label: Estimated cost of repairs
+      hint: Budget needed for improvements
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: timeline_compliance
+      label: Timeline to achieve compliance
+      hint: When issues should be resolved
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: next_assessment_date
+      label: Recommended next assessment date
+      hint: When should follow-up occur
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: assessor_notes
+      label: Additional notes or observations
+      hint: Any other findings or concerns
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: out_of_network_coverage_exception_request
+    pages:
+    - id: 1
+      name: out_of_network_coverage_exception_request
+      label: out_of_network_coverage_exception_request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_phone
+      label: patient_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: provider_name
+      label: provider_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: claim_id
+      label: claim_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: coverage_start_date
+      label: coverage_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: coverage_end_date
+      label: coverage_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: claimant_name
+      label: claimant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: claimant_phone
+      label: claimant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: provider_phone
+      label: provider_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: claim_type
+      label: claim_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: reason_for_claim
+      label: reason_for_claim
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: out_of_network_claim_type
+      label: out_of_network_claim_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: claimant_address
+      label: claimant_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: claimant_city
+      label: claimant_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: claimant_state
+      label: claimant_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: claimant_zip
+      label: claimant_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: claimant_email
+      label: claimant_email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: claimant_relationship
+      label: claimant_relationship
+      hint: null
+      type: text
+      options: []
+      required: false

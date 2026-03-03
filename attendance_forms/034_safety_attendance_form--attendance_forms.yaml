@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Safety Attendance Form
+    pages:
+    - id: 1
+      name: meeting_title
+      label: Meeting Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_time
+      label: Date Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: attendees
+      label: Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: attendees_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attendees_job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: attendees_department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: attendees_job_location
+      label: Job Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: attendees_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_comments
+      label: Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false

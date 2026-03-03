@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Alcohol Intake Self Assessment Form
+    pages:
+    - id: 1
+      name: personal_info
+      label: Personal Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: drink_frequency
+      label: How often do you drink?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: drinks_per_week
+      label: Average number of drinks per week
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: alcohol_type
+      label: What type of alcohol do you usually drink?
+      hint: null
+      type: select_one
+      options:
+      - Beer
+      - Wine
+      - Spirits
+      - Other
+      required: true
+    - id: 5
+      name: drink_frequency_2
+      label: How often do you drink at social events?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: drink_quantity
+      label: How many drinks do you typically have at social events?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: drink_time
+      label: What time of day do you usually drink?
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Late Night
+      required: true
+    - id: 8
+      name: drink_location
+      label: Where do you usually drink?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: drink_frequency_3
+      label: How often do you drink at home?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: drink_amount
+      label: How much do you usually drink at home?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: drink_location_2
+      label: Where do you usually drink?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: drink_frequency_4
+      label: How often do you drink with friends?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: drink_frequency_5
+      label: How often do you drink with family?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: drink_frequency_6
+      label: How often do you drink alone?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: drink_frequency_7
+      label: How often do you drink at bars or clubs?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: drink_frequency_8
+      label: How often do you drink at restaurants?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: drink_frequency_9
+      label: How often do you drink at sporting events or parties?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: drink_frequency_10
+      label: How often do you drink on weekends?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: drink_frequency_11
+      label: How often do you drink on weekdays?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: drink_frequency_12
+      label: How often do you drink during lunch?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: drink_frequency_13
+      label: How often do you drink during dinner?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: drink_frequency_14
+      label: How often do you drink before bed?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: drink_frequency_15
+      label: How often do you drink before exercise or sports?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: drink_frequency_16
+      label: How often do you drink before medication?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Cancel
+      - Submit
+      required: true

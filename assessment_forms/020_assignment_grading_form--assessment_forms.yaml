@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Assignment Grading Form
+    pages:
+    - id: 1
+      name: grader_name
+      label: Grader Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: grading_date
+      label: Grading Date
+      hint: Date assignment is being graded
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: course_name
+      label: Course Name
+      hint: Name of the course
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: course_number
+      label: Course Number
+      hint: Course identification number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: instructor_name
+      label: Instructor Name
+      hint: Name of course instructor
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: student_name
+      label: Student Name
+      hint: Name of student being graded
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: student_id
+      label: Student ID Number
+      hint: Student identification number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: assignment_name
+      label: Assignment Name
+      hint: Title or name of assignment
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: assignment_number
+      label: Assignment Number
+      hint: Which assignment in sequence?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: submission_date
+      label: Submission Date
+      hint: When was assignment submitted?
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: was_late
+      label: Was Submission Late?
+      hint: Submitted after due date?
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: true
+    - id: 12
+      name: completeness_score
+      label: Completeness - Score 1-10
+      hint: How complete is the assignment?
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: accuracy_score
+      label: Accuracy - Score 1-10
+      hint: How accurate is the work?
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: organization_score
+      label: Organization - Score 1-10
+      hint: How well organized is work?
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: clarity_score
+      label: Clarity of Communication - Score 1-10
+      hint: How clear is the presentation?
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: originality_score
+      label: Originality - Score 1-10
+      hint: How original is the work?
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: effort_score
+      label: Effort and Quality - Score 1-10
+      hint: Overall effort and quality?
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: overall_score
+      label: Overall Score or Grade
+      hint: Final grade or score
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: letter_grade
+      label: Letter Grade
+      hint: A, B, C, D, F, etc.
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: strengths
+      label: Key Strengths
+      hint: What did student do well?
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: areas_improvement
+      label: Areas for Improvement
+      hint: What needs improvement?
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: feedback_comments
+      label: Detailed Feedback Comments
+      hint: Comments for the student
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: recommendations
+      label: Recommendations for Student
+      hint: Suggestions for next steps
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: resubmission_allowed
+      label: Allow Resubmission?
+      hint: Can student resubmit?
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      - With Conditions
+      required: true
+    - id: 25
+      name: grader_comments
+      label: Grader Notes
+      hint: Any internal notes
+      type: text
+      options: []
+      required: false

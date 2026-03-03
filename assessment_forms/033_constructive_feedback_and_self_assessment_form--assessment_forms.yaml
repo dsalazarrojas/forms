@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: Constructive Feedback And Self Assessment Form
+    pages:
+    - id: 1
+      name: section_individual_ident
+      label: -- Individual and Role Context --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_full_name
+      label: Participant Full Name
+      hint: Person undergoing the assessment
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_job_title
+      label: Current Job Title and Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: assessment_period_ident
+      label: Assessment Period
+      hint: e.g., Q1 2024, Annual Review
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: assessment_type_ident
+      label: Type of Assessment
+      hint: null
+      type: select_one
+      options:
+      - Self-Assessment
+      - Peer Review
+      - Supervisor Feedback
+      - 360-degree Feedback
+      required: true
+    - id: 6
+      name: section_self_reflection
+      label: -- Self-Reflection and Performance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: achievement_summary_desc
+      label: What are your three most significant professional achievements this period?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: challenge_handling_reflection
+      label: Describe a major challenge you faced and how you overcame it
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: job_satisfaction_rating
+      label: Current Level of Job Satisfaction (1-10)
+      hint: 1 - Very Dissatisfied, 10 - Highly Satisfied
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: section_competency_assessment
+      label: -- Core Competency Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: communication_rating
+      label: Communication and Interpersonal Skills
+      hint: 1 - Poor, 5 - Exceptional
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: team_collaboration_rating
+      label: Teamwork and Collaboration
+      hint: 1 - Poor, 5 - Exceptional
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: problem_solving_rating
+      label: Critical Thinking and Problem-Solving
+      hint: 1 - Poor, 5 - Exceptional
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: time_management_rating
+      label: Time Management and Prioritization
+      hint: 1 - Poor, 5 - Exceptional
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: technical_skills_rating
+      label: Job-Specific Technical Knowledge
+      hint: 1 - Poor, 5 - Exceptional
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: section_growth_improvement
+      label: -- Growth and Improvement Areas --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: improvement_areas_ident
+      label: What are your primary areas for professional growth/improvement?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: training_needs_summary
+      label: What additional training or resources would support your development?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: next_period_goals_ident
+      label: Primary Professional Goals for the Next Period
+      hint: Max 1000 characters
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: section_constructive_feedback
+      label: -- Constructive Feedback for Others --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: supervisor_feedback_desc
+      label: What could your supervisor do to better support your work?
+      hint: Skip if not applicable
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: company_improvement_feedback
+      label: One suggestion to improve the overall team/company culture
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submission_date
+      label: Date of Assessment Completion
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: final_ack_ident
+      label: I confirm the accuracy and honesty of this assessment
+      hint: null
+      type: select_one
+      options:
+      - I Acknowledge and Confirm
+      - I Disagree
+      required: true

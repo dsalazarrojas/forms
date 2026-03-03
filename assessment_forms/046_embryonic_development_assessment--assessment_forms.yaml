@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Embryonic Development Assessment
+    pages:
+    - id: 1
+      name: embryonic_development_1
+      label: Development Stage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: embryonic_development_2
+      label: Gestational Age
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: embryonic_development_3
+      label: Embryo Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: embryonic_development_4
+      label: Developmental Abnormalities
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: embryonic_development_5
+      label: Assessment Outcome
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: embryonic_development_6
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: embryonic_development_7
+      label: Researcher's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: embryonic_development_8
+      label: Institution
+      hint: null
+      type: text
+      options: []
+      required: false

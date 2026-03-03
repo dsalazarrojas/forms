@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Direct Debit Authorization Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Enter the customer's name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: account_number
+      label: Account Number
+      hint: Enter the customer's account number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: routing_number
+      label: Routing Number
+      hint: Enter the customer's routing number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: bank_name
+      label: Bank Name
+      hint: Enter the bank's name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: account_type
+      label: Account Type
+      hint: Check or Savings account
+      type: select_one
+      options:
+      - Checking
+      - Savings
+      - Credit
+      required: false
+    - id: 6
+      name: start_date
+      label: Start Date
+      hint: Enter the start date
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: amount
+      label: Amount
+      hint: Enter the amount
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: frequency
+      label: Frequency
+      hint: Daily, Weekly, or Monthly
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 9
+      name: payment_type
+      label: Payment Type
+      hint: Select the payment type
+      type: select_one
+      options:
+      - One-time payment
+      - Recurring payment
+      - Scheduled payment
+      required: false
+    - id: 10
+      name: bank_account
+      label: Bank Account
+      hint: Enter the bank account details
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: customer_email
+      label: Customer Email
+      hint: Enter the customer's email
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: customer_phone
+      label: Customer Phone
+      hint: Enter the customer's phone number
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: authorization_amount
+      label: Authorization Amount
+      hint: Enter the authorization amount
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: merchant_account
+      label: Merchant Account
+      hint: Enter the merchant account details
+      type: text
+      options: []
+      required: false

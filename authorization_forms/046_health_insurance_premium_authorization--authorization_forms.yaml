@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Insurance Premium Authorization
+    pages:
+    - id: 1
+      name: applicant_info
+      label: Applicant Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: policy_details
+      label: Policy Details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: payment_permission
+      label: Payment Permission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: premium_amount
+      label: Premium Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: authorization_date
+      label: Authorization Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: authorization_time
+      label: Authorization Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: policy_number
+      label: Policy Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: premium_frequency
+      label: Premium Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: premium_cycle
+      label: Premium Cycle
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

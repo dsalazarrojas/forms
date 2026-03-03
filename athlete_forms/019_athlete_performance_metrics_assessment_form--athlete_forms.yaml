@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Performance Metrics Assessment Form
+    pages:
+    - id: 1
+      name: athlete_name
+      label: Athlete Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: athlete_id
+      label: Athlete ID Number
+      hint: Student or team identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of assessment
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: sport
+      label: Sport
+      hint: Primary sport
+      type: select_one
+      options:
+      - Football
+      - Basketball
+      - Soccer
+      - Track and Field
+      - Swimming
+      - Volleyball
+      - Baseball
+      - Softball
+      - Tennis
+      - Other
+      required: true
+    - id: 5
+      name: position
+      label: Primary Position
+      hint: Main position played
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: height
+      label: Height
+      hint: In feet and inches or cm
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: weight
+      label: Weight
+      hint: In pounds or kg
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: body_fat_percentage
+      label: Body Fat Percentage
+      hint: If measured
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: forty_yard_dash
+      label: 40-Yard Dash Time
+      hint: Time in seconds
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: vertical_jump
+      label: Vertical Jump
+      hint: Height in inches
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: broad_jump
+      label: Broad Jump
+      hint: Distance in inches or cm
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: shuttle_run
+      label: Shuttle Run Time
+      hint: Time in seconds
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: bench_press
+      label: Bench Press Max
+      hint: Weight in pounds or kg
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: squat_max
+      label: Squat Max
+      hint: Weight in pounds or kg
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: deadlift_max
+      label: Deadlift Max
+      hint: Weight in pounds or kg
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: vo2_max
+      label: VO2 Max
+      hint: If measured
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: resting_heart_rate
+      label: Resting Heart Rate
+      hint: Beats per minute
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: sport_specific_metric_1
+      label: Sport-Specific Metric 1
+      hint: Name of metric
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: sport_specific_value_1
+      label: Sport-Specific Value 1
+      hint: Value of metric
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: sport_specific_metric_2
+      label: Sport-Specific Metric 2
+      hint: Name of metric
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: sport_specific_value_2
+      label: Sport-Specific Value 2
+      hint: Value of metric
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: previous_assessment_date
+      label: Previous Assessment Date
+      hint: For comparison
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: improvements_noted
+      label: Improvements Noted
+      hint: List areas of improvement
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: areas_declined
+      label: Areas of Decline
+      hint: List any metrics that declined
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: training_recommendations
+      label: Training Recommendations
+      hint: Suggested focus areas
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: assessor_name
+      label: Assessor Name
+      hint: Name of person conducting assessment
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: assessor_signature
+      label: Assessor Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true

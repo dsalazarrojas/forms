@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: reading_assessment_form
+    pages:
+    - id: 1
+      name: intro_page
+      label: intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: demographic_info
+      label: demographic_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reading_comprehension
+      label: reading_comprehension
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reading_preferences
+      label: reading_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: reading_frequency
+      label: reading_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: reading_format
+      label: reading_format
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: reading_difficulty
+      label: reading_difficulty
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: reading_speed
+      label: reading_speed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: reading_time
+      label: reading_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: reading_date
+      label: reading_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: reading_time_of_day
+      label: reading_time_of_day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

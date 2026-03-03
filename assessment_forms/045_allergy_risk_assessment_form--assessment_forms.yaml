@@ -1,0 +1,385 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Allergy Risk Assessment Form
+    pages:
+    - id: 1
+      name: patient_first_name
+      label: First Name
+      hint: Patient first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_last_name
+      label: Last Name
+      hint: Patient last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of assessment
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: assessor_name
+      label: Assessor Name
+      hint: Healthcare provider
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: assessor_title
+      label: Assessor Title
+      hint: Professional title
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: known_allergies
+      label: Known Allergies
+      hint: List all known allergies
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: allergy_categories
+      label: Allergy Categories
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Food allergies
+      - Drug allergies
+      - Environmental allergies
+      - Insect sting allergies
+      - Latex allergies
+      - Contact allergies
+      - Exercise-induced
+      - Unknown allergies
+      required: true
+    - id: 9
+      name: food_allergy_risk
+      label: Food Allergy Risk Level
+      hint: Rate the risk
+      type: select_one
+      options:
+      - No known risk
+      - Low risk
+      - Moderate risk
+      - High risk
+      - Confirmed allergy
+      required: true
+    - id: 10
+      name: drug_allergy_risk
+      label: Drug Allergy Risk Level
+      hint: Rate the risk
+      type: select_one
+      options:
+      - No known risk
+      - Low risk
+      - Moderate risk
+      - High risk
+      - Confirmed allergy
+      required: true
+    - id: 11
+      name: environmental_allergy_risk
+      label: Environmental Allergy Risk Level
+      hint: Rate the risk
+      type: select_one
+      options:
+      - No known risk
+      - Low risk
+      - Moderate risk
+      - High risk
+      - Confirmed allergy
+      required: true
+    - id: 12
+      name: family_history_allergies
+      label: Family History of Allergies
+      hint: Any family allergies?
+      type: select_one
+      options:
+      - No known family history
+      - One parent with allergies
+      - Both parents with allergies
+      - Sibling with allergies
+      - Multiple family members
+      required: true
+    - id: 13
+      name: family_history_asthma
+      label: Family History of Asthma
+      hint: Any family asthma?
+      type: select_one
+      options:
+      - No
+      - Yes, one family member
+      - Yes, multiple family members
+      required: true
+    - id: 14
+      name: family_history_eczema
+      label: Family History of Eczema
+      hint: Any family eczema?
+      type: select_one
+      options:
+      - No
+      - Yes
+      required: true
+    - id: 15
+      name: personal_history_asthma
+      label: Personal History of Asthma
+      hint: Do you have asthma?
+      type: select_one
+      options:
+      - No
+      - Yes, mild
+      - Yes, moderate
+      - Yes, severe
+      required: true
+    - id: 16
+      name: personal_history_eczema
+      label: Personal History of Eczema
+      hint: Do you have eczema?
+      type: select_one
+      options:
+      - No
+      - Yes, past
+      - Yes, current
+      required: true
+    - id: 17
+      name: personal_history_allergic_rhinitis
+      label: Personal History of Allergic Rhinitis
+      hint: Do you have hay fever?
+      type: select_one
+      options:
+      - No
+      - Yes, seasonal
+      - Yes, perennial
+      - Yes, both
+      required: true
+    - id: 18
+      name: previous_allergic_reactions
+      label: Previous Allergic Reactions
+      hint: Have you had reactions?
+      type: select_one
+      options:
+      - Never
+      - Once
+      - 2-5 times
+      - More than 5 times
+      - Frequent reactions
+      required: true
+    - id: 19
+      name: most_severe_reaction
+      label: Most Severe Reaction Experienced
+      hint: Describe worst reaction
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: anaphylaxis_history
+      label: History of Anaphylaxis
+      hint: Have you had anaphylaxis?
+      type: select_one
+      options:
+      - No
+      - Yes, once
+      - Yes, multiple times
+      - Unknown
+      required: true
+    - id: 21
+      name: anaphylaxis_trigger
+      label: Anaphylaxis Trigger
+      hint: What caused it?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: emergency_treatment_required
+      label: Emergency Treatment Required
+      hint: Have you needed emergency care?
+      type: select_one
+      options:
+      - Never
+      - Once
+      - Multiple times
+      required: true
+    - id: 23
+      name: epinephrine_prescription
+      label: Epinephrine Prescription
+      hint: Do you have EpiPen?
+      type: select_one
+      options:
+      - Yes, current prescription
+      - Yes, but expired
+      - No, never prescribed
+      - No, but should have one
+      required: true
+    - id: 24
+      name: current_allergy_medications
+      label: Current Allergy Medications
+      hint: List all medications
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: allergy_testing_history
+      label: Allergy Testing History
+      hint: Have you been tested?
+      type: select_one
+      options:
+      - Never tested
+      - Skin prick test
+      - Blood test (RAST)
+      - Patch test
+      - Food challenge
+      - Multiple tests
+      required: true
+    - id: 26
+      name: testing_results
+      label: Testing Results
+      hint: Summary of results
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: risk_factors
+      label: Additional Risk Factors
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Multiple allergies
+      - Poorly controlled asthma
+      - Previous anaphylaxis
+      - Teenage/young adult
+      - Living far from medical care
+      - No epinephrine available
+      - Non-compliance with treatment
+      required: false
+    - id: 28
+      name: overall_risk_assessment
+      label: Overall Risk Assessment
+      hint: Rate overall risk
+      type: select_one
+      options:
+      - Minimal risk
+      - Low risk
+      - Moderate risk
+      - High risk
+      - Very high risk
+      required: true
+    - id: 29
+      name: risk_factors_summary
+      label: Risk Factors Summary
+      hint: Explain risk level
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: recommendations
+      label: Recommendations
+      hint: What actions are recommended?
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: epinephrine_recommendation
+      label: Epinephrine Recommendation
+      hint: Should patient carry EpiPen?
+      type: select_one
+      options:
+      - Yes, strongly recommended
+      - Yes, recommended
+      - Optional
+      - Not necessary
+      required: true
+    - id: 32
+      name: allergy_action_plan
+      label: Allergy Action Plan Needed
+      hint: Is a plan needed?
+      type: select_one
+      options:
+      - Yes, create immediately
+      - Yes, at next visit
+      - No, existing plan adequate
+      - No plan needed
+      required: true
+    - id: 33
+      name: follow_up_required
+      label: Follow-Up Required
+      hint: When to return?
+      type: select_one
+      options:
+      - Urgent - within 1 week
+      - Soon - within 1 month
+      - Routine - within 3 months
+      - Annual follow-up
+      - No follow-up needed
+      required: true
+    - id: 34
+      name: specialist_referral
+      label: Specialist Referral Needed
+      hint: Refer to allergist?
+      type: select_one
+      options:
+      - Yes, urgent
+      - Yes, routine
+      - No, continue current care
+      required: true
+    - id: 35
+      name: patient_education_provided
+      label: Patient Education Provided
+      hint: What education was given?
+      type: select_multiple
+      options:
+      - Allergen avoidance
+      - Medication use
+      - Epinephrine administration
+      - Emergency action plan
+      - Symptom recognition
+      - None provided
+      required: true
+    - id: 36
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other observations
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: assessor_signature
+      label: Assessor Signature
+      hint: Provider confirmation
+      type: select_one
+      options:
+      - I certify this assessment is accurate
+      - Not yet signed
+      required: true
+    - id: 38
+      name: assessment_date_signed
+      label: Assessment Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Long Covid Care Assessment
+    pages:
+    - id: 1
+      name: long_covid_care_assessment
+      label: long_covid_care_assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: long_covid_symptoms
+      label: long_covid_symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: long_covid_symptom_frequency
+      label: long_covid_symptom_frequency
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 day
+      - 1-2 days
+      - 3-7 days
+      - More than 7 days
+      required: false
+    - id: 4
+      name: long_covid_symptom_severity
+      label: long_covid_symptom_severity
+      hint: null
+      type: select_multiple
+      options:
+      - Mild
+      - Moderate
+      - Severe
+      required: false
+    - id: 5
+      name: long_covid_care_needs
+      label: long_covid_care_needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: long_covid_medication_use
+      label: long_covid_medication_use
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: long_covid_vaccine_status
+      label: long_covid_vaccine_status
+      hint: null
+      type: select_one
+      options:
+      - Not yet vaccinated
+      - Fully vaccinated
+      - Booster dose received
+      - Partially vaccinated
+      required: false
+    - id: 8
+      name: long_covid_test_result
+      label: long_covid_test_result
+      hint: null
+      type: select_one
+      options:
+      - Negative
+      - Positive
+      required: false
+    - id: 9
+      name: long_covid_care_service_needs
+      label: long_covid_care_service_needs
+      hint: null
+      type: select_multiple
+      options:
+      - Mental health support
+      - Medical care
+      - Home care
+      - Rehabilitation programs
+      - Others
+      required: false
+    - id: 10
+      name: long_covid_medication_referral
+      label: long_covid_medication_referral
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: long_covid_medication_referral_date
+      label: long_covid_medication_referral_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: long_covid_care_referral
+      label: long_covid_care_referral
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Clinic
+      - Rehabilitation program
+      - Other health services
+      required: false
+    - id: 13
+      name: long_covid_care_referral_date
+      label: long_covid_care_referral_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: long_covid_support_services_referral
+      label: long_covid_support_services_referral
+      hint: null
+      type: select_multiple
+      options:
+      - Mental health support
+      - Medical care
+      - Home care
+      - Rehabilitation programs
+      - Others
+      required: false
+    - id: 15
+      name: long_covid_support_services_referral_date
+      label: long_covid_support_services_referral_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: long_covid_rehabilitation_program
+      label: long_covid_rehabilitation_program
+      hint: null
+      type: select_multiple
+      options:
+      - In-person
+      - Remote
+      - Both
+      required: false
+    - id: 17
+      name: long_covid_referral_location
+      label: long_covid_referral_location
+      hint: null
+      type: select_one
+      options:
+      - Hospital
+      - Clinic
+      - Rehabilitation program
+      - Other
+      required: false
+    - id: 18
+      name: long_covid_referral_provider
+      label: long_covid_referral_provider
+      hint: null
+      type: select_one
+      options:
+      - Doctor
+      - Nurse
+      - Social worker
+      - Other
+      required: false
+    - id: 19
+      name: long_covid_followup_date
+      label: long_covid_followup_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: long_covid_last_interaction
+      label: long_covid_last_interaction
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: long_covid_last_interaction_date
+      label: long_covid_last_interaction_date
+      hint: null
+      type: date
+      options: []
+      required: false

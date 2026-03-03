@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tool Storage Authorization Request Form
+    pages:
+    - id: 1
+      name: tool_id
+      label: tool-id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: request_date
+      label: request-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: request_time
+      label: request-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: tool_description
+      label: tool-description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: access_type
+      label: access-type
+      hint: null
+      type: select_multiple
+      options:
+      - Admin
+      - User
+      - Group
+      required: false
+    - id: 7
+      name: approver
+      label: approver
+      hint: null
+      type: select_one
+      options:
+      - Jimmy
+      - John
+      - Jane
+      required: false
+    - id: 8
+      name: approver_note
+      label: approver-note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: storage_duration
+      label: storage-duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: storage_size
+      label: storage-size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: storage_location
+      label: storage-location
+      hint: null
+      type: text
+      options: []
+      required: false

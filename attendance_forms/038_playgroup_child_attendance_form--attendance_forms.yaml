@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Playgroup Child Attendance Form
+    pages:
+    - id: 1
+      name: child_info
+      label: Child Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: drop_off
+      label: Child Drop Off
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Early Morning'', ''value'': 1}'
+      - '{''label'': ''Late Morning'', ''value'': 2}'
+      - '{''label'': ''Not Yet Arrived'', ''value'': 3}'
+      required: false
+    - id: 3
+      name: child_name
+      label: Child Name
+      hint: Childs Name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: parents_info
+      label: Parents Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: parent_name
+      label: Parent Name
+      hint: Name of Parent 1
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: Contact number of Parent 1
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: Email of Parent 1
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: drop_off_time
+      label: Drop Off Time
+      hint: Drop off time of the child
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: pick_up_time
+      label: Pick Up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: pick_up_details
+      label: Pick Up Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: parent_signature
+      label: Parent Signature
+      hint: null
+      type: note
+      options: []
+      required: false

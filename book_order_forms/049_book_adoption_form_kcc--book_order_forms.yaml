@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book Adoption Form - KCC
+    pages:
+    - id: 1
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: instructor_email
+      label: Instructor Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: course_number
+      label: Course Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: course_title
+      label: Course Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_number
+      label: Section Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: term
+      label: Term of Adoption
+      hint: null
+      type: select_one
+      options:
+      - Spring Semester
+      - Fall Semester
+      - Winter Session
+      - Summer Session
+      - Year-Round
+      required: true
+    - id: 9
+      name: enrollment_estimate
+      label: Estimated Enrollment
+      hint: Expected number of students
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: current_textbook_isbn
+      label: Current Textbook ISBN
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: current_textbook_title
+      label: Current Textbook Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: requested_textbook_isbn
+      label: Requested Textbook ISBN
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: requested_textbook_title
+      label: Requested Textbook Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: requested_textbook_author
+      label: Textbook Author
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: requested_textbook_edition
+      label: Textbook Edition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: textbook_requirement_status
+      label: Textbook Requirement Status
+      hint: null
+      type: select_one
+      options:
+      - Required
+      - Student Choice - Optional
+      - Highly Recommended
+      - Reserve Readings
+      - Free Online Resource
+      required: true
+    - id: 17
+      name: alternative_formats
+      label: Alternative Formats Available
+      hint: null
+      type: select_multiple
+      options:
+      - Hardcover
+      - Paperback
+      - eBook
+      - Rental
+      - Used Copies
+      - International Edition
+      - Looseleaf
+      required: false
+    - id: 18
+      name: additional_materials
+      label: Additional Required Materials
+      hint: Solutions manual, lab manual, etc
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: course_reserves
+      label: Materials on Course Reserve
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - Some Materials
+      - No - No Reserves
+      - Unsure
+      required: true
+    - id: 20
+      name: open_educational_resources
+      label: Using Open Educational Resources
+      hint: OER materials
+      type: select_one
+      options:
+      - Yes - All OER
+      - Yes - Some OER
+      - No - Traditional Resources
+      - Considering OER
+      required: true
+    - id: 21
+      name: rental_option_preference
+      label: Rental Option Preference
+      hint: null
+      type: select_one
+      options:
+      - Support Rental Option
+      - No Rental Option
+      - No Preference
+      required: true
+    - id: 22
+      name: prior_adoption_comments
+      label: Comments About Prior Adoption
+      hint: Why changing or continuing
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: cost_considerations
+      label: Cost Considerations
+      hint: Affordability concerns
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: confirmation_accuracy
+      label: I confirm the above information is accurate
+      hint: null
+      type: select_one
+      options:
+      - I Confirm
+      - I Need to Make Corrections
+      required: true
+    - id: 25
+      name: submission_method_confirmation
+      label: Submission Method
+      hint: null
+      type: select_one
+      options:
+      - Online Form
+      - Email Attachment
+      - In Person Delivery
+      required: true

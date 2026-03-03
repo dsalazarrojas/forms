@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Electrical Motors Knowledge Quiz
+    pages:
+    - id: 1
+      name: first_page
+      label: first page
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: motor_fundamentals
+      label: motor fundamentals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: motor_quiz_questions
+      label: quiz questions
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Motor type''}'
+      - '{''text'': ''Motor size''}'
+      required: false
+    - id: 4
+      name: question_1
+      label: question 1
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''Motor efficiency''}'
+      - '{''text'': ''Motor power''}'
+      - '{''text'': ''Motor speed''}'
+      required: true
+    - id: 5
+      name: question_2
+      label: question 2
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''A''}'
+      - '{''text'': ''B''}'
+      - '{''text'': ''C''}'
+      required: true
+    - id: 6
+      name: question_3
+      label: question 3
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: result
+      label: result
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: instructor_name
+      label: instructor name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: instructor_department
+      label: instructor department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: instructor_title
+      label: instructor title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: instructor_position
+      label: instructor position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: assessment_date
+      label: assessment date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: assessment_time
+      label: assessment time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: instructor_signature
+      label: instructor signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: motor_type
+      label: motor type
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''DC''}'
+      - '{''text'': ''AC''}'
+      required: false
+    - id: 19
+      name: motor_speed
+      label: motor speed
+      hint: null
+      type: number
+      options: []
+      required: false

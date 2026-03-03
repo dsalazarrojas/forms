@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lease Agreement Compliance Report Form
+    pages:
+    - id: 1
+      name: tenant_name
+      label: Tenant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: move_in_date
+      label: Move In Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: move_out_date
+      label: Move Out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: violation_type
+      label: Violation Type
+      hint: null
+      type: select_one
+      options:
+      - Rent
+      - Lease Violation
+      - Rule Violation
+      - Property Violation
+      - Other
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: rent_dues
+      label: Rent Dues
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: rent_dues_paid
+      label: Rent Dues Paid
+      hint: null
+      type: number
+      options: []
+      required: false

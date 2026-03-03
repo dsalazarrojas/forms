@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: Walk In Interview Form
+    pages:
+    - id: 1
+      name: candidate_name
+      label: Candidate Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_applied
+      label: Job Applied
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: interview_date
+      label: Interview Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_day
+      label: Time of Day
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: interview_time
+      label: Interview Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: walk_in_location
+      label: Walk in Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: interviewer_name
+      label: Interviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: candidate_status
+      label: Candidate Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: status_date
+      label: Status Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 14
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: follow_up_interviewer_name
+      label: Follow-up Interviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_submitted_by
+      label: Follow-up Submitted By
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_contact_info
+      label: Follow-up Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: next_action
+      label: Next Action
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: follow_reported
+      label: Follow-up Reported
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_status_date
+      label: Follow-up Status Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false

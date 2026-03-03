@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Breast Fillet Quality Assessment
+    pages:
+    - id: 1
+      name: assessor_name
+      label: Assessor Full Name
+      hint: Name of person conducting assessment
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: assessor_id
+      label: Assessor ID
+      hint: Employee or inspector ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of assessment
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: assessment_time
+      label: Assessment Time
+      hint: Time of assessment
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: batch_number
+      label: Batch or Lot Number
+      hint: Batch identifier
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: supplier_name
+      label: Supplier Name
+      hint: Name of supplier
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: product_type
+      label: Product Type
+      hint: Type of breast fillet
+      type: select_one
+      options:
+      - Chicken Breast
+      - Turkey Breast
+      - Duck Breast
+      - Other Poultry
+      required: true
+    - id: 8
+      name: sample_size
+      label: Sample Size
+      hint: Number of fillets assessed
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: visual_appearance
+      label: Visual Appearance
+      hint: Rate the visual appearance
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Below Standard
+      - Unacceptable
+      required: true
+    - id: 10
+      name: color_assessment
+      label: Color Assessment
+      hint: Rate the color quality
+      type: select_one
+      options:
+      - Uniform Pink-White
+      - Slightly Varied
+      - Some Discoloration
+      - Significant Discoloration
+      - Abnormal Color
+      required: true
+    - id: 11
+      name: texture_assessment
+      label: Texture Assessment
+      hint: Rate the texture
+      type: select_one
+      options:
+      - Firm and Elastic
+      - Slightly Soft
+      - Soft
+      - Mushy
+      - Slimy
+      required: true
+    - id: 12
+      name: odor_assessment
+      label: Odor Assessment
+      hint: Rate the odor
+      type: select_one
+      options:
+      - Fresh, No Odor
+      - Mild, Acceptable
+      - Slightly Off
+      - Strong, Unacceptable
+      - Putrid
+      required: true
+    - id: 13
+      name: size_uniformity
+      label: Size Uniformity
+      hint: Rate size consistency
+      type: select_one
+      options:
+      - Very Uniform
+      - Mostly Uniform
+      - Somewhat Varied
+      - Highly Varied
+      - Not Uniform
+      required: true
+    - id: 14
+      name: trim_quality
+      label: Trim Quality
+      hint: Rate the trimming quality
+      type: select_one
+      options:
+      - Excellent Trim
+      - Good Trim
+      - Acceptable
+      - Poor Trim
+      - Unacceptable
+      required: true
+    - id: 15
+      name: defects_found
+      label: Defects Found
+      hint: Select any defects observed
+      type: select_multiple
+      options:
+      - None
+      - Bruising
+      - Tears
+      - Blood Spots
+      - Bone Fragments
+      - Foreign Material
+      - Freezer Burn
+      - Excess Fat
+      required: true
+    - id: 16
+      name: temperature_check
+      label: Temperature Check
+      hint: Product temperature in degrees
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: packaging_condition
+      label: Packaging Condition
+      hint: Rate the packaging
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Damaged
+      - Severely Damaged
+      required: true
+    - id: 18
+      name: labeling_accuracy
+      label: Labeling Accuracy
+      hint: Is labeling accurate
+      type: select_one
+      options:
+      - Accurate
+      - Minor Errors
+      - Major Errors
+      - Missing Labels
+      required: true
+    - id: 19
+      name: overall_quality_grade
+      label: Overall Quality Grade
+      hint: Final quality grade
+      type: select_one
+      options:
+      - Grade A Premium
+      - Grade A
+      - Grade B
+      - Grade C
+      - Reject
+      required: true
+    - id: 20
+      name: disposition
+      label: Product Disposition
+      hint: Final decision on product
+      type: select_one
+      options:
+      - Approved for Sale
+      - Approved with Restrictions
+      - Requires Rework
+      - Hold for Review
+      - Rejected
+      required: true
+    - id: 21
+      name: corrective_actions
+      label: Corrective Actions Needed
+      hint: Describe any actions needed
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: assessor_signature
+      label: Assessor Signature
+      hint: Type your name as signature
+      type: text
+      options: []
+      required: true

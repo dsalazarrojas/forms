@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tree Trimming Equipment Inspection Form
+    pages:
+    - id: 1
+      name: blade
+      label: Blade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: chain_saw_sharpness
+      label: Chain Saw Sharpness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: guard_condition
+      label: Guard Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Poor''}'
+      required: false
+    - id: 4
+      name: chain_saw_condition
+      label: Chain Saw Condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''New''}'
+      - '{''id'': 2, ''label'': ''Used''}'
+      - '{''id'': 3, ''label'': ''Old''}'
+      required: false
+    - id: 5
+      name: cutting_head
+      label: Cutting Head
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: cutting_head_hose
+      label: Cutting Head Hose
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Attached''}'
+      - '{''id'': 2, ''label'': ''Detached''}'
+      - '{''id'': 3, ''label'': ''Missing''}'
+      required: false
+    - id: 7
+      name: handle
+      label: Handle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: motor
+      label: Motor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: blade_tension
+      label: Blade Tension
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: oil_level
+      label: Oil Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: bar
+      label: Bar
+      hint: null
+      type: text
+      options: []
+      required: false

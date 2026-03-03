@@ -1,0 +1,156 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Adulthood Development Assessment
+    pages:
+    - id: 1
+      name: assessment_overview_section
+      label: -- Assessment Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: assessed_individual_name
+      label: Assessed Individual Name
+      hint: Full name of the person being assessed
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: assessor_name
+      label: Assessor Name
+      hint: Name of the professional conducting the assessment
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: assessment_date
+      label: Assessment Date
+      hint: Date when the assessment is being conducted
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: demographic_information_section
+      label: -- Demographic Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: age_group
+      label: Age Group
+      hint: Select the age range of the individual being assessed
+      type: select_one
+      options: ["Early adulthood (18-25)", "Young adulthood (26-35)", "Middle adulthood (36-50)", "Late middle adulthood (51-65)", "Late adulthood (65+)"]
+      required: true
+    - id: 7
+      name: education_level
+      label: Education Level
+      hint: Highest level of education completed
+      type: select_one
+      options: ["High school diploma", "Some college", "Bachelor's degree", "Master's degree", "Doctoral degree", "Other"]
+      required: true
+    - id: 8
+      name: employment_status
+      label: Employment Status
+      hint: Current employment situation
+      type: select_one
+      options: ["Employed full-time", "Employed part-time", "Self-employed", "Unemployed", "Student", "Retired"]
+      required: true
+    - id: 9
+      name: independence_assessment_section
+      label: -- Independence Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: financial_management
+      label: Financial Management
+      hint: Ability to manage personal finances independently
+      type: select_one
+      options: ["Completely independent", "Mostly independent", "Needs occasional support", "Needs frequent support", "Dependent on others"]
+      required: true
+    - id: 11
+      name: household_management
+      label: Household Management
+      hint: Ability to manage daily household tasks
+      type: select_one
+      options: ["Completely independent", "Mostly independent", "Needs occasional support", "Needs frequent support", "Dependent on others"]
+      required: true
+    - id: 12
+      name: transportation_independence
+      label: Transportation Independence
+      hint: Ability to navigate transportation systems independently
+      type: select_one
+      options: ["Completely independent", "Mostly independent", "Needs occasional support", "Needs frequent support", "Dependent on others"]
+      required: true
+    - id: 13
+      name: social_relationships_section
+      label: -- Social Relationships --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: relationship_building
+      label: Relationship Building
+      hint: Ability to form and maintain healthy relationships
+      type: select_one
+      options: ["Strong abilities", "Good abilities", "Developing abilities", "Needs support", "Significant challenges"]
+      required: true
+    - id: 15
+      name: communication_skills
+      label: Communication Skills
+      hint: Effectiveness in verbal and non-verbal communication
+      type: select_one
+      options: ["Excellent", "Good", "Adequate", "Needs improvement", "Poor"]
+      required: true
+    - id: 16
+      name: emotional_regulation
+      label: Emotional Regulation
+      hint: Ability to manage emotions appropriately
+      type: select_one
+      options: ["Excellent", "Good", "Adequate", "Needs improvement", "Poor"]
+      required: true
+    - id: 17
+      name: career_development_section
+      label: -- Career Development --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: career_goal_setting
+      label: Career Goal Setting
+      hint: Ability to set and pursue meaningful career objectives
+      type: select_one
+      options: ["Highly developed", "Well developed", "Developing", "Needs support", "Underdeveloped"]
+      required: true
+    - id: 19
+      name: professional_skills
+      label: Professional Skills
+      hint: Competency in workplace-relevant skills
+      type: select_one
+      options: ["Advanced", "Proficient", "Competent", "Developing", "Needs significant development"]
+      required: true
+    - id: 20
+      name: assessment_summary
+      label: Assessment Summary
+      hint: Overall summary and recommendations from the assessment
+      type: text
+      options: []
+      required: false

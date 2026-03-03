@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Visitor Badge Check In Form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_visit
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: checkin_status
+      label: Check-in Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Not checked in yet'', ''label'': ''Not checked in
+        yet''}'
+      - '{''id'': 2, ''name'': ''Checked in'', ''label'': ''Checked in''}'
+      - '{''id'': 3, ''name'': ''Checked out'', ''label'': ''Checked out''}'
+      - '{''id'': 4, ''name'': ''No show'', ''label'': ''No show''}'
+      - '{''id'': 5, ''name'': ''Other'', ''label'': ''Other''}'
+      - '{''id'': 6, ''name'': ''Cancelled'', ''label'': ''Cancelled''}'
+      - '{''id'': 7, ''name'': ''Rescheduled'', ''label'': ''Rescheduled''}'
+      required: true
+    - id: 5
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_email
+      label: Emergency Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

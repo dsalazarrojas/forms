@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Site Worker Attendance Form
+    pages:
+    - id: 1
+      name: attendance_date
+      label: Attendance Date
+      hint: Date of this attendance record
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: project_name
+      label: Project Name
+      hint: Name of construction project
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_address
+      label: Project Address
+      hint: Site location
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: supervisor_name
+      label: Supervisor Name
+      hint: Name of site supervisor
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: worker_name
+      label: Worker Full Name
+      hint: Employee full name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: employee_id
+      label: Employee ID
+      hint: Employee number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: company_name
+      label: Company Name
+      hint: Employer or subcontractor
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: job_title
+      label: Job Title
+      hint: Position or trade
+      type: select_one
+      options:
+      - General Laborer
+      - Carpenter
+      - Electrician
+      - Plumber
+      - Equipment Operator
+      - Ironworker
+      - Mason
+      - Roofer
+      - Painter
+      - HVAC Technician
+      - Supervisor
+      - Other
+      required: true
+    - id: 9
+      name: check_in_time
+      label: Check-In Time
+      hint: Time of arrival
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: check_out_time
+      label: Check-Out Time
+      hint: Time of departure
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: total_hours
+      label: Total Hours Worked
+      hint: Total hours for the day
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: break_start
+      label: Break Start Time
+      hint: When break began
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: break_end
+      label: Break End Time
+      hint: When break ended
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: break_duration
+      label: Break Duration
+      hint: Length of break in minutes
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: work_area
+      label: Work Area Assigned
+      hint: Location on site
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: work_description
+      label: Work Description
+      hint: Tasks performed today
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: safety_equipment_issued
+      label: Safety Equipment Issued
+      hint: PPE provided today
+      type: select_multiple
+      options:
+      - Hard Hat
+      - Safety Glasses
+      - Hearing Protection
+      - Respirator
+      - Gloves
+      - Safety Harness
+      - High-Visibility Vest
+      - Steel-Toed Boots
+      - None
+      required: false
+    - id: 18
+      name: safety_meeting_attended
+      label: Safety Meeting Attended
+      hint: Toolbox talk or meeting
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Held
+      required: true
+    - id: 19
+      name: incidents_reported
+      label: Incidents Reported
+      hint: Any accidents or near misses
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: incident_description
+      label: Incident Description
+      hint: Describe if applicable
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: equipment_used
+      label: Equipment Used Today
+      hint: Tools or machinery operated
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: overtime_hours
+      label: Overtime Hours
+      hint: Hours beyond regular schedule
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: per_diem_eligible
+      label: Per Diem Eligible
+      hint: Is worker eligible for per diem
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 24
+      name: meal_break_taken
+      label: Meal Break Taken
+      hint: Was required meal break taken
+      type: select_one
+      options:
+      - true
+      - false
+      - Waived
+      required: false
+    - id: 25
+      name: worker_signature
+      label: Worker Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: supervisor_signature
+      label: Supervisor Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: notes
+      label: Additional Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

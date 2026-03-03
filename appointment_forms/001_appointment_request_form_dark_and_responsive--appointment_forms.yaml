@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Appointment Request Form Dark And Responsive
+    pages:
+    - id: 1
+      name: personal_information
+      label: Personal Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your complete first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: We will use this to confirm your appointment
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Include area code
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: appointment_section
+      label: Appointment Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: preferred_date
+      label: Preferred Appointment Date
+      hint: Select your desired date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: preferred_time
+      label: Preferred Time Slot
+      hint: null
+      type: select_one
+      options:
+      - 9:00 AM - 10:00 AM
+      - 10:00 AM - 11:00 AM
+      - 11:00 AM - 12:00 PM
+      - 2:00 PM - 3:00 PM
+      - 3:00 PM - 4:00 PM
+      - 4:00 PM - 5:00 PM
+      required: true
+    - id: 8
+      name: appointment_type
+      label: Type of Appointment
+      hint: null
+      type: select_one
+      options:
+      - Consultation
+      - Service
+      - Follow-up
+      - Other
+      required: true
+    - id: 9
+      name: service_description
+      label: Brief Description of Service Needed
+      hint: Tell us what you need help with
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_notes
+      label: Additional Notes or Requests
+      hint: Any special requirements or preferences
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: how_heard
+      label: How Did You Hear About Us
+      hint: null
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Referral
+      - Search Engine
+      - Advertisement
+      required: false
+    - id: 12
+      name: accept_terms
+      label: I agree to the appointment terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

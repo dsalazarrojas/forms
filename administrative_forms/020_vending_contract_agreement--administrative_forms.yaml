@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vending Contract Agreement
+    pages:
+    - id: 1
+      name: contract_term_length
+      label: Contract Term Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: false
+    - id: 3
+      name: contract_term_date
+      label: Contract Term Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: contract_start_date
+      label: Contract Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: contract_end_date
+      label: Contract End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment_terms_description
+      label: Payment Terms Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contract_responsibilities
+      label: Contract Responsibilities
+      hint: Please list all responsibilities of the contract.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contract_duration
+      label: Contract Duration
+      hint: The length of the contract in months.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contract_location
+      label: Contract Location
+      hint: null
+      type: select_multiple
+      options:
+      - Machine A
+      - Machine B
+      - Machine C
+      required: false
+    - id: 11
+      name: contact_person
+      label: Contact Person
+      hint: Name of the person responsible for the contact.
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

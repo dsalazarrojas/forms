@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Approval Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Organization or company
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: application_date
+      label: Application Date
+      hint: Date of application
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: project_name
+      label: Project Name
+      hint: Name of project
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: property_address
+      label: Property Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: parcel_number
+      label: Parcel Number
+      hint: Tax parcel ID
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: approval_type
+      label: Approval Type
+      hint: Type of approval needed
+      type: select_one
+      options:
+      - New Construction
+      - Addition
+      - Renovation
+      - Demolition
+      - Change of Use
+      - Sign Permit
+      - Temporary Structure
+      - Other
+      required: true
+    - id: 11
+      name: project_description
+      label: Project Description
+      hint: Describe the project
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: construction_type
+      label: Construction Type
+      hint: Type of construction
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      - Institutional
+      - Mixed Use
+      - Agricultural
+      required: true
+    - id: 13
+      name: estimated_cost
+      label: Estimated Project Cost
+      hint: Total cost
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: square_footage
+      label: Total Square Footage
+      hint: Area affected
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: start_date
+      label: Proposed Start Date
+      hint: When work begins
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: completion_date
+      label: Expected Completion Date
+      hint: When work ends
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: architect_name
+      label: Architect Name
+      hint: Project architect
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: architect_license
+      label: Architect License Number
+      hint: License number
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contractor_name
+      label: Contractor Name
+      hint: General contractor
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contractor_license
+      label: Contractor License Number
+      hint: License number
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: zoning_compliance
+      label: Zoning Compliance
+      hint: Is project zoning compliant
+      type: select_one
+      options:
+      - Yes - Verified
+      - Yes - Pending Verification
+      - No - Variance Required
+      - Unknown
+      required: true
+    - id: 22
+      name: environmental_review
+      label: Environmental Review
+      hint: Status of review
+      type: select_one
+      options:
+      - Not Required
+      - Completed - Approved
+      - In Progress
+      - Not Started
+      required: true
+    - id: 23
+      name: submitted_documents
+      label: Submitted Documents
+      hint: Select all included
+      type: select_multiple
+      options:
+      - Site Plan
+      - Floor Plans
+      - Elevations
+      - Structural Drawings
+      - MEP Drawings
+      - Energy Calculations
+      - Geotechnical Report
+      - Traffic Study
+      - Other
+      required: true
+    - id: 24
+      name: previous_applications
+      label: Previous Applications
+      hint: Have you applied before
+      type: select_one
+      options:
+      - Yes - Approved
+      - Yes - Denied
+      - Yes - Withdrawn
+      - No - First Application
+      required: true
+    - id: 25
+      name: neighbor_notification
+      label: Neighbor Notification
+      hint: Have neighbors been notified
+      type: select_one
+      options:
+      - Yes - All Notified
+      - Partially Notified
+      - Not Required
+      - Not Yet Notified
+      required: false
+    - id: 26
+      name: certification
+      label: Applicant Certification
+      hint: I certify all information is accurate
+      type: select_one
+      options:
+      - Yes - I Certify
+      - false
+      required: true

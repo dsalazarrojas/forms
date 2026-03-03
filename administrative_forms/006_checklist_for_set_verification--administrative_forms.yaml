@@ -1,0 +1,223 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Checklist For Set Verification
+    pages:
+      - id: 1
+        name: event_name
+        label: Event Name
+        hint: Name of the event or production
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: venue_name
+        label: Venue Name
+        hint: Location where the event will take place
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: verification_date
+        label: Verification Date
+        hint: Date of set verification
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: verifier_name
+        label: Verifier Name
+        hint: Name of the person conducting verification
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: production_type
+        label: Production Type
+        hint: Type of production or event
+        type: select_one
+        options:
+          - Theater Production
+          - Concert
+          - Corporate Event
+          - Film/TV Shoot
+          - Conference
+          - Other
+        required: true
+      - id: 6
+        name: stage_setup_complete
+        label: Stage Setup Complete
+        hint: Has the stage been properly set up
+        type: select_one
+        options:
+          - Yes, complete
+          - In progress
+          - Not started
+        required: true
+      - id: 7
+        name: lighting_check
+        label: Lighting Check
+        hint: Are all lighting systems functional
+        type: select_one
+        options:
+          - All functional
+          - Some issues
+          - Not tested
+        required: true
+      - id: 8
+        name: sound_system_check
+        label: Sound System Check
+        hint: Is the sound system working properly
+        type: select_one
+        options:
+          - Fully functional
+          - Minor issues
+          - Major issues
+          - Not tested
+        required: true
+      - id: 9
+        name: backdrop_scenery
+        label: Backdrop and Scenery
+        hint: Are backdrops and scenery in place
+        type: select_one
+        options:
+          - Complete
+          - Partially complete
+          - Not installed
+        required: true
+      - id: 10
+        name: props_inventory
+        label: Props Inventory
+        hint: Are all props accounted for
+        type: select_one
+        options:
+          - All accounted for
+          - Some missing
+          - Not checked
+        required: true
+      - id: 11
+        name: furniture_placement
+        label: Furniture Placement
+        hint: Is furniture positioned correctly
+        type: select_one
+        options:
+          - Correctly placed
+          - Needs adjustment
+          - Not placed
+        required: true
+      - id: 12
+        name: special_effects
+        label: Special Effects
+        hint: Are special effects systems ready
+        type: select_one
+        options:
+          - Ready and tested
+          - Ready, not tested
+          - Not ready
+          - Not applicable
+        required: true
+      - id: 13
+        name: safety_equipment
+        label: Safety Equipment
+        hint: Is safety equipment in place and accessible
+        type: select_one
+        options:
+          - All in place
+          - Some missing
+          - Not checked
+        required: true
+      - id: 14
+        name: emergency_exits
+        label: Emergency Exits
+        hint: Are emergency exits clear and marked
+        type: select_one
+        options:
+          - Clear and marked
+          - Needs attention
+          - Not checked
+        required: true
+      - id: 15
+        name: power_supply
+        label: Power Supply
+        hint: Is adequate power available and distributed
+        type: select_one
+        options:
+          - Adequate and distributed
+          - Adequate, needs distribution
+          - Inadequate
+        required: true
+      - id: 16
+        name: cable_management
+        label: Cable Management
+        hint: Are cables properly managed and secured
+        type: select_one
+        options:
+          - Properly managed
+          - Needs improvement
+          - Hazardous
+        required: true
+      - id: 17
+        name: dressing_rooms_ready
+        label: Dressing Rooms Ready
+        hint: Are dressing rooms prepared
+        type: select_one
+        options:
+          - Ready
+          - Needs preparation
+          - Not ready
+          - Not applicable
+        required: true
+      - id: 18
+        name: signage_display
+        label: Signage and Display
+        hint: Is all signage properly displayed
+        type: select_one
+        options:
+          - All displayed
+          - Some missing
+          - Not installed
+        required: true
+      - id: 19
+        name: issues_identified
+        label: Issues Identified
+        hint: List any issues that need attention
+        type: text
+        options: []
+        required: true
+      - id: 20
+        name: corrective_actions
+        label: Corrective Actions
+        hint: Actions needed to resolve issues
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: final_approval
+        label: Final Approval Status
+        hint: Is the set approved for the event
+        type: select_one
+        options:
+          - Approved
+          - Conditional approval
+          - Not approved
+        required: true
+      - id: 22
+        name: verifier_signature
+        label: Verifier Confirmation
+        hint: I confirm this verification is accurate
+        type: select_one
+        options:
+          - Yes, I confirm
+          - No
+        required: true

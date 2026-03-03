@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Service Award Nomination Form
+    pages:
+    - id: 1
+      name: section_nominator
+      label: -- Nominator Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: nominator_name
+      label: Nominator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: nominator_email
+      label: Nominator Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: nominator_phone
+      label: Nominator Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: nominator_organization
+      label: Nominator Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_nominee
+      label: -- Nominee Details --
+      hint: Information about the person or group being nominated.
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: nominee_name
+      label: Nominee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: nominee_contact
+      label: Nominee Contact Information
+      hint: Phone or email.
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: award_category
+      label: Award Category
+      hint: Choose the category that fits best.
+      type: select_one
+      options:
+      - Excellence in Youth Service
+      - Senior Advocate Award
+      - Environmental Stewardship
+      - Humanitarian Award
+      - Outstanding Community Partner
+      required: true
+    - id: 10
+      name: nominee_impact_description
+      label: Describe the Nominee's Impact
+      hint: How has their work improved the community?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_rationale
+      label: -- Nomination Rationale --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: nomination_reason
+      label: Why does this person deserve this award?
+      hint: Tell us about their dedication and character.
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: key_accomplishments
+      label: List 3 key accomplishments
+      hint: Use bullet points if possible.
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: years_of_service
+      label: How many years has the nominee served the community?
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 4-6 years
+      - 7-10 years
+      - 10+ years
+      required: true
+    - id: 15
+      name: section_references
+      label: -- References --
+      hint: People who can speak to the nominee's service.
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: reference_one_name
+      label: Reference 1 Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: reference_one_contact
+      label: Reference 1 Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: reference_two_name
+      label: Reference 2 Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: reference_two_contact
+      label: Reference 2 Contact
+      hint: null
+      type: text
+      options: []
+      required: false

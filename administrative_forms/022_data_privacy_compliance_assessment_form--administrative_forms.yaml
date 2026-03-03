@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Data Privacy Compliance Assessment Form
+    pages:
+    - id: 1
+      name: page_1
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: data_classification
+      label: data_classification
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      required: false
+    - id: 3
+      name: risk_assessment
+      label: risk_assessment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: control_measures
+      label: control_measures
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: false
+    - id: 5
+      name: data_protection_policy
+      label: data_protection_policy
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: compliance_training
+      label: compliance_training
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      required: false
+    - id: 7
+      name: incident_response
+      label: incident_response
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: incident_reporting
+      label: incident_reporting
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: data_security
+      label: data_security
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      required: false
+    - id: 10
+      name: reporting_and_audit
+      label: reporting_and_audit
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      required: false
+    - id: 11
+      name: breach_notification
+      label: breach_notification
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      required: false
+    - id: 12
+      name: incident_management
+      label: incident_management
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      required: false
+    - id: 13
+      name: data_retention
+      label: data_retention
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: data_disposal
+      label: data_disposal
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      required: false
+    - id: 15
+      name: data_disposal_process
+      label: data_disposal_process
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      required: false
+    - id: 16
+      name: data_disposal_certification
+      label: data_disposal_certification
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      required: false

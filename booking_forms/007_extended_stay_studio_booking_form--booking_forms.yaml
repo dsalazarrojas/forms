@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Extended Stay Studio Booking Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: room_type
+      label: room_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''single_room'', ''label'': ''Single Room''}'
+      - '{''id'': 2, ''name'': ''suite'', ''label'': ''Suite''}'
+      - '{''id'': 3, ''name'': ''other'', ''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: checkin_date
+      label: checkin_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: checkout_date
+      label: checkout_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: stay_duration
+      label: stay_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: arrival_time
+      label: arrival_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: departure_time
+      label: departure_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: room_number
+      label: room_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: extra_bed
+      label: extra_bed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: extra_bed_type
+      label: extra_bed_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''king'', ''label'': ''King''}'
+      - '{''id'': 2, ''name'': ''queen'', ''label'': ''Queen''}'
+      - '{''id'': 3, ''name'': ''sofa_bed'', ''label'': ''Sofa Bed''}'
+      required: false
+    - id: 13
+      name: reservation_date
+      label: reservation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: reservation_time
+      label: reservation_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: reservation_note
+      label: reservation_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: special_request
+      label: special_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: reservation_source
+      label: reservation_source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''bank_transfer'', ''label'': ''Bank Transfer''}'
+      - '{''id'': 2, ''name'': ''cash'', ''label'': ''Cash''}'
+      - '{''id'': 3, ''name'': ''credit_card'', ''label'': ''Credit Card''}'
+      - '{''id'': 4, ''name'': ''other'', ''label'': ''Other''}'
+      required: false
+    - id: 19
+      name: payment_terms
+      label: payment_terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: card_number
+      label: card_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: card_expiration
+      label: card_expiration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: card_cvv
+      label: card_cvv
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: card_cvv_2
+      label: card_cvv_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: card_zip
+      label: card_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_terms
+      label: form_terms
+      hint: null
+      type: text
+      options: []
+      required: false

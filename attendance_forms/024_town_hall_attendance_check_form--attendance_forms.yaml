@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Town Hall Attendance Check Form
+    pages:
+    - id: 1
+      name: town_hall_attendance_check_form
+      label: form-title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sure_to_attend
+      label: are-you-sure-to-attend
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: number_of_attendees
+      label: number-of-attendees
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: town_hall_id
+      label: town-hall-id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: town_hall_name
+      label: town-hall-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_id
+      label: event-id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: event_name
+      label: event-name
+      hint: null
+      type: text
+      options: []
+      required: false

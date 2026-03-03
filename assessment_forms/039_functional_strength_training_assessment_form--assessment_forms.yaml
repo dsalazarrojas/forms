@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Functional Strength Training Assessment Form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: age
+      label: Age
+      hint: Age
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: height
+      label: Height
+      hint: Height in cm
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: weight
+      label: Weight
+      hint: Weight in kg
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: fitness_goal
+      label: Fitness goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: training_frequency
+      label: Training frequency
+      hint: How often would you train per week
+      type: select_multiple
+      options:
+      - Less than 1
+      - 1-2 times per week
+      - 3-4 times per week
+      - 5 or more times per week
+      required: false
+    - id: 7
+      name: exercise_experience
+      label: Exercise experience
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 8
+      name: injury_history
+      label: Injury history
+      hint: Have you ever had any injuries?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: current_level
+      label: Current level
+      hint: What is your current level?
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Elite
+      required: false
+    - id: 10
+      name: goal_intensity
+      label: Goal intensity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: goal_duration
+      label: Goal duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: goal_frequency
+      label: Goal frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: current_program
+      label: Current program
+      hint: What program are you currently on?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: goal_program
+      label: Goal program
+      hint: Which program do you aim to be on after completing this assessment?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

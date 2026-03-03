@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: GAD 7 Anxiety Assessment Form
+    pages:
+    - id: 1
+      name: anxiety_scale
+      label: Anxiety Scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: item1
+      label: Item 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: item2
+      label: Item 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: item3
+      label: Item 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: item4
+      label: Item 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: item5
+      label: Item 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: item6
+      label: Item 6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: item7
+      label: Item 7
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: total_score
+      label: Total Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: clinical_significance
+      label: Clinical Significance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: anxiety_diagnosis
+      label: Anxiety Diagnosis
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: clinical_significance_comment
+      label: Clinical Significance Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: anxiety_referral
+      label: Anxiety Referral
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True, ''value'': 1}'
+      - '{''label'': False, ''value'': 2}'
+      required: false
+    - id: 14
+      name: anxiety_referral_comment
+      label: Anxiety Referral Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_scheduled
+      label: Follow-up Scheduled
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True, ''value'': 1}'
+      - '{''label'': False, ''value'': 2}'
+      required: false
+    - id: 16
+      name: follow_up_scheduled_comment
+      label: Follow-up Scheduled Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: anxiety_referral_frequency
+      label: Anxiety Referral Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: anxiety_referral_frequency_comment
+      label: Anxiety Referral Frequency Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: anxiety_cause
+      label: Anxiety Cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: anxiety_cause_comment
+      label: Anxiety Cause Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: anxiety_management_plans
+      label: Anxiety Management Plans
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: anxiety_management_plans_comment
+      label: Anxiety Management Plans Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_notes_comment
+      label: Follow-up Notes Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Scheduled'', ''value'': 1}'
+      - '{''label'': ''Completed'', ''value'': 2}'
+      - '{''label'': ''Missed'', ''value'': 3}'
+      required: false

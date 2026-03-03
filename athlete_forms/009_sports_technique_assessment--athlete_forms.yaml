@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Technique Assessment
+    pages:
+    - id: 1
+      name: athlete_name
+      label: Athlete Name
+      hint: Athlete name is required
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: Enter date of birth in YYYY-MM-DD format
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: sport
+      label: Sport
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: position
+      label: Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: technique_name
+      label: Technique Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: skill_level
+      label: Skill Level
+      hint: Select a level
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 7
+      name: technique_notes
+      label: Technique Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: evaluation_date
+      label: Evaluation Date
+      hint: Enter date of last evaluation
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: score
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: Assessment comments
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: retest_date
+      label: Retest Date
+      hint: Enter retest date if necessary
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: trainer_signature
+      label: Trainer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: trainer_name
+      label: Trainer Name
+      hint: Trainer name is required
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: date
+      label: Date
+      hint: Date is required
+      type: date
+      options: []
+      required: false

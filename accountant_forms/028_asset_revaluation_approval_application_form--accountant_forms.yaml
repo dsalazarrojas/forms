@@ -1,0 +1,261 @@
+inputSchema:
+  type: object
+  properties:
+    title: Asset Revaluation Approval Application Form
+    pages:
+    - id: 1
+      name: application_date
+      label: Application Date
+      hint: Date of application
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: applicant_name
+      label: Applicant Name
+      hint: Who is applying
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_title
+      label: Applicant Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Work department
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: fiscal_year
+      label: Fiscal Year
+      hint: Which fiscal year
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: asset_id
+      label: Asset ID
+      hint: Asset identifier
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: asset_name
+      label: Asset Name
+      hint: Description of asset
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: asset_category
+      label: Asset Category
+      hint: Type of asset
+      type: select_one
+      options:
+      - Land
+      - Buildings
+      - Machinery and Equipment
+      - Vehicles
+      - Furniture and Fixtures
+      - IT Equipment
+      - Intangible Assets
+      - Investment Property
+      required: true
+    - id: 10
+      name: asset_location
+      label: Asset Location
+      hint: Where located
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: acquisition_date
+      label: Original Acquisition Date
+      hint: When purchased
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: original_cost
+      label: Original Cost
+      hint: Purchase price
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: current_book_value
+      label: Current Book Value
+      hint: Net book value
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: accumulated_depreciation
+      label: Accumulated Depreciation
+      hint: Total depreciation
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: proposed_fair_value
+      label: Proposed Fair Value
+      hint: New estimated value
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: revaluation_surplus
+      label: Revaluation Surplus
+      hint: Increase in value
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: revaluation_reason
+      label: Reason for Revaluation
+      hint: Why revalue
+      type: select_one
+      options:
+      - Market Value Increase
+      - Property Improvement
+      - Appraisal Update
+      - Regulatory Requirement
+      - Financial Reporting
+      - Merger or Acquisition
+      - Insurance Purposes
+      - Other
+      required: true
+    - id: 18
+      name: revaluation_description
+      label: Detailed Explanation
+      hint: Describe reason
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: valuation_method
+      label: Valuation Method Used
+      hint: How valued
+      type: select_one
+      options:
+      - Market Approach
+      - Income Approach
+      - Cost Approach
+      - Depreciated Replacement Cost
+      - Professional Appraisal
+      required: true
+    - id: 20
+      name: appraiser_name
+      label: Appraiser Name
+      hint: Who did valuation
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: appraiser_qualification
+      label: Appraiser Qualifications
+      hint: Credentials
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: appraisal_date
+      label: Appraisal Date
+      hint: When valued
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: supporting_documents
+      label: Supporting Documents
+      hint: Attachments
+      type: select_multiple
+      options:
+      - Appraisal Report
+      - Market Analysis
+      - Purchase Invoices
+      - Improvement Records
+      - Photos
+      - Other
+      required: true
+    - id: 24
+      name: tax_impact
+      label: Tax Impact Assessment
+      hint: Tax consequences
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: financial_statement_impact
+      label: Financial Statement Impact
+      hint: Effect on reports
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: accounting_standard
+      label: Accounting Standard
+      hint: Which standard applies
+      type: select_one
+      options:
+      - GAAP
+      - IFRS
+      - Other
+      required: true
+    - id: 27
+      name: department_approval
+      label: Department Head Approval
+      hint: Approval status
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: true
+    - id: 28
+      name: finance_approval
+      label: Finance Director Approval
+      hint: Approval status
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: true
+    - id: 29
+      name: cfo_approval
+      label: CFO Approval
+      hint: Final approval
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: true
+    - id: 30
+      name: effective_date
+      label: Proposed Effective Date
+      hint: When to take effect
+      type: date
+      options: []
+      required: true
+    - id: 31
+      name: notes
+      label: Additional Notes
+      hint: Other comments
+      type: text
+      options: []
+      required: false

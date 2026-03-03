@@ -1,0 +1,391 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cleaning Service Time Estimator
+    pages:
+    - id: 1
+      name: section_header_contact
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_header_property
+      label: -- Property Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: property_type
+      label: Property Type
+      hint: What type of property needs cleaning
+      type: select_one
+      options:
+      - Residential - House
+      - Residential - Apartment
+      - Residential - Condo
+      - Residential - Townhouse
+      - Commercial - Office
+      - Commercial - Retail
+      - Commercial - Restaurant
+      - Commercial - Medical
+      - Other
+      required: true
+    - id: 7
+      name: square_footage
+      label: Approximate Square Footage
+      hint: Size of the property
+      type: select_one
+      options:
+      - Under 1,000 sq ft
+      - 1,000 - 2,000 sq ft
+      - 2,001 - 3,000 sq ft
+      - 3,001 - 5,000 sq ft
+      - Over 5,000 sq ft
+      required: true
+    - id: 8
+      name: number_of_bedrooms
+      label: Number of Bedrooms
+      hint: If applicable
+      type: select_one
+      options:
+      - Studio
+      - 1 Bedroom
+      - 2 Bedrooms
+      - 3 Bedrooms
+      - 4 Bedrooms
+      - 5 or more Bedrooms
+      - Not Applicable
+      required: false
+    - id: 9
+      name: number_of_bathrooms
+      label: Number of Bathrooms
+      hint: If applicable
+      type: select_one
+      options:
+      - 1 Bathroom
+      - 1.5 Bathrooms
+      - 2 Bathrooms
+      - 2.5 Bathrooms
+      - 3 Bathrooms
+      - 4 or more Bathrooms
+      - Not Applicable
+      required: false
+    - id: 10
+      name: number_of_floors
+      label: Number of Floors
+      hint: How many floors need cleaning
+      type: select_one
+      options:
+      - Single Floor
+      - 2 Floors
+      - 3 Floors
+      - 4 or more Floors
+      required: true
+    - id: 11
+      name: section_header_cleaning
+      label: -- Cleaning Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: cleaning_type
+      label: Type of Cleaning
+      hint: What type of cleaning is needed
+      type: select_one
+      options:
+      - Standard Cleaning
+      - Deep Cleaning
+      - Move-In or Move-Out
+      - Post-Construction
+      - Spring Cleaning
+      - Maintenance Cleaning
+      required: true
+    - id: 13
+      name: current_cleanliness
+      label: Current Cleanliness Level
+      hint: How would you describe the current condition
+      type: select_one
+      options:
+      - Very Clean - Light maintenance
+      - Generally Clean - Regular upkeep
+      - Moderately Dirty - Needs thorough cleaning
+      - Very Dirty - Deep cleaning required
+      - Extremely Dirty - Intensive cleaning
+      required: true
+    - id: 14
+      name: last_cleaned
+      label: When Was Property Last Cleaned
+      hint: How long ago
+      type: select_one
+      options:
+      - Within 1 Week
+      - 1-2 Weeks Ago
+      - 2-4 Weeks Ago
+      - 1-3 Months Ago
+      - Over 3 Months Ago
+      - Never
+      required: true
+    - id: 15
+      name: section_header_areas
+      label: -- Areas to Clean --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: rooms_to_clean
+      label: Number of Rooms to Clean
+      hint: Total rooms requiring cleaning
+      type: select_one
+      options:
+      - 1-3 Rooms
+      - 4-6 Rooms
+      - 7-10 Rooms
+      - 11-15 Rooms
+      - Over 15 Rooms
+      required: true
+    - id: 17
+      name: areas_included
+      label: Areas Included in Cleaning
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Living Room
+      - Dining Room
+      - Kitchen
+      - Bedrooms
+      - Bathrooms
+      - Hallways
+      - Stairs
+      - Basement
+      - Garage
+      - Office
+      - Laundry Room
+      - Other Rooms
+      required: true
+    - id: 18
+      name: additional_services
+      label: Additional Services
+      hint: Any extra services needed
+      type: select_multiple
+      options:
+      - Interior Windows
+      - Inside Oven
+      - Inside Refrigerator
+      - Inside Cabinets
+      - Baseboards
+      - Walls
+      - Light Fixtures
+      - Blinds
+      - Carpet Shampoo
+      - Floor Waxing
+      - Upholstery
+      - Pressure Washing
+      - None
+      required: true
+    - id: 19
+      name: section_header_factors
+      label: -- Time-Affecting Factors --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: clutter_level
+      label: Clutter Level
+      hint: How much clutter is present
+      type: select_one
+      options:
+      - Minimal - Very tidy
+      - Low - Generally organized
+      - Moderate - Some decluttering needed
+      - High - Significant decluttering
+      - Extreme - Major decluttering required
+      required: true
+    - id: 21
+      name: pets_in_home
+      label: Pets in Home
+      hint: Do you have pets
+      type: select_one
+      options:
+      - No Pets
+      - 1-2 Small Pets
+      - 3 or more Small Pets
+      - 1-2 Large Pets
+      - 3 or more Large Pets
+      - Multiple Types
+      required: true
+    - id: 22
+      name: children_in_home
+      label: Children in Home
+      hint: Are there children in the home
+      type: select_one
+      options:
+      - No Children
+      - 1-2 Children
+      - 3-4 Children
+      - 5 or more Children
+      required: false
+    - id: 23
+      name: special_features
+      label: Special Features
+      hint: Any features that may affect cleaning time
+      type: select_multiple
+      options:
+      - High Ceilings
+      - Chandeliers
+      - Fireplace
+      - Large Windows
+      - Hardwood Floors
+      - Marble or Stone Surfaces
+      - Antique or Delicate Furniture
+      - Stained Glass
+      - None
+      required: false
+    - id: 24
+      name: accessibility_issues
+      label: Accessibility Issues
+      hint: Any issues that may slow down cleaning
+      type: select_multiple
+      options:
+      - None
+      - Narrow Hallways
+      - Multiple Staircases
+      - Limited Parking
+      - No Elevator
+      - Security Procedures
+      - Pet Restrictions During Cleaning
+      - Other
+      required: false
+    - id: 25
+      name: section_header_estimate
+      label: -- Estimated Time Calculation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: estimated_cleaning_time
+      label: Estimated Cleaning Time
+      hint: Based on your inputs
+      type: select_one
+      options:
+      - 1-2 Hours
+      - 2-3 Hours
+      - 3-4 Hours
+      - 4-5 Hours
+      - 5-6 Hours
+      - 6-8 Hours
+      - Full Day (8+ Hours)
+      - Multiple Days Required
+      required: true
+    - id: 27
+      name: recommended_crew_size
+      label: Recommended Crew Size
+      hint: How many cleaners recommended
+      type: select_one
+      options:
+      - 1 Cleaner
+      - 2 Cleaners
+      - 3 Cleaners
+      - 4 or more Cleaners
+      required: true
+    - id: 28
+      name: estimated_cost_range
+      label: Estimated Cost Range
+      hint: Based on time and services
+      type: select_one
+      options:
+      - Under $150
+      - $150 - $250
+      - $251 - $400
+      - $401 - $600
+      - $601 - $1,000
+      - Over $1,000
+      required: false
+    - id: 29
+      name: estimate_notes
+      label: Estimate Notes
+      hint: Any notes about this estimate
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: estimate_valid_until
+      label: Estimate Valid Until
+      hint: How long is this estimate valid
+      type: select_one
+      options:
+      - 7 Days
+      - 14 Days
+      - 30 Days
+      - 60 Days
+      - 90 Days
+      required: true
+    - id: 31
+      name: section_header_booking
+      label: -- Booking Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: would_like_to_book
+      label: Would You Like to Book Now
+      hint: Ready to schedule
+      type: select_one
+      options:
+      - Yes - Book Now
+      - Maybe - Need to Think About It
+      - No - Just Getting Estimate
+      required: true
+    - id: 33
+      name: preferred_date
+      label: Preferred Date
+      hint: When would you like service
+      type: date
+      options: []
+      required: false
+    - id: 34
+      name: preferred_time
+      label: Preferred Time
+      hint: What time works best
+      type: select_one
+      options:
+      - Morning (8am - 12pm)
+      - Afternoon (12pm - 4pm)
+      - Evening (4pm - 8pm)
+      - Flexible
+      required: false
+    - id: 35
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Anything else you would like to share
+      type: text
+      options: []
+      required: false

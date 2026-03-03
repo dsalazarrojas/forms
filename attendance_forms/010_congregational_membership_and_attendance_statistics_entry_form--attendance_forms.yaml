@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Congregational Membership And Attendance Statistics Entry Form
+    pages:
+    - id: 1
+      name: section_report_basics
+      label: -- Report Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: congregation_name
+      label: Congregation Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: report_period_month
+      label: Reporting Month
+      hint: null
+      type: select_one
+      options:
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
+      required: true
+    - id: 4
+      name: report_year
+      label: Reporting Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: section_membership_stats
+      label: -- Membership Statistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: total_members_start
+      label: Total Members at Start of Month
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: new_members_baptized
+      label: New Members - Baptism
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: new_members_transfer
+      label: New Members - Transfer
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: membership_removals
+      label: Total Membership Removals
+      hint: Deaths, transfers, or withdrawals
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: total_members_end
+      label: Total Members at End of Month
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_attendance_stats
+      label: -- Attendance Statistics --
+      hint: Weekly averages for the month
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: avg_sunday_attendance
+      label: Average Sunday Service Attendance
+      hint: Main service
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: avg_midweek_attendance
+      label: Average Mid-week Service Attendance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: first_time_visitors_count
+      label: Total First-time Visitors this Month
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: special_event_attendance
+      label: Attendance for Special Events
+      hint: e.g., Holidays, Concerts
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: section_entry_verification
+      label: -- Entry Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: reporter_name
+      label: Person Submitting this Data
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: reporter_role
+      label: Role/Position
+      hint: e.g., Secretary, Elder, Pastor
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: data_accuracy_confirmation
+      label: I certify that these statistics are accurate to the best of my knowledge
+      hint: null
+      type: select_one
+      options:
+      - I so certify
+      - Other
+      required: true

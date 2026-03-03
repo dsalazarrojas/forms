@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance Appointment Scheduling Form
+    pages:
+    - id: 1
+      name: schedule_insurance_appointment
+      label: Select Insurance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: select_appointment_date
+      label: Select Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: select_appointment_time
+      label: Select Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: note
+      label: Note
+      hint: Additional Information
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: insurance_num
+      label: Insurance Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: provider_note
+      label: Provider Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: provider_address
+      label: Provider Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: provider_email
+      label: Provider Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: provider_phone
+      label: Provider Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: provider_availability
+      label: Provider Availability
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: provider_availability_time
+      label: Provider Availability Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: provider_availability_date
+      label: Provider Availability Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: provider_availability_note
+      label: Provider Availability Note
+      hint: Additional Information
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: provider_availability_email
+      label: Provider Availability Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: provider_availability_phone
+      label: Provider Availability Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: provider_availability_address
+      label: Provider Availability Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: provider_availability_website
+      label: Provider Availability Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: appointment_status
+      label: Appointment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 23
+      name: appointment_status_date
+      label: Appointment Status Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: appointment_status_time
+      label: Appointment Status Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: appointment_status_note
+      label: Appointment Status Note
+      hint: null
+      type: note
+      options: []
+      required: false

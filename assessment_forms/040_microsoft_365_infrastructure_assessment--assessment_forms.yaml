@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Microsoft 365 Infrastructure Assessment
+    pages:
+    - id: 1
+      name: page_one
+      label: Microsoft 365 Infrastructure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_type
+      label: User Type
+      hint: null
+      type: select_one
+      options:
+      - User
+      - Group
+      - Other
+      required: false
+    - id: 3
+      name: company_name
+      label: Company
+      hint: Enter company name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: Enter description
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: Enter email address
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: password
+      label: Password
+      hint: Enter password
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: confirm_password
+      label: Confirm Password
+      hint: Confirm password
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: mfa_enabled
+      label: MFA Enabled
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: mfa_authentication_method
+      label: MFA Authentication Method
+      hint: null
+      type: select_one
+      options:
+      - Authenticator App
+      - SMS Code
+      - Phone Call
+      - Security Key
+      - Other
+      required: false
+    - id: 12
+      name: mfa_backup_email
+      label: MFA Backup Email
+      hint: Enter backup email for MFA
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: mfa_backup_phone
+      label: MFA Backup Phone
+      hint: Enter backup phone number
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: mfa_backup_password
+      label: MFA Backup Password
+      hint: Enter backup password
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: mfa_backup_confirmation
+      label: MFA Backup Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Museum Tour Request Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tour_date
+      label: Tour Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: tour_group
+      label: Tour Group
+      hint: null
+      type: select_one
+      options:
+      - Tour Group 1
+      - Tour Group 2
+      required: true
+    - id: 6
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: tour_request_id
+      label: Tour Request ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: school_info
+      label: School Info
+      hint: null
+      type: select_multiple
+      options:
+      - School A
+      - School B
+      - School C
+      required: false
+    - id: 10
+      name: school_address
+      label: School Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: school_phone
+      label: School Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: school_email
+      label: School Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: teacher_email
+      label: Teacher Email
+      hint: null
+      type: email
+      options: []
+      required: false

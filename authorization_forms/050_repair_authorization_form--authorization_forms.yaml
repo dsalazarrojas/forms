@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Repair Authorization Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_method
+      label: contact_method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Phone'', ''value'': ''phone''}'
+      - '{''label'': ''Email'', ''value'': ''email''}'
+      - '{''label'': ''Mail'', ''value'': ''mail''}'
+      required: false
+    - id: 3
+      name: contact_number
+      label: contact number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: equipment_description
+      label: equipment description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: equipment_number
+      label: equipment number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_address
+      label: contact address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: business_name
+      label: business name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: authorization_type
+      label: authorization type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Authorization'', ''value'': ''authorization''}'
+      - '{''label'': ''Non-Authorization'', ''value'': ''non-authorization''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 9
+      name: authorization_notes
+      label: authorization notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_signature
+      label: customer signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: technician_signature
+      label: technician signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: date_signed
+      label: date signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time_signed
+      label: time signed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: business_signature
+      label: business signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: customer_notes
+      label: customer notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: technician_notes
+      label: technician notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: business_notes
+      label: business notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: authorization_date
+      label: authorization date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: authorization_time
+      label: authorization time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: authorized_by
+      label: authorized by
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 21
+      name: authorized_by_name
+      label: authorized by name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: repair_type
+      label: repair type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Repair'', ''value'': ''repair''}'
+      - '{''label'': ''Return'', ''value'': ''return''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 24
+      name: repair_type_other
+      label: repair type other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: text
+      options: []
+      required: false

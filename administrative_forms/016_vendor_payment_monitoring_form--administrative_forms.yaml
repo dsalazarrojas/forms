@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Payment Monitoring Form
+    pages:
+    - id: 1
+      name: vendor_payment_monitoring_form_data
+      label: Vendor Payment Monitoring Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendor_payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Vendors are paid in full
+      - Vendors are partially paid
+      - Vendors are not paid
+      required: false
+    - id: 3
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: paid_amount
+      label: Paid Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: vendor
+      label: Vendor
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: vendor_address
+      label: Vendor Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vendor_phone
+      label: Vendor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vendor_email
+      label: Vendor Email
+      hint: null
+      type: email
+      options: []
+      required: false

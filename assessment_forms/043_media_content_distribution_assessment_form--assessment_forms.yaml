@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Media Content Distribution Assessment Form
+    pages:
+    - id: 1
+      name: media_content_distribution_channels
+      label: Media content distribution channels
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: performance
+      label: Performance
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent'', ''value'': 1}'
+      - '{''label'': ''Average'', ''value'': 2}'
+      - '{''label'': ''Poor'', ''value'': 3}'
+      required: true
+    - id: 3
+      name: marketing_teams
+      label: Marketing teams involved
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Marketing'', ''value'': ''Marketing''}'
+      - '{''label'': ''Communications'', ''value'': ''Communications''}'
+      - '{''label'': ''Publishing'', ''value'': ''Publishing''}'
+      required: false
+    - id: 4
+      name: publishing_teams
+      label: Publishing teams involved
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Publishing'', ''value'': ''Publishing''}'
+      - '{''label'': ''Marketing'', ''value'': ''Marketing''}'
+      required: false
+    - id: 5
+      name: communication_performance
+      label: How do you communicate to your customers?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: customer_satisfaction
+      label: What is your satisfaction level of your customers?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High'', ''value'': 1}'
+      - '{''label'': ''Average'', ''value'': 2}'
+      - '{''label'': ''Low'', ''value'': 3}'
+      required: true
+    - id: 7
+      name: customer_satisfaction_level
+      label: What is your customer satisfaction level?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High'', ''value'': 1}'
+      - '{''label'': ''Average'', ''value'': 2}'
+      - '{''label'': ''Low'', ''value'': 3}'
+      required: true
+    - id: 8
+      name: target_audience
+      label: Target audience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: media_content_performance
+      label: Media content performance
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent'', ''value'': 1}'
+      - '{''label'': ''Average'', ''value'': 2}'
+      - '{''label'': ''Poor'', ''value'': 3}'
+      required: true
+    - id: 10
+      name: publishing_performance
+      label: Publishing performance
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent'', ''value'': 1}'
+      - '{''label'': ''Average'', ''value'': 2}'
+      - '{''label'': ''Poor'', ''value'': 3}'
+      required: false
+    - id: 11
+      name: target_audience_age
+      label: Target audience age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: target_audience_sex
+      label: Target audience sex
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Male'', ''value'': ''Male''}'
+      - '{''label'': ''Female'', ''value'': ''Female''}'
+      - '{''label'': ''Both'', ''value'': ''Both''}'
+      required: true
+    - id: 13
+      name: target_audience_geographic
+      label: Target audience geographic
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: target_audience_language
+      label: Target audience language
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: target_audience_education
+      label: Target audience education
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: customer_engagement
+      label: Customer engagement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''High'', ''value'': ''High''}'
+      - '{''label'': ''Average'', ''value'': ''Average''}'
+      - '{''label'': ''Low'', ''value'': ''Low''}'
+      required: true
+    - id: 17
+      name: communication_approach
+      label: Communication approach
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Direct Mail'', ''value'': ''Direct Mail''}'
+      - '{''label'': ''Email'', ''value'': ''Email''}'
+      - '{''label'': ''Social Media'', ''value'': ''Social Media''}'
+      - '{''label'': ''Phone'', ''value'': ''Phone''}'
+      - '{''label'': ''In-person'', ''value'': ''In-person''}'
+      - '{''label'': ''Online'', ''value'': ''Online''}'
+      required: true
+    - id: 18
+      name: customer_satisfaction_sources
+      label: What sources do you use for customer satisfaction surveys?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: customer_satisfaction_measures
+      label: Which measures do you use for customer satisfaction?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: customer_satisfaction_methods
+      label: What methods do you use for customer satisfaction?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: customer_satisfaction_frequency
+      label: How often do you conduct customer satisfaction surveys?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Daily'', ''value'': 1}'
+      - '{''label'': ''Weekly'', ''value'': 2}'
+      - '{''label'': ''Monthly'', ''value'': 3}'
+      required: true
+    - id: 22
+      name: customer_satisfaction_criteria
+      label: What criteria do you use for customer satisfaction?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: customer_satisfaction_criteria_list
+      label: What criteria do you use for customer satisfaction list
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: customer_satisfaction_criteria_detail
+      label: What criteria do you use for customer satisfaction detail
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: customer_satisfaction_criteria_comment
+      label: What criteria do you use for customer satisfaction comment
+      hint: null
+      type: text
+      options: []
+      required: true

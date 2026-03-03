@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: work_hours_tracking_verification_form
+    pages:
+    - id: 1
+      name: user_input
+      label: user_input
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: manager_confirmation
+      label: manager_confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - Employee 1
+      - Employee 2
+      - Employee 3
+      required: false
+    - id: 3
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_signature
+      label: manager_signature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: employee_signature
+      label: employee_signature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: date_signature
+      label: date_signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_signature
+      label: time_signature
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: manager_note
+      label: manager_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: employee_note
+      label: employee_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

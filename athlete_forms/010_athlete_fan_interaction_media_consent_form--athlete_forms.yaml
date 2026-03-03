@@ -1,0 +1,207 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Fan Interaction Media Consent Form
+    pages:
+      - id: 1
+        name: athlete_name
+        label: Athlete Full Name
+        hint: First and last name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: athlete_id
+        label: Athlete ID Number
+        hint: Student or team identification number
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: team_name
+        label: Team Name
+        hint: Name of team or organization
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: sport
+        label: Sport
+        hint: Primary sport
+        type: select_one
+        options:
+          - Football
+          - Basketball
+          - Soccer
+          - Track and Field
+          - Swimming
+          - Volleyball
+          - Baseball
+          - Softball
+          - Tennis
+          - Other
+        required: true
+      - id: 5
+        name: event_name
+        label: Event Name
+        hint: Name of event with fan interaction
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: event_date
+        label: Event Date
+        hint: Date of the event
+        type: date
+        options: []
+        required: true
+      - id: 7
+        name: event_location
+        label: Event Location
+        hint: Where will the event take place
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: interaction_types
+        label: Types of Fan Interactions
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Autograph Signing
+          - Photo Opportunities
+          - Meet and Greet
+          - Post-Game Interviews
+          - Social Media Content
+          - Video Messages
+          - Live Streaming
+          - Press Conference
+        required: true
+      - id: 9
+        name: media_consent
+        label: Media Recording Consent
+        hint: Do you consent to being photographed or recorded
+        type: select_one
+        options:
+          - Yes - Full Consent
+          - Yes - With Restrictions
+          - No - No Consent
+        required: true
+      - id: 10
+        name: photo_consent
+        label: Photo Consent
+        hint: Can photos be taken with fans
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: true
+      - id: 11
+        name: video_consent
+        label: Video Consent
+        hint: Can video be recorded with fans
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: true
+      - id: 12
+        name: audio_consent
+        label: Audio Consent
+        hint: Can audio be recorded
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: true
+      - id: 13
+        name: media_usage
+        label: Approved Media Usage
+        hint: Where can the media be used
+        type: select_multiple
+        options:
+          - Team Website
+          - Team Social Media
+          - League Website
+          - Local News Media
+          - National Media
+          - Promotional Materials
+          - Internal Archives Only
+        required: true
+      - id: 14
+        name: social_media_tagging
+        label: Social Media Tagging Consent
+        hint: Can you be tagged in social media posts
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - Only on Official Team Accounts
+        required: true
+      - id: 15
+        name: commercial_use
+        label: Commercial Use Consent
+        hint: Can media be used for commercial purposes
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - Only with Additional Compensation
+        required: true
+      - id: 16
+        name: consent_duration
+        label: Consent Duration
+        hint: How long is this consent valid
+        type: select_one
+        options:
+          - This Event Only
+          - Current Season
+          - One Year
+          - Indefinitely
+        required: true
+      - id: 17
+        name: restrictions
+        label: Any Restrictions
+        hint: List any restrictions or limitations
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: parent_guardian_name
+        label: Parent or Guardian Name
+        hint: Required if athlete is under 18
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: athlete_signature
+        label: Athlete Signature
+        hint: Type full name as signature
+        type: text
+        options: []
+        required: true
+      - id: 20
+        name: parent_guardian_signature
+        label: Parent or Guardian Signature
+        hint: Type full name as signature if under 18
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: consent_date
+        label: Date of Consent
+        hint: Date this form is signed
+        type: date
+        options: []
+        required: true

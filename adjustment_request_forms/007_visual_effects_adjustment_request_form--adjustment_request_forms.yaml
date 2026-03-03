@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: visual_effects_adjustment_request_form
+    pages:
+    - id: 1
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: artist_name
+      label: Artist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_code
+      label: Project Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: adjustment_type
+      label: Adjustment Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: reason_for_adjustment
+      label: Reason for Adjustment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: description_of_adjustment
+      label: Description of Adjustment
+      hint: null
+      type: text
+      options: []
+      required: false

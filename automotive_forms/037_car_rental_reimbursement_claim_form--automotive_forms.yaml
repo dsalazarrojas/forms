@@ -1,0 +1,373 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Rental Reimbursement Claim Form
+    pages:
+    - id: 1
+      name: employee_information
+      label: Employee Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: employee_id
+      label: Employee ID
+      hint: Your employee number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Work email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: manager_name
+      label: Manager Name
+      hint: Your supervisor
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: trip_information
+      label: Trip Information
+      hint: Business trip details
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: trip_purpose
+      label: Trip Purpose
+      hint: Reason for travel
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: trip_start_date
+      label: Trip Start Date
+      hint: When did travel begin?
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: trip_end_date
+      label: Trip End Date
+      hint: When did travel end?
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: destination
+      label: Destination
+      hint: Where did you travel?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: rental_information
+      label: Rental Information
+      hint: Car rental details
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: rental_company
+      label: Rental Company
+      hint: Name of rental agency
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: pickup_location
+      label: Pickup Location
+      hint: Where did you pick up?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: pickup_date
+      label: Pickup Date
+      hint: When did you pick up?
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: pickup_time
+      label: Pickup Time
+      hint: What time?
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: return_location
+      label: Return Location
+      hint: Where did you return?
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: return_date
+      label: Return Date
+      hint: When did you return?
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: return_time
+      label: Return Time
+      hint: What time?
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: vehicle_class
+      label: Vehicle Class
+      hint: Type of vehicle
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: vehicle_description
+      label: Vehicle Description
+      hint: Make and model
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: rental_confirmation_number
+      label: Rental Confirmation Number
+      hint: Reservation number
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: expense_details
+      label: Expense Details
+      hint: Itemized costs
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: base_rental_cost
+      label: Base Rental Cost
+      hint: Daily rate total
+      type: number
+      options: []
+      required: true
+    - id: 27
+      name: insurance_cost
+      label: Insurance Cost
+      hint: Coverage fees
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: fuel_cost
+      label: Fuel Cost
+      hint: Fuel expenses
+      type: number
+      options: []
+      required: false
+    - id: 29
+      name: additional_services_cost
+      label: Additional Services Cost
+      hint: GPS, car seats, etc.
+      type: number
+      options: []
+      required: false
+    - id: 30
+      name: additional_services_description
+      label: Additional Services Description
+      hint: List services
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: tolls_and_parking
+      label: Tolls and Parking
+      hint: Related expenses
+      type: number
+      options: []
+      required: false
+    - id: 32
+      name: taxes_and_fees
+      label: Taxes and Fees
+      hint: Tax amount
+      type: number
+      options: []
+      required: true
+    - id: 33
+      name: total_amount
+      label: Total Amount
+      hint: Total expense
+      type: number
+      options: []
+      required: true
+    - id: 34
+      name: currency
+      label: Currency
+      hint: Currency type
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      - CAD
+      - Other
+      required: true
+    - id: 35
+      name: payment_method
+      label: Payment Method
+      hint: How did you pay?
+      type: select_one
+      options:
+      - Personal credit card
+      - Corporate credit card
+      - Personal debit card
+      - Cash
+      - Check
+      required: true
+    - id: 36
+      name: business_justification
+      label: Business Justification
+      hint: Why was rental necessary?
+      type: select_one
+      options:
+      - No company vehicle available
+      - Travel to multiple locations
+      - Client meetings
+      - Airport transportation
+      - Public transport unavailable
+      - Other
+      required: true
+    - id: 37
+      name: business_justification_details
+      label: Business Justification Details
+      hint: Elaborate if needed
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: mileage_information
+      label: Mileage Information
+      hint: Distance driven
+      type: note
+      options: []
+      required: false
+    - id: 39
+      name: starting_mileage
+      label: Starting Mileage
+      hint: Odometer at pickup
+      type: number
+      options: []
+      required: false
+    - id: 40
+      name: ending_mileage
+      label: Ending Mileage
+      hint: Odometer at return
+      type: number
+      options: []
+      required: false
+    - id: 41
+      name: total_miles_driven
+      label: Total Miles Driven
+      hint: Total distance
+      type: number
+      options: []
+      required: false
+    - id: 42
+      name: business_miles
+      label: Business Miles
+      hint: Miles for business purposes
+      type: number
+      options: []
+      required: false
+    - id: 43
+      name: documentation
+      label: Documentation
+      hint: Receipts and attachments
+      type: note
+      options: []
+      required: false
+    - id: 44
+      name: receipt_attached
+      label: Receipt Attached
+      hint: Do you have receipts?
+      type: select_one
+      options:
+      - Yes - all receipts attached
+      - Yes - partial receipts
+      - No - will provide later
+      - No - lost
+      required: true
+    - id: 45
+      name: missing_receipt_explanation
+      label: Missing Receipt Explanation
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 46
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 47
+      name: reimbursement_method
+      label: Reimbursement Method
+      hint: How to receive payment?
+      type: select_one
+      options:
+      - Direct deposit
+      - Check
+      - Payroll addition
+      required: true
+    - id: 48
+      name: employee_signature
+      label: Employee Signature Confirmation
+      hint: Confirm accuracy
+      type: select_one
+      options:
+      - I certify this expense report is accurate
+      - I cannot certify
+      required: true
+    - id: 49
+      name: submission_date
+      label: Submission Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

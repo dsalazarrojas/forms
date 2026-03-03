@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dental Checkup Inquiry Form
+    pages:
+    - id: 1
+      name: name
+      label: Full name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: appointment_date
+      label: Schedule an appointment on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: appointment_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: dentist_name
+      label: Dentist's name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_name
+      label: Patient's name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_visit
+      label: Reason for visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_history
+      label: Medical history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: available_days
+      label: Available days
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 11
+      name: available_time
+      label: Available time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: selected_time
+      label: Selected time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: selected_date
+      label: Selected date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: dentist
+      label: Dentist
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: doctor
+      label: Doctor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: assistant
+      label: Assistant
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: assistant_note
+      label: Assistant note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: doctor_note
+      label: Doctor's note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: patient
+      label: Patient
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: doctor_note_2
+      label: Doctor's note 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: patient_note
+      label: Patient's note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: patient_email
+      label: Patient's email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: doctor_email
+      label: Doctor's email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: assistant_email
+      label: Assistant's email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: select_one
+      options:
+      - Dentist
+      - Assistant
+      - Doctor
+      required: false

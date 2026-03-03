@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: daycare_child_arrival_check_in
+    pages:
+    - id: 1
+      name: arrival_details
+      label: Arrival Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: child
+      label: Childประก
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: drop_off_time
+      label: Drop off Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: caregiver_name
+      label: Caregiver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: caregiver_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: pickup_time
+      label: Pickup Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: child_name
+      label: Child Name
+      hint: null
+      type: text
+      options: []
+      required: false

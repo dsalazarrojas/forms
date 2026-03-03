@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: District Award Nomination Form
+    pages:
+    - id: 1
+      name: form_title
+      label: District Award Nomination Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: award_type
+      label: Award Type
+      hint: null
+      type: select_multiple
+      options:
+      - Award for Excellence
+      - Award for Outstanding Achievement
+      - Other (please specify)
+      required: false
+    - id: 3
+      name: recipient_name
+      label: Recipient Name
+      hint: Enter recipient name as it is in official records
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: award_year
+      label: Award Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: nomination_description
+      label: Nomination Description
+      hint: Provide a detailed description of the nominee's achievements and accomplishments
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: nominee_email
+      label: Nominee E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: nominee_phone
+      label: Nominee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitter_email
+      label: Submitter E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitter_department
+      label: Submitter Department
+      hint: null
+      type: select_one
+      options:
+      - District Management Team
+      - District Operations
+      - Facilities
+      - Other (please specify)
+      required: false
+    - id: 11
+      name: submitter_name
+      label: Submitter Name
+      hint: Enter submitter name as it is in official records
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter_title
+      label: Submitter Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitter_organization
+      label: Submitter Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: nominee_achievement
+      label: Nominee's Achievement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: submitter_note
+      label: Submitter Note
+      hint: null
+      type: note
+      options: []
+      required: false

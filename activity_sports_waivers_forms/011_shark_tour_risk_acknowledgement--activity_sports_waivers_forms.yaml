@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shark Tour Risk Acknowledgement
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Friend
+      - Spouse
+      - Partner
+      required: true
+    - id: 5
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_address
+      label: Emergency Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_other_info
+      label: Emergency Contact Other Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_declaration
+      label: Participant Declaration
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: tour_leader_info
+      label: Tour Leader Information
+      hint: null
+      type: select_multiple
+      options:
+      - Name
+      - Phone
+      - Email
+      required: true
+    - id: 11
+      name: tour_date
+      label: Tour Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: tour_time
+      label: Tour Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: tour_location
+      label: Tour Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_exit
+      label: Emergency Exit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_meeting_point
+      label: Emergency Meeting Point
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,246 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conditions Assessment Form
+    pages:
+    - id: 1
+      name: assessment_header
+      label: Conditions Assessment
+      hint: Evaluate and document conditions
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of evaluation
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: assessment_id
+      label: Assessment ID
+      hint: Unique reference number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: assessor_name
+      label: Assessor Name
+      hint: Person conducting assessment
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: assessor_title
+      label: Assessor Title
+      hint: Professional title
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: property_info
+      label: Property Information
+      hint: Details about property
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: property_address
+      label: Property Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: property_type
+      label: Property Type
+      hint: Type of property
+      type: select_one
+      options:
+      - Residential Single Family
+      - Residential Multi Family
+      - Commercial Office
+      - Commercial Retail
+      - Industrial
+      - Mixed Use
+      - Vacant Land
+      required: true
+    - id: 9
+      name: property_size
+      label: Property Size
+      hint: Square footage
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: year_built
+      label: Year Built
+      hint: Construction year
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: exterior_assessment
+      label: Exterior Assessment
+      hint: Outside condition
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: roof_condition
+      label: Roof Condition
+      hint: State of roof
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Critical
+      required: true
+    - id: 13
+      name: siding_condition
+      label: Siding Condition
+      hint: Exterior walls
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Not Applicable
+      required: false
+    - id: 14
+      name: foundation_condition
+      label: Foundation Condition
+      hint: Structural base
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Critical
+      required: true
+    - id: 15
+      name: windows_condition
+      label: Windows Condition
+      hint: Window state
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Needs Replacement
+      required: false
+    - id: 16
+      name: interior_assessment
+      label: Interior Assessment
+      hint: Inside condition
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: flooring_condition
+      label: Flooring Condition
+      hint: Floor state
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Needs Replacement
+      required: false
+    - id: 18
+      name: walls_condition
+      label: Walls Condition
+      hint: Wall state
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Needs Repair
+      required: false
+    - id: 19
+      name: plumbing_condition
+      label: Plumbing Condition
+      hint: Plumbing system
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Needs Immediate Repair
+      required: true
+    - id: 20
+      name: electrical_condition
+      label: Electrical Condition
+      hint: Electrical system
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Hazardous
+      required: true
+    - id: 21
+      name: hvac_condition
+      label: HVAC Condition
+      hint: Heating and cooling
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Non Functional
+      required: true
+    - id: 22
+      name: issues_found
+      label: Issues Found
+      hint: Describe problems
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: repair_recommendations
+      label: Repair Recommendations
+      hint: Suggested repairs
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: estimated_repair_cost
+      label: Estimated Repair Cost
+      hint: Approximate cost
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: overall_assessment
+      label: Overall Assessment
+      hint: Final rating
+      type: select_one
+      options:
+      - Excellent Condition
+      - Good Condition
+      - Fair Condition
+      - Poor Condition
+      - Critical Condition
+      required: true
+    - id: 26
+      name: assessor_signature
+      label: Assessor Signature
+      hint: Confirm assessment
+      type: select_one
+      options:
+      - I Certify This Assessment
+      - Not Certified
+      required: true

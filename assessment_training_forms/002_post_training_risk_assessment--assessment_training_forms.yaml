@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post Training Risk Assessment
+    pages:
+    - id: 1
+      name: intro
+      label: intro
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: course_id
+      label: course_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: training_manager_name
+      label: training_manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: training_manager_email
+      label: training_manager_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: risk_level
+      label: risk_level
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 6
+      name: training_date
+      label: training_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: trainer_name
+      label: trainer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: trainer_email
+      label: trainer_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: training_manager_comments
+      label: trainer_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: risk_control_measures
+      label: risk_control_measures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: risk_control_actions
+      label: risk_control_actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: risk_control_effectiveness
+      label: risk_control_effectiveness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_action
+      label: follow_up_action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_frequency
+      label: follow_up_frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_status
+      label: follow_up_status
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Done
+      required: true
+    - id: 16
+      name: training_status
+      label: training_status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: training_completion_date
+      label: training_completion_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: risk_control_plan
+      label: risk_control_plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_notes
+      label: follow_up_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_comments
+      label: follow_up_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_recommendations
+      label: follow_up_recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: risk_control_measures_notes
+      label: risk_control_measures_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_measures_notes
+      label: follow_up_measures_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: risk_control_status
+      label: risk_control_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Archived
+      required: true
+    - id: 25
+      name: follow_up_notes
+      label: follow_up_notes
+      hint: null
+      type: text
+      options: []
+      required: false

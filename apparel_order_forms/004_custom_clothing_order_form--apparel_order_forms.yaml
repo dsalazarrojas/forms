@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: custom_clothing_order_form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shirt_design
+      label: Shirt Design
+      hint: null
+      type: select_multiple
+      options:
+      - red
+      - blue
+      - green
+      required: false
+    - id: 4
+      name: color_selection
+      label: Color Selection
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      required: false
+    - id: 5
+      name: size_selection
+      label: Size Selection
+      hint: Please select a size
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 6
+      name: sleeve_length
+      label: Sleeve Length
+      hint: Select the sleeve length of your garment
+      type: select_one
+      options:
+      - Short
+      - Long
+      - Extra Long
+      required: false
+    - id: 7
+      name: collar_type
+      label: Collar Type
+      hint: null
+      type: select_one
+      options:
+      - Round
+      - V-Neck
+      - Crew
+      required: false
+    - id: 8
+      name: sleeve_style
+      label: Sleeve Style
+      hint: null
+      type: select_one
+      options:
+      - Short
+      - Long
+      - None
+      required: false
+    - id: 9
+      name: hem_type
+      label: Hem Type
+      hint: Select the type of hem for your garment
+      type: select_one
+      options:
+      - None
+      - Folded
+      - Pleated
+      required: false
+    - id: 10
+      name: order_notes
+      label: Order Notes
+      hint: Enter any additional notes about your order
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: shipping_info
+      label: Shipping Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: street_address
+      label: Street Address
+      hint: Enter your street address
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: city
+      label: City
+      hint: Enter your city
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: state
+      label: State
+      hint: Enter your state
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: zip_code
+      label: Zip Code
+      hint: Enter your zip code
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: country
+      label: Country
+      hint: Enter your country
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: notes
+      label: Notes
+      hint: Enter any additional notes about your order
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Credit Card
+      - PayPal
+      required: false
+    - id: 23
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Paid
+      - Declined
+      required: false
+    - id: 24
+      name: order_number
+      label: Order Number
+      hint: Enter your order number
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: custom_order_number
+      label: Custom Order Number
+      hint: Enter custom order number
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lumbar Extension Rotation Test Assessment
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lumbar_rotation_test
+      label: Lumbar Rotation Test
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: pain_location
+      label: Pain Location
+      hint: null
+      type: select_multiple
+      options:
+      - Left
+      - Right
+      - Bilateral
+      required: false
+    - id: 4
+      name: pain_intensity
+      label: Pain Intensity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: pain_duration
+      label: Pain Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: treatment_options
+      label: Treatment Options
+      hint: null
+      type: select_one
+      options:
+      - Rest
+      - Massage
+      - Physical therapy
+      - Heat
+      - Cold
+      required: false
+    - id: 7
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

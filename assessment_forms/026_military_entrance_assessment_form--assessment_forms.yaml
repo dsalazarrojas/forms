@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Military Entrance Assessment Form
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: applicant_details
+      label: applicant_details
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: false
+    - id: 3
+      name: readiness_insights
+      label: readiness_insights
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: military_status
+      label: military_status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active Duty''}'
+      - '{''label'': ''Reservist''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 12
+      name: service_branch
+      label: service_branch
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Army''}'
+      - '{''label'': ''Navy''}'
+      - '{''label'': ''Airforce''}'
+      - '{''label'': ''Marine Corps''}'
+      - '{''label'': ''Coast Guard''}'
+      required: false
+    - id: 13
+      name: service_location
+      label: service_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: military_occupation
+      label: military_occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: discharge_date
+      label: discharge_date
+      hint: null
+      type: date
+      options: []
+      required: false

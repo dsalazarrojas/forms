@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Farm Facility Inspection Form
+    pages:
+    - id: 1
+      name: farm_facility_inspection_form_header
+      label: Farm Facility Inspection Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: facility_location
+      label: Facility Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: facility_contact_name
+      label: Facility Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: facility_phone
+      label: Facility Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: facility_email
+      label: Facility Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: facility_date_of_last_inspection
+      label: Facility Date of Last Inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: facility_last_inspection_status
+      label: Facility Last Inspection Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: facility_last_inspection_findings
+      label: Facility Last Inspection Findings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: facility_last_inspection_recommendations
+      label: Facility Last Inspection Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: facility_inspection_frequency
+      label: Facility Inspection Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: farm_facility_inspection_form_footer
+      label: Farm Facility Inspection Form
+      hint: null
+      type: note
+      options: []
+      required: false

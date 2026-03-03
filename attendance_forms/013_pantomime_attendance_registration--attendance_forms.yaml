@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pantomime Attendance Registration
+    pages:
+    - id: 1
+      name: user_details
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: attendance_date
+      label: Attendance Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: seat_reservation
+      label: Seat Reservation
+      hint: Select a seat or seats
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: seats
+      label: Seats
+      hint: Select all relevant seats
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: theater_name
+      label: Theater
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: event_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: event_status
+      label: Event Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false

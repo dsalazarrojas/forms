@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing Keyword Research Tool Access Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: select_one
+      options:
+      - Team Lead
+      - Team Lead 2
+      - Team Lead 3
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - Marketing
+      - Sales
+      - Product
+      - Other
+      required: true
+    - id: 7
+      name: reason_for_request
+      label: Reason for Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: reviewers_notes
+      label: Reviewers notes
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: review_date
+      label: Review Date
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Monthly Treasurer Report Form
+    pages:
+    - id: 1
+      name: date_input
+      label: Date
+      hint: Please enter the date
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: category_input
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: expense_amount
+      label: Expense Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: income_amount
+      label: Income Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: expense_description
+      label: Expense Description
+      hint: Please enter a description for the expense
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: income_description
+      label: Income Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: balance
+      label: Balance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

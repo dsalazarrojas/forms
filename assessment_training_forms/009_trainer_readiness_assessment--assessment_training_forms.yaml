@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: trainer_readiness_assessment
+    pages:
+    - id: 1
+      name: trainer_readiness_assessment_page_1
+      label: trainer_readiness_assessment
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: training_experience_years
+      label: training_experience_years
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: training_experience_months
+      label: training_experience_months
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: previous_training_hours
+      label: previous_training_hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: assessment_type
+      label: assessment_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: trainer_skills_self_assessment
+      label: trainer_skills_self_assessment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: training_delivery_experience_self_assessment
+      label: training_delivery_experience_self_assessment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: feedback_1
+      label: trainer_feedback_1
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 9
+      name: feedback_2
+      label: trainer_feedback_2
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 10
+      name: trainer_qualifications
+      label: trainer_qualifications
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: training_topics
+      label: training_topics
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: feedback_3
+      label: feedback_3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: trainer_comments
+      label: trainer_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: trainer_name
+      label: trainer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: training_program
+      label: training_program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: training_location
+      label: training_location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: date_of_last_training
+      label: date_of_last_training
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: trainer_phone_number
+      label: trainer_phone_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 21
+      name: departmental_email
+      label: departmental_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: manager_email
+      label: manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: training_venue
+      label: training_venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: date_of_last_training
+      label: date_of_last_training
+      hint: null
+      type: date
+      options: []
+      required: false

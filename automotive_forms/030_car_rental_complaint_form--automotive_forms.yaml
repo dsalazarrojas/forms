@@ -1,0 +1,437 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Rental Complaint Form
+    pages:
+    - id: 1
+      name: customer_information
+      label: Customer Information
+      hint: Your contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For complaint follow-up
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street Address
+      hint: Your address
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: Your ZIP code
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: rental_information
+      label: Rental Information
+      hint: Details of your rental
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: reservation_number
+      label: Reservation Number
+      hint: Confirmation number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: rental_start_date
+      label: Rental Start Date
+      hint: Pickup date
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: rental_end_date
+      label: Rental End Date
+      hint: Return date
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: pickup_location
+      label: Pickup Location
+      hint: Where you picked up
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: return_location
+      label: Return Location
+      hint: Where you returned
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: vehicle_category
+      label: Vehicle Category
+      hint: Class of vehicle
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: vehicle_description
+      label: Vehicle Description
+      hint: Make and model
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: license_plate
+      label: License Plate
+      hint: Plate number
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: complaint_details
+      label: Complaint Details
+      hint: Information about your complaint
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: complaint_date
+      label: Date of Incident
+      hint: When did it happen?
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: complaint_time
+      label: Time of Incident
+      hint: What time?
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: complaint_category
+      label: Complaint Category
+      hint: What type of issue?
+      type: select_one
+      options:
+      - Vehicle condition
+      - Vehicle performance
+      - Customer service
+      - Billing issue
+      - Reservation problem
+      - Pickup/Return process
+      - Cleanliness
+      - Safety concern
+      - Policy dispute
+      - Other
+      required: true
+    - id: 23
+      name: complaint_description
+      label: Complaint Description
+      hint: Please describe the issue in detail
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: issue_location
+      label: Where Did Issue Occur
+      hint: Location of incident
+      type: select_one
+      options:
+      - At pickup counter
+      - In the vehicle
+      - At return counter
+      - During rental period
+      - On the phone
+      - Via email
+      - Other
+      required: true
+    - id: 25
+      name: staff_involved
+      label: Staff Involved
+      hint: Was any staff member involved?
+      type: select_one
+      options:
+      - Yes - one person
+      - Yes - multiple people
+      - false
+      - Unsure
+      required: true
+    - id: 26
+      name: staff_name
+      label: Staff Name
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: staff_description
+      label: Staff Description
+      hint: Description if name unknown
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: vehicle_issues
+      label: Vehicle Issues
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Cleanliness
+      - Damage
+      - Mechanical problem
+      - Odor
+      - Missing equipment
+      - Wrong vehicle class
+      - Low fuel
+      - Warning lights on
+      - Other
+      required: false
+    - id: 29
+      name: vehicle_issue_details
+      label: Vehicle Issue Details
+      hint: Describe the vehicle issues
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: service_issues
+      label: Service Issues
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Rude staff
+      - Long wait time
+      - Unhelpful staff
+      - Incorrect information
+      - Poor communication
+      - Unresolved issue
+      - Billing error
+      - Policy confusion
+      - Other
+      required: false
+    - id: 31
+      name: service_issue_details
+      label: Service Issue Details
+      hint: Describe the service issues
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: impact_level
+      label: Impact Level
+      hint: How did this affect you?
+      type: select_one
+      options:
+      - Minor inconvenience
+      - Moderate inconvenience
+      - Significant inconvenience
+      - Major disruption
+      - Safety hazard
+      required: true
+    - id: 33
+      name: resolution_attempted
+      label: Was Resolution Attempted
+      hint: Did you try to resolve on-site?
+      type: select_one
+      options:
+      - Yes - resolved
+      - Yes - not resolved
+      - No - did not have chance
+      - No - did not feel comfortable
+      required: true
+    - id: 34
+      name: resolution_details
+      label: Resolution Details
+      hint: What was done?
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: desired_resolution
+      label: Desired Resolution
+      hint: What would resolve this?
+      type: select_multiple
+      options:
+      - Apology
+      - Refund
+      - Partial refund
+      - Credit for future rental
+      - Vehicle replacement
+      - Policy change
+      - Staff training
+      - Other
+      required: true
+    - id: 36
+      name: desired_resolution_details
+      label: Desired Resolution Details
+      hint: Elaborate on your desired outcome
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: financial_impact
+      label: Financial Impact
+      hint: Any financial loss?
+      type: number
+      options: []
+      required: false
+    - id: 38
+      name: evidence_available
+      label: Evidence Available
+      hint: Do you have evidence?
+      type: select_one
+      options:
+      - Yes - photos
+      - Yes - videos
+      - Yes - documents
+      - Yes - witness
+      - false
+      required: false
+    - id: 39
+      name: previous_complaints
+      label: Previous Complaints
+      hint: Have you complained before?
+      type: select_one
+      options:
+      - No - first time
+      - Yes - once
+      - Yes - multiple times
+      required: false
+    - id: 40
+      name: customer_status
+      label: Customer Status
+      hint: Your relationship with us
+      type: select_one
+      options:
+      - First-time customer
+      - Occasional customer
+      - Regular customer
+      - Loyalty program member
+      - Corporate account
+      required: true
+    - id: 41
+      name: would_rent_again
+      label: Would You Rent Again
+      hint: Will you return?
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Unsure
+      - Probably not
+      - Definitely not
+      required: true
+    - id: 42
+      name: would_recommend
+      label: Would You Recommend Us
+      hint: Would you recommend to others?
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Maybe
+      - Probably not
+      - Definitely not
+      required: true
+    - id: 43
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 44
+      name: contact_preference
+      label: Contact Preference
+      hint: How should we follow up?
+      type: select_one
+      options:
+      - Email
+      - Phone call
+      - Text message
+      - Mail
+      - No contact needed
+      required: true
+    - id: 45
+      name: response_timeframe
+      label: Expected Response Timeframe
+      hint: When do you expect a response?
+      type: select_one
+      options:
+      - Within 24 hours
+      - Within 48 hours
+      - Within 1 week
+      - No rush
+      required: true
+    - id: 46
+      name: complaint_priority
+      label: Complaint Priority
+      hint: How urgent is this?
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Urgent
+      required: true
+    - id: 47
+      name: signature_confirmation
+      label: Signature Confirmation
+      hint: Confirm information is accurate
+      type: select_one
+      options:
+      - I certify this information is true and accurate
+      - I cannot certify
+      required: true
+    - id: 48
+      name: complaint_date_submitted
+      label: Complaint Submission Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

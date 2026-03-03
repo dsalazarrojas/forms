@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Key Integration Consent Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Smart Key Integration Consent Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: smartlock_access
+      label: Smart Lock Access
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: integration_details
+      label: Integration Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: key_details
+      label: Key Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: authorization_date
+      label: Authorization Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: smart_lock_access_type
+      label: Smart Lock Access Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: smart_lock_model
+      label: Smart Lock Model
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: smart_lock_serial_number
+      label: Smart Lock Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: integration_key
+      label: Integration Key
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: smart_lock_password
+      label: Smart Lock Password
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: smart_lock_key
+      label: Smart Lock Key
+      hint: null
+      type: text
+      options: []
+      required: false

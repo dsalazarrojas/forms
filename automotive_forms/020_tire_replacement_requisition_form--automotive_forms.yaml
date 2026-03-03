@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: tire_replacement_requisition_form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_type
+      label: vehicle_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Car''}'
+      - '{''id'': 2, ''label'': ''SUV''}'
+      - '{''id'': 3, ''label'': ''Truck''}'
+      required: false
+    - id: 3
+      name: tire_size
+      label: tire_size
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': 15}'
+      - '{''id'': 2, ''label'': 16}'
+      - '{''id'': 3, ''label'': 17}'
+      - '{''id'': 4, ''label'': 18}'
+      - '{''id'': 5, ''label'': 19}'
+      - '{''id'': 6, ''label'': 20}'
+      - '{''id'': 7, ''label'': 22}'
+      - '{''id'': 8, ''label'': 24}'
+      - '{''id'': 9, ''label'': 26}'
+      required: false
+    - id: 4
+      name: tire_condition
+      label: tire_condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''New''}'
+      - '{''id'': 2, ''label'': ''Used''}'
+      - '{''id'': 3, ''label'': ''Both''}'
+      required: false
+    - id: 5
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: tire_replacement_request_date
+      label: Tire Replacement Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: service_provider
+      label: Service Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_comment
+      label: Customer Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false

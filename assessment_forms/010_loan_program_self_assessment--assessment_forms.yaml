@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Loan Program Self Assessment
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 3
+      name: income_source
+      label: Income Source
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Business''}'
+      - '{''label'': ''Salary''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: income_frequency
+      label: Income Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: employment_info
+      label: Employment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: income_amount
+      label: Income Amount
+      hint: null
+      type: number
+      options: []
+      required: false

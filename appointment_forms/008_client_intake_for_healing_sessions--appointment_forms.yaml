@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Intake For Healing Sessions
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_wellness
+      label: -- Wellness History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: session_reason
+      label: What is the primary reason for seeking a healing session today?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: prior_experience
+      label: Have you experienced professional healing sessions before?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 7
+      name: health_status
+      label: How would you describe your current physical health?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: physician_care
+      label: Are you currently under the care of a physician?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 9
+      name: section_preferences
+      label: -- Session Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: session_length
+      label: Preferred session length
+      hint: null
+      type: select_one
+      options:
+      - 30 minutes
+      - 60 minutes
+      - 90 minutes
+      required: false
+    - id: 11
+      name: focus_areas
+      label: Are there any specific areas you would like to focus on?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_waiver
+      label: -- Liability Waiver --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: medical_disclaimer
+      label: I understand this session is not a replacement for traditional medical
+        care
+      hint: null
+      type: select_one
+      options:
+      - true
+      - I understand
+      required: true
+    - id: 14
+      name: signature
+      label: Signature - Type Full Name
+      hint: null
+      type: text
+      options: []
+      required: true

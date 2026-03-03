@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flotation Device Liability Waiver
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_address
+      label: Participant Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: guardian_name
+      label: Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: guardian_contact_number
+      label: Guardian Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_date_of_birth
+      label: Participant Date of Birth
+      hint: 'format: DD/MM/YY'
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: participant_email
+      label: Participant Email
+      hint: 'format: participant_email@example.com'
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: guardian_phone
+      label: Guardian Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: guardian_email
+      label: Guardian Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: participant_sign_date
+      label: Participant Signature
+      hint: 'format: date'
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: guardian_sign_date
+      label: Guardian Signature
+      hint: 'format: date'
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: participant_waiver_text
+      label: Participant Waiver Text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: participant_agree
+      label: Participant Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - I agree
+      - I disagree
+      required: false

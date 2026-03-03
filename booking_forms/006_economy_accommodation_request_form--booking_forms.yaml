@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Economy Accommodation Request Form
+    pages:
+    - id: 1
+      name: checkin_date
+      label: Check-in Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: checkin_time
+      label: Check-in Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: checkout_date
+      label: Check-out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: accommodation_type
+      label: Accommodation Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''hotel''}'
+      - '{''value'': ''hostel''}'
+      - '{''value'': ''guesthouse''}'
+      required: false
+    - id: 6
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: company_name
+      label: Company Name (if Applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: company_phone
+      label: Company Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: company_email
+      label: Company Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: required_field
+      label: Required Field
+      hint: This field is required.
+      type: select_multiple
+      options:
+      - '{''value'': ''option1''}'
+      - '{''value'': ''option2''}'
+      required: false
+    - id: 15
+      name: optional_field
+      label: Optional Field
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: non_select_field
+      label: Non Select Field
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: single_select_field
+      label: Single Select Field
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''option1''}'
+      - '{''value'': ''option2''}'
+      required: false
+    - id: 18
+      name: multiple_select_field
+      label: Multiple Select Field
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''option1''}'
+      - '{''value'': ''option2''}'
+      required: false
+    - id: 19
+      name: non_select_integer
+      label: Non Select Integer
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: select_integer
+      label: Select Integer
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1}'
+      - '{''value'': 2}'
+      required: false
+    - id: 21
+      name: select_multiple_integer
+      label: Select Multiple Integer
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1}'
+      - '{''value'': 2}'
+      required: false
+    - id: 22
+      name: non_decimal
+      label: Non Decimal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: select_decimal
+      label: Select Decimal
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1.0}'
+      - '{''value'': 2.0}'
+      required: false
+    - id: 24
+      name: select_multiple_decimal
+      label: Select Multiple Decimal
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1.0}'
+      - '{''value'': 2.0}'
+      required: false
+    - id: 25
+      name: datepicker
+      label: Date Picker
+      hint: null
+      type: date
+      options: []
+      required: false

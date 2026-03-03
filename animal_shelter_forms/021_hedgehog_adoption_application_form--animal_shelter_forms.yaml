@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: hedgehog_adoption_application_form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact
+      label: Contact
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''123-456-7890''}'
+      - '{''value'': ''555-555-5555''}'
+      - '{''value'': ''1234567890''}'
+      required: false
+    - id: 3
+      name: contact_preference
+      label: Contact Preference
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Email''}'
+      - '{''value'': ''Phone''}'
+      - '{''value'': ''Both''}'
+      - '{''value'': ''None''}'
+      required: false
+    - id: 4
+      name: pet_type
+      label: Pet Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Hedgehog''}'
+      - '{''value'': ''Cat''}'
+      - '{''value'': ''Dog''}'
+      - '{''value'': ''None''}'
+      required: false
+    - id: 5
+      name: pet_name
+      label: Pet Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: adoption_date
+      label: Adoption Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

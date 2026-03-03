@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Security Zone Access Request Form
+    pages:
+    - id: 1
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: individual_name
+      label: Individual Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: organization
+      label: Organization
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Option A'', ''label'': ''Option A''}'
+      - '{''value'': ''Option B'', ''label'': ''Option B''}'
+      - '{''value'': ''Option C'', ''label'': ''Option C''}'
+      required: false
+    - id: 5
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: false

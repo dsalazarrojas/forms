@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Speaking Evaluation Form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: candidate_id
+      label: candidate id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: evaluation_criteria
+      label: evaluation criteria
+      hint: Select all criteria that apply
+      type: select_multiple
+      options:
+      - Communication skills
+      - Content knowledge
+      - Pronunciation
+      - Confidence
+      - Other
+      required: false
+    - id: 4
+      name: communication_skills
+      label: communication skills
+      hint: null
+      type: select_one
+      options:
+      - Strong
+      - Fair
+      required: false
+    - id: 5
+      name: content_knowledge
+      label: content knowledge
+      hint: null
+      type: select_one
+      options:
+      - Strong
+      - Fair
+      required: false
+    - id: 6
+      name: pronunciation
+      label: pronunciation
+      hint: null
+      type: select_one
+      options:
+      - Strong
+      - Fair
+      required: false
+    - id: 7
+      name: body_language
+      label: body language
+      hint: null
+      type: select_one
+      options:
+      - Strong
+      - Fair
+      required: false
+    - id: 8
+      name: eye_contact
+      label: eye contact
+      hint: null
+      type: select_one
+      options:
+      - Strong
+      - Fair
+      required: false
+    - id: 9
+      name: feedback
+      label: feedback
+      hint: Write comments about the candidates performance
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: overall_rating
+      label: overall rating
+      hint: null
+      type: select_one
+      options:
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      required: false

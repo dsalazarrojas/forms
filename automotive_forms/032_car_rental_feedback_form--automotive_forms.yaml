@@ -1,0 +1,419 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Rental Feedback Form
+    pages:
+    - id: 1
+      name: customer_information
+      label: Customer Information
+      hint: Optional - for follow-up
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For follow-up if needed
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rental_information
+      label: Rental Information
+      hint: Details about your rental
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: reservation_number
+      label: Reservation Number
+      hint: Confirmation number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: rental_date
+      label: Rental Date
+      hint: When did you rent?
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: return_date
+      label: Return Date
+      hint: When did you return?
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: pickup_location
+      label: Pickup Location
+      hint: Where did you pick up?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: vehicle_category
+      label: Vehicle Category
+      hint: Class of vehicle
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: rental_duration
+      label: Rental Duration
+      hint: How long?
+      type: select_one
+      options:
+      - 1 day
+      - 2-3 days
+      - 4-7 days
+      - 1-2 weeks
+      - Over 2 weeks
+      required: true
+    - id: 13
+      name: purpose_of_rental
+      label: Purpose of Rental
+      hint: Why did you rent?
+      type: select_one
+      options:
+      - Business
+      - Leisure/Vacation
+      - Personal vehicle repair
+      - Special event
+      - Test drive
+      - Other
+      required: true
+    - id: 14
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: How satisfied were you overall?
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 15
+      name: vehicle_rating
+      label: Vehicle Rating
+      hint: Rate the vehicle
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 16
+      name: vehicle_cleanliness
+      label: Vehicle Cleanliness
+      hint: How clean was the vehicle?
+      type: select_one
+      options:
+      - Very clean
+      - Clean
+      - Acceptable
+      - Dirty
+      - Very dirty
+      required: true
+    - id: 17
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: What was the condition?
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 18
+      name: vehicle_performance
+      label: Vehicle Performance
+      hint: How did it perform?
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 19
+      name: vehicle_match
+      label: Vehicle Match to Reservation
+      hint: Did you get what you reserved?
+      type: select_one
+      options:
+      - Exact match
+      - Upgrade given
+      - Downgrade given
+      - Different vehicle
+      required: true
+    - id: 20
+      name: pickup_experience
+      label: Pickup Experience
+      hint: Rate the pickup process
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 21
+      name: wait_time_pickup
+      label: Wait Time at Pickup
+      hint: How long did you wait?
+      type: select_one
+      options:
+      - No wait
+      - Under 5 minutes
+      - 5-15 minutes
+      - 15-30 minutes
+      - Over 30 minutes
+      required: true
+    - id: 22
+      name: staff_friendliness
+      label: Staff Friendliness
+      hint: How friendly was the staff?
+      type: select_one
+      options:
+      - Very friendly
+      - Friendly
+      - Neutral
+      - Unfriendly
+      - Very unfriendly
+      required: true
+    - id: 23
+      name: staff_professionalism
+      label: Staff Professionalism
+      hint: How professional was the staff?
+      type: select_one
+      options:
+      - Very professional
+      - Professional
+      - Neutral
+      - Unprofessional
+      - Very unprofessional
+      required: true
+    - id: 24
+      name: staff_knowledge
+      label: Staff Knowledge
+      hint: How knowledgeable was the staff?
+      type: select_one
+      options:
+      - Very knowledgeable
+      - Knowledgeable
+      - Somewhat knowledgeable
+      - Not knowledgeable
+      - clueless
+      required: true
+    - id: 25
+      name: return_experience
+      label: Return Experience
+      hint: Rate the return process
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 26
+      name: wait_time_return
+      label: Wait Time at Return
+      hint: How long did you wait?
+      type: select_one
+      options:
+      - No wait
+      - Under 5 minutes
+      - 5-15 minutes
+      - 15-30 minutes
+      - Over 30 minutes
+      required: false
+    - id: 27
+      name: billing_accuracy
+      label: Billing Accuracy
+      hint: Was billing accurate?
+      type: select_one
+      options:
+      - Completely accurate
+      - Mostly accurate
+      - Somewhat accurate
+      - Inaccurate
+      - Very inaccurate
+      required: true
+    - id: 28
+      name: value_for_money
+      label: Value for Money
+      hint: Was it worth the price?
+      type: select_one
+      options:
+      - Excellent value
+      - Good value
+      - Fair value
+      - Poor value
+      - Very poor value
+      required: true
+    - id: 29
+      name: additional_services
+      label: Additional Services Used
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - GPS Navigation
+      - Child Safety Seat
+      - Additional Driver
+      - Toll Pass
+      - Mobile WiFi
+      - Insurance
+      - Other
+      required: false
+    - id: 30
+      name: additional_services_rating
+      label: Additional Services Rating
+      hint: How were the add-ons?
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - Not applicable
+      required: false
+    - id: 31
+      name: likelihood_to_recommend
+      label: Likelihood to Recommend
+      hint: Would you recommend us?
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Maybe
+      - Probably not
+      - Definitely not
+      required: true
+    - id: 32
+      name: likelihood_to_return
+      label: Likelihood to Return
+      hint: Will you rent again?
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Maybe
+      - Probably not
+      - Definitely not
+      required: true
+    - id: 33
+      name: best_aspect
+      label: Best Aspect
+      hint: What did we do well?
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: What could we improve?
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: vehicle_suggestions
+      label: Vehicle Suggestions
+      hint: Any vehicle recommendations?
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: service_suggestions
+      label: Service Suggestions
+      hint: Any service recommendations?
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: competitor_comparison
+      label: How Do We Compare
+      hint: Compared to other companies
+      type: select_one
+      options:
+      - Much better
+      - Somewhat better
+      - About the same
+      - Somewhat worse
+      - Much worse
+      - First time renting
+      required: false
+    - id: 38
+      name: how_heard_about_us
+      label: How Did You Hear About Us
+      hint: Your referral source
+      type: select_one
+      options:
+      - Website
+      - Mobile app
+      - Search engine
+      - Social media
+      - Friend/Family
+      - Travel agent
+      - Advertisement
+      - Previous customer
+      - Other
+      required: false
+    - id: 39
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: contact_permission
+      label: Contact Permission
+      hint: Can we contact you?
+      type: select_one
+      options:
+      - Yes - for follow-up
+      - Yes - for survey only
+      - No - do not contact
+      required: false
+    - id: 41
+      name: feedback_date
+      label: Feedback Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

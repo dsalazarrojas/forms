@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Documentation Sharing Consent Form
+    pages:
+    - id: 1
+      name: user_input
+      label: user_input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendor_documentation
+      label: vendor_documentation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: share_permission
+      label: share_permission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false

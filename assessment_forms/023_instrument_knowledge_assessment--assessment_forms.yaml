@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Instrument Knowledge Assessment
+    pages:
+    - id: 1
+      name: music_instrument
+      label: Music Instrument
+      hint: null
+      type: select_one
+      options:
+      - Violin
+      - Cello
+      - Trumpet
+      required: false
+    - id: 2
+      name: experience_level
+      label: Experience Level
+      hint: null
+      type: select_multiple
+      options:
+      - Intermediate
+      - Advanced
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 3
+      name: theoretical_knowledge
+      label: Theoretical Knowledge
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: ensemble_experience
+      label: Ensemble Experience
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: music_reading
+      label: Musical Reading
+      hint: null
+      type: select_multiple
+      options:
+      - Sight reading
+      - Ear
+      - Score
+      required: false
+    - id: 6
+      name: instrument_technique
+      label: Instrument Technique
+      hint: null
+      type: select_multiple
+      options:
+      - Bowing
+      - Finger
+      - Mouthpiece
+      required: false
+    - id: 7
+      name: music_theory
+      label: Music Theory
+      hint: null
+      type: select_multiple
+      options:
+      - Scales
+      - Chord
+      - Harmony
+      required: false
+    - id: 8
+      name: performance_level
+      label: Performance Level
+      hint: null
+      type: select_one
+      options:
+      - Professional
+      - Intermediate
+      - Novice
+      required: false
+    - id: 9
+      name: practice_time
+      label: Practice Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: practice_frequency
+      label: Practice Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: music_reading_speed
+      label: Music Reading Speed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: practice_effectiveness
+      label: Practice Effectiveness
+      hint: null
+      type: text
+      options: []
+      required: false

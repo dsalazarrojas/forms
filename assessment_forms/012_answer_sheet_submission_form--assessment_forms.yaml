@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Answer Sheet Submission Form
+    pages:
+    - id: 1
+      name: section_submission
+      label: -- Submission Information --
+      hint: Upload or enter answers for automated grading
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student full name
+      hint: Required for grade reporting
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_email
+      label: Student email
+      hint: Used to send confirmation and score
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: assignment_id
+      label: Assignment id or title
+      hint: e g Homework 3
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: submission_method
+      label: Submission method
+      hint: Choose how answers are provided
+      type: select_one
+      options:
+      - Manual entry
+      - File upload
+      - Link to document
+      required: true
+    - id: 6
+      name: number_of_answers
+      label: Number of answers provided
+      hint: Number of answered questions
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: comments_for_instructor
+      label: Comments for instructor
+      hint: Optional notes about the submission
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submission_date
+      label: Submission date
+      hint: Date and time of submission
+      type: date
+      options: []
+      required: true

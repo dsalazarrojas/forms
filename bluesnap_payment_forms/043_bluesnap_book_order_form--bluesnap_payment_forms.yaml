@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: BlueSnap Book Order Form
+    pages:
+    - id: 1
+      name: order_intro
+      label: -- Book Order --
+      hint: Browse and order from our collection
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: shipping_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: shipping_state
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: shipping_zip
+      label: ZIP/Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: book_title
+      label: Book Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: book_author
+      label: Author Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: book_isbn
+      label: ISBN (if known)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: book_genre
+      label: Book Genre
+      hint: null
+      type: select_one
+      options:
+      - Fiction
+      - Non-fiction
+      - Self-help
+      - Biography
+      - Mystery
+      - Romance
+      - Science Fiction
+      - Fantasy
+      - Children's
+      - Educational
+      - Other
+      required: false
+    - id: 13
+      name: edition_type
+      label: Edition Type
+      hint: null
+      type: select_one
+      options:
+      - Paperback
+      - Hardcover
+      - E-book
+      - Audio book
+      required: true
+    - id: 14
+      name: quantity
+      label: Quantity
+      hint: Number of copies
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: unit_price
+      label: Price Per Book
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: total_amount
+      label: Total Order Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - Standard (5-7 days)
+      - Express (2-3 days)
+      - Overnight
+      required: true
+    - id: 18
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Gift Card
+      required: true
+    - id: 19
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true

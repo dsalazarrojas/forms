@@ -1,0 +1,259 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Safety Checklist Form
+    pages:
+    - id: 1
+      name: checklist_date
+      label: Checklist Date
+      hint: Date of safety checklist completion
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: parent_guardian_first_name
+      label: Parent or Guardian First Name
+      hint: Legal first name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: parent_guardian_last_name
+      label: Parent or Guardian Last Name
+      hint: Legal last name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: child_first_name
+      label: Child First Name
+      hint: Legal first name of the child
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: child_last_name
+      label: Child Last Name
+      hint: Legal last name of the child
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: child_age
+      label: Child Age
+      hint: Current age of the child in years
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: environment_type
+      label: Environment Type
+      hint: What environment is being evaluated?
+      type: select_one
+      options:
+      - Home interior
+      - Home exterior
+      - Daycare or school
+      - Playground
+      - Vehicle
+      - Multiple environments
+      required: true
+    - id: 8
+      name: smoke_detectors_present
+      label: Smoke Detectors Present
+      hint: Are smoke detectors installed and functioning?
+      type: select_one
+      options:
+      - Yes, on every level
+      - Yes, but not on every level
+      - false
+      - Not applicable
+      required: true
+    - id: 9
+      name: smoke_detector_tested
+      label: Smoke Detectors Tested
+      hint: Have smoke detectors been tested in the last month?
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 10
+      name: carbon_monoxide_detector
+      label: Carbon Monoxide Detector
+      hint: Is a carbon monoxide detector installed and functioning?
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: true
+    - id: 11
+      name: fire_extinguisher_available
+      label: Fire Extinguisher Available
+      hint: Is a fire extinguisher accessible?
+      type: select_one
+      options:
+      - Yes, multiple locations
+      - Yes, one location
+      - false
+      required: true
+    - id: 12
+      name: electrical_outlets_covered
+      label: Electrical Outlets Covered
+      hint: Are unused electrical outlets covered with safety caps?
+      type: select_one
+      options:
+      - Yes, all outlets
+      - Some outlets
+      - No outlets need covering
+      - false
+      required: true
+    - id: 13
+      name: cords_secured
+      label: Electrical Cords Secured
+      hint: Are electrical cords secured and out of reach?
+      type: select_one
+      options:
+      - Yes, all cords
+      - Most cords
+      - Some cords
+      - false
+      required: true
+    - id: 14
+      name: chemicals_secured
+      label: Chemicals and Cleaning Supplies Secured
+      hint: Are chemicals and cleaning supplies stored safely?
+      type: select_one
+      options:
+      - Yes, in locked cabinets
+      - Yes, in high cabinets
+      - Partially secured
+      - false
+      required: true
+    - id: 15
+      name: medications_secured
+      label: Medications Secured
+      hint: Are all medications stored out of child's reach?
+      type: select_one
+      options:
+      - Yes, in locked container
+      - Yes, in high cabinet
+      - Partially secured
+      - false
+      required: true
+    - id: 16
+      name: sharp_objects_secured
+      label: Sharp Objects Secured
+      hint: Are knives, scissors, and sharp tools stored safely?
+      type: select_one
+      options:
+      - Yes, all secured
+      - Most secured
+      - Some secured
+      - false
+      required: true
+    - id: 17
+      name: furniture_anchored
+      label: Heavy Furniture Anchored
+      hint: Are bookshelves and heavy furniture anchored to walls?
+      type: select_one
+      options:
+      - Yes, all heavy furniture
+      - Some furniture
+      - No furniture needs anchoring
+      - false
+      required: true
+    - id: 18
+      name: window_guards_installed
+      label: Window Guards or Stops Installed
+      hint: Are windows equipped with safety guards or stops?
+      type: select_one
+      options:
+      - Yes, all windows
+      - Some windows
+      - No windows above ground level
+      - false
+      required: true
+    - id: 19
+      name: stair_gates_installed
+      label: Stair Gates Installed
+      hint: Are safety gates installed at stairs if applicable?
+      type: select_one
+      options:
+      - Yes, top and bottom
+      - Yes, top only
+      - Yes, bottom only
+      - No stairs in home
+      - false
+      required: true
+    - id: 20
+      name: water_temperature_safe
+      label: Water Temperature Set Safely
+      hint: Is water heater set to 120 degrees Fahrenheit or below?
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 21
+      name: pool_safety_measures
+      label: Pool Safety Measures
+      hint: If applicable, are pool safety measures in place?
+      type: select_one
+      options:
+      - Yes, fenced with self-latching gate
+      - Yes, pool cover
+      - Yes, alarm system
+      - Multiple measures
+      - No pool
+      - No safety measures
+      required: true
+    - id: 22
+      name: choking_hazards_removed
+      label: Choking Hazards Removed
+      hint: Have small objects that could cause choking been removed?
+      type: select_one
+      options:
+      - Yes, all areas checked
+      - Yes, main areas checked
+      - Partially
+      - false
+      required: true
+    - id: 23
+      name: emergency_numbers_posted
+      label: Emergency Numbers Posted
+      hint: Are emergency contact numbers easily accessible?
+      type: select_one
+      options:
+      - Yes, posted and saved in phone
+      - Yes, posted only
+      - Yes, saved in phone only
+      - false
+      required: true
+    - id: 24
+      name: first_aid_kit_available
+      label: First Aid Kit Available
+      hint: Is a first aid kit accessible?
+      type: select_one
+      options:
+      - Yes, multiple locations
+      - Yes, one location
+      - false
+      required: true
+    - id: 25
+      name: safety_concerns_identified
+      label: Safety Concerns Identified
+      hint: List any safety concerns that need to be addressed
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: action_plan
+      label: Action Plan
+      hint: What steps will be taken to address safety concerns?
+      type: text
+      options: []
+      required: false

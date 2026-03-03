@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Safety Protocol Assessment Form
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: site_location
+      label: Site Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_visit
+      label: Date Of Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: supervisor_phone
+      label: Supervisor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: supervisor_email
+      label: Supervisor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: safety_officer_name
+      label: Safety Officer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: safety_officer_phone
+      label: Safety Officer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: safety_officer_email
+      label: Safety Officer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: observation_start_time
+      label: Observation Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: observation_end_time
+      label: Observation End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: weather_conditions
+      label: Weather Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: observation_area
+      label: Observation Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: observation_notes
+      label: Observation Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: safety_procedure_rating
+      label: Safety Procedure Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 16
+      name: safety_equipment_rating
+      label: Safety Equipment Rating
+      hint: null
+      type: select_one
+      options:
+      - Satisfactory
+      - Unsatisfactory
+      required: false
+    - id: 17
+      name: safety_procedure_improvement
+      label: Safety Procedure Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: safety_equipment_improvement
+      label: Safety Equipment Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: supervisor_comments
+      label: Supervisor Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: safety_officer_comments
+      label: Safety Officer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_multiple
+      options:
+      - In Progress
+      - Complete
+      - Delayed
+      - Cancelled
+      required: false
+    - id: 22
+      name: safety_protocol_review_date
+      label: Safety Protocol Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: safety_protocol_revision_date
+      label: Safety Protocol Revision Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: safety_protocol_reviewer
+      label: Safety Protocol Reviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: reviewer_signature
+      label: Reviewer Signature
+      hint: null
+      type: note
+      options: []
+      required: false

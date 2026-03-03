@@ -1,0 +1,121 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: API Release Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Requester Email
+      hint: Your email for communication about this request
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requester_department
+      label: Requester Department
+      hint: Your department or team
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: api_name
+      label: API Name
+      hint: Name of the API being requested
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: api_version
+      label: API Version
+      hint: Version of the API being requested
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: release_reason
+      label: Reason for API Release Request
+      hint: Why do you need access to this API?
+      type: select_one
+      options: ["New Project Integration", "Feature Enhancement", "Bug Fix", "Performance Optimization", "Testing", "Other"]
+      required: true
+    - id: 7
+      name: intended_use_case
+      label: Intended Use Case
+      hint: Describe how you plan to use the API
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: expected_traffic_volume
+      label: Expected Traffic Volume
+      hint: How many requests per day do you expect to make?
+      type: select_one
+      options: ["Under 1,000", "1,000-10,000", "10,000-100,000", "Over 100,000"]
+      required: true
+    - id: 9
+      name: security_review_completed
+      label: Security Review Completed
+      hint: Has a security review been completed for this integration?
+      type: select_one
+      options: ["Yes", "No", "In Progress"]
+      required: true
+    - id: 10
+      name: compliance_requirements_met
+      label: Compliance Requirements Met
+      hint: Does your use case meet all compliance requirements?
+      type: select_one
+      options: ["Yes", "No", "Pending Review"]
+      required: true
+    - id: 11
+      name: data_encryption_plans
+      label: Data Encryption Plans
+      hint: How will you encrypt data transmitted via the API?
+      type: select_one
+      options: ["TLS 1.2+", "Application-level encryption", "Both", "Not applicable"]
+      required: true
+    - id: 12
+      name: rate_limiting_acceptance
+      label: Rate Limiting Acceptance
+      hint: Do you agree to comply with the API's rate limiting policies?
+      type: select_one
+      options: ["Yes", "No"]
+      required: true
+    - id: 13
+      name: approval_authority
+      label: Approval Authority
+      hint: Who has approved this API access request?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: approval_date
+      label: Approval Date
+      hint: Date when approval was granted
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: access_level_requested
+      label: Access Level Requested
+      hint: What level of access do you need?
+      type: select_one
+      options: ["Read Only", "Read/Write", "Admin", "Super Admin"]
+      required: true

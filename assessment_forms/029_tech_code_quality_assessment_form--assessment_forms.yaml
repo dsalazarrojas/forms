@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tech Code Quality Assessment Form
+    pages:
+    - id: 1
+      name: user
+      label: User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: code_reviewed
+      label: Code Reviewed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - new
+      - in_progress
+      - done
+      - on_hold
+      required: true
+    - id: 5
+      name: code_quality_rating
+      label: Code Quality Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: maintainability_rating
+      label: Maintainability Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: design_rating
+      label: Design Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: code_readability
+      label: Code Readability
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: code_usability
+      label: Code Usability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: rating_comments
+      label: Rating Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: recommended_improvements
+      label: Recommended Improvements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: action_plan
+      label: Action Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: date_reviewed
+      label: Date Reviewed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: time_reviewed
+      label: Time Reviewed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: reviewer_email
+      label: Reviewer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: reviewer_phone
+      label: Reviewer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: reviewer_comment
+      label: Reviewer Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: reviewer_company
+      label: Reviewer Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: reviewer_location
+      label: Reviewer Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reviewer_rating
+      label: Reviewer Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: reviewee_name
+      label: Reviewee Name
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Paypal Book Order Form
+    pages:
+    - id: 1
+      name: book_order_form_page_1
+      label: Book Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: book_order_form_subpage_1
+      label: Book Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: book_title
+      label: Book Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: book_price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: book_author
+      label: Author
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: book_pages
+      label: Pages
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: book_image
+      label: Book Image
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: book_description
+      label: Book Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: book_isbn
+      label: Book Isbn
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: book_status
+      label: Book Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 11
+      name: payment_info
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

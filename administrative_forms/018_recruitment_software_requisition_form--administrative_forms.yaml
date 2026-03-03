@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recruitment Software Requisition Form
+    pages:
+    - id: 1
+      name: software_name
+      label: software name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: software_description
+      label: software description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: software_version
+      label: software version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: software_type
+      label: software type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: software_cost
+      label: software cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: software_benefits
+      label: software benefits
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: requested_by
+      label: requested by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: requisitioned_by
+      label: requisitioned by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date_requested
+      label: date requested
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time_requested
+      label: time requested
+      hint: null
+      type: time
+      options: []
+      required: false

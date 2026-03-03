@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Oral Ulcer Assessment Survey
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: ulcer_location
+      label: Ulcer Location
+      hint: null
+      type: select_one
+      options:
+      - Upper
+      - Lower
+      - Both
+      required: true
+    - id: 4
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: size
+      label: Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: true
+    - id: 6
+      name: pain_level
+      label: Pain Level
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Mild
+      - Moderate
+      - Severe
+      required: true
+    - id: 7
+      name: treatment_status
+      label: Treatment Status
+      hint: null
+      type: select_one
+      options:
+      - Treated
+      - Not Treated
+      - Unknown
+      required: true
+    - id: 8
+      name: follow_up
+      label: Follow-Up
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - Dry mouth
+      - Pain
+      - Bleeding
+      required: true
+    - id: 10
+      name: test1
+      label: Test1
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: test2
+      label: Test2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: test3
+      label: Test3
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 13
+      name: test4
+      label: Test4
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: true
+    - id: 14
+      name: test5
+      label: Test5
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: test6
+      label: Test6
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 16
+      name: test7
+      label: Test7
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: true
+    - id: 17
+      name: test8
+      label: Test8
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 18
+      name: test9
+      label: Test9
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 19
+      name: test10
+      label: Test10
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: test11
+      label: Test11
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 21
+      name: test12
+      label: Test12
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 22
+      name: test13
+      label: Test13
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: true

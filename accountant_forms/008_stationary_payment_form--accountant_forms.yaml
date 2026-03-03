@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stationary Payment Form
+    pages:
+    - id: 1
+      name: user_name
+      label: user name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: user_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: user_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: payment_date
+      label: payment date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: product_name
+      label: product name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: product_price
+      label: price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: stationery_quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: total_amount
+      label: total amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: user_address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_one
+      options:
+      - cash
+      - credit card
+      - bank transfer
+      required: true
+    - id: 11
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: user_message
+      label: message
+      hint: null
+      type: text
+      options: []
+      required: false

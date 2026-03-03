@@ -1,0 +1,103 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Haulout Service Agreement
+    pages:
+    - id: 1
+      name: vessel_details
+      label: Vessel Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vessel_type
+      label: Vessel Type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Vessels 1-Ton''}'
+      - '{''name'': ''Vessels 2-Ton''}'
+      - '{''name'': ''Vessels 3-Ton''}'
+      - '{''name'': ''Vessels 4-Ton''}'
+      - '{''name'': ''Other''}'
+      required: false
+    - id: 3
+      name: vessel_size
+      label: Vessel Size
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Small''}'
+      - '{''name'': ''Medium''}'
+      - '{''name'': ''Large''}'
+      required: false
+    - id: 4
+      name: vessel_type_size
+      label: Vessel Type Size
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Small''}'
+      - '{''name'': ''Medium''}'
+      - '{''name'': ''Large''}'
+      - '{''name'': ''Extra Large''}'
+      required: false
+    - id: 5
+      name: vessel_condition
+      label: Vessel Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Good''}'
+      - '{''name'': ''Fair''}'
+      - '{''name'': ''Poor''}'
+      required: false
+    - id: 6
+      name: haulout_terms
+      label: Haulout Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: haulout_details
+      label: Haulout Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: haulout_terms_agreed
+      label: Haulout Terms Agreed
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': True}'
+      - '{''name'': False}'
+      required: false
+    - id: 9
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: signature_time
+      label: Signature Time
+      hint: null
+      type: time
+      options: []
+      required: false

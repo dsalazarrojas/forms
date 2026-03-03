@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Functional Ability Assessment Questionnaire
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: prophets
+      label: Prophets
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: prophets_note
+      label: Prophets Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: patient_status
+      label: Patient Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: daily_living
+      label: Daily Living
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: daily_living_note
+      label: Daily Living Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_dob
+      label: Patient DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: assess_date_time
+      label: Assessment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: patient_status_note
+      label: Patient Status Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: care_team_members
+      label: Care Team Members
+      hint: Please list all members involved in the patient's care team.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: team_members_note
+      label: Team Members Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: patient_care_plans
+      label: Patient Care Plans
+      hint: Please describe the current care plan for this patient.
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: patient_care_plans_note
+      label: Patient Care Plans Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: patient_outcome
+      label: Patient Outcome
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: patient_outcome_note
+      label: Patient Outcome Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

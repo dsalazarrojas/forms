@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payment Data Privacy Assessment
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: social_security_number
+      label: social security number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - Debit Card
+      required: true
+    - id: 9
+      name: bank_account
+      label: bank account
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: bank_account_holder
+      label: bank account holder
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: cardholder_name
+      label: card holder name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: card_number
+      label: card number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: exp_month
+      label: exp month
+      hint: null
+      type: select_one
+      options:
+      - '01'
+      - '02'
+      - '03'
+      - '04'
+      - '05'
+      - '06'
+      - '07'
+      - 08
+      - 09
+      - '10'
+      - '11'
+      - '12'
+      required: true
+    - id: 14
+      name: exp_year
+      label: exp year
+      hint: null
+      type: select_one
+      options:
+      - '20'
+      - '21'
+      - '22'
+      - '23'
+      - '24'
+      - '25'
+      required: true
+    - id: 15
+      name: cvv
+      label: cvv
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: cvv_type
+      label: cvv type
+      hint: null
+      type: select_multiple
+      options:
+      - CVV
+      - CVV/Security Code
+      - CVV/Security Number
+      - CVV/Security Code/Security Number
+      required: true
+    - id: 17
+      name: security_code
+      label: security code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: card_type
+      label: card type
+      hint: null
+      type: select_multiple
+      options:
+      - Visa
+      - Mastercard
+      - Amex
+      - Discover
+      - Diners Club
+      required: true
+    - id: 19
+      name: security_type
+      label: security type
+      hint: null
+      type: select_multiple
+      options:
+      - Credit
+      - Debit
+      - Both
+      required: true
+    - id: 20
+      name: payment_term
+      label: payment term
+      hint: null
+      type: select_one
+      options:
+      - One-time
+      - Recurring
+      required: true
+    - id: 21
+      name: payment_date
+      label: payment date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: payment_time
+      label: payment time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 23
+      name: payment_amount
+      label: payment amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: tax_amount
+      label: tax amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: total_amount
+      label: total amount
+      hint: null
+      type: number
+      options: []
+      required: true

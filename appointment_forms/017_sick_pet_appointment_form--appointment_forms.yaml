@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: sick_pet_appointment_form
+    pages:
+    - id: 1
+      name: pet_info
+      label: pet_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: owner_info
+      label: owner_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: appointment_time
+      label: appointment_time
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: appointment_date
+      label: appointment_date
+      hint: null
+      type: date
+      options: []
+      required: false

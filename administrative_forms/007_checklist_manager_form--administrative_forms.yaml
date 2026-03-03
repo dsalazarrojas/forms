@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Checklist Manager Form
+    pages:
+    - id: 1
+      name: project_title
+      label: Project Title
+      hint: Name of the project or initiative
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_manager
+      label: Project Manager
+      hint: Name of the project manager
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Department responsible for this project
+      type: select_one
+      options:
+      - Operations
+      - Marketing
+      - Sales
+      - IT
+      - Human Resources
+      - Finance
+      - Other
+      required: true
+    - id: 4
+      name: priority_level
+      label: Priority Level
+      hint: How critical is this project
+      type: select_one
+      options:
+      - Critical
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: Project start date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: due_date
+      label: Due Date
+      hint: Project completion deadline
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: task_category
+      label: Task Category
+      hint: Category of tasks being managed
+      type: select_one
+      options:
+      - Planning
+      - Execution
+      - Review
+      - Documentation
+      - Communication
+      - Other
+      required: true
+    - id: 8
+      name: task_description
+      label: Task Description
+      hint: Detailed description of the task
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: assigned_to
+      label: Assigned To
+      hint: Team member responsible for this task
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: task_status
+      label: Task Status
+      hint: Current status of the task
+      type: select_one
+      options:
+      - Not started
+      - In progress
+      - On hold
+      - Completed
+      - Cancelled
+      required: true
+    - id: 11
+      name: completion_percentage
+      label: Completion Percentage
+      hint: Estimated percentage complete
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: estimated_hours
+      label: Estimated Hours
+      hint: Estimated hours to complete
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: actual_hours
+      label: Actual Hours
+      hint: Actual hours spent
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: dependencies
+      label: Dependencies
+      hint: Tasks this depends on
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: resources_needed
+      label: Resources Needed
+      hint: Resources required for this task
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: blockers
+      label: Blockers
+      hint: Any obstacles or blockers
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: notes
+      label: Notes
+      hint: Additional notes or comments
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: review_required
+      label: Review Required
+      hint: Does this task require review
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: reviewer_name
+      label: Reviewer Name
+      hint: Name of the reviewer if applicable
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: approval_status
+      label: Approval Status
+      hint: Current approval status
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      - Not applicable
+      required: true
+    - id: 21
+      name: date_completed
+      label: Date Completed
+      hint: Actual completion date
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: lessons_learned
+      label: Lessons Learned
+      hint: Key takeaways from this task
+      type: text
+      options: []
+      required: false

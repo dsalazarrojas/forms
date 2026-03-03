@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clothing Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Full Name
+      hint: Customer name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Contact email for order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_items
+      label: -- Item Selection --
+      hint: Choose the items you want to order
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: product_name
+      label: Product Name or Style
+      hint: Name or code of clothing item
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: product_category
+      label: Product Category
+      hint: null
+      type: select_one
+      options:
+      - Shirts and tops
+      - Pants and jeans
+      - Dresses
+      - Jackets and coats
+      - Sweaters
+      - Accessories
+      - Shoes
+      - Activewear
+      - Other
+      required: true
+    - id: 7
+      name: color_selection
+      label: Color Selection
+      hint: Desired color for this item
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: size_selection
+      label: Size
+      hint: null
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      - XXXL
+      - One size fits all
+      required: true
+    - id: 9
+      name: quantity
+      label: Quantity
+      hint: How many of this item
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: unit_price
+      label: Unit Price
+      hint: Price per item
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: item_total
+      label: Item Total
+      hint: Quantity times price
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: section_additional
+      label: -- Additional Item Orders --
+      hint: Order additional items if desired
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: additional_products
+      label: Additional Products
+      hint: List any additional items with details
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_shipping
+      label: -- Shipping Information --
+      hint: Where should we send your order
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: shipping_address
+      label: Shipping Address
+      hint: Full delivery address
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: city_state_zip
+      label: City, State, Zip Code
+      hint: Location details
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: country
+      label: Country
+      hint: Destination country
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - Standard shipping
+      - Express shipping
+      - Overnight shipping
+      - Local pickup
+      - International mail
+      required: true
+    - id: 19
+      name: section_billing
+      label: -- Billing Information --
+      hint: Payment and billing details
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: billing_address_same
+      label: Is billing address the same as shipping
+      hint: null
+      type: select_one
+      options:
+      - Yes, same address
+      - No, different address
+      required: true
+    - id: 21
+      name: billing_address
+      label: Billing Address if Different
+      hint: Complete billing address
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - PayPal
+      - Bank transfer
+      - Check
+      - Other
+      required: true
+    - id: 23
+      name: section_special
+      label: -- Special Instructions --
+      hint: Any special requests or notes
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: special_instructions
+      label: Special Instructions or Gift Message
+      hint: Customizations or delivery notes
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: terms_acceptance
+      label: I agree to the terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true

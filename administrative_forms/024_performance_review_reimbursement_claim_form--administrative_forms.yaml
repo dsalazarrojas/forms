@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Review Reimbursement Claim Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: performance_review_date
+      label: Performance Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reimbursement_amount
+      label: Reimbursement Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: reimbursement_description
+      label: Reimbursement Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false

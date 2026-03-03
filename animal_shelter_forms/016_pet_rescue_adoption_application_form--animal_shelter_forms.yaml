@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Rescue Adoption Application Form
+    pages:
+    - id: 1
+      name: pet_name
+      label: Pet Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_type
+      label: Pet Type
+      hint: null
+      type: select_one
+      options:
+      - Pet Cat
+      - Pet Dog
+      - Pet Bird
+      - Pet Fish
+      required: false
+    - id: 3
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: Email address
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: home_phone
+      label: Home Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: cell_phone
+      label: Cell Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: street
+      label: Street
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false

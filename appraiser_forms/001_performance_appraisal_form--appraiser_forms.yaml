@@ -1,0 +1,78 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Performance Appraisal Form
+    pages:
+    - id: 1
+      name: appraisal_form_first
+      label: Appraisal Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee
+      label: Employee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: performance_period
+      label: Performance Period
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Q1 2022''}'
+      - '{''id'': 2, ''label'': ''Q2 2022''}'
+      - '{''id'': 3, ''label'': ''Q3 2022''}'
+      required: false
+    - id: 4
+      name: appraisal_form_second
+      label: Appraisal Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: employee_evaluation
+      label: Employee Evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: areas_of_evaluation
+      label: Areas Of Evaluation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Communication''}'
+      - '{''id'': 2, ''label'': ''Problem Solving''}'
+      - '{''id'': 3, ''label'': ''Leadership''}'
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: appraiser_signature
+      label: Appraiser Signature
+      hint: null
+      type: text
+      options: []
+      required: false

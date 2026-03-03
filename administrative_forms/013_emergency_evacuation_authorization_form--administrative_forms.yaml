@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Evacuation Authorization Form
+    pages:
+    - id: 1
+      name: emergency_evacuation_authorization_form_data
+      label: Emergency Evacuation Authorization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: emergency_evacuation_authorization_form_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: emergency_evacuation_authorization_form_job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_evacuation_authorization_form_work_location
+      label: Work Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_evacuation_authorization_form_emergency_contact_person
+      label: Emergency Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_evacuation_authorization_form_emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_evacuation_authorization_form_emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: emergency_evacuation_authorization_form_emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_evacuation_authorization_form_evacuation_status
+      label: Evacuation Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Away from Office
+      - On Leave
+      - On Travel
+      - Unable to Contact
+      required: false
+    - id: 10
+      name: emergency_evacuation_authorization_form_evacuation_method
+      label: Evacuation Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: emergency_evacuation_authorization_form_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

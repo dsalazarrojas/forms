@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Process Improvement Certification Application
+    pages:
+    - id: 1
+      name: applicant_info
+      label: Applicant Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: cert_info
+      label: Certification Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: cert_req
+      label: Certification Request
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: cert_type
+      label: Certification Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: cert_date
+      label: Certification Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: cert_exp
+      label: Certification Expiration
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: cert_status
+      label: Certification Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 9
+      name: cert_notes
+      label: Certification Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: cert_issues
+      label: Issues with Certification
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: cert_action
+      label: Action Taken
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: cert_outcome
+      label: Outcome
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: cert_comment
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: cert_review
+      label: Certification Review
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: cert_renewal
+      label: Certification Renewal
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: cert_renewal_reason
+      label: Renewal Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: cert_renewal_date
+      label: Renewal Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: cert_renewal_status
+      label: Renewal Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 19
+      name: cert_renewal_notes
+      label: Renewal Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: cert_renewal_action
+      label: Renewal Action Taken
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: cert_renewal_outcome
+      label: Renewal Outcome
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: cert_renewal_comment
+      label: Renewal Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: cert_termination
+      label: Termination
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: cert_termination_date
+      label: Termination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: cert_termination_reason
+      label: Termination Reason
+      hint: null
+      type: text
+      options: []
+      required: false

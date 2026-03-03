@@ -1,0 +1,188 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Chava' Pelo Salon Team Member COVID 19 Self Assessment Form
+    pages:
+      - id: 1
+        name: team_assessment_intro
+        label: -- Team Member Daily COVID-19 Check-in --
+        hint: Complete before starting your shift
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: team_member_name
+        label: Team member name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: check_in_date
+        label: Today's date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: shift_start_time
+        label: Shift start time
+        hint: null
+        type: time
+        options: []
+        required: true
+      - id: 5
+        name: position_role
+        label: Your position at the salon
+        hint: null
+        type: select_one
+        options:
+          - Hair Stylist
+          - Colorist
+          - Salon Manager
+          - Receptionist
+          - Maintenance Staff
+          - Other
+        required: true
+      - id: 6
+        name: morning_fever_check
+        label: Do you have a fever or elevated temperature this morning?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Did not check
+        required: true
+      - id: 7
+        name: new_cough
+        label: Do you have a new or worsening cough?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 8
+        name: breathing_difficulty
+        label: Do you have difficulty breathing?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 9
+        name: loss_of_taste_smell
+        label: Have you lost sense of taste or smell?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 10
+        name: fatigue_body_aches
+        label: Do you have fatigue or body aches?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 11
+        name: sore_throat
+        label: Do you have a sore throat?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 12
+        name: household_covid_exposure
+        label: Has anyone in your household tested positive for COVID-19 in the past 14 days?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Unsure
+        required: true
+      - id: 13
+        name: close_contact_exposure
+        label: Have you had close contact with someone who tested positive?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Unsure
+        required: true
+      - id: 14
+        name: personal_covid_test
+        label: Have you tested positive for COVID-19 in the past 14 days?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Unsure
+        required: true
+      - id: 15
+        name: vaccination_booster_status
+        label: Vaccination and booster status
+        hint: null
+        type: select_one
+        options:
+          - Fully vaccinated with booster
+          - Fully vaccinated without booster
+          - Partially vaccinated
+          - Not vaccinated
+        required: false
+      - id: 16
+        name: isolation_status
+        label: Are you currently under quarantine or isolation?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 17
+        name: clear_to_work
+        label: I certify that I am healthy and clear to work today
+        hint: null
+        type: select_one
+        options:
+          - Yes, I am clear to work
+          - No, I need to take time off
+          - Unsure
+        required: true
+      - id: 18
+        name: supervisor_acknowledgment
+        label: Supervisor name (if not clear to work)
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: agreement_statement
+        label: I agree to notify management immediately if I develop COVID-19 symptoms during my shift
+        hint: null
+        type: select_one
+        options:
+          - I agree
+          - I do not agree
+        required: true

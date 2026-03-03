@@ -1,0 +1,321 @@
+inputSchema:
+  type: object
+  properties:
+    title: Safety Standards Verification Form
+    pages:
+    - id: 1
+      name: general_information
+      label: general-information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_information
+      label: company-information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: safety_regulatory_framework
+      label: safety-regulatory-framework
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: standard_compliance
+      label: standard-compliance
+      hint: Please provide details of the standard
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: safety_training_and_assessment
+      label: safety-training-and-assessment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: risk_management_plan
+      label: risk-management-plan
+      hint: Please provide details of the risk management plan
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_management_plan
+      label: incident-management-plan
+      hint: Please provide details of the incident management plan
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_procedure
+      label: emergency-procedure
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: emergency_protocol
+      label: emergency-protocol
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: safety_equipment
+      label: safety-equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: fire_evacuation_procedure
+      label: fire-evacuation-procedure
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: fire_protection_measures
+      label: fire-protection-measures
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: fire_safety_equipment
+      label: fire-safety-equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: fire_safety_precautions
+      label: fire-safety-precautions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: fire_safety_rules_and_procedures
+      label: fire-safety-rules-and-procedures
+      hint: Please provide details of the fire safety rules and procedures
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: electrical_safety_equipment
+      label: electrical-safety-equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: electrical_safety_rules_and_procedures
+      label: electrical-safety-rules-and-procedures
+      hint: Please provide details of the electrical safety rules and procedures
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: chemical_safety
+      label: chemical-safety
+      hint: Please provide details of the chemical safety measures
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: chemical_safety_equipment
+      label: chemical-safety-equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: chemical_safety_rules_and_procedures
+      label: chemical-safety-rules-and-procedures
+      hint: Please provide details of the chemical safety rules and procedures
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: biological_safety_equipment
+      label: biological-safety-equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: biological_safety_rules_and_procedures
+      label: biological-safety-rules-and-procedures
+      hint: Please provide details of the biological safety rules and procedures
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: radiation_safety_equipment
+      label: radiation-safety-equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: radiation_safety_rules_and_procedures
+      label: radiation-safety-rules-and-procedures
+      hint: Please provide details of the radiation safety rules and procedures
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: general_hazards
+      label: general-hazards
+      hint: Please provide details of the general hazards
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: general_hazards_safety_measures
+      label: general-hazards-safety-measures
+      hint: Please provide details of the general hazards safety measures
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: medical_safety_equipment
+      label: medical-safety-equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 28
+      name: medical_safety_rules_and_procedures
+      label: medical-safety-rules-and-procedures
+      hint: Please provide details of the medical safety rules and procedures
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: medical_safety_hazards
+      label: medical-safety-hazards
+      hint: Please provide details of the medical safety hazards
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: environmental_safety_hazards
+      label: environmental-safety-hazards
+      hint: Please provide details of the environmental safety hazards
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: medical_safety_training
+      label: medical-safety-training
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 32
+      name: medical_safety_equipment
+      label: medical-safety-equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 33
+      name: emergency_response_plan
+      label: emergency-response-plan
+      hint: Please provide details of the emergency response plan
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: emergency_procedure_equipment
+      label: emergency-procedure-equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 35
+      name: emergency_procedure_rules_and_procedures
+      label: emergency-procedure-rules-and-procedures
+      hint: Please provide details of the emergency procedure rules and procedures
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: fire_incident_reporting
+      label: fire-incident-reporting
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 37
+      name: incident_management_plan
+      label: incident-management-plan
+      hint: Please provide details of the incident management plan
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: general_safety_measures
+      label: general-safety-measures
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 39
+      name: safety_management_system
+      label: safety-management-system
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 40
+      name: general_safety_precautions
+      label: general-safety-precautions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

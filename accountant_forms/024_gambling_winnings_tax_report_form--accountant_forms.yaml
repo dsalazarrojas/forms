@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gambling Winnings Tax Report Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: gamblers_name
+      label: Gamblers Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: gamblers_address
+      label: Gamblers Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: gamblers_city
+      label: Gamblers City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: gamblers_state
+      label: Gamblers State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: gamblers_zip
+      label: Gamblers Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_win
+      label: Date of Win
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: type_of_game
+      label: Type of Game
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Slot Machine'', ''label'': ''Slot Machine''}'
+      - '{''id'': 2, ''name'': ''Sports'', ''label'': ''Sports''}'
+      - '{''id'': 3, ''name'': ''Lottery'', ''label'': ''Lottery''}'
+      required: false
+    - id: 9
+      name: number_of_prophets
+      label: Number of Prophets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: amount_of_bet
+      label: Amount of Bet
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: amount_of_winnings
+      label: Amount of Winnings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: date_of_payment
+      label: Date of Payment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Cash'', ''label'': ''Cash''}'
+      - '{''id'': 2, ''name'': ''Credit'', ''label'': ''Credit''}'
+      - '{''id'': 3, ''name'': ''Check'', ''label'': ''Check''}'
+      - '{''id'': 4, ''name'': ''Bank Transfer'', ''label'': ''Bank Transfer''}'
+      required: false
+    - id: 14
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: amount_paid
+      label: Amount Paid
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: tax_deducted
+      label: Tax Deducted
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: tax_rate
+      label: Tax Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: tax_deducted_amount
+      label: Tax Deducted Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: account_holder
+      label: Account Holder
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: account_type
+      label: Account Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Cash'', ''label'': ''Cash''}'
+      - '{''id'': 2, ''name'': ''Credit'', ''label'': ''Credit''}'
+      - '{''id'': 3, ''name'': ''Bank'', ''label'': ''Bank''}'
+      required: false
+    - id: 22
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: form_version
+      label: Form Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_assigned_tool
+      label: Form Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

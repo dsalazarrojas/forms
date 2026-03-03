@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: security_breach_incident_form
+    pages:
+    - id: 1
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_incident
+      label: Date of Incident
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time_of_incident
+      label: Time of Incident
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: location_of_incident
+      label: Location of Incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: type_of_incident
+      label: Type of Incident
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Unauthorized Access''}'
+      - '{''id'': 2, ''label'': ''Data Breach''}'
+      - '{''id'': 3, ''label'': ''Phishing''}'
+      - '{''id'': 4, ''label'': ''Malware''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: severity_of_incident
+      label: Severity of Incident
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Low''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''High''}'
+      - '{''id'': 4, ''label'': ''Critical''}'
+      required: false
+    - id: 7
+      name: incident_reporter
+      label: Incident Reporter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: description_of_incident
+      label: Description of Incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: image_of_incident
+      label: Image of Incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: document_of_incident
+      label: Document of Incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: incident_reporter_phone
+      label: Incident Reporter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_reporter_email
+      label: Incident Reporter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: incident_reporter_company
+      label: Incident Reporter Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: incident_reporter_title
+      label: Incident Reporter Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: incident_reporter_department
+      label: Incident Reporter Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: incident_reporter_job_title
+      label: Incident Reporter Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: incident_reporter_location
+      label: Incident Reporter Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: incident_reporter_phone_extension
+      label: Incident Reporter Phone Extension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: incident_reporter_phone_number
+      label: Incident Reporter Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

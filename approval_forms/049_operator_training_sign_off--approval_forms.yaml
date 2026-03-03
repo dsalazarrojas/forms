@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Operator Training Sign Off
+    pages:
+    - id: 1
+      name: operator_training_sign_off_form
+      label: Operator Training Sign Off
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: supervisor_review
+      label: Supervisor Review
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: training_time
+      label: Training Time
+      hint: null
+      type: time
+      options: []
+      required: true

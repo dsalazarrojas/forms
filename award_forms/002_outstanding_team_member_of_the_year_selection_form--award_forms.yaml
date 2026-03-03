@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Outstanding Team Member Of The Year Selection Form
+    pages:
+    - id: 1
+      name: team_member_nomination
+      label: Team Member Nomination
+      hint: null
+      type: select_one
+      options:
+      - option_a
+      - option_b
+      - option_c
+      required: false
+    - id: 2
+      name: nomination_period_start_date
+      label: Nomination Period Start Date
+      hint: The start date of the nomination period.
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: nomination_period_end_date
+      label: Nomination Period End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: nominator_name
+      label: Nominator Name
+      hint: The name of the nominator.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: nominator_title
+      label: Nominator Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team_member_name
+      label: Team Member Name
+      hint: The name of the team member.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: team_member_job_title
+      label: Team Member Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: nominator_email
+      label: Nominator Email
+      hint: The email of the nominator.
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: team_member_email
+      label: Team Member Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: nominator_phone
+      label: Nominator Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: team_member_phone
+      label: Team Member Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: nominator_job_title
+      label: Nominator Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: team_member_annual_awards_count
+      label: Team Member Annual Awards Count
+      hint: The count of the team member's annual awards.
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: team_member_annual_recognition_count
+      label: Team Member Annual Recognition Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: nomination_year
+      label: Nomination Year
+      hint: The year of the nomination.
+      type: number
+      options: []
+      required: false

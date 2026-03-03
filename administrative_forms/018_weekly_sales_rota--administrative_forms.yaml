@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weekly Sales Rota
+    pages:
+    - id: 1
+      name: user_id
+      label: User Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: manager_id
+      label: Manager
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Manager 1''}'
+      - '{''id'': 2, ''label'': ''Manager 2''}'
+      required: false
+    - id: 3
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: day_of_week
+      label: Day
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Monday''}'
+      - '{''id'': 2, ''label'': ''Tuesday''}'
+      - '{''id'': 3, ''label'': ''Wednesday''}'
+      - '{''id'': 4, ''label'': ''Thursday''}'
+      - '{''id'': 5, ''label'': ''Friday''}'
+      - '{''id'': 6, ''label'': ''Saturday''}'
+      - '{''id'': 7, ''label'': ''Sunday''}'
+      required: false
+    - id: 6
+      name: sales_amount
+      label: Sales Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false

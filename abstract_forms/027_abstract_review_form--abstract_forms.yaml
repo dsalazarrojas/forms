@@ -1,0 +1,178 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: "Abstract Review Form"
+    pages:
+    - id: 1
+      name: section_header_reviewer_info
+      label: "-- Reviewer Information --"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reviewer_name
+      label: "Reviewer full name"
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reviewer_email
+      label: "Reviewer email address"
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: review_date
+      label: "Date of review"
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_header_abstract_details
+      label: "-- Abstract Details --"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: abstract_id
+      label: "Abstract reference ID or number"
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: abstract_title
+      label: "Title of the abstract"
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: author_name
+      label: "Author name(s)"
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_header_evaluation
+      label: "-- Evaluation Criteria --"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: relevance_rating
+      label: "Relevance to the topic or program"
+      hint: "1 = Not relevant, 5 = Highly relevant"
+      type: select_one
+      options:
+        - "1"
+        - "2"
+        - "3"
+        - "4"
+        - "5"
+      required: true
+    - id: 11
+      name: originality_rating
+      label: "Originality and contribution"
+      hint: "1 = Not original, 5 = Highly original"
+      type: select_one
+      options:
+        - "1"
+        - "2"
+        - "3"
+        - "4"
+        - "5"
+      required: true
+    - id: 12
+      name: clarity_rating
+      label: "Clarity and quality of writing"
+      hint: "1 = Poor, 5 = Excellent"
+      type: select_one
+      options:
+        - "1"
+        - "2"
+        - "3"
+        - "4"
+        - "5"
+      required: true
+    - id: 13
+      name: methodology_rating
+      label: "Soundness of methodology or approach"
+      hint: "1 = Weak, 5 = Strong"
+      type: select_one
+      options:
+        - "1"
+        - "2"
+        - "3"
+        - "4"
+        - "5"
+      required: true
+    - id: 14
+      name: overall_rating
+      label: "Overall quality rating"
+      hint: "1 = Poor, 5 = Excellent"
+      type: select_one
+      options:
+        - "1"
+        - "2"
+        - "3"
+        - "4"
+        - "5"
+      required: true
+    - id: 15
+      name: section_header_recommendation
+      label: "-- Recommendation --"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: recommendation
+      label: "Recommendation"
+      hint: null
+      type: select_one
+      options:
+        - "Accept"
+        - "Accept with minor revisions"
+        - "Revise and resubmit"
+        - "Reject"
+      required: true
+    - id: 17
+      name: strengths
+      label: "Key strengths of the abstract"
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: weaknesses
+      label: "Key weaknesses or areas for improvement"
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: confidential_comments
+      label: "Confidential comments for the review committee"
+      hint: "These will not be shared with the author"
+      type: text
+      options: []
+      required: false

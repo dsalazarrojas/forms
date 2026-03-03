@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Report Release Authorization Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: report_type
+      label: Report Type
+      hint: null
+      type: select_one
+      options:
+      - Balance Sheets
+      - Cash Flow
+      - Income Statements
+      - Other Financial Reports
+      required: false
+    - id: 4
+      name: authorization_type
+      label: Authorization Type
+      hint: null
+      type: select_one
+      options:
+      - General Consent
+      - Specific Consent
+      - Revocation
+      required: false
+    - id: 5
+      name: effective_date
+      label: Effective Date
+      hint: Date of Authorization
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: authorization_date
+      label: Authorization Date
+      hint: Date of Authorization
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: expiration_date
+      label: Expiration Date
+      hint: Date of Authorization
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: User Email
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: User Phone
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: Comments or Additional Comments
+      type: note
+      options: []
+      required: false

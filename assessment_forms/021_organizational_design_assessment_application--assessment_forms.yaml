@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Organizational Design Assessment Application
+    pages:
+    - id: 1
+      name: main_info
+      label: Main Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: main_challenges
+      label: Main Challenges
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: main_goals
+      label: Main Goals
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: main_context
+      label: Main Context
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: main_context_description
+      label: Context Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: main_context_status
+      label: Context Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: main_context_status_reason
+      label: Context Status Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: main_context_status_history
+      label: Context Status History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: main_context_status_last_update
+      label: Context Status Last Update
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: consultant_name
+      label: Consultant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: consultant_email
+      label: Consultant Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: consultant_phone
+      label: Consultant Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: main_organization
+      label: Main Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: main_organization_description
+      label: Main Organization Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: main_organization_type
+      label: Main Organization Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: main_organizational_chart
+      label: Main Organizational Chart
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: legal_consultation_appointment_checklist_form_template
+    pages:
+    - id: 1
+      name: client_contact_information
+      label: Client Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: appointment_details
+      label: Appointment Details
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''In-person'', ''label'': ''In-person''}'
+      - '{''id'': 2, ''name'': ''Phone'', ''label'': ''Phone''}'
+      - '{''id'': 3, ''name'': ''Video Call'', ''label'': ''Video Call''}'
+      required: false
+    - id: 3
+      name: meeting_location
+      label: Meeting Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: meeting_time
+      label: Meeting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: meeting_duration
+      label: Meeting Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: attorney_name
+      label: Attorney Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: attorney_contact_information
+      label: Attorney Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_location
+      label: Follow-up Location
+      hint: null
+      type: text
+      options: []
+      required: false

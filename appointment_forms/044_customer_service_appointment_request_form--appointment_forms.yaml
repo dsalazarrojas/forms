@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: customer_service_appointment_request_form_page_1
+      label: form_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_service_appointment_request_form_service_type
+      label: service_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Service 1''}'
+      - '{''id'': 2, ''name'': ''Service 2''}'
+      - '{''id'': 3, ''name'': ''Service 3''}'
+      required: false
+    - id: 3
+      name: customer_service_appointment_request_form_date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: customer_service_appointment_request_form_time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: customer_service_appointment_request_form_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: customer_service_appointment_request_form_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_service_appointment_request_form_note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: customer_service_appointment_request_form_submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

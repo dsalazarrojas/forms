@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Intake Form For Facial Treatments
+    pages:
+    - id: 1
+      name: section_client_details
+      label: -- Client Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: full name
+      hint: Enter full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: contact phone
+      hint: Best number for appointment reminders
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: contact email
+      hint: For treatment notes and receipts
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: skin_type
+      label: skin type
+      hint: Select the closest match
+      type: select_one
+      options:
+      - Normal
+      - Dry
+      - Oily
+      - Combination
+      - Sensitive
+      required: true
+    - id: 6
+      name: primary_skin_concern
+      label: primary skin concern
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Acne
+      - Fine Lines and Wrinkles
+      - Hyperpigmentation
+      - Redness and Rosacea
+      - Dehydration
+      - Enlarged Pores
+      required: true
+    - id: 7
+      name: recent_skin_procedures
+      label: recent skin procedures
+      hint: e g peels, lasers, injectables within last 6 months
+      type: select_one
+      options:
+      - None
+      - Chemical Peel
+      - Laser Treatment
+      - Botox or Fillers
+      - Microdermabrasion
+      - Other
+      required: false
+    - id: 8
+      name: medications_and_topicals
+      label: medications and topical products in use
+      hint: Include retinoids and acne medications
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: known_allergies
+      label: known allergies
+      hint: Include product and medication allergies
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: preferred_treatment
+      label: preferred treatment option
+      hint: Choose the facial you prefer
+      type: select_one
+      options:
+      - Express Facial
+      - Signature Facial
+      - Acne Treatment Facial
+      - Anti Aging Facial
+      - Microdermabrasion
+      required: true
+    - id: 11
+      name: appointment_date
+      label: appointment date
+      hint: Select preferred date for appointment
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: appointment_time
+      label: appointment time
+      hint: Preferred time of day
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: additional_notes
+      label: additional notes for technician
+      hint: Any other information to tailor treatment
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Service Access Authorization Form
+    pages:
+    - id: 1
+      name: client_permission
+      label: Client Permission
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: service_name
+      label: Service Name
+      hint: null
+      type: select_one
+      options:
+      - Child and Family Services
+      - Mental Health Services
+      - Substance Abuse Services
+      required: true
+    - id: 3
+      name: service_location
+      label: Service Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: social_worker
+      label: Social Worker
+      hint: null
+      type: select_multiple
+      options:
+      - Alice Smith
+      - Bob Johnson
+      - Jane Doe
+      required: true
+    - id: 5
+      name: client_name
+      label: Client Name
+      hint: Enter client name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: service_date
+      label: Service Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: service_time
+      label: Service Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: authorization_date
+      label: Authorization Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: authorization_time
+      label: Authorization Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: social_service_organization
+      label: Social Service Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: social_worker_signature
+      label: Social Worker Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: text
+      options: []
+      required: true

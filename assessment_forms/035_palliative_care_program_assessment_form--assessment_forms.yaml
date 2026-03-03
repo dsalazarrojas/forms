@@ -1,0 +1,238 @@
+inputSchema:
+  type: object
+  properties:
+    title: Palliative Care Program Assessment Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Other
+      required: true
+    - id: 7
+      name: medical_team
+      label: Medical Team
+      hint: null
+      type: select_multiple
+      options:
+      - Oncology
+      - Palliative Care
+      - Other
+      required: false
+    - id: 8
+      name: patient_need
+      label: Patient Need
+      hint: null
+      type: select_one
+      options:
+      - Pain
+      - Fatigue
+      - Shortness of Breath
+      - Other
+      required: true
+    - id: 9
+      name: patient_need_other
+      label: Other (Please Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: family_support
+      label: Family Support
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unsure
+      required: false
+    - id: 11
+      name: spiritual_needs
+      label: Spiritual Needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unsure
+      required: false
+    - id: 12
+      name: advance_care_planning
+      label: Advance Care Planning
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unsure
+      required: true
+    - id: 13
+      name: pain_control
+      label: Pain Control
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unsure
+      required: false
+    - id: 14
+      name: fatigue_control
+      label: Fatigue Control
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unsure
+      required: false
+    - id: 15
+      name: breath_control
+      label: Breath Control
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unsure
+      required: false
+    - id: 16
+      name: symptom_control
+      label: Symptom Control
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unsure
+      required: false
+    - id: 17
+      name: medication_management
+      label: Medication Management
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unsure
+      required: false
+    - id: 18
+      name: emotional_support
+      label: Emotional Support
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unsure
+      required: false
+    - id: 19
+      name: spiritual_support
+      label: Spiritual Support
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unsure
+      required: false
+    - id: 20
+      name: social_support
+      label: Social Support
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unsure
+      required: false
+    - id: 21
+      name: patient_care_plan
+      label: Patient Care Plan
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unsure
+      required: true
+    - id: 22
+      name: pain_assessment
+      label: Pain Assessment
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unsure
+      required: true
+    - id: 23
+      name: fatigue_assessment
+      label: Fatigue Assessment
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unsure
+      required: true
+    - id: 24
+      name: breath_assessment
+      label: Breath Assessment
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unsure
+      required: true
+    - id: 25
+      name: symptom_assessment
+      label: Symptom Assessment
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unsure
+      required: true

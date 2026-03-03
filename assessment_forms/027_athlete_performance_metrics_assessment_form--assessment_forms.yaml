@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Performance Metrics Assessment Form
+    pages:
+    - id: 1
+      name: test_id_header
+      label: -- Test Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: athlete_name
+      label: Athlete Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: testing_date
+      label: Date of Testing
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: assessor_name
+      label: Lead Assessor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: athlete_sport
+      label: Sport and Discipline
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: speed_agility_header
+      label: -- Performance Metrics - Speed and Agility --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: sprint_10m
+      label: 10m Sprint Time - Seconds
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: sprint_40m
+      label: 40m Sprint Time - Seconds
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: agility_t_test
+      label: T-Test Agility Time - Seconds
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: vertical_jump
+      label: Vertical Jump Height - cm
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: strength_power_header
+      label: -- Performance Metrics - Strength and Power --
+      hint: Recorded as 1-Rep Max (1RM) where applicable
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: bench_press_1rm
+      label: 1RM Bench Press - kg
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: back_squat_1rm
+      label: 1RM Back Squat - kg
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: deadlift_1rm
+      label: 1RM Deadlift - kg
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: broad_jump_distance
+      label: Standing Broad Jump - meters
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: endurance_conditioning_header
+      label: -- Performance Metrics - Endurance and Conditioning --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: yoyo_test_level
+      label: Yo-Yo Intermittent Recovery Test Level
+      hint: e.g. Level 18.4
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: time_trial_2km
+      label: 2km Time Trial Result - MM - SS
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: resting_heart_rate
+      label: Resting Heart Rate - bpm
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: max_heart_rate
+      label: Maximum Heart Rate Recorded - bpm
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: anthropometric_header
+      label: -- Anthropometric Data --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: body_weight
+      label: Body Weight - kg
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: body_fat_percentage
+      label: Body Fat Percentage - %
+      hint: Measured via DEXA or Skinfold
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: standing_height
+      label: Standing Height - cm
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: observations_header
+      label: -- Comments and Observations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: qualitative_observations
+      label: Qualitative Performance Observations
+      hint: Technique notes or environmental factors
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: follow_up_status
+      label: Is a follow-up assessment or intervention required?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Immediate
+      - Yes - Routine
+      - false
+      required: true

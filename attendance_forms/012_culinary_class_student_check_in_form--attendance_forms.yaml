@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Culinary Class Student Check In Form
+    pages:
+    - id: 1
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: student_class_name
+      label: student_class_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_workshop_id
+      label: student_workshop_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: student_attendance_status
+      label: student_attendance_status
+      hint: null
+      type: select_one
+      options:
+      - Student attended
+      - Student did not attend
+      - Student partially attended
+      required: false
+    - id: 10
+      name: student_attendance_notes
+      label: student_attendance_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: student_additional_info
+      label: student_additional_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: student_culinary_class_name
+      label: student_culinary_class_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: student_workshop_host
+      label: student_workshop_host
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: workshop_host_name
+      label: workshop_host_name
+      hint: null
+      type: text
+      options: []
+      required: false

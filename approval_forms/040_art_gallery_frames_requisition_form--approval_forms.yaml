@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Gallery Frames Requisition Form
+    pages:
+    - id: 1
+      name: requisition_number
+      label: Requisition number
+      hint: Internal tracking number
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department
+      label: Department requesting frames
+      hint: Curatorial education or exhibitions
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: item_description
+      label: Item description
+      hint: Frame specifications and quantity
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: justification
+      label: Justification for requisition
+      hint: Why frames are required
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: estimated_cost
+      label: Estimated cost
+      hint: Projected expense
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: account_code
+      label: Account code
+      hint: Budget allocation code
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: manager_approval
+      label: Manager approval
+      hint: Manager signature or decision
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: true
+    - id: 8
+      name: procurement_comments
+      label: Procurement comments
+      hint: Procurement team notes
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: delivery_eta
+      label: Delivery ETA
+      hint: Expected arrival date
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: final_approval
+      label: Final approval
+      hint: Director or finance approval
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: true

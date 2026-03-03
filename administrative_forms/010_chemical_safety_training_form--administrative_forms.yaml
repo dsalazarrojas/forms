@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chemical Safety Training Form
+    pages:
+    - id: 1
+      name: training_intro
+      label: -- Chemical Safety Training Form --
+      hint: Record training completion and assessment
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: training_date
+      label: Training date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: training_location
+      label: Training location or method
+      hint: null
+      type: select_one
+      options:
+      - In-person training
+      - Online course
+      - Virtual webinar
+      - Refresher training
+      - Other
+      required: true
+    - id: 8
+      name: trainer_name
+      label: Trainer or instructor name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: training_duration
+      label: Training duration (in hours)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: topics_covered
+      label: Topics covered in training
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Chemical identification
+      - Safety Data Sheets (SDS)
+      - Personal Protective Equipment
+      - Hazard symbols and labels
+      - Spill response procedures
+      - Emergency procedures
+      - Storage and handling
+      - Disposal procedures
+      - Fire prevention
+      required: true
+    - id: 11
+      name: sds_knowledge
+      label: Employee can access and interpret Safety Data Sheets
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Partial understanding
+      required: true
+    - id: 12
+      name: ppe_knowledge
+      label: Employee understands required PPE for different chemicals
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Partial understanding
+      required: true
+    - id: 13
+      name: spill_response
+      label: Employee can respond to chemical spills safely
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Uncertain
+      required: true
+    - id: 14
+      name: emergency_procedures
+      label: Employee knows emergency procedures
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Somewhat
+      required: true
+    - id: 15
+      name: assessment_passed
+      label: Did employee pass assessment?
+      hint: null
+      type: select_one
+      options:
+      - Passed
+      - Failed
+      - Retake scheduled
+      required: true
+    - id: 16
+      name: assessment_score
+      label: Assessment score (if applicable)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: certification_expiration
+      label: Certification expiration date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: refresher_due_date
+      label: Next refresher training due date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: chemical_specific_training
+      label: Specific chemicals handled by employee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: workplace_hazards
+      label: Known workplace hazards
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: questions_concerns
+      label: Any questions or concerns about chemical safety?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: training_acknowledgment
+      label: I acknowledge I have completed this training and understand the material
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 23
+      name: signature_date
+      label: Training completion date
+      hint: null
+      type: date
+      options: []
+      required: true

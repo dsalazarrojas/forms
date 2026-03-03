@@ -1,0 +1,247 @@
+inputSchema:
+  type: object
+  properties:
+    title: Urban Fire Hydrant Inspection Form
+    pages:
+    - id: 1
+      name: firehydrant_id_1
+      label: Fire Hydrant Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address_1
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: building_number_1
+      label: Building Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: street_1
+      label: Street
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: city_1
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: state_1
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - AL
+      - AK
+      - AR
+      - AZ
+      - CA
+      - CO
+      - CT
+      - FL
+      - GA
+      - HI
+      - IA
+      - ID
+      - IL
+      - IN
+      - KS
+      - KY
+      - LA
+      - MA
+      - MD
+      - ME
+      - MI
+      - MN
+      - MO
+      - MS
+      - MT
+      - NC
+      - ND
+      - NE
+      - NH
+      - NJ
+      - NM
+      - NV
+      - NY
+      - OH
+      - OK
+      - OR
+      - PA
+      - RI
+      - SC
+      - SD
+      - TN
+      - TX
+      - UT
+      - VA
+      - VT
+      - WA
+      - WI
+      - WV
+      - WY
+      required: true
+    - id: 7
+      name: zip_1
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_1
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_1
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: firehydrant_status_1
+      label: Fire Hydrant Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Removed
+      - Out of Service
+      required: true
+    - id: 11
+      name: inspector_name_1
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: inspector_email_1
+      label: Inspector Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: inspector_phone_1
+      label: Inspector Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: comments_1
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: photos_1
+      label: Photos
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: signature_1
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: signature_date_1
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: fire_department_1
+      label: Fire Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: district_1
+      label: District
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_1
+      label: Section
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: box_1
+      label: Box
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: hydrant_status_1
+      label: Hydrant Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Removed
+      - Out of Service
+      required: true
+    - id: 23
+      name: firehydrant_1
+      label: Fire Hydrant
+      hint: null
+      type: select_multiple
+      options:
+      - North
+      - South
+      - East
+      - West
+      required: true
+    - id: 24
+      name: hydrant_status_2
+      label: Hydrant Status 2
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Removed
+      - Out of Service
+      required: false
+    - id: 25
+      name: signature_2
+      label: Signature 2
+      hint: null
+      type: text
+      options: []
+      required: false

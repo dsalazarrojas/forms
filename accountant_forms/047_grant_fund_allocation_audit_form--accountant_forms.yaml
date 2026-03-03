@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Grant Fund Allocation Audit Form
+    pages:
+    - id: 1
+      name: form_start
+      label: grant_fund_allocation_audit_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: grant_funding_source
+      label: grant_funding_source
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: fund_allocation_date
+      label: fund_allocation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: grant_funding_amount
+      label: grant_funding_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: grant_allocation_percentage
+      label: grant_allocation_percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: allocated_for_purpose
+      label: allocated_for_purpose
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: fund_usage_status
+      label: fund_usage_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: grant_funding_source_details
+      label: grant_funding_source_details
+      hint: Enter more details about the grant funding source
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: grant_funding_amount_details
+      label: grant_funding_amount_details
+      hint: Enter more details about the grant funding amount
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: total_allocations
+      label: total_allocations
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: grant_allocation_audit_notes
+      label: grant_allocation_audit_notes
+      hint: Enter any audit notes about the grant fund allocations
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_submit_button
+      label: form_submit_button
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Reset
+      required: false

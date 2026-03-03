@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cancellation And Refund Policy Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Full Name
+      hint: Name of the customer
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Customer Email Address
+      hint: Email for policy acknowledgment
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Customer Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: order_number
+      label: Order or Transaction Number
+      hint: Reference number for the order
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: order_date
+      label: Order Date
+      hint: When was the order placed
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: product_service_type
+      label: Product or Service Type
+      hint: What type of purchase
+      type: select_one
+      options:
+      - Physical product
+      - Digital download
+      - Subscription service
+      - One-time service
+      - Event ticket
+      - Course or training
+      - Membership
+      - Other
+      required: true
+    - id: 7
+      name: purchase_amount
+      label: Purchase Amount
+      hint: Total amount paid
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: cancellation_type
+      label: Type of Cancellation
+      hint: What are you cancelling
+      type: select_one
+      options:
+      - Full order cancellation
+      - Partial order cancellation
+      - Service cancellation
+      - Subscription cancellation
+      - Membership cancellation
+      - Event cancellation
+      - Other
+      required: true
+    - id: 9
+      name: cancellation_reason
+      label: Reason for Cancellation
+      hint: Why are you cancelling
+      type: select_one
+      options:
+      - Changed my mind
+      - Found better price
+      - Product not as described
+      - Service not satisfactory
+      - Delivery delay
+      - Personal circumstances
+      - Duplicate order
+      - Other
+      required: true
+    - id: 10
+      name: cancellation_details
+      label: Cancellation Details
+      hint: Please explain your reason
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: refund_requested
+      label: Are You Requesting a Refund
+      hint: Do you want a refund
+      type: select_one
+      options:
+      - Yes - full refund
+      - Yes - partial refund
+      - No - store credit only
+      - No - exchange only
+      - Undecided
+      required: true
+    - id: 12
+      name: refund_amount
+      label: Refund Amount Requested
+      hint: Amount you expect as refund
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: refund_method
+      label: Preferred Refund Method
+      hint: How should refund be processed
+      type: select_one
+      options:
+      - Original payment method
+      - Bank transfer
+      - Store credit
+      - Gift card
+      - Check by mail
+      required: true
+    - id: 14
+      name: product_condition
+      label: Product Condition
+      hint: What is the condition of the item
+      type: select_one
+      options:
+      - Unopened - original packaging
+      - Opened - unused
+      - Used - like new
+      - Used - good condition
+      - Used - fair condition
+      - Damaged or defective
+      - Not applicable - service
+      required: false
+    - id: 15
+      name: return_shipping
+      label: Return Shipping Method
+      hint: How will you return the item
+      type: select_one
+      options:
+      - Will ship myself
+      - Need prepaid label
+      - Will drop off in store
+      - Pickup requested
+      - Not applicable
+      required: false
+    - id: 16
+      name: policy_acknowledgment
+      label: Policy Acknowledgment
+      hint: Have you read our cancellation policy
+      type: select_one
+      options:
+      - Yes - I have read and understand
+      - No - please send me the policy
+      - I have questions
+      required: true
+    - id: 17
+      name: cancellation_fee_acceptance
+      label: Cancellation Fee Acceptance
+      hint: Are you aware of potential fees
+      type: select_one
+      options:
+      - Yes - I accept any applicable fees
+      - No - I need clarification
+      - I dispute the fees
+      required: true
+    - id: 18
+      name: processing_timeframe
+      label: Expected Processing Timeframe
+      hint: How quickly do you need this processed
+      type: select_one
+      options:
+      - Standard - 5 to 7 business days
+      - Expedited - 2 to 3 business days
+      - Urgent - next business day
+      - No rush
+      required: false
+    - id: 19
+      name: communication_preference
+      label: Communication Preference
+      hint: How should we contact you
+      type: select_one
+      options:
+      - Email only
+      - Phone only
+      - Email and phone
+      - Text message
+      - Mail
+      required: true
+    - id: 20
+      name: additional_feedback
+      label: Additional Feedback
+      hint: Any other comments or suggestions
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: terms_accepted
+      label: Terms and Conditions Accepted
+      hint: Do you accept the terms
+      type: select_one
+      options:
+      - Yes - I accept
+      - false
+      required: true
+    - id: 22
+      name: submission_date
+      label: Form Submission Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true

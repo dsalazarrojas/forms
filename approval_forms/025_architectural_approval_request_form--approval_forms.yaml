@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Architectural Approval Request Form
+    pages:
+    - id: 1
+      name: section_property_owner
+      label: -- Property Owner Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: owner_name
+      label: Property Owner Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: owner_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: owner_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_property
+      label: -- Property Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: property_address
+      label: Property Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: property_parcel_number
+      label: Parcel Number or Property ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Single family residence
+      - Multi-family dwelling
+      - Commercial
+      - Mixed use
+      - Other
+      required: true
+    - id: 9
+      name: section_project_details
+      label: -- Project Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: project_description
+      label: Description of Proposed Work
+      hint: What are you planning to do?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: project_type
+      label: Type of Project
+      hint: null
+      type: select_one
+      options:
+      - Addition
+      - Renovation
+      - Exterior modification
+      - Landscaping
+      - Pool or deck
+      - Fence or structure
+      - Roof replacement
+      - Window replacement
+      - Other
+      required: true
+    - id: 12
+      name: project_scope
+      label: Project Scope
+      hint: null
+      type: select_one
+      options:
+      - Minor
+      - Moderate
+      - Major
+      required: true
+    - id: 13
+      name: estimated_cost
+      label: Estimated Project Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: section_design_submission
+      label: -- Design Submission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: architect_designer_name
+      label: Architect or Designer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: design_plans_attached
+      label: Design plans or drawings attached
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: exterior_rendering
+      label: Exterior rendering or elevation
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 18
+      name: materials_description
+      label: Building materials to be used
+      hint: Describe finishes and materials
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_timeline
+      label: -- Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: project_start_date
+      label: Proposed Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: project_completion_date
+      label: Estimated Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: approval_requested_date
+      label: Date Approval Requested
+      hint: null
+      type: date
+      options: []
+      required: true

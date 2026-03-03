@@ -1,0 +1,242 @@
+inputSchema:
+  type: object
+  properties:
+    title: Braces Adjustment Appointment Form
+    pages:
+    - id: 1
+      name: patient_first_name
+      label: First Name
+      hint: Patient first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_last_name
+      label: Last Name
+      hint: Patient last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_phone
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: patient_email
+      label: Email Address
+      hint: For appointment confirmations
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: If patient is a minor
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Contact number for guardian
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: appointment_date
+      label: Requested Appointment Date
+      hint: Preferred date for adjustment
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: appointment_time
+      label: Requested Appointment Time
+      hint: Preferred time
+      type: select_one
+      options:
+      - Morning (8AM-12PM)
+      - Afternoon (12PM-4PM)
+      - After school (4PM-6PM)
+      - Flexible
+      required: true
+    - id: 10
+      name: appointment_type
+      label: Appointment Type
+      hint: Type of adjustment needed
+      type: select_one
+      options:
+      - Regular adjustment
+      - Wire change
+      - Band replacement
+      - Bracket repair
+      - Emergency adjustment
+      - Retainer check
+      required: true
+    - id: 11
+      name: braces_type
+      label: Braces Type
+      hint: What type of braces do you have
+      type: select_one
+      options:
+      - Traditional metal
+      - Ceramic
+      - Lingual
+      - Self-ligating
+      - Clear aligners
+      required: true
+    - id: 12
+      name: months_in_treatment
+      label: Months in Treatment
+      hint: How long have you had braces
+      type: select_one
+      options:
+      - Less than 3 months
+      - 3-6 months
+      - 6-12 months
+      - 1-2 years
+      - Over 2 years
+      required: true
+    - id: 13
+      name: current_issues
+      label: Current Issues
+      hint: Select any problems you are experiencing
+      type: select_multiple
+      options:
+      - None
+      - Loose bracket
+      - Poking wire
+      - Broken band
+      - Pain or discomfort
+      - Difficulty eating
+      - Mouth sores
+      - Lost retainer
+      - Other
+      required: true
+    - id: 14
+      name: pain_level
+      label: Pain Level
+      hint: Rate your current pain level
+      type: select_one
+      options:
+      - No pain
+      - Mild discomfort
+      - Moderate pain
+      - Severe pain
+      required: true
+    - id: 15
+      name: last_adjustment_date
+      label: Last Adjustment Date
+      hint: When was your last appointment
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: oral_hygiene
+      label: Oral Hygiene
+      hint: How would you rate your oral hygiene
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 17
+      name: rubber_band_compliance
+      label: Rubber Band Compliance
+      hint: Are you wearing elastics as directed
+      type: select_one
+      options:
+      - Yes, always
+      - Most of the time
+      - Sometimes
+      - Rarely
+      - Not prescribed
+      required: true
+    - id: 18
+      name: dietary_compliance
+      label: Dietary Compliance
+      hint: Are you avoiding restricted foods
+      type: select_one
+      options:
+      - Yes, always
+      - Mostly
+      - Sometimes
+      - false
+      required: true
+    - id: 19
+      name: special_requests
+      label: Special Requests
+      hint: Any special requests for this appointment
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: reminder_preference
+      label: Reminder Preference
+      hint: How would you like to be reminded
+      type: select_multiple
+      options:
+      - Text message
+      - Email
+      - Phone call
+      - No reminders needed
+      required: true
+    - id: 21
+      name: insurance_verified
+      label: Insurance Verified
+      hint: Has your insurance been verified
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: true
+    - id: 22
+      name: payment_balance
+      label: Payment Balance
+      hint: Do you have an outstanding balance
+      type: select_one
+      options:
+      - No balance
+      - Yes, will pay at appointment
+      - Yes, need payment plan
+      required: true
+    - id: 23
+      name: transportation_needed
+      label: Transportation Needed
+      hint: Do you need transportation assistance
+      type: select_one
+      options:
+      - false
+      - true
+      required: false
+    - id: 24
+      name: office_use_only
+      label: Office Use Only
+      hint: For staff notes
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: confirmation_status
+      label: Confirmation Status
+      hint: Appointment confirmation status
+      type: select_one
+      options:
+      - Pending confirmation
+      - Confirmed
+      - Rescheduled
+      - Cancelled
+      required: true

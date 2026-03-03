@@ -1,0 +1,311 @@
+inputSchema:
+  type: object
+  properties:
+    title: Compliance Knowledge Assessment
+    pages:
+    - id: 1
+      name: assessment_intro
+      label: Compliance Knowledge Assessment
+      hint: Evaluate your understanding of compliance policies and procedures
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: Your employee number
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of assessment
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - Human Resources
+      - Finance
+      - Operations
+      - IT
+      - Legal
+      - Compliance
+      - Sales
+      - Marketing
+      - Customer Service
+      - Other
+      required: true
+    - id: 6
+      name: job_role
+      label: Job Role
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: tenure
+      label: Time with Company
+      hint: How long have you worked here
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6 months to 1 year
+      - 1 to 3 years
+      - 4 to 6 years
+      - Over 6 years
+      required: true
+    - id: 8
+      name: previous_training
+      label: Previous Compliance Training
+      hint: Have you had compliance training
+      type: select_one
+      options:
+      - Yes - within past year
+      - Yes - 1 to 2 years ago
+      - Yes - over 2 years ago
+      - No - never
+      required: true
+    - id: 9
+      name: section_a_intro
+      label: Section A - General Compliance Knowledge
+      hint: Answer questions about general compliance principles
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: q1_compliance_definition
+      label: Question 1 - What is compliance
+      hint: Select the best definition
+      type: select_one
+      options:
+      - Following all laws and regulations
+      - Following company policies only
+      - Avoiding legal trouble
+      - Meeting minimum requirements
+      required: true
+    - id: 11
+      name: q2_reporting_violations
+      label: Question 2 - How should violations be reported
+      hint: Select the correct procedure
+      type: select_one
+      options:
+      - Through designated reporting channels
+      - Only to direct supervisor
+      - Only if certain
+      - Do not report
+      required: true
+    - id: 12
+      name: q3_confidentiality
+      label: Question 3 - What is confidential information
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Any non-public business information
+      - Only customer data
+      - Only financial data
+      - Only employee records
+      required: true
+    - id: 13
+      name: q4_conflict_of_interest
+      label: Question 4 - What is a conflict of interest
+      hint: Select the correct definition
+      type: select_one
+      options:
+      - When personal interests conflict with duty
+      - When you disagree with policy
+      - When work is difficult
+      - When you have multiple tasks
+      required: true
+    - id: 14
+      name: q5_retaliation
+      label: Question 5 - What is retaliation
+      hint: Select the correct definition
+      type: select_one
+      options:
+      - Punishing someone for reporting concerns
+      - Disagreeing with a report
+      - Investigating a complaint
+      - Filing a counter-complaint
+      required: true
+    - id: 15
+      name: section_b_intro
+      label: Section B - Policy Knowledge
+      hint: Answer questions about specific company policies
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: q6_code_of_conduct
+      label: Question 6 - Code of Conduct applies to
+      hint: Who must follow the code
+      type: select_one
+      options:
+      - All employees and contractors
+      - Only management
+      - Only full-time employees
+      - Only customer-facing staff
+      required: true
+    - id: 17
+      name: q7_data_protection
+      label: Question 7 - Data protection requirements apply to
+      hint: What data must be protected
+      type: select_one
+      options:
+      - All personal and business data
+      - Only customer data
+      - Only financial data
+      - Only electronic data
+      required: true
+    - id: 18
+      name: q8_gifts_policy
+      label: Question 8 - What is the gifts policy
+      hint: Select the correct guideline
+      type: select_one
+      options:
+      - Follow company gift guidelines
+      - Accept all gifts
+      - Reject all gifts
+      - Only accept cash gifts
+      required: true
+    - id: 19
+      name: q9_social_media
+      label: Question 9 - Social media guidelines require
+      hint: Select the correct requirement
+      type: select_one
+      options:
+      - Professional and respectful conduct
+      - No social media use
+      - Only personal opinions
+      - No company mentions ever
+      required: true
+    - id: 20
+      name: q10_workplace_safety
+      label: Question 10 - Workplace safety is the responsibility of
+      hint: Who is responsible
+      type: select_one
+      options:
+      - Everyone in the organization
+      - Only safety officers
+      - Only management
+      - Only facilities team
+      required: true
+    - id: 21
+      name: section_c_intro
+      label: Section C - Scenario-Based Questions
+      hint: Apply your knowledge to practical scenarios
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: q11_scenario_gift
+      label: Question 11 - A vendor offers you an expensive gift
+      hint: What do you do
+      type: select_one
+      options:
+      - Decline and report per policy
+      - Accept and keep it private
+      - Accept and tell your manager
+      - Accept and share with team
+      required: true
+    - id: 23
+      name: q12_scenario_data
+      label: Question 12 - You find customer data on a shared drive
+      hint: What do you do
+      type: select_one
+      options:
+      - Report to IT or compliance
+      - Download for your use
+      - Ignore it
+      - Delete it immediately
+      required: true
+    - id: 24
+      name: q13_scenario_conflict
+      label: Question 13 - You have a potential conflict of interest
+      hint: What do you do
+      type: select_one
+      options:
+      - Disclose it per policy
+      - Handle it yourself
+      - Ignore it if minor
+      - Wait to be asked
+      required: true
+    - id: 25
+      name: q14_scenario_harassment
+      label: Question 14 - You witness potential harassment
+      hint: What do you do
+      type: select_one
+      options:
+      - Report through proper channels
+      - Confront the person directly
+      - Ignore if not your business
+      - Tell coworkers only
+      required: true
+    - id: 26
+      name: q15_scenario_deadline
+      label: Question 15 - Meeting a deadline requires cutting corners
+      hint: What do you do
+      type: select_one
+      options:
+      - Follow proper procedures regardless
+      - Cut corners to meet deadline
+      - Ask manager for guidance
+      - Skip documentation only
+      required: true
+    - id: 27
+      name: confidence_level
+      label: Confidence in Your Answers
+      hint: How confident are you
+      type: select_one
+      options:
+      - Very confident
+      - Somewhat confident
+      - Neutral
+      - Somewhat unsure
+      - Very unsure
+      required: true
+    - id: 28
+      name: training_helpful
+      label: Was previous training helpful
+      hint: Rate training effectiveness
+      type: select_one
+      options:
+      - Very helpful
+      - Somewhat helpful
+      - Neutral
+      - Not very helpful
+      - Not applicable
+      required: true
+    - id: 29
+      name: additional_training_needed
+      label: What additional training do you need
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Data privacy
+      - Anti-harassment
+      - Ethics and conduct
+      - Industry regulations
+      - Reporting procedures
+      - None - feel prepared
+      - Other
+      required: false
+    - id: 30
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

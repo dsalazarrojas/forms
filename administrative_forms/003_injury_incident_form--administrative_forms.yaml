@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Injury Incident Form
+    pages:
+    - id: 1
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: injury_type
+      label: Injury Type
+      hint: null
+      type: select_one
+      options:
+      - Musculoskeletal
+      - Traumatic
+      - Exposure
+      - Other
+      required: true
+    - id: 3
+      name: date_occurred
+      label: Date Occurred
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time_occurred
+      label: Time Occurred
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: location_of_injury
+      label: Location of Injury
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: body_part_involved
+      label: Body Part Involved
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: description_injury
+      label: Description of Injury
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: cause_of_injury
+      label: Cause of Injury
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: reporting_person_name
+      label: Reporting Person Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: reporting_person_job_title
+      label: Reporting Person Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reporting_person_relationship_to_injured
+      label: Reporting Person Relationship to Injured
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: witness
+      label: Witness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_attention_required
+      label: Medical Attention Required
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: hospitalization_required
+      label: Hospitalization Required
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: medical_treatment_given
+      label: Medical Treatment Given
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_treatment_given_by
+      label: Medical Treatment Given By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_treatment_cost
+      label: Medical Treatment Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: medical_treatment_date
+      label: Medical Treatment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: medical_treatment_provider
+      label: Medical Treatment Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: days_absent
+      label: Days Absent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: work_status
+      label: Work Status
+      hint: null
+      type: select_one
+      options:
+      - Active Duty
+      - Off Duty
+      - Restricted Duty
+      - Not Work Related
+      - Other
+      required: true
+    - id: 22
+      name: injury_cause_code
+      label: Injury Cause Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: injury_severity_code
+      label: Injury Severity Code
+      hint: null
+      type: select_one
+      options:
+      - Minor
+      - Moderate
+      - Major
+      - Unknown
+      required: true
+    - id: 24
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: supervisor_relationship_to_injured
+      label: Supervisor Relationship to Injured
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: pet_examination_appointment_form
+    pages:
+    - id: 1
+      name: user_input
+      label: pet_examination_form_input
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: examination_notes
+      label: examination_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: veterinarian_signature
+      label: veterinarian_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: veterinarian_name
+      label: veterinarian_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: veterinarian_phone
+      label: veterinarian_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: veterinarian_email
+      label: veterinarian_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: practice_name
+      label: practice_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: practice_address
+      label: practice_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: practice_phone
+      label: practice_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: practice_email
+      label: practice_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: practice_license
+      label: practice_license
+      hint: null
+      type: text
+      options: []
+      required: false

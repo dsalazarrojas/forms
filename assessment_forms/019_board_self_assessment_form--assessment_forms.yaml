@@ -1,0 +1,240 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Board Self Assessment Form
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Respondent Name
+        hint: Your name (optional for anonymous)
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: respondent_role
+        label: Your Role
+        hint: Select your position
+        type: select_one
+        options:
+          - Board Chair
+          - Vice Chair
+          - Secretary
+          - Treasurer
+          - Board Member
+          - Committee Chair
+          - Executive Director
+        required: true
+      - id: 3
+        name: assessment_date
+        label: Assessment Date
+        hint: Date of this assessment
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: years_of_service
+        label: Years of Board Service
+        hint: How long have you served?
+        type: select_one
+        options:
+          - Less than 1 year
+          - 1-2 years
+          - 3-5 years
+          - 6-10 years
+          - More than 10 years
+        required: true
+      - id: 5
+        name: board_composition
+        label: Board Composition
+        hint: Rate the diversity and skills of the board
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 6
+        name: board_leadership
+        label: Board Leadership
+        hint: Rate the effectiveness of board leadership
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 7
+        name: strategic_direction
+        label: Strategic Direction
+        hint: Rate clarity of strategic direction
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 8
+        name: financial_oversight
+        label: Financial Oversight
+        hint: Rate financial monitoring and oversight
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 9
+        name: risk_management
+        label: Risk Management
+        hint: Rate risk identification and management
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 10
+        name: stakeholder_engagement
+        label: Stakeholder Engagement
+        hint: Rate engagement with stakeholders
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 11
+        name: board_staff_relationships
+        label: Board-Staff Relationships
+        hint: Rate working relationship with staff
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 12
+        name: meeting_effectiveness
+        label: Meeting Effectiveness
+        hint: Rate overall meeting effectiveness
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 13
+        name: decision_making
+        label: Decision Making Process
+        hint: Rate the quality of decision-making
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 14
+        name: communication
+        label: Board Communication
+        hint: Rate communication among board members
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 15
+        name: governance_policies
+        label: Governance Policies
+        hint: Rate adequacy of governance policies
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 16
+        name: board_development
+        label: Board Development Opportunities
+        hint: Rate opportunities for board development
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 17
+        name: overall_board_effectiveness
+        label: Overall Board Effectiveness
+        hint: Rate the board as a whole
+        type: select_one
+        options:
+          - 5 - Outstanding
+          - 4 - Exceeds Expectations
+          - 3 - Meets Expectations
+          - 2 - Below Expectations
+          - 1 - Unsatisfactory
+        required: true
+      - id: 18
+        name: board_strengths
+        label: Board Strengths
+        hint: What does the board do well?
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: board_weaknesses
+        label: Board Weaknesses
+        hint: What areas need improvement?
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: priorities_for_improvement
+        label: Priorities for Improvement
+        hint: What should be the focus?
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: additional_recommendations
+        label: Additional Recommendations
+        hint: Any other suggestions
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: system_modeling_knowledge_quiz
+    pages:
+    - id: 1
+      name: user_input
+      label: ประก
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: question_1
+      label: ประก
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: false
+    - id: 3
+      name: question_2
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: question_3
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: question_4
+      label: email
+      hint: example@example.com
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: question_5
+      label: phone
+      hint: '1234567890'
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: question_6
+      label: question_6
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      required: false
+    - id: 8
+      name: question_7
+      label: question_7
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: question_8
+      label: question_8
+      hint: null
+      type: number
+      options: []
+      required: true

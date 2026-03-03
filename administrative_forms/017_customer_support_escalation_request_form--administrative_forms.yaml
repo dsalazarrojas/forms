@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: customer_support_escalation_request_form
+    pages:
+    - id: 1
+      name: form_1
+      label: customer_support_escalation_request_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_2
+      label: escalation_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_3
+      label: customer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_4
+      label: issue_type
+      hint: null
+      type: select_one
+      options:
+      - urgent
+      - critical
+      - informational
+      required: false
+    - id: 5
+      name: form_5
+      label: support_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_6
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_7
+      label: attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_8
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: form_9
+      label: support_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: form_10
+      label: support_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_11
+      label: issue_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: form_12
+      label: issue_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: form_13
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - low
+      - medium
+      - high
+      required: false
+    - id: 14
+      name: form_14
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - administrative
+      - technical
+      - customer_support
+      required: false
+    - id: 15
+      name: form_15
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

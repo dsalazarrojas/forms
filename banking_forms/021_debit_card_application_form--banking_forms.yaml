@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Debit Card Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: card_number
+      label: card_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: expiration_date
+      label: expiration_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: cvv
+      label: cvv
+      hint: null
+      type: select_one
+      options:
+      - '123'
+      - '456'
+      - '789'
+      required: true
+    - id: 9
+      name: cvv_confirmation
+      label: confirm_cvv
+      hint: null
+      type: select_one
+      options:
+      - confirm
+      - do_not_confirm
+      required: true
+    - id: 10
+      name: submitter_signature
+      label: submitter_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submitter_ip
+      label: submitter_ip
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submitter_user_agent
+      label: submitter_user_agent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: submitter_date
+      label: submitter_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: submitter_time
+      label: submitter_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: submitter_host
+      label: submitter_host
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: submitter_os
+      label: submitter_os
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: submitter_browser
+      label: submitter_browser
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: submitter_url
+      label: submitter_url
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: submitter_path
+      label: submitter_path
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: submitter_query_string
+      label: submitter_query_string
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: submitter_referrer
+      label: submitter_referrer
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: submitter_user_agent
+      label: submitter_user_agent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: submitter_ip
+      label: submitter_ip
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: submitter_country
+      label: submitter_country
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submitter_city
+      label: submitter_city
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,265 @@
+inputSchema:
+  type: object
+  properties:
+    title: Biostatistics Assessment Survey
+    pages:
+    - id: 1
+      name: section_respondent_information
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: respondent_email
+      label: Email Address
+      hint: Your email for follow-up
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: respondent_institution
+      label: Institution or University
+      hint: Your academic institution
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: respondent_role
+      label: Your Role
+      hint: What is your position
+      type: select_one
+      options:
+      - Faculty Member
+      - Graduate Student
+      - Undergraduate Student
+      - Researcher
+      - Postdoctoral Fellow
+      - Other
+      required: true
+    - id: 6
+      name: respondent_department
+      label: Department or Field
+      hint: Your department or area of study
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_experience
+      label: -- Biostatistics Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: experience_level
+      label: Biostatistics Experience Level
+      hint: What is your experience with biostatistics
+      type: select_one
+      options:
+      - No Experience
+      - Minimal
+      - Some Experience
+      - Moderate
+      - Advanced
+      - Expert
+      required: true
+    - id: 9
+      name: years_experience
+      label: Years of Experience with Biostatistics
+      hint: Approximately how many years
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: formal_training
+      label: Formal Biostatistics Training
+      hint: Have you received formal training
+      type: select_one
+      options:
+      - None
+      - Workshop Only
+      - Course
+      - Certificate
+      - Degree
+      required: true
+    - id: 11
+      name: section_confidence
+      label: -- Confidence and Competency --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: confidence_statistical_analysis
+      label: Confidence in Statistical Analysis - Rate 1-10
+      hint: How confident are you in statistical analysis
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: confidence_research_design
+      label: Confidence in Research Design - Rate 1-10
+      hint: How confident are you in designing studies
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: confidence_data_interpretation
+      label: Confidence in Data Interpretation - Rate 1-10
+      hint: How confident are you interpreting results
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: confidence_software_use
+      label: Confidence Using Statistical Software - Rate 1-10
+      hint: How confident with software like R or SAS
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: section_skills_assessment
+      label: -- Skills Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: proficiency_descriptive_stats
+      label: Proficiency in Descriptive Statistics
+      hint: Rate your skill level
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 18
+      name: proficiency_inferential_stats
+      label: Proficiency in Inferential Statistics
+      hint: Rate your skill level
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 19
+      name: proficiency_hypothesis_testing
+      label: Proficiency in Hypothesis Testing
+      hint: Rate your skill level
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 20
+      name: proficiency_regression_analysis
+      label: Proficiency in Regression Analysis
+      hint: Rate your skill level
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 21
+      name: section_training_needs
+      label: -- Training Needs and Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: training_topics_interest
+      label: Topics You Want to Learn
+      hint: Select areas of interest
+      type: select_multiple
+      options:
+      - Advanced Regression
+      - Experimental Design
+      - Survival Analysis
+      - Bayesian Methods
+      - Machine Learning
+      - Data Visualization
+      - Software Training
+      required: false
+    - id: 23
+      name: preferred_learning_format
+      label: Preferred Learning Format
+      hint: How do you prefer to learn
+      type: select_one
+      options:
+      - In-Person Workshop
+      - Online Course
+      - Self-Paced Tutorial
+      - Mentoring
+      - Textbook Study
+      required: true
+    - id: 24
+      name: time_commitment
+      label: Available Time for Training
+      hint: How much time can you commit
+      type: select_one
+      options:
+      - Less than 5 hours
+      - 5-10 hours
+      - 10-20 hours
+      - 20-40 hours
+      - 40+ hours
+      required: true
+    - id: 25
+      name: section_resources
+      label: -- Resource Access --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: statistical_software_access
+      label: Which Statistical Software Do You Have Access To
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - R or RStudio
+      - SAS
+      - SPSS
+      - Stata
+      - Python
+      - Other
+      required: false
+    - id: 27
+      name: computational_resources
+      label: Computational Resources Available
+      hint: Rate your access to resources
+      type: select_one
+      options:
+      - Limited
+      - Adequate
+      - Good
+      - Excellent
+      required: true
+    - id: 28
+      name: feedback
+      label: Additional Comments or Suggestions
+      hint: Share any other feedback
+      type: text
+      options: []
+      required: false

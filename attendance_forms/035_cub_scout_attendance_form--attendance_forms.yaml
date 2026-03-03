@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cub Scout Attendance Form
+    pages:
+    - id: 1
+      name: scout_name
+      label: Scout Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: activity_type
+      label: Activity Type
+      hint: null
+      type: select_one
+      options:
+      - Den Meeting
+      - Pack Meeting
+      - Committee Meeting
+      - Council Meeting
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: parent_name
+      label: Parent's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: scout_rank
+      label: Scout Rank
+      hint: null
+      type: select_one
+      options:
+      - 1st
+      - 2nd
+      - 3rd
+      - 5th
+      - 11th
+      - 18th
+      - 19th
+      - 20th
+      - 21st
+      - 22nd
+      required: false
+    - id: 9
+      name: attendance_status
+      label: Attendance Status
+      hint: null
+      type: select_one
+      options:
+      - Present
+      - Absent
+      - Late
+      - Excused
+      required: false
+    - id: 10
+      name: achievements
+      label: Achievements
+      hint: null
+      type: select_multiple
+      options:
+      - Star
+      - Badge
+      - Rank advancement
+      - Other
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

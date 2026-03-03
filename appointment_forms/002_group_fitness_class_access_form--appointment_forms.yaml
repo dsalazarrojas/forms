@@ -1,0 +1,32 @@
+inputSchema:
+  type: object
+  properties:
+    title: Group Fitness Class Access Form
+    pages:
+    - id: 1
+      name: class_selection_page
+      label: Class Selection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: class_dates
+      label: Class Dates
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

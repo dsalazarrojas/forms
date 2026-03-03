@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Filing Checklist Form
+    pages:
+    - id: 1
+      name: income_statement
+      label: Income Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: tax_year
+      label: Tax Year
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: employment_verification
+      label: Employment Verification
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Employed''}'
+      - '{''label'': ''Self-Employed''}'
+      - '{''label'': ''Retired''}'
+      required: true
+    - id: 5
+      name: tax_filing_status
+      label: Tax Filing Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Single''}'
+      - '{''label'': ''Married''}'
+      - '{''label'': ''Head of Household''}'
+      required: true
+    - id: 6
+      name: income_verification
+      label: Income Verification
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''W-2''}'
+      - '{''label'': 1099}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 7
+      name: tax_deduction
+      label: Tax Deduction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: tax_payment
+      label: Tax Payment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: tax_filing_deadline
+      label: Tax Filing Deadline
+      hint: null
+      type: date
+      options: []
+      required: true

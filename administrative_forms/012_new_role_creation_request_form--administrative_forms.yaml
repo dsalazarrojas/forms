@@ -1,0 +1,91 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: New Role Creation Request Form
+    pages:
+    - id: 1
+      name: form_title
+      label: New Role Creation Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Administrative Forms
+      - Human Resources Forms
+      required: false
+    - id: 3
+      name: form_description
+      label: Description
+      hint: A clear and concise description of the new role is required
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_required_skills
+      label: Required Skills
+      hint: List the necessary skills for the new role
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_responsible_department
+      label: Responsible Department
+      hint: Specify the department that will be responsible for this role
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_creation_date
+      label: Creation Date
+      hint: Date the role will be created on
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: form_requester
+      label: Requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_status
+      label: Status
+      hint: Specify the status of the role (Draft, Pending, Active)
+      type: select_one
+      options:
+      - Draft
+      - Pending
+      - Active
+      required: false
+    - id: 9
+      name: form_comment
+      label: Comment
+      hint: Additional information about this role
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: form_output_file
+      label: Output File
+      hint: Specify the output file name
+      type: text
+      options: []
+      required: false

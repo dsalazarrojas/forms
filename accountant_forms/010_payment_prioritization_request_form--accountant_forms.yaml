@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payment Prioritization Request Form
+    pages:
+    - id: 1
+      name: form_1
+      label: Payment Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_2
+      label: Vendor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_4
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: form_5
+      label: Rationale
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_7
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: form_8
+      label: Payment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: form_6
+      label: Urgency
+      hint: null
+      type: select_multiple
+      options:
+      - Urgent
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 8
+      name: form_9
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - In Process
+      - Approved
+      - Rejected
+      required: true
+    - id: 9
+      name: form_10
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: form_11
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: form_12
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

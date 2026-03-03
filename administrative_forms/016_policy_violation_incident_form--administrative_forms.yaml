@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: policy_violation_incident_form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: select_one
+      options:
+      - Location 1
+      - Location 2
+      - Location 3
+      required: false
+    - id: 5
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_multiple
+      options:
+      - Incident Type 1
+      - Incident Type 2
+      - Incident Type 3
+      required: false
+    - id: 6
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - Status 1
+      - Status 2
+      - Status 3
+      required: false
+    - id: 7
+      name: incident_priority
+      label: Incident Priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: incident_reporter
+      label: Incident Reporter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_investigator
+      label: Incident Investigator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_resolution
+      label: Incident Resolution
+      hint: null
+      type: select_one
+      options:
+      - Resolution 1
+      - Resolution 2
+      - Resolution 3
+      required: true
+    - id: 11
+      name: incident_note
+      label: Incident Note
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: witness_statement
+      label: Witness Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_photo
+      label: Incident Photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: incident_video
+      label: Incident Video
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: incident_audio
+      label: Incident Audio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: incident_document
+      label: Incident Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: incident_additional_info
+      label: Incident Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: incident_follow_up
+      label: Incident Follow-up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: incident_resolution_date
+      label: Incident Resolution Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: incident_resolution_time
+      label: Incident Resolution Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: incident_resolution_location
+      label: Incident Resolution Location
+      hint: null
+      type: select_one
+      options:
+      - Resolution Location 1
+      - Resolution Location 2
+      - Resolution Location 3
+      required: false
+    - id: 22
+      name: incident_resolution_type
+      label: Incident Resolution Type
+      hint: null
+      type: select_multiple
+      options:
+      - Resolution Type 1
+      - Resolution Type 2
+      - Resolution Type 3
+      required: false
+    - id: 23
+      name: incident_resolution_status
+      label: Incident Resolution Status
+      hint: null
+      type: select_one
+      options:
+      - Resolution Status 1
+      - Resolution Status 2
+      - Resolution Status 3
+      required: false
+    - id: 24
+      name: incident_resolution_priority
+      label: Incident Resolution Priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: incident_resolution_reporter
+      label: Incident Resolution Reporter
+      hint: null
+      type: text
+      options: []
+      required: false

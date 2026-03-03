@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Compliance Review Appointment Form Template
+    pages:
+    - id: 1
+      name: section_appointment
+      label: -- Appointment Details --
+      hint: Schedule a compliance review appointment
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: Name of person requesting review
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Your department or team
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: preferred_date
+      label: Preferred date
+      hint: Choose preferred appointment date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: preferred_time
+      label: Preferred time
+      hint: Select best time for meeting
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: review_scope
+      label: Review scope
+      hint: What areas should be included in the review
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: documents_to_provide
+      label: Documents to provide
+      hint: List supporting documents or links
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact email
+      hint: Email for appointment confirmation
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: contact_phone
+      label: Contact phone
+      hint: Optional phone number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: special_instructions
+      label: Special instructions
+      hint: Any additional notes for the review team
+      type: text
+      options: []
+      required: false

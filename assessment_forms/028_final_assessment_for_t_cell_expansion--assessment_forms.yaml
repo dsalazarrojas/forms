@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Final Assessment For T Cell Expansion
+    pages:
+    - id: 1
+      name: cell_count
+      label: Cell Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: cell_viability
+      label: Cell Viability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: methods_used
+      label: Methods Used
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Cell Sort''}'
+      - '{2: ''Magnetic Bead Assays''}'
+      - '{3: ''Other (please specify)''}'
+      required: false
+    - id: 4
+      name: observations
+      label: Observations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: cell_expansion_method
+      label: Cell Expansion Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Flow Cytometry''}'
+      - '{2: ''Magnetic Bead Assays''}'
+      - '{3: ''Other (please specify)''}'
+      required: false
+    - id: 6
+      name: cell_expansion_notes
+      label: Cell Expansion Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: cell_expansion_other_method
+      label: Other Cell Expansion Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: cell_expansion_method_specify
+      label: Other Cell Expansion Method (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: cell_expansion_method_other
+      label: Other Cell Expansion Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: cell_expansion_observation
+      label: Cell Expansion Observation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: cell_expansion_viability
+      label: Cell Expansion Viability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: other_notes
+      label: Other Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: output_notes
+      label: Output Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: output_cell_count
+      label: Output Cell Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: output_cell_viability
+      label: Output Cell Viability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: output_cell_viability_range
+      label: Output Cell Viability Range
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''High''}'
+      - '{2: ''Low''}'
+      - '{3: ''Normal''}'
+      required: false
+    - id: 17
+      name: output_other_method
+      label: Output Other Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: output_other_method_specify
+      label: Output Other Method (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: output_other_method_other
+      label: Output Other Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: output_notes
+      label: Output Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: output_observation
+      label: Output Observation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: output_viability
+      label: Output Viability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: output_viability_range
+      label: Output Viability Range
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''High''}'
+      - '{2: ''Low''}'
+      - '{3: ''Normal''}'
+      required: false
+    - id: 24
+      name: output_viability_range_other
+      label: Output Viability Range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: final_assessment
+      label: Final Assessment
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Pass''}'
+      - '{2: ''Fail''}'
+      - '{3: ''Deferred''}'
+      required: false

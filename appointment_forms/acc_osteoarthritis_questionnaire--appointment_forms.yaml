@@ -1,0 +1,240 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: ACC Osteoarthritis Questionnaire
+    pages:
+    - id: 1
+      name: section_header_patient_info
+      label: '--- Patient Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: pet_name
+      label: Pet's name
+      hint: Enter the name of the animal being evaluated
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: owner_name
+      label: Owner's full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: owner_email
+      label: Owner's email address
+      hint: For follow-up communications
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: owner_phone
+      label: Owner's phone number
+      hint: null
+      type: phone
+      options: []
+      required: false
+    - id: 6
+      name: pet_species
+      label: Species
+      hint: null
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Other
+      required: true
+    - id: 7
+      name: pet_breed
+      label: Breed
+      hint: Enter breed or mix if applicable
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: pet_age
+      label: Age (in years)
+      hint: null
+      type: decimal
+      options: []
+      required: true
+    - id: 9
+      name: pet_weight
+      label: Current weight (in kg)
+      hint: null
+      type: decimal
+      options: []
+      required: true
+    - id: 10
+      name: section_header_symptoms
+      label: '--- Osteoarthritis Symptoms Assessment ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: lameness_observed
+      label: Is lameness observed in your pet?
+      hint: null
+      type: select_one
+      options:
+      - Yes, consistently
+      - Yes, occasionally
+      - false
+      - Unsure
+      required: true
+    - id: 12
+      name: affected_limbs
+      label: Which limbs are affected? (Select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Front left
+      - Front right
+      - Hind left
+      - Hind right
+      - Multiple limbs
+      required: false
+    - id: 13
+      name: pain_level
+      label: Rate your pet's apparent pain level (1-10)
+      hint: 1 = no pain, 10 = severe pain
+      type: integer
+      options: []
+      required: true
+    - id: 14
+      name: mobility_issues
+      label: Does your pet have difficulty with any of the following? (Select all
+        that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Going up/down stairs
+      - Jumping onto furniture
+      - Getting in/out of car
+      - Standing up after resting
+      - Walking longer distances
+      - Playing normally
+      required: false
+    - id: 15
+      name: stiffness_duration
+      label: How long does morning stiffness typically last?
+      hint: null
+      type: select_one
+      options:
+      - Less than 10 minutes
+      - 10-30 minutes
+      - More than 30 minutes
+      - Throughout the day
+      - None observed
+      required: true
+    - id: 16
+      name: activity_reduction
+      label: Has your pet's activity level decreased compared to 6 months ago?
+      hint: null
+      type: select_one
+      options:
+      - Significantly decreased
+      - Somewhat decreased
+      - No change
+      - Increased
+      required: true
+    - id: 17
+      name: section_header_treatment_history
+      label: '--- Treatment History ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: previous_diagnosis
+      label: Has your pet been previously diagnosed with osteoarthritis?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Suspected but not confirmed
+      - Unknown
+      required: true
+    - id: 19
+      name: current_medications
+      label: Current medications for joint health/pain (if any)
+      hint: Include dosage and frequency
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: supplement_use
+      label: Are you currently giving supplements (e.g., glucosamine, omega-3)?
+      hint: null
+      type: select_one
+      options:
+      - Yes, regularly
+      - Yes, occasionally
+      - false
+      - Planning to start
+      required: true
+    - id: 21
+      name: physical_therapy
+      label: Has your pet received physical therapy or rehabilitation?
+      hint: null
+      type: select_one
+      options:
+      - Yes, ongoing
+      - Yes, completed
+      - false
+      - Considering
+      required: true
+    - id: 22
+      name: section_header_lifestyle_factors
+      label: '--- Lifestyle Factors ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: exercise_frequency
+      label: How often does your pet get moderate exercise?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Several times per week
+      - Once a week
+      - Rarely
+      - None
+      required: true
+    - id: 24
+      name: home_environment
+      label: Describe your pet's home environment
+      hint: Stairs, slippery floors, outdoor space, etc.
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional comments or concerns
+      hint: Any other information about your pet's condition
+      type: text
+      options: []
+      required: false

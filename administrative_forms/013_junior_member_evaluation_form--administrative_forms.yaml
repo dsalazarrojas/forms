@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Junior Member Evaluation Form
+    pages:
+    - id: 1
+      name: junior_member_evaluation_form
+      label: Junior Member Evaluation Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: junior_member_name
+      label: Junior Member Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: junior_member_title
+      label: Junior Member Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: junior_member_position
+      label: Junior Member Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: evaluation_period_start
+      label: Evaluation Period Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: evaluation_period_end
+      label: Evaluation Period End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: junior_member_performance
+      label: Junior Member Performance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: development_areas
+      label: Development Areas
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: junior_member_signature
+      label: Junior Member Signature
+      hint: null
+      type: text
+      options: []
+      required: false

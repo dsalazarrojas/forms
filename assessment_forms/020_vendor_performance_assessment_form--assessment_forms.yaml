@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Performance Assessment Form
+    pages:
+    - id: 1
+      name: vendor_performance_assessment_form_first_page
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendor_performance_assessment_form_second_page
+      label: second_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: assessment_form_vendor_rating
+      label: vendor_rating
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 4
+      name: assessment_form_vendor_comments
+      label: vendor_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: assessment_form_vendor_notes
+      label: vendor_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: assessment_form_vendor_score
+      label: vendor_score
+      hint: null
+      type: number
+      options: []
+      required: false

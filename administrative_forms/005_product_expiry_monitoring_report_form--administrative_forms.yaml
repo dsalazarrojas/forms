@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Expiry Monitoring Report Form
+    pages:
+    - id: 1
+      name: product_expiry_monitoring_report_form
+      label: Product Expiry Monitoring Report Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Administrative Forms
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_ids
+      label: form_ids
+      hint: null
+      type: number
+      options: []
+      required: false

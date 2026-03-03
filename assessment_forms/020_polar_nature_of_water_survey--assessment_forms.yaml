@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Polar Nature Of Water Survey
+    pages:
+    - id: 1
+      name: water_temperature
+      label: Water Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: water_density
+      label: Water Density
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: water_polarity
+      label: Water Polarity
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      required: false
+    - id: 4
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: Enter student email address
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: other_water_characteristics
+      label: Other Water Characteristics
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: water_taste
+      label: Water Taste
+      hint: null
+      type: select_one
+      options:
+      - Sweet
+      - Salty
+      - Sour
+      - Other
+      required: false
+    - id: 9
+      name: water_odor
+      label: Water Odor
+      hint: null
+      type: select_multiple
+      options:
+      - Clean
+      - Musty
+      - Fishy
+      - Flowery
+      - Other
+      required: false
+    - id: 10
+      name: water_color
+      label: Water Color
+      hint: null
+      type: select_multiple
+      options:
+      - Blue
+      - Clear
+      - Green
+      - Red
+      - Purple
+      - Yellow
+      - Other
+      required: false
+    - id: 11
+      name: water_feeling
+      label: Water Feeling
+      hint: null
+      type: select_multiple
+      options:
+      - Comforting
+      - Refreshing
+      - Invigorating
+      - Refreshing
+      - Other
+      required: false
+    - id: 12
+      name: water_sound
+      label: Water Sound
+      hint: null
+      type: select_one
+      options:
+      - Soothing
+      - Rustling
+      - Gurgling
+      - Other
+      required: false

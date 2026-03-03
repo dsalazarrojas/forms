@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Jewelry Gemologist Referral Form
+    pages:
+    - id: 1
+      name: user_info_form_1
+      label: User Info Form 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: gem_type_form_2
+      label: Gem Type
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Diamond''}'
+      - '{''option2'': ''Gemstone''}'
+      - '{''option3'': ''Other''}'
+      - '{''option4'': ''Pearls''}'
+      required: false
+    - id: 3
+      name: jewelry_info_form_3
+      label: Jewelry Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: jewelry_item_form_4
+      label: Jewelry Item
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: gemologist_info_form_5
+      label: Gemologist Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: gemologist_form_6
+      label: Gemologist
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Jim''}'
+      - '{''option2'': ''Jane''}'
+      - '{''option3'': ''Bob''}'
+      required: false
+    - id: 7
+      name: evaluation_form_7
+      label: Evaluation
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Excellent''}'
+      - '{''option2'': ''Good''}'
+      - '{''option3'': ''Fair''}'
+      - '{''option4'': ''Bad''}'
+      required: false
+    - id: 8
+      name: appraiser_email_form_8
+      label: Appraiser Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: appraiser_phone_form_9
+      label: Appraiser Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: jewelry_referral_form_10
+      label: Jewelry Referral
+      hint: null
+      type: text
+      options: []
+      required: false

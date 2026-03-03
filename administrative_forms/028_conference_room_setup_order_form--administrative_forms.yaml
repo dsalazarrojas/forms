@@ -1,0 +1,249 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Room Setup Order Form
+    pages:
+    - id: 1
+      name: orderer_name
+      label: Orderer Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: room_name
+      label: Room Name
+      hint: Which room
+      type: select_one
+      options:
+      - Conference Room A
+      - Conference Room B
+      - Board Room
+      - Training Room
+      - Auditorium
+      - Meeting Room 1
+      - Meeting Room 2
+      required: true
+    - id: 6
+      name: setup_date
+      label: Setup Date
+      hint: When to setup
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: setup_time
+      label: Setup Time
+      hint: What time
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: event_start
+      label: Event Start Time
+      hint: When event begins
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: event_end
+      label: Event End Time
+      hint: When event ends
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: breakdown_time
+      label: Breakdown Time
+      hint: When to clear room
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: event_type
+      label: Event Type
+      hint: Purpose of event
+      type: select_one
+      options:
+      - Board Meeting
+      - Client Presentation
+      - Training Session
+      - Team Meeting
+      - Interview
+      - Video Conference
+      - Workshop
+      - Reception
+      - Other
+      required: true
+    - id: 12
+      name: event_title
+      label: Event Title
+      hint: Name of event
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: number_of_attendees
+      label: Number of Attendees
+      hint: Expected count
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: table_configuration
+      label: Table Configuration
+      hint: Table arrangement
+      type: select_one
+      options:
+      - Boardroom Rectangle
+      - U-Shape
+      - Hollow Square
+      - Classroom Rows
+      - Theater Style
+      - Banquet Rounds
+      - Cocktail Standing
+      - Empty Room
+      required: true
+    - id: 15
+      name: table_count
+      label: Number of Tables
+      hint: If specific count
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: chair_count
+      label: Number of Chairs
+      hint: Required seating
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: special_chairs
+      label: Special Chair Requirements
+      hint: Executive chairs etc
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: podium_required
+      label: Podium Required
+      hint: Speaking podium
+      type: select_one
+      options:
+      - Yes Please Provide
+      - No Not Needed
+      required: true
+    - id: 19
+      name: stage_required
+      label: Stage or Platform
+      hint: Raised platform
+      type: select_one
+      options:
+      - Yes Required
+      - No Not Needed
+      required: false
+    - id: 20
+      name: stage_dimensions
+      label: Stage Dimensions
+      hint: Size requirements
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: registration_table
+      label: Registration Table
+      hint: At entrance
+      type: select_one
+      options:
+      - Yes Required
+      - No Not Needed
+      required: false
+    - id: 22
+      name: display_tables
+      label: Display Tables
+      hint: For materials
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: linen_color
+      label: Linen Color Preference
+      hint: Table covers
+      type: select_one
+      options:
+      - White
+      - Black
+      - Navy
+      - Burgundy
+      - No Linens Needed
+      required: false
+    - id: 24
+      name: room_dividers
+      label: Room Dividers
+      hint: Partition needs
+      type: select_one
+      options:
+      - Yes Required
+      - No Not Needed
+      required: false
+    - id: 25
+      name: signage_placement
+      label: Signage Placement
+      hint: Where to place signs
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: coat_check
+      label: Coat Check Area
+      hint: For coats and bags
+      type: select_one
+      options:
+      - Yes Required
+      - No Not Needed
+      required: false
+    - id: 27
+      name: special_setup_notes
+      label: Special Setup Notes
+      hint: Detailed instructions
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: contact_onsite
+      label: On-Site Contact
+      hint: Who to reach
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: setup_confirmation
+      label: I Confirm Setup Order Details
+      hint: Verify order
+      type: select_one
+      options:
+      - I Confirm
+      - Need Changes
+      required: true

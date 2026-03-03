@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Imprest Management Form
+    pages:
+    - id: 1
+      name: imprest_form_page
+      label: imprest_form_page
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: account_id
+      label: account_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: account_name
+      label: account_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: accountant
+      label: accountant
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Accountant 1'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Accountant 2'', ''value'': 2}'
+      required: false
+    - id: 8
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Inactive'', ''value'': 2}'
+      required: false
+    - id: 9
+      name: reason_for_inactivity
+      label: reason_for_inactivity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: account_status
+      label: account_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Open'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Closed'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Frozen'', ''value'': 3}'
+      required: false
+    - id: 11
+      name: account_type
+      label: account_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Current'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Savings'', ''value'': 2}'
+      required: false
+    - id: 12
+      name: account_balance
+      label: account_balance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: last_update
+      label: last_update
+      hint: null
+      type: date
+      options: []
+      required: false

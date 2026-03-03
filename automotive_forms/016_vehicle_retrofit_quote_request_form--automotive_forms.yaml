@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Retrofit Quote Request Form
+    pages:
+    - id: 1
+      name: vehicle_retrofit_quote_request_form
+      label: Vehicle Retrofits
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: vehicle_make_model_year
+      label: Vehicle Make Model Year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_trim
+      label: Vehicle Trim
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_year
+      label: Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_kms
+      label: Vehicle Km
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_engine_type
+      label: Engine Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: vehicle_transmission
+      label: Transmission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: vehicle_drive_type
+      label: Drive Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: vehicle_attachment1
+      label: Attachment 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_attachment2
+      label: Attachment 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: customer_contact_preferences
+      label: Contact Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: customer_message
+      label: Customer Message
+      hint: null
+      type: text
+      options: []
+      required: false

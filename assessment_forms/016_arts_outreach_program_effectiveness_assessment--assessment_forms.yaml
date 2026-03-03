@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Arts Outreach Program Effectiveness Assessment
+    pages:
+    - id: 1
+      name: program_identification
+      label: Outreach Program Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participation_date
+      label: Date of Participation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: participant_type
+      label: I participated as a
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Parent/Guardian
+      - Educator
+      - Community Member
+      - Volunteer
+      required: true
+    - id: 4
+      name: activity_satisfaction
+      label: Satisfaction with Program Activities
+      hint: 1 - very dissatisfied, 5 - very satisfied
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: skill_impact
+      label: Impact on your artistic skills or knowledge
+      hint: 1 - no impact, 5 - significant impact
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: community_impact
+      label: Impact on your connection to the community
+      hint: 1 - no impact, 5 - significant impact
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: highlights
+      label: What was the most memorable part of the program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: improvement_suggestions
+      label: How can we improve this outreach program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: recommendation_score
+      label: How likely are you to recommend this program to others
+      hint: 0 - not likely, 10 - very likely
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: follow_up_permission
+      label: May we contact you for a follow-up interview
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 11
+      name: contact_email
+      label: Contact Email
+      hint: Only required if yes selected above
+      type: email
+      options: []
+      required: false

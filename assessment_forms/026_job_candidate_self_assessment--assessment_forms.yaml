@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: job_candidate_self_assessment
+    pages:
+    - id: 1
+      name: job_candidiate_info
+      label: Job Candidiate Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: job_candidate_self_assessment
+      label: Job Candidate Self Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: job title
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: job_type
+      label: job_type
+      hint: null
+      type: select_multiple
+      options:
+      - Job Title
+      - Manager
+      - Team Leader
+      - Team Member
+      required: true
+    - id: 5
+      name: job_status
+      label: job status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: true
+    - id: 6
+      name: work_experience
+      label: work experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: years_of_experience
+      label: years of experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: job_description
+      label: job description
+      hint: null
+      type: text
+      options: []
+      required: false

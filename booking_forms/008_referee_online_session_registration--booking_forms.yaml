@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: Referee Online Session Registration
+    pages:
+    - id: 1
+      name: session_date
+      label: Session Date
+      hint: Select the date for your training session
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: session_time
+      label: Session Time
+      hint: Select the time for your training session
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: referee_name
+      label: Referee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: league_name
+      label: League Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: association_name
+      label: Association Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: region
+      label: Region
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: training_location
+      label: Training Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: referee_details_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: referee_details_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: referee_details_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: referee_details_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: referee_details_licence_id
+      label: Licence ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: referee_details_licence_type
+      label: Licence Type
+      hint: null
+      type: select_one
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      - Other
+      required: false
+    - id: 16
+      name: scheduling_time_slot_1
+      label: Time Slot 1
+      hint: null
+      type: select_one
+      options:
+      - 9:00-10:00
+      - 10:00-11:00
+      required: false
+    - id: 17
+      name: scheduling_time_slot_2
+      label: Time Slot 2
+      hint: null
+      type: select_one
+      options:
+      - 10:00-11:00
+      - 11:00-12:00
+      required: false
+    - id: 18
+      name: scheduling_time_slot_3
+      label: Time Slot 3
+      hint: null
+      type: select_one
+      options:
+      - 11:00-12:00
+      - 12:00-13:00
+      required: false
+    - id: 19
+      name: submission_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: submission_attachments
+      label: Attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submission_terms
+      label: Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      required: false

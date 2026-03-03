@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Golden Rule Award Nomination Form
+    pages:
+    - id: 1
+      name: award_nomination
+      label: Award Nomination
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: nominee
+      label: Nominee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reasons
+      label: Reasons
+      hint: This award is deserved because...
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true

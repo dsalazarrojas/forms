@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Disciplinary Action Amendment Form
+    pages:
+    - id: 1
+      name: disciplinary_action_id
+      label: disciplinary_action_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_amendment
+      label: reason_for_amendment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: action_amended
+      label: action_amended
+      hint: null
+      type: select_one
+      options:
+      - Action Amended
+      - Action Reinstated
+      - Action Cancelled
+      required: false
+    - id: 4
+      name: amended_date
+      label: amended_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: amended_time
+      label: amended_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: user_id
+      label: user_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: user_name
+      label: user_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: updated_by
+      label: updated_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: amended_by
+      label: amended_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: action_date
+      label: action_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: action_time
+      label: action_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: original_action_id
+      label: original_action_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: action_amendment_reason
+      label: action_amendment_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: amended_reason
+      label: amended_reason
+      hint: null
+      type: text
+      options: []
+      required: false

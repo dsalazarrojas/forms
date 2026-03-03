@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Urban Land Use Assessment
+    pages:
+    - id: 1
+      name: parcel_details
+      label: Parcel Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: land_use
+      label: Land Use
+      hint: null
+      type: select_one
+      options:
+      - Urban
+      - Rural
+      - Industrial
+      - Commercial
+      - Residential
+      required: false
+    - id: 3
+      name: zoning_status
+      label: Zoning Status
+      hint: null
+      type: select_multiple
+      options:
+      - Approved
+      - Pending
+      - Denied
+      required: false
+    - id: 4
+      name: parcel_size
+      label: Parcel Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: parcel_observation
+      label: Parcel Observation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Asset Inventory Information Record Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: Business or institution name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: inventory_date
+      label: Inventory Date
+      hint: Date of this inventory count
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: asset_category
+      label: Asset Category
+      hint: Classification of asset
+      type: select_one
+      options:
+      - Computer Equipment
+      - Office Furniture
+      - Machinery
+      - Vehicles
+      - Electronics
+      - Tools
+      - Other Equipment
+      required: true
+    - id: 4
+      name: asset_id_code
+      label: Asset ID Code
+      hint: Unique tracking identifier
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: asset_name
+      label: Asset Name
+      hint: Common name of the asset
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: asset_description
+      label: Asset Description
+      hint: Detailed description
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: manufacturer
+      label: Manufacturer
+      hint: Brand or manufacturer name
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: model_number
+      label: Model Number
+      hint: Model or version
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: serial_number
+      label: Serial Number
+      hint: Unique serial number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: color
+      label: Color
+      hint: Color of asset
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: purchase_date
+      label: Purchase Date
+      hint: Date asset was acquired
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: purchase_price
+      label: Purchase Price
+      hint: Original cost
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: supplier_name
+      label: Supplier Name
+      hint: Where asset was purchased
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: warranty_expiration
+      label: Warranty Expiration Date
+      hint: When warranty expires
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: asset_location
+      label: Current Location
+      hint: Where is asset located?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: assigned_to
+      label: Assigned To (Employee/Department)
+      hint: Who is responsible for this asset?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: asset_condition
+      label: Current Condition
+      hint: How is asset condition?
+      type: select_one
+      options:
+      - Like New
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Needs Repair
+      required: true
+    - id: 18
+      name: maintenance_status
+      label: Maintenance Status
+      hint: Has asset had regular maintenance?
+      type: select_one
+      options:
+      - Up to Date
+      - Due for Maintenance
+      - Recently Serviced
+      - Needs Inspection
+      - Not Applicable
+      required: true
+    - id: 19
+      name: last_maintenance_date
+      label: Last Maintenance Date
+      hint: When was last service?
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: asset_status
+      label: Asset Status
+      hint: Current status
+      type: select_one
+      options:
+      - In Use
+      - Standby
+      - Under Repair
+      - Retired
+      - Disposed
+      - Missing
+      required: true
+    - id: 21
+      name: estimated_remaining_life
+      label: Estimated Remaining Useful Life (years)
+      hint: How many more years of use?
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: book_value
+      label: Current Book Value
+      hint: Depreciated value
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: notes
+      label: Additional Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: inventory_checked_by
+      label: Inventory Checked By
+      hint: Name of person conducting inventory
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: verification_date
+      label: Verification Date
+      hint: Date inventory was verified
+      type: date
+      options: []
+      required: true

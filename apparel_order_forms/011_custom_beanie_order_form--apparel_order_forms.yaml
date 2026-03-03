@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Custom Beanie Order Form
+    pages:
+    - id: 1
+      name: custom_beanie_order_form
+      label: Beanie Color
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: custom_beanie_order_form_size
+      label: Beanie Size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: beanie_type
+      label: Beanie Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: beanie_color
+      label: Beanie Color
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: custom_beanie_order_form_quantity
+      label: Quantity
+      hint: Enter the number of beanies you'd like to order
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: beanie_message
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_email
+      label: Email
+      hint: Enter customer email
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: customer_phone_number
+      label: Phone Number
+      hint: Enter customer phone number
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Preparation Quote Request
+    pages:
+    - id: 1
+      name: tax_preparation_quote_request_form_1
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tax_preparation_quote_request_form_2
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: tax_return_type
+      label: Tax Return Type
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Business
+      - Non-resident
+      - Partnership
+      - Corporate
+      - Trust
+      required: false
+    - id: 5
+      name: tax_year
+      label: Tax Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: tax_return_frequency
+      label: Tax Return Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Annual
+      - Bi-Annual
+      - Quarterly
+      - Monthly
+      - As Needed
+      required: false
+    - id: 7
+      name: service_level
+      label: Service Level
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Deluxe
+      - Premium
+      required: false
+    - id: 8
+      name: additional_services
+      label: Additional Services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: tax_return_frequency_other
+      label: Other Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: service_level_other
+      label: Other Service Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: tax_return_frequency_other
+      label: Other Tax Return Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: confirm_tax_return_date
+      label: Confirm Tax Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: confirm_tax_return_time
+      label: Confirm Tax Return Time
+      hint: null
+      type: time
+      options: []
+      required: false

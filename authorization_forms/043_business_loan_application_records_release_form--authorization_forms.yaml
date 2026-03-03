@@ -1,0 +1,72 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Loan Application Records Release Form
+    pages:
+      - id: 1
+        name: header
+        label: -- Records Release Authorization --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: applicant_name
+        label: Applicant name
+        hint: Name of loan applicant
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: lender_name
+        label: Lender name
+        hint: Institution requesting records
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: records_to_release
+        label: Records to release
+        hint: Specify which records may be released
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: release_purpose
+        label: Release purpose
+        hint: Reason for releasing the records
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: expiration_date
+        label: Expiration date
+        hint: Date the authorization expires
+        type: date
+        options: []
+        required: false
+      - id: 7
+        name: contact_email
+        label: Contact email
+        hint: For confirmation of record release
+        type: email
+        options: []
+        required: true
+      - id: 8
+        name: signature_instructions
+        label: Signature instructions
+        hint: How to provide a valid signature
+        type: text
+        options: []
+        required: false

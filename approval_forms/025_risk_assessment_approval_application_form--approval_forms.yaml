@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Risk Assessment Approval Application Form
+    pages:
+    - id: 1
+      name: risk_assessment
+      label: Risk Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: severity
+      label: Severity
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 3
+      name: mitigation_plan
+      label: Mitigation Plan
+      hint: Briefly describe the steps you will take to mitigate the identified risk
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: risk_owners
+      label: Risk Owners
+      hint: null
+      type: select_multiple
+      options:
+      - Owner 1
+      - Owner 2
+      - Owner 3
+      required: false
+    - id: 5
+      name: internal_approval_date
+      label: Internal Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: internal_approved_by
+      label: Internal Approved By
+      hint: null
+      type: select_one
+      options:
+      - Approver 1
+      - Approver 2
+      - Approver 3
+      required: false
+    - id: 7
+      name: risk_status
+      label: Risk Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Resolved
+      - Closed
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - Team 1
+      - Team 2
+      - Team 3
+      required: false
+    - id: 11
+      name: email_to
+      label: Email To
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Attendance Registration C 19
+    pages:
+    - id: 1
+      name: header_service_info
+      label: -- Service Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendance_date
+      label: Date of Attendance
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: service_time
+      label: Service Time
+      hint: null
+      type: select_one
+      options:
+      - 8:00 AM
+      - 10:30 AM
+      - 6:00 PM Midweek
+      required: true
+    - id: 4
+      name: header_contact_info
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: attendee_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: household_count
+      label: Number of people in your household attending
+      hint: Including yourself
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: header_health_screening
+      label: -- Health Screening --
+      hint: For the safety of our congregation
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: symptom_check
+      label: Are you currently experiencing any symptoms?
+      hint: e.g., Fever, cough, shortness of breath
+      type: select_one
+      options:
+      - No Symptoms
+      - Yes - I have symptoms
+      required: true
+    - id: 11
+      name: exposure_check
+      label: Have you been exposed to someone with a confirmed case recently?
+      hint: null
+      type: select_one
+      options:
+      - No Exposure
+      - Yes - Known Exposure
+      required: true
+    - id: 12
+      name: travel_check
+      label: Have you traveled internationally in the last 14 days?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 13
+      name: safety_agreement
+      label: I agree to follow all safety protocols including mask-wearing
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 14
+      name: contact_tracing_consent
+      label: I consent to my info being used for contact tracing if needed
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: additional_needs
+      label: Do you have any special seating or accessibility needs?
+      hint: null
+      type: text
+      options: []
+      required: false

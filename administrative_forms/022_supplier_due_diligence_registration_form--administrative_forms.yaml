@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supplier Due Diligence Registration Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: supplier_info
+      label: Supplier Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address_info
+      label: Address Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: business_info
+      label: Business Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: tax_id
+      label: Tax ID
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: business_type
+      label: Business Type
+      hint: null
+      type: select_one
+      options:
+      - Small Business
+      - Medium Business
+      - Large Business
+      required: false
+    - id: 8
+      name: supplier_category
+      label: Supplier Category
+      hint: null
+      type: select_one
+      options:
+      - Domestic
+      - International
+      - Online
+      required: false
+    - id: 9
+      name: business_status
+      label: Business Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false

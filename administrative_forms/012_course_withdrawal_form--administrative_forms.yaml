@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Course Withdrawal Form
+    pages:
+    - id: 1
+      name: enrollment_info
+      label: Enrollment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_data
+      label: Student Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_status
+      label: Student Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: withdrawal_info
+      label: Withdrawal Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: academic_term
+      label: Academic Term
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: session
+      label: Session
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,243 @@
+inputSchema:
+  type: object
+  properties:
+    title: Compensatory Time Off Request Form
+    pages:
+    - id: 1
+      name: request_date
+      label: Request Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: Your employee identification number
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - Human Resources
+      - Finance
+      - Marketing
+      - Sales
+      - Operations
+      - IT
+      - Customer Service
+      - Legal
+      - Other
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: Your current position
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: manager_name
+      label: Manager Name
+      hint: Your direct supervisor
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: manager_email
+      label: Manager Email
+      hint: Supervisor email address
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: overtime_date
+      label: Date of Overtime Worked
+      hint: When did you work extra hours
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: overtime_reason
+      label: Reason for Overtime
+      hint: Why was overtime needed
+      type: select_one
+      options:
+      - Project deadline
+      - Emergency situation
+      - Staff shortage coverage
+      - Special event
+      - Client request
+      - System maintenance
+      - Other business need
+      required: true
+    - id: 10
+      name: overtime_details
+      label: Overtime Details
+      hint: Describe the work performed
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: overtime_hours
+      label: Overtime Hours Worked
+      hint: Number of extra hours
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: overtime_start_time
+      label: Overtime Start Time
+      hint: When did extra work begin
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: overtime_end_time
+      label: Overtime End Time
+      hint: When did extra work end
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: comp_time_requested
+      label: Compensatory Time Requested
+      hint: Hours of time off requested
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: comp_time_start_date
+      label: Comp Time Start Date
+      hint: When time off begins
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: comp_time_end_date
+      label: Comp Time End Date
+      hint: When you return to work
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: comp_time_type
+      label: Type of Time Off
+      hint: How will you take the time
+      type: select_one
+      options:
+      - Full day
+      - Half day
+      - Hourly increments
+      - Multiple days
+      required: true
+    - id: 18
+      name: comp_time_hours_total
+      label: Total Comp Time Hours Available
+      hint: Your current comp time balance
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: coverage_arranged
+      label: Is Coverage Arranged
+      hint: Who will cover your duties
+      type: select_one
+      options:
+      - Yes - coverage confirmed
+      - Yes - pending confirmation
+      - No - not needed
+      - No - need assistance
+      required: true
+    - id: 20
+      name: coverage_person
+      label: Person Covering
+      hint: Name of covering colleague
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: urgent_tasks_status
+      label: Status of Urgent Tasks
+      hint: How are urgent tasks handled
+      type: select_one
+      options:
+      - All completed before leave
+      - Delegated to team
+      - Will handle remotely
+      - Can wait until return
+      required: true
+    - id: 22
+      name: contact_during_time_off
+      label: Availability During Time Off
+      hint: Will you be reachable
+      type: select_one
+      options:
+      - Fully available
+      - Available for emergencies
+      - Limited availability
+      - Completely unavailable
+      required: true
+    - id: 23
+      name: previous_comp_time
+      label: Previous Comp Time Used This Year
+      hint: How much comp time already used
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: expiration_concern
+      label: Is Time Expiring Soon
+      hint: Use it or lose it concern
+      type: select_one
+      options:
+      - Yes - expires soon
+      - No - no expiration
+      - Not sure
+      required: true
+    - id: 25
+      name: manager_approval
+      label: Manager Approval
+      hint: For manager use only
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending review
+      - More information needed
+      required: false
+    - id: 26
+      name: manager_comments
+      label: Manager Comments
+      hint: Any notes from manager
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: hr_approval
+      label: HR Approval
+      hint: For HR use only
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: false
+    - id: 28
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

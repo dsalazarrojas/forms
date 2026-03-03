@@ -1,0 +1,191 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Bio Publication Consent Form
+    pages:
+      - id: 1
+        name: athlete_name
+        label: Athlete Full Name
+        hint: First and last name as it should appear
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: athlete_id
+        label: Athlete ID Number
+        hint: Student or team identification number
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: date_of_birth
+        label: Date of Birth
+        hint: MM-DD-YYYY format
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: sport
+        label: Sport
+        hint: Primary sport participated in
+        type: select_one
+        options:
+          - Football
+          - Basketball
+          - Soccer
+          - Track and Field
+          - Swimming
+          - Volleyball
+          - Baseball
+          - Softball
+          - Tennis
+          - Golf
+          - Other
+        required: true
+      - id: 5
+        name: team_level
+        label: Team Level
+        hint: Competition level
+        type: select_one
+        options:
+          - Varsity
+          - Junior Varsity
+          - Freshman
+          - Club Team
+          - Professional
+        required: true
+      - id: 6
+        name: position
+        label: Primary Position
+        hint: Main position or event
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: year_in_school
+        label: Year in School
+        hint: Current academic year
+        type: select_one
+        options:
+          - Freshman
+          - Sophomore
+          - Junior
+          - Senior
+          - Graduate Student
+          - Not Applicable
+        required: false
+      - id: 8
+        name: hometown
+        label: Hometown
+        hint: City and state
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: high_school
+        label: High School Attended
+        hint: Name of high school
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: career_highlights
+        label: Career Highlights
+        hint: List major achievements, records, or awards
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: academic_achievements
+        label: Academic Achievements
+        hint: GPA, honors, academic awards
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: extracurricular_activities
+        label: Extracurricular Activities
+        hint: Clubs, volunteer work, leadership roles
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: future_goals
+        label: Future Goals
+        hint: Athletic or career aspirations
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: photo_consent
+        label: Photo Publication Consent
+        hint: Do you consent to having your photo published with your bio
+        type: select_one
+        options:
+          - Yes - I Consent
+          - No - I Do Not Consent
+        required: true
+      - id: 15
+        name: publication_channels
+        label: Approved Publication Channels
+        hint: Where can your bio be published
+        type: select_multiple
+        options:
+          - Team Website
+          - Social Media
+          - Print Programs
+          - Press Releases
+          - School Newspaper
+          - Local Media
+          - League Website
+        required: true
+      - id: 16
+        name: consent_duration
+        label: Consent Duration
+        hint: How long is this consent valid
+        type: select_one
+        options:
+          - Current Season Only
+          - One Year
+          - Until Graduation
+          - Indefinitely
+        required: true
+      - id: 17
+        name: parent_guardian_name
+        label: Parent or Guardian Name
+        hint: Required if athlete is under 18
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: parent_guardian_signature
+        label: Parent or Guardian Signature
+        hint: Type full name as signature
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: athlete_signature
+        label: Athlete Signature
+        hint: Type full name as signature
+        type: text
+        options: []
+        required: true
+      - id: 20
+        name: consent_date
+        label: Date of Consent
+        hint: Date this form is signed
+        type: date
+        options: []
+        required: true

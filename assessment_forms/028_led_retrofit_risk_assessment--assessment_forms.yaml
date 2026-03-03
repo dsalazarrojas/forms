@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: LED Retrofit Risk Assessment
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: risks
+      label: Risks
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Moderate
+      - High
+      required: true
+    - id: 3
+      name: mitigation_strategies
+      label: Mitigation Strategies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_notes
+      label: Project Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: electrical_contractor_info
+      label: Electrical Contractor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: electrical_contractor_info_name
+      label: Electrical Contractor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: electrical_contractor_info_company
+      label: Electrical Contractor Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: electrical_contractor_info_contact
+      label: Electrical Contractor Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: electrical_contractor_info_address
+      label: Electrical Contractor Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: electrical_contractor_notes
+      label: Electrical Contractor Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: project_location
+      label: Project Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: client_notes
+      label: Client Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: electrical_contractor_notes
+      label: Electrical Contractor Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false

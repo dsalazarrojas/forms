@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Traffic Violation Incident Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: violation_description
+      label: Violation Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_registration_number
+      label: Vehicle Registration Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_maked
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: violation_type
+      label: Violation Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: driver_name
+      label: Driver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_color
+      label: Vehicle Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: plate_number
+      label: Plate Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false

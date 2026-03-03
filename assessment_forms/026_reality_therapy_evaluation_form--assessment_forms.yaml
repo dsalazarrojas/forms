@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reality Therapy Evaluation Form
+    pages:
+    - id: 1
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: therapist_name
+      label: Therapist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: client_relationship
+      label: Client Relationship
+      hint: null
+      type: select_one
+      options:
+      - Parent-Child
+      - Friend
+      - Partner
+      required: false
+    - id: 5
+      name: session_duration
+      label: Session Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: rating_scale_1
+      label: Rating Scale 1
+      hint: 1-5
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: rating_scale_2
+      label: Rating Scale 2
+      hint: 1-5
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: rating_scale_3
+      label: Rating Scale 3
+      hint: 1-5
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_planning
+      label: Follow-up Planning
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: evaluation_time
+      label: Evaluation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: false

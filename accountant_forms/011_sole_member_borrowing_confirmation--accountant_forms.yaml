@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sole Member Borrowing Confirmation
+    pages:
+    - id: 1
+      name: sole_member_borrowing_confirmation
+      label: sole_member_borrowing_confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: entity_name
+      label: entity_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: approval_date
+      label: approval_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: purpose
+      label: purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: signatures
+      label: signatures
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - I confirm I have reviewed and agree with the terms
+      - I do not confirm
+      - Other (please specify)
+      required: true
+    - id: 8
+      name: other_consent
+      label: other_consent
+      hint: null
+      type: select_multiple
+      options:
+      - Other (please specify)
+      - Other (please specify)
+      required: true

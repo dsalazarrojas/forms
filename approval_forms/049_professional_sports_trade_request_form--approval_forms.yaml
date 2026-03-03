@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Professional Sports Trade Request Form
+    pages:
+    - id: 1
+      name: trade_request_form
+      label: Trade Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: player_id
+      label: Player ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: team_requesting
+      label: Team Requesting
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: position
+      label: Position
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: trade_type
+      label: Trade Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: trade_status
+      label: Trade Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: date_of_trade
+      label: Date of Trade
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_of_trade
+      label: Time of Trade
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: trade_details
+      label: Trade Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: league_staff
+      label: League Staff
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: trade_comments
+      label: Trade Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 14
+      name: trade_request_date
+      label: Trade Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: trade_request_time
+      label: Trade Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: trade_requester
+      label: Trade Requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: trade_requester_phone
+      label: Trade Requester Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: review_notes
+      label: Review Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 20
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: review_time
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: review_comment
+      label: Review Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: review_status_details
+      label: Review Status Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: approval_comments
+      label: Approval Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volleyball Player Evaluation Form
+    pages:
+    - id: 1
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: coach_name
+      label: Coach's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: evaluation_result
+      label: Evaluation Result
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 6
+      name: evaluation_reason
+      label: Evaluation Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: player_rating
+      label: Player Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: player_position
+      label: Player Position
+      hint: null
+      type: select_multiple
+      options:
+      - Setter
+      - Opposite
+      - Middle Blocker
+      - Libero
+      - Outside Hitter
+      required: true
+    - id: 13
+      name: player_height
+      label: Player Height
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: player_weight
+      label: Player Weight
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: player_age
+      label: Player Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: player_experience
+      label: Player Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: player_colleges_attended
+      label: Colleges Attended
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: player_high_school_graduated
+      label: High School Graduated
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - None of the above
+      required: false
+    - id: 19
+      name: player_college_graduated
+      label: College Graduated
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - None of the above
+      required: false
+    - id: 20
+      name: player_signed_with
+      label: Signed with
+      hint: null
+      type: select_multiple
+      options:
+      - Pro
+      - College
+      - High School
+      - None
+      required: false
+    - id: 21
+      name: evaluation_completed
+      label: Evaluation Completed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 22
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: coach_signature
+      label: Coach's Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: assistant_coach_signature
+      label: Assistant Coach's Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: evaluator_signature
+      label: Evaluator's Signature
+      hint: null
+      type: text
+      options: []
+      required: true

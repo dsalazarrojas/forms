@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: fashion_order_form
+    pages:
+    - id: 1
+      name: products
+      label: select products
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

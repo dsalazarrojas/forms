@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Self Assessment Recommendation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: years_of_service
+      label: Years of Service
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: evaluation_period
+      label: Evaluation Period
+      hint: null
+      type: select_one
+      options:
+      - Six Months
+      - Twelve Months
+      - Sixty Months
+      - Ninety Days
+      required: false
+    - id: 9
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: Provide feedback on what you have accomplished this evaluation period
+        and what you would like to see for the next evaluation period.
+      type: text
+      options: []
+      required: false

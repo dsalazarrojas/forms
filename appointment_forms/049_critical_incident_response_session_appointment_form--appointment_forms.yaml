@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Critical Incident Response Session Appointment Form
+    pages:
+    - id: 1
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: critical_incident_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Open'', ''label'': ''Open''}'
+      - '{''value'': ''In Progress'', ''label'': ''In Progress''}'
+      - '{''value'': ''Closed'', ''label'': ''Closed''}'
+      required: false
+    - id: 4
+      name: incident_date_start
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: incident_date_end
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: critical_incident_category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: critical_incident_responders
+      label: Responders
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Team'', ''label'': ''Team''}'
+      - '{''value'': ''Individual'', ''label'': ''Individual''}'
+      - '{''value'': ''Both'', ''label'': ''Both''}'
+      required: false
+    - id: 8
+      name: session_start_time
+      label: Session Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: session_duration
+      label: Session Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: critical_incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Natural Disaster'', ''label'': ''Natural Disaster''}'
+      - '{''value'': ''Man-made'', ''label'': ''Man-made''}'
+      - '{''value'': ''Both'', ''label'': ''Both''}'
+      required: false
+    - id: 11
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: session_location
+      label: Session Location
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Virtual'', ''label'': ''Virtual''}'
+      - '{''value'': ''In Person'', ''label'': ''In Person''}'
+      required: false

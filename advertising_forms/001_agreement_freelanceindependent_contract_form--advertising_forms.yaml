@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agreement - FreelanceIndependent Contract Form
+    pages:
+    - id: 1
+      name: contractor_name
+      label: Contractor Name
+      hint: Full legal name of the contractor
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contractor_address
+      label: Contractor Address
+      hint: Mailing address for the contractor
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contractor_email
+      label: Contractor Email
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contractor_phone
+      label: Contractor Phone
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: client_name
+      label: Client Name
+      hint: Full legal name of the client
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: project_description
+      label: Project Description
+      hint: detailed description of services to be provided
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: start_date
+      label: Start Date
+      hint: Date work will commence
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: end_date
+      label: End Date
+      hint: Expected completion date
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: payment_amount
+      label: Payment Amount
+      hint: Total agreed compensation
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: payment_terms
+      label: Payment Terms
+      hint: When payment is due
+      type: select_one
+      options:
+      - Net 15
+      - Net 30
+      - Upon Receipt
+      - 50% Upfront
+      required: true
+    - id: 11
+      name: services_provided
+      label: Services Provided
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Marketing Strategy
+      - SEO Services
+      - Content Creation
+      - Social Media Management
+      - Graphic Design
+      - Email Marketing
+      required: true
+    - id: 12
+      name: confidentiality_agreement
+      label: Confidentiality Agreement
+      hint: Do you agree to keep client information confidential?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: termination_notice
+      label: Termination Notice Period
+      hint: e.g. 14 days
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: signature_placeholder
+      label: Contractor Signature
+      hint: Please type your full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: date_signed
+      label: Date Signed
+      hint: Date of signature
+      type: date
+      options: []
+      required: true

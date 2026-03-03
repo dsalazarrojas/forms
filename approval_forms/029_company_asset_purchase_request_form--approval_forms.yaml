@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Company Asset Purchase Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester full name
+      hint: Employee requesting the purchase
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department
+      label: Department
+      hint: Department requesting the asset
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: asset_description
+      label: Asset description
+      hint: Describe the item to be purchased
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: justification
+      label: Business justification
+      hint: Explain why the asset is required
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: estimated_cost
+      label: Estimated cost
+      hint: Include currency
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: vendor_preference
+      label: Vendor preference
+      hint: Preferred supplier if any
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: approval_required_from
+      label: Approval required from
+      hint: Manager or finance approver
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: priority_level
+      label: Priority level
+      hint: Indicate urgency of the request
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false

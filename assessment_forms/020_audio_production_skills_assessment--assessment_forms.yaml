@@ -1,0 +1,233 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audio Production Skills Assessment
+    pages:
+    - id: 1
+      name: candidate_full_name
+      label: Candidate Full Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: candidate_email
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: candidate_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: current_location
+      label: Current Location
+      hint: City and state or country
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of this assessment
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: years_of_experience
+      label: Years of Experience
+      hint: Total years in audio production
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-2 years
+      - 3-5 years
+      - 6-10 years
+      - Over 10 years
+      required: true
+    - id: 7
+      name: primary_role
+      label: Primary Role
+      hint: Your main role in audio production
+      type: select_one
+      options:
+      - Audio Engineer
+      - Music Producer
+      - Sound Designer
+      - Mixing Engineer
+      - Mastering Engineer
+      - Live Sound Engineer
+      - Post-Production Engineer
+      - Other
+      required: true
+    - id: 8
+      name: recording_experience
+      label: Recording Experience
+      hint: Rate your recording experience
+      type: select_one
+      options:
+      - Expert
+      - Advanced
+      - Intermediate
+      - Beginner
+      - No experience
+      required: true
+    - id: 9
+      name: mixing_experience
+      label: Mixing Experience
+      hint: Rate your mixing experience
+      type: select_one
+      options:
+      - Expert
+      - Advanced
+      - Intermediate
+      - Beginner
+      - No experience
+      required: true
+    - id: 10
+      name: mastering_experience
+      label: Mastering Experience
+      hint: Rate your mastering experience
+      type: select_one
+      options:
+      - Expert
+      - Advanced
+      - Intermediate
+      - Beginner
+      - No experience
+      required: true
+    - id: 11
+      name: daw_proficiency
+      label: DAW Proficiency
+      hint: Which DAWs are you proficient in?
+      type: select_multiple
+      options:
+      - Pro Tools
+      - Logic Pro
+      - Ableton Live
+      - Cubase
+      - Studio One
+      - Reaper
+      - FL Studio
+      - Adobe Audition
+      required: true
+    - id: 12
+      name: plugin_knowledge
+      label: Plugin Knowledge
+      hint: Rate your knowledge of audio plugins
+      type: select_one
+      options:
+      - Expert
+      - Advanced
+      - Intermediate
+      - Beginner
+      required: true
+    - id: 13
+      name: microphone_techniques
+      label: Microphone Techniques
+      hint: Rate your microphone technique knowledge
+      type: select_one
+      options:
+      - Expert
+      - Advanced
+      - Intermediate
+      - Beginner
+      required: true
+    - id: 14
+      name: signal_flow_understanding
+      label: Signal Flow Understanding
+      hint: Rate your understanding of signal flow
+      type: select_one
+      options:
+      - Expert
+      - Advanced
+      - Intermediate
+      - Beginner
+      required: true
+    - id: 15
+      name: acoustic_treatment_knowledge
+      label: Acoustic Treatment Knowledge
+      hint: Rate your knowledge of acoustic treatment
+      type: select_one
+      options:
+      - Expert
+      - Advanced
+      - Intermediate
+      - Beginner
+      required: true
+    - id: 16
+      name: live_sound_experience
+      label: Live Sound Experience
+      hint: Rate your live sound experience
+      type: select_one
+      options:
+      - Expert
+      - Advanced
+      - Intermediate
+      - Beginner
+      - No experience
+      required: true
+    - id: 17
+      name: post_production_experience
+      label: Post-Production Experience
+      hint: Rate your post-production experience
+      type: select_one
+      options:
+      - Expert
+      - Advanced
+      - Intermediate
+      - Beginner
+      - No experience
+      required: true
+    - id: 18
+      name: certification_held
+      label: Certifications Held
+      hint: Do you hold any audio certifications?
+      type: select_one
+      options:
+      - Yes, Pro Tools certified
+      - Yes, other certification
+      - No certifications
+      - Currently pursuing
+      required: true
+    - id: 19
+      name: portfolio_available
+      label: Portfolio Available
+      hint: Do you have a portfolio of work?
+      type: select_one
+      options:
+      - Yes, will provide link
+      - Yes, attached
+      - No, but can provide samples
+      - No portfolio
+      required: true
+    - id: 20
+      name: portfolio_link
+      label: Portfolio Link
+      hint: URL to your portfolio or work samples
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: availability
+      label: Availability
+      hint: What is your availability?
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Freelance
+      - Project-based
+      required: true
+    - id: 22
+      name: career_goals
+      label: Career Goals
+      hint: Briefly describe your career goals
+      type: text
+      options: []
+      required: false

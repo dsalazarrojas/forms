@@ -1,0 +1,87 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Prescription Form
+    pages:
+    - id: 1
+      name: pet_info
+      label: pet info
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''dog''}'
+      - '{''label'': ''cat''}'
+      - '{''label'': ''other''}'
+      required: false
+    - id: 2
+      name: owner_info
+      label: owner info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vet_info
+      label: vet info
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Dr. Smith''}'
+      - '{''label'': ''Dr. Johnson''}'
+      required: false
+    - id: 4
+      name: treatment_info
+      label: treatment info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''vaccination''}'
+      - '{''label'': ''medication''}'
+      - '{''label'': ''lab_test''}'
+      required: false
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: owner_signature
+      label: owner signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vet_signature
+      label: vet signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false

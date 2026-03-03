@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Rescue Initiative Extension Form
+    pages:
+    - id: 1
+      name: applicant_full_name
+      label: Applicant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: home_type
+      label: Home Type
+      hint: null
+      type: select_one
+      options:
+      - House
+      - Apartment or Condo
+      - Townhouse
+      - Farm or Rural Property
+      - Other
+      required: true
+    - id: 5
+      name: outdoor_space
+      label: Yard or Outdoor Space Type
+      hint: null
+      type: select_one
+      options:
+      - Fully Fenced Yard
+      - Partially Fenced Yard
+      - Unfenced Yard
+      - No Yard - Balcony only
+      - No Yard - Common areas only
+      required: true
+    - id: 6
+      name: current_pets
+      label: Current Pets in Home
+      hint: List species and ages
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: rescue_experience
+      label: Previous Experience with Rescues or Fostering
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: foster_species_preference
+      label: Preferred Animal Species for Fostering
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Dogs
+      - Cats
+      - Small Mammals - Rabbits, Hamsters
+      - Reptiles and Amphibians
+      - Birds
+      required: true
+    - id: 9
+      name: max_foster_capacity
+      label: Maximum Number of Foster Animals at One Time
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: emergency_foster_availability
+      label: Availability for Emergency or Short-term Fostering
+      hint: null
+      type: select_one
+      options:
+      - Yes - Available on short notice
+      - No - Only scheduled placements
+      required: true
+    - id: 11
+      name: inspection_agreement
+      label: Agreement to Initial Home Inspection
+      hint: null
+      type: select_one
+      options:
+      - Yes - I agree to a home visit
+      - No - I do not agree
+      required: true

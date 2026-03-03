@@ -1,0 +1,79 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Comprehensive Education Assessment
+    pages:
+      - id: 1
+        name: section_student_information
+        label: -- Student Information --
+        hint: Basic student details for the assessment
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: student_name
+        label: Student name
+        hint: Full name of learner
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: student_id
+        label: Student id
+        hint: School or program identifier
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: assessment_date
+        label: Assessment date
+        hint: Date of the assessment
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: subject_area
+        label: Subject area
+        hint: e.g., Mathematics, Science, Writing
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: competency_levels
+        label: Competency levels
+        hint: Rate competencies using provided scale
+        type: select_one
+        options: [Advanced, Proficient, Basic, Below basic]
+        required: true
+      - id: 7
+        name: evidence_collected
+        label: Evidence collected
+        hint: Describe evidence or attach links
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: teacher_comments
+        label: Teacher comments
+        hint: Observations and recommendations
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: recommended_support
+        label: Recommended support
+        hint: Interventions or resources to support learning
+        type: text
+        options: []
+        required: false

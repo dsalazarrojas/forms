@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adaptive Underwear Order Form
+    pages:
+    - id: 1
+      name: --customer_information
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer name
+      hint: Full name for shipping
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: shipping_address
+      label: Shipping address
+      hint: Full street city state postal code
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: size
+      label: Size
+      hint: Select the appropriate size
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - Custom
+      required: true
+    - id: 6
+      name: color_choice
+      label: Color choice
+      hint: Preferred color for order
+      type: select_one
+      options:
+      - Black
+      - White
+      - Nude
+      - Gray
+      required: false
+    - id: 7
+      name: quantity
+      label: Quantity
+      hint: Number of units
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: adaptive_features
+      label: Adaptive features required
+      hint: Describe fasteners closures or modifications
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: billing_method
+      label: Billing method
+      hint: Payment option for this order
+      type: select_one
+      options:
+      - Credit card
+      - Invoice
+      - PayPal
+      required: true
+    - id: 10
+      name: special_instructions
+      label: Special instructions for fulfillment
+      hint: Any tailoring or packaging preferences
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: plant_care_workshop_appointment_form
+    pages:
+    - id: 1
+      name: workshop_date
+      label: Workshop Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: workshop_start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: workshop_end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: workshop_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: workshop_duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: participant_count
+      label: Participant Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_terms
+      label: Participant Terms
+      hint: null
+      type: select_one
+      options:
+      - option 1
+      - option 2
+      - option 3
+      - option 4
+      required: false
+    - id: 11
+      name: workshop_details
+      label: Workshop Details
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Language Assessment Form
+    pages:
+    - id: 1
+      name: employee_language_assessment_form_1
+      label: language_proficiency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: employee_language_abilities
+      label: language_abilities
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: employee_communication_skills
+      label: communication_skills
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: employee_dialects
+      label: dialects_spoken
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: employee_native_language
+      label: native_language
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: employee_language_level
+      label: language_level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 7
+      name: employee_language_assessment_form_comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: employee_native_language_spoken
+      label: native_language_spoken
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

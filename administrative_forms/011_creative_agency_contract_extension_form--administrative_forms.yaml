@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Creative Agency Contract Extension Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contract_id
+      label: Contract Id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contract_type
+      label: Contract Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: agency_terms
+      label: Agency Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: client_terms
+      label: Client Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contract_status
+      label: Contract Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 11
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 13
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contract_start_time
+      label: Contract Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: contract_end_time
+      label: Contract End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: client_address
+      label: Client Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: agency_address
+      label: Agency Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Paid
+      required: false

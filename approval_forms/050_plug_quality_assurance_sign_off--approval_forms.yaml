@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Plug Quality Assurance Sign Off
+    pages:
+    - id: 1
+      name: plug_quality_assurance_sign_off_form
+      label: Plug Quality Assurance Sign Off Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: plug_quality_assurance_sign_off_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: plug_quality_assurance_sign_off_inspector
+      label: Inspector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: plug_quality_assurance_sign_off_plug_id
+      label: Plug ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: plug_quality_assurance_sign_off_status
+      label: Status
+      hint: Pass/Fail
+      type: select_one
+      options:
+      - '{''label'': ''Pass''}'
+      - '{''label'': ''Fail''}'
+      required: false
+    - id: 6
+      name: plug_quality_assurance_sign_off_comments
+      label: Comments
+      hint: Additional comments
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: plug_quality_assurance_sign_off_approver
+      label: Approver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: plug_quality_assurance_sign_off_approvement_date
+      label: Date of Approvement
+      hint: null
+      type: date
+      options: []
+      required: false

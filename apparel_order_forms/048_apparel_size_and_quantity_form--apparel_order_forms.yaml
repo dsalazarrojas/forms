@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Apparel Size And Quantity Form
+    pages:
+    - id: 1
+      name: order_ref
+      label: Order Reference Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_full_name
+      label: Client or Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: garment_item_name
+      label: Item Name / Description
+      hint: e.g. Staff Uniform T-Shirt
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: size_breakdown_header
+      label: -- Size and Quantity Breakdown --
+      hint: Enter the number of units for each size
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: qty_small
+      label: Size Small Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: qty_medium
+      label: Size Medium Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: qty_large
+      label: Size Large Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: qty_xl
+      label: Size XL Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: qty_xxl
+      label: Size XXL Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: total_quantity_confirm
+      label: Total Number of Items (Manual Confirmation)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: special_size_notes
+      label: Special Size Requirements or Custom Fits
+      hint: e.g. Tall sizes or specific measurements
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: request_submission_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true

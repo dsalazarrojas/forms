@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Step Hazard Assessment
+    pages:
+    - id: 1
+      name: hazard_rating
+      label: Hazard rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: stairway_condition
+      label: Stairway condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 3
+      name: hazard_description
+      label: Hazard description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: action_plan
+      label: Action Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: facility_location
+      label: Facility Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: completed_date
+      label: Date completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: completed_by
+      label: Completed by
+      hint: null
+      type: text
+      options: []
+      required: false

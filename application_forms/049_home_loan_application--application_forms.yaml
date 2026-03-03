@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Loan Application
+    pages:
+    - id: 1
+      name: borrower_info
+      label: Borrower Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: loan_details
+      label: Loan Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employment_info
+      label: Employment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: income_info
+      label: Income Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: loan_term
+      label: Loan Term
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: property_value
+      label: Property Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: loan_type
+      label: Loan Type
+      hint: null
+      type: select_one
+      options:
+      - Fixed
+      - Variable
+      - Adjustable
+      required: false
+    - id: 9
+      name: loan_term_years
+      label: Loan Term in Years
+      hint: null
+      type: select_multiple
+      options:
+      - '5'
+      - '10'
+      - '15'
+      - '20'
+      - '25'
+      required: false
+    - id: 10
+      name: loan_interest_rate
+      label: Loan Interest Rate
+      hint: null
+      type: select_one
+      options:
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      required: false
+    - id: 11
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Primary Residence
+      - Vacation Home
+      - Investment
+      - Second Home
+      required: false
+    - id: 12
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: loan_date
+      label: Loan Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: employment_start_date
+      label: Employment Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: credit_score
+      label: Credit Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: property_type_2
+      label: Property Type 2
+      hint: null
+      type: select_one
+      options:
+      - Primary Residence
+      - Vacation Home
+      - Investment
+      - Second Home
+      required: false

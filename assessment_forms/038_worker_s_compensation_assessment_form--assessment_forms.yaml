@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workers Compensation Assessment Form
+    pages:
+    - id: 1
+      name: injury_details
+      label: Injury Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_info
+      label: Employee Info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: claimant_info
+      label: Claimant Info
+      hint: null
+      type: select_one
+      options:
+      - Claimant 1
+      - Claimant 2
+      required: false
+    - id: 4
+      name: claim_details
+      label: Claim Details
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: workplace_info
+      label: Workplace Info
+      hint: null
+      type: select_multiple
+      options:
+      - Workplace 1
+      - Workplace 2
+      required: false
+    - id: 7
+      name: injury_type
+      label: Injury Type
+      hint: null
+      type: select_one
+      options:
+      - Injury 1
+      - Injury 2
+      - Injury 3
+      required: false
+    - id: 8
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_one
+      options:
+      - Status 1
+      - Status 2
+      required: false
+    - id: 9
+      name: employee_contact
+      label: Employee Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: claimant_contact
+      label: Claimant Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: witness_info
+      label: Witness Info
+      hint: null
+      type: select_multiple
+      options:
+      - Witness 1
+      - Witness 2
+      required: false
+    - id: 12
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: select_multiple
+      options:
+      - Location 1
+      - Location 2
+      required: false
+    - id: 13
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: medical_info
+      label: Medical Info
+      hint: null
+      type: select_multiple
+      options:
+      - Medical 1
+      - Medical 2
+      required: false
+    - id: 15
+      name: work_status
+      label: Work Status
+      hint: null
+      type: select_one
+      options:
+      - Status 1
+      - Status 2
+      required: false
+    - id: 16
+      name: claimant_work_status
+      label: Claimant Work Status
+      hint: null
+      type: select_one
+      options:
+      - Status 1
+      - Status 2
+      required: false
+    - id: 17
+      name: medical_report
+      label: Medical Report
+      hint: null
+      type: select_multiple
+      options:
+      - Report 1
+      - Report 2
+      required: false
+    - id: 18
+      name: claimant_medical_status
+      label: Claimant Medical Status
+      hint: null
+      type: select_multiple
+      options:
+      - Status 1
+      - Status 2
+      required: false
+    - id: 19
+      name: claimant_injury_info
+      label: Claimant Injury Info
+      hint: null
+      type: select_multiple
+      options:
+      - Info 1
+      - Info 2
+      required: false
+    - id: 20
+      name: claimant_return_to_work
+      label: Claimant Return to Work
+      hint: null
+      type: select_one
+      options:
+      - Status 1
+      - Status 2
+      required: false
+    - id: 21
+      name: claimant_medical_info
+      label: Claimant Medical Info
+      hint: null
+      type: select_multiple
+      options:
+      - Info 1
+      - Info 2
+      required: false
+    - id: 22
+      name: supervisor_info
+      label: Supervisor Info
+      hint: null
+      type: select_multiple
+      options:
+      - Info 1
+      - Info 2
+      required: false
+    - id: 23
+      name: claimant_supervisor_info
+      label: Claimant Supervisor Info
+      hint: null
+      type: select_multiple
+      options:
+      - Info 1
+      - Info 2
+      required: false
+    - id: 24
+      name: claimant_work_hours
+      label: Claimant Work Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: claimant_work_location
+      label: Claimant Work Location
+      hint: null
+      type: select_multiple
+      options:
+      - Location 1
+      - Location 2
+      required: false

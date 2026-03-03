@@ -1,0 +1,172 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Club Health Assessment
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: respondent_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: member_tenure
+      label: How Long Have You Been a Member
+      hint: null
+      type: select_one
+      options:
+      - Less Than 3 Months
+      - 3-6 Months
+      - 6-12 Months
+      - 1-2 Years
+      - 2-5 Years
+      - 5+ Years
+      required: true
+    - id: 5
+      name: engagement_level
+      label: Overall Engagement Level
+      hint: How engaged are you in club activities
+      type: select_one
+      options:
+      - Not Engaged
+      - Minimally Engaged
+      - Moderately Engaged
+      - Highly Engaged
+      - Very Highly Engaged
+      required: true
+    - id: 6
+      name: communication_rating
+      label: Club Communication Effectiveness
+      hint: Rate how well club communicates
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 7
+      name: inclusion_rating
+      label: Sense of Belonging and Inclusion
+      hint: Do you feel included in the club
+      type: select_one
+      options:
+      - Very Excluded
+      - Somewhat Excluded
+      - Neutral
+      - Somewhat Included
+      - Very Included
+      required: true
+    - id: 8
+      name: leadership_effectiveness
+      label: Leadership Effectiveness
+      hint: Rate the leadership
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: false
+    - id: 9
+      name: diversity_inclusion
+      label: Diversity and Inclusion in Club
+      hint: Does club welcome diverse perspectives
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 10
+      name: safety_feeling
+      label: Feel Safe and Respected
+      hint: Do you feel safe in club activities
+      type: select_one
+      options:
+      - Very Unsafe
+      - Somewhat Unsafe
+      - Neutral
+      - Somewhat Safe
+      - Very Safe
+      required: true
+    - id: 11
+      name: event_quality
+      label: Quality of Club Events
+      hint: Rate the events organized
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: false
+    - id: 12
+      name: member_retention
+      label: Likely to Continue Membership
+      hint: Will you stay in the club
+      type: select_one
+      options:
+      - Definitely Not
+      - Probably Not
+      - Unsure
+      - Probably Yes
+      - Definitely Yes
+      required: true
+    - id: 13
+      name: recommend_club
+      label: Would You Recommend to Others
+      hint: null
+      type: select_one
+      options:
+      - Definitely Not
+      - Probably Not
+      - Unsure
+      - Probably Yes
+      - Definitely Yes
+      required: true
+    - id: 14
+      name: biggest_concerns
+      label: Biggest Concerns or Issues
+      hint: What could be improved
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: suggestions
+      label: Suggestions for Club Improvement
+      hint: Your ideas for improvement
+      type: text
+      options: []
+      required: false

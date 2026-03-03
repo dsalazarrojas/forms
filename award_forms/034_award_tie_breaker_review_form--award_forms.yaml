@@ -1,0 +1,154 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Award Tie Breaker Review Form
+    pages:
+      - id: 1
+        name: section_reviewer_info
+        label: -- Reviewer and Award Context --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: reviewer_name
+        label: Reviewer Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: reviewer_email
+        label: Reviewer Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: award_context_name
+        label: Award Name
+        hint: Which award is being tied?
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: award_category_context
+        label: Award Category
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: section_candidates
+        label: -- Tied Candidates --
+        hint: Provide the names of the individuals tied for the award
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: candidate_a_name
+        label: Candidate A Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: candidate_b_name
+        label: Candidate B Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: candidate_c_name
+        label: Candidate C Full Name
+        hint: If applicable
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: section_tie_breaker_criteria
+        label: -- Tie-Breaker Criteria --
+        hint: Select which candidate excels in each area
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: criteria_impact
+        label: Social Impact and Contribution
+        hint: Who has the highest measurable impact?
+        type: select_one
+        options:
+          - Candidate A
+          - Candidate B
+          - Candidate C
+        required: true
+      - id: 12
+        name: criteria_innovation
+        label: Level of Innovation
+        hint: Who showed the most creativity or novelty?
+        type: select_one
+        options:
+          - Candidate A
+          - Candidate B
+          - Candidate C
+        required: true
+      - id: 13
+        name: criteria_professionalism
+        label: Professionalism and Leadership
+        hint: null
+        type: select_one
+        options:
+          - Candidate A
+          - Candidate B
+          - Candidate C
+        required: true
+      - id: 14
+        name: candidate_a_narrative
+        label: Narrative Review for Candidate A
+        hint: Summarize their strengths and weaknesses
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: candidate_b_narrative
+        label: Narrative Review for Candidate B
+        hint: Summarize their strengths and weaknesses
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: final_recommendation
+        label: Final Selection for Award
+        hint: Your ultimate choice for the winner
+        type: select_one
+        options:
+          - Candidate A
+          - Candidate B
+          - Candidate C
+        required: true
+      - id: 17
+        name: final_choice_reason
+        label: Reason for Final Choice
+        hint: Why did you pick this candidate over the other(s)?
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: review_date_tie
+        label: Date of Review
+        hint: null
+        type: date
+        options: []
+        required: true

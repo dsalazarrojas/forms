@@ -1,0 +1,226 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Band Practice Attendance Form
+    pages:
+      - id: 1
+        name: practice_date
+        label: Practice Date
+        hint: Date of this practice session
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: practice_time
+        label: Practice Time
+        hint: Start time
+        type: time
+        options: []
+        required: true
+      - id: 3
+        name: practice_location
+        label: Practice Location
+        hint: Where is practice held
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: band_name
+        label: Band Name
+        hint: Name of the band
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: member_name
+        label: Member Name
+        hint: Your name
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: member_role
+        label: Your Role
+        hint: Instrument or position
+        type: select_one
+        options:
+          - Lead Vocals
+          - Guitar
+          - Bass
+          - Drums
+          - Keyboards
+          - Saxophone
+          - Trumpet
+          - Violin
+          - Manager
+          - Sound Engineer
+        required: true
+      - id: 7
+        name: attendance_status
+        label: Attendance Status
+        hint: Will you attend
+        type: select_one
+        options:
+          - Present
+          - Absent
+          - Late
+          - Left Early
+          - Excused Absence
+        required: true
+      - id: 8
+        name: arrival_time
+        label: Actual Arrival Time
+        hint: What time did you arrive
+        type: time
+        options: []
+        required: false
+      - id: 9
+        name: departure_time
+        label: Departure Time
+        hint: What time did you leave
+        type: time
+        options: []
+        required: false
+      - id: 10
+        name: preparedness
+        label: Preparedness Level
+        hint: How prepared were you
+        type: select_one
+        options:
+          - Very Prepared
+          - Somewhat Prepared
+          - Not Prepared
+          - Did Not Practice
+        required: true
+      - id: 11
+        name: material_practiced
+        label: Material Practiced
+        hint: Songs or exercises worked on
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: goals_achieved
+        label: Goals Achieved
+        hint: Did you accomplish practice goals
+        type: select_one
+        options:
+          - All Goals Met
+          - Most Goals Met
+          - Some Goals Met
+          - No Goals Met
+        required: true
+      - id: 13
+        name: areas_needing_work
+        label: Areas Needing Work
+        hint: What needs improvement
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: equipment_brought
+        label: Equipment Brought
+        hint: Instruments and gear
+        type: select_multiple
+        options:
+          - Main Instrument
+          - Amplifier
+          - Cables
+          - Pedals
+          - Music Stand
+          - Sheet Music
+          - Recording Device
+          - None
+        required: true
+      - id: 15
+        name: equipment_issues
+        label: Equipment Issues
+        hint: Any problems with gear
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: participation_level
+        label: Participation Level
+        hint: How engaged were you
+        type: select_one
+        options:
+          - Very Active
+          - Moderately Active
+          - Somewhat Passive
+          - Not Engaged
+        required: true
+      - id: 17
+        name: collaboration_rating
+        label: Collaboration Rating
+        hint: How well did you work with others
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 18
+        name: suggestions_for_band
+        label: Suggestions for the Band
+        hint: Ideas for improvement
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: next_practice_availability
+        label: Next Practice Availability
+        hint: Can you make the next practice
+        type: select_one
+        options:
+          - Definitely Available
+          - Probably Available
+          - Unsure
+          - Probably Not
+          - Definitely Not
+        required: true
+      - id: 20
+        name: practice_duration
+        label: Practice Duration
+        hint: How long was the session
+        type: select_one
+        options:
+          - Less than 1 hour
+          - 1-2 hours
+          - 2-3 hours
+          - 3-4 hours
+          - Over 4 hours
+        required: true
+      - id: 21
+        name: notes_from_practice
+        label: Notes from Practice
+        hint: Important takeaways
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: homework_assigned
+        label: Homework Assigned
+        hint: What to practice before next time
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: conductor_leader_name
+        label: Conductor or Leader Name
+        hint: Who led this practice
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,230 @@
+inputSchema:
+  type: object
+  properties:
+    title: Attorney Performance Assessment
+    pages:
+    - id: 1
+      name: evaluation_information
+      label: -- Evaluation Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: evaluation_date
+      label: Evaluation Date
+      hint: Date of this assessment
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: evaluation_period_start
+      label: Evaluation Period Start
+      hint: Beginning of review period
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: evaluation_period_end
+      label: Evaluation Period End
+      hint: End of review period
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: reviewer_name
+      label: Reviewer Name
+      hint: Name of evaluating partner or manager
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: attorney_information
+      label: -- Attorney Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: attorney_name
+      label: Attorney Name
+      hint: Full name of attorney being reviewed
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: bar_number
+      label: Bar Number
+      hint: State bar number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: position_title
+      label: Position Title
+      hint: Current role and level
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: years_with_firm
+      label: Years With Firm
+      hint: How long employed here?
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: practice_areas
+      label: Practice Areas
+      hint: Primary areas of practice
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: legal_competence
+      label: -- Legal Competence --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: legal_knowledge
+      label: Legal Knowledge and Expertise
+      hint: Rate legal knowledge
+      type: select_one
+      options:
+      - Exceptional
+      - Strong
+      - Satisfactory
+      - Needs Improvement
+      - Unsatisfactory
+      required: true
+    - id: 14
+      name: research_skills
+      label: Legal Research and Analysis Skills
+      hint: Quality of legal research
+      type: select_one
+      options:
+      - Exceptional
+      - Strong
+      - Satisfactory
+      - Needs Improvement
+      - Unsatisfactory
+      required: true
+    - id: 15
+      name: writing_quality
+      label: Writing Quality
+      hint: Quality of legal writing
+      type: select_one
+      options:
+      - Exceptional
+      - Strong
+      - Satisfactory
+      - Needs Improvement
+      - Unsatisfactory
+      required: true
+    - id: 16
+      name: client_relationships
+      label: -- Client Relationships --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: client_service
+      label: Client Service and Communication
+      hint: Rate client interaction skills
+      type: select_one
+      options:
+      - Exceptional
+      - Strong
+      - Satisfactory
+      - Needs Improvement
+      - Unsatisfactory
+      required: true
+    - id: 18
+      name: client_satisfaction
+      label: Client Satisfaction
+      hint: Based on feedback received
+      type: select_one
+      options:
+      - Exceptional
+      - Strong
+      - Satisfactory
+      - Needs Improvement
+      - Unsatisfactory
+      required: true
+    - id: 19
+      name: professional_conduct
+      label: Professional Conduct and Ethics
+      hint: Adherence to ethical standards
+      type: select_one
+      options:
+      - Exceptional
+      - Strong
+      - Satisfactory
+      - Needs Improvement
+      - Unsatisfactory
+      required: true
+    - id: 20
+      name: business_development
+      label: Business Development
+      hint: Client development and rainmaking
+      type: select_one
+      options:
+      - Exceptional
+      - Strong
+      - Satisfactory
+      - Needs Improvement
+      - N/A
+      required: false
+    - id: 21
+      name: case_management
+      label: Case and Matter Management
+      hint: Handling of cases and deadlines
+      type: select_one
+      options:
+      - Exceptional
+      - Strong
+      - Satisfactory
+      - Needs Improvement
+      - Unsatisfactory
+      required: true
+    - id: 22
+      name: teamwork_collaboration
+      label: Teamwork and Collaboration
+      hint: Working with colleagues
+      type: select_one
+      options:
+      - Exceptional
+      - Strong
+      - Satisfactory
+      - Needs Improvement
+      - Unsatisfactory
+      required: true
+    - id: 23
+      name: strengths
+      label: Key Strengths
+      hint: Primary strengths demonstrated
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: development_areas
+      label: Areas for Development
+      hint: Skills to improve
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: overall_rating
+      label: Overall Performance Rating
+      hint: Final overall rating
+      type: select_one
+      options:
+      - Exceptional
+      - Strong
+      - Satisfactory
+      - Needs Improvement
+      - Unsatisfactory
+      required: true

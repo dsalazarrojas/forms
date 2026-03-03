@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Noise Violation Complaint Form
+    pages:
+    - id: 1
+      name: address_label
+      label: address_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address_city
+      label: address_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address_state
+      label: address_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address_zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: noise_type
+      label: noise_type
+      hint: null
+      type: select_one
+      options:
+      - '{''Noise'': ''Noise from an event''}'
+      - '{''Noise'': ''Construction''}'
+      - '{''Noise'': ''Music/Loud Party''}'
+      - '{''Other'': ''Other''}'
+      required: false
+    - id: 8
+      name: noise_start_date
+      label: noise_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: noise_start_time
+      label: noise_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: noise_end_date
+      label: noise_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: noise_end_time
+      label: noise_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: noise_duration
+      label: duration
+      hint: null
+      type: select_one
+      options:
+      - Less than 15 minutes
+      - 15-30 minutes
+      - 30-60 minutes
+      - 60-120 minutes
+      - More than 2 hours
+      required: false
+    - id: 13
+      name: noise_violation_repeat
+      label: noise_violation_repeat
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: photo_url
+      label: photo_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: report_repeat
+      label: report_repeat
+      hint: null
+      type: select_one
+      options:
+      - First time I am reporting this incident
+      - This is the second time I am reporting this incident
+      - This is the third time I am reporting this incident
+      - More than three times I am reporting this incident
+      required: false
+    - id: 16
+      name: noise_violation_id
+      label: noise_violation_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false

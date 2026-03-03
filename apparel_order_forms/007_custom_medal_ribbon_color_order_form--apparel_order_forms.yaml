@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Custom Medal Ribbon Color Order Form
+    pages:
+    - id: 1
+      name: medal_ribbon_color_choices
+      label: Select Medal Ribbon Colors
+      hint: null
+      type: select_multiple
+      options:
+      - Black
+      - Red
+      - Blue
+      - Green
+      - Yellow
+      required: false
+    - id: 2
+      name: medal_ribbon_quantities
+      label: Ribbon Quantities
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: shipping_details
+      label: Shipping Info
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: payment_details
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: custom_fields_1
+      label: Custom Fields 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: custom_fields_2
+      label: Custom Fields 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: custom_fields_3
+      label: Custom Fields 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: custom_fields_4
+      label: Custom Fields 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Stripe
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false

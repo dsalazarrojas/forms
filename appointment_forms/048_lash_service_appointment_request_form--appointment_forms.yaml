@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lash Service Appointment Request Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_number
+      label: Client Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Lash Services
+      - Lash Lifts
+      - Lash Treatments
+      required: true
+    - id: 4
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: appointment_duration
+      label: Appointment Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: lash_technician
+      label: Lash Technician
+      hint: null
+      type: select_one
+      options:
+      - Technician 1
+      - Technician 2
+      - Technician 3
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: confirm_email_sent
+      label: Has Sent Confirmation Email
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: confirm_sms_sent
+      label: Has Sent SMS Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: confirm_sms_received
+      label: Has Received SMS Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 14
+      name: confirm_appointment_confirmed
+      label: Has Confirmed Appointment
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
+      name: cancel_appointment
+      label: Has Cancelled Appointment
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 16
+      name: reschedule_appointment
+      label: Reschedule Appointment
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 17
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 18
+      name: staff_signature
+      label: Staff Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 19
+      name: staff_notes
+      label: Staff Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 20
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Online Payment
+      - Cash
+      - Check
+      required: true
+    - id: 21
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      required: true
+    - id: 22
+      name: confirm_payment
+      label: Has Confirmed Payment
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 23
+      name: confirm_payment_sent
+      label: Has Sent Payment Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 24
+      name: confirm_payment_received
+      label: Has Received Payment Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 25
+      name: confirm_client_informed_of_payment
+      label: Has Informed Client of Payment Status
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

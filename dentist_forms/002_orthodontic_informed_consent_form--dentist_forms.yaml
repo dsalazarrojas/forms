@@ -1,0 +1,203 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Orthodontic Informed Consent Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_contact_info
+      label: Patient Contact Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: treatment_terms
+      label: Treatment Terms
+      hint: null
+      type: select_one
+      options:
+      - Acceptance of the treatment terms and conditions of this orthodontic procedure
+      - Refusal of the treatment terms and conditions of this orthodontic procedure
+      required: true
+    - id: 4
+      name: signature
+      label: Signature
+      hint: null
+      type: select_multiple
+      options:
+      - Signature of the Patient
+      - Signature of the Parent or Guardian
+      required: true
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: procedure_details
+      label: Procedure Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: dentist_signature
+      label: Dentist Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: procedure_date
+      label: Procedure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_appointments
+      label: Follow-up Appointments
+      hint: null
+      type: select_one
+      options:
+      - 1 week
+      - 2 weeks
+      - 3 weeks
+      - Other ( specify )
+      required: false
+    - id: 12
+      name: next_follow_up_date
+      label: Next Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: patient_contact
+      label: Patient Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: doctor_contact
+      label: Doctor Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: other_contacts
+      label: Other Contacts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: insurance_info
+      label: Insurance Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_multiple
+      options:
+      - Emergency Contact Person
+      - Other ( specify )
+      required: false
+    - id: 18
+      name: emergency_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: doctor_email
+      label: Doctor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: other_doctors
+      label: Other Doctors
+      hint: null
+      type: select_multiple
+      options:
+      - Other Doctors
+      - None
+      required: false
+    - id: 23
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false

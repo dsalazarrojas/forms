@@ -1,0 +1,211 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Conference Agenda Revision Request Form
+    pages:
+      - id: 1
+        name: revision_header
+        label: Agenda Revision Request
+        hint: Request changes to conference agenda
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: request_date
+        label: Request Date
+        hint: Date of request
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: requester_name
+        label: Requester Name
+        hint: Your name
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: requester_email
+        label: Email Address
+        hint: Contact email
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: requester_role
+        label: Your Role
+        hint: Position at conference
+        type: select_one
+        options:
+          - Organizer
+          - Speaker
+          - Attendee
+          - Staff
+          - Committee Member
+          - Other
+        required: true
+      - id: 6
+        name: conference_info
+        label: Conference Information
+        hint: Event details
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: conference_name
+        label: Conference Name
+        hint: Event name
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: conference_dates
+        label: Conference Dates
+        hint: Event dates
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: agenda_item_to_revise
+        label: Agenda Item to Revise
+        hint: What needs changing
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: item_id
+        label: Item ID or Name
+        hint: Identify the item
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: current_schedule
+        label: Current Schedule
+        hint: Existing timing
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: revision_type
+        label: Type of Revision
+        hint: What kind of change
+        type: select_one
+        options:
+          - Time Change
+          - Date Change
+          - Location Change
+          - Speaker Change
+          - Topic Change
+          - Duration Change
+          - Cancellation
+          - New Item Addition
+        required: true
+      - id: 13
+        name: proposed_changes
+        label: Proposed Changes
+        hint: What you want to change
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: new_start_time
+        label: New Start Time
+        hint: Proposed time
+        type: time
+        options: []
+        required: false
+      - id: 15
+        name: new_end_time
+        label: New End Time
+        hint: Proposed end time
+        type: time
+        options: []
+        required: false
+      - id: 16
+        name: new_date
+        label: New Date
+        hint: Proposed date
+        type: date
+        options: []
+        required: false
+      - id: 17
+        name: new_location
+        label: New Location
+        hint: Proposed venue
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: reason_for_revision
+        label: Reason for Revision
+        hint: Why change is needed
+        type: text
+        options: []
+        required: true
+      - id: 19
+        name: impact_assessment
+        label: Impact Assessment
+        hint: How will this affect others
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: urgency_level
+        label: Urgency Level
+        hint: How urgent
+        type: select_one
+        options:
+          - Low Can Wait
+          - Medium Within Week
+          - High Within 48 Hours
+          - Critical Immediate
+        required: true
+      - id: 21
+        name: stakeholders_notified
+        label: Stakeholders Notified
+        hint: Who else needs to know
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: alternative_options
+        label: Alternative Options
+        hint: Backup plans
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: approval_needed
+        label: Approval Needed From
+        hint: Who must approve
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: additional_comments
+        label: Additional Comments
+        hint: Other information
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: submission_confirmation
+        label: Submission Confirmation
+        hint: Confirm request
+        type: select_one
+        options:
+          - Submit Revision Request
+          - Save as Draft
+        required: true

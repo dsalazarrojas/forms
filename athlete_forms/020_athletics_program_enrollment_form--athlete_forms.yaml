@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athletics Program Enrollment Form
+    pages:
+    - id: 1
+      name: student_information
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_id
+      label: Student ID Number
+      hint: School or district ID
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: grade
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - 9th
+      - 10th
+      - 11th
+      - 12th
+      required: true
+    - id: 7
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: gpa
+      label: Current GPA
+      hint: Current academic GPA
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: contact_information
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: student_email
+      label: Email Address
+      hint: Student email
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: student_phone
+      label: Phone Number
+      hint: Student phone
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: home_address
+      label: Home Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: athletics_information
+      label: -- Athletics Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: primary_sport
+      label: Primary Sport
+      hint: Which sport are you enrolling in?
+      type: select_one
+      options:
+      - Football
+      - Volleyball
+      - Basketball
+      - Baseball
+      - Softball
+      - Soccer
+      - Tennis
+      - Track and Field
+      - Cross Country
+      - Golf
+      - Swimming
+      - Other
+      required: true
+    - id: 18
+      name: position
+      label: Position/Event
+      hint: Your preferred position or event
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: experience_level
+      label: Experience Level
+      hint: Your competitive experience
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Elite
+      required: true
+    - id: 20
+      name: previous_participation
+      label: Previous Program Participation
+      hint: Have you participated before?
+      type: select_one
+      options:
+      - Yes, Multiple Seasons
+      - Yes, One Season
+      - No, First Time
+      required: true
+    - id: 21
+      name: parent_guardian_information
+      label: -- Parent/Guardian Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: parent_name
+      label: Parent/Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: parent_phone
+      label: Parent/Guardian Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: parent_email
+      label: Parent/Guardian Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 25
+      name: emergency_contact
+      label: Emergency Contact Information
+      hint: If different from parent/guardian
+      type: text
+      options: []
+      required: false

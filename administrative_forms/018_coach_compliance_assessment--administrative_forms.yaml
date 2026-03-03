@@ -1,0 +1,261 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coach Compliance Assessment
+    pages:
+    - id: 1
+      name: coach_name
+      label: Coach Full Name
+      hint: Your legal full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_organization
+      label: Company or Organization
+      hint: Name of your coaching business
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: coach_id_number
+      label: Coach ID Number
+      hint: Your internal coach identifier
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of this compliance assessment
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: coaching_certification
+      label: Coaching Certification Status
+      hint: Do you hold a coaching certification
+      type: select_one
+      options:
+      - ICF Certified
+      - Other Certified
+      - In Training
+      - Not Certified
+      required: true
+    - id: 8
+      name: certification_body
+      label: Certification Body
+      hint: Which organization certified you
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: certification_expiry
+      label: Certification Expiry Date
+      hint: When does your certification expire
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: liability_insurance
+      label: Liability Insurance Status
+      hint: Do you have professional liability insurance
+      type: select_one
+      options:
+      - Yes Current
+      - Yes Expiring Soon
+      - false
+      required: true
+    - id: 11
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Name of your insurance company
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: insurance_policy_number
+      label: Policy Number
+      hint: Your policy number
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: background_check_status
+      label: Background Check Status
+      hint: Have you completed a background check
+      type: select_one
+      options:
+      - Completed Within 1 Year
+      - Completed 1-2 Years Ago
+      - Not Completed
+      - Not Required
+      required: true
+    - id: 14
+      name: continuing_education_hours
+      label: Continuing Education Hours
+      hint: Hours completed in last year
+      type: select_one
+      options:
+      - 0-10 Hours
+      - 11-20 Hours
+      - 21-30 Hours
+      - 31-40 Hours
+      - Over 40 Hours
+      required: true
+    - id: 15
+      name: code_of_ethics_training
+      label: Code of Ethics Training Completed
+      hint: Have you completed ethics training
+      type: select_one
+      options:
+      - Yes Within 1 Year
+      - Yes Over 1 Year Ago
+      - false
+      required: true
+    - id: 16
+      name: confidentiality_agreement
+      label: Confidentiality Agreement Signed
+      hint: Have you signed confidentiality agreement
+      type: select_one
+      options:
+      - Yes Current
+      - Needs Renewal
+      - false
+      required: true
+    - id: 17
+      name: safety_protocols_training
+      label: Safety Protocols Training
+      hint: Have you completed safety training
+      type: select_one
+      options:
+      - Yes Completed
+      - In Progress
+      - Not Started
+      required: true
+    - id: 18
+      name: emergency_procedures_known
+      label: Emergency Procedures Known
+      hint: Do you know emergency protocols
+      type: select_one
+      options:
+      - true
+      - No Need Review
+      required: true
+    - id: 19
+      name: client_records_compliance
+      label: Client Records Compliance
+      hint: Are your client records up to standard
+      type: select_one
+      options:
+      - Fully Compliant
+      - Partially Compliant
+      - Not Compliant
+      - Not Applicable
+      required: true
+    - id: 20
+      name: data_protection_training
+      label: Data Protection Training
+      hint: Have you completed GDPR or data training
+      type: select_one
+      options:
+      - Yes Completed
+      - false
+      required: true
+    - id: 21
+      name: scope_of_practice_understanding
+      label: Scope of Practice Understood
+      hint: Do you understand your scope limits
+      type: select_one
+      options:
+      - Yes Fully
+      - Partially
+      - No Need Review
+      required: true
+    - id: 22
+      name: mandatory_reporting_training
+      label: Mandatory Reporting Training
+      hint: Have you completed mandatory reporting training
+      type: select_one
+      options:
+      - Yes Completed
+      - false
+      required: false
+    - id: 23
+      name: conflicts_of_interest
+      label: Any Conflicts of Interest
+      hint: Disclose any potential conflicts
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: disciplinary_history
+      label: Disciplinary History
+      hint: Any past disciplinary actions
+      type: select_one
+      options:
+      - None
+      - Yes Please Explain
+      required: true
+    - id: 25
+      name: disciplinary_details
+      label: Disciplinary Details
+      hint: Provide details if applicable
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: compliance_self_rating
+      label: Overall Compliance Self-Rating
+      hint: Rate your compliance level
+      type: select_one
+      options:
+      - Fully Compliant
+      - Mostly Compliant
+      - Partially Compliant
+      - Not Compliant
+      required: true
+    - id: 27
+      name: areas_for_improvement
+      label: Areas Needing Improvement
+      hint: What do you need to work on
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: support_needed
+      label: Support or Resources Needed
+      hint: What help do you need
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: attestation
+      label: I Attest Information Is Accurate
+      hint: You confirm all information is true
+      type: select_one
+      options:
+      - Yes I Attest
+      - false
+      required: true
+    - id: 30
+      name: signature_date
+      label: Date of Assessment
+      hint: Today date
+      type: date
+      options: []
+      required: true

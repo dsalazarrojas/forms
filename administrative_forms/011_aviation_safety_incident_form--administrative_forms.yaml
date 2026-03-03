@@ -1,0 +1,278 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aviation Safety Incident Form
+    pages:
+    - id: 1
+      name: incident_category
+      label: Incident Category
+      hint: Select the primary category of incident
+      type: select_one
+      options:
+      - Aircraft accident
+      - Near miss/mid-air proximity
+      - Runway incursion
+      - Ground collision
+      - Bird strike
+      - Weather-related incident
+      - Mechanical failure
+      - Medical emergency
+      - Security incident
+      - Other
+      required: true
+    - id: 2
+      name: incident_date
+      label: Incident Date
+      hint: Date when incident occurred
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: incident_time
+      label: Incident Time
+      hint: Local time of incident
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: incident_location
+      label: Incident Location
+      hint: Airport, airspace, or location
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: flight_phase
+      label: Phase of Flight
+      hint: When during flight did incident occur
+      type: select_one
+      options:
+      - Pre-flight
+      - Taxi
+      - Takeoff
+      - Climb
+      - Cruise
+      - Descent
+      - Approach
+      - Landing
+      - Post-flight
+      required: true
+    - id: 6
+      name: reporter_name
+      label: Reporter Full Name
+      hint: Person reporting the incident
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: reporter_title
+      label: Job Title
+      hint: Your position or role
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: reporter_employee_id
+      label: Employee ID
+      hint: Your identification number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: department
+      label: Department
+      hint: Your department or division
+      type: select_one
+      options:
+      - Flight operations
+      - Maintenance
+      - Ground operations
+      - Cabin crew
+      - Dispatch
+      - Management
+      - Other
+      required: true
+    - id: 10
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: aircraft_registration
+      label: Aircraft Registration
+      hint: Tail number or registration
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: aircraft_type
+      label: Aircraft Type
+      hint: Make and model
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: flight_number
+      label: Flight Number
+      hint: Flight identifier
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: departure_point
+      label: Departure Point
+      hint: Origin airport
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: destination
+      label: Destination
+      hint: Intended destination
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: crew_members_aboard
+      label: Number of Crew Members
+      hint: Total crew on board
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: passengers_aboard
+      label: Number of Passengers
+      hint: Total passengers on board
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: injuries_fatalities
+      label: Injuries and Fatalities
+      hint: Casualty information
+      type: select_one
+      options:
+      - None
+      - Minor injuries
+      - Serious injuries
+      - Fatalities
+      required: true
+    - id: 20
+      name: aircraft_damage
+      label: Aircraft Damage
+      hint: Extent of damage to aircraft
+      type: select_one
+      options:
+      - None
+      - Minor damage
+      - Substantial damage
+      - Destroyed
+      - Unknown
+      required: true
+    - id: 21
+      name: weather_conditions
+      label: Weather Conditions
+      hint: Conditions at time of incident
+      type: select_one
+      options:
+      - VFR - clear
+      - VFR - scattered clouds
+      - MVFR
+      - IFR
+      - Low visibility
+      - Severe weather
+      - Unknown
+      required: true
+    - id: 22
+      name: incident_description
+      label: Detailed Incident Description
+      hint: Provide complete details of what occurred
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: immediate_actions
+      label: Immediate Actions Taken
+      hint: What was done immediately after incident
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: witnesses
+      label: Witness Information
+      hint: Names and contact info of witnesses
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: contributing_factors
+      label: Contributing Factors
+      hint: What factors may have contributed
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: safety_recommendations
+      label: Safety Recommendations
+      hint: Suggested preventive measures
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: report_classification
+      label: Report Classification
+      hint: Classification level
+      type: select_one
+      options:
+      - Confidential
+      - Internal use only
+      - Safety report
+      - Regulatory report required
+      required: true
+    - id: 28
+      name: notification_required
+      label: Regulatory Notification Required
+      hint: Does this require NTSB/FAA notification
+      type: select_one
+      options:
+      - Yes, notified
+      - Yes, pending
+      - 'No'
+      - Unsure
+      required: true
+    - id: 29
+      name: follow_up_required
+      label: Follow-up Required
+      hint: Is additional investigation needed
+      type: select_one
+      options:
+      - Yes, safety team
+      - Yes, management review
+      - Yes, external investigation
+      - No further action
+      required: true
+    - id: 30
+      name: reporter_signature
+      label: I Certify This Report Is Accurate
+      hint: Check to confirm accuracy
+      type: select_one
+      options:
+      - Yes, I certify
+      - Other
+      required: true
+    - id: 31
+      name: report_date
+      label: Report Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

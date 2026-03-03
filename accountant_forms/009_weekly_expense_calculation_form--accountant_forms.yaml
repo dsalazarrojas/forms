@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: weekly_expense_calculation_form
+    pages:
+    - id: 1
+      name: weekly_expenses
+      label: Weekly Expenses
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: total_income
+      label: Total Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: total_expenses
+      label: Total Expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: date_last_updated
+      label: Date Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: expense_1
+      label: Expense 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: expense_2
+      label: Expense 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: expense_3
+      label: Expense 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: expense_4
+      label: Expense 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: expense_5
+      label: Expense 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: expense_6
+      label: Expense 6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: total_expenses_total
+      label: Total Expenses Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: total_income_total
+      label: Total Income Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: total_net
+      label: Total Net
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Personal
+      - Business
+      - Other
+      required: false
+    - id: 16
+      name: currency
+      label: Currency
+      hint: null
+      type: select_multiple
+      options:
+      - USD
+      - EUR
+      - AUD
+      - CAD
+      - MXN
+      - CNY
+      - JPY
+      - INR
+      - BRL
+      - KRW
+      - CNY
+      - HKD
+      - CHF
+      - MYR
+      - TWD
+      - SGD
+      - AED
+      - QAR
+      - SAR
+      - KWD
+      required: false
+    - id: 17
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

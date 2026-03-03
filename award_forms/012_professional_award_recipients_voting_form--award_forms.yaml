@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: professional_award_recipients_voting_form
+    pages:
+    - id: 1
+      name: award_category
+      label: Award Category
+      hint: null
+      type: select_one
+      options:
+      - Award Category 1
+      - Award Category 2
+      - Award Category 3
+      required: false
+    - id: 2
+      name: recipient_name
+      label: recipient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rating_1
+      label: Rating 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: rating_2
+      label: Rating 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: rating_3
+      label: Rating 3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: AI Assistant Zoom Meeting Scheduling
+    pages:
+    - id: 1
+      name: scheduling_header
+      label: '--- Schedule Your AI Assistant Consultation ---'
+      hint: Fill out the details below to book a Zoom meeting with our AI strategy
+        team.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Meeting invitation and Zoom link will be sent here.
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company/Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: meeting_topic
+      label: Meeting Topic
+      hint: Briefly describe what you would like to discuss.
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: meeting_purpose
+      label: Primary Purpose of Meeting
+      hint: null
+      type: select_one
+      options:
+      - label: Initial Consultation
+        value: consultation
+      - label: Technical Support / Troubleshooting
+        value: tech_support
+      - label: Product Demo
+        value: demo
+      - label: Partnership Inquiry
+        value: partnership
+      - label: Follow-up Session
+        value: follow_up
+      required: true
+    - id: 7
+      name: ai_platform_focus
+      label: AI Assistant Platform Interest
+      hint: Which platform/service are you using or interested in?
+      type: select_multiple
+      options:
+      - label: Custom LLM Integration
+        value: custom_llm
+      - label: OpenAI / ChatGPT Solutions
+        value: openai
+      - label: Anthropic / Claude Integration
+        value: anthropic
+      - label: Open-Source Models (Llama, etc.)
+        value: open_source
+      - label: Customer Service Chatbots
+        value: customer_service
+      - label: Data Extraction / Analysis
+        value: data_analysis
+      required: true
+    - id: 8
+      name: preferred_date
+      label: Preferred Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: preferred_time_slot
+      label: Preferred Time Slot
+      hint: null
+      type: select_one
+      options:
+      - label: Morning (9:00 AM - 12:00 PM)
+        value: morning
+      - label: Afternoon (12:00 PM - 4:00 PM)
+        value: afternoon
+      - label: Evening (4:00 PM - 6:00 PM)
+        value: evening
+      required: true
+    - id: 10
+      name: time_zone
+      label: Your Time Zone
+      hint: null
+      type: select_one
+      options:
+      - label: UTC-8 (PST)
+        value: pst
+      - label: UTC-5 (EST)
+        value: est
+      - label: UTC+0 (GMT)
+        value: gmt
+      - label: UTC+1 (CET)
+        value: cet
+      - label: UTC+8 (SGT/HKT)
+        value: hkt
+      required: true
+    - id: 11
+      name: meeting_duration
+      label: Desired Meeting Duration
+      hint: null
+      type: select_one
+      options:
+      - label: 15 Minutes (Quick Sync)
+        value: 15_min
+      - label: 30 Minutes (Standard)
+        value: 30_min
+      - label: 60 Minutes (Deep Dive)
+        value: 60_min
+      required: true
+    - id: 12
+      name: number_of_attendees
+      label: Estimated Number of Attendees
+      hint: From your organization
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: agenda_items
+      label: Specific Agenda Items or Questions
+      hint: Please list any specific points you want to cover.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: previous_experience
+      label: Do you have existing AI implementations?
+      hint: null
+      type: select_one
+      options:
+      - label: Yes, currently in production
+        value: production
+      - label: Yes, in development/pilot
+        value: pilot
+      - label: No, just starting out
+        value: none
+      required: true
+    - id: 15
+      name: phone_number
+      label: Mobile Number (Optional for SMS Reminders)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: confirmation_note
+      label: '--- Booking Information ---'
+      hint: Once submitted, you will receive an email with the Zoom link and calendar
+        invite.
+      type: note
+      options: []
+      required: false

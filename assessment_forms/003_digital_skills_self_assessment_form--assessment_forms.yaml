@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: digital_skills_self_assessment_form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: skills_list
+      label: list_of_skills
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      - option_4
+      required: true
+    - id: 3
+      name: skill_level
+      label: skill_level
+      hint: null
+      type: select_one
+      options:
+      - beginner
+      - intermediate
+      - advanced
+      required: true
+    - id: 4
+      name: skill_notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: knowledge_areas
+      label: knowledge_areas
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      - option_4
+      required: false
+    - id: 6
+      name: performance_goals
+      label: performance_goals
+      hint: null
+      type: select_one
+      options:
+      - goal_1
+      - goal_2
+      required: true
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: performance_rating
+      label: performance_rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: true

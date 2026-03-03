@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Strategy Records Release Form
+    pages:
+    - id: 1
+      name: user_id
+      label: user_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: document_type
+      label: document_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: document_date
+      label: document_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: document_time
+      label: document_time
+      hint: null
+      type: time
+      options: []
+      required: false

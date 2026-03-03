@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Electrical Work Risk Assessment Checklist
+    pages:
+    - id: 1
+      name: general_risk_factors
+      label: General Risk Factors
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: electrical_work_risks
+      label: Electrical Work Risks
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: specific_risk_factors
+      label: Specific Risk Factors
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: electrical_work_hazards
+      label: Electrical Work Hazards
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: electrical_work_control_measures
+      label: Electrical Work Control Measures
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: risk_reduction_planning
+      label: Risk Reduction Planning
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: safety_measures
+      label: Safety Measures
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: accident_reporting
+      label: Accident Reporting
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: incident_reporting
+      label: Incident Reporting
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: electrical_work_risk_assessment_checklist
+      label: Electrical Work Risk Assessment Checklist
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: electrical_work_risk_assessment_checklist_revision
+      label: Electrical Work Risk Assessment Checklist Revision
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: electrical_work_risk_assessment_checklist_review
+      label: Electrical Work Risk Assessment Checklist Review
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: risk_rating
+      label: Risk Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 14
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 15
+      name: risk_description
+      label: Risk Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: risk_control_measures
+      label: Risk Control Measures
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: risk_review
+      label: Risk Review
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: risk_review_comments
+      label: Risk Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: electrical_work_risk_assessment_checklist_reviewed_by
+      label: Electrical Work Risk Assessment Checklist Reviewed By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: electrical_work_risk_assessment_checklist_reviewed_date
+      label: Electrical Work Risk Assessment Checklist Reviewed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: electrical_work_risk_assessment_checklist_reviewed_time
+      label: Electrical Work Risk Assessment Checklist Reviewed Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: electrical_work_risk_assessment_checklist_reviewed
+      label: Electrical Work Risk Assessment Checklist Reviewed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: electrical_work_risk_assessment_checklist_reviewer
+      label: Electrical Work Risk Assessment Checklist Reviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: electrical_work_risk_assessment_checklist_reviewer_comments
+      label: Electrical Work Risk Assessment Checklist Reviewer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: electrical_work_risk_assessment_checklist_revision_comments
+      label: Electrical Work Risk Assessment Checklist Revision Comments
+      hint: null
+      type: text
+      options: []
+      required: false

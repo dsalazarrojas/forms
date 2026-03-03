@@ -1,0 +1,93 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Claiming Coupon Form
+    pages:
+      - id: 1
+        name: customer_name
+        label: Customer name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: email
+        label: Email address
+        hint: For coupon delivery
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: coupon_code
+        label: Coupon code
+        hint: Enter provided code
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: product_interest
+        label: Product interest
+        hint: Which product you plan to buy
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: purchase_intent
+        label: Purchase intent during promotion
+        hint: Yes likely maybe no
+        type: select_one
+        options:
+          - Yes
+          - Maybe
+          - No
+        required: false
+      - id: 6
+        name: redeem_method
+        label: Redeem method
+        hint: Online code in checkout or in store
+        type: select_one
+        options:
+          - Online
+          - In store
+        required: true
+      - id: 7
+        name: marketing_consent
+        label: Consent to marketing communications
+        hint: Optional subscription
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: false
+      - id: 8
+        name: terms_acknowledgement
+        label: Terms acknowledgement
+        hint: Confirm coupon terms and conditions
+        type: note
+        options: []
+        required: true
+      - id: 9
+        name: additional_notes
+        label: Additional notes
+        hint: Any extra information
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: submission_date
+        label: Submission date
+        hint: Use today date
+        type: date
+        options: []
+        required: true

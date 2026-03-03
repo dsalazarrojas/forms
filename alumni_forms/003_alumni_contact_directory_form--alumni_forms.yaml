@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alumni Contact Directory Form
+    pages:
+    - id: 1
+      name: section_profile_info
+      label: -- Profile Information --
+      hint: These details will be visible to other alumni in the directory
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: graduation_major
+      label: Graduation Major
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: graduation_year
+      label: Graduation Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: current_profession
+      label: Current Profession
+      hint: Your job title or field of work
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employer_company
+      label: Employer or Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: linkedin_profile
+      label: LinkedIn Profile URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: city_of_residence
+      label: City of Residence
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: display_email_permission
+      label: Permission to Display Email in Directory
+      hint: If No, your email will be hidden from the public view
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: profile_update_consent
+      label: Consent to receive alumni newsletters
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false

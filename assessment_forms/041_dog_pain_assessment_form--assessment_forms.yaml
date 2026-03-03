@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dog Pain Assessment Form
+    pages:
+    - id: 1
+      name: dog_pain_scale
+      label: Pain Scale
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': 1}'
+      - '{''id'': 2, ''label'': 2}'
+      - '{''id'': 3, ''label'': 3}'
+      required: false
+    - id: 2
+      name: pain_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Acute Pain''}'
+      - '{''id'': 2, ''label'': ''Chronic Pain''}'
+      - '{''id'': 3, ''label'': ''Inflammation''}'
+      required: false
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: List medical history for 6 months prior to current evaluation
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: pain_frequency
+      label: Pain Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Rarely''}'
+      required: false
+    - id: 5
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: veterinarian_signature
+      label: Veterinarian Signature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: contact
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

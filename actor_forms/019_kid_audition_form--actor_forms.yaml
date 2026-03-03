@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kid Audition Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: audition_date
+      label: Audition Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: audition_time
+      label: Audition Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: performance_experience
+      label: Performance Experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: performance_type
+      label: Performance Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: schedule_audition
+      label: Schedule Audition
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: schedule_audition_time
+      label: Audition Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: audition_note
+      label: Audition Note
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: performance_location
+      label: Performance Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: parent_permission
+      label: Parent Permission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: schedule_audition_repeat
+      label: Schedule Audition Repeat
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: schedule_audition_time_repeat
+      label: Audition Time Repeat
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: performance_schedule_audition_repeat
+      label: Performance Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: audition_note_repeat
+      label: Audition Note Repeat
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_info_repeat
+      label: Additional Info Repeat
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: parent_permission_repeat
+      label: Parent Permission Repeat
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: additional_fields_repeat
+      label: Additional Fields
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: main_repeat
+      label: Main Repeat
+      hint: null
+      type: text
+      options: []
+      required: false

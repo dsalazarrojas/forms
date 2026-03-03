@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Application For Credit Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant name
+      hint: Full legal name as on ID
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of birth
+      hint: Applicant birth date
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: ssn_last4
+      label: SSN last 4 digits
+      hint: For identity verification only
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: residential_address
+      label: Residential address
+      hint: Street city and postal code
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: employment_status
+      label: Employment status
+      hint: Current employment situation
+      type: select_one
+      options:
+      - Employed
+      - Self-employed
+      - Unemployed
+      - Student
+      - Retired
+      required: true
+    - id: 6
+      name: annual_income
+      label: Annual income
+      hint: Gross annual income in local currency
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: loan_amount_requested
+      label: Loan amount requested
+      hint: Desired credit amount
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: purpose_of_loan
+      label: Purpose of loan
+      hint: Describe intended use
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact phone
+      hint: Best phone number to reach applicant
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: consent_credit_check
+      label: Consent for credit check
+      hint: Applicant permission to perform credit check
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true

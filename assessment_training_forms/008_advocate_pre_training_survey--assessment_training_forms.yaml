@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advocate Pre Training Survey
+    pages:
+    - id: 1
+      name: participant_information_section
+      label: Participant Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_full_name
+      label: Full Name
+      hint: Enter your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: Email for communication and materials
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_organization
+      label: Organization
+      hint: Name of your organization or affiliation
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_title
+      label: Job Title
+      hint: Your current job title or position
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: experience_level_section
+      label: Experience Level
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: advocacy_experience_years
+      label: Years of Advocacy Experience
+      hint: How many years of experience do you have in advocacy work?
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: previous_training_participation
+      label: Previous Training Participation
+      hint: Have you participated in advocacy training before?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: previous_training_details
+      label: Details of Previous Training
+      hint: If yes, briefly describe the advocacy training you've attended
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: current_role_activities
+      label: Current Advocacy Activities
+      hint: What advocacy activities are you currently involved in?
+      type: select_multiple
+      options:
+      - Policy research
+      - Community organizing
+      - Public speaking
+      - Lobbying
+      - Coalition building
+      - Campaign management
+      - Media relations
+      - Grant writing
+      - Event planning
+      - None of the above
+      required: true
+    - id: 11
+      name: knowledge_assessment_section
+      label: Knowledge Assessment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: policy_knowledge_level
+      label: Policy Knowledge Level
+      hint: Rate your current knowledge of policy development processes
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 13
+      name: communication_skills_level
+      label: Communication Skills Level
+      hint: Rate your confidence in advocacy communication skills
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 14
+      name: stakeholder_engagement_level
+      label: Stakeholder Engagement Level
+      hint: Rate your experience with stakeholder engagement
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 15
+      name: training_expectations_section
+      label: Training Expectations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: primary_learning_objective
+      label: Primary Learning Objective
+      hint: What is your primary learning objective for this training?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: specific_topics_interest
+      label: Specific Topics of Interest
+      hint: Which specific topics would you like to focus on during the training?
+      type: select_multiple
+      options:
+      - Policy analysis
+      - Strategic planning
+      - Coalition building
+      - Media and communications
+      - Legislative process
+      - Data and research methods
+      - Community organizing
+      - Grant writing
+      - Evaluation and measurement
+      - Leadership skills
+      required: true
+    - id: 18
+      name: preferred_learning_methods
+      label: Preferred Learning Methods
+      hint: Which learning methods do you prefer?
+      type: select_multiple
+      options:
+      - Interactive workshops
+      - Case studies
+      - Panel discussions
+      - Small group activities
+      - Lecture-style presentations
+      - Hands-on exercises
+      - Peer learning
+      - Online modules
+      required: true
+    - id: 19
+      name: accessibility_requirements
+      label: Accessibility Requirements
+      hint: Do you have any accessibility requirements for the training?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: accessibility_details
+      label: Accessibility Details
+      hint: If yes, please specify your accessibility requirements
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: schedule_availability
+      label: Schedule Availability
+      hint: What times of day work best for your participation?
+      type: select_multiple
+      options:
+      - Morning (8am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (5pm-8pm)
+      - Weekends
+      - Flexible
+      required: true
+    - id: 22
+      name: additional_comments_section
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Any other information you'd like to share about your training needs
+      type: text
+      options: []
+      required: false

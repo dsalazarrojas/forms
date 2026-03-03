@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Return Shipment Form
+    pages:
+    - id: 1
+      name: shipment_details
+      label: shipment_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: recipient_details
+      label: recipient_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shipping_method
+      label: shipping_method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''shipping_1'', ''value'': ''shipping_1''}'
+      - '{''id'': 2, ''name'': ''shipping_2'', ''value'': ''shipping_2''}'
+      - '{''id'': 3, ''name'': ''shipping_3'', ''value'': ''shipping_3''}'
+      required: false
+    - id: 4
+      name: reason_for_return
+      label: reason_for_return
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_shipped
+      label: date_shipped
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: shipment_weight
+      label: shipment_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: shipment_status
+      label: shipment_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''shipped'', ''value'': ''shipped''}'
+      - '{''id'': 2, ''name'': ''received'', ''value'': ''received''}'
+      - '{''id'': 3, ''name'': ''pending'', ''value'': ''pending''}'
+      required: false
+    - id: 8
+      name: shipment_notes
+      label: shipment_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: shipment_id
+      label: shipment_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: shipment_type
+      label: shipment_type
+      hint: null
+      type: text
+      options: []
+      required: false

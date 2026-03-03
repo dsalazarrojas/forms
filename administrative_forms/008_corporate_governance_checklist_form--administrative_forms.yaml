@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Governance Checklist Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Please provide the company name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: board_size
+      label: Board Size
+      hint: Please provide the board size
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: management_structure
+      label: Management Structure
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 5
+      name: governance_standards
+      label: Governance Standards
+      hint: null
+      type: select_multiple
+      options:
+      - Governance Standard 1
+      - Governance Standard 2
+      - Governance Standard 3
+      required: false
+    - id: 6
+      name: compliance_status
+      label: Compliance Status
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: data_collection
+      label: Data Collection
+      hint: Please provide the data collection date
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: review_date
+      label: Review Date
+      hint: Please provide the review date
+      type: date
+      options: []
+      required: false

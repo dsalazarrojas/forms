@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email_verified
+      label: Email Verified
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: service_request
+      label: Service Request
+      hint: Briefly describe the home organization service needed
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: available_dates
+      label: Available Dates
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 8
+      name: available_time
+      label: Available Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Organizing
+      - Cleaning
+      - Packing
+      required: false
+    - id: 11
+      name: home_type
+      label: Home Type
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Double
+      - Triplex
+      required: false
+    - id: 12
+      name: service_request_2
+      label: Service Request 2
+      hint: Briefly describe the second home organization service needed
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: followup
+      label: Followup
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 14
+      name: followup_date
+      label: Followup Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: followup_time
+      label: Followup Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: home_type
+      label: Home Type
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Double
+      - Triplex
+      required: false
+    - id: 18
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Organizing
+      - Cleaning
+      - Packing
+      required: false
+    - id: 19
+      name: service_request
+      label: Service Request
+      hint: Briefly describe the home organization service needed
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: followup
+      label: Followup
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false

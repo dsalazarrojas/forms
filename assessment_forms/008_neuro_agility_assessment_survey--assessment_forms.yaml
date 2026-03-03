@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Neuro Agility Assessment Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: What is your age in years?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: question_2
+      label: What is your grade level?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - 6th Grade
+      - 7th Grade
+      - 8th Grade
+      - 9th Grade
+      - 10th Grade
+      - 11th Grade
+      - 12th Grade
+      required: false
+    - id: 4
+      name: question_3
+      label: What is your gender?
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: false
+    - id: 5
+      name: question_4
+      label: What is your preferred learning style?
+      hint: null
+      type: select_multiple
+      options:
+      - Visual
+      - Auditory
+      - Kinesthetic
+      - Verbal
+      required: false
+    - id: 6
+      name: question_5
+      label: What is your preferred time of day to learn?
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 7
+      name: question_6
+      label: What is your preferred way to communicate?
+      hint: null
+      type: select_multiple
+      options:
+      - Verbal
+      - Visual
+      - Textual
+      - Nonverbal
+      required: false
+    - id: 8
+      name: question_7
+      label: What time of day do you feel you are most productive?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: question_8
+      label: Which of the following is the best way for you to learn?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Reading
+      - Watching videos
+      - Hearing lectures
+      - Practicing hands-on
+      - Asking others
+      required: false
+    - id: 10
+      name: question_9
+      label: How do you feel about taking breaks in your study sessions?
+      hint: null
+      type: select_multiple
+      options:
+      - Taking short breaks every 30-60 minutes
+      - Taking long breaks every 2-3 hours
+      - Working for a longer period
+      - I don't take breaks
+      required: false
+    - id: 11
+      name: question_11
+      label: What is your preferred pace of learning?
+      hint: null
+      type: select_multiple
+      options:
+      - Fast-paced
+      - Medium-paced
+      - Slow-paced
+      required: false

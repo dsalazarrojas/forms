@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Policy Amendment Approval Form
+    pages:
+    - id: 1
+      name: tax_policy_change_details
+      label: tax policy change details
+      hint: Briefly describe the tax policy change
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: organization name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tax_policy_effect_date
+      label: tax policy effect date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: approval_date
+      label: approval date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: stakeholder_emails
+      label: stakeholder emails
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: stakeholder_phones
+      label: stakeholder phones
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: tax_policy_amendment_approval_status
+      label: tax policy amendment approval status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Held for Review
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other tools
+      required: false
+    - id: 10
+      name: submitted_by
+      label: submitted by
+      hint: null
+      type: select_one
+      options:
+      - user 1
+      - user 2
+      - user 3
+      required: false

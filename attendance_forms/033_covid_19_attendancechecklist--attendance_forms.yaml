@@ -1,0 +1,247 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Attendance Checklist
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: Identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: For communication
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: class_date
+      label: Class Date
+      hint: Date of class
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: class_time
+      label: Class Time
+      hint: Scheduled time
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: instructor_name
+      label: Instructor Name
+      hint: Teacher name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: class_type
+      label: Class Type
+      hint: Karate class level
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Black Belt
+      - Competition Team
+      - Private Lesson
+      required: true
+    - id: 11
+      name: attendance_status
+      label: Attendance Status
+      hint: Present or absent
+      type: select_one
+      options:
+      - Present
+      - Absent - Excused
+      - Absent - Unexcused
+      - Late Arrival
+      - Early Departure
+      required: true
+    - id: 12
+      name: arrival_time
+      label: Arrival Time
+      hint: When did student arrive
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: health_screening_completed
+      label: Health Screening Completed
+      hint: Temperature and symptoms check
+      type: select_one
+      options:
+      - Yes - Passed
+      - Yes - With concerns
+      - No - Not completed
+      required: true
+    - id: 14
+      name: temperature_check
+      label: Temperature Reading
+      hint: In Fahrenheit
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: symptoms_check
+      label: Any Symptoms Present
+      hint: COVID-19 symptoms
+      type: select_one
+      options:
+      - No symptoms
+      - Yes - Symptoms present
+      - Not checked
+      required: true
+    - id: 16
+      name: mask_worn
+      label: Mask Worn
+      hint: During class
+      type: select_one
+      options:
+      - Yes - Entire class
+      - Yes - Partially
+      - No - Removed during activity
+      - No - Not required
+      required: true
+    - id: 17
+      name: social_distancing
+      label: Social Distancing Maintained
+      hint: During class
+      type: select_one
+      options:
+      - Yes - Always
+      - Yes - Mostly
+      - No - Close contact occurred
+      required: true
+    - id: 18
+      name: hand_sanitizing
+      label: Hand Sanitizing
+      hint: Before and after class
+      type: select_one
+      options:
+      - Yes - Both times
+      - Yes - Before only
+      - Yes - After only
+      - false
+      required: true
+    - id: 19
+      name: equipment_used
+      label: Equipment Used
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Mats
+      - Punching bags
+      - Focus pads
+      - Sparring gear
+      - Weapons
+      - Other
+      required: true
+    - id: 20
+      name: equipment_sanitized
+      label: Equipment Sanitized
+      hint: Before and after use
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: true
+    - id: 21
+      name: sparring_participation
+      label: Sparring Participation
+      hint: Contact training
+      type: select_one
+      options:
+      - Yes - Full contact
+      - Yes - Light contact
+      - Yes - No contact
+      - No - Did not spar
+      required: true
+    - id: 22
+      name: skill_practiced
+      label: Skills Practiced
+      hint: What was taught
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: belt_rank
+      label: Current Belt Rank
+      hint: Student rank
+      type: select_one
+      options:
+      - White Belt
+      - Yellow Belt
+      - Orange Belt
+      - Green Belt
+      - Blue Belt
+      - Brown Belt
+      - Black Belt
+      required: true
+    - id: 24
+      name: next_belt_test
+      label: Next Belt Test Date
+      hint: If scheduled
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: attendance_notes
+      label: Attendance Notes
+      hint: Any observations
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: instructor_signature
+      label: Instructor Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: parent_notification
+      label: Parent Notification Sent
+      hint: Attendance confirmation
+      type: select_one
+      options:
+      - Yes - Email
+      - Yes - Text
+      - Yes - Both
+      - false
+      required: false

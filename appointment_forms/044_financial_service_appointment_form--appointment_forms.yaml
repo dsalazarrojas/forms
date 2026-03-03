@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Service Appointment Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: appointment_date
+      label: appointment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: service_type
+      label: service type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: service_time
+      label: service time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: professional_details
+      label: Professional Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: professional_name
+      label: professional name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: professional_phone
+      label: professional phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: professional_email
+      label: professional email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: client_name
+      label: client name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: client_phone
+      label: client phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: client_email
+      label: client email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: service_status
+      label: service status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 14
+      name: appointment_notes
+      label: appointment notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: appointment_time
+      label: appointment time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: service_location
+      label: Service location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: appointment_location
+      label: appointment location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: additional_services
+      label: Additional services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: confirm
+      label: Confirm
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: save_draft
+      label: Save draft
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: save_and_send
+      label: Save and send
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: back
+      label: Back
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: delete
+      label: Delete
+      hint: null
+      type: text
+      options: []
+      required: false

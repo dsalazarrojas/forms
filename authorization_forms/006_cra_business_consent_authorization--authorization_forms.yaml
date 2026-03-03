@@ -1,0 +1,121 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: CRA Business Consent Authorization
+    pages:
+      - id: 1
+        name: section_business_details
+        label: -- Business Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: business_legal_name
+        label: Business Legal Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: business_number
+        label: CRA Business Number
+        hint: 9 digit number
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: business_address
+        label: Business Physical Address
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: city_province_postal
+        label: City, Province, and Postal Code
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: section_representative
+        label: -- Representative Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: representative_name
+        label: Authorized Representative Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: representative_firm
+        label: Representative Firm Name
+        hint: if applicable
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: representative_id
+        label: RepID or GroupID
+        hint: for CRA identifying purposes
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: authorization_level
+        label: Level of Authorization
+        hint: Level 1 is Read only, Level 2 is Update
+        type: select_one
+        options: [Level 1 - View Only, Level 2 - Update Access]
+        required: true
+      - id: 11
+        name: section_accounts
+        label: -- Account Authorization --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: program_accounts
+        label: Authorized Program Accounts
+        hint: select all that apply
+        type: select_multiple
+        options: [Payroll - RP, GST/HST - RT, Corporate Income Tax - RC, Other Accounts]
+        required: true
+      - id: 13
+        name: effective_date
+        label: Effective Date of Authorization
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 14
+        name: expiry_date
+        label: Expiry Date
+        hint: leave blank for indefinite authorization
+        type: date
+        options: []
+        required: false
+      - id: 15
+        name: declaration_signed
+        label: I certify that the information given on this form is correct and complete
+        hint: null
+        type: select_one
+        options: [Yes, No]
+        required: true

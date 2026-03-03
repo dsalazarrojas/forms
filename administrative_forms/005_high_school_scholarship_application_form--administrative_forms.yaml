@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: High School Scholarship Application Form
+    pages:
+    - id: 1
+      name: personal_details
+      label: personal_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: academic_achievements
+      label: academic_achievements
+      hint: null
+      type: select_one
+      options:
+      - 9th
+      - 10th
+      - 11th
+      - 12th
+      required: false
+    - id: 3
+      name: extracurricular_activities
+      label: extracurricular_activities
+      hint: null
+      type: select_multiple
+      options:
+      - Band
+      - Debate Team
+      - Football
+      - Volleyball
+      required: false
+    - id: 4
+      name: community_service
+      label: community_service
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: community_service
+      label: community_service
+      hint: null
+      type: select_multiple
+      options:
+      - Volunteer
+      - Tutoring
+      - Mentoring
+      required: false
+    - id: 6
+      name: awards
+      label: awards
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: awards
+      label: awards
+      hint: null
+      type: select_one
+      options:
+      - National Honor Society
+      - School President
+      required: false
+    - id: 8
+      name: financial_need
+      label: financial_need
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: references
+      label: references
+      hint: null
+      type: select_one
+      options:
+      - Parent 1
+      - Parent 2
+      - Parent 3
+      required: false

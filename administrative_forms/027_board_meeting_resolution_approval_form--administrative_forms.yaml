@@ -1,0 +1,75 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Board Meeting Resolution Approval Form
+    pages:
+      - id: 1
+        name: resolution_header
+        label: -- Resolution Approval --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: resolution_title
+        label: Resolution title
+        hint: Short descriptive title
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: resolution_text
+        label: Resolution text
+        hint: Full text of proposed resolution
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: proposer_name
+        label: Proposer name
+        hint: Name of board member proposing
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: date_proposed
+        label: Date proposed
+        hint: Date of proposal
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: approval_vote
+        label: Approval vote
+        hint: Vote result for resolution
+        type: select_one
+        options:
+          - Approved
+          - Rejected
+          - Deferred
+        required: true
+      - id: 7
+        name: approver_signatures
+        label: Approver signatures
+        hint: Names of approving board members
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: effective_date
+        label: Effective date
+        hint: When the resolution takes effect
+        type: date
+        options: []
+        required: false

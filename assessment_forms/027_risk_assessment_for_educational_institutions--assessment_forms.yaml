@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Risk Assessment For Educational Institutions
+    pages:
+    - id: 1
+      name: form_section_1
+      label: What Are Your Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: potential_risks_identified
+      label: Potential Risks Identified
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: risk_assessment_process
+      label: Risk Assessment Process
+      hint: null
+      type: note
+      options: []
+      required: false

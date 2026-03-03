@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nursing Home Discharge Form
+    pages:
+    - id: 1
+      name: discharge_reason
+      label: Discharge Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_discharge
+      label: Date Of Discharge
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: resident_information
+      label: Resident Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: nursing_home
+      label: Nursing Home
+      hint: null
+      type: select_one
+      options:
+      - Johnston County Nursing Home
+      - North Carolina
+      - New York
+      - California
+      - Florida
+      - Texas
+      - Illinois
+      - Ohio
+      - Georgia
+      - Pennsylvania
+      - Other
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: discharge_status
+      label: Discharge Status
+      hint: null
+      type: select_one
+      options:
+      - Discharged with a family member
+      - Discharged to home
+      - Discharged to another facility
+      - Discharged due to financial constraints
+      - Discharged due to insurance coverage
+      - Discharged due to death
+      - Discharged due to other reason
+      required: true
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_of_transfer
+      label: Date Of Transfer
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: resident_signature
+      label: Resident Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: facility_signature
+      label: Facility Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: facility_license_number
+      label: Facility License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: facility_city
+      label: Facility City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: facility_state
+      label: Facility State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: facility_zip
+      label: Facility Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: discharge_note
+      label: Discharge Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: discharge_time
+      label: Discharge Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: discharge_signature
+      label: Discharge Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 21
+      name: facility_signature_1
+      label: Facility Signature 1
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 22
+      name: facility_signature_2
+      label: Facility Signature 2
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 23
+      name: facility_signature_3
+      label: Facility Signature 3
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 24
+      name: facility_signature_4
+      label: Facility Signature 4
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 25
+      name: facility_signature_5
+      label: Facility Signature 5
+      hint: null
+      type: note
+      options: []
+      required: true

@@ -1,0 +1,107 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Tool Access Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: Full name of the person requesting access
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_employee_id
+      label: Requester Employee ID
+      hint: Employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_department
+      label: Requester Department
+      hint: Department of the person requesting access
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: manager_name
+      label: Manager Name
+      hint: Name of the requester's supervisor who approves this request
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: tool_requested
+      label: Tool or System Requested
+      hint: Which accounting tool or system access is being requested
+      type: select_one
+      options: ["General Ledger System", "Accounts Payable Module", "Accounts Receivable Module", "Payroll System", "Tax Preparation Software", "Financial Reporting Tool", "Budget Planning System", "Audit Management Tool", "Other"]
+      required: true
+    - id: 6
+      name: access_level
+      label: Required Access Level
+      hint: What level of access is needed
+      type: select_one
+      options: ["Read-only", "View and Print", "Data Entry", "Edit and Modify", "Approve Transactions", "Administrative", "Other"]
+      required: true
+    - id: 7
+      name: business_justification
+      label: Business Justification
+      hint: Explain why this access is needed for your role
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: duration_of_access
+      label: Duration of Access Needed
+      hint: How long do you need this access
+      type: select_one
+      options: ["Temporary - Less than 1 month", "Short-term - 1-6 months", "Long-term - 6-12 months", "Permanent - Ongoing basis", "Project-based - Until project completion"]
+      required: true
+    - id: 9
+      name: requested_start_date
+      label: Requested Access Start Date
+      hint: When do you need the access to begin
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: specific_modules_needed
+      label: Specific Modules or Functions Needed
+      hint: List any specific modules or functions within the tool that are required
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: training_completed
+      label: Has Required Training Been Completed
+      hint: Have you completed any required training for this tool
+      type: select_one
+      options: ["Yes, all required training completed", "In progress", "No, but willing to complete", "No training required"]
+      required: true
+    - id: 12
+      name: security_acknowledgment
+      label: Security Policy Acknowledgment
+      hint: Do you acknowledge and agree to follow all security policies for this tool
+      type: select_one
+      options: ["Yes, I acknowledge and agree", "No, I do not acknowledge"]
+      required: true
+    - id: 13
+      name: manager_approval
+      label: Manager Approval
+      hint: Manager's approval for this access request
+      type: select_one
+      options: ["Approved", "Approved with conditions", "Denied", "Pending review"]
+      required: true

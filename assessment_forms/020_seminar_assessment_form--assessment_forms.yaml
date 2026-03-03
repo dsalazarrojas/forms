@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Seminar Assessment Form
+    pages:
+    - id: 1
+      name: overall_content
+      label: Overall Content
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: materials_used
+      label: Materials Used
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: comments_presenter
+      label: Comments on Presenter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: presenter_knowledge
+      label: Presenter's Knowledge
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: future_gathering
+      label: Future Gathering
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: seminar_attendance
+      label: Seminar Attendance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 8
+      name: presenter_attentive
+      label: Presenter's Attentive
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: content_value
+      label: Content Value
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: future_attendance
+      label: Future Attendance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: contact_future
+      label: Contact Future
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

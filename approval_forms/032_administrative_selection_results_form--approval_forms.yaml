@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Administrative Selection Results Form
+    pages:
+    - id: 1
+      name: results_header
+      label: -- Administrative Selection Results --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: selection_committee_member
+      label: Selection Committee Member
+      hint: Name of the committee member completing this form
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: selection_date
+      label: Selection Date
+      hint: Date when the selection decision was made
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: position_title
+      label: Position Title
+      hint: Title of the position being filled
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Department where the position is located
+      type: select_one
+      options:
+      - Administration
+      - Human Resources
+      - Finance
+      - Marketing
+      - Operations
+      - IT
+      - Sales
+      - Customer Service
+      - Executive
+      - Other
+      required: true
+    - id: 6
+      name: selection_type
+      label: Selection Type
+      hint: What type of selection is this?
+      type: select_one
+      options:
+      - New Hire
+      - Promotion
+      - Transfer
+      - Contract Renewal
+      - Other
+      required: true
+    - id: 7
+      name: candidate_name
+      label: Selected Candidate Name
+      hint: Full name of the selected candidate
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: candidate_id
+      label: Candidate ID
+      hint: Identification number of the selected candidate
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: selection_decision
+      label: Selection Decision
+      hint: What is the final selection decision?
+      type: select_one
+      options:
+      - Selected
+      - Waitlisted
+      - Rejected
+      - Deferred
+      required: true
+    - id: 10
+      name: selection_ranking
+      label: Selection Ranking
+      hint: What was the candidate's ranking among applicants?
+      type: select_one
+      options:
+      - First
+      - Second
+      - Third
+      - Fourth
+      - Fifth
+      - Other
+      required: true
+    - id: 11
+      name: selection_criteria_met
+      label: Selection Criteria Met
+      hint: Did the candidate meet all required criteria?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Partially
+      required: true
+    - id: 12
+      name: interview_score
+      label: Interview Score
+      hint: Numerical score from the interview process
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: skills_assessment_score
+      label: Skills Assessment Score
+      hint: Numerical score from skills assessments
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: education_verification
+      label: Education Verification
+      hint: Has the candidate's education been verified?
+      type: select_one
+      options:
+      - Verified
+      - Pending
+      - Not Required
+      required: true
+    - id: 15
+      name: experience_verification
+      label: Experience Verification
+      hint: Has the candidate's experience been verified?
+      type: select_one
+      options:
+      - Verified
+      - Pending
+      - Not Required
+      required: true
+    - id: 16
+      name: reference_checks_completed
+      label: Reference Checks Completed
+      hint: Have all reference checks been completed?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - In Progress
+      required: true
+    - id: 17
+      name: background_check_status
+      label: Background Check Status
+      hint: What is the status of the background check?
+      type: select_one
+      options:
+      - Cleared
+      - Pending
+      - Issues Found
+      - Not Required
+      required: true
+    - id: 18
+      name: start_date_proposed
+      label: Proposed Start Date
+      hint: What is the proposed start date for the candidate?
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: salary_offered
+      label: Salary Offered
+      hint: What salary was offered to the candidate?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: benefits_package
+      label: Benefits Package
+      hint: What benefits package was offered?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: selection_justification
+      label: Selection Justification
+      hint: Brief justification for the selection decision
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: concerns_or_conditions
+      label: Concerns or Conditions
+      hint: List any concerns or conditions related to the selection
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: committee_member_signature
+      label: Committee Member Signature
+      hint: Electronic signature of the committee member
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: approval_authority
+      label: Approval Authority
+      hint: Name of the person with final approval authority
+      type: text
+      options: []
+      required: false

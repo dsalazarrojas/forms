@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Regulatory Compliance Quiz
+    pages:
+    - id: 1
+      name: user_input
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Please enter your email
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: job_title
+      label: Job title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: quiz_questions
+      label: What is your favorite color?
+      hint: null
+      type: select_one
+      options:
+      - Blue
+      - Red
+      - Green
+      required: false
+    - id: 9
+      name: quiz_question_date
+      label: Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: quiz_question_time
+      label: Time
+      hint: "12:00 PM"
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: quiz_questions_2
+      label: What is your favorite food?
+      hint: null
+      type: select_multiple
+      options:
+      - Pizza
+      - Burger
+      - Sushi
+      required: false
+    - id: 12
+      name: quiz_question_2_1
+      label: Apple
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: quiz_question_2_2
+      label: Orange
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: quiz_question_3
+      label: What is your favorite animal?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: quiz_question_3_1
+      label: Dog
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: quiz_question_3_2
+      label: Cat
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: note
+      label: Additional information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: quiz_question_4
+      label: When do you like to eat?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: quiz_question_4_1
+      label: Morning
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: quiz_question_4_2
+      label: Afternoon
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: quiz_question_4_3
+      label: Evening
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: note_2
+      label: Additional information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: quiz_question_5
+      label: How often do you like to exercise?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: quiz_question_5_1
+      label: Daily
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: quiz_question_5_2
+      label: Weekly
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

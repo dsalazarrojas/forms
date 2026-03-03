@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quality Of Life Award Nomination Form
+    pages:
+    - id: 1
+      name: nomination_details
+      label: Nomination Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: nominee_name
+      label: Nominee Name
+      hint: Name of Nominee
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: Email Address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: nominee_category
+      label: Nominee Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: supporting_statement
+      label: Supporting Statement
+      hint: Brief supporting statement from nominee
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: nominee_address
+      label: Nominee Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone Number of contact person
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_name
+      label: Contact Name
+      hint: Name of contact person
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: nominee_position
+      label: Nominee Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: nominee_company
+      label: Nominee Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: award_recipient
+      label: Award Recipient
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: award_year
+      label: Award Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: submitted_by
+      label: Submitted By
+      hint: Name of submitter
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: submitter_email
+      label: Submitter Email
+      hint: Email Address of submitter
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: true

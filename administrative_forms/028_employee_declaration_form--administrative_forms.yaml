@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Declaration Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: policy_agreement
+      label: Policy Agreement
+      hint: This is an agreement with the company to comply with all company policies
+        and regulations.
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: policy_consequences
+      label: Policy Consequences
+      hint: Please list any consequences of non-compliance
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employee_declare
+      label: Employee Declare
+      hint: null
+      type: text
+      options: []
+      required: false

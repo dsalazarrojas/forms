@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Sale Risk Assessment
+    pages:
+    - id: 1
+      name: risk_assessment_form
+      label: Risk Assessment Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_details
+      label: property_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: legal_risks
+      label: Legal Risks
+      hint: Check for any outstanding fines, court cases, and other legal issues.
+      type: select_multiple
+      options:
+      - Fines and fees
+      - Court cases'
+      - Other legal issues'
+      required: false
+    - id: 4
+      name: structural_risks
+      label: Structural Risks
+      hint: null
+      type: select_one
+      options:
+      - Foundation issues
+      - Roof issues
+      - Other structural issues'
+      required: false
+    - id: 5
+      name: safety_risks
+      label: Safety Risks
+      hint: Check for any existing or potential safety hazards.
+      type: select_one
+      options:
+      - Asbestos exposure
+      - Lead paint'
+      - Other safety concerns'
+      required: false
+    - id: 6
+      name: property_sale_risk_score
+      label: Property Sale Risk Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: risk_assessment_comments
+      label: Risk Assessment Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: risk_assessment_date
+      label: Risk Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: property_address
+      label: Property Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_one
+      options:
+      - Sold
+      - Leased
+      - Under contract'
+      required: false
+    - id: 11
+      name: risk_assessment_status
+      label: Risk Assessment Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Incomplete
+      - Pending'
+      required: false
+    - id: 12
+      name: risk_assessment_notes
+      label: Risk Assessment Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial'
+      required: false
+    - id: 14
+      name: sales_price
+      label: Sales Price
+      hint: null
+      type: number
+      options: []
+      required: false

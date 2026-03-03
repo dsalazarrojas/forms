@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rarity Assessment Form
+    pages:
+    - id: 1
+      name: item_name
+      label: Item Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: item_type
+      label: ItemType
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: condition
+      label: Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: rarity_rare
+      label: Rarity
+      hint: null
+      type: select_one
+      options:
+      - Rare
+      - Uncommon
+      - Common
+      required: false
+    - id: 5
+      name: rarity_moderate
+      label: Rarity Moderate
+      hint: null
+      type: select_one
+      options:
+      - Moderate
+      - Rare
+      - Common
+      required: false
+    - id: 6
+      name: rarity_sufficient
+      label: Rarity Sufficient
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: item_year
+      label: Year Made
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: item_price
+      label: Item Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: item_year_made_2
+      label: Year Made 2
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: item_price_2
+      label: Item Price 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: item_description
+      label: Item Description
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: item_image
+      label: Item Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: collector
+      label: Collector
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: appraiser
+      label: Appraiser
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: reseller
+      label: Reseller
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: collector_2
+      label: Collector 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: appraiser_2
+      label: Appraiser 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: reseller_2
+      label: Reseller 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: submitter
+      label: Submitter
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: collector_3
+      label: Collector 3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: appraiser_3
+      label: Appraiser 3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: reseller_3
+      label: Reseller 3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: submitter_2
+      label: Submitter 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: collector_4
+      label: Collector 4
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: appraiser_4
+      label: Appraiser 4
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

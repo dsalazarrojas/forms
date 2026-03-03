@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Award Recommendation Form
+    pages:
+    - id: 1
+      name: student_information
+      label: Student Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: student_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: student_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: nominator_information
+      label: Nominator Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: nominator_name
+      label: Nominator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: nominator_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: nominator_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: nominator_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: nominator_signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: award_name
+      label: Award Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: award_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: award_recipients
+      label: Recipients
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''award_recipients_option_1'', ''value'': ''First Name''}'
+      - '{''name'': ''award_recipients_option_2'', ''value'': ''Last Name''}'
+      - '{''name'': ''award_recipients_option_3'', ''value'': ''Both''}'
+      required: false
+    - id: 15
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: reviewer_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

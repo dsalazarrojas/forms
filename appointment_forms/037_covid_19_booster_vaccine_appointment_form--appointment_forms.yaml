@@ -1,0 +1,303 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Booster Vaccine Appointment Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer Not to Say
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: For appointment confirmation
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: insurance_information
+      label: Insurance Provider
+      hint: Insurance company
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: insurance_id
+      label: Insurance ID
+      hint: Member ID number
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: initial_vaccine_received
+      label: Initial Vaccine Received
+      hint: Original vaccination
+      type: select_one
+      options:
+      - Pfizer-BioNTech - 2 doses
+      - Moderna - 2 doses
+      - Johnson and Johnson - 1 dose
+      - Other
+      - Unknown
+      required: true
+    - id: 13
+      name: last_dose_date
+      label: Last Dose Date
+      hint: Most recent COVID vaccine
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: last_dose_location
+      label: Last Dose Location
+      hint: Where did you get it
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: booster_vaccine_preference
+      label: Booster Vaccine Preference
+      hint: Preferred brand
+      type: select_one
+      options:
+      - Pfizer-BioNTech
+      - Moderna
+      - No preference - Any available
+      required: true
+    - id: 16
+      name: appointment_type
+      label: Appointment Type
+      hint: How would you like to be seen
+      type: select_one
+      options:
+      - In-person at clinic
+      - Drive-through
+      - Home visit
+      - Pharmacy appointment
+      required: true
+    - id: 17
+      name: preferred_clinic_location
+      label: Preferred Clinic Location
+      hint: Which site is convenient
+      type: select_one
+      options:
+      - Main Street Clinic
+      - Downtown Health Center
+      - Westside Medical Plaza
+      - Eastside Community Center
+      - Any location
+      required: true
+    - id: 18
+      name: preferred_date
+      label: Preferred Appointment Date
+      hint: First choice
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: alternate_date
+      label: Alternate Date
+      hint: Second choice
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: preferred_time
+      label: Preferred Time
+      hint: Time of day
+      type: select_one
+      options:
+      - Morning - 8 AM to 10 AM
+      - Mid-morning - 10 AM to 12 PM
+      - Afternoon - 12 PM to 2 PM
+      - Late afternoon - 2 PM to 4 PM
+      - Evening - 4 PM to 6 PM
+      - Any time
+      required: true
+    - id: 21
+      name: flexibility
+      label: Schedule Flexibility
+      hint: How flexible are you
+      type: select_one
+      options:
+      - Very flexible - Any time
+      - Somewhat flexible
+      - Not flexible - Specific time needed
+      required: true
+    - id: 22
+      name: mobility_limitations
+      label: Mobility Limitations
+      hint: Do you need accommodation
+      type: select_one
+      options:
+      - No limitations
+      - Yes - Wheelchair accessible
+      - Yes - Need assistance walking
+      - Yes - Homebound
+      required: true
+    - id: 23
+      name: interpreter_services
+      label: Interpreter Services Needed
+      hint: Language assistance
+      type: select_one
+      options:
+      - false
+      - Yes - Spanish
+      - Yes - Mandarin
+      - Yes - Cantonese
+      - Yes - Vietnamese
+      - Yes - Other
+      required: true
+    - id: 24
+      name: reminder_preference
+      label: Appointment Reminder Preference
+      hint: How should we remind you
+      type: select_one
+      options:
+      - Email
+      - Text message
+      - Phone call
+      - All of the above
+      required: true
+    - id: 25
+      name: current_health_status
+      label: Current Health Status
+      hint: Are you feeling well
+      type: select_one
+      options:
+      - Feeling well - No symptoms
+      - Minor illness
+      - Moderate illness
+      - Should reschedule
+      required: true
+    - id: 26
+      name: covid_symptoms
+      label: Current COVID-19 Symptoms
+      hint: Any symptoms now
+      type: select_one
+      options:
+      - No symptoms
+      - Yes - Have symptoms
+      required: true
+    - id: 27
+      name: recent_exposure
+      label: Recent COVID-19 Exposure
+      hint: In past 14 days
+      type: select_one
+      options:
+      - No known exposure
+      - Yes - Known exposure
+      required: true
+    - id: 28
+      name: transportation_method
+      label: Transportation to Appointment
+      hint: How will you arrive
+      type: select_one
+      options:
+      - Personal vehicle
+      - Public transportation
+      - Walk
+      - Ride from family or friend
+      - Need assistance
+      required: false
+    - id: 29
+      name: post_vaccination_plan
+      label: Plan After Vaccination
+      hint: Can you rest if needed
+      type: select_one
+      options:
+      - Yes - Can go home and rest
+      - Yes - Can rest at work
+      - No - Must continue activities
+      required: true
+    - id: 30
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: additional_notes
+      label: Additional Notes
+      hint: Any special requests
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: patient_signature
+      label: Patient Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: date_signed
+      label: Date Signed
+      hint: Today date
+      type: date
+      options: []
+      required: true

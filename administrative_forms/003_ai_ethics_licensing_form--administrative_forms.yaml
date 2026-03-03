@@ -1,0 +1,114 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Ethics Licensing Form
+    pages:
+    - id: 1
+      name: applicant_full_name
+      label: Applicant Full Name
+      hint: Legal name of the person applying for license
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_email
+      label: Applicant Email
+      hint: Professional email for licensing communications
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: applicant_organization
+      label: Organization Name
+      hint: Company or institution requesting the license
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: ai_system_name
+      label: Name of AI System
+      hint: Official name of the AI system being licensed
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: ai_system_purpose
+      label: Purpose of AI System
+      hint: Primary function and intended use of the system
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: deployment_environment
+      label: Deployment Environment
+      hint: Where the AI system will be deployed
+      type: select_one
+      options: ["Cloud", "On-Premises", "Hybrid", "Edge Computing", "Mobile", "Other"]
+      required: true
+    - id: 7
+      name: data_types_processed
+      label: Types of Data Processed
+      hint: Categories of data the AI system will handle
+      type: select_multiple
+      options: ["Personal Identifiable Information", "Financial Data", "Health Records", "Educational Records", "Behavioral Data", "Biometric Data", "Other"]
+      required: true
+    - id: 8
+      name: ethical_framework_applied
+      label: Ethical Framework Applied
+      hint: Which ethical guidelines govern this AI system?
+      type: select_one
+      options: ["ACM Code of Ethics", "IEEE Ethically Aligned Design", "Partnership on AI Principles", "Montreal Declaration", "EU Ethics Guidelines", "Custom Framework"]
+      required: true
+    - id: 9
+      name: bias_detection_methods
+      label: Bias Detection Methods
+      hint: How will algorithmic bias be monitored and addressed?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: transparency_measures
+      label: Transparency Measures
+      hint: How will the AI system's decisions be explained to users?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: human_oversight_protocol
+      label: Human Oversight Protocol
+      hint: How will humans monitor and intervene in AI decisions?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: audit_schedule
+      label: Audit Schedule
+      hint: Frequency of ethical compliance reviews
+      type: select_one
+      options: ["Monthly", "Quarterly", "Semi-Annually", "Annually", "As Needed"]
+      required: true
+    - id: 13
+      name: incident_response_plan
+      label: Incident Response Plan
+      hint: How will ethical violations be reported and addressed?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: license_duration
+      label: Requested License Duration
+      hint: How long should the license be valid?
+      type: select_one
+      options: ["1 Year", "2 Years", "3 Years", "5 Years", "Permanent"]
+      required: true

@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Referral Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: referral_name
+      label: Referral Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: referral_email
+      label: Referral Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: referral_phone
+      label: Referral Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: referral_address
+      label: Referral Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: client_referral_source
+      label: How did you meet this client?
+      hint: null
+      type: select_multiple
+      options:
+      - Online Search
+      - Social Media
+      - Word of Mouth
+      - Referral from Another Client
+      - Community Event
+      required: true
+    - id: 9
+      name: client_referral_date
+      label: When did you meet this client?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: tax_firm_name
+      label: Tax Firm Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: tax_firm_website
+      label: Tax Firm Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: tax_firm_phone
+      label: Tax Firm Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: tax_firm_address
+      label: Tax Firm Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: Assigned to
+      hint: null
+      type: select_one
+      options:
+      - Chatbot
+      - Accountant
+      required: true
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: referral_source
+      label: Referral Source
+      hint: null
+      type: select_one
+      options:
+      - New Client
+      - Existing Client
+      - Internal
+      required: false
+    - id: 17
+      name: referral_type
+      label: Referral Type
+      hint: null
+      type: select_one
+      options:
+      - New Referral
+      - Existing Referral
+      - Referral from Another Client
+      required: false
+    - id: 18
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: select_one
+      options:
+      - Jimmy
+      - Jane
+      - Admin
+      required: true
+    - id: 19
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 21
+      name: submitted_ip
+      label: Submitted IP
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: submitted_user_agent
+      label: Submitted User Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitted_country
+      label: Submitted Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitted_city
+      label: Submitted City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_state
+      label: Submitted State
+      hint: null
+      type: text
+      options: []
+      required: false

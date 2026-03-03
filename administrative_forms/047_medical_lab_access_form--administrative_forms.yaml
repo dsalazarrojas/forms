@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Lab Access Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: access_level
+      label: Access Level
+      hint: null
+      type: select_one
+      options:
+      - Authorized Staff
+      - Healthcare Providers
+      - Emergency Access
+      required: true
+    - id: 3
+      name: reason_for_access
+      label: Reason For Access
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - Lab
+      - Pharmacy
+      - Radiology
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - Central Lab
+      - Satellite Lab
+      - Other
+      required: true
+    - id: 9
+      name: medical_supervisor
+      label: Medical Supervisor
+      hint: null
+      type: select_multiple
+      options:
+      - Dr. Smith
+      - Dr. Johnson
+      - Dr. Wilson
+      required: true
+    - id: 10
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

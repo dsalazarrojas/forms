@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: treasury_training_session_request_form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Accounting''}'
+      - '{''id'': 2, ''name'': ''Management''}'
+      - '{''id'': 3, ''name'': ''Marketing''}'
+      required: false
+    - id: 4
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Room 1''}'
+      - '{''id'': 2, ''name'': ''Room 2''}'
+      - '{''id'': 3, ''name'': ''Room 3''}'
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: form_id
+      label: Form Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Jimmy''}'
+      - '{''id'': 2, ''name'': ''John''}'
+      required: false
+    - id: 12
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false

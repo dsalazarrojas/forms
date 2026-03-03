@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Readers Choice Awards Voting Form
+    pages:
+    - id: 1
+      name: reader_s_choice_1
+      label: How many books do you read this year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: reader_s_choice_2
+      label: Which category is your favorite
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 3
+      name: reader_s_choice_3
+      label: How much of the book did you read
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: reader_s_choice_4
+      label: When did you finish reading the book
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: reader_s_choice_5
+      label: How much time did you spend reading the book
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: reader_s_choice_6
+      label: What did you like most about the book
+      hint: null
+      type: select_multiple
+      options:
+      - option_6
+      - option_7
+      - option_8
+      - option_9
+      - option_10
+      required: true
+    - id: 7
+      name: reader_s_choice_7
+      label: What did you dislike most about the book
+      hint: null
+      type: select_multiple
+      options:
+      - option_11
+      - option_12
+      - option_13
+      required: false
+    - id: 8
+      name: reader_s_choice_8
+      label: Would you recommend this book
+      hint: null
+      type: select_one
+      options:
+      - option_14
+      - option_15
+      required: false
+    - id: 9
+      name: reader_s_choice_9
+      label: Would you recommend this book
+      hint: null
+      type: select_one
+      options:
+      - option_16
+      - option_17
+      required: true
+    - id: 10
+      name: reader_s_choice_10
+      label: Any additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: reader_s_choice_11
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: reader_s_choice_13
+      label: Your website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: reader_s_choice_14
+      label: How much do you like this book
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: reader_s_choice_15
+      label: How much do you like this book
+      hint: null
+      type: number
+      options: []
+      required: true

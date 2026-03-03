@@ -1,0 +1,74 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Implementation Training Session Record
+    pages:
+    - id: 1
+      name: session_details
+      label: Session Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participants
+      label: Participants
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: session_topic_additional_info
+      label: Session Topic Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: output_files_uploaded
+      label: Output Files Uploaded
+      hint: null
+      type: select_multiple
+      options:
+      - File
+      - Link
+      - Other
+      required: false
+    - id: 6
+      name: trainer
+      label: Trainer
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: true
+    - id: 7
+      name: output_file_links
+      label: Output File Links
+      hint: null
+      type: select_multiple
+      options:
+      - URL
+      - Link
+      - Other
+      required: false

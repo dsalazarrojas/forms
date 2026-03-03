@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Meter Data Export Request Form
+    pages:
+    - id: 1
+      name: smart_meter_data_export_request_form
+      label: Smart Meter Data Export Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: smart_meter_data_export_request_form_first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: smart_meter_data_export_request_form_last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: smart_meter_data_export_request_form_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: smart_meter_data_export_request_form_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: smart_meter_data_export_request_form_select_type
+      label: export_type
+      hint: null
+      type: select_multiple
+      options:
+      - export_all_data
+      - export_last_30_days
+      - export_last_30_days_with_usage
+      required: false
+    - id: 7
+      name: smart_meter_data_export_request_form_date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: smart_meter_data_export_request_form_date
+      label: meter_read_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: smart_meter_data_export_request_form_date
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false

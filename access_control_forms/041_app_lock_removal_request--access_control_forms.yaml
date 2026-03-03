@@ -1,0 +1,78 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: App Lock Removal Request
+    pages:
+    - id: 1
+      name: section_request
+      label: -- Request Details --
+      hint: Collect authorization and device information for lock removal
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: Name of person requesting the removal
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: For updates about the request
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: device_identifier
+      label: Device identifier or serial number
+      hint: IMEI or device id if applicable
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reason_for_removal
+      label: Reason for lock removal
+      hint: Brief justification for the request
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: authorization_document
+      label: Authorization document reference
+      hint: Reference number or note confirming approval
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: urgency_level
+      label: Urgency level
+      hint: Helps prioritize processing
+      type: select_one
+      options:
+        - Low
+        - Medium
+        - High
+      required: false
+    - id: 8
+      name: approval_status
+      label: Approval status
+      hint: To be completed by IT or security
+      type: select_one
+      options:
+        - Approved
+        - Denied
+        - Pending
+      required: false

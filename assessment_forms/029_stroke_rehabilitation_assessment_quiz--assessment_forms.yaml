@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stroke Rehabilitation Assessment Quiz
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: stroke_side_affected
+      label: stroke_side_affected
+      hint: null
+      type: select_one
+      options:
+      - left
+      - right
+      - bilateral
+      required: false
+    - id: 3
+      name: stroke_type
+      label: stroke_type
+      hint: null
+      type: select_one
+      options:
+      - ischemic
+      - hemorrhagic
+      - other
+      required: false
+    - id: 4
+      name: stroke_location
+      label: stroke_location
+      hint: null
+      type: select_multiple
+      options:
+      - cerebral_cortex
+      - cerebellum
+      - brainstem
+      - other
+      required: false
+    - id: 5
+      name: motor_impact
+      label: motor_impact
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: language_impact
+      label: language_impact
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: cognitive_impact
+      label: cognitive_impact
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: behavioral_impact
+      label: behavioral_impact
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: time_sustained_clinical_focus
+      label: time_sustained_clinical_focus
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: rehabilitation_focus
+      label: rehabilitation_focus
+      hint: null
+      type: select_multiple
+      options:
+      - motor
+      - cognitive
+      - behavioral
+      required: false
+    - id: 11
+      name: follow_up_frequency
+      label: follow_up_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 1_week
+      - 2_weeks
+      - 3_weeks
+      - 4_weeks
+      - 6_weeks
+      - monthly
+      required: false
+    - id: 12
+      name: follow_up_duration
+      label: follow_up_duration
+      hint: null
+      type: select_multiple
+      options:
+      - 15_minutes
+      - 30_minutes
+      - 60_minutes
+      required: false
+    - id: 13
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_date
+      label: follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false

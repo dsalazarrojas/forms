@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advanced Biotechnology Assessment
+    pages:
+    - id: 1
+      name: participant_header
+      label: -- Participant Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: years_experience
+      label: Years of biotechnology experience
+      hint: Enter whole number
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: primary_field
+      label: Primary field of work
+      hint: Select best match
+      type: select_one
+      options:
+      - Research
+      - Production
+      - Quality control
+      - Regulatory
+      - Education
+      required: true
+    - id: 5
+      name: technical_skills
+      label: Technical skills proficiency
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - PCR and molecular techniques
+      - Cell culture
+      - Bioinformatics
+      - Protein purification
+      - Assay development
+      required: false
+    - id: 6
+      name: safety_training_completed
+      label: Safety training completed
+      hint: Select yes if current
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: assessment_results_summary
+      label: Assessment results summary
+      hint: For assessor use
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: recommended_training
+      label: Recommended training modules
+      hint: Suggested courses to address gaps
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assessment_date
+      label: Assessment date
+      hint: Date of evaluation
+      type: date
+      options: []
+      required: true

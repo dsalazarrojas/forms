@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alumni Questionnaire
+    pages:
+    - id: 1
+      name: section_demographics
+      label: -- Demographics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Full name
+      hint: Optional for anonymous responses
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: graduation_year
+      label: Graduation year
+      hint: Year of graduation
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: current_role
+      label: Current role
+      hint: Occupation or job title
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: engagement_frequency
+      label: How often do you engage with alumni activities
+      hint: Select one option
+      type: select_one
+      options:
+      - Never
+      - Occasionally
+      - Frequently
+      required: true
+    - id: 6
+      name: primary_interest
+      label: Primary interest in alumni community
+      hint: Select one or more
+      type: select_multiple
+      options:
+      - Events
+      - Mentoring
+      - Giving
+      - Networking
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback and suggestions
+      hint: Optional comments
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_permission
+      label: Permission to contact for follow up
+      hint: Select yes to allow follow up
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

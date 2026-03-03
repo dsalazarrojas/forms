@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Board Of Directors Information Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: middle_initial
+      label: Middle Initial
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: suffix
+      label: Suffix
+      hint: Jr, Sr, III, etc.
+      type: select_one
+      options:
+      - None
+      - Jr
+      - Sr
+      - II
+      - III
+      - IV
+      - PhD
+      - MD
+      - Esq
+      required: false
+    - id: 5
+      name: email_primary
+      label: Primary Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: email_secondary
+      label: Secondary Email
+      hint: Optional alternate email
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_mobile
+      label: Mobile Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: phone_work
+      label: Work Phone
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Other
+      required: true
+    - id: 14
+      name: board_position
+      label: Board Position
+      hint: Current role on the board
+      type: select_one
+      options:
+      - Board Chair
+      - Vice Chair
+      - Secretary
+      - Treasurer
+      - Board Member
+      - Committee Chair
+      - Advisory Member
+      required: true
+    - id: 15
+      name: board_status
+      label: Board Status
+      hint: Current membership status
+      type: select_one
+      options:
+      - Current Member
+      - Incoming Member
+      - Outgoing Member
+      - Former Member
+      - Prospective Member
+      required: true
+    - id: 16
+      name: term_start
+      label: Term Start Date
+      hint: When did your term begin?
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: term_end
+      label: Term End Date
+      hint: When does your term end?
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: company_name
+      label: Company Name
+      hint: Your employer
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: job_title
+      label: Job Title
+      hint: Your professional title
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: professional_background
+      label: Professional Background
+      hint: Brief summary of your background
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: education
+      label: Education
+      hint: Degrees and institutions
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: board_certifications
+      label: Board Certifications
+      hint: Any relevant certifications
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: other_board_affiliations
+      label: Other Board Affiliations
+      hint: List other boards you serve on
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: false

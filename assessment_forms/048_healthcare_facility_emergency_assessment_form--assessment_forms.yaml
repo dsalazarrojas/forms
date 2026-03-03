@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Facility Emergency Assessment Form
+    pages:
+    - id: 1
+      name: emergency_contact
+      label: emergency contact name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: incident_date
+      label: incident date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: emergency_services_needed
+      label: emergency services needed
+      hint: Select one or more services needed
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: patient_status
+      label: patient status
+      hint: null
+      type: select_one
+      options:
+      - stable
+      - critical
+      - deceased
+      required: true
+    - id: 6
+      name: medical_condition
+      label: medical condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: injury_description
+      label: injury description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: facility_status
+      label: facility status
+      hint: null
+      type: select_one
+      options:
+      - closed
+      - restricted
+      - open
+      required: true
+    - id: 9
+      name: emergency_status
+      label: emergency status
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: emergency_services
+      label: emergency services
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: patient_name
+      label: patient name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: incident_reported_by
+      label: incident reported by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: contact_number
+      label: contact number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: facility_type
+      label: facility type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: contact_facility
+      label: contact facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: incident_type
+      label: incident type
+      hint: Select one or more services needed
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: incident_date_time
+      label: incident date and time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: facility_location
+      label: facility location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: emergency_status
+      label: emergency status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 21
+      name: incident_narrative
+      label: incident narrative
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: facility_status
+      label: facility status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 23
+      name: emergency_contact_name
+      label: emergency contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact_email
+      label: emergency contact email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: emergency_contact_phone
+      label: emergency contact phone
+      hint: null
+      type: text
+      options: []
+      required: false

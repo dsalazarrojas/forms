@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hockey Equipment Checklist
+    pages:
+    - id: 1
+      name: required_fields
+      label: required_fields
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: personal_protection
+      label: elbow_pads
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: helmet
+      label: helmet
+      hint: null
+      type: select_one
+      options:
+      - Bauer 1X
+      - Bauer 1X Plus
+      - Bauer 8800
+      required: false
+    - id: 4
+      name: shoulder_pads
+      label: shoulder_pads
+      hint: null
+      type: select_multiple
+      options:
+      - Bauer 1X
+      - Bauer 1X Plus
+      - Bauer 8800
+      required: false
+    - id: 5
+      name: shin_protection
+      label: shin_protection
+      hint: null
+      type: select_multiple
+      options:
+      - Bauer 1X
+      - Bauer 1X Plus
+      - Bauer 80
+      required: false
+    - id: 6
+      name: glove_sticks
+      label: glove_sticks
+      hint: null
+      type: select_one
+      options:
+      - Bauer 1X
+      - Easton Atom
+      - Easton Select
+      required: false
+    - id: 7
+      name: pants
+      label: pants
+      hint: null
+      type: select_multiple
+      options:
+      - Bauer 1X
+      - Bauer 1X Plus
+      - Easton Select
+      required: false
+    - id: 8
+      name: helmet_certification
+      label: helmet_certification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: stick
+      label: stick
+      hint: null
+      type: select_multiple
+      options:
+      - Bauer 1X
+      - Bauerประก 1X Plus
+      - Bauer 80
+      required: false
+    - id: 10
+      name: mouthguard
+      label: mouthguard
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: mouthguard_type
+      label: mouthguard_type
+      hint: null
+      type: select_one
+      options:
+      - Full
+      - 3/4
+      - Half
+      required: false
+    - id: 12
+      name: shin_guards
+      label: shin_guards
+      hint: null
+      type: select_multiple
+      options:
+      - -ประก  Bauer 1X ' - ' Bauer 1X Plus ' - ' Bauer 80 '
+      - Other
+      required: false

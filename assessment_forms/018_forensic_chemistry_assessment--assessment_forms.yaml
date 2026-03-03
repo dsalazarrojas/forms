@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Forensic Chemistry Assessment
+    pages:
+    - id: 1
+      name: assessment_form
+      label: AssessmentForm
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: knowledge_checks
+      label: KnowledgeChecks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: technique_ratings
+      label: TechniqueRatings
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 4
+      name: integrity_confirmed
+      label: IntegrityConfirmed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: technique_confidence
+      label: TechniqueConfidence
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: submitted_by
+      label: SubmittedBy
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: submission_date
+      label: SubmissionDate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: submitted_time
+      label: SubmittedTime
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

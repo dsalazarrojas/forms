@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vacation Rental Billing Form
+    pages:
+    - id: 1
+      name: payment_info
+      label: payment information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_info
+      label: guest info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: rental_details
+      label: rental details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rental_date
+      label: rental date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false

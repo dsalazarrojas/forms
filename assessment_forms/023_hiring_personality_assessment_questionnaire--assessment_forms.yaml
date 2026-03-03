@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hiring Personality Assessment Questionnaire
+    pages:
+    - id: 1
+      name: candidate_first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: candidate_last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: work_experience
+      label: work_experience
+      hint: null
+      type: select_multiple
+      options:
+      - 1-2 years
+      - 2-5 years
+      - 5-10 years
+      - 10+ years
+      required: true
+    - id: 7
+      name: personality_question_1
+      label: personality_question_1
+      hint: null
+      type: select_one
+      options:
+      - Agreeable
+      - Ambitious
+      - Confident
+      - Outgoing
+      required: true
+    - id: 8
+      name: personality_question_2
+      label: personality_question_2
+      hint: null
+      type: select_one
+      options:
+      - Adaptable
+      - Analytical
+      - Assertive
+      - Diplomatic
+      required: true
+    - id: 9
+      name: personality_question_3
+      label: personality_question_3
+      hint: null
+      type: select_multiple
+      options:
+      - Creative
+      - Diplomatic
+      - Outgoing
+      - Pragmatic
+      required: true
+    - id: 10
+      name: personality_question_4
+      label: personality_question_4
+      hint: null
+      type: select_one
+      options:
+      - Analytical
+      - Assertive
+      - Diplomatic
+      - Outgoing
+      required: true
+    - id: 11
+      name: personality_question_5
+      label: personality_question_5
+      hint: null
+      type: select_multiple
+      options:
+      - Agreeable
+      - Analytical
+      - Assertive
+      - Diplomatic
+      required: true
+    - id: 12
+      name: job_description
+      label: job_description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: candidate_essay
+      label: candidate_essay
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: manager_notes
+      label: manager_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: job_title_id
+      label: job_title_id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: team_member
+      label: team_member
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: candidate_image
+      label: candidate_image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: additional_files
+      label: additional_files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: candidate_video
+      label: candidate_video
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: manager_video
+      label: manager_video
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: job_video
+      label: job_video
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: job_description_video
+      label: job_description_video
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: job_posting_url
+      label: job_posting_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: true

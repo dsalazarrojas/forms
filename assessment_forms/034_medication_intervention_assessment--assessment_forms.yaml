@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medication Intervention Assessment
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: dosage_form
+      label: Dosage Form
+      hint: null
+      type: select_one
+      options:
+      - Liquid
+      - Tablet
+      - Intravenous
+      - Capsule
+      - Transdermal
+      - Inhaler
+      - Pill
+      - Patch
+      - Injection
+      - Sublingual
+      - Cream
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: stop_date
+      label: Stop Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_ups
+      label: Follow-ups
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: follow_up_dates
+      label: Follow-up Dates
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: medication_name
+      label: Medication Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: frequency
+      label: Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: dose
+      label: Dose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: instructions
+      label: Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_status
+      label: Patient Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Unknown
+      required: false
+    - id: 15
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Incomplete
+      - Unknown
+      required: false
+    - id: 16
+      name: follow_up_next
+      label: Follow-up Next
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_last
+      label: Follow-up Last
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_interval
+      label: Follow-up Interval
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: pharmacist_name
+      label: Pharmacist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: pharmacist_phone
+      label: Pharmacist Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: pharmacist_email
+      label: Pharmacist Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: patient_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: patient_gender
+      label: Patient Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Unknown
+      required: false

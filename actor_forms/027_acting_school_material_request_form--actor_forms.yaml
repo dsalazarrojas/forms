@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Acting School Material Request Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: Full name of the student making the request
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: Unique identification number for the student
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: class_course
+      label: Class or Course
+      hint: Name of the class or course for which materials are needed
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: instructor_name
+      label: Instructor Name
+      hint: Name of the instructor for the class
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: material_type
+      label: Type of Material Requested
+      hint: Select the type of material you need
+      type: select_one
+      options:
+      - Scripts
+      - Props
+      - Costumes
+      - Set pieces
+      - Audio equipment
+      - Video equipment
+      - Textbooks
+      - Other
+      required: true
+    - id: 6
+      name: specific_materials
+      label: Specific Materials Needed
+      hint: List the specific materials you are requesting
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: quantity_needed
+      label: Quantity Needed
+      hint: How many of each item do you need
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: intended_use
+      label: Intended Use
+      hint: Describe how the materials will be used
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: project_deadline
+      label: Project Deadline
+      hint: When do you need the materials by
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: special_requirements
+      label: Special Requirements or Instructions
+      hint: Any special requirements for the requested materials
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: previous_requests
+      label: Have You Made Similar Requests Recently
+      hint: Have you requested similar materials in the past month
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: funding_source
+      label: Funding Source
+      hint: How will these materials be funded
+      type: select_one
+      options:
+      - Class budget
+      - Personal funds
+      - Grant funding
+      - Department allocation
+      - Other
+      required: true

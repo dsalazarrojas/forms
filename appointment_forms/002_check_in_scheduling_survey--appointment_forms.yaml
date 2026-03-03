@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Check In Scheduling Survey
+    pages:
+    - id: 1
+      name: participant_name
+      label: Full Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: We will send confirmation to this email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: For appointment reminders
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: appointment_type
+      label: Type of Appointment
+      hint: Select the type of service you need
+      type: select_one
+      options:
+      - Initial Consultation
+      - Follow-up Visit
+      - Regular Check-in
+      - Emergency Appointment
+      - Virtual Meeting
+      required: true
+    - id: 5
+      name: preferred_date
+      label: Preferred Date
+      hint: Select your preferred appointment date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: preferred_time
+      label: Preferred Time
+      hint: Select your preferred time slot
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: alternative_date
+      label: Alternative Date
+      hint: Second choice for appointment date
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_visit
+      label: Reason for Visit
+      hint: Briefly describe the purpose of your appointment
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: first_time_visitor
+      label: Is this your first visit
+      hint: Let us know if you are a new client
+      type: select_one
+      options:
+      - Yes, first time
+      - No, returning visitor
+      required: true
+    - id: 10
+      name: special_requirements
+      label: Special Requirements
+      hint: Any accessibility needs or special accommodations
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reminder_preference
+      label: Reminder Preference
+      hint: How would you like to receive reminders
+      type: select_one
+      options:
+      - Email only
+      - SMS only
+      - Both email and SMS
+      - No reminders
+      required: true
+    - id: 12
+      name: how_did_you_hear
+      label: How did you hear about us
+      hint: Help us understand how you found our services
+      type: select_one
+      options:
+      - Online search
+      - Social media
+      - Friend or family referral
+      - Professional referral
+      - Advertisement
+      - Other
+      required: false
+    - id: 13
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information you would like to share
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: confirmation_consent
+      label: I confirm the information provided is accurate
+      hint: By checking this box you confirm accuracy
+      type: select_one
+      options:
+      - Yes, I confirm
+      - false
+      required: true

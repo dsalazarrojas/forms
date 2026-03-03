@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: emergency_services_schedule_preference
+    pages:
+    - id: 1
+      name: emergency_services_shift_preferences
+      label: Emergency Services Shift Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: emergency_services_availability
+      label: Emergency Services Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: emergency_services_preferred_shifts
+      label: Emergency Services Preferred Shifts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_services_constraint_0
+      label: Emergency Services Constraint 0
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: emergency_services_constraint_1
+      label: Emergency Services Constraint 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,165 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 3d Text Effect
+    pages:
+    - id: 1
+      name: section_header_intro
+      label: '--- 3D Text Effect — Feedback Form ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: Email for follow-up and release notes
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: date_submitted
+      label: Date submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: product_version
+      label: Product or plugin version
+      hint: e.g., v1.2.0 or "custom build"
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: satisfaction
+      label: How satisfied are you with 3d Text Effect?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 7
+      name: overall_rating
+      label: Overall rating (1-10)
+      hint: 1 = worst, 10 = best
+      type: integer
+      options: []
+      required: true
+    - id: 8
+      name: experience_aspects
+      label: Which aspects applied to your experience? (select all)
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Easy to use
+      - Fast
+      - Reliable
+      - Missing feature
+      - Confusing
+      - Well designed
+      required: false
+    - id: 9
+      name: usage_context
+      label: Primary usage context
+      hint: Choose the option that best describes how you use the effect
+      type: select_one
+      options:
+      - Personal projects
+      - Client work
+      - Commercial product
+      - Educational/demo
+      - Prototype/experimental
+      required: true
+    - id: 10
+      name: custom_css_applied
+      label: Did you apply custom CSS to achieve the effect?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: css_snippet
+      label: CSS snippet or key properties used
+      hint: Paste a short snippet or describe main properties (transforms, shadows)
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: performance_impact
+      label: Observed performance impact
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Minor (occasional jank)
+      - Moderate (noticeable)
+      - Severe (unusable)
+      required: false
+    - id: 13
+      name: accessibility_issues
+      label: Accessibility issues noticed (select all)
+      hint: Leave blank if none
+      type: select_multiple
+      options:
+      - Low contrast / readability
+      - Focus state missing
+      - Screen reader unreadable
+      - Motion sensitivity / dizziness
+      - None
+      required: false
+    - id: 14
+      name: preferred_presets
+      label: Preferred visual presets (select all)
+      hint: Which built-in styles do you prefer?
+      type: select_multiple
+      options:
+      - Soft shadow
+      - Emboss
+      - Extrude
+      - Glowing edge
+      - Layered offset
+      - Isometric
+      required: false
+    - id: 15
+      name: open_feedback
+      label: What would you improve or change about 3d Text Effect?
+      hint: Provide concrete suggestions or desired features
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Any other observations, environment details, or examples
+      type: text
+      options: []
+      required: false

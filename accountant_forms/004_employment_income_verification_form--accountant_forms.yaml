@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employment Income Verification Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_joining
+      label: date_of_joining
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: employee_number
+      label: Employee Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: income_verification
+      label: Income Verification
+      hint: null
+      type: select_multiple
+      options:
+      - Salary
+      - Benefits
+      - Other Income
+      required: false
+    - id: 5
+      name: verification_period
+      label: Verification Period
+      hint: null
+      type: select_one
+      options:
+      - Within 1 year
+      - Within 2 years
+      - Within 5 years
+      required: false
+    - id: 6
+      name: income_amount
+      label: Income Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Currently Employed
+      - Previously Employed
+      - Not Employed
+      required: false
+    - id: 8
+      name: verification_result
+      label: Verification Result
+      hint: null
+      type: select_one
+      options:
+      - Verified
+      - Not Verified
+      - Pending
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: employee_address
+      label: Employee Address
+      hint: null
+      type: text
+      options: []
+      required: false

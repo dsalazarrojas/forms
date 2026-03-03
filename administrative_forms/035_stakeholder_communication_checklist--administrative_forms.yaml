@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stakeholder Communication Checklist
+    pages:
+    - id: 1
+      name: stakeholder_name
+      label: Stakeholder Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: stakeholder_email
+      label: Stakeholder Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: stakeholder_phone
+      label: Stakeholder Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: meeting_note
+      label: Meeting Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: stakeholder_message
+      label: Stakeholder Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: meeting_time
+      label: Meeting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: meeting_location
+      label: Meeting Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: followup_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: followup_note
+      label: Follow-up Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: followup_phone
+      label: Follow-up Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: meeting_attendees
+      label: Meeting Attendees
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: meeting_outcomes
+      label: Meeting Outcomes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: communication_channels
+      label: Communication Channels
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - In-person
+      - Video call
+      - Chat
+      required: true
+    - id: 16
+      name: meeting_type
+      label: Meeting Type
+      hint: null
+      type: select_one
+      options:
+      - Regular
+      - Ad-hoc
+      - Virtual
+      - In-person
+      required: true
+    - id: 17
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - In Progress
+      - Completed
+      - On Hold
+      required: true
+    - id: 18
+      name: stakeholder_relationship
+      label: Stakeholder Relationship
+      hint: null
+      type: select_one
+      options:
+      - Partner
+      - Customer
+      - Employee
+      - Vendor
+      - Other
+      required: true
+    - id: 19
+      name: stakeholder_priority
+      label: Stakeholder Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 20
+      name: meeting_duration
+      label: Meeting Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: meeting_frequency
+      label: Meeting Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: stakeholder_notes
+      label: Stakeholder Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: followup_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - Done
+      - Pending
+      - Not Required
+      required: true
+    - id: 24
+      name: followup_frequency
+      label: Follow-up Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Never
+      required: true
+    - id: 25
+      name: stakeholder_category
+      label: Stakeholder Category
+      hint: null
+      type: select_one
+      options:
+      - Internal
+      - External
+      - Customer
+      - Partner
+      - Other
+      required: true

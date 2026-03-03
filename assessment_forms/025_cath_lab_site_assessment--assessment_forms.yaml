@@ -1,0 +1,253 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cath Lab Site Assessment
+    pages:
+      - id: 1
+        name: section_assessment_header
+        label: -- Assessment Header --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: assessment_date
+        label: Assessment Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: assessor_name
+        label: Assessor Name
+        hint: Person conducting assessment
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: facility_name
+        label: Facility Name
+        hint: Hospital or clinic
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: facility_location
+        label: Facility Location
+        hint: City and state
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: section_facility_infrastructure
+        label: -- Facility Infrastructure --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: building_condition
+        label: Building Condition
+        hint: Overall structural integrity
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - Unacceptable
+        required: true
+      - id: 8
+        name: hvac_adequacy
+        label: HVAC System Adequacy
+        hint: Air handling and temperature control
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - Inadequate
+        required: true
+      - id: 9
+        name: electrical_system
+        label: Electrical System Rating
+        hint: Power capacity and safety
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - Needs Upgrade
+        required: true
+      - id: 10
+        name: plumbing_systems
+        label: Plumbing Systems Assessment
+        hint: Water supply and drainage
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - Needs Upgrade
+        required: true
+      - id: 11
+        name: section_safety_compliance
+        label: -- Safety and Compliance --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: fire_safety_systems
+        label: Fire Safety Systems
+        hint: Sprinklers, alarms, exits
+        type: select_one
+        options:
+          - Compliant
+          - Minor Issues
+          - Major Issues
+          - Not Compliant
+        required: true
+      - id: 13
+        name: emergency_protocols
+        label: Emergency Protocols in Place
+        hint: null
+        type: select_one
+        options:
+          - Fully Documented
+          - Partially Documented
+          - Minimal Documentation
+          - None
+        required: true
+      - id: 14
+        name: infection_control
+        label: Infection Control Standards
+        hint: Sterilization and hygiene protocols
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - Needs Improvement
+        required: true
+      - id: 15
+        name: radiation_protection
+        label: Radiation Protection Measures
+        hint: Shielding and safety protocols
+        type: select_one
+        options:
+          - Compliant
+          - Mostly Compliant
+          - Minor Issues
+          - Non-Compliant
+        required: true
+      - id: 16
+        name: section_equipment_readiness
+        label: -- Equipment and Readiness --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: existing_equipment_condition
+        label: Existing Equipment Condition
+        hint: Functionality and maintenance status
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - Needs Replacement
+        required: true
+      - id: 18
+        name: maintenance_schedule
+        label: Equipment Maintenance Schedule
+        hint: Regular preventive maintenance
+        type: select_one
+        options:
+          - Documented and Current
+          - Partially Documented
+          - Minimal Documentation
+          - None
+        required: true
+      - id: 19
+        name: staffing_levels
+        label: Staffing Levels
+        hint: Adequate trained personnel
+        type: select_one
+        options:
+          - Adequate
+          - Sufficient
+          - Insufficient
+          - Critical Shortage
+        required: true
+      - id: 20
+        name: section_training_certification
+        label: -- Training and Certification --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: staff_training_current
+        label: Staff Training Current
+        hint: Up-to-date certifications
+        type: select_one
+        options:
+          - All Current
+          - Mostly Current
+          - Some Out of Date
+          - Most Out of Date
+        required: true
+      - id: 22
+        name: continuing_education
+        label: Continuing Education Programs
+        hint: In place and active
+        type: select_one
+        options:
+          - Comprehensive
+          - Adequate
+          - Limited
+          - None
+        required: false
+      - id: 23
+        name: section_overall_assessment
+        label: -- Overall Assessment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 24
+        name: overall_facility_rating
+        label: Overall Facility Readiness
+        hint: null
+        type: select_one
+        options:
+          - Ready for Operations
+          - Ready with Minor Issues
+          - Needs Improvements
+          - Not Ready
+        required: true
+      - id: 25
+        name: assessment_comments
+        label: Detailed Comments and Recommendations
+        hint: Findings and action items
+        type: text
+        options: []
+        required: false

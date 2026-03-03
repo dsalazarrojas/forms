@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Yard Security Assessment Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Yard Security Assessment Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Assessment Forms
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: security_risk
+      label: security_risk
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 5
+      name: hazard_location
+      label: hazard_location
+      hint: null
+      type: select_one
+      options:
+      - Inside the property
+      - Outside the property
+      required: false
+    - id: 6
+      name: hazard_description
+      label: hazard_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: hazard_frequency
+      label: hazard_frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 8
+      name: hazard_probability
+      label: hazard_probability
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      - None
+      required: false
+    - id: 9
+      name: action_taken
+      label: action_taken
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: action_description
+      label: action_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: risk_level
+      label: risk_level
+      hint: null
+      type: select_one
+      options:
+      - Critical
+      - Moderate
+      - Low
+      required: false
+    - id: 12
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: followup
+      label: followup
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: followup_details
+      label: followup_details
+      hint: null
+      type: text
+      options: []
+      required: false

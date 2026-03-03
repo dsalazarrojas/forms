@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Expense Report Form
+    pages:
+    - id: 1
+      name: company_1
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category_1
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 3
+      name: description_1
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: cost_1
+      label: Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: cost_2
+      label: Cost 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: date_1
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_1
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: uploaded_files_1
+      label: Uploaded Files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: uploaded_files_2
+      label: Uploaded Files 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email_1
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_1
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: note_1
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

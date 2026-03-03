@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Crane Safety Assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: crane_details
+      label: Crane Details
+      hint: Please enter crane details here
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: hazard_found
+      label: Hazard Found
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: hazard_description
+      label: Hazard Description
+      hint: Describe the hazard found
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - High
+      required: false
+    - id: 8
+      name: corrective_action
+      label: Corrective Action
+      hint: Describe the corrective action taken
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: inspector_comments
+      label: Inspector Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: safety_meeting
+      label: Safety Meeting
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: next_safety_inspection
+      label: Next Safety Inspection
+      hint: Date of next safety inspection
+      type: date
+      options: []
+      required: false

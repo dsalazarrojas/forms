@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Movie Awards Nomination Form
+    pages:
+    - id: 1
+      name: movie_awards_nomination_form
+      label: Movie Awards Nomination Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: movie_title
+      label: Movie Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: movie_year
+      label: Movie Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: nominee_name
+      label: Nominee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: nominee_email
+      label: Nominee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: nominee_phone
+      label: Nominee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: nomination_message
+      label: Nomination Message
+      hint: null
+      type: text
+      options: []
+      required: false

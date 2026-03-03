@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pharmacy Inspection Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: safety_standards
+      label: Safety Standards
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: compliance_checklist
+      label: Compliance Checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: facility_info
+      label: Facility Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: equipment_maintenance
+      label: Equipment Maintenance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: personnel_info
+      label: Personnel Information
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: safety_equipment
+      label: Safety Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: corrective_action
+      label: Corrective Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: overall_safety_rating
+      label: Overall Safety Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false

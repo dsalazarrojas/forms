@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: vendor_audit_form
+    pages:
+    - id: 1
+      name: vendor_info
+      label: vendor_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendor_address
+      label: vendor_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vendor_rating
+      label: vendor_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: rating_reasons
+      label: rating_reasons
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 5
+      name: vendor_notes
+      label: vendor_notes
+      hint: null
+      type: text
+      options: []
+      required: false

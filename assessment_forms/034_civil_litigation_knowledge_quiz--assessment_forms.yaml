@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Civil Litigation Knowledge Quiz
+    pages:
+    - id: 1
+      name: trainee_details_header
+      label: -- Trainee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: trainee_name
+      label: Trainee Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department_unit
+      label: Department or Practice Area
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: quiz_questions_header
+      label: -- Litigation Concepts Quiz --
+      hint: Select the most accurate answer for each question
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: q1_discovery_method
+      label: Which discovery method involves oral testimony under oath?
+      hint: null
+      type: select_one
+      options:
+      - Interrogatory
+      - Request for Production
+      - Deposition
+      - Request for Admission
+      required: true
+    - id: 6
+      name: q2_pleading_type
+      label: Which document starts a civil lawsuit?
+      hint: null
+      type: select_one
+      options:
+      - Answer
+      - Summons and Complaint
+      - Motion to Dismiss
+      - Scheduling Order
+      required: true
+    - id: 7
+      name: q3_statute_limitations
+      label: What term describes the legal time limit to file a lawsuit?
+      hint: null
+      type: select_one
+      options:
+      - Laches
+      - Estoppel
+      - Statute of Limitations
+      - Jurisdiction
+      required: true
+    - id: 8
+      name: q4_burden_proof
+      label: What is the standard burden of proof in most civil cases?
+      hint: null
+      type: select_one
+      options:
+      - Beyond a reasonable doubt
+      - Preponderance of the evidence
+      - Clear and convincing evidence
+      - Probable cause
+      required: true
+    - id: 9
+      name: q5_summary_judgment
+      label: What motion is filed when there is no genuine dispute as to any material
+        fact?
+      hint: null
+      type: select_one
+      options:
+      - Motion for New Trial
+      - Motion for Summary Judgment
+      - Motion to Compel
+      - Motion in Limine
+      required: true
+    - id: 10
+      name: q6_hearsay_rule
+      label: Generally, is hearsay admissible as evidence at trial?
+      hint: null
+      type: select_one
+      options:
+      - Yes, always
+      - No, unless an exception applies
+      - Only in criminal cases
+      - Only if the witness is unavailable
+      required: true
+    - id: 11
+      name: q7_jurisdiction_def
+      label: What term refers to a court's authority to hear a case?
+      hint: null
+      type: select_one
+      options:
+      - Venue
+      - Jurisdiction
+      - Standing
+      - Ripeness
+      required: true
+    - id: 12
+      name: quiz_difficulty_feedback
+      label: How would you rate the difficulty of this assessment?
+      hint: null
+      type: select_one
+      options:
+      - Very Easy
+      - Appropriate
+      - Challenging
+      - Extremely Difficult
+      required: false
+    - id: 13
+      name: time_spent_minutes
+      label: Estimated time taken to complete (minutes)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: review_request
+      label: Would you like to review the correct answers with a supervisor?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: completion_date
+      label: Date of Completion
+      hint: null
+      type: date
+      options: []
+      required: true

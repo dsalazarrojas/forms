@@ -1,0 +1,232 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Annual Review Process Checklist
+    pages:
+      - id: 1
+        name: department
+        label: Department
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: review_coordinator
+        label: Review Coordinator Name
+        hint: Person managing the review process
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: coordinator_email
+        label: Coordinator Email
+        hint: Contact email
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: review_period
+        label: Annual Review Period
+        hint: Dates covered by this review cycle
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: launch_date
+        label: Review Process Launch Date
+        hint: When review cycle begins
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: completion_deadline
+        label: Completion Deadline
+        hint: Target date for all reviews complete
+        type: date
+        options: []
+        required: true
+      - id: 7
+        name: employee_notification_sent
+        label: Employee notification sent
+        hint: Employees informed of review schedule
+        type: select_one
+        options:
+          - "Completed"
+          - "In progress"
+          - "Not started"
+          - "N/A"
+        required: true
+      - id: 8
+        name: notification_date
+        label: Notification Date
+        hint: When employees were notified
+        type: date
+        options: []
+        required: false
+      - id: 9
+        name: manager_training_completed
+        label: Manager training on review process
+        hint: Managers trained on proper procedures
+        type: select_one
+        options:
+          - "Completed"
+          - "In progress"
+          - "Not started"
+          - "N/A"
+        required: true
+      - id: 10
+        name: training_date
+        label: Training Date
+        hint: When manager training occurred
+        type: date
+        options: []
+        required: false
+      - id: 11
+        name: self_evaluations_collected
+        label: Employee self-evaluations collected
+        hint: Employees completed self-assessments
+        type: select_one
+        options:
+          - "Completed"
+          - "In progress"
+          - "Not started"
+          - "Not required"
+        required: true
+      - id: 12
+        name: self_eval_submission_date
+        label: Self-evaluation deadline
+        hint: When were they due
+        type: date
+        options: []
+        required: false
+      - id: 13
+        name: peer_feedback_requested
+        label: Peer feedback requested
+        hint: Feedback from colleagues collected
+        type: select_one
+        options:
+          - "Completed"
+          - "In progress"
+          - "Not started"
+          - "Not required"
+        required: true
+      - id: 14
+        name: peer_feedback_date
+        label: Peer feedback collection date
+        hint: When feedback was requested
+        type: date
+        options: []
+        required: false
+      - id: 15
+        name: manager_evaluations_started
+        label: Manager evaluations started
+        hint: Managers begun conducting reviews
+        type: select_one
+        options:
+          - "Completed"
+          - "In progress"
+          - "Not started"
+        required: true
+      - id: 16
+        name: evaluation_start_date
+        label: Evaluation start date
+        hint: When managers started evaluations
+        type: date
+        options: []
+        required: false
+      - id: 17
+        name: direct_report_feedback_collected
+        label: Direct report feedback collected
+        hint: Feedback from supervisees gathered
+        type: select_one
+        options:
+          - "Completed"
+          - "In progress"
+          - "Not started"
+          - "Not required"
+        required: true
+      - id: 18
+        name: feedback_deadline
+        label: Feedback deadline
+        hint: When feedback was due
+        type: date
+        options: []
+        required: false
+      - id: 19
+        name: calibration_sessions_held
+        label: Calibration sessions held
+        hint: Cross-team discussions on ratings
+        type: select_one
+        options:
+          - "Completed"
+          - "In progress"
+          - "Not started"
+          - "Not planned"
+        required: true
+      - id: 20
+        name: calibration_date
+        label: Calibration session date
+        hint: When sessions occurred
+        type: date
+        options: []
+        required: false
+      - id: 21
+        name: review_meetings_scheduled
+        label: Review meetings scheduled
+        hint: One-on-one meetings arranged
+        type: select_one
+        options:
+          - "All scheduled"
+          - "Most scheduled"
+          - "In progress"
+          - "Not started"
+        required: true
+      - id: 22
+        name: review_meetings_completed
+        label: Review meetings completed
+        hint: Managers held discussions with employees
+        type: select_one
+        options:
+          - "Completed"
+          - "In progress"
+          - "Not started"
+        required: true
+      - id: 23
+        name: meeting_completion_date
+        label: Meetings completion date
+        hint: When meetings were finished
+        type: date
+        options: []
+        required: false
+      - id: 24
+        name: documentation_submitted
+        label: Documentation submitted to HR
+        hint: All review forms collected
+        type: select_one
+        options:
+          - "Completed"
+          - "In progress"
+          - "Not started"
+        required: true
+      - id: 25
+        name: final_approval_obtained
+        label: Final approvals obtained
+        hint: Executive approval of ratings
+        type: select_one
+        options:
+          - "Completed"
+          - "In progress"
+          - "Not started"
+          - "Not required"
+        required: true

@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workflow Documentation Form
+    pages:
+    - id: 1
+      name: workflow_documentation_form_start
+      label: workflow_documentation_form_start_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: team_member
+      label: team_member_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_manager
+      label: project_manager_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_manager_contact_info
+      label: project_manager_contact_info_label
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: team_lead
+      label: team_lead_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team_lead_contact_info
+      label: team_lead_contact_info_label
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: project_lead
+      label: project_lead_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_lead_contact_info
+      label: project_lead_contact_info_label
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: team_lead_delegate
+      label: team_lead_delegate_label
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''John''}'
+      - '{''value'': ''Jane''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 10
+      name: project_documentation_status
+      label: project_documentation_status_label
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''In Progress''}'
+      - '{''value'': ''Completed''}'
+      - '{''value'': ''On Hold''}'
+      required: false
+    - id: 11
+      name: project_documentation_last_updated
+      label: project_documentation_last_updated_label
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: project_documentation_last_updated_time
+      label: project_documentation_last_updated_time_label
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: project_documentation_last_updated_by
+      label: project_documentation_last_updated_by_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: project_documentation_last_updated_note
+      label: project_documentation_last_updated_note_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: project_documental_version
+      label: project_documental_version_label
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: project_documentation_review_cycle
+      label: project_documentation_review_cycle_label
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Review Cycle 1''}'
+      - '{''value'': ''Review Cycle 2''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 17
+      name: project_documentation_review_cycle_status
+      label: project_documentation_review_cycle_status_label
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''In Progress''}'
+      - '{''value'': ''Completed''}'
+      - '{''value'': ''On Hold''}'
+      required: false
+    - id: 18
+      name: project_documentation_review_cycle_last_updated
+      label: project_documentation_review_cycle_last_updated_label
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: project_documentation_review_cycle_last_updated_by
+      label: project_documentation_review_cycle_last_updated_by_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: project_documentation_review_cycle_last_updated_note
+      label: project_documentation_review_cycle_last_updated_note_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: project_documentation_review_cycle_version
+      label: project_documentation_review_cycle_version_label
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: project_documentation_review_cycle_version_status
+      label: project_documental_review_cycle_version_status_label
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''In Progress''}'
+      - '{''value'': ''Completed''}'
+      - '{''value'': ''On Hold''}'
+      required: false
+    - id: 23
+      name: project_documentation_review_cycle_version_note
+      label: project_documental_review_cycle_version_note_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: project_documentation_review_cycle_last_updated_by_note
+      label: project_documental_review_cycle_last_updated_by_note_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submission_date
+      label: submission_date_label
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 26
+      name: project_documentation_review_cycle_last_updated_at
+      label: project_documentation_review_cycle_last_updated_at_label
+      hint: null
+      type: time
+      options: []
+      required: false

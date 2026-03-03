@@ -1,0 +1,233 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: note_creation_and_management_form
+    pages:
+    - id: 1
+      name: meeting_record
+      label: Meeting Record
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Meeting
+      - Project
+      - Follow-up
+      required: true
+    - id: 3
+      name: note
+      label: Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: update_frequency
+      label: Update Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 5
+      name: reminder
+      label: Reminder
+      hint: null
+      type: select_multiple
+      options:
+      - 1 day
+      - 1 week
+      - 1 month
+      required: false
+    - id: 6
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: due_time
+      label: Due Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: shared_users
+      label: Shared Users
+      hint: null
+      type: select_multiple
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: false
+    - id: 9
+      name: shared_groups
+      label: Shared Groups
+      hint: null
+      type: select_multiple
+      options:
+      - Group 1
+      - Group 2
+      - Group 3
+      required: false
+    - id: 10
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: true
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - Tool 1
+      - Tool 2
+      - Tool 3
+      required: false
+    - id: 12
+      name: note_status
+      label: Note Status
+      hint: null
+      type: select_one
+      options:
+      - Draft
+      - Published
+      - Archived
+      required: false
+    - id: 13
+      name: note_priority
+      label: Note Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Medium
+      required: false
+    - id: 14
+      name: note_tags
+      label: Note Tags
+      hint: null
+      type: select_multiple
+      options:
+      - tag1
+      - tag2
+      - tag3
+      required: false
+    - id: 15
+      name: note_comments
+      label: Note Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: note_file
+      label: Note File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: note_file_type
+      label: Note File Type
+      hint: null
+      type: select_one
+      options:
+      - Image
+      - Video
+      - Audio
+      required: false
+    - id: 18
+      name: note_category
+      label: Note Category
+      hint: null
+      type: select_multiple
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: false
+    - id: 19
+      name: note_comments
+      label: Note Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: false
+    - id: 21
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: false
+    - id: 22
+      name: creation_date
+      label: Creation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: updated_time
+      label: Updated Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: updated_date
+      label: Updated Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true

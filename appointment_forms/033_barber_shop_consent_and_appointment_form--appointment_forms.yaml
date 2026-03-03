@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Barber Shop Consent and Appointment Form
+    pages:
+    - id: 1
+      name: appointment_booking_header
+      label: -- Book Your Appointment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: select_barber
+      label: Select Your Preferred Barber
+      hint: Or select "First Available"
+      type: select_one
+      options:
+      - First Available
+      - Marcus (Master Barber)
+      - Sarah (Stylist)
+      - David (Beard Specialist)
+      - Elena (Fades Expert)
+      required: true
+    - id: 5
+      name: service_selection
+      label: Select Service(s)
+      hint: Duration and pricing varies by barber
+      type: select_multiple
+      options:
+      - Classic Haircut (45 min)
+      - Executive Shave (60 min)
+      - Beard Grooming (30 min)
+      - Kids Cut - Under 12 (30 min)
+      - Buzz Cut (20 min)
+      - Color / Gray Blending (60 min)
+      required: true
+    - id: 6
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: consent_waiver_header
+      label: -- Service Consent and Liability Waiver --
+      hint: Please read carefully before signing
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: razor_consent
+      label: Straight Razor Consent
+      hint: I consent to the use of a straight razor for my shave or neck line
+      type: select_one
+      options:
+      - I Consent
+      - I Decline (Use electric trimmers only)
+      required: true
+    - id: 10
+      name: chemical_consent
+      label: Chemical Service Consent
+      hint: I understand that chemical services (color, perms) carry risks of allergic
+        reaction or hair damage
+      type: select_one
+      options:
+      - I Understand and Consent
+      - N/A - Not receiving chemical services
+      required: true
+    - id: 11
+      name: liability_release
+      label: General Liability Release
+      hint: I release the barbershop from liability for accidental nicks, cuts, or
+        skin irritation
+      type: select_one
+      options:
+      - I Agree to the Release
+      - Other
+      required: true
+    - id: 12
+      name: minor_consent_header
+      label: -- Parental Consent (For Minors) --
+      hint: Required if client is under 18
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: parent_guardian_name
+      label: Parent / Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: cancellation_policy_check
+      label: I acknowledge the 24-hour cancellation policy
+      hint: Missed appointments without notice will be charged 50% of the service
+        fee
+      type: select_one
+      options:
+      - I Acknowledge and Agree
+      - Other
+      required: true
+    - id: 15
+      name: digital_signature
+      label: Electronic Signature
+      hint: Type your full name to confirm appointment and agreement
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: sign_date
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: special_requests
+      label: Special Instructions or Requests for the Barber
+      hint: e.g., Wheelchair access needed, sensory sensitivities
+      type: text
+      options: []
+      required: false

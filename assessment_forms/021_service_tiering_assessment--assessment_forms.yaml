@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Tiering Assessment
+    pages:
+    - id: 1
+      name: first_page
+      label: Service Tiering Assessment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: service_name
+      label: service_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: support_level
+      label: Support Level
+      hint: High, Medium, or Low
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 4
+      name: priority
+      label: priority
+      hint: Low, Medium, or High
+      type: select_one
+      options:
+      - .reported - Low - Medium - High
+      - Other
+      required: false
+    - id: 5
+      name: tiering_decision
+      label: Tiering Decision
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: select_multiple
+      options:
+      - Create a plan to improve service performance
+      - Monitor and review tiering decisions
+      - Document and store tiering data
+      required: true
+    - id: 9
+      name: date_reviewed
+      label: Date Reviewed
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: date_approved
+      label: Date Approved
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: date_due
+      label: Date Due
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false

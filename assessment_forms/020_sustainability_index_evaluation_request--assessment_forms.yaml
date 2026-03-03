@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sustainability Index Evaluation Request
+    pages:
+    - id: 1
+      name: request_context
+      label: Request context
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: focus_areas
+      label: Focus areas
+      hint: null
+      type: select_multiple
+      options:
+      - ESG Focus Areas
+      - Environmental, Social and Governance
+      required: false
+    - id: 3
+      name: company_info
+      label: Company information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: documentation
+      label: Documentation
+      hint: null
+      type: select_one
+      options:
+      - Financial reports
+      - Sustainability reports
+      - Other
+      - Additional files
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: evaluator_comments
+      label: Evaluator comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: evaluator_name
+      label: Evaluator name
+      hint: null
+      type: text
+      options: []
+      required: false

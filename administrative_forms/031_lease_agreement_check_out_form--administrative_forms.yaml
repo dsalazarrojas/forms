@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lease Agreement Check Out Form
+    pages:
+    - id: 1
+      name: check_out_date
+      label: Check Out Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: lease_end_date
+      label: Lease End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: tenant_move_in
+      label: Tenant Move In Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: property_manager
+      label: Property Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: tenant
+      label: Tenant
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: reason_for_move_out
+      label: Reason for Move Out
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: check_out_condition
+      label: Check Out Condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_one
+      options:
+      - Clean
+      - Damaged
+      - Dirty
+      - Junk
+      required: true
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjimmy2
+      - chatjimmy3
+      required: true
+    - id: 12
+      name: tenant_sign_date
+      label: Tenant Sign Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: property_sign_date
+      label: Property Sign Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: property_status_update
+      label: Property Status Update
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Pending
+      - Cancelled
+      - Completed
+      required: false
+    - id: 15
+      name: lease_terms
+      label: Lease Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: move_in_condition
+      label: Move In Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: property_condition
+      label: Property Condition
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: property_condition_2
+      label: Property Condition 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: property_condition_3
+      label: Property Condition 3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: tenant_signature
+      label: Tenant Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: property_signature
+      label: Property Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: comments_2
+      label: Comments 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: property_manager_signature
+      label: Property Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: property_manager_comments
+      label: Property Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false

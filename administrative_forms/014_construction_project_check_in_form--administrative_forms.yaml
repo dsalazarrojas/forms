@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Project Check In Form
+    pages:
+    - id: 1
+      name: section_check_in_header
+      label: -- Check In Header --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: visitor_name
+      label: Visitor name
+      hint: Full name of person checking in
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_affiliation
+      label: Company affiliation
+      hint: Company or trade
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact phone
+      hint: Phone number for the visitor
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: check_in_time
+      label: Check in time
+      hint: Time of arrival
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: purpose_of_visit
+      label: Purpose of visit
+      hint: Reason for being on site today
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: site_safety_briefing_received
+      label: Site safety briefing received
+      hint: Confirm if safety briefing was given
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: equipment_checked_in
+      label: Equipment checked in note
+      hint: Note any equipment or tools brought on site
+      type: text
+      options: []
+      required: false

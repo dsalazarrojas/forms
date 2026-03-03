@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Inspection Verification Form
+    pages:
+    - id: 1
+      name: vehicle_inspection_form
+      label: Vehicle Inspection Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_year
+      label: Year
+      hint: null
+      type: select_one
+      options:
+      - '2005'
+      - '2006'
+      - '2007'
+      - '2008'
+      - '2009'
+      required: false
+    - id: 3
+      name: vehicle_make
+      label: Make
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: vehicle_model
+      label: Model
+      hint: null
+      type: select_multiple
+      options:
+      - Camry
+      - Corolla
+      - Sentra
+      - Sienna
+      required: false
+    - id: 5
+      name: vehicle_year_made
+      label: Year Made
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_license_plate
+      label: License Plate Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_inspection_result
+      label: Inspection Result
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: false
+    - id: 9
+      name: vehicle_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_repaired_parts
+      label: Repaired Parts
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Battery
+      - Oil
+      - Brake
+      required: false
+    - id: 11
+      name: vehicle_repaired_costs
+      label: Repaired Costs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_inspector_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: vehicle_inspector_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agile Certification Assessment
+    pages:
+    - id: 1
+      name: candidate_full_name
+      label: Candidate Full Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: candidate_email
+      label: Candidate Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: candidate_phone
+      label: Candidate Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: assessment_date
+      label: Assessment Date
+      hint: Enter the date of the assessment
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: certification_level
+      label: Certification Level
+      hint: Select the level of certification being assessed
+      type: select_one
+      options:
+      - Agile Fundamentals
+      - Certified Scrum Master
+      - Agile Developer
+      - Agile Product Owner
+      - Agile Coach
+      - Advanced Agile Practitioner
+      required: true
+    - id: 6
+      name: professional_background_header
+      label: -- Professional Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: years_of_experience
+      label: Years of Experience in Agile Methodologies
+      hint: How many years of experience do you have with Agile methodologies?
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: agile_roles_held
+      label: Agile Roles Previously Held
+      hint: Select all Agile roles you have previously held
+      type: select_multiple
+      options:
+      - Scrum Master
+      - Product Owner
+      - Development Team Member
+      - Agile Coach
+      - Project Manager
+      - Team Lead
+      - Other
+      required: true
+    - id: 9
+      name: agile_frameworks_experience
+      label: Agile Frameworks Experience
+      hint: Which Agile frameworks have you worked with?
+      type: select_multiple
+      options:
+      - Scrum
+      - Kanban
+      - Lean
+      - XP (Extreme Programming)
+      - SAFe
+      - Crystal
+      - Feature Driven Development
+      - Other
+      required: true
+    - id: 10
+      name: knowledge_assessment_header
+      label: -- Knowledge Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: agile_principles_understanding
+      label: Understanding of Agile Principles
+      hint: Rate your understanding of the Agile Manifesto and its principles (1-5
+        scale)
+      type: select_one
+      options:
+      - 1 - Limited
+      - 2 - Basic
+      - 3 - Moderate
+      - 4 - Good
+      - 5 - Excellent
+      required: true
+    - id: 12
+      name: scrum_process_knowledge
+      label: Scrum Process Knowledge
+      hint: Rate your knowledge of Scrum processes and ceremonies (1-5 scale)
+      type: select_one
+      options:
+      - 1 - Limited
+      - 2 - Basic
+      - 3 - Moderate
+      - 4 - Good
+      - 5 - Excellent
+      required: true
+    - id: 13
+      name: agile_tool_proficiency
+      label: Agile Tool Proficiency
+      hint: Rate your proficiency with Agile project management tools (1-5 scale)
+      type: select_one
+      options:
+      - 1 - Limited
+      - 2 - Basic
+      - 3 - Moderate
+      - 4 - Good
+      - 5 - Excellent
+      required: true
+    - id: 14
+      name: sprint_planning_skill
+      label: Sprint Planning Skill
+      hint: Rate your ability to facilitate effective sprint planning (1-5 scale)
+      type: select_one
+      options:
+      - 1 - Limited
+      - 2 - Basic
+      - 3 - Moderate
+      - 4 - Good
+      - 5 - Excellent
+      required: true
+    - id: 15
+      name: stakeholder_communication_skill
+      label: Stakeholder Communication Skill
+      hint: Rate your ability to communicate with stakeholders in Agile environments
+        (1-5 scale)
+      type: select_one
+      options:
+      - 1 - Limited
+      - 2 - Basic
+      - 3 - Moderate
+      - 4 - Good
+      - 5 - Excellent
+      required: true
+    - id: 16
+      name: practical_application_header
+      label: -- Practical Application --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: agile_project_examples
+      label: Agile Project Examples
+      hint: Describe 1-2 Agile projects you have worked on
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: challenges_overcome
+      label: Challenges Overcome
+      hint: Describe challenges you have overcome in Agile implementations
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: continuous_improvement_initiatives
+      label: Continuous Improvement Initiatives
+      hint: Describe initiatives you have led or contributed to for continuous improvement
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: certification_motivation
+      label: Certification Motivation
+      hint: Why are you pursuing this Agile certification?
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: future_agile_goals
+      label: Future Agile Goals
+      hint: What are your goals for applying Agile methodologies in the future?
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: assessor_evaluation
+      label: Assessor Evaluation
+      hint: Assessor's evaluation of the candidate
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: certification_recommendation
+      label: Certification Recommendation
+      hint: Does the assessor recommend certification?
+      type: select_one
+      options:
+      - Recommended
+      - Conditionally Recommended
+      - Not Recommended
+      - Requires Additional Assessment
+      required: true

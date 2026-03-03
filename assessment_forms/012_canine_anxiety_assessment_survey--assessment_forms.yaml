@@ -1,0 +1,261 @@
+inputSchema:
+  type: object
+  properties:
+    title: Canine Anxiety Assessment Survey
+    pages:
+    - id: 1
+      name: intro_header
+      label: -- Dog Anxiety Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_text
+      label: This assessment helps us understand your dog's anxiety patterns. Please
+        answer honestly based on your observations.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: owner_info_header
+      label: -- Owner Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: owner_name
+      label: Owner Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: dog_info_header
+      label: -- Dog Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: dog_name
+      label: Dog Name
+      hint: Your dog's name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: dog_age
+      label: Dog Age
+      hint: In years
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: dog_breed
+      label: Breed or Mix
+      hint: Dog breed
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: time_owned
+      label: How long have you owned this dog?
+      hint: Select one
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6 months to 1 year
+      - 1-2 years
+      - 2-5 years
+      - 5-10 years
+      - More than 10 years
+      required: true
+    - id: 12
+      name: previous_behavior_header
+      label: -- Previous Behavior/History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: behavior_history
+      label: Has your dog shown anxiety symptoms before?
+      hint: Select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 14
+      name: trauma_history
+      label: Is there a known trauma or trigger in the dog's history?
+      hint: Select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: false
+    - id: 15
+      name: anxiety_triggers_header
+      label: -- Anxiety Triggers --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: primary_triggers
+      label: What situations trigger anxiety in your dog?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Loud noises
+      - Thunderstorms
+      - Fireworks
+      - Separation from owner
+      - New people/strangers
+      - Other dogs
+      - Veterinary visits
+      - Car rides
+      - Changes in routine
+      - Certain environments
+      - Unknown triggers
+      required: false
+    - id: 17
+      name: trigger_intensity
+      label: How intense are the anxiety responses?
+      hint: Rate severity
+      type: select_one
+      options:
+      - Mild - occasional whimpering
+      - Moderate - clear distress behaviors
+      - Severe - significant behavioral changes
+      - Extreme - panic response
+      required: true
+    - id: 18
+      name: anxiety_symptoms_header
+      label: -- Anxiety Symptoms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: physical_symptoms
+      label: What physical symptoms does your dog show?
+      hint: Select all observed symptoms
+      type: select_multiple
+      options:
+      - Panting
+      - Excessive drooling
+      - Trembling
+      - Pacing
+      - Restlessness
+      - Loss of appetite
+      - Excessive shedding
+      - Tail tucking
+      - Pinned back ears
+      - Dilated pupils
+      - No physical symptoms
+      required: false
+    - id: 20
+      name: behavioral_symptoms
+      label: What behavioral symptoms does your dog show?
+      hint: Select all observed behaviors
+      type: select_multiple
+      options:
+      - Whining or barking excessively
+      - Destructive behavior
+      - Hiding or withdrawal
+      - Aggression
+      - Excessive licking
+      - Self-injury
+      - Inappropriate elimination
+      - Clinginess
+      - Freezing behavior
+      - No behavioral symptoms
+      required: false
+    - id: 21
+      name: frequency_header
+      label: -- Frequency and Duration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: episode_frequency
+      label: How often do anxiety episodes occur?
+      hint: Select one
+      type: select_one
+      options:
+      - Daily
+      - Several times per week
+      - Weekly
+      - Monthly
+      - Occasionally
+      - Rarely
+      required: true
+    - id: 23
+      name: episode_duration
+      label: How long do episodes typically last?
+      hint: Select one
+      type: select_one
+      options:
+      - Minutes
+      - 30 minutes to 1 hour
+      - 1-2 hours
+      - Several hours
+      - All day
+      required: false
+    - id: 24
+      name: management_header
+      label: -- Current Management Strategies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: current_strategies
+      label: What management strategies do you currently use?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Medication
+      - Training
+      - Environmental modification
+      - Comfort items
+      - Calming supplements
+      - Exercise
+      - Desensitization
+      - Counter-conditioning
+      - Nothing yet
+      required: false
+    - id: 26
+      name: strategy_effectiveness
+      label: How effective are current strategies?
+      hint: Select one
+      type: select_one
+      options:
+      - Very Effective
+      - Somewhat Effective
+      - Minimally Effective
+      - Not Effective
+      - No strategies in place
+      required: false

@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Awards Application Form Template
+    pages:
+    - id: 1
+      name: section_applicant_info
+      label: -- Applicant and Organization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email
+      label: Email Address
+      hint: For official communication
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: applicant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: applicant_org
+      label: Organization or Business Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_award_entry
+      label: -- Award Entry and Project Details --
+      hint: Provide the core details of your submission
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: award_category
+      label: Award Category
+      hint: Choose the most relevant category
+      type: select_one
+      options:
+      - Art and Culture
+      - Science and Research
+      - Business Innovation
+      - Community Impact
+      - Technology and Engineering
+      required: true
+    - id: 8
+      name: project_title
+      label: Project or Submission Title
+      hint: Name of the work being submitted
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: project_summary_short
+      label: Project Summary (One Sentence)
+      hint: Briefly describe the project
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: project_description_long
+      label: Detailed Project Description
+      hint: Full narrative of the project goals and achievements
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: project_start_date
+      label: Project Start Date
+      hint: When did the project begin?
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: project_end_date
+      label: Project End Date
+      hint: When was the project completed? (If applicable)
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: team_members_list
+      label: Team Members or Key Contributors
+      hint: List names and roles
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: supporting_materials_link
+      label: Supporting Documents/Portfolio Link
+      hint: URL to additional files or media
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: social_media_links
+      label: Social Media or Website Links
+      hint: Provide relevant URLs
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: referral_source_awards
+      label: How did you hear about these awards?
+      hint: Select one
+      type: select_one
+      options:
+      - Email Newsletter
+      - Social Media (FB/LI/IG)
+      - Colleague or Peer
+      - Online Advertisement
+      - Professional Association
+      required: true
+    - id: 17
+      name: terms_agreement_awards
+      label: I agree to the Award Rules and Terms of Entry
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 18
+      name: application_signature
+      label: Digital Signature
+      hint: Type your full name to certify
+      type: text
+      options: []
+      required: true

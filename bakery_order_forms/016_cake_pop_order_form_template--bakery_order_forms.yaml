@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cake Pop Order Form Template
+    pages:
+    - id: 1
+      name: customer_header
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: order_header
+      label: -- Cake Pop Order Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: cake_pop_flavor
+      label: Cake Pop Flavor
+      hint: null
+      type: select_one
+      options:
+      - Chocolate
+      - Vanilla
+      - Red Velvet
+      - Strawberry
+      - Lemon
+      - Carrot Cake
+      - Custom mix
+      required: true
+    - id: 8
+      name: chocolate_coating
+      label: Chocolate Coating Type
+      hint: null
+      type: select_one
+      options:
+      - Dark Chocolate
+      - Milk Chocolate
+      - White Chocolate
+      - Colored Candy Coating
+      - No coating
+      required: true
+    - id: 9
+      name: quantity_ordered
+      label: Quantity of Cake Pops
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: decorations
+      label: Decoration Options
+      hint: Select all desired
+      type: select_multiple
+      options:
+      - Sprinkles
+      - Pearl beads
+      - Edible glitter
+      - Custom painting
+      - Ribbon bow
+      - None
+      required: false
+    - id: 11
+      name: custom_design
+      label: Custom Design Request?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: design_details
+      label: Design Details
+      hint: Describe your custom design
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: dietary_header
+      label: -- Dietary Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: allergies
+      label: Allergies or Dietary Restrictions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: delivery_header
+      label: -- Delivery/Pickup --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: delivery_type
+      label: Delivery or Pickup?
+      hint: null
+      type: select_one
+      options:
+      - Pickup
+      - Delivery
+      required: true
+    - id: 17
+      name: delivery_address
+      label: Delivery Address
+      hint: If delivery selected
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: payment_header
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: estimated_price
+      label: Estimated Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Cash
+      required: true
+    - id: 21
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false

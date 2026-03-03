@@ -1,0 +1,257 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Server Verification Form
+    pages:
+    - id: 1
+      name: applicant_info
+      label: Applicant Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: username
+      label: Desired Username
+      hint: For the server
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For verification
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: discord_id
+      label: Discord ID
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: age
+      label: Your Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: location
+      label: General Location
+      hint: Country or region
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: referral
+      label: How Did You Find This Server
+      hint: null
+      type: select_one
+      options:
+      - Friend Referral
+      - Social Media
+      - Server Listing
+      - Search Engine
+      - Other Community
+      - Advertisement
+      - Other
+      required: true
+    - id: 8
+      name: verification_info
+      label: Verification Information
+      hint: Help us verify you
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: reason_join
+      label: Why Do You Want to Join This Server
+      hint: Tell us your motivation
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: interests
+      label: What Are Your Interests
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Gaming
+      - Technology
+      - Art and Design
+      - Music
+      - Education
+      - Community Discussion
+      - Professional Networking
+      - Hobbies
+      - Support Groups
+      - Other
+      required: true
+    - id: 11
+      name: experience
+      label: Have You Been in Similar Communities Before
+      hint: null
+      type: select_one
+      options:
+      - Yes - Extensive Experience
+      - Yes - Some Experience
+      - No - First Time
+      required: true
+    - id: 12
+      name: community_rules
+      label: Have You Read the Community Rules
+      hint: null
+      type: select_one
+      options:
+      - Yes - I Have Read and Agree
+      - No - I Need to Read Them
+      required: true
+    - id: 13
+      name: rules_agreement
+      label: Do You Agree to Follow the Rules
+      hint: null
+      type: select_one
+      options:
+      - Yes - I Agree
+      - No - I Do Not Agree
+      required: true
+    - id: 14
+      name: bot_confirmation
+      label: Are You a Real Person
+      hint: Verification question
+      type: select_one
+      options:
+      - Yes - I Am Human
+      - No - I Am a Bot
+      required: true
+    - id: 15
+      name: verification_question
+      label: What Is 5 Plus 3
+      hint: Simple math verification
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: social_media
+      label: Social Media Accounts
+      hint: Optional verification
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: website
+      label: Personal Website or Portfolio
+      hint: If available
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: skills
+      label: What Skills Can You Contribute
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Moderation
+      - Content Creation
+      - Event Planning
+      - Technical Support
+      - Art and Design
+      - Writing
+      - Mentoring
+      - Community Building
+      - None Currently
+      required: false
+    - id: 19
+      name: availability
+      label: How Often Do You Plan to Participate
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Several Times a Week
+      - Once a Week
+      - Few Times a Month
+      - Occasionally
+      required: true
+    - id: 20
+      name: timezone
+      label: Your Timezone
+      hint: null
+      type: select_one
+      options:
+      - Pacific Time (PT)
+      - Mountain Time (MT)
+      - Central Time (CT)
+      - Eastern Time (ET)
+      - Europe
+      - Asia
+      - Australia
+      - Other
+      required: true
+    - id: 21
+      name: pronouns
+      label: Pronouns
+      hint: Optional
+      type: select_one
+      options:
+      - He/Him
+      - She/Her
+      - They/Them
+      - Other
+      - Prefer Not to Say
+      required: false
+    - id: 22
+      name: content_warning
+      label: Are You Willing to Mark Spoilers
+      hint: For sensitive content
+      type: select_one
+      options:
+      - Yes - Always
+      - Yes - When Reminded
+      - false
+      required: true
+    - id: 23
+      name: nsfw_consent
+      label: Do You Want Access to NSFW Channels
+      hint: Must be 18+
+      type: select_one
+      options:
+      - Yes - I Am 18+
+      - No - Keep Restricted
+      required: true
+    - id: 24
+      name: previous_bans
+      label: Have You Been Banned from Similar Servers
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Prefer Not to Say
+      required: true
+    - id: 25
+      name: ban_details
+      label: Details of Previous Bans
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: additional_info
+      label: Anything Else You Want to Share
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: verification_complete
+      label: Verification Complete
+      hint: Submit for review
+      type: select_one
+      options:
+      - Yes - Submit My Application
+      - Other
+      required: true

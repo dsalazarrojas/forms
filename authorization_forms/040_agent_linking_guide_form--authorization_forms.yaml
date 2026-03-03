@@ -1,0 +1,122 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Agent Linking Guide Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Agent Linking and Access Authorization --
+      hint: requesting technical links between agent profiles and systems
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requested by - Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: agency_name
+      label: Agency Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: linking_header
+      label: -- Linking Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: agent_id
+      label: Agent ID to be linked
+      hint: unique system identifier
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: system_name
+      label: System or Database Name
+      hint: target environment
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: access_level
+      label: Access Level Requested - Read-only, Edit, Admin, Auditor
+      hint: null
+      type: select_one
+      options:
+      - Read-only Access
+      - Standard Edit Access
+      - Administrator Privileges
+      - Financial Auditor Access
+      required: true
+    - id: 9
+      name: linking_reason
+      label: Reason for linking request
+      hint: justify the need for this access
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: access_duration
+      label: Duration of access - Permanent, Temporary
+      hint: null
+      type: select_one
+      options:
+      - Permanent
+      - Temporary (Fixed Term)
+      required: true
+    - id: 11
+      name: expiry_date
+      label: Access Expiry Date - if temporary
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: authorization_header
+      label: -- Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: manager_approval
+      label: Has this request been approved by a manager?
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No, pending approval
+      required: true
+    - id: 14
+      name: authorizing_official
+      label: Name of Authorizing Official
+      hint: name of person who approved the link
+      type: text
+      options: []
+      required: true

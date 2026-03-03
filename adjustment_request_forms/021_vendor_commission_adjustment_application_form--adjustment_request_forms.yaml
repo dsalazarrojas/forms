@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: vendor_commission_adjustment_application_form
+    pages:
+    - id: 1
+      name: vendor_commission_adjustment
+      label: vendor_commission_adjustment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_date
+      label: request_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: request_time
+      label: request_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: adjustment_type
+      label: adjustment_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: vendor_name
+      label: vendor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_adjustment
+      label: reason_for_adjustment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: adjustment_amount
+      label: adjustment_amount
+      hint: null
+      type: number
+      options: []
+      required: false

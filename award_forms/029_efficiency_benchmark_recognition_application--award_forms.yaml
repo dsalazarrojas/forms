@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: efficiency_benchmark_recognition_application
+    pages:
+    - id: 1
+      name: form_title
+      label: Efficiency Benchmark Recognition Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_description
+      label: Efficiency Benchmark Recognition Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: applicant_name
+      label: Applicant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: nomination_details
+      label: Nomination Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: evidence
+      label: Evidence
+      hint: Upload evidence or provide a URL for evidence
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: applicant_consent
+      label: Applicant Consent
+      hint: The applicant must consent to being nominated
+      type: select_one
+      options:
+      - I consent to being nominated for the Efficiency Benchmark Recognition Application
+      - 'No'
+      required: true
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date_time
+      label: Date/Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Finance
+      - Operations
+      - IT
+      required: true
+    - id: 13
+      name: category_description
+      label: Category Description
+      hint: Briefly describe the category
+      type: text
+      options: []
+      required: false

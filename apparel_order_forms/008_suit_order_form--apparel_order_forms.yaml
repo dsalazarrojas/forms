@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Suit Order Form
+    pages:
+    - id: 1
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: measurements
+      label: Measurements
+      hint: In inches
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: fabric_choices
+      label: Fabric Choices
+      hint: null
+      type: select_multiple
+      options:
+      - Wool Blend
+      - Cotton
+      - Linen
+      - Silk
+      required: false
+    - id: 4
+      name: style_preferences
+      label: Style Preferences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: collar_style
+      label: Collar Style
+      hint: null
+      type: select_multiple
+      options:
+      - Formal
+      - Casual
+      - None
+      required: false
+    - id: 6
+      name: lapel_style
+      label: Lapel Style
+      hint: null
+      type: select_one
+      options:
+      - Formal
+      - Casual
+      - None
+      required: false
+    - id: 7
+      name: sleeve_style
+      label: Sleeve Style
+      hint: null
+      type: select_multiple
+      options:
+      - Long
+      - Short
+      - None
+      required: false
+    - id: 8
+      name: pants_style
+      label: Pants Style
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: shirt_color
+      label: Shirt Color
+      hint: null
+      type: select_multiple
+      options:
+      - Blue
+      - Red
+      - Black
+      - White
+      required: false
+    - id: 10
+      name: pants_color
+      label: Pants Color
+      hint: null
+      type: select_multiple
+      options:
+      - Blue
+      - Red
+      - Black
+      - White
+      required: false
+    - id: 11
+      name: measurements_note
+      label: Measurements Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: customer_message
+      label: Customer Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: tailor_note
+      label: Tailor Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: tailor_name
+      label: Tailor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: tailor_address
+      label: Tailor Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: tailor_phone
+      label: Tailor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: tailor_email
+      label: Tailor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: tailor_message
+      label: Tailor Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: order_confirmation
+      label: Order Confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

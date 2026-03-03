@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: School T Shirt Purchase Form
+    pages:
+    - id: 1
+      name: school_t_shirt_purchase_form_fields_1
+      label: school_t_shirt_purchases
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: school_t_shirt_purchase_form_fields_2
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: school_t_shirt_purchase_form_fields_3
+      label: student_size
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: school_t_shirt_purchase_form_fields_4
+      label: purchase_class
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: school_t_shirt_purchase_form_fields_5
+      label: purchase_activity
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: school_t_shirt_purchase_form_fields_6
+      label: fee_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: school_t_shirt_purchase_form_fields_7
+      label: total_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: school_t_shirt_purchase_form_fields_8
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: school_t_shirt_purchase_form_fields_9
+      label: school_admin
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: school_t_shirt_purchase_form_fields_10
+      label: purchase_date
+      hint: null
+      type: date
+      options: []
+      required: false

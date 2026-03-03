@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Bonding Session Planning Form
+    pages:
+    - id: 1
+      name: session_name
+      label: Session Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''John''}'
+      - '{''id'': 2, ''name'': ''Jane''}'
+      - '{''id'': 3, ''name'': ''Jim''}'
+      required: true
+    - id: 3
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''John''}'
+      - '{''id'': 2, ''name'': ''Jane''}'
+      - '{''id'': 3, ''name'': ''Jim''}'
+      - '{''id'': 4, ''name'': ''Jane''}'
+      - '{''id'': 5, ''name'': ''John''}'
+      required: true
+    - id: 7
+      name: session_length
+      label: Session Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: food_preferences
+      label: Food Preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Food A''}'
+      - '{''id'': 2, ''name'': ''Food B''}'
+      - '{''id'': 3, ''name'': ''Food C''}'
+      required: true
+    - id: 10
+      name: activities
+      label: Activities
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Activity A''}'
+      - '{''id'': 2, ''name'': ''Activity B''}'
+      - '{''id'': 3, ''name'': ''Activity C''}'
+      required: true
+    - id: 11
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: team_comments
+      label: Team Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_notes
+      label: Event Notes
+      hint: null
+      type: text
+      options: []
+      required: false

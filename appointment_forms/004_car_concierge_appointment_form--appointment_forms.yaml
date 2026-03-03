@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Concierge Appointment Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: vehicle_make_model
+      label: Vehicle make and model
+      hint: e.g., 2022 Honda Accord
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: vehicle_color
+      label: Vehicle color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_license_plate
+      label: License plate number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service_type
+      label: Type of service needed
+      hint: null
+      type: select_one
+      options:
+      - Detailing
+      - Oil Change
+      - Tire Service
+      - Vehicle Inspection
+      - General Maintenance
+      - Repair Estimate
+      - Customization
+      - Other
+      required: true
+    - id: 8
+      name: service_description
+      label: Detailed description of service needed
+      hint: Please describe what you need done to your vehicle
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: appointment_date
+      label: Preferred appointment date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: appointment_time
+      label: Preferred appointment time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: preferred_day_flexibility
+      label: How flexible are you with the appointment date?
+      hint: null
+      type: select_one
+      options:
+      - Very Flexible
+      - Somewhat Flexible
+      - Not Flexible
+      required: false
+    - id: 12
+      name: appointment_location
+      label: Appointment location preference
+      hint: null
+      type: select_one
+      options:
+      - At Our Facility
+      - At Your Location
+      - Mobile Service
+      - Either is Fine
+      required: true
+    - id: 13
+      name: street_address
+      label: Service address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: state_zip
+      label: State and zip code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: service_priority
+      label: Service priority level
+      hint: null
+      type: select_one
+      options:
+      - Routine Maintenance
+      - Standard
+      - Urgent
+      - Emergency
+      required: false
+    - id: 17
+      name: special_requests
+      label: Special requests or instructions
+      hint: e.g., use specific products, special care instructions
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: existing_customer
+      label: Are you an existing customer?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - First Time
+      required: false
+    - id: 19
+      name: preferred_contact_method
+      label: Preferred contact method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text Message
+      - Either
+      required: false
+    - id: 20
+      name: authorization_agree
+      label: I authorize the concierge to proceed with the service
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

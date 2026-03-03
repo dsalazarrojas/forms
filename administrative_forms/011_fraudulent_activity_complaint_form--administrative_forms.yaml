@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fraudulent Activity Complaint Form
+    pages:
+    - id: 1
+      name: report_fraudulent_activity
+      label: Report Fraudulent Activity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: activity_details
+      label: Activity Details
+      hint: Please provide detailed description of the suspicious activity.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Document 1''}'
+      - '{''id'': 2, ''label'': ''Document 2''}'
+      - '{''id'': 3, ''label'': ''Document 3''}'
+      required: true
+    - id: 4
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: complaint_summary
+      label: Complaint Summary
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: investigation_status
+      label: Investigation Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Under Investigation''}'
+      - '{''id'': 2, ''label'': ''Closed''}'
+      - '{''id'': 3, ''label'': ''Not Investigated''}'
+      required: true
+    - id: 8
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: fraud_type
+      label: Fraud Type
+      hint: Please choose the type of fraud that occurred.
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Credit Card Fraud''}'
+      - '{''id'': 2, ''label'': ''Identity Theft''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 10
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: reported_by
+      label: Reported By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: investigation_date
+      label: Investigation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: closed_date
+      label: Closed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Done''}'
+      - '{''id'': 2, ''label'': ''Not Done''}'
+      required: true
+    - id: 16
+      name: fraud_amount
+      label: Fraud Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: case_status
+      label: Case Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Open''}'
+      - '{''id'': 2, ''label'': ''Closed''}'
+      - '{''id'': 3, ''label'': ''Dismissed''}'
+      required: true
+    - id: 18
+      name: case_manager
+      label: Case Manager
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Manager 1''}'
+      - '{''id'': 2, ''label'': ''Manager 2''}'
+      - '{''id'': 3, ''label'': ''Manager 3''}'
+      required: true
+    - id: 19
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: investigation_notes
+      label: Investigation Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: fraud_type_details
+      label: Fraud Type Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: fraud_summary
+      label: Fraud Summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_summary
+      label: Follow-up Summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: closed_comments
+      label: Closed Comments
+      hint: null
+      type: text
+      options: []
+      required: false

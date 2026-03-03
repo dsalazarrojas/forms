@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Income And Expense Organizer
+    pages:
+    - id: 1
+      name: section_reporting_period
+      label: -- Reporting Period --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reporting_period_start_date
+      label: Reporting Period Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: reporting_period_end_date
+      label: Reporting Period End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: section_income_summary
+      label: -- Income Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: total_gross_income_amount
+      label: Total Gross Income (USD)
+      hint: Total revenue before any deductions
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: primary_income_source_category
+      label: Primary Income Source
+      hint: Select the largest contributor to your revenue
+      type: select_one
+      options:
+      - Product Sales
+      - Professional Services / Consulting
+      - Subscriptions / Recurring Revenue
+      - Interest / Investments
+      - Grants / Funding
+      required: true
+    - id: 7
+      name: section_expense_summary
+      label: -- Expense Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: total_operating_expenses_amount
+      label: Total Operating Expenses (USD)
+      hint: Sum of all business-related costs
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: breakdown_top_expenses_selection
+      label: Largest Expense Categories
+      hint: Select the top 3 categories by cost
+      type: select_multiple
+      options:
+      - Rent / Mortgage
+      - Payroll and Benefits
+      - Marketing and Advertising
+      - Software and IT Services
+      - Utilities / Maintenance
+      - Travel and Entertainment
+      required: true
+    - id: 10
+      name: payroll_expenses_total_amount
+      label: Payroll Expenses (USD)
+      hint: Including wages, taxes, and benefits
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: rent_utilities_total_amount
+      label: Rent and Utilities (USD)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: tax_deductible_expenses_selection
+      label: Deductible Expense Verification
+      hint: Which of these did you record for tax purposes
+      type: select_multiple
+      options:
+      - Home Office Deduction
+      - Business Equipment
+      - Professional Development
+      - Travel / Meals
+      - Health Insurance Premiums
+      required: false
+    - id: 13
+      name: net_profit_loss_notice
+      label: -- Financial Result Notice --
+      hint: Your Net Profit/Loss is calculated as Gross Income minus Operating Expenses
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: documentation_availability_status
+      label: Documentation Availability
+      hint: Are all receipts and invoices organized for review
+      type: select_one
+      options:
+      - Fully organized and digital
+      - Mostly organized
+      - In progress
+      - Not currently organized
+      required: true
+    - id: 15
+      name: financial_organizer_notes
+      label: Financial Notes or Comments
+      hint: Explain any significant variations or one-time events
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: organizer_completion_date
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: preparer_name_full
+      label: Preparer Full Name
+      hint: null
+      type: text
+      options: []
+      required: true

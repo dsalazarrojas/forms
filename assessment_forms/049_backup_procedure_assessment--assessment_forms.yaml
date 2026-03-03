@@ -1,0 +1,264 @@
+inputSchema:
+  type: object
+  properties:
+    title: Backup Procedure Assessment
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: Organization name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_name
+      label: Contact Person Name
+      hint: IT contact or manager
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: Business email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: Direct number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of assessment
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: Which department is being assessed
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: backup_solution
+      label: Current Backup Solution
+      hint: What backup system do you use
+      type: select_one
+      options:
+      - Veeam
+      - Commvault
+      - Rubrik
+      - Cohesity
+      - AWS Backup
+      - Azure Backup
+      - Google Cloud Backup
+      - Custom solution
+      - No formal solution
+      required: true
+    - id: 8
+      name: backup_type
+      label: Backup Types Used
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Full backups
+      - Incremental backups
+      - Differential backups
+      - Continuous data protection
+      - Snapshot-based
+      - Cloud backup
+      - Tape backup
+      required: true
+    - id: 9
+      name: backup_frequency
+      label: Backup Frequency
+      hint: How often are backups performed
+      type: select_one
+      options:
+      - Continuous
+      - Hourly
+      - Daily
+      - Weekly
+      - Monthly
+      - Irregular
+      required: true
+    - id: 10
+      name: data_volume
+      label: Total Data Volume
+      hint: Approximate amount of data backed up
+      type: select_one
+      options:
+      - Under 1 TB
+      - 1 to 5 TB
+      - 5 to 10 TB
+      - 10 to 50 TB
+      - 50 to 100 TB
+      - Over 100 TB
+      required: true
+    - id: 11
+      name: retention_period
+      label: Backup Retention Period
+      hint: How long are backups kept
+      type: select_one
+      options:
+      - Less than 30 days
+      - 30 to 90 days
+      - 90 days to 1 year
+      - 1 to 3 years
+      - 3 to 7 years
+      - Over 7 years
+      required: true
+    - id: 12
+      name: offsite_storage
+      label: Offsite Storage
+      hint: Are backups stored offsite
+      type: select_one
+      options:
+      - Yes, cloud
+      - Yes, physical offsite
+      - Yes, both
+      - No, local only
+      required: true
+    - id: 13
+      name: encryption_enabled
+      label: Encryption Enabled
+      hint: Are backups encrypted
+      type: select_one
+      options:
+      - Yes, at rest and in transit
+      - Yes, at rest only
+      - Yes, in transit only
+      - No encryption
+      - Not sure
+      required: true
+    - id: 14
+      name: rpo_target
+      label: Recovery Point Objective Target
+      hint: Maximum acceptable data loss
+      type: select_one
+      options:
+      - Less than 1 hour
+      - 1 to 4 hours
+      - 4 to 24 hours
+      - 1 to 7 days
+      - No defined RPO
+      required: true
+    - id: 15
+      name: rto_target
+      label: Recovery Time Objective Target
+      hint: Maximum acceptable downtime
+      type: select_one
+      options:
+      - Less than 1 hour
+      - 1 to 4 hours
+      - 4 to 24 hours
+      - 1 to 3 days
+      - No defined RTO
+      required: true
+    - id: 16
+      name: last_restore_test
+      label: Last Restore Test Date
+      hint: When was last successful test
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: restore_test_frequency
+      label: Restore Test Frequency
+      hint: How often do you test restores
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-annually
+      - Annually
+      - Never
+      - Irregularly
+      required: true
+    - id: 18
+      name: backup_failures
+      label: Recent Backup Failures
+      hint: Have you had failures in past 6 months
+      type: select_one
+      options:
+      - None
+      - 1 to 2 minor failures
+      - 3 to 5 failures
+      - More than 5 failures
+      - Major failure with data loss
+      required: true
+    - id: 19
+      name: documentation_status
+      label: Backup Documentation Status
+      hint: Is backup procedure documented
+      type: select_one
+      options:
+      - Fully documented and updated
+      - Documented but outdated
+      - Partially documented
+      - No documentation
+      required: true
+    - id: 20
+      name: staff_training
+      label: Staff Training Level
+      hint: How trained is your team
+      type: select_one
+      options:
+      - Fully trained and certified
+      - Moderately trained
+      - Minimally trained
+      - No formal training
+      required: true
+    - id: 21
+      name: compliance_requirements
+      label: Compliance Requirements
+      hint: Select applicable regulations
+      type: select_multiple
+      options:
+      - HIPAA
+      - GDPR
+      - SOC 2
+      - PCI DSS
+      - ISO 27001
+      - None
+      - Other
+      required: true
+    - id: 22
+      name: biggest_risks
+      label: Biggest Backup Risks
+      hint: What concerns you most
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: improvement_areas
+      label: Areas Needing Improvement
+      hint: What needs to be improved
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: budget_available
+      label: Budget Available for Improvements
+      hint: Select budget range
+      type: select_one
+      options:
+      - No budget available
+      - Under 10000
+      - 10000 to 50000
+      - 50000 to 100000
+      - Over 100000
+      required: false
+    - id: 25
+      name: assessor_notes
+      label: Assessor Notes
+      hint: Additional observations
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Growth Consultation Request Form
+    pages:
+    - id: 1
+      name: contact_section
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_section
+      label: -- Company Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: company_name
+      label: Company Name
+      hint: Your business name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: company_website
+      label: Company Website
+      hint: Your website URL
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: industry
+      label: Industry
+      hint: Select your industry
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Retail
+      - Manufacturing
+      - Services
+      - Education
+      - Other
+      required: true
+    - id: 10
+      name: business_stage
+      label: Business Stage
+      hint: Where are you in your journey?
+      type: select_one
+      options:
+      - Startup (less than 1 year)
+      - Early Stage (1-3 years)
+      - Growth Stage (3-5 years)
+      - Established (5+ years)
+      required: true
+    - id: 11
+      name: annual_revenue
+      label: Annual Revenue
+      hint: Current annual revenue
+      type: select_one
+      options:
+      - Less than $100K
+      - $100K - $500K
+      - $500K - $1M
+      - $1M - $5M
+      - $5M+
+      required: false
+    - id: 12
+      name: consultation_section
+      label: -- Consultation Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: consultation_type
+      label: Type of Consultation
+      hint: What kind of help do you need?
+      type: select_one
+      options:
+      - Overall Business Strategy
+      - Revenue Growth Strategy
+      - Market Expansion
+      - Product Launch
+      - Team Building
+      - Operations Optimization
+      - Financial Planning
+      - Marketing Strategy
+      required: true
+    - id: 14
+      name: primary_challenge
+      label: Primary Challenge or Goal
+      hint: What is your main focus?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: specific_objectives
+      label: Specific Objectives for Consultation
+      hint: What do you want to achieve?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: desired_outcome
+      label: Desired Outcome
+      hint: What would success look like?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: timeline_section
+      label: -- Timeline and Scheduling --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: consultation_urgency
+      label: How Urgent is This?
+      hint: How soon do you need help?
+      type: select_one
+      options:
+      - Urgent (within 1 week)
+      - Important (within 2 weeks)
+      - Standard (within 1 month)
+      - Flexible
+      required: true
+    - id: 19
+      name: preferred_time
+      label: Preferred Consultation Time
+      hint: What time works best?
+      type: select_one
+      options:
+      - Morning (8AM - 12PM)
+      - Afternoon (12PM - 5PM)
+      - Evening (5PM - 8PM)
+      - Flexible
+      required: true
+    - id: 20
+      name: preferred_days
+      label: Preferred Days
+      hint: Which days work for you?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: format_section
+      label: -- Consultation Format --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: consultation_format
+      label: Preferred Format
+      hint: How would you like to consult?
+      type: select_one
+      options:
+      - Phone Call
+      - Video Conference
+      - In-Person Meeting
+      - No Preference
+      required: true
+    - id: 23
+      name: duration
+      label: Expected Duration
+      hint: How long do you need?
+      type: select_one
+      options:
+      - 30 minutes
+      - 1 hour
+      - 2 hours
+      - Multiple sessions
+      required: false
+    - id: 24
+      name: budget_section
+      label: -- Budget --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: budget_range
+      label: Budget Range
+      hint: What is your budget?
+      type: select_one
+      options:
+      - Under $1,000
+      - $1,000 - $5,000
+      - $5,000 - $10,000
+      - $10,000+
+      required: false

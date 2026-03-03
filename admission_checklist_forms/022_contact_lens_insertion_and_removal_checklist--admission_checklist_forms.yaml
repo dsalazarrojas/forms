@@ -1,0 +1,241 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Contact Lens Insertion And Removal Checklist
+    pages:
+      - id: 1
+        name: checklist_header
+        label: Contact Lens Insertion and Removal Checklist
+        hint: Training documentation form
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: patient_name
+        label: Patient Name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: patient_id
+        label: Patient ID Number
+        hint: Medical record number
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: date_of_birth
+        label: Date of Birth
+        hint: Patient DOB
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: training_date
+        label: Training Date
+        hint: Date of this session
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: instructor_name
+        label: Instructor Name
+        hint: Training specialist
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: lens_type_fit
+        label: Type of Lenses Being Fit
+        hint: Lens category
+        type: select_one
+        options:
+          - Soft Daily Disposable
+          - Soft Bi-weekly
+          - Soft Monthly
+          - Rigid Gas Permeable
+          - Hybrid
+          - Scleral
+        required: true
+      - id: 8
+        name: insertion_training
+        label: Insertion Training Steps
+        hint: Mark completed steps
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: hand_washing
+        label: Hand Washing Technique
+        hint: Proper hand hygiene
+        type: select_one
+        options:
+          - Demonstrated Independently
+          - Demonstrated with Assistance
+          - Not Yet Mastered
+        required: true
+      - id: 10
+        name: lens_handling
+        label: Lens Handling Technique
+        hint: Holding the lens correctly
+        type: select_one
+        options:
+          - Demonstrated Independently
+          - Demonstrated with Assistance
+          - Not Yet Mastered
+        required: true
+      - id: 11
+        name: lens_inspection
+        label: Lens Inspection Before Insertion
+        hint: Check for damage or debris
+        type: select_one
+        options:
+          - Demonstrated Independently
+          - Demonstrated with Assistance
+          - Not Yet Mastered
+        required: true
+      - id: 12
+        name: eyelid_technique
+        label: Eyelid Holding Technique
+        hint: Proper eyelid management
+        type: select_one
+        options:
+          - Demonstrated Independently
+          - Demonstrated with Assistance
+          - Not Yet Mastered
+        required: true
+      - id: 13
+        name: lens_placement
+        label: Lens Placement on Eye
+        hint: Successful insertion
+        type: select_one
+        options:
+          - Demonstrated Independently
+          - Demonstrated with Assistance
+          - Not Yet Mastered
+        required: true
+      - id: 14
+        name: removal_training
+        label: Removal Training Steps
+        hint: Mark completed steps
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: pinch_removal
+        label: Pinch Removal Technique
+        hint: Soft lens removal
+        type: select_one
+        options:
+          - Demonstrated Independently
+          - Demonstrated with Assistance
+          - Not Yet Mastered
+          - Not Applicable
+        required: true
+      - id: 16
+        name: slide_removal
+        label: Slide and Blink Technique
+        hint: Alternative removal method
+        type: select_one
+        options:
+          - Demonstrated Independently
+          - Demonstrated with Assistance
+          - Not Yet Mastered
+          - Not Applicable
+        required: true
+      - id: 17
+        name: rgp_removal
+        label: RGP Removal Tool Usage
+        hint: If applicable
+        type: select_one
+        options:
+          - Demonstrated Independently
+          - Demonstrated with Assistance
+          - Not Yet Mastered
+          - Not Applicable
+        required: false
+      - id: 18
+        name: lens_care
+        label: Lens Care and Cleaning
+        hint: Maintenance training
+        type: select_one
+        options:
+          - Demonstrated Independently
+          - Demonstrated with Assistance
+          - Not Yet Mastered
+          - Not Applicable
+        required: true
+      - id: 19
+        name: storage_case
+        label: Storage Case Hygiene
+        hint: Case cleaning and replacement
+        type: select_one
+        options:
+          - Demonstrated Independently
+          - Demonstrated with Assistance
+          - Not Yet Mastered
+        required: true
+      - id: 20
+        name: solution_usage
+        label: Solution Usage Understanding
+        hint: Proper solution use
+        type: select_one
+        options:
+          - Demonstrated Independently
+          - Demonstrated with Assistance
+          - Not Yet Mastered
+        required: true
+      - id: 21
+        name: safety_warnings
+        label: Safety Warnings Understood
+        hint: When not to wear lenses
+        type: select_one
+        options:
+          - Fully Understood
+          - Partially Understood
+          - Needs Review
+        required: true
+      - id: 22
+        name: follow_up_scheduled
+        label: Follow-up Appointment Scheduled
+        hint: Next visit date
+        type: date
+        options: []
+        required: true
+      - id: 23
+        name: overall_assessment
+        label: Overall Training Assessment
+        hint: Patient progress
+        type: select_one
+        options:
+          - Ready for Independent Wear
+          - Needs Additional Practice
+          - Requires Further Training
+          - Not Suitable for Contact Lenses
+        required: true
+      - id: 24
+        name: instructor_signature
+        label: Instructor Signature
+        hint: Digital signature
+        type: text
+        options: []
+        required: true
+      - id: 25
+        name: patient_signature
+        label: Patient Signature
+        hint: Acknowledgment of training
+        type: text
+        options: []
+        required: true

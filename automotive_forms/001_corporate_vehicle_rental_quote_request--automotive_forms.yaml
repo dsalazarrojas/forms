@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: corporate_vehicle_rental_quote_request
+    pages:
+    - id: 1
+      name: rental_date
+      label: Rent From
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: rental_type
+      label: Type of Rental
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''One-Way''}'
+      - '{''label'': ''Return''}'
+      - '{''label'': ''Both''}'
+      required: false
+    - id: 3
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Car''}'
+      - '{''label'': ''Van''}'
+      - '{''label'': ''Truck''}'
+      required: false
+    - id: 4
+      name: rental_start_date
+      label: Rent To
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: rental_location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Location 1''}'
+      - '{''label'': ''Location 2''}'
+      - '{''label'': ''Location 3''}'
+      required: false
+    - id: 6
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: company_email
+      label: Company Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false

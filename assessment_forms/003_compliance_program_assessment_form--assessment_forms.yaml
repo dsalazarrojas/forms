@@ -1,0 +1,209 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Compliance Program Assessment Form
+    pages:
+      - id: 1
+        name: assessment_date
+        label: Assessment Date
+        hint: Date of this compliance program assessment
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: department_assessed
+        label: Department Assessed
+        hint: Select the department undergoing assessment
+        type: select_one
+        options:
+          - Executive Leadership
+          - Human Resources
+          - Finance and Accounting
+          - Operations
+          - Sales
+          - Marketing
+          - Information Technology
+          - Legal and Compliance
+          - Research and Development
+          - Customer Service
+          - Quality Assurance
+          - Supply Chain
+        required: true
+      - id: 3
+        name: assessor_name
+        label: Assessor Name
+        hint: Name of the person conducting the assessment
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: assessment_period
+        label: Assessment Period
+        hint: Time period covered by this assessment
+        type: select_one
+        options:
+          - Q1 2026
+          - Q4 2025
+          - Q3 2025
+          - Q2 2025
+          - Annual 2025
+          - Other
+        required: true
+      - id: 5
+        name: program_governance_rating
+        label: Program Governance Rating
+        hint: Rate the effectiveness of program governance
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Needs Improvement
+          - Unsatisfactory
+        required: true
+      - id: 6
+        name: risk_assessment_effectiveness
+        label: Risk Assessment Effectiveness
+        hint: How well does the program identify and assess risks
+        type: select_one
+        options:
+          - Highly Effective
+          - Effective
+          - Moderately Effective
+          - Ineffective
+          - Not Applicable
+        required: true
+      - id: 7
+        name: policies_and_procedures_status
+        label: Policies and Procedures Status
+        hint: Current state of policies and procedures
+        type: select_one
+        options:
+          - Up to date and comprehensive
+          - Mostly current with minor gaps
+          - Needs significant updates
+          - Outdated
+          - Not established
+        required: true
+      - id: 8
+        name: training_program_effectiveness
+        label: Training Program Effectiveness
+        hint: Rate the compliance training program
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Needs Improvement
+          - Not Implemented
+        required: true
+      - id: 9
+        name: monitoring_and_auditing_score
+        label: Monitoring and Auditing Score
+        hint: Rate monitoring and auditing practices
+        type: select_one
+        options:
+          - 5 - Excellent
+          - 4 - Good
+          - 3 - Satisfactory
+          - 2 - Needs Improvement
+          - 1 - Unsatisfactory
+        required: true
+      - id: 10
+        name: reporting_mechanisms_rating
+        label: Reporting Mechanisms Rating
+        hint: How effective are current reporting mechanisms
+        type: select_one
+        options:
+          - Very Effective
+          - Effective
+          - Somewhat Effective
+          - Ineffective
+          - No Mechanisms in Place
+        required: true
+      - id: 11
+        name: enforcement_and_discipline_assessment
+        label: Enforcement and Discipline Assessment
+        hint: Evaluate enforcement and disciplinary measures
+        type: select_one
+        options:
+          - Consistently Applied
+          - Mostly Consistent
+          - Inconsistently Applied
+          - Rarely Applied
+          - Not Applied
+        required: true
+      - id: 12
+        name: response_and_improvement_rating
+        label: Response and Improvement Rating
+        hint: Rate response to issues and continuous improvement
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Needs Improvement
+          - Poor
+        required: true
+      - id: 13
+        name: identified_strengths
+        label: Identified Strengths
+        hint: List key strengths of the current compliance program
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: identified_weaknesses
+        label: Identified Weaknesses
+        hint: List areas needing improvement
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: recommended_actions
+        label: Recommended Actions
+        hint: Specific actions to improve compliance program
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: priority_level
+        label: Priority Level
+        hint: Overall priority for addressing findings
+        type: select_one
+        options:
+          - Critical - Immediate Action Required
+          - High - Action Within 30 Days
+          - Medium - Action Within 90 Days
+          - Low - Action Within 6 Months
+          - Informational - No Action Required
+        required: true
+      - id: 17
+        name: follow_up_required
+        label: Follow Up Required
+        hint: Is a follow-up assessment needed
+        type: select_one
+        options:
+          - Yes, within 30 days
+          - Yes, within 90 days
+          - Yes, within 6 months
+          - No follow-up needed
+        required: true
+      - id: 18
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other observations or recommendations
+        type: text
+        options: []
+        required: false

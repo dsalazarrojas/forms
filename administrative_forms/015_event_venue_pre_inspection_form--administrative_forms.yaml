@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Venue Pre Inspection Form
+    pages:
+    - id: 1
+      name: event_venue_pre_inspection
+      label: Event Venue Pre-Inspection Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_venue_id
+      label: event_venue
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: event_id
+      label: event
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: venue_safety_rating
+      label: venue_safety_rating
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 5
+      name: accessibility_rating
+      label: accessibility_rating
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 6
+      name: accessibility_description
+      label: accessibility_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: accessibility_rating_note
+      label: accessibility_rating_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: equipment_availability
+      label: equipment_availability
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 9
+      name: equipment_availability_note
+      label: equipment_availability_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: safety_rating
+      label: safety_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: venue_accessibility_rating
+      label: venue_accessibility_rating
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 12
+      name: event_accessibility_notes
+      label: event_accessibility_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: venue_safety_rating_notes
+      label: venue_safety_rating_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

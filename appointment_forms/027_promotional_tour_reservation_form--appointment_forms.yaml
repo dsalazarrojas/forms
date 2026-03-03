@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Promotional Tour Reservation Form
+    pages:
+    - id: 1
+      name: reservation_details
+      label: Tour Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: tour_date
+      label: Tour Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: tour_time
+      label: Tour Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: customer_note
+      label: Customer Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: tour_notes
+      label: Tour Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: tour_status
+      label: Tour Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Cancelled
+      - Completed
+      required: true

@@ -1,0 +1,346 @@
+inputSchema:
+  type: object
+  properties:
+    title: Birth Control Appointment And Screening Form
+    pages:
+    - id: 1
+      name: section_intro
+      label: -- Birth Control Appointment Screening --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_text
+      label: Complete this screening before your appointment
+      hint: Your answers help us provide better care
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: section_patient_info
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: patient_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: patient_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: patient_dob
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: patient_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: patient_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: patient_id
+      label: Patient ID Number
+      hint: If you have one
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_appointment
+      label: -- Appointment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: appointment_date
+      label: Scheduled Appointment Date
+      hint: Date of your visit
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: appointment_time
+      label: Scheduled Appointment Time
+      hint: Time of your visit
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: provider_name
+      label: Provider Name
+      hint: Your healthcare provider
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: section_reproductive_history
+      label: -- Reproductive Health History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: menstrual_status
+      label: Current Menstrual Status
+      hint: Are you currently menstruating
+      type: select_one
+      options:
+      - Regularly Menstruating
+      - Irregular Periods
+      - Amenorrhea
+      - Postmenopausal
+      - Unknown
+      required: true
+    - id: 16
+      name: last_period_date
+      label: Date of Last Menstrual Period
+      hint: Approximate or exact date
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: menstrual_cycle_length
+      label: Menstrual Cycle Length
+      hint: Days between periods
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: pregnancy_status
+      label: Current Pregnancy Status
+      hint: Are you currently pregnant
+      type: select_one
+      options:
+      - Not Pregnant
+      - Possibly Pregnant
+      - Yes, Pregnant
+      - Unknown
+      required: true
+    - id: 19
+      name: number_of_pregnancies
+      label: Number of Previous Pregnancies
+      hint: Total number
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: number_of_children
+      label: Number of Living Children
+      hint: Current children
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: miscarriage_history
+      label: History of Miscarriage or Abortion
+      hint: Any previous pregnancy loss
+      type: select_one
+      options:
+      - false
+      - true
+      - Prefer Not to Answer
+      required: true
+    - id: 22
+      name: section_current_contraception
+      label: -- Current Contraception --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: using_contraception
+      label: Currently Using Birth Control
+      hint: Any form of contraception
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: true
+    - id: 24
+      name: current_method
+      label: Current Birth Control Method
+      hint: What are you using
+      type: select_one
+      options:
+      - Pill
+      - Patch
+      - Ring
+      - Injection
+      - Intrauterine Device (IUD)
+      - Implant
+      - Barrier Method
+      - Natural Family Planning
+      - Sterilization
+      - Other Method
+      - Not Applicable
+      required: false
+    - id: 25
+      name: contraception_satisfaction
+      label: Satisfaction with Current Method
+      hint: Rate your satisfaction
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      - Not Applicable
+      required: false
+    - id: 26
+      name: contraception_side_effects
+      label: Experiencing Side Effects
+      hint: Any adverse effects
+      type: select_one
+      options:
+      - No Side Effects
+      - Mild Side Effects
+      - Moderate Side Effects
+      - Severe Side Effects
+      - Not Sure
+      - Not Applicable
+      required: false
+    - id: 27
+      name: section_health_history
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: smoking_status
+      label: Smoking Status
+      hint: Do you smoke
+      type: select_one
+      options:
+      - Never Smoked
+      - Former Smoker
+      - Current Smoker
+      - Prefer Not to Answer
+      required: true
+    - id: 29
+      name: cigarettes_per_day
+      label: Cigarettes per Day
+      hint: If you smoke
+      type: number
+      options: []
+      required: false
+    - id: 30
+      name: medical_conditions
+      label: Current Medical Conditions
+      hint: Any chronic conditions
+      type: select_multiple
+      options:
+      - High Blood Pressure
+      - Diabetes
+      - Heart Disease
+      - Clotting Disorder
+      - Migraine with Aura
+      - Cancer History
+      - Liver Disease
+      - Other
+      - None
+      required: false
+    - id: 31
+      name: current_medications
+      label: Current Medications
+      hint: List all medications
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: medication_allergies
+      label: Medication Allergies or Sensitivities
+      hint: Any drug allergies
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: section_lifestyle
+      label: -- Lifestyle Factors --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: sexual_activity
+      label: Sexually Active
+      hint: Are you currently sexually active
+      type: select_one
+      options:
+      - true
+      - false
+      - Prefer Not to Answer
+      required: false
+    - id: 35
+      name: partner_status
+      label: Number of Sexual Partners
+      hint: In the past year
+      type: select_one
+      options:
+      - One Partner
+      - Multiple Partners
+      - No Current Partners
+      - Prefer Not to Answer
+      required: false
+    - id: 36
+      name: sti_screening
+      label: Recent STI Testing
+      hint: Have you been tested
+      type: select_one
+      options:
+      - Yes, Tested
+      - No, Not Tested
+      - Prefer Not to Answer
+      required: false
+    - id: 37
+      name: section_concerns
+      label: -- Concerns and Questions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 38
+      name: birth_control_concerns
+      label: Concerns or Questions About Birth Control
+      hint: Any specific concerns
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: contraception_goals
+      label: Contraception Goals
+      hint: What are your contraception priorities
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: additional_concerns
+      label: Additional Health Concerns
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false

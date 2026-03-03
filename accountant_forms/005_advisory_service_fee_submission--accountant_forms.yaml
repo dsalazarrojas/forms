@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advisory Service Fee Submission
+    pages:
+    - id: 1
+      name: client_information_section
+      label: Client Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: Enter the name of the client receiving advisory services
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_company
+      label: Client Company
+      hint: Name of the company the client represents
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_email
+      label: Client Email Address
+      hint: Primary email for invoice delivery and communication
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: client_phone
+      label: Client Phone Number
+      hint: Primary phone number for the client
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: client_billing_address
+      label: Billing Address
+      hint: Complete billing address for the client
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: advisor_information_section
+      label: Advisor Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: advisor_name
+      label: Advisor Name
+      hint: Name of the advisor providing services
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: advisor_firm
+      label: Advisor Firm
+      hint: Name of the firm the advisor represents
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: advisor_id
+      label: Advisor ID
+      hint: Unique identifier for the advisor
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: service_details_section
+      label: Service Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: service_period_start
+      label: Service Period Start Date
+      hint: Beginning date of the advisory service period
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: service_period_end
+      label: Service Period End Date
+      hint: Ending date of the advisory service period
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: service_description
+      label: Description of Services Provided
+      hint: Detailed description of advisory services rendered
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: service_category
+      label: Category of Advisory Service
+      hint: What type of advisory service was provided?
+      type: select_one
+      options:
+      - Strategic Planning
+      - Financial Consulting
+      - Operational Advisory
+      - Technology Consulting
+      - Marketing Strategy
+      - Human Resources
+      - Legal Advisory
+      - Risk Management
+      - Mergers and Acquisitions
+      - Other
+      required: true
+    - id: 16
+      name: billing_details_section
+      label: Billing Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: hourly_rate
+      label: Hourly Rate (USD)
+      hint: Hourly rate for advisory services
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: hours_worked
+      label: Total Hours Worked
+      hint: Total number of hours spent on advisory services
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: flat_fee_amount
+      label: Flat Fee Amount (USD)
+      hint: Fixed fee amount if applicable (instead of hourly rate)
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: total_amount_due
+      label: Total Amount Due (USD)
+      hint: Calculated total amount due for services
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: expense_reimbursements
+      label: Expense Reimbursements (USD)
+      hint: Total amount for expense reimbursements
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: payment_terms
+      label: Payment Terms
+      hint: Terms for payment of the advisory fees
+      type: select_one
+      options:
+      - Net 15 days
+      - Net 30 days
+      - Net 45 days
+      - Net 60 days
+      - Due on receipt
+      - Other
+      required: true
+    - id: 23
+      name: invoice_notes
+      label: Additional Invoice Notes
+      hint: Any additional notes for the invoice
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: approval_section
+      label: Approval
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: advisor_signature
+      label: Advisor Signature
+      hint: Electronic signature of the advisor
+      type: text
+      options: []
+      required: true

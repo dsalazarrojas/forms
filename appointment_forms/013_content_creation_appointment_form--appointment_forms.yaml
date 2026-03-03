@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Creation Appointment Form
+    pages:
+    - id: 1
+      name: client_full_name
+      label: Client Full Name
+      hint: Your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_email
+      label: Client Email
+      hint: Best email to reach you
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Client Phone
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Name of your business or organization
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: appointment_date
+      label: Appointment Date
+      hint: Preferred date for appointment
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: appointment_time
+      label: Appointment Time
+      hint: Preferred time for appointment
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: appointment_type
+      label: Appointment Type
+      hint: Type of consultation needed
+      type: select_one
+      options:
+      - Initial Consultation
+      - Project Planning
+      - Content Review
+      - Strategy Session
+      - Follow-up Meeting
+      - Final Delivery
+      required: true
+    - id: 8
+      name: service_type
+      label: Service Type
+      hint: What content creation service do you need?
+      type: select_one
+      options:
+      - Blog Writing
+      - Social Media Content
+      - Video Production
+      - Photography
+      - Graphic Design
+      - Copywriting
+      - Podcast Production
+      - Full Content Package
+      required: true
+    - id: 9
+      name: project_scope
+      label: Project Scope
+      hint: Describe the scope of your project
+      type: select_one
+      options:
+      - Single Piece of Content
+      - Small Campaign (2-5 pieces)
+      - Medium Campaign (6-10 pieces)
+      - Large Campaign (11+ pieces)
+      - Ongoing Monthly Service
+      required: true
+    - id: 10
+      name: target_audience
+      label: Target Audience
+      hint: Who is your target audience?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: project_goals
+      label: Project Goals
+      hint: What do you hope to achieve?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: brand_guidelines
+      label: Brand Guidelines
+      hint: Do you have existing brand guidelines?
+      type: select_one
+      options:
+      - Yes, I will provide them
+      - No, I need help creating them
+      - Not Applicable
+      required: true
+    - id: 13
+      name: content_deadline
+      label: Content Deadline
+      hint: When do you need the content completed?
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: budget_range
+      label: Budget Range
+      hint: What is your estimated budget?
+      type: select_one
+      options:
+      - Under $500
+      - $500 - $1,000
+      - $1,000 - $2,500
+      - $2,500 - $5,000
+      - $5,000 - $10,000
+      - Over $10,000
+      required: true
+    - id: 15
+      name: previous_content
+      label: Previous Content Examples
+      hint: Share links to content you admire
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: competitors
+      label: Main Competitors
+      hint: Who are your main competitors?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: preferred_communication
+      label: Preferred Communication Method
+      hint: How should we communicate during the project?
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Video Call
+      - Text Message
+      - Project Management Tool
+      required: true
+    - id: 18
+      name: referral_source
+      label: How Did You Hear About Us?
+      hint: How did you find our services?
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Referral
+      - Search Engine
+      - Advertisement
+      - Other
+      required: false
+    - id: 19
+      name: special_requirements
+      label: Special Requirements
+      hint: Any special needs or requirements
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: terms_accepted
+      label: Terms and Conditions Accepted
+      hint: I agree to the terms and conditions
+      type: select_one
+      options:
+      - Yes, I Accept
+      - No, I Do Not Accept
+      required: true

@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Puppy Adoption Consent Form
+    pages:
+    - id: 1
+      name: name
+      label: Adopter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: Adopter Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: relation
+      label: Relation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: dog_id
+      label: Dog
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 11
+      name: adoption_date
+      label: Adoption Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: adoption_term
+      label: Adoption Term
+      hint: null
+      type: select_one
+      options:
+      - 6 months
+      - 1 year
+      - 2 years
+      required: false
+    - id: 13
+      name: adoption_status
+      label: Adoption Status
+      hint: null
+      type: select_one
+      options:
+      - Adopted
+      - Pending
+      required: false
+    - id: 14
+      name: adoption_terms
+      label: Adoption Terms
+      hint: null
+      type: text
+      options: []
+      required: false

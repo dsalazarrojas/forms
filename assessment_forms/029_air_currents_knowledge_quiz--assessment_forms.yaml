@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Air Currents Knowledge Quiz
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant name
+      hint: Optional entry
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: What causes local air currents
+      hint: Choose the best answer
+      type: select_one
+      options:
+      - Temperature differences
+      - Moon phases
+      - Soil type
+      - None
+      required: true
+    - id: 3
+      name: question_2
+      label: Effect of urban heat islands on air movement
+      hint: Pick the correct effect
+      type: select_one
+      options:
+      - Stronger updrafts
+      - No effect
+      - Reduce wind
+      - Increase humidity only
+      required: true
+    - id: 4
+      name: question_3
+      label: Recognize sea breeze timing
+      hint: Select typical timing
+      type: select_one
+      options:
+      - Afternoon
+      - Early morning
+      - Midnight
+      - Dawn
+      required: true
+    - id: 5
+      name: question_4
+      label: Importance of wind for pollination
+      hint: Correct role of wind
+      type: select_one
+      options:
+      - Distributes pollen
+      - Blocks sunlight
+      - Increases pests
+      - Decreases soil fertility
+      required: true
+    - id: 6
+      name: score
+      label: Estimated score
+      hint: Optional self reported score
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback about quiz
+      hint: Comments or suggestions
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Permit Records Release Form
+    pages:
+    - id: 1
+      name: section_requesting_party
+      label: -- Requesting Party Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Full Name of Requesting Party
+      hint: Name of individual or business requesting the records
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_type
+      label: Relationship to the Project
+      hint: null
+      type: select_one
+      options:
+      - Property Owner
+      - General Contractor
+      - Subcontractor
+      - Architect/Engineer
+      - Attorney/Legal Counsel
+      - Insurance Professional
+      - Real Estate Agent/Broker
+      required: true
+    - id: 4
+      name: requester_email
+      label: Primary Email Address
+      hint: Records will be sent digitally to this address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: requester_phone
+      label: Primary Phone Number
+      hint: Format - (555) 555-5555
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_property_details
+      label: -- Property and Permit Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: property_address
+      label: Subject Property Address
+      hint: City, State, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: parcel_number_apn
+      label: Tax Parcel Number (APN)
+      hint: Optional but helps speed up search
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: permit_number_ref
+      label: Permit Number (If Known)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: years_of_search
+      label: Specific Years or Date Range for Search
+      hint: e.g., 2018-2022
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_records_requested
+      label: -- Specific Records Requested --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: records_type_checklist
+      label: Records to be Released
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Approved Building Permits
+      - Inspection Reports (Passed/Failed)
+      - Certificate of Occupancy (C of O)
+      - Zoning or Land Use Determinations
+      - Site Plans/Blueprints
+      - Notice of Commencements/Completions
+      - Violations/Correction Notices
+      required: true
+    - id: 13
+      name: purpose_of_request
+      label: Intended Purpose for Records
+      hint: e.g., Sale of Property, Legal Review, Building Addition
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: section_auth_release
+      label: -- Authorization and Release --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: owner_consent_verified
+      label: I have obtained owner consent for this release (If not the owner)
+      hint: null
+      type: select_one
+      options:
+      - Yes - I am the owner
+      - Yes - I have written authorization
+      - No - Public record request only
+      required: true
+    - id: 16
+      name: confidentiality_agree
+      label: Agreement to Maintain Confidentiality
+      hint: If records contain sensitive information
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true
+    - id: 17
+      name: delivery_method_pref
+      label: Preferred Method of Delivery
+      hint: null
+      type: select_one
+      options:
+      - Digital/Email (Preferred)
+      - US Mail (Physical copies)
+      - In-person Pickup
+      required: true
+    - id: 18
+      name: search_fee_ack
+      label: Acknowledgment of Possible Search/Copy Fees
+      hint: $15 base search fee plus $0.25 per page for physical copies
+      type: select_one
+      options:
+      - I Accept
+      - I Reject
+      required: true
+    - id: 19
+      name: additional_instructions
+      label: Additional Search Instructions or Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submission_date
+      label: Date of Authorization
+      hint: null
+      type: date
+      options: []
+      required: true

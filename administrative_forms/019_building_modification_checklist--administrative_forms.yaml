@@ -1,0 +1,197 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Building Modification Checklist
+    pages:
+    - id: 1
+      name: project_date
+      label: Project Date
+      hint: Date modification work begins
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: property_address
+      label: Property Address
+      hint: Building location
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: modification_description
+      label: Description of Modification
+      hint: What changes are being made
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: permit_number
+      label: Building Permit Number
+      hint: Official permit reference
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: permit_obtained
+      label: Permit Obtained
+      hint: Has permit been issued
+      type: select_one
+      options:
+        - Yes
+        - No
+        - In Progress
+      required: true
+    - id: 6
+      name: contractor_name
+      label: Contractor Name
+      hint: General contractor
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contractor_license
+      label: Contractor License Number
+      hint: License verification
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: scope_of_work
+      label: Scope of Work
+      hint: Detailed work description
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: structural_changes
+      label: Structural Changes Involved
+      hint: Is structural work being done
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: true
+    - id: 10
+      name: electrical_work
+      label: Electrical Work Required
+      hint: Any electrical modifications
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: true
+    - id: 11
+      name: plumbing_work
+      label: Plumbing Work Required
+      hint: Any plumbing modifications
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: true
+    - id: 12
+      name: hvac_work
+      label: HVAC Modifications Required
+      hint: Any heating or cooling work
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: true
+    - id: 13
+      name: code_compliance
+      label: Code Compliance Review Completed
+      hint: Building code review done
+      type: select_one
+      options:
+        - Yes
+        - No
+        - In Progress
+      required: true
+    - id: 14
+      name: inspector_approval
+      label: Building Inspector Approval
+      hint: Official inspection approval
+      type: select_one
+      options:
+        - Approved
+        - Pending
+        - Denied
+        - Not Required
+      required: true
+    - id: 15
+      name: safety_certifications
+      label: Safety Certifications Required
+      hint: Special certifications needed
+      type: select_multiple
+      options:
+        - Fire Safety
+        - Electrical Safety
+        - Structural Integrity
+        - Accessibility Compliance
+        - Environmental
+        - None
+      required: false
+    - id: 16
+      name: insurance_verification
+      label: Contractor Insurance Verified
+      hint: Liability insurance confirmed
+      type: select_one
+      options:
+        - Yes
+        - No
+        - In Progress
+      required: true
+    - id: 17
+      name: asbestos_survey
+      label: Asbestos or Hazmat Survey Completed
+      hint: Environmental survey done
+      type: select_one
+      options:
+        - Yes
+        - No
+        - Not Applicable
+        - In Progress
+      required: true
+    - id: 18
+      name: site_safety_plan
+      label: Site Safety Plan in Place
+      hint: Worker safety documented
+      type: select_one
+      options:
+        - Yes
+        - No
+        - In Progress
+      required: true
+    - id: 19
+      name: document_list
+      label: Required Documents Submitted
+      hint: Plans, specs, certifications
+      type: select_multiple
+      options:
+        - Blueprints
+        - Specifications
+        - Engineer Calculations
+        - Schedule
+        - Budget
+        - Insurance Certificate
+        - Other
+      required: true
+    - id: 20
+      name: project_timeline
+      label: Expected Project Timeline
+      hint: Start and completion dates
+      type: text
+      options: []
+      required: false

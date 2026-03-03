@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Equestrian Facility Rental Application
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: rental_request
+      label: Rental Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: additional_information
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: select_multiple
+      options:
+      - First Name
+      - Last Name
+      - Email
+      - Phone
+      required: true
+    - id: 5
+      name: payment_information
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: facility_details
+      label: Facility Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: review_and_agreement
+      label: Review and Agreement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: signature
+      label: Signature
+      hint: null
+      type: number
+      options: []
+      required: false

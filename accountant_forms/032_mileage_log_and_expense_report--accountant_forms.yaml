@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mileage Log And Expense Report
+    pages:
+    - id: 1
+      name: mileage_log_form
+      label: Mileage Log Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: mileage_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: mileage_miles_driven
+      label: Miles Driven
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: mileage_rate
+      label: Rate
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 0.25}'
+      - '{''label'': 0.5}'
+      - '{''label'': 0.75}'
+      required: false
+    - id: 5
+      name: mileage_start_location
+      label: Start Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: mileage_end_location
+      label: End Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: expense_amount
+      label: Expense Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: expense_date
+      label: Expense Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: expense_description
+      label: Expense Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: expense_category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Car''}'
+      - '{''label'': ''Gas''}'
+      - '{''label'': ''Meals''}'
+      required: false
+    - id: 11
+      name: expense_subcategory
+      label: Subcategory
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Other''}'
+      - '{''label'': ''Food''}'
+      - '{''label'': ''Transportation''}'
+      required: false
+    - id: 12
+      name: expense_rate
+      label: Rate
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 0.25}'
+      - '{''label'': 0.5}'
+      - '{''label'': 0.75}'
+      required: false
+    - id: 13
+      name: expense_amount_total
+      label: Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: expense_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Approved''}'
+      - '{''label'': ''Reimbursed''}'
+      - '{''label'': ''Rejected''}'
+      required: false
+    - id: 15
+      name: user_signature
+      label: User Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: rate
+      label: Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false

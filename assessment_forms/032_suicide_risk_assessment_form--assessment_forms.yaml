@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Suicide Risk Assessment Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: marital_status
+      label: marital_status
+      hint: null
+      type: select_one
+      options:
+      - Married
+      - Single
+      - Divorced
+      required: true
+    - id: 5
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 7
+      name: suicidal_thoughts
+      label: suicidal_thoughts
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: suicidal_thoughts_details
+      label: suicidal_thoughts_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: suicidal_feelings
+      label: suicidal_feelings
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: suicidal_feelings_details
+      label: suicidal_feelings_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: suicidal_behavior
+      label: suicidal_behavior
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: suicidal_behavior_details
+      label: suicidal_behavior_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: suicidal_plans
+      label: suicidal_plans
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 14
+      name: suicidal_plans_details
+      label: suicidal_plans_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: suicidal_attempts
+      label: suicidal_attempts
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 16
+      name: suicidal_attempts_details
+      label: suicidal_attempts_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: suicidal_plans_implementation
+      label: suicidal_plans_implementation
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 18
+      name: suicidal_plans_implementation_details
+      label: suicidal_plans_implementation_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: suicidal_worry_about_suicide
+      label: suicidal_worry_about_suicide
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 20
+      name: suicidal_worry_about_suicide_details
+      label: suicidal_worry_about_suicide_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: suicidal_plans_to_harm_self
+      label: suicidal_plans_to_harm_self
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 22
+      name: suicidal_plans_to_harm_self_details
+      label: suicidal_plans_to_harm_self_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: suicidal_plans_to_harm_others
+      label: suicidal_plans_to_harm_others
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 24
+      name: suicidal_plans_to_harm_others_details
+      label: suicidal_plans_to_harm_others_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: suicidal_notes
+      label: suicidal_notes
+      hint: null
+      type: note
+      options: []
+      required: false

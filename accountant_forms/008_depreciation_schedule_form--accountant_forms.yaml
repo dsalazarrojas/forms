@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Depreciation Schedule Form
+    pages:
+    - id: 1
+      name: asset_code
+      label: Asset Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: asset_type
+      label: asset_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Building''}'
+      - '{''id'': 2, ''name'': ''Equipment''}'
+      - '{''id'': 3, ''name'': ''Vehicle''}'
+      required: false
+    - id: 3
+      name: asset_description
+      label: Asset Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: asset_cost
+      label: Asset Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: date_purchased
+      label: Date Purchased
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: purchase_price
+      label: Purchase Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: depreciation_method
+      label: Depreciation Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: depreciation_percent
+      label: Depreciation Percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: remaining_life
+      label: Remaining Life
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: total_depreciation
+      label: Total Depreciation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: current_value
+      label: Current Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: asset_status
+      label: Asset Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: retirement_date
+      label: Retirement Date
+      hint: null
+      type: date
+      options: []
+      required: false

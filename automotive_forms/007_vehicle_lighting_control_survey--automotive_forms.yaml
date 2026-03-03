@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Lighting Control Survey
+    pages:
+    - id: 1
+      name: vehicle_lighting_control_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: lighting_control_priority
+      label: Priority Features
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 3
+      name: safety_perceptions
+      label: Safety Perceptions
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Neutral
+      - Poor
+      required: true
+    - id: 4
+      name: reported_issues
+      label: Reported Issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: safety_concerns
+      label: Safety Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_lighting_control_satisfaction_note
+      label: Satisfaction Note
+      hint: null
+      type: note
+      options: []
+      required: false

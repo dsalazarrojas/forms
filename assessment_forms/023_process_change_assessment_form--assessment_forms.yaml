@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Process Change Assessment Form
+    pages:
+    - id: 1
+      name: process_change_form
+      label: process_change_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: change_details
+      label: change_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: impact
+      label: impact
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: risk
+      label: risk
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: benefits
+      label: benefits
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assessment_date
+      label: assessment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: review_date
+      label: review_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: reviewed_by
+      label: reviewed_by
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Drone Operator Identity Verification Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: operator_id
+      label: Operator ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: issue_date
+      label: Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: issue_number
+      label: Issue Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: drone_type
+      label: Drone Type
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      required: true
+    - id: 10
+      name: drone_license_number
+      label: Drone License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: drone_registration_number
+      label: Drone Registration Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: issue_authority
+      label: Issue Authority
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      required: true
+    - id: 13
+      name: license_status
+      label: License Status
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      required: true
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: verification_date
+      label: Verification Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: verification_status
+      label: Verification Status
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      required: true
+    - id: 18
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: signature_time
+      label: Signature Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 21
+      name: verification_by
+      label: Verification By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: verification_by_title
+      label: Verification By Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: verification_authority
+      label: Verification Authority
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      required: true
+    - id: 24
+      name: issue_authority
+      label: Issue Authority
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: issue_date
+      label: Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false

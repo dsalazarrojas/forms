@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Software Premium Membership Access Form
+    pages:
+    - id: 1
+      name: software_premium_membership_access_form
+      label: Software Premium Membership Access Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_upgrade
+      label: Reason for Upgrade
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: saas_team
+      label: SaaS Team
+      hint: null
+      type: select_one
+      options:
+      - Jotform
+      - IT Admin
+      - Customer Success Team
+      required: true
+    - id: 8
+      name: it_admin
+      label: IT Admin
+      hint: null
+      type: select_multiple
+      options:
+      - IT Admin 1
+      - IT Admin 2
+      - IT Admin 3
+      required: true
+    - id: 9
+      name: customer_success_team
+      label: Customer Success Team
+      hint: null
+      type: select_multiple
+      options:
+      - Customer Success Team 1
+      - Customer Success Team 2
+      - Customer Success Team 3
+      required: true
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false

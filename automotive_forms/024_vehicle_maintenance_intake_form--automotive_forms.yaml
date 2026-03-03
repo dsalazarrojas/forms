@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Maintenance Intake Form
+    pages:
+    - id: 1
+      name: vehicle_info
+      label: Vehicle Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: make_and_model
+      label: Make And Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: year
+      label: Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: mileage
+      label: Mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_problem
+      label: Vehicle Problem
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: maintenance_needs
+      label: Maintenance Needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_status
+      label: Vehicle Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: vehicle_condition_notes
+      label: Vehicle Condition Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: mechanic
+      label: Mechanic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: mechanic_notes
+      label: Mechanic Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: vehicle_insurance
+      label: Vehicle Insurance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: vehicle_insurance_provider
+      label: Vehicle Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: vehicle_insurance_status
+      label: Vehicle Insurance Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false

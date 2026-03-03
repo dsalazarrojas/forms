@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: imc_assessment_form
+    pages:
+    - id: 1
+      name: height_input
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: weight_input
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: age_input
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: age_hint
+      label: How do you want to know your IMC?
+      hint: Select one of the following options
+      type: select_one
+      options:
+      - IMC
+      - Body Mass Index (BMI)
+      - Body Fat Mass Index (BFMI)
+      required: false
+    - id: 5
+      name: imc_input
+      label: IMC
+      hint: null
+      type: number
+      options: []
+      required: false

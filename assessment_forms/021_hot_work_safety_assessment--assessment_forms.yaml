@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hot Work Safety Assessment
+    pages:
+    - id: 1
+      name: general_information
+      label: general_information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: site_details
+      label: site_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: safety_protocols
+      label: safety_protocols
+      hint: null
+      type: select_one
+      options:
+      - Safety Protocols 1
+      - Safety Protocols 2
+      - Safety Protocols 3
+      required: false
+    - id: 4
+      name: work_area
+      label: work_area
+      hint: null
+      type: select_multiple
+      options:
+      - Zone 1
+      - Zone 2
+      - Zone 3
+      required: false
+    - id: 5
+      name: hazards_identified
+      label: hazards_identified
+      hint: null
+      type: select_multiple
+      options:
+      - Hazard 1
+      - Hazard 2
+      - Hazard 3
+      required: false
+    - id: 6
+      name: risk_assessment
+      label: risk_assessment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: control_measures
+      label: control_measures
+      hint: null
+      type: select_one
+      options:
+      - Measure 1
+      - Measure 2
+      - Measure 3
+      required: false
+    - id: 8
+      name: safety_equipment
+      label: safety_equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Equipment 1
+      - Equipment 2
+      - Equipment 3
+      required: false
+    - id: 9
+      name: hot_work_safety_risks
+      label: hot_work_safety_risks
+      hint: null
+      type: select_multiple
+      options:
+      - Risk 1
+      - Risk 2
+      - Risk 3
+      required: false
+    - id: 10
+      name: risk_control_measures
+      label: risk_control_measures
+      hint: null
+      type: select_multiple
+      options:
+      - Measure 1
+      - Measure 2
+      - Measure 3
+      required: false
+    - id: 11
+      name: site_inspection
+      label: site_inspection
+      hint: null
+      type: select_one
+      options:
+      - Inspection 1
+      - Inspection 2
+      - Inspection 3
+      required: false
+    - id: 12
+      name: hot_work_procedure
+      label: hot_work_procedure
+      hint: null
+      type: select_one
+      options:
+      - Procedure 1
+      - Procedure 2
+      - Procedure 3
+      required: false
+    - id: 13
+      name: training_and_equipment
+      label: training_and_equipment
+      hint: null
+      type: select_one
+      options:
+      - Training 1
+      - Training 2
+      - Training 3
+      required: false
+    - id: 14
+      name: site_clearance
+      label: site_clearance
+      hint: null
+      type: select_multiple
+      options:
+      - Clearance 1
+      - Clearance 2
+      - Clearance 3
+      required: false
+    - id: 15
+      name: site_clearance_confirmation
+      label: site_clearance_confirmation
+      hint: null
+      type: select_one
+      options:
+      - Confirmation 1
+      - Confirmation 2
+      - Confirmation 3
+      required: false
+    - id: 16
+      name: hot_work_procedure_status
+      label: hot_work_procedure_status
+      hint: null
+      type: select_one
+      options:
+      - Status 1
+      - Status 2
+      - Status 3
+      required: false
+    - id: 17
+      name: site_clearance_status
+      label: site_clearance_status
+      hint: null
+      type: select_one
+      options:
+      - Status 1
+      - Status 2
+      - Status 3
+      required: false
+    - id: 18
+      name: review
+      label: review
+      hint: null
+      type: select_multiple
+      options:
+      - Review 1
+      - Review 2
+      - Review 3
+      required: false
+    - id: 19
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

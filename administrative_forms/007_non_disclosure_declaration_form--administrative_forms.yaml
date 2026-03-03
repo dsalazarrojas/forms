@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: non-disclosure-declaration-form
+    pages:
+    - id: 1
+      name: business_information_shared
+      label: Business Information Shared
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: confidential_relationship
+      label: Confidential Relationship
+      hint: null
+      type: select_one
+      options:
+      - I am a business owner
+      - I am an employee
+      - I am a representative of the company
+      required: false
+    - id: 3
+      name: sensitive_information
+      label: Sensitive Information Shared
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: shared_with
+      label: Shared With
+      hint: null
+      type: select_multiple
+      options:
+      - Client
+      - Colleagues
+      - Manager
+      - Other (Please specify)
+      required: false
+    - id: 5
+      name: purpose_of_sharing
+      label: Purpose of Sharing
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: non_disclosure_agreement
+      label: Non-Disclosure Agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: review_policy
+      label: Review of Policy
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: review_policy_details
+      label: Review Policy Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: sign_and_date
+      label: Sign and Date
+      hint: null
+      type: time
+      options: []
+      required: false

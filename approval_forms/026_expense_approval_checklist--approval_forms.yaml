@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Expense Approval Checklist
+    pages:
+    - id: 1
+      name: expense_form_fields_1
+      label: Expense Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: expense_type
+      label: Expense Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: expense_amount
+      label: Expense Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: expense_date
+      label: Expense Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: expense_description
+      label: Expense Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: expense_approved_by
+      label: Approved By
+      hint: null
+      type: select_one
+      options:
+      - Option 4
+      - Option 5
+      required: false
+    - id: 7
+      name: expense_status
+      label: Expense Status
+      hint: null
+      type: select_one
+      options:
+      - Option 6
+      - Option 7
+      required: false
+    - id: 8
+      name: expense_category
+      label: Expense Category
+      hint: null
+      type: select_multiple
+      options:
+      - Option 8
+      - Option 9
+      required: false
+    - id: 9
+      name: expense_submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Option 10
+      - Option 11
+      required: false
+    - id: 10
+      name: expense_review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: expense_reviewed_by
+      label: Reviewd By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: expense_approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      required: false

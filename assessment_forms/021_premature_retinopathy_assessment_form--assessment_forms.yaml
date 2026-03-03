@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Premature Retinopathy Assessment Form
+    pages:
+    - id: 1
+      name: new_born_check
+      label: New Born Check
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: infant_data
+      label: Infant Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: examination_notes
+      label: Examination Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: parents_consent
+      label: Parents Consent
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: screening_results
+      label: Screening Results
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: treatment_plan
+      label: Treatment Plan
+      hint: null
+      type: note
+      options: []
+      required: true

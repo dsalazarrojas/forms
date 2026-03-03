@@ -1,0 +1,107 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: ASA Award Form
+    pages:
+    - id: 1
+      name: nominator_name
+      label: Nominator Name
+      hint: Your name as the person nominating
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: nominator_email
+      label: Nominator Email
+      hint: Your email for award communication
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: nominee_name
+      label: Nominee Name
+      hint: Name of the person being nominated for the award
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: nominee_department
+      label: Nominee Department
+      hint: Department where the nominee works
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: award_category
+      label: Award Category
+      hint: Which award category is this nomination for?
+      type: select_one
+      options: ["Employee of the Year", "Innovation Excellence", "Team Collaboration", "Customer Service", "Leadership", "Safety Champion", "Other"]
+      required: true
+    - id: 6
+      name: nomination_reason
+      label: Nomination Reason
+      hint: Why are you nominating this person for the award?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: specific_achievements
+      label: Specific Achievements
+      hint: Describe the specific achievements that make this person deserving
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: impact_on_team_organization
+      label: Impact on Team/Organization
+      hint: How has this person positively impacted the team or organization?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: duration_of_contribution
+      label: Duration of Contribution
+      hint: How long has the nominee been making these contributions?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: peer_recognition
+      label: Peer Recognition
+      hint: Has the nominee received recognition from peers or other departments?
+      type: select_one
+      options: ["Yes", "No", "Unknown"]
+      required: true
+    - id: 11
+      name: previous_awards
+      label: Previous Awards
+      hint: Has the nominee received any previous awards?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: supporting_evidence
+      label: Supporting Evidence
+      hint: Any additional evidence or documentation to support the nomination
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: nomination_date
+      label: Nomination Date
+      hint: Date of nomination
+      type: date
+      options: []
+      required: true

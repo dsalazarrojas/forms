@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Image Advertisement Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: image
+      label: Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: ad_url
+      label: Ad URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Category 1''}'
+      - '{''id'': 2, ''name'': ''Category 2''}'
+      - '{''id'': 3, ''name'': ''Category 3''}'
+      required: false
+    - id: 6
+      name: ad_type
+      label: Ad Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Type 1''}'
+      - '{''id'': 2, ''name'': ''Type 2''}'
+      - '{''id'': 3, ''name'': ''Type 3''}'
+      required: false
+    - id: 7
+      name: ad_budget
+      label: Ad Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: ad_cost
+      label: Ad Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: ad_duration
+      label: Ad Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: ad_start_date
+      label: Ad Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: ad_start_time
+      label: Ad Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: ad_end_date
+      label: Ad End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: ad_end_time
+      label: Ad End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: ad_status
+      label: Ad Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Status 1''}'
+      - '{''id'': 2, ''name'': ''Status 2''}'
+      - '{''id'': 3, ''name'': ''Status 3''}'
+      required: false

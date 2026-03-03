@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Doctorate Committee Member Approval
+    pages:
+    - id: 1
+      name: committee_member_name
+      label: Committee Member Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: committee_member_email
+      label: Committee Member Email
+      hint: Enter prophets and/or email addresses of committee members
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: approval_decision
+      label: Approval Decision
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Pending
+      required: false
+    - id: 5
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: Enter comments on dissertation quality
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: evaluation_score
+      label: Evaluation Score (1-5)
+      hint: Enter score based on evaluation criteria
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: committee_member_signature
+      label: Committee Member Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Department of Computer Science
+      - Department of Mathematics
+      - Department of Statistics
+      required: false
+    - id: 9
+      name: committee_member_title
+      label: Committee Member Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: graduate_school
+      label: Graduate School
+      hint: null
+      type: select_multiple
+      options:
+      - University of California, Santa Cruz
+      - University of California, Santa Barbara
+      - University of California, Berkeley
+      required: false
