@@ -1,0 +1,111 @@
+name: Build and Deploy GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'docs/**'
+      - '*.yaml'
+      - '*.xlsx'
+  workflow_dispatch:
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow only one concurrent deployment
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Install dependencies
+        run: |
+          npm install -g pagefind
+
+      - name: Build forms index
+        run: |
+          # Generate forms-index.json if it doesn't exist
+          if [ ! -f docs/forms-index.json ]; then
+            echo "Generating forms-index.json..."
+            python3 << 'PYTHON_SCRIPT'
+            import json
+            import os
+            from pathlib import Path
+            from datetime import datetime
+            
+            forms_index = {
+                'generatedAt': datetime.now().isoformat(),
+                'totalForms': 0,
+                'forms': []
+            }
+            
+            # Walk through all category folders
+            for category in os.listdir('.'):
+                category_path = Path(category)
+                if not category_path.is_dir() or category.startswith('.'):
+                    continue
+                
+                # Find all YAML files
+                for yaml_file in category_path.glob('*.yaml'):
+                    if yaml_file.name.endswith('.bak'):
+                        continue
+                    
+                    # Extract form info
+                    form_info = {
+                        'id': yaml_file.stem,
+                        'title': yaml_file.stem.replace('_', ' ').title(),
+                        'category': category,
+                        'filePath': f'{category}/{yaml_file.name}',
+                        'xlsxPath': f'{category}/{yaml_file.stem}.xlsx',
+                        'questionCount': 0,  # Would need to parse YAML to get actual count
+                        'language': 'en',  # Default
+                        'questionTypes': [],
+                        'hasXlsForm': (category_path / f'{yaml_file.stem}.xlsx').exists()
+                    }
+                    forms_index['forms'].append(form_info)
+            
+            forms_index['totalForms'] = len(forms_index['forms'])
+            
+            # Save index
+            os.makedirs('docs', exist_ok=True)
+            with open('docs/forms-index.json', 'w') as f:
+                json.dump(forms_index, f, indent=2)
+            
+            print(f"Generated index with {forms_index['totalForms']} forms")
+            PYTHON_SCRIPT
+          fi
+
+      - name: Run Pagefind
+        run: |
+          npx pagefind --site docs --output-subdir pagefind
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./docs
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

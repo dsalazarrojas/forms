@@ -1,0 +1,524 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Preview - Forms Library</title>
+    <meta name="description" content="Preview and interact with this YAML form template.">
+    
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- js-yaml for parsing YAML -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js"></script>
+    
+    <!-- Syntax highlighting for YAML -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism-tomorrow.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/prism.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-yaml.min.js"></script>
+    
+    <style>
+        .tab-active {
+            border-bottom: 2px solid #4f46e5;
+            color: #4f46e5;
+        }
+        .tab-inactive {
+            color: #6b7280;
+        }
+        .tab-inactive:hover {
+            color: #374151;
+        }
+        .form-field {
+            margin-bottom: 1.5rem;
+        }
+        .form-label {
+            display: block;
+            font-weight: 500;
+            margin-bottom: 0.5rem;
+            color: #1f2937;
+        }
+        .form-hint {
+            font-size: 0.875rem;
+            color: #6b7280;
+            margin-top: 0.25rem;
+        }
+        .required-marker {
+            color: #dc2626;
+            margin-left: 0.25rem;
+        }
+    </style>
+</head>
+<body class="bg-gray-50">
+    <!-- Header -->
+    <header class="bg-white shadow-sm">
+        <div class="container mx-auto px-4 py-4">
+            <div class="flex items-center justify-between">
+                <a href="index.html" class="text-indigo-600 hover:text-indigo-800 font-medium">
+                    ← Back to Library
+                </a>
+                <div class="flex items-center space-x-4">
+                    <button id="download-yaml" class="bg-gray-100 hover:bg-gray-200 text-gray-800 font-medium py-2 px-4 rounded-md transition">
+                        📥 Download YAML
+                    </button>
+                    <button id="download-xlsx" class="bg-gray-100 hover:bg-gray-200 text-gray-800 font-medium py-2 px-4 rounded-md transition">
+                        📊 Download XLSX
+                    </button>
+                    <button id="print-pdf" class="bg-indigo-600 hover:bg-indigo-700 text-white font-medium py-2 px-4 rounded-md transition">
+                        🖨️ Print / PDF
+                    </button>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Form Title -->
+    <div class="bg-gradient-to-r from-indigo-600 to-purple-600 text-white py-8">
+        <div class="container mx-auto px-4">
+            <h1 id="form-title" class="text-3xl font-bold mb-2">Loading...</h1>
+            <p id="form-category" class="text-lg opacity-90"></p>
+            <div id="form-meta" class="flex items-center space-x-4 mt-4 text-sm opacity-75">
+                <!-- Meta info will be inserted here -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Content -->
+    <main class="container mx-auto px-4 py-8">
+        <!-- Tabs -->
+        <div class="bg-white rounded-lg shadow-sm mb-6">
+            <div class="border-b border-gray-200">
+                <nav class="flex -mb-px">
+                    <button class="tab-btn tab-active py-4 px-6 font-medium" data-tab="preview">
+                        👁️ Live Preview
+                    </button>
+                    <button class="tab-btn tab-inactive py-4 px-6 font-medium" data-tab="yaml">
+                        📄 Raw YAML
+                    </button>
+                    <button class="tab-btn tab-inactive py-4 px-6 font-medium" data-tab="odk">
+                        📱 ODK Collect Mock
+                    </button>
+                    <button class="tab-btn tab-inactive py-4 px-6 font-medium" data-tab="deploy">
+                        🚀 Deploy
+                    </button>
+                    <button class="tab-btn tab-inactive py-4 px-6 font-medium" data-tab="embed">
+                        🔗 Embed
+                    </button>
+                </nav>
+            </div>
+            
+            <!-- Tab Content -->
+            <div class="p-6">
+                <!-- Preview Tab -->
+                <div id="tab-preview" class="tab-content">
+                    <div id="form-renderer">
+                        <!-- Form will be rendered here -->
+                    </div>
+                </div>
+                
+                <!-- YAML Tab -->
+                <div id="tab-yaml" class="tab-content hidden">
+                    <div class="relative">
+                        <button id="copy-yaml" class="absolute top-2 right-2 bg-gray-700 hover:bg-gray-600 text-white text-sm font-medium py-1 px-3 rounded">
+                            📋 Copy
+                        </button>
+                        <pre class="bg-gray-900 rounded-lg p-4 max-h-[600px] overflow-auto"><code id="yaml-code" class="language-yaml"></code></pre>
+                    </div>
+                </div>
+                
+                <!-- ODK Mock Tab -->
+                <div id="tab-odk" class="tab-content hidden">
+                    <div class="bg-gray-100 rounded-lg p-6">
+                        <h3 class="text-lg font-semibold mb-4">ODK Collect Preview</h3>
+                        <div class="max-w-md mx-auto bg-white rounded-lg shadow-lg overflow-hidden">
+                            <div class="bg-green-600 text-white px-4 py-3">
+                                <div class="text-sm font-semibold">ODK Collect</div>
+                            </div>
+                            <div id="odk-mock-content" class="p-4">
+                                <!-- ODK mock will be rendered here -->
+                            </div>
+                        </div>
+                        <p class="text-sm text-gray-600 mt-4 text-center">
+                            This shows how the form would appear in ODK Collect or GicCollect app.
+                        </p>
+                    </div>
+                </div>
+                
+                <!-- Deploy Tab -->
+                <div id="tab-deploy" class="tab-content hidden">
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                        <!-- GicCollectCreator -->
+                        <div class="border border-gray-200 rounded-lg p-6">
+                            <div class="flex items-center mb-4">
+                                <span class="text-3xl mr-3">📱</span>
+                                <div>
+                                    <h3 class="font-semibold text-lg">GicCollectCreator (iOS)</h3>
+                                    <p class="text-sm text-gray-600">Convert to Google Forms, Tally, Formbricks</p>
+                                </div>
+                            </div>
+                            <p class="text-sm text-gray-600 mb-4">
+                                Open this form directly in GicCollectCreator to edit and publish to your preferred platform.
+                            </p>
+                            <a id="open-giccollectcreator" href="#" class="block text-center bg-blue-600 hover:bg-blue-700 text-white font-medium py-2 px-4 rounded-md transition">
+                                Open in App
+                            </a>
+                        </div>
+                        
+                        <!-- Cloudflare Workers -->
+                        <div class="border border-gray-200 rounded-lg p-6">
+                            <div class="flex items-center mb-4">
+                                <span class="text-3xl mr-3">⚡</span>
+                                <div>
+                                    <h3 class="font-semibold text-lg">Cloudflare Workers</h3>
+                                    <p class="text-sm text-gray-600">Deploy serverless survey</p>
+                                </div>
+                            </div>
+                            <p class="text-sm text-gray-600 mb-4">
+                                Deploy this form as a Cloudflare Worker using OneTimeUseWebApp.
+                            </p>
+                            <a id="deploy-cloudflare" href="#" class="block text-center bg-orange-500 hover:bg-orange-600 text-white font-medium py-2 px-4 rounded-md transition">
+                                Deploy to Cloudflare
+                            </a>
+                        </div>
+                        
+                        <!-- GicCollect -->
+                        <div class="border border-gray-200 rounded-lg p-6">
+                            <div class="flex items-center mb-4">
+                                <span class="text-3xl mr-3">📋</span>
+                                <div>
+                                    <h3 class="font-semibold text-lg">GicCollect (iOS)</h3>
+                                    <p class="text-sm text-gray-600">Offline data collection</p>
+                                </div>
+                            </div>
+                            <p class="text-sm text-gray-600 mb-4">
+                                Import this form for offline field data collection with ODK compatibility.
+                            </p>
+                            <a id="import-giccollect" href="#" class="block text-center bg-green-600 hover:bg-green-700 text-white font-medium py-2 px-4 rounded-md transition">
+                                Import to GicCollect
+                            </a>
+                        </div>
+                        
+                        <!-- Download XLSForm -->
+                        <div class="border border-gray-200 rounded-lg p-6">
+                            <div class="flex items-center mb-4">
+                                <span class="text-3xl mr-3">📊</span>
+                                <div>
+                                    <h3 class="font-semibold text-lg">XLSForm (.xlsx)</h3>
+                                    <p class="text-sm text-gray-600">ODK Collect compatible</p>
+                                </div>
+                            </div>
+                            <p class="text-sm text-gray-600 mb-4">
+                                Download the XLSForm file for use with ODK Collect, ODK Central, or other XLSForm-compatible tools.
+                            </p>
+                            <button id="download-xlsx-btn" class="block w-full text-center bg-indigo-600 hover:bg-indigo-700 text-white font-medium py-2 px-4 rounded-md transition">
+                                Download XLSX
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Embed Tab -->
+                <div id="tab-embed" class="tab-content hidden">
+                    <div class="bg-gray-50 rounded-lg p-6">
+                        <h3 class="text-lg font-semibold mb-4">Embed This Form</h3>
+                        <p class="text-gray-600 mb-4">
+                            Copy this code to embed the form preview on your website or blog:
+                        </p>
+                        <div class="relative">
+                            <button id="copy-embed" class="absolute top-2 right-2 bg-gray-700 hover:bg-gray-600 text-white text-sm font-medium py-1 px-3 rounded">
+                                📋 Copy
+                            </button>
+                            <pre class="bg-gray-900 text-white rounded-lg p-4 overflow-auto"><code id="embed-code"></code></pre>
+                        </div>
+                        <div class="mt-6">
+                            <h4 class="font-medium mb-2">Embed Options:</h4>
+                            <label class="flex items-center space-x-2">
+                                <input type="checkbox" id="embed-show-header" checked class="rounded border-gray-300 text-indigo-600 focus:ring-indigo-500">
+                                <span class="text-sm text-gray-700">Show header</span>
+                            </label>
+                            <label class="flex items-center space-x-2 mt-2">
+                                <input type="checkbox" id="embed-show-footer" checked class="rounded border-gray-300 text-indigo-600 focus:ring-indigo-500">
+                                <span class="text-sm text-gray-700">Show footer</span>
+                            </label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Disclaimer -->
+        <div class="bg-yellow-50 border border-yellow-200 rounded-lg p-4">
+            <h4 class="font-semibold text-yellow-800 mb-2">⚠️ Disclaimer</h4>
+            <p class="text-sm text-yellow-700">
+                This form is AI-generated and provided under CC BY 4.0 license. It is not affiliated with, endorsed by, or derived from Jotform or any other form platform. Always review and customize forms for your specific use case.
+            </p>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-gray-800 text-white py-8 mt-12">
+        <div class="container mx-auto px-4 text-center">
+            <p class="text-gray-400">
+                &copy; 2026 Daniel Salazar Rojas. Forms licensed under CC BY 4.0. Code licensed under MIT.
+            </p>
+            <p class="text-sm text-gray-500 mt-2">
+                Not affiliated with Jotform, Google Forms, ODK Collect, Tally, Formbricks, or Cloudflare.
+            </p>
+        </div>
+    </footer>
+
+    <!-- JavaScript -->
+    <script>
+        let currentForm = null;
+        let currentYaml = null;
+        
+        // Tab switching
+        document.querySelectorAll('.tab-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                // Update tab buttons
+                document.querySelectorAll('.tab-btn').forEach(b => {
+                    b.classList.remove('tab-active');
+                    b.classList.add('tab-inactive');
+                });
+                btn.classList.remove('tab-inactive');
+                btn.classList.add('tab-active');
+                
+                // Update tab content
+                document.querySelectorAll('.tab-content').forEach(c => c.classList.add('hidden'));
+                document.getElementById(`tab-${btn.dataset.tab}`).classList.remove('hidden');
+            });
+        });
+        
+        // Load form from URL parameter
+        async function loadForm() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const formPath = urlParams.get('form');
+            
+            if (!formPath) {
+                document.getElementById('form-title').textContent = 'Error: No form specified';
+                return;
+            }
+            
+            try {
+                // Fetch YAML file
+                const response = await fetch(formPath);
+                if (!response.ok) throw new Error('Form not found');
+                
+                currentYaml = await response.text();
+                currentForm = jsyaml.load(currentYaml);
+                
+                // Extract form data
+                const props = currentForm.inputSchema?.properties || {};
+                const title = props.title || 'Untitled Form';
+                const pages = props.pages || [];
+                
+                // Update header
+                document.getElementById('form-title').textContent = title.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+                document.getElementById('form-category').textContent = formPath.split('/')[0].replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+                
+                // Update meta
+                const metaHtml = `
+                    <span>📊 ${pages.length} questions</span>
+                    <span>🌐 ${currentForm.language || 'English'}</span>
+                    <span>📁 ${formPath}</span>
+                `;
+                document.getElementById('form-meta').innerHTML = metaHtml;
+                
+                // Render form
+                renderForm(pages);
+                renderOdkMock(pages);
+                
+                // Update YAML tab
+                document.getElementById('yaml-code').textContent = currentYaml;
+                Prism.highlightAll();
+                
+                // Update download buttons
+                document.getElementById('download-yaml').onclick = () => downloadFile(formPath, currentYaml, 'text/yaml');
+                document.getElementById('download-xlsx').onclick = () => downloadXlsx(formPath);
+                document.getElementById('download-xlsx-btn').onclick = () => downloadXlsx(formPath);
+                
+                // Update deep links
+                const encodedPath = encodeURIComponent(formPath);
+                document.getElementById('open-giccollectcreator').href = `giccollectcreator://open-form?id=${encodedPath}`;
+                document.getElementById('deploy-cloudflare').href = `onetimeweb://deploy-form?id=${encodedPath}`;
+                document.getElementById('import-giccollect').href = `giccollect://import-form?url=${encodedPath}`;
+                
+                // Update embed code
+                updateEmbedCode(formPath);
+                
+            } catch (error) {
+                console.error('Error loading form:', error);
+                document.getElementById('form-title').textContent = `Error: ${error.message}`;
+            }
+        }
+        
+        function renderForm(pages) {
+            const container = document.getElementById('form-renderer');
+            
+            container.innerHTML = pages.map((page, index) => {
+                const type = page.type || 'text';
+                const label = page.label || page.name || `Question ${index + 1}`;
+                const hint = page.hint || '';
+                const required = page.required ? '<span class="required-marker">*</span>' : '';
+                
+                let inputHtml = '';
+                
+                switch (type) {
+                    case 'text':
+                    case 'email':
+                    case 'number':
+                    case 'date':
+                    case 'time':
+                        inputHtml = `<input type="${type === 'text' ? 'text' : type}" class="w-full border border-gray-300 rounded-md px-3 py-2 focus:outline-none focus:ring-2 focus:ring-indigo-500" ${required ? 'required' : ''}>`;
+                        break;
+                    
+                    case 'select_one':
+                        const options = page.options || [];
+                        inputHtml = `
+                            <select class="w-full border border-gray-300 rounded-md px-3 py-2 focus:outline-none focus:ring-2 focus:ring-indigo-500" ${required ? 'required' : ''}>
+                                <option value="">Select an option</option>
+                                ${options.map(opt => `<option value="${opt}">${opt}</option>`).join('')}
+                            </select>
+                        `;
+                        break;
+                    
+                    case 'select_multiple':
+                        const multiOptions = page.options || [];
+                        inputHtml = `
+                            <div class="space-y-2">
+                                ${multiOptions.map((opt, i) => `
+                                    <label class="flex items-center">
+                                        <input type="checkbox" name="${page.name}" value="${opt}" class="rounded border-gray-300 text-indigo-600 focus:ring-indigo-500">
+                                        <span class="ml-2">${opt}</span>
+                                    </label>
+                                `).join('')}
+                            </div>
+                        `;
+                        break;
+                    
+                    case 'note':
+                        inputHtml = `<div class="bg-gray-50 border-l-4 border-indigo-500 p-4"><p class="text-gray-700">${label}</p></div>`;
+                        break;
+                    
+                    default:
+                        inputHtml = `<input type="text" class="w-full border border-gray-300 rounded-md px-3 py-2 focus:outline-none focus:ring-2 focus:ring-indigo-500">`;
+                }
+                
+                if (type === 'note') {
+                    return inputHtml;
+                }
+                
+                return `
+                    <div class="form-field">
+                        <label class="form-label">
+                            ${label.replace(/_/g, ' ')}
+                            ${required}
+                        </label>
+                        ${inputHtml}
+                        ${hint ? `<p class="form-hint">${hint}</p>` : ''}
+                    </div>
+                `;
+            }).join('');
+            
+            // Add submit button
+            container.innerHTML += `
+                <div class="mt-8">
+                    <button type="submit" class="bg-indigo-600 hover:bg-indigo-700 text-white font-medium py-2 px-6 rounded-md transition">
+                        Submit Form
+                    </button>
+                </div>
+            `;
+        }
+        
+        function renderOdkMock(pages) {
+            const container = document.getElementById('odk-mock-content');
+            
+            container.innerHTML = pages.map((page, index) => {
+                const type = page.type || 'text';
+                const label = page.label || page.name || `Question ${index + 1}`;
+                const required = page.required ? '<span class="text-red-600">*</span>' : '';
+                
+                let icon = '📝';
+                if (type === 'select_one') icon = '🔘';
+                if (type === 'select_multiple') icon = '☑️';
+                if (type === 'date') icon = '📅';
+                if (type === 'note') icon = '📋';
+                
+                if (type === 'note') {
+                    return `<div class="border-b border-gray-200 py-3"><p class="font-medium">${label}</p></div>`;
+                }
+                
+                return `
+                    <div class="border-b border-gray-200 py-4">
+                        <div class="flex items-start space-x-2">
+                            <span class="text-xl">${icon}</span>
+                            <div class="flex-1">
+                                <p class="font-medium text-gray-900">${label.replace(/_/g, ' ')} ${required}</p>
+                                <p class="text-sm text-gray-500 mt-1">${type}</p>
+                            </div>
+                        </div>
+                    </div>
+                `;
+            }).join('');
+        }
+        
+        function downloadFile(path, content, mimeType) {
+            const blob = new Blob([content], { type: mimeType });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = path.split('/').pop();
+            a.click();
+            URL.revokeObjectURL(url);
+        }
+        
+        function downloadXlsx(formPath) {
+            const xlsxPath = formPath.replace('.yaml', '.xlsx');
+            window.location.href = xlsxPath;
+        }
+        
+        function updateEmbedCode(formPath) {
+            const showHeader = document.getElementById('embed-show-header').checked;
+            const showFooter = document.getElementById('embed-show-footer').checked;
+            
+            const baseUrl = window.location.origin;
+            const embedUrl = `${baseUrl}/preview.html?form=${encodeURIComponent(formPath)}&embed=true${!showHeader ? '&no-header=true' : ''}${!showFooter ? '&no-footer=true' : ''}`;
+            
+            const embedCode = `<iframe 
+  src="${embedUrl}"
+  width="100%" 
+  height="600"
+  frameborder="0"
+  style="border-radius: 8px;">
+</iframe>`;
+            
+            document.getElementById('embed-code').textContent = embedCode;
+        }
+        
+        // Copy buttons
+        document.getElementById('copy-yaml').addEventListener('click', () => {
+            navigator.clipboard.writeText(currentYaml);
+            const btn = document.getElementById('copy-yaml');
+            btn.textContent = '✅ Copied!';
+            setTimeout(() => btn.textContent = '📋 Copy', 2000);
+        });
+        
+        document.getElementById('copy-embed').addEventListener('click', () => {
+            navigator.clipboard.writeText(document.getElementById('embed-code').textContent);
+            const btn = document.getElementById('copy-embed');
+            btn.textContent = '✅ Copied!';
+            setTimeout(() => btn.textContent = '📋 Copy', 2000);
+        });
+        
+        document.getElementById('embed-show-header').addEventListener('change', () => updateEmbedCode(new URLSearchParams(window.location.search).get('form')));
+        document.getElementById('embed-show-footer').addEventListener('change', () => updateEmbedCode(new URLSearchParams(window.location.search).get('form')));
+        
+        // Print button
+        document.getElementById('print-pdf').addEventListener('click', () => {
+            window.print();
+        });
+        
+        // Initialize
+        window.addEventListener('DOMContentLoaded', loadForm);
+    </script>
+</body>
+</html>

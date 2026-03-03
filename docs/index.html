@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms Library - 100,000+ Free AI-Generated YAML Form Templates</title>
+    <meta name="description" content="Browse 100,000+ free AI-generated YAML survey templates compatible with ODK Collect, Google Forms, Tally, Formbricks, and Cloudflare Workers.">
+    
+    <!-- Tailwind CSS (CDN for v1 - no build step needed) -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- Pagefind CSS -->
+    <link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
+    
+    <!-- Custom Styles -->
+    <style>
+        .category-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+        }
+        .gradient-bg {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+        .badge {
+            display: inline-block;
+            padding: 0.25rem 0.5rem;
+            font-size: 0.75rem;
+            border-radius: 9999px;
+            font-weight: 500;
+        }
+        .badge-odk { background-color: #00a9f0; color: white; }
+        .badge-cloudflare { background-color: #f38020; color: white; }
+        .badge-es { background-color: #fbbf24; color: black; }
+    </style>
+</head>
+<body class="bg-gray-50">
+    <!-- Header -->
+    <header class="gradient-bg text-white py-12">
+        <div class="container mx-auto px-4">
+            <div class="text-center">
+                <h1 class="text-5xl font-bold mb-4">📋 Forms Library</h1>
+                <p class="text-xl opacity-90 mb-6">100,000+ Free AI-Generated YAML Form Templates</p>
+                <p class="text-lg opacity-75 mb-8">Compatible with ODK Collect, Google Forms, Tally, Formbricks, and Cloudflare Workers</p>
+                
+                <!-- Search Bar -->
+                <div class="max-w-2xl mx-auto">
+                    <div id="search" class="relative"></div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Stats Bar -->
+    <div class="bg-white shadow-sm border-b">
+        <div class="container mx-auto px-4 py-6">
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-4 text-center">
+                <div>
+                    <div class="text-3xl font-bold text-indigo-600" id="total-forms">-</div>
+                    <div class="text-gray-600">Total Forms</div>
+                </div>
+                <div>
+                    <div class="text-3xl font-bold text-indigo-600" id="total-categories">-</div>
+                    <div class="text-gray-600">Categories</div>
+                </div>
+                <div>
+                    <div class="text-3xl font-bold text-indigo-600" id="english-forms">-</div>
+                    <div class="text-gray-600">English Forms</div>
+                </div>
+                <div>
+                    <div class="text-3xl font-bold text-indigo-600" id="spanish-forms">-</div>
+                    <div class="text-gray-600">Spanish Forms</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Content -->
+    <main class="container mx-auto px-4 py-12">
+        <!-- Filters -->
+        <div class="bg-white rounded-lg shadow-sm p-6 mb-8">
+            <h2 class="text-lg font-semibold mb-4">Filters</h2>
+            <div class="grid grid-cols-1 md:grid-cols-4 gap-4">
+                <!-- Category Filter -->
+                <div>
+                    <label class="block text-sm font-medium text-gray-700 mb-2">Category</label>
+                    <select id="category-filter" class="w-full border-gray-300 rounded-md shadow-sm focus:border-indigo-500 focus:ring-indigo-500">
+                        <option value="">All Categories</option>
+                    </select>
+                </div>
+                
+                <!-- Language Filter -->
+                <div>
+                    <label class="block text-sm font-medium text-gray-700 mb-2">Language</label>
+                    <select id="language-filter" class="w-full border-gray-300 rounded-md shadow-sm focus:border-indigo-500 focus:ring-indigo-500">
+                        <option value="">All Languages</option>
+                        <option value="en">English</option>
+                        <option value="es">Spanish</option>
+                    </select>
+                </div>
+                
+                <!-- Question Count Filter -->
+                <div>
+                    <label class="block text-sm font-medium text-gray-700 mb-2">Questions</label>
+                    <select id="questions-filter" class="w-full border-gray-300 rounded-md shadow-sm focus:border-indigo-500 focus:ring-indigo-500">
+                        <option value="">Any</option>
+                        <option value="short">Short (5-10)</option>
+                        <option value="medium">Medium (11-20)</option>
+                        <option value="long">Long (20+)</option>
+                    </select>
+                </div>
+                
+                <!-- Reset Button -->
+                <div class="flex items-end">
+                    <button id="reset-filters" class="w-full bg-gray-200 hover:bg-gray-300 text-gray-800 font-medium py-2 px-4 rounded-md transition">
+                        Reset Filters
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Categories Grid -->
+        <div class="mb-12">
+            <h2 class="text-2xl font-bold mb-6">Browse by Category</h2>
+            <div id="categories-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+                <!-- Categories will be loaded here -->
+            </div>
+        </div>
+
+        <!-- Recent Forms -->
+        <div>
+            <h2 class="text-2xl font-bold mb-6">Recent Forms</h2>
+            <div id="recent-forms" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                <!-- Recent forms will be loaded here -->
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-gray-800 text-white py-12 mt-12">
+        <div class="container mx-auto px-4">
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+                <!-- About -->
+                <div>
+                    <h3 class="text-lg font-semibold mb-4">Forms Library</h3>
+                    <p class="text-gray-400 mb-4">
+                        100,000+ free AI-generated YAML survey templates for every industry and use case.
+                    </p>
+                    <div class="flex space-x-4">
+                        <a href="https://github.com/dsalazarrojas/forms" class="text-gray-400 hover:text-white">GitHub</a>
+                        <a href="https://gic.mx" class="text-gray-400 hover:text-white">gic.mx</a>
+                    </div>
+                </div>
+                
+                <!-- Apps -->
+                <div>
+                    <h3 class="text-lg font-semibold mb-4">GIC Ecosystem</h3>
+                    <ul class="space-y-2 text-gray-400">
+                        <li><a href="https://apps.apple.com/app/giccollectcreator" class="hover:text-white">GicCollectCreator (iOS)</a></li>
+                        <li><a href="https://apps.apple.com/app/giccollect" class="hover:text-white">GicCollect (iOS)</a></li>
+                        <li><a href="https://github.com/dsalazarrojas/oneTimeUseWebApp" class="hover:text-white">OneTimeUseWebApp (macOS)</a></li>
+                    </ul>
+                </div>
+                
+                <!-- Legal -->
+                <div>
+                    <h3 class="text-lg font-semibold mb-4">Legal</h3>
+                    <ul class="space-y-2 text-gray-400">
+                        <li><a href="https://github.com/dsalazarrojas/forms/blob/main/LICENSE-FORMS" class="hover:text-white">License (Forms)</a></li>
+                        <li><a href="https://github.com/dsalazarrojas/forms/blob/main/LICENSE-CODE" class="hover:text-white">License (Code)</a></li>
+                    </ul>
+                    
+                    <!-- Disclaimer -->
+                    <div class="mt-6 p-4 bg-gray-700 rounded-lg">
+                        <p class="text-sm text-gray-300">
+                            <strong>Disclaimer:</strong> All forms are AI-generated original works. Not affiliated with Jotform or any other platform.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="border-t border-gray-700 mt-8 pt-8 text-center text-gray-400">
+                <p>&copy; 2026 Daniel Salazar Rojas. Licensed under CC BY 4.0 (forms) and MIT (code).</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Pagefind JS -->
+    <script src="/pagefind/pagefind-ui.js" type="text/javascript"></script>
+    
+    <!-- Custom JS -->
+    <script>
+        // Load forms index
+        let formsIndex = null;
+        
+        async function loadFormsIndex() {
+            try {
+                const response = await fetch('forms-index.json');
+                formsIndex = await response.json();
+                
+                // Update stats
+                document.getElementById('total-forms').textContent = formsIndex.totalForms.toLocaleString();
+                
+                const categories = new Set(formsIndex.forms.map(f => f.category));
+                document.getElementById('total-categories').textContent = categories.size.toLocaleString();
+                
+                const english = formsIndex.forms.filter(f => f.language === 'en').length;
+                const spanish = formsIndex.forms.filter(f => f.language === 'es').length;
+                document.getElementById('english-forms').textContent = english.toLocaleString();
+                document.getElementById('spanish-forms').textContent = spanish.toLocaleString();
+                
+                // Populate category filter
+                const categoryFilter = document.getElementById('category-filter');
+                categories.forEach(cat => {
+                    const option = document.createElement('option');
+                    option.value = cat;
+                    option.textContent = cat.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+                    categoryFilter.appendChild(option);
+                });
+                
+                // Render categories grid
+                renderCategoriesGrid(categories);
+                
+                // Render recent forms
+                renderRecentForms();
+                
+            } catch (error) {
+                console.error('Error loading forms index:', error);
+            }
+        }
+        
+        function renderCategoriesGrid(categories) {
+            const grid = document.getElementById('categories-grid');
+            const categoryCounts = {};
+            
+            formsIndex.forms.forEach(form => {
+                categoryCounts[form.category] = (categoryCounts[form.category] || 0) + 1;
+            });
+            
+            // Sort by count (descending)
+            const sorted = Array.from(categories).sort((a, b) => categoryCounts[b] - categoryCounts[a]);
+            
+            grid.innerHTML = sorted.map(cat => `
+                <a href="#category=${encodeURIComponent(cat)}" class="category-card bg-white rounded-lg shadow-sm p-6 border border-gray-200 transition-all block">
+                    <h3 class="text-lg font-semibold text-gray-900 mb-2">
+                        ${cat.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase())}
+                    </h3>
+                    <p class="text-gray-600">${categoryCounts[cat].toLocaleString()} forms</p>
+                    ${cat.includes('health') || cat.includes('medical') ? '<span class="badge badge-odk mt-2">ODK-ready</span>' : ''}
+                    ${cat.includes('cloud') || cat.includes('worker') ? '<span class="badge badge-cloudflare mt-2 ml-2">Cloudflare</span>' : ''}
+                </a>
+            `).join('');
+        }
+        
+        function renderRecentForms() {
+            const container = document.getElementById('recent-forms');
+            const recent = formsIndex.forms.slice(-9).reverse();
+            
+            container.innerHTML = recent.map(form => `
+                <div class="bg-white rounded-lg shadow-sm p-6 border border-gray-200">
+                    <div class="flex items-start justify-between mb-2">
+                        <h3 class="text-lg font-semibold text-gray-900 line-clamp-2">
+                            ${form.title}
+                        </h3>
+                        ${form.language === 'es' ? '<span class="badge badge-es">ES</span>' : ''}
+                    </div>
+                    <p class="text-sm text-gray-600 mb-3">${form.category.replace(/_/g, ' ')}</p>
+                    <div class="flex items-center justify-between">
+                        <span class="text-xs text-gray-500">${form.questionCount} questions</span>
+                        <a href="preview.html?form=${encodeURIComponent(form.filePath)}" class="text-indigo-600 hover:text-indigo-800 text-sm font-medium">
+                            Preview →
+                        </a>
+                    </div>
+                </div>
+            `).join('');
+        }
+        
+        // Initialize Pagefind
+        window.addEventListener('DOMContentLoaded', () => {
+            new PagefindUI({ 
+                element: "#search",
+                showSubResults: true,
+                ranking: ["term_similarity", "term_frequency", "page_length"]
+            });
+            
+            loadFormsIndex();
+        });
+        
+        // Filter functionality
+        document.getElementById('category-filter').addEventListener('change', filterForms);
+        document.getElementById('language-filter').addEventListener('change', filterForms);
+        document.getElementById('questions-filter').addEventListener('change', filterForms);
+        document.getElementById('reset-filters').addEventListener('click', () => {
+            document.getElementById('category-filter').value = '';
+            document.getElementById('language-filter').value = '';
+            document.getElementById('questions-filter').value = '';
+            filterForms();
+        });
+        
+        function filterForms() {
+            const category = document.getElementById('category-filter').value;
+            const language = document.getElementById('language-filter').value;
+            const questions = document.getElementById('questions-filter').value;
+            
+            let filtered = formsIndex.forms;
+            
+            if (category) filtered = filtered.filter(f => f.category === category);
+            if (language) filtered = filtered.filter(f => f.language === language);
+            
+            if (questions === 'short') filtered = filtered.filter(f => f.questionCount >= 5 && f.questionCount <= 10);
+            if (questions === 'medium') filtered = filtered.filter(f => f.questionCount > 10 && f.questionCount <= 20);
+            if (questions === 'long') filtered = filtered.filter(f => f.questionCount > 20);
+            
+            // Update recent forms with filtered results
+            const container = document.getElementById('recent-forms');
+            const recent = filtered.slice(-9).reverse();
+            
+            container.innerHTML = recent.map(form => `
+                <div class="bg-white rounded-lg shadow-sm p-6 border border-gray-200">
+                    <div class="flex items-start justify-between mb-2">
+                        <h3 class="text-lg font-semibold text-gray-900 line-clamp-2">
+                            ${form.title}
+                        </h3>
+                        ${form.language === 'es' ? '<span class="badge badge-es">ES</span>' : ''}
+                    </div>
+                    <p class="text-sm text-gray-600 mb-3">${form.category.replace(/_/g, ' ')}</p>
+                    <div class="flex items-center justify-between">
+                        <span class="text-xs text-gray-500">${form.questionCount} questions</span>
+                        <a href="preview.html?form=${encodeURIComponent(form.filePath)}" class="text-indigo-600 hover:text-indigo-800 text-sm font-medium">
+                            Preview →
+                        </a>
+                    </div>
+                </div>
+            `).join('');
+        }
+    </script>
+</body>
+</html>
